@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/692211",
+    "id": "692211",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robot metal working presses",
+    "harm": {
+      "id": "0045493",
+      "title": "692211 - Robot metal working presses",
+      "conceptLink": "/ec2/concept/5993049"
+    }
+  },
+  {
+    "uri": "en/7/692223",
+    "id": "692223",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic apparatus for handling materials",
+    "harm": {
+      "id": "0016692",
+      "title": "692223 - Robotic apparatus for handling materials",
+      "conceptLink": "/ec2/concept/5966754"
+    }
+  },
+  {
+    "uri": "en/7/109955940",
+    "id": "109955940",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic arms for industrial purposes",
+    "harm": {
+      "id": "0065594",
+      "title": "109955940 - Robotic arms for industrial purposes",
+      "conceptLink": "/ec2/concept/6001797"
+    }
+  },
+  {
+    "uri": "en/7/232623701",
+    "id": "232623701",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic cleaners for household purposes",
+    "harm": {
+      "id": "0072097",
+      "title": "232623701 - Robotic cleaners for household purposes",
+      "conceptLink": "/ec2/concept/6008280"
+    }
+  },
+  {
+    "uri": "en/7/692267",
+    "id": "692267",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic cleaning machines",
+    "harm": {
+      "id": "0041330",
+      "title": "692267 - Robotic cleaning machines",
+      "conceptLink": "/ec2/concept/5989250"
+    }
+  },
+  {
+    "uri": "en/7/692238",
+    "id": "692238",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic cleaning [polishing] machines for floors",
+    "harm": {
+      "id": "0022550",
+      "title": "692238 - Robotic cleaning [polishing] machines for floors",
+      "conceptLink": "/ec2/concept/5972094"
+    }
+  },
+  {
+    "uri": "en/7/692252",
+    "id": "692252",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic cleaning [vacuuming] machines for floors",
+    "harm": {
+      "id": "0045494",
+      "title": "692252 - Robotic cleaning [vacuuming] machines for floors",
+      "conceptLink": "/ec2/concept/5993050"
+    }
+  },
+  {
+    "uri": "en/7/232623014",
+    "id": "232623014",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic compressed air pumps",
+    "harm": {
+      "id": "0072041",
+      "title": "232623014 - Robotic compressed air pumps",
+      "conceptLink": "/ec2/concept/6008225"
+    }
+  },
+  {
+    "uri": "en/7/233107548",
+    "id": "233107548",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic compressors",
+    "harm": {
+      "id": "0072373",
+      "title": "233107548 - Robotic compressors",
+      "conceptLink": "/ec2/concept/6008555"
+    }
+  },
+  {
+    "uri": "en/7/233107549",
+    "id": "233107549",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric arc cutting apparatus",
+    "harm": {
+      "id": "0072374",
+      "title": "233107549 - Robotic electric arc cutting apparatus",
+      "conceptLink": "/ec2/concept/6008556"
+    }
+  },
+  {
+    "uri": "en/7/232623121",
+    "id": "232623121",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric arc welding apparatus",
+    "harm": {
+      "id": "0072043",
+      "title": "232623121 - Robotic electric arc welding apparatus",
+      "conceptLink": "/ec2/concept/6008227"
+    }
+  },
+  {
+    "uri": "en/7/232620099",
+    "id": "232620099",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric glue guns",
+    "harm": {
+      "id": "0071781",
+      "title": "232620099 - Robotic electric glue guns",
+      "conceptLink": "/ec2/concept/6007968"
+    }
+  },
+  {
+    "uri": "en/7/233107546",
+    "id": "233107546",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric hand drills",
+    "harm": {
+      "id": "0072371",
+      "title": "233107546 - Robotic electric hand drills",
+      "conceptLink": "/ec2/concept/6008553"
+    }
+  },
+  {
+    "uri": "en/7/232620095",
+    "id": "232620095",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric punching machines",
+    "harm": {
+      "id": "0071779",
+      "title": "232620095 - Robotic electric punching machines",
+      "conceptLink": "/ec2/concept/6007966"
+    }
+  },
+  {
+    "uri": "en/7/232623570",
+    "id": "232623570",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electric welding apparatus",
+    "harm": {
+      "id": "0018226",
+      "title": "232623570 - Robotic electric welding apparatus",
+      "conceptLink": "/ec2/concept/5968141"
+    }
+  },
+  {
+    "uri": "en/7/549150",
+    "id": "549150",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electrical welding apparatus",
+    "harm": {
+      "id": "0018226",
+      "title": "549150 - Robotic electrical welding apparatus",
+      "conceptLink": "/ec2/concept/5968141"
+    }
+  },
+  {
+    "uri": "en/7/549151",
+    "id": "549151",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic electrical welding machines",
+    "harm": {
+      "id": "0018226",
+      "title": "549151 - Robotic electrical welding machines",
+      "conceptLink": "/ec2/concept/5968141"
+    }
+  },
+  {
+    "uri": "en/7/233107555",
+    "id": "233107555",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic filling machines",
+    "harm": {
+      "id": "0072377",
+      "title": "233107555 - Robotic filling machines",
+      "conceptLink": "/ec2/concept/6008559"
+    }
+  },
+  {
+    "uri": "en/7/232623145",
+    "id": "232623145",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic finishing machines",
+    "harm": {
+      "id": "0072045",
+      "title": "232623145 - Robotic finishing machines",
+      "conceptLink": "/ec2/concept/6008229"
+    }
+  },
+  {
+    "uri": "en/7/232622991",
+    "id": "232622991",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic guns for compressed air spraying machines",
+    "harm": {
+      "id": "0072039",
+      "title": "232622991 - Robotic guns for compressed air spraying machines",
+      "conceptLink": "/ec2/concept/6008223"
+    }
+  },
+  {
+    "uri": "en/7/233107545",
+    "id": "233107545",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic guns for compressed liquid spraying machines",
+    "harm": {
+      "id": "0072370",
+      "title": "233107545 - Robotic guns for compressed liquid spraying machines",
+      "conceptLink": "/ec2/concept/6008552"
+    }
+  },
+  {
+    "uri": "en/7/692279",
+    "id": "692279",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic handling apparatus",
+    "harm": {
+      "id": "0035563",
+      "title": "692279 - Robotic handling apparatus",
+      "conceptLink": "/ec2/concept/5983988"
+    }
+  },
+  {
+    "uri": "en/7/233107547",
+    "id": "233107547",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic jigsaw machines",
+    "harm": {
+      "id": "0072372",
+      "title": "233107547 - Robotic jigsaw machines",
+      "conceptLink": "/ec2/concept/6008554"
+    }
+  },
+  {
+    "uri": "en/7/232623146",
+    "id": "232623146",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic labelling machines",
+    "harm": {
+      "id": "0072046",
+      "title": "232623146 - Robotic labelling machines",
+      "conceptLink": "/ec2/concept/6008230"
+    }
+  },
+  {
+    "uri": "en/7/692292",
+    "id": "692292",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic loaders for diffusion furnaces",
+    "harm": {
+      "id": "0018227",
+      "title": "692292 - Robotic loaders for diffusion furnaces",
+      "conceptLink": "/ec2/concept/5968142"
+    }
+  },
+  {
+    "uri": "en/7/232620082",
+    "id": "232620082",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for conveying",
+    "harm": {
+      "id": "0071764",
+      "title": "232620082 - Robotic mechanisms for conveying",
+      "conceptLink": "/ec2/concept/6007951"
+    }
+  },
+  {
+    "uri": "en/7/232620017",
+    "id": "232620017",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for lifting",
+    "harm": {
+      "id": "0071756",
+      "title": "232620017 - Robotic mechanisms for lifting",
+      "conceptLink": "/ec2/concept/6007943"
+    }
+  },
+  {
+    "uri": "en/7/232622982",
+    "id": "232622982",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for shaping glass",
+    "harm": {
+      "id": "0072033",
+      "title": "232622982 - Robotic mechanisms for shaping glass",
+      "conceptLink": "/ec2/concept/6008217"
+    }
+  },
+  {
+    "uri": "en/7/232622983",
+    "id": "232622983",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for shaping plastic material",
+    "harm": {
+      "id": "0072034",
+      "title": "232622983 - Robotic mechanisms for shaping plastic material",
+      "conceptLink": "/ec2/concept/6008218"
+    }
+  },
+  {
+    "uri": "en/7/232622958",
+    "id": "232622958",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for shaping wood",
+    "harm": {
+      "id": "0072029",
+      "title": "232622958 - Robotic mechanisms for shaping wood",
+      "conceptLink": "/ec2/concept/6008213"
+    }
+  },
+  {
+    "uri": "en/7/232622960",
+    "id": "232622960",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for shaping metal",
+    "harm": {
+      "id": "0072031",
+      "title": "232622960 - Robotic mechanisms for shaping metal",
+      "conceptLink": "/ec2/concept/6008215"
+    }
+  },
+  {
+    "uri": "en/7/232620083",
+    "id": "232620083",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for transportation",
+    "harm": {
+      "id": "0071765",
+      "title": "232620083 - Robotic mechanisms for transportation",
+      "conceptLink": "/ec2/concept/6007952"
+    }
+  },
+  {
+    "uri": "en/7/232622985",
+    "id": "232622985",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for use in processing cereals",
+    "harm": {
+      "id": "0072035",
+      "title": "232622985 - Robotic mechanisms for use in processing cereals",
+      "conceptLink": "/ec2/concept/6008219"
+    }
+  },
+  {
+    "uri": "en/7/232622988",
+    "id": "232622988",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for use in processing fruits",
+    "harm": {
+      "id": "0072036",
+      "title": "232622988 - Robotic mechanisms for use in processing fruits",
+      "conceptLink": "/ec2/concept/6008220"
+    }
+  },
+  {
+    "uri": "en/7/232622989",
+    "id": "232622989",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for use in processing vegetables",
+    "harm": {
+      "id": "0072037",
+      "title": "232622989 - Robotic mechanisms for use in processing vegetables",
+      "conceptLink": "/ec2/concept/6008221"
+    }
+  },
+  {
+    "uri": "en/7/232622990",
+    "id": "232622990",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for use in processing food",
+    "harm": {
+      "id": "0072038",
+      "title": "232622990 - Robotic mechanisms for use in processing food",
+      "conceptLink": "/ec2/concept/6008222"
+    }
+  },
+  {
+    "uri": "en/7/232620015",
+    "id": "232620015",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for working glass",
+    "harm": {
+      "id": "0071754",
+      "title": "232620015 - Robotic mechanisms for working glass",
+      "conceptLink": "/ec2/concept/6007941"
+    }
+  },
+  {
+    "uri": "en/7/232620014",
+    "id": "232620014",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for working metal",
+    "harm": {
+      "id": "0071753",
+      "title": "232620014 - Robotic mechanisms for working metal",
+      "conceptLink": "/ec2/concept/6007940"
+    }
+  },
+  {
+    "uri": "en/7/232620016",
+    "id": "232620016",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for working plastic material",
+    "harm": {
+      "id": "0071755",
+      "title": "232620016 - Robotic mechanisms for working plastic material",
+      "conceptLink": "/ec2/concept/6007942"
+    }
+  },
+  {
+    "uri": "en/7/232619988",
+    "id": "232619988",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms for working wood",
+    "harm": {
+      "id": "0071747",
+      "title": "232619988 - Robotic mechanisms for working wood",
+      "conceptLink": "/ec2/concept/6007934"
+    }
+  },
+  {
+    "uri": "en/7/232620085",
+    "id": "232620085",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms used in agriculture",
+    "harm": {
+      "id": "0071769",
+      "title": "232620085 - Robotic mechanisms used in agriculture",
+      "conceptLink": "/ec2/concept/6007956"
+    }
+  },
+  {
+    "uri": "en/7/232620086",
+    "id": "232620086",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic mechanisms used in viticulture",
+    "harm": {
+      "id": "0071770",
+      "title": "232620086 - Robotic mechanisms used in viticulture",
+      "conceptLink": "/ec2/concept/6007957"
+    }
+  },
+  {
+    "uri": "en/7/232622992",
+    "id": "232622992",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic motor hand saws",
+    "harm": {
+      "id": "0072040",
+      "title": "232622992 - Robotic motor hand saws",
+      "conceptLink": "/ec2/concept/6008224"
+    }
+  },
+  {
+    "uri": "en/7/233107553",
+    "id": "233107553",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic packaging machines",
+    "harm": {
+      "id": "0072376",
+      "title": "233107553 - Robotic packaging machines",
+      "conceptLink": "/ec2/concept/6008558"
+    }
+  },
+  {
+    "uri": "en/7/232620093",
+    "id": "232620093",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic painting machines",
+    "harm": {
+      "id": "0071777",
+      "title": "232620093 - Robotic painting machines",
+      "conceptLink": "/ec2/concept/6007964"
+    }
+  },
+  {
+    "uri": "en/7/232623122",
+    "id": "232623122",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic plugging machines",
+    "harm": {
+      "id": "0072044",
+      "title": "232623122 - Robotic plugging machines",
+      "conceptLink": "/ec2/concept/6008228"
+    }
+  },
+  {
+    "uri": "en/7/233107556",
+    "id": "233107556",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic separators",
+    "harm": {
+      "id": "0072378",
+      "title": "233107556 - Robotic separators",
+      "conceptLink": "/ec2/concept/6008560"
+    }
+  },
+  {
+    "uri": "en/7/692304",
+    "id": "692304",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic swimming pool cleaning machines",
+    "harm": {
+      "id": "0024028",
+      "title": "692304 - Robotic swimming pool cleaning machines",
+      "conceptLink": "/ec2/concept/5973452"
+    }
+  },
+  {
+    "uri": "en/7/789754",
+    "id": "789754",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic vacuum cleaners",
+    "harm": {
+      "id": "0008269",
+      "title": "789754 - Robotic vacuum cleaners",
+      "conceptLink": "/ec2/concept/5959021"
+    }
+  },
+  {
+    "uri": "en/7/232623015",
+    "id": "232623015",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic vehicle washing installations",
+    "harm": {
+      "id": "0072042",
+      "title": "232623015 - Robotic vehicle washing installations",
+      "conceptLink": "/ec2/concept/6008226"
+    }
+  },
+  {
+    "uri": "en/7/232623569",
+    "id": "232623569",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robotic welding machines",
+    "harm": {
+      "id": "0072073",
+      "title": "232623569 - Robotic welding machines",
+      "conceptLink": "/ec2/concept/6008256"
+    }
+  },
+  {
+    "uri": "en/7/692320",
+    "id": "692320",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for feeding workpieces",
+    "harm": {
+      "id": "0035564",
+      "title": "692320 - Robots for feeding workpieces",
+      "conceptLink": "/ec2/concept/5983989"
+    }
+  },
+  {
+    "uri": "en/7/692333",
+    "id": "692333",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for handling rods",
+    "harm": {
+      "id": "0000845",
+      "title": "692333 - Robots for handling rods",
+      "conceptLink": "/ec2/concept/5952248"
+    }
+  },
+  {
+    "uri": "en/7/692347",
+    "id": "692347",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for industrial use",
+    "harm": {
+      "id": "0006622",
+      "title": "692347 - Robots for industrial use",
+      "conceptLink": "/ec2/concept/5957519"
+    }
+  },
+  {
+    "uri": "en/7/692369",
+    "id": "692369",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for machine tools",
+    "harm": {
+      "id": "0006623",
+      "title": "692369 - Robots for machine tools",
+      "conceptLink": "/ec2/concept/5957520"
+    }
+  },
+  {
+    "uri": "en/7/692382",
+    "id": "692382",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for transferring workpieces",
+    "harm": {
+      "id": "0000846",
+      "title": "692382 - Robots for transferring workpieces",
+      "conceptLink": "/ec2/concept/5952249"
+    }
+  },
+  {
+    "uri": "en/7/692348",
+    "id": "692348",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for use in industry",
+    "harm": {
+      "id": "0006622",
+      "title": "692348 - Robots for use in industry",
+      "conceptLink": "/ec2/concept/5957519"
+    }
+  },
+  {
+    "uri": "en/7/692394",
+    "id": "692394",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots for welding",
+    "harm": {
+      "id": "0029762",
+      "title": "692394 - Robots for welding",
+      "conceptLink": "/ec2/concept/5978709"
+    }
+  },
+  {
+    "uri": "en/7/126947",
+    "id": "126947",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots [machines]",
+    "harm": {
+      "id": "0024468",
+      "title": "126947 - Robots [machines]",
+      "conceptLink": "/ec2/concept/5973853"
+    }
+  },
+  {
+    "uri": "en/7/692411",
+    "id": "692411",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Robots with articulated arms for manipulating workpieces",
+    "harm": {
+      "id": "0000847",
+      "title": "692411 - Robots with articulated arms for manipulating workpieces",
+      "conceptLink": "/ec2/concept/5952250"
+    }
+  },
+  {
+    "uri": "en/7/692425",
+    "id": "692425",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock bits for drilling machines",
+    "harm": {
+      "id": "0029763",
+      "title": "692425 - Rock bits for drilling machines",
+      "conceptLink": "/ec2/concept/5978710"
+    }
+  },
+  {
+    "uri": "en/7/692441",
+    "id": "692441",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock breaking machines",
+    "harm": {
+      "id": "0041331",
+      "title": "692441 - Rock breaking machines",
+      "conceptLink": "/ec2/concept/5989251"
+    }
+  },
+  {
+    "uri": "en/7/323970",
+    "id": "323970",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock drills",
+    "harm": {
+      "id": "0029764",
+      "title": "323970 - Rock drills",
+      "conceptLink": "/ec2/concept/5978711"
+    }
+  },
+  {
+    "uri": "en/7/692453",
+    "id": "692453",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock drills [machine tools]",
+    "harm": {
+      "id": "0024029",
+      "title": "692453 - Rock drills [machine tools]",
+      "conceptLink": "/ec2/concept/5973453"
+    }
+  },
+  {
+    "uri": "en/7/692468",
+    "id": "692468",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock drills [machines]",
+    "harm": {
+      "id": "0029764",
+      "title": "692468 - Rock drills [machines]",
+      "conceptLink": "/ec2/concept/5978711"
+    }
+  },
+  {
+    "uri": "en/7/692485",
+    "id": "692485",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rock drills [parts of machines]",
+    "harm": {
+      "id": "0006624",
+      "title": "692485 - Rock drills [parts of machines]",
+      "conceptLink": "/ec2/concept/5957521"
+    }
+  },
+  {
+    "uri": "en/7/120895145",
+    "id": "120895145",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms for engines",
+    "harm": {
+      "id": "0035565",
+      "title": "120895145 - Rocker arms for engines",
+      "conceptLink": "/ec2/concept/5983990"
+    }
+  },
+  {
+    "uri": "en/7/120895144",
+    "id": "120895144",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms for motors",
+    "harm": {
+      "id": "0035565",
+      "title": "120895144 - Rocker arms for motors",
+      "conceptLink": "/ec2/concept/5983990"
+    }
+  },
+  {
+    "uri": "en/7/692502",
+    "id": "692502",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms [parts of engines]",
+    "harm": {
+      "id": "0035565",
+      "title": "692502 - Rocker arms [parts of engines]",
+      "conceptLink": "/ec2/concept/5983990"
+    }
+  },
+  {
+    "uri": "en/7/692519",
+    "id": "692519",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms [parts of machines]",
+    "harm": {
+      "id": "0024030",
+      "title": "692519 - Rocker arms [parts of machines]",
+      "conceptLink": "/ec2/concept/5973454"
+    }
+  },
+  {
+    "uri": "en/7/692503",
+    "id": "692503",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms [parts of motors]",
+    "harm": {
+      "id": "0035565",
+      "title": "692503 - Rocker arms [parts of motors]",
+      "conceptLink": "/ec2/concept/5983990"
+    }
+  },
+  {
+    "uri": "en/7/392279",
+    "id": "392279",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocker arms [vehicle engine parts]",
+    "harm": {
+      "id": "0019896",
+      "title": "392279 - Rocker arms [vehicle engine parts]",
+      "conceptLink": "/ec2/concept/5969666"
+    }
+  },
+  {
+    "uri": "en/7/692564",
+    "id": "692564",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket engines for the propulsion of water craft",
+    "harm": {
+      "id": "0012419",
+      "title": "692564 - Rocket engines for the propulsion of water craft",
+      "conceptLink": "/ec2/concept/5962831"
+    }
+  },
+  {
+    "uri": "en/7/692548",
+    "id": "692548",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket engines for the propulsion of missiles",
+    "harm": {
+      "id": "0024031",
+      "title": "692548 - Rocket engines for the propulsion of missiles",
+      "conceptLink": "/ec2/concept/5973455"
+    }
+  },
+  {
+    "uri": "en/7/692534",
+    "id": "692534",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket engines for the propulsion of aircraft",
+    "harm": {
+      "id": "0041332",
+      "title": "692534 - Rocket engines for the propulsion of aircraft",
+      "conceptLink": "/ec2/concept/5989252"
+    }
+  },
+  {
+    "uri": "en/7/129806824",
+    "id": "129806824",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket engines not for land vehicles",
+    "harm": {
+      "id": "0055686",
+      "title": "129806824 - Rocket engines not for land vehicles",
+      "conceptLink": "/ec2/concept/5997077"
+    }
+  },
+  {
+    "uri": "en/7/692622",
+    "id": "692622",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket motor propulsion apparatus for weapons",
+    "harm": {
+      "id": "0004379",
+      "title": "692622 - Rocket motor propulsion apparatus for weapons",
+      "conceptLink": "/ec2/concept/5955460"
+    }
+  },
+  {
+    "uri": "en/7/692565",
+    "id": "692565",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket motor propulsion apparatus for water craft",
+    "harm": {
+      "id": "0012419",
+      "title": "692565 - Rocket motor propulsion apparatus for water craft",
+      "conceptLink": "/ec2/concept/5962831"
+    }
+  },
+  {
+    "uri": "en/7/692585",
+    "id": "692585",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket motor propulsion apparatus for aircraft",
+    "harm": {
+      "id": "0018228",
+      "title": "692585 - Rocket motor propulsion apparatus for aircraft",
+      "conceptLink": "/ec2/concept/5968143"
+    }
+  },
+  {
+    "uri": "en/7/692598",
+    "id": "692598",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket motor propulsion apparatus for boats",
+    "harm": {
+      "id": "0024032",
+      "title": "692598 - Rocket motor propulsion apparatus for boats",
+      "conceptLink": "/ec2/concept/5973456"
+    }
+  },
+  {
+    "uri": "en/7/692610",
+    "id": "692610",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket motor propulsion apparatus for missiles",
+    "harm": {
+      "id": "0033210",
+      "title": "692610 - Rocket motor propulsion apparatus for missiles",
+      "conceptLink": "/ec2/concept/5981848"
+    }
+  },
+  {
+    "uri": "en/7/692634",
+    "id": "692634",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket nozzles",
+    "harm": {
+      "id": "0021833",
+      "title": "692634 - Rocket nozzles",
+      "conceptLink": "/ec2/concept/5971437"
+    }
+  },
+  {
+    "uri": "en/7/692563",
+    "id": "692563",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket propulsion engines for water craft",
+    "harm": {
+      "id": "0012419",
+      "title": "692563 - Rocket propulsion engines for water craft",
+      "conceptLink": "/ec2/concept/5962831"
+    }
+  },
+  {
+    "uri": "en/7/692547",
+    "id": "692547",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket propulsion engines for missiles",
+    "harm": {
+      "id": "0024031",
+      "title": "692547 - Rocket propulsion engines for missiles",
+      "conceptLink": "/ec2/concept/5973455"
+    }
+  },
+  {
+    "uri": "en/7/692646",
+    "id": "692646",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket propulsion engines for boats",
+    "harm": {
+      "id": "0010098",
+      "title": "692646 - Rocket propulsion engines for boats",
+      "conceptLink": "/ec2/concept/5960698"
+    }
+  },
+  {
+    "uri": "en/7/692659",
+    "id": "692659",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket propulsion engines for weapons",
+    "harm": {
+      "id": "0033211",
+      "title": "692659 - Rocket propulsion engines for weapons",
+      "conceptLink": "/ec2/concept/5981849"
+    }
+  },
+  {
+    "uri": "en/7/692533",
+    "id": "692533",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rocket propulsion engines for aircraft",
+    "harm": {
+      "id": "0041332",
+      "title": "692533 - Rocket propulsion engines for aircraft",
+      "conceptLink": "/ec2/concept/5989252"
+    }
+  },
+  {
+    "uri": "en/7/112951",
+    "id": "112951",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Rods (Connecting -) for machines, motors and engines",
+    "harm": {
+      "id": "0018794",
+      "title": "112951 - Rods (Connecting -) for machines, motors and engines",
+      "conceptLink": "/ec2/concept/5968671"
+    }
+  },
+  {
+    "uri": "en/7/692671",
+    "id": "692671",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roll forming machines",
+    "harm": {
+      "id": "0015923",
+      "title": "692671 - Roll forming machines",
+      "conceptLink": "/ec2/concept/5966047"
+    }
+  },
+  {
+    "uri": "en/7/692683",
+    "id": "692683",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roll forming tooling [parts of machines]",
+    "harm": {
+      "id": "0004380",
+      "title": "692683 - Roll forming tooling [parts of machines]",
+      "conceptLink": "/ec2/concept/5955461"
+    }
+  },
+  {
+    "uri": "en/7/692699",
+    "id": "692699",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roll forming tools [machines]",
+    "harm": {
+      "id": "0044753",
+      "title": "692699 - Roll forming tools [machines]",
+      "conceptLink": "/ec2/concept/5992373"
+    }
+  },
+  {
+    "uri": "en/7/123899",
+    "id": "123899",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller bearings",
+    "harm": {
+      "id": "0036302",
+      "title": "123899 - Roller bearings",
+      "conceptLink": "/ec2/concept/5984657"
+    }
+  },
+  {
+    "uri": "en/7/323990",
+    "id": "323990",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller bearings for machines",
+    "harm": {
+      "id": "0038314",
+      "title": "323990 - Roller bearings for machines",
+      "conceptLink": "/ec2/concept/5986491"
+    }
+  },
+  {
+    "uri": "en/7/390277",
+    "id": "390277",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller bearings [machine parts]",
+    "harm": {
+      "id": "0038730",
+      "title": "390277 - Roller bearings [machine parts]",
+      "conceptLink": "/ec2/concept/5986871"
+    }
+  },
+  {
+    "uri": "en/7/122967",
+    "id": "122967",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller bridges",
+    "harm": {
+      "id": "0026392",
+      "title": "122967 - Roller bridges",
+      "conceptLink": "/ec2/concept/5975620"
+    }
+  },
+  {
+    "uri": "en/7/136010962",
+    "id": "136010962",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller chains being parts of machines",
+    "harm": {
+      "id": "0055149",
+      "title": "136010962 - Roller chains being parts of machines",
+      "conceptLink": "/ec2/concept/5996587"
+    }
+  },
+  {
+    "uri": "en/7/125181",
+    "id": "125181",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller conveyors",
+    "harm": {
+      "id": "0003649",
+      "title": "125181 - Roller conveyors",
+      "conceptLink": "/ec2/concept/5954790"
+    }
+  },
+  {
+    "uri": "en/7/692714",
+    "id": "692714",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller installations for brake testing",
+    "harm": {
+      "id": "0015924",
+      "title": "692714 - Roller installations for brake testing",
+      "conceptLink": "/ec2/concept/5966048"
+    }
+  },
+  {
+    "uri": "en/7/692742",
+    "id": "692742",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller tracks for use in roller conveyor apparatus",
+    "harm": {
+      "id": "0005482",
+      "title": "692742 - Roller tracks for use in roller conveyor apparatus",
+      "conceptLink": "/ec2/concept/5956480"
+    }
+  },
+  {
+    "uri": "en/7/692729",
+    "id": "692729",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Roller tracks for use in belt conveyor apparatus",
+    "harm": {
+      "id": "0044754",
+      "title": "692729 - Roller tracks for use in belt conveyor apparatus",
+      "conceptLink": "/ec2/concept/5992374"
+    }
+  }
+]

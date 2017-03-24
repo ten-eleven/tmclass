@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/2/653573",
+    "id": "653573",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organic coatings [paints]",
+    "harm": {
+      "id": "0029726",
+      "title": "653573 - Organic coatings [paints]",
+      "conceptLink": "/ec2/concept/5978677"
+    }
+  },
+  {
+    "uri": "en/2/314639",
+    "id": "314639",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organic pigments",
+    "harm": {
+      "id": "0008129",
+      "title": "314639 - Organic pigments",
+      "conceptLink": "/ec2/concept/5958894"
+    }
+  },
+  {
+    "uri": "en/2/653604",
+    "id": "653604",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organic pigments for the production of printing inks",
+    "harm": {
+      "id": "0035533",
+      "title": "653604 - Organic pigments for the production of printing inks",
+      "conceptLink": "/ec2/concept/5983962"
+    }
+  },
+  {
+    "uri": "en/2/653589",
+    "id": "653589",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organic pigments for the production of colouring matters",
+    "harm": {
+      "id": "0006584",
+      "title": "653589 - Organic pigments for the production of colouring matters",
+      "conceptLink": "/ec2/concept/5957484"
+    }
+  },
+  {
+    "uri": "en/2/653621",
+    "id": "653621",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organic thickening agents for paints",
+    "harm": {
+      "id": "0035534",
+      "title": "653621 - Organic thickening agents for paints",
+      "conceptLink": "/ec2/concept/5983963"
+    }
+  },
+  {
+    "uri": "en/2/653632",
+    "id": "653632",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Organometallic coating materials",
+    "harm": {
+      "id": "0006585",
+      "title": "653632 - Organometallic coating materials",
+      "conceptLink": "/ec2/concept/5957485"
+    }
+  },
+  {
+    "uri": "en/2/651579",
+    "id": "651579",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Ornamental paints",
+    "harm": {
+      "id": "0017655",
+      "title": "651579 - Ornamental paints",
+      "conceptLink": "/ec2/concept/5967614"
+    }
+  },
+  {
+    "uri": "en/2/70110",
+    "id": "70110",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Oxide (Zinc -) [pigment]",
+    "harm": {
+      "id": "0039604",
+      "title": "70110 - Oxide (Zinc -) [pigment]",
+      "conceptLink": "/ec2/concept/5987664"
+    }
+  },
+  {
+    "uri": "en/2/21502",
+    "id": "21502",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint",
+    "harm": {
+      "id": "0030425",
+      "title": "21502 - Paint",
+      "conceptLink": "/ec2/concept/5979317"
+    }
+  },
+  {
+    "uri": "en/2/653715",
+    "id": "653715",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint additives in the nature of tinting colours",
+    "harm": {
+      "id": "0036485",
+      "title": "653715 - Paint additives in the nature of tinting colours",
+      "conceptLink": "/ec2/concept/5984822"
+    }
+  },
+  {
+    "uri": "en/2/653663",
+    "id": "653663",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint additives in the nature of balancers",
+    "harm": {
+      "id": "0029727",
+      "title": "653663 - Paint additives in the nature of balancers",
+      "conceptLink": "/ec2/concept/5978678"
+    }
+  },
+  {
+    "uri": "en/2/653703",
+    "id": "653703",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint additives in the nature of reducers",
+    "harm": {
+      "id": "0000801",
+      "title": "653703 - Paint additives in the nature of reducers",
+      "conceptLink": "/ec2/concept/5952210"
+    }
+  },
+  {
+    "uri": "en/2/653675",
+    "id": "653675",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint additives in the nature of binders",
+    "harm": {
+      "id": "0000800",
+      "title": "653675 - Paint additives in the nature of binders",
+      "conceptLink": "/ec2/concept/5952209"
+    }
+  },
+  {
+    "uri": "en/2/653690",
+    "id": "653690",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint additives in the nature of initiators",
+    "harm": {
+      "id": "0006586",
+      "title": "653690 - Paint additives in the nature of initiators",
+      "conceptLink": "/ec2/concept/5957486"
+    }
+  },
+  {
+    "uri": "en/2/650923",
+    "id": "650923",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint blocks",
+    "harm": {
+      "id": "0013371",
+      "title": "650923 - Paint blocks",
+      "conceptLink": "/ec2/concept/5963695"
+    }
+  },
+  {
+    "uri": "en/2/653726",
+    "id": "653726",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint drying compositions",
+    "harm": {
+      "id": "0007542",
+      "title": "653726 - Paint drying compositions",
+      "conceptLink": "/ec2/concept/5958360"
+    }
+  },
+  {
+    "uri": "en/2/653744",
+    "id": "653744",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint drying preparations",
+    "harm": {
+      "id": "0041293",
+      "title": "653744 - Paint drying preparations",
+      "conceptLink": "/ec2/concept/5989216"
+    }
+  },
+  {
+    "uri": "en/2/653763",
+    "id": "653763",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint drying substances",
+    "harm": {
+      "id": "0013372",
+      "title": "653763 - Paint drying substances",
+      "conceptLink": "/ec2/concept/5963696"
+    }
+  },
+  {
+    "uri": "en/2/649726",
+    "id": "649726",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint for artists",
+    "harm": {
+      "id": "0024213",
+      "title": "649726 - Paint for artists",
+      "conceptLink": "/ec2/concept/5973625"
+    }
+  },
+  {
+    "uri": "en/2/905781",
+    "id": "905781",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint for concrete floors",
+    "harm": {
+      "id": "0018430",
+      "title": "905781 - Paint for concrete floors",
+      "conceptLink": "/ec2/concept/5968328"
+    }
+  },
+  {
+    "uri": "en/2/379262",
+    "id": "379262",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint for use in the manufacture of furniture",
+    "harm": {
+      "id": "0016884",
+      "title": "379262 - Paint for use in the manufacture of furniture",
+      "conceptLink": "/ec2/concept/5966923"
+    }
+  },
+  {
+    "uri": "en/2/379249",
+    "id": "379249",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint for use in the manufacture of ceramics",
+    "harm": {
+      "id": "0057435",
+      "title": "379249 - Paint for use in the manufacture of ceramics",
+      "conceptLink": "/ec2/concept/5998942"
+    }
+  },
+  {
+    "uri": "en/2/379237",
+    "id": "379237",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint for use in the manufacture of automobiles",
+    "harm": {
+      "id": "0039945",
+      "title": "379237 - Paint for use in the manufacture of automobiles",
+      "conceptLink": "/ec2/concept/5987983"
+    }
+  },
+  {
+    "uri": "en/2/653647",
+    "id": "653647",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint [other than insulating or paint boxes for use in school]",
+    "harm": {
+      "id": "0000799",
+      "title": "653647 - Paint [other than insulating or paint boxes for use in school]",
+      "conceptLink": "/ec2/concept/5952208"
+    }
+  },
+  {
+    "uri": "en/2/908830",
+    "id": "908830",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint patches (Repositionable -)",
+    "harm": {
+      "id": "0013580",
+      "title": "908830 - Paint patches (Repositionable -)",
+      "conceptLink": "/ec2/concept/5963880"
+    }
+  },
+  {
+    "uri": "en/2/653777",
+    "id": "653777",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint powders",
+    "harm": {
+      "id": "0001796",
+      "title": "653777 - Paint powders",
+      "conceptLink": "/ec2/concept/5953101"
+    }
+  },
+  {
+    "uri": "en/2/653804",
+    "id": "653804",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint preparations",
+    "harm": {
+      "id": "0030688",
+      "title": "653804 - Paint preparations",
+      "conceptLink": "/ec2/concept/5979563"
+    }
+  },
+  {
+    "uri": "en/2/652461",
+    "id": "652461",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint primers",
+    "harm": {
+      "id": "0040632",
+      "title": "652461 - Paint primers",
+      "conceptLink": "/ec2/concept/5988612"
+    }
+  },
+  {
+    "uri": "en/2/653816",
+    "id": "653816",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint products [other than paint boxes for use in school]",
+    "harm": {
+      "id": "0036486",
+      "title": "653816 - Paint products [other than paint boxes for use in school]",
+      "conceptLink": "/ec2/concept/5984823"
+    }
+  },
+  {
+    "uri": "en/2/379278",
+    "id": "379278",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint sealers",
+    "harm": {
+      "id": "0001477",
+      "title": "379278 - Paint sealers",
+      "conceptLink": "/ec2/concept/5952816"
+    }
+  },
+  {
+    "uri": "en/2/653834",
+    "id": "653834",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint substances [other than insulating] for walls",
+    "harm": {
+      "id": "0036487",
+      "title": "653834 - Paint substances [other than insulating] for walls",
+      "conceptLink": "/ec2/concept/5984824"
+    }
+  },
+  {
+    "uri": "en/2/24034",
+    "id": "24034",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint thickeners",
+    "harm": {
+      "id": "0058207",
+      "title": "24034 - Paint thickeners",
+      "conceptLink": "/ec2/concept/5999708"
+    }
+  },
+  {
+    "uri": "en/2/23859",
+    "id": "23859",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint thinner",
+    "harm": {
+      "id": "0040096",
+      "title": "23859 - Paint thinner",
+      "conceptLink": "/ec2/concept/5988119"
+    }
+  },
+  {
+    "uri": "en/2/23860",
+    "id": "23860",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paint thinners",
+    "harm": {
+      "id": "0040096",
+      "title": "23860 - Paint thinners",
+      "conceptLink": "/ec2/concept/5988119"
+    }
+  },
+  {
+    "uri": "en/2/653846",
+    "id": "653846",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Painters' colours",
+    "harm": {
+      "id": "0030689",
+      "title": "653846 - Painters' colours",
+      "conceptLink": "/ec2/concept/5979564"
+    }
+  },
+  {
+    "uri": "en/2/21503",
+    "id": "21503",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints",
+    "harm": {
+      "id": "0030425",
+      "title": "21503 - Paints",
+      "conceptLink": "/ec2/concept/5979317"
+    }
+  },
+  {
+    "uri": "en/2/131127666",
+    "id": "131127666",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints and washes",
+    "harm": {
+      "id": "0030425",
+      "title": "131127666 - Paints and washes",
+      "conceptLink": "/ec2/concept/5979317"
+    }
+  },
+  {
+    "uri": "en/2/71145",
+    "id": "71145",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Anti-fouling -)",
+    "harm": {
+      "id": "0011986",
+      "title": "71145 - Paints (Anti-fouling -)",
+      "conceptLink": "/ec2/concept/5962433"
+    }
+  },
+  {
+    "uri": "en/2/22430",
+    "id": "22430",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Bactericidal -)",
+    "harm": {
+      "id": "0002157",
+      "title": "22430 - Paints (Bactericidal -)",
+      "conceptLink": "/ec2/concept/5953426"
+    }
+  },
+  {
+    "uri": "en/2/23053",
+    "id": "23053",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Ceramic -)",
+    "harm": {
+      "id": "0057436",
+      "title": "23053 - Paints (Ceramic -)",
+      "conceptLink": "/ec2/concept/5998943"
+    }
+  },
+  {
+    "uri": "en/2/24536",
+    "id": "24536",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Enamel -)",
+    "harm": {
+      "id": "0017810",
+      "title": "24536 - Paints (Enamel -)",
+      "conceptLink": "/ec2/concept/5967759"
+    }
+  },
+  {
+    "uri": "en/2/70297",
+    "id": "70297",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Fireproof -)",
+    "harm": {
+      "id": "0029870",
+      "title": "70297 - Paints (Fireproof -)",
+      "conceptLink": "/ec2/concept/5978805"
+    }
+  },
+  {
+    "uri": "en/2/120899754",
+    "id": "120899754",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for artists",
+    "harm": {
+      "id": "0024213",
+      "title": "120899754 - Paints for artists",
+      "conceptLink": "/ec2/concept/5973625"
+    }
+  },
+  {
+    "uri": "en/2/905792",
+    "id": "905792",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for arts and crafts",
+    "harm": {
+      "id": "0012624",
+      "title": "905792 - Paints for arts and crafts",
+      "conceptLink": "/ec2/concept/5963014"
+    }
+  },
+  {
+    "uri": "en/2/137492289",
+    "id": "137492289",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for industrial equipment",
+    "harm": {
+      "id": "0060696",
+      "title": "137492289 - Paints for industrial equipment",
+      "conceptLink": "/ec2/concept/6001017"
+    }
+  },
+  {
+    "uri": "en/2/137492290",
+    "id": "137492290",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for machinery",
+    "harm": {
+      "id": "0060697",
+      "title": "137492290 - Paints for machinery",
+      "conceptLink": "/ec2/concept/6001018"
+    }
+  },
+  {
+    "uri": "en/2/653890",
+    "id": "653890",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for marine use",
+    "harm": {
+      "id": "0016750",
+      "title": "653890 - Paints for marine use",
+      "conceptLink": "/ec2/concept/5966803"
+    }
+  },
+  {
+    "uri": "en/2/137788766",
+    "id": "137788766",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for model airplanes",
+    "harm": {
+      "id": "0073711",
+      "title": "137788766 - Paints for model airplanes",
+      "conceptLink": "/ec2/concept/6009881"
+    }
+  },
+  {
+    "uri": "en/2/653903",
+    "id": "653903",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for office use",
+    "harm": {
+      "id": "0005206",
+      "title": "653903 - Paints for office use",
+      "conceptLink": "/ec2/concept/5956222"
+    }
+  },
+  {
+    "uri": "en/2/653930",
+    "id": "653930",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for protection against graffiti",
+    "harm": {
+      "id": "0005207",
+      "title": "653930 - Paints for protection against graffiti",
+      "conceptLink": "/ec2/concept/5956223"
+    }
+  },
+  {
+    "uri": "en/2/653947",
+    "id": "653947",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for protection against heat",
+    "harm": {
+      "id": "0005208",
+      "title": "653947 - Paints for protection against heat",
+      "conceptLink": "/ec2/concept/5956224"
+    }
+  },
+  {
+    "uri": "en/2/314273",
+    "id": "314273",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for protection against corrosion",
+    "harm": {
+      "id": "0014572",
+      "title": "314273 - Paints for protection against corrosion",
+      "conceptLink": "/ec2/concept/5964802"
+    }
+  },
+  {
+    "uri": "en/2/653915",
+    "id": "653915",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for protection against fire",
+    "harm": {
+      "id": "0016751",
+      "title": "653915 - Paints for protection against fire",
+      "conceptLink": "/ec2/concept/5966804"
+    }
+  },
+  {
+    "uri": "en/2/653968",
+    "id": "653968",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for protection against vandalism",
+    "harm": {
+      "id": "0010951",
+      "title": "653968 - Paints for protection against vandalism",
+      "conceptLink": "/ec2/concept/5961479"
+    }
+  },
+  {
+    "uri": "en/2/653948",
+    "id": "653948",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for resistance against heat",
+    "harm": {
+      "id": "0005208",
+      "title": "653948 - Paints for resistance against heat",
+      "conceptLink": "/ec2/concept/5956224"
+    }
+  },
+  {
+    "uri": "en/2/653981",
+    "id": "653981",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for resistance against fire",
+    "harm": {
+      "id": "0029870",
+      "title": "653981 - Paints for resistance against fire",
+      "conceptLink": "/ec2/concept/5978805"
+    }
+  },
+  {
+    "uri": "en/2/653994",
+    "id": "653994",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for sale in aerosol containers",
+    "harm": {
+      "id": "0022623",
+      "title": "653994 - Paints for sale in aerosol containers",
+      "conceptLink": "/ec2/concept/5972159"
+    }
+  },
+  {
+    "uri": "en/2/654007",
+    "id": "654007",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for the aerospace industry",
+    "harm": {
+      "id": "0022624",
+      "title": "654007 - Paints for the aerospace industry",
+      "conceptLink": "/ec2/concept/5972160"
+    }
+  },
+  {
+    "uri": "en/2/654020",
+    "id": "654020",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for the control of rust",
+    "harm": {
+      "id": "0014572",
+      "title": "654020 - Paints for the control of rust",
+      "conceptLink": "/ec2/concept/5964802"
+    }
+  },
+  {
+    "uri": "en/2/654033",
+    "id": "654033",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for the prevention of rust",
+    "harm": {
+      "id": "0014572",
+      "title": "654033 - Paints for the prevention of rust",
+      "conceptLink": "/ec2/concept/5964802"
+    }
+  },
+  {
+    "uri": "en/2/654045",
+    "id": "654045",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use as elastic facade coatings",
+    "harm": {
+      "id": "0016752",
+      "title": "654045 - Paints for use as elastic facade coatings",
+      "conceptLink": "/ec2/concept/5966805"
+    }
+  },
+  {
+    "uri": "en/2/654061",
+    "id": "654061",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in manufacturing",
+    "harm": {
+      "id": "0017744",
+      "title": "654061 - Paints for use in manufacturing",
+      "conceptLink": "/ec2/concept/5967697"
+    }
+  },
+  {
+    "uri": "en/2/654074",
+    "id": "654074",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in preventing mould",
+    "harm": {
+      "id": "0040891",
+      "title": "654074 - Paints for use in preventing mould",
+      "conceptLink": "/ec2/concept/5988841"
+    }
+  },
+  {
+    "uri": "en/2/654087",
+    "id": "654087",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in removing mould",
+    "harm": {
+      "id": "0035085",
+      "title": "654087 - Paints for use in removing mould",
+      "conceptLink": "/ec2/concept/5983553"
+    }
+  },
+  {
+    "uri": "en/2/654100",
+    "id": "654100",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in the automobile industry",
+    "harm": {
+      "id": "0017745",
+      "title": "654100 - Paints for use in the automobile industry",
+      "conceptLink": "/ec2/concept/5967698"
+    }
+  },
+  {
+    "uri": "en/2/120899788",
+    "id": "120899788",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in the manufacture of furniture",
+    "harm": {
+      "id": "0016884",
+      "title": "120899788 - Paints for use in the manufacture of furniture",
+      "conceptLink": "/ec2/concept/5966923"
+    }
+  },
+  {
+    "uri": "en/2/120899796",
+    "id": "120899796",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in the manufacture of automobiles",
+    "harm": {
+      "id": "0039945",
+      "title": "120899796 - Paints for use in the manufacture of automobiles",
+      "conceptLink": "/ec2/concept/5987983"
+    }
+  },
+  {
+    "uri": "en/2/120899792",
+    "id": "120899792",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in the manufacture of ceramics",
+    "harm": {
+      "id": "0057435",
+      "title": "120899792 - Paints for use in the manufacture of ceramics",
+      "conceptLink": "/ec2/concept/5998942"
+    }
+  },
+  {
+    "uri": "en/2/654113",
+    "id": "654113",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use in the printing industry",
+    "harm": {
+      "id": "0023585",
+      "title": "654113 - Paints for use in the printing industry",
+      "conceptLink": "/ec2/concept/5973045"
+    }
+  },
+  {
+    "uri": "en/2/654125",
+    "id": "654125",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints for use on fabric",
+    "harm": {
+      "id": "0042321",
+      "title": "654125 - Paints for use on fabric",
+      "conceptLink": "/ec2/concept/5990150"
+    }
+  },
+  {
+    "uri": "en/2/654139",
+    "id": "654139",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints having a satin finish",
+    "harm": {
+      "id": "0011980",
+      "title": "654139 - Paints having a satin finish",
+      "conceptLink": "/ec2/concept/5962428"
+    }
+  },
+  {
+    "uri": "en/2/654152",
+    "id": "654152",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints having flexible properties",
+    "harm": {
+      "id": "0029303",
+      "title": "654152 - Paints having flexible properties",
+      "conceptLink": "/ec2/concept/5978286"
+    }
+  },
+  {
+    "uri": "en/2/654165",
+    "id": "654165",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints having remedial properties",
+    "harm": {
+      "id": "0029304",
+      "title": "654165 - Paints having remedial properties",
+      "conceptLink": "/ec2/concept/5978287"
+    }
+  },
+  {
+    "uri": "en/2/654178",
+    "id": "654178",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints in the nature of elastic facade coatings",
+    "harm": {
+      "id": "0011981",
+      "title": "654178 - Paints in the nature of elastic facade coatings",
+      "conceptLink": "/ec2/concept/5962429"
+    }
+  },
+  {
+    "uri": "en/2/653864",
+    "id": "653864",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints [other than insulating] for coil coating application",
+    "harm": {
+      "id": "0030690",
+      "title": "653864 - Paints [other than insulating] for coil coating application",
+      "conceptLink": "/ec2/concept/5979565"
+    }
+  },
+  {
+    "uri": "en/2/653877",
+    "id": "653877",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints [other than insulating] for electronic components",
+    "harm": {
+      "id": "0001797",
+      "title": "653877 - Paints [other than insulating] for electronic components",
+      "conceptLink": "/ec2/concept/5953102"
+    }
+  },
+  {
+    "uri": "en/2/24035",
+    "id": "24035",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Thickeners for -)",
+    "harm": {
+      "id": "0058207",
+      "title": "24035 - Paints (Thickeners for -)",
+      "conceptLink": "/ec2/concept/5999708"
+    }
+  },
+  {
+    "uri": "en/2/23862",
+    "id": "23862",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paints (Thinners for -)",
+    "harm": {
+      "id": "0040096",
+      "title": "23862 - Paints (Thinners for -)",
+      "conceptLink": "/ec2/concept/5988119"
+    }
+  },
+  {
+    "uri": "en/2/70739",
+    "id": "70739",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paper for dyeing Easter eggs",
+    "harm": {
+      "id": "0026600",
+      "title": "70739 - Paper for dyeing Easter eggs",
+      "conceptLink": "/ec2/concept/5975810"
+    }
+  },
+  {
+    "uri": "en/2/22272",
+    "id": "22272",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Paste (Silver -)",
+    "harm": {
+      "id": "0005596",
+      "title": "22272 - Paste (Silver -)",
+      "conceptLink": "/ec2/concept/5956586"
+    }
+  },
+  {
+    "uri": "en/2/654191",
+    "id": "654191",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pastes for use in dyeing",
+    "harm": {
+      "id": "0000407",
+      "title": "654191 - Pastes for use in dyeing",
+      "conceptLink": "/ec2/concept/5951854"
+    }
+  },
+  {
+    "uri": "en/2/654204",
+    "id": "654204",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Permanently coloured natural resins",
+    "harm": {
+      "id": "0000408",
+      "title": "654204 - Permanently coloured natural resins",
+      "conceptLink": "/ec2/concept/5951855"
+    }
+  },
+  {
+    "uri": "en/2/654217",
+    "id": "654217",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Permeation materials against fire [paints]",
+    "harm": {
+      "id": "0006192",
+      "title": "654217 - Permeation materials against fire [paints]",
+      "conceptLink": "/ec2/concept/5957126"
+    }
+  },
+  {
+    "uri": "en/2/654232",
+    "id": "654232",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Phosphorescent materials [paints]",
+    "harm": {
+      "id": "0040289",
+      "title": "654232 - Phosphorescent materials [paints]",
+      "conceptLink": "/ec2/concept/5988296"
+    }
+  },
+  {
+    "uri": "en/2/654250",
+    "id": "654250",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Phosphorescent paints",
+    "harm": {
+      "id": "0040289",
+      "title": "654250 - Phosphorescent paints",
+      "conceptLink": "/ec2/concept/5988296"
+    }
+  },
+  {
+    "uri": "en/2/654275",
+    "id": "654275",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Photo-luminescent paints [other than insulating]",
+    "harm": {
+      "id": "0040290",
+      "title": "654275 - Photo-luminescent paints [other than insulating]",
+      "conceptLink": "/ec2/concept/5988297"
+    }
+  },
+  {
+    "uri": "en/2/654263",
+    "id": "654263",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Photochromic pigments",
+    "harm": {
+      "id": "0045998",
+      "title": "654263 - Photochromic pigments",
+      "conceptLink": "/ec2/concept/5993515"
+    }
+  },
+  {
+    "uri": "en/2/71061",
+    "id": "71061",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Photocopier toner",
+    "harm": {
+      "id": "0023936",
+      "title": "71061 - Photocopier toner",
+      "conceptLink": "/ec2/concept/5973365"
+    }
+  },
+  {
+    "uri": "en/2/71183",
+    "id": "71183",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Photocopiers (Toner cartridges, filled, for printers and -)",
+    "harm": {
+      "id": "0018610",
+      "title": "71183 - Photocopiers (Toner cartridges, filled, for printers and -)",
+      "conceptLink": "/ec2/concept/5968494"
+    }
+  },
+  {
+    "uri": "en/2/379305",
+    "id": "379305",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigment preparations",
+    "harm": {
+      "id": "0035476",
+      "title": "379305 - Pigment preparations",
+      "conceptLink": "/ec2/concept/5983910"
+    }
+  },
+  {
+    "uri": "en/2/654288",
+    "id": "654288",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigment siccatives",
+    "harm": {
+      "id": "0040291",
+      "title": "654288 - Pigment siccatives",
+      "conceptLink": "/ec2/concept/5988298"
+    }
+  },
+  {
+    "uri": "en/2/137173703",
+    "id": "137173703",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigmented coatings used as paints",
+    "harm": {
+      "id": "0060327",
+      "title": "137173703 - Pigmented coatings used as paints",
+      "conceptLink": "/ec2/concept/5998303"
+    }
+  },
+  {
+    "uri": "en/2/24299",
+    "id": "24299",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments",
+    "harm": {
+      "id": "0058659",
+      "title": "24299 - Pigments",
+      "conceptLink": "/ec2/concept/6000152"
+    }
+  },
+  {
+    "uri": "en/2/654306",
+    "id": "654306",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for paints",
+    "harm": {
+      "id": "0046000",
+      "title": "654306 - Pigments for paints",
+      "conceptLink": "/ec2/concept/5993517"
+    }
+  },
+  {
+    "uri": "en/2/654346",
+    "id": "654346",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for protective coatings",
+    "harm": {
+      "id": "0045999",
+      "title": "654346 - Pigments for protective coatings",
+      "conceptLink": "/ec2/concept/5993516"
+    }
+  },
+  {
+    "uri": "en/2/654362",
+    "id": "654362",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for use as colorants in injection moulding",
+    "harm": {
+      "id": "0028718",
+      "title": "654362 - Pigments for use as colorants in injection moulding",
+      "conceptLink": "/ec2/concept/5977752"
+    }
+  },
+  {
+    "uri": "en/2/654307",
+    "id": "654307",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for use in paints",
+    "harm": {
+      "id": "0046000",
+      "title": "654307 - Pigments for use in paints",
+      "conceptLink": "/ec2/concept/5993517"
+    }
+  },
+  {
+    "uri": "en/2/654378",
+    "id": "654378",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for use in printing inks for lithographic printing processes",
+    "harm": {
+      "id": "0028719",
+      "title": "654378 - Pigments for use in printing inks for lithographic printing processes",
+      "conceptLink": "/ec2/concept/5977753"
+    }
+  },
+  {
+    "uri": "en/2/908253",
+    "id": "908253",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for use in the graphic arts industry",
+    "harm": {
+      "id": "0021928",
+      "title": "908253 - Pigments for use in the graphic arts industry",
+      "conceptLink": "/ec2/concept/5971526"
+    }
+  },
+  {
+    "uri": "en/2/654391",
+    "id": "654391",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Pigments for use in the manufacture of coloured paper",
+    "harm": {
+      "id": "0005672",
+      "title": "654391 - Pigments for use in the manufacture of coloured paper",
+      "conceptLink": "/ec2/concept/5956652"
+    }
+  }
+]

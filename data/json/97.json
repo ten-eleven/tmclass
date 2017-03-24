@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/60044508",
+    "id": "60044508",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for hygienic purposes",
+    "harm": {
+      "id": "0020258",
+      "title": "60044508 - Disinfectants for hygienic purposes",
+      "conceptLink": "/ec2/concept/5969995"
+    }
+  },
+  {
+    "uri": "en/5/383303",
+    "id": "383303",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for medical instruments",
+    "harm": {
+      "id": "0003120",
+      "title": "383303 - Disinfectants for medical instruments",
+      "conceptLink": "/ec2/concept/5954306"
+    }
+  },
+  {
+    "uri": "en/5/84329215",
+    "id": "84329215",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for medical use",
+    "harm": {
+      "id": "0065382",
+      "title": "84329215 - Disinfectants for medical use",
+      "conceptLink": "/ec2/concept/6001585"
+    }
+  },
+  {
+    "uri": "en/5/120868847",
+    "id": "120868847",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for medical apparatus and instruments",
+    "harm": {
+      "id": "0065275",
+      "title": "120868847 - Disinfectants for medical apparatus and instruments",
+      "conceptLink": "/ec2/concept/6001478"
+    }
+  },
+  {
+    "uri": "en/5/12430528",
+    "id": "12430528",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for sanitary purposes",
+    "harm": {
+      "id": "0020258",
+      "title": "12430528 - Disinfectants for sanitary purposes",
+      "conceptLink": "/ec2/concept/5969995"
+    }
+  },
+  {
+    "uri": "en/5/120911890",
+    "id": "120911890",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for sanitary use",
+    "harm": {
+      "id": "0020258",
+      "title": "120911890 - Disinfectants for sanitary use",
+      "conceptLink": "/ec2/concept/5969995"
+    }
+  },
+  {
+    "uri": "en/5/119523728",
+    "id": "119523728",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for swimming pools",
+    "harm": {
+      "id": "0055476",
+      "title": "119523728 - Disinfectants for swimming pools",
+      "conceptLink": "/ec2/concept/5996877"
+    }
+  },
+  {
+    "uri": "en/5/665847",
+    "id": "665847",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants for veterinary use",
+    "harm": {
+      "id": "0037321",
+      "title": "665847 - Disinfectants for veterinary use",
+      "conceptLink": "/ec2/concept/5985584"
+    }
+  },
+  {
+    "uri": "en/5/665864",
+    "id": "665864",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfectants impregnated into tissues",
+    "harm": {
+      "id": "0020029",
+      "title": "665864 - Disinfectants impregnated into tissues",
+      "conceptLink": "/ec2/concept/5969785"
+    }
+  },
+  {
+    "uri": "en/5/383319",
+    "id": "383319",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disinfecting handwash",
+    "harm": {
+      "id": "0003121",
+      "title": "383319 - Disinfecting handwash",
+      "conceptLink": "/ec2/concept/5954307"
+    }
+  },
+  {
+    "uri": "en/5/119523730",
+    "id": "119523730",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable adult diapers",
+    "harm": {
+      "id": "0065315",
+      "title": "119523730 - Disposable adult diapers",
+      "conceptLink": "/ec2/concept/6001518"
+    }
+  },
+  {
+    "uri": "en/5/120897753",
+    "id": "120897753",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable babies' diaper-pants",
+    "harm": {
+      "id": "0065218",
+      "title": "120897753 - Disposable babies' diaper-pants",
+      "conceptLink": "/ec2/concept/6001421"
+    }
+  },
+  {
+    "uri": "en/5/120897761",
+    "id": "120897761",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable babies' diapers of paper and cellulose",
+    "harm": {
+      "id": "0065219",
+      "title": "120897761 - Disposable babies' diapers of paper and cellulose",
+      "conceptLink": "/ec2/concept/6001422"
+    }
+  },
+  {
+    "uri": "en/5/561502",
+    "id": "561502",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable babies' napkins of paper",
+    "harm": {
+      "id": "0012112",
+      "title": "561502 - Disposable babies' napkins of paper",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/560250",
+    "id": "560250",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable babies' napkins of cellulose",
+    "harm": {
+      "id": "0029427",
+      "title": "560250 - Disposable babies' napkins of cellulose",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/119523731",
+    "id": "119523731",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable baby diapers",
+    "harm": {
+      "id": "0030938",
+      "title": "119523731 - Disposable baby diapers",
+      "conceptLink": "/ec2/concept/5979792"
+    }
+  },
+  {
+    "uri": "en/5/418087",
+    "id": "418087",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers",
+    "harm": {
+      "id": "0030938",
+      "title": "418087 - Disposable diapers",
+      "conceptLink": "/ec2/concept/5979792"
+    }
+  },
+  {
+    "uri": "en/5/119523732",
+    "id": "119523732",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers for incontinence",
+    "harm": {
+      "id": "0025708",
+      "title": "119523732 - Disposable diapers for incontinence",
+      "conceptLink": "/ec2/concept/5974994"
+    }
+  },
+  {
+    "uri": "en/5/560252",
+    "id": "560252",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers of cellulose for babies",
+    "harm": {
+      "id": "0029427",
+      "title": "560252 - Disposable diapers of cellulose for babies",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/665888",
+    "id": "665888",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers of cellulose for incontinents",
+    "harm": {
+      "id": "0041934",
+      "title": "665888 - Disposable diapers of cellulose for incontinents",
+      "conceptLink": "/ec2/concept/5989797"
+    }
+  },
+  {
+    "uri": "en/5/561504",
+    "id": "561504",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers of paper for babies",
+    "harm": {
+      "id": "0012112",
+      "title": "561504 - Disposable diapers of paper for babies",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/665915",
+    "id": "665915",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable diapers of paper for incontinents",
+    "harm": {
+      "id": "0030377",
+      "title": "665915 - Disposable diapers of paper for incontinents",
+      "conceptLink": "/ec2/concept/5979273"
+    }
+  },
+  {
+    "uri": "en/5/137870439",
+    "id": "137870439",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable liners for babies' diapers",
+    "harm": {
+      "id": "0070650",
+      "title": "137870439 - Disposable liners for babies' diapers",
+      "conceptLink": "/ec2/concept/6006842"
+    }
+  },
+  {
+    "uri": "en/5/137870428",
+    "id": "137870428",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable liners for incontinence diapers",
+    "harm": {
+      "id": "0070651",
+      "title": "137870428 - Disposable liners for incontinence diapers",
+      "conceptLink": "/ec2/concept/6006843"
+    }
+  },
+  {
+    "uri": "en/5/561538",
+    "id": "561538",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable liners of cellulose for napkins",
+    "harm": {
+      "id": "0033434",
+      "title": "561538 - Disposable liners of cellulose for napkins",
+      "conceptLink": "/ec2/concept/5982057"
+    }
+  },
+  {
+    "uri": "en/5/665945",
+    "id": "665945",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins for incontinents",
+    "harm": {
+      "id": "0025708",
+      "title": "665945 - Disposable napkins for incontinents",
+      "conceptLink": "/ec2/concept/5974994"
+    }
+  },
+  {
+    "uri": "en/5/561557",
+    "id": "561557",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins made of paper for infants",
+    "harm": {
+      "id": "0012112",
+      "title": "561557 - Disposable napkins made of paper for infants",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/560251",
+    "id": "560251",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins of cellulose for babies",
+    "harm": {
+      "id": "0029427",
+      "title": "560251 - Disposable napkins of cellulose for babies",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/665889",
+    "id": "665889",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins of cellulose for incontinents",
+    "harm": {
+      "id": "0041934",
+      "title": "665889 - Disposable napkins of cellulose for incontinents",
+      "conceptLink": "/ec2/concept/5989797"
+    }
+  },
+  {
+    "uri": "en/5/561503",
+    "id": "561503",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins of paper for babies",
+    "harm": {
+      "id": "0012112",
+      "title": "561503 - Disposable napkins of paper for babies",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/665916",
+    "id": "665916",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable napkins of paper for incontinents",
+    "harm": {
+      "id": "0030377",
+      "title": "665916 - Disposable napkins of paper for incontinents",
+      "conceptLink": "/ec2/concept/5979273"
+    }
+  },
+  {
+    "uri": "en/5/418088",
+    "id": "418088",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies",
+    "harm": {
+      "id": "0030938",
+      "title": "418088 - Disposable nappies",
+      "conceptLink": "/ec2/concept/5979792"
+    }
+  },
+  {
+    "uri": "en/5/561558",
+    "id": "561558",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of paper for infants",
+    "harm": {
+      "id": "0012112",
+      "title": "561558 - Disposable nappies made of paper for infants",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/561505",
+    "id": "561505",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of paper for babies",
+    "harm": {
+      "id": "0012112",
+      "title": "561505 - Disposable nappies made of paper for babies",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/560253",
+    "id": "560253",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of cellulose for infants",
+    "harm": {
+      "id": "0029427",
+      "title": "560253 - Disposable nappies made of cellulose for infants",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/560249",
+    "id": "560249",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of cellulose for babies",
+    "harm": {
+      "id": "0029427",
+      "title": "560249 - Disposable nappies made of cellulose for babies",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/665917",
+    "id": "665917",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of paper for incontinents",
+    "harm": {
+      "id": "0030377",
+      "title": "665917 - Disposable nappies made of paper for incontinents",
+      "conceptLink": "/ec2/concept/5979273"
+    }
+  },
+  {
+    "uri": "en/5/665890",
+    "id": "665890",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappies made of cellulose for incontinents",
+    "harm": {
+      "id": "0041934",
+      "title": "665890 - Disposable nappies made of cellulose for incontinents",
+      "conceptLink": "/ec2/concept/5989797"
+    }
+  },
+  {
+    "uri": "en/5/137870445",
+    "id": "137870445",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable nappy liners",
+    "harm": {
+      "id": "0070652",
+      "title": "137870445 - Disposable nappy liners",
+      "conceptLink": "/ec2/concept/6006844"
+    }
+  },
+  {
+    "uri": "en/5/120868853",
+    "id": "120868853",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable pads for incontinence",
+    "harm": {
+      "id": "0065274",
+      "title": "120868853 - Disposable pads for incontinence",
+      "conceptLink": "/ec2/concept/6001477"
+    }
+  },
+  {
+    "uri": "en/5/561603",
+    "id": "561603",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable pants of cellulose for holding a babies' napkin in place",
+    "harm": {
+      "id": "0033435",
+      "title": "561603 - Disposable pants of cellulose for holding a babies' napkin in place",
+      "conceptLink": "/ec2/concept/5982058"
+    }
+  },
+  {
+    "uri": "en/5/561615",
+    "id": "561615",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable pants of paper for holding a babies napkin in place",
+    "harm": {
+      "id": "0030320",
+      "title": "561615 - Disposable pants of paper for holding a babies napkin in place",
+      "conceptLink": "/ec2/concept/5979219"
+    }
+  },
+  {
+    "uri": "en/5/341195",
+    "id": "341195",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable paper diapers",
+    "harm": {
+      "id": "0012112",
+      "title": "341195 - Disposable paper diapers",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/88950565",
+    "id": "88950565",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable sanitizing wipes",
+    "harm": {
+      "id": "0022577",
+      "title": "88950565 - Disposable sanitizing wipes",
+      "conceptLink": "/ec2/concept/5972119"
+    }
+  },
+  {
+    "uri": "en/5/137853878",
+    "id": "137853878",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable swim diapers for babies",
+    "harm": {
+      "id": "0070653",
+      "title": "137853878 - Disposable swim diapers for babies",
+      "conceptLink": "/ec2/concept/6006845"
+    }
+  },
+  {
+    "uri": "en/5/129803741",
+    "id": "129803741",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable swim diapers for children and infants",
+    "harm": {
+      "id": "0070654",
+      "title": "129803741 - Disposable swim diapers for children and infants",
+      "conceptLink": "/ec2/concept/6006846"
+    }
+  },
+  {
+    "uri": "en/5/561629",
+    "id": "561629",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable training pants of cellulose for infants",
+    "harm": {
+      "id": "0029427",
+      "title": "561629 - Disposable training pants of cellulose for infants",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/129803742",
+    "id": "129803742",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable training pants [diapers]",
+    "harm": {
+      "id": "0070655",
+      "title": "129803742 - Disposable training pants [diapers]",
+      "conceptLink": "/ec2/concept/6006847"
+    }
+  },
+  {
+    "uri": "en/5/561651",
+    "id": "561651",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable training pants of paper for infants",
+    "harm": {
+      "id": "0041890",
+      "title": "561651 - Disposable training pants of paper for infants",
+      "conceptLink": "/ec2/concept/5989755"
+    }
+  },
+  {
+    "uri": "en/5/120898163",
+    "id": "120898163",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable training pants",
+    "harm": {
+      "id": "0065226",
+      "title": "120898163 - Disposable training pants",
+      "conceptLink": "/ec2/concept/6001429"
+    }
+  },
+  {
+    "uri": "en/5/120898166",
+    "id": "120898166",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Disposable training pants of paper or cellulose",
+    "harm": {
+      "id": "0065225",
+      "title": "120898166 - Disposable training pants of paper or cellulose",
+      "conceptLink": "/ec2/concept/6001428"
+    }
+  },
+  {
+    "uri": "en/5/119523736",
+    "id": "119523736",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dissolvable strips to stop bleeding from minor cuts and grazes",
+    "harm": {
+      "id": "0065450",
+      "title": "119523736 - Dissolvable strips to stop bleeding from minor cuts and grazes",
+      "conceptLink": "/ec2/concept/6001653"
+    }
+  },
+  {
+    "uri": "en/5/665956",
+    "id": "665956",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Diuretic pharmaceutical preparations",
+    "harm": {
+      "id": "0030378",
+      "title": "665956 - Diuretic pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5979274"
+    }
+  },
+  {
+    "uri": "en/5/383331",
+    "id": "383331",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Diuretic preparations",
+    "harm": {
+      "id": "0057129",
+      "title": "383331 - Diuretic preparations",
+      "conceptLink": "/ec2/concept/5998765"
+    }
+  },
+  {
+    "uri": "en/5/318217",
+    "id": "318217",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Diuretics",
+    "harm": {
+      "id": "0057129",
+      "title": "318217 - Diuretics",
+      "conceptLink": "/ec2/concept/5998765"
+    }
+  },
+  {
+    "uri": "en/5/233996598",
+    "id": "233996598",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "DNA synthesis inhibitors",
+    "harm": {
+      "id": "0074075",
+      "title": "233996598 - DNA synthesis inhibitors",
+      "conceptLink": "/ec2/concept/6011311"
+    }
+  },
+  {
+    "uri": "en/5/91497",
+    "id": "91497",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dog lotions",
+    "harm": {
+      "id": "0012981",
+      "title": "91497 - Dog lotions",
+      "conceptLink": "/ec2/concept/5963338"
+    }
+  },
+  {
+    "uri": "en/5/27135028",
+    "id": "27135028",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dog lotions for veterinary purposes",
+    "harm": {
+      "id": "0012981",
+      "title": "27135028 - Dog lotions for veterinary purposes",
+      "conceptLink": "/ec2/concept/5963338"
+    }
+  },
+  {
+    "uri": "en/5/84409",
+    "id": "84409",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dog washes",
+    "harm": {
+      "id": "0037008",
+      "title": "84409 - Dog washes",
+      "conceptLink": "/ec2/concept/5985305"
+    }
+  },
+  {
+    "uri": "en/5/233479284",
+    "id": "233479284",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dog washes [insecticides]",
+    "harm": {
+      "id": "0037008",
+      "title": "233479284 - Dog washes [insecticides]",
+      "conceptLink": "/ec2/concept/5985305"
+    }
+  },
+  {
+    "uri": "en/5/84433",
+    "id": "84433",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dogs (Repellents for -)",
+    "harm": {
+      "id": "0025407",
+      "title": "84433 - Dogs (Repellents for -)",
+      "conceptLink": "/ec2/concept/5974719"
+    }
+  },
+  {
+    "uri": "en/5/9641462",
+    "id": "9641462",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Domestic biopesticides",
+    "harm": {
+      "id": "0065449",
+      "title": "9641462 - Domestic biopesticides",
+      "conceptLink": "/ec2/concept/6001652"
+    }
+  },
+  {
+    "uri": "en/5/9641482",
+    "id": "9641482",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Domestic pesticides",
+    "harm": {
+      "id": "0065448",
+      "title": "9641482 - Domestic pesticides",
+      "conceptLink": "/ec2/concept/6001651"
+    }
+  },
+  {
+    "uri": "en/5/232621717",
+    "id": "232621717",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Donkey-hide gelatin (Ejiao) for Chinese medicinal use",
+    "harm": {
+      "id": "0072015",
+      "title": "232621717 - Donkey-hide gelatin (Ejiao) for Chinese medicinal use",
+      "conceptLink": "/ec2/concept/6008199"
+    }
+  },
+  {
+    "uri": "en/5/665969",
+    "id": "665969",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Double sided adhesive tapes for medical use",
+    "harm": {
+      "id": "0007222",
+      "title": "665969 - Double sided adhesive tapes for medical use",
+      "conceptLink": "/ec2/concept/5958065"
+    }
+  },
+  {
+    "uri": "en/5/909077",
+    "id": "909077",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Douching preparations for medical purposes",
+    "harm": {
+      "id": "0029115",
+      "title": "909077 - Douching preparations for medical purposes",
+      "conceptLink": "/ec2/concept/5978121"
+    }
+  },
+  {
+    "uri": "en/5/665981",
+    "id": "665981",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dragees [medicines]",
+    "harm": {
+      "id": "0041935",
+      "title": "665981 - Dragees [medicines]",
+      "conceptLink": "/ec2/concept/5989798"
+    }
+  },
+  {
+    "uri": "en/5/665995",
+    "id": "665995",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dressing retention materials",
+    "harm": {
+      "id": "0007223",
+      "title": "665995 - Dressing retention materials",
+      "conceptLink": "/ec2/concept/5958066"
+    }
+  },
+  {
+    "uri": "en/5/666012",
+    "id": "666012",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dressings for wounds",
+    "harm": {
+      "id": "0018884",
+      "title": "666012 - Dressings for wounds",
+      "conceptLink": "/ec2/concept/5968754"
+    }
+  },
+  {
+    "uri": "en/5/85810",
+    "id": "85810",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dressings, medical",
+    "harm": {
+      "id": "0036118",
+      "title": "85810 - Dressings, medical",
+      "conceptLink": "/ec2/concept/5984491"
+    }
+  },
+  {
+    "uri": "en/5/86533",
+    "id": "86533",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dressings (Surgical -)",
+    "harm": {
+      "id": "0026114",
+      "title": "86533 - Dressings (Surgical -)",
+      "conceptLink": "/ec2/concept/5975367"
+    }
+  },
+  {
+    "uri": "en/5/232621720",
+    "id": "232621720",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dried Chinese boxthorn fruits for Chinese medicinal use",
+    "harm": {
+      "id": "0072016",
+      "title": "232621720 - Dried Chinese boxthorn fruits for Chinese medicinal use",
+      "conceptLink": "/ec2/concept/6008200"
+    }
+  },
+  {
+    "uri": "en/5/91747",
+    "id": "91747",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drinks (Medicinal -)",
+    "harm": {
+      "id": "0010402",
+      "title": "91747 - Drinks (Medicinal -)",
+      "conceptLink": "/ec2/concept/5960974"
+    }
+  },
+  {
+    "uri": "en/5/7701607",
+    "id": "7701607",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drug delivery agents",
+    "harm": {
+      "id": "0065447",
+      "title": "7701607 - Drug delivery agents",
+      "conceptLink": "/ec2/concept/6001650"
+    }
+  },
+  {
+    "uri": "en/5/137876135",
+    "id": "137876135",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drug delivery agents in the form of coatings for tablets that facilitate the delivery of pharmaceutical preparations",
+    "harm": {
+      "id": "0070656",
+      "title": "137876135 - Drug delivery agents in the form of coatings for tablets that facilitate the delivery of pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6006848"
+    }
+  },
+  {
+    "uri": "en/5/137876134",
+    "id": "137876134",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drug delivery agents in the form of dissolvable films that facilitate the delivery of pharmaceutical preparations",
+    "harm": {
+      "id": "0070657",
+      "title": "137876134 - Drug delivery agents in the form of dissolvable films that facilitate the delivery of pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6006849"
+    }
+  },
+  {
+    "uri": "en/5/136010947",
+    "id": "136010947",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drug delivery agents in the form of edible wafers for wrapping powdered pharmaceuticals",
+    "harm": {
+      "id": "0055139",
+      "title": "136010947 - Drug delivery agents in the form of edible wafers for wrapping powdered pharmaceuticals",
+      "conceptLink": "/ec2/concept/5996578"
+    }
+  },
+  {
+    "uri": "en/5/137876136",
+    "id": "137876136",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drug delivery agents that facilitate the delivery of pharmaceutical preparations",
+    "harm": {
+      "id": "0070658",
+      "title": "137876136 - Drug delivery agents that facilitate the delivery of pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6006850"
+    }
+  },
+  {
+    "uri": "en/5/86108",
+    "id": "86108",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Drugs for medical purposes",
+    "harm": {
+      "id": "0025913",
+      "title": "86108 - Drugs for medical purposes",
+      "conceptLink": "/ec2/concept/5975181"
+    }
+  },
+  {
+    "uri": "en/5/82964",
+    "id": "82964",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dry rot fungus (Preparations for destroying -)",
+    "harm": {
+      "id": "0037283",
+      "title": "82964 - Dry rot fungus (Preparations for destroying -)",
+      "conceptLink": "/ec2/concept/5985547"
+    }
+  },
+  {
+    "uri": "en/5/120912044",
+    "id": "120912044",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Dysmenorrhea treatment preparations",
+    "harm": {
+      "id": "0065420",
+      "title": "120912044 - Dysmenorrhea treatment preparations",
+      "conceptLink": "/ec2/concept/6001623"
+    }
+  },
+  {
+    "uri": "en/5/17699645",
+    "id": "17699645",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ear bandages",
+    "harm": {
+      "id": "0055479",
+      "title": "17699645 - Ear bandages",
+      "conceptLink": "/ec2/concept/5996878"
+    }
+  },
+  {
+    "uri": "en/5/120873868",
+    "id": "120873868",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ear candles",
+    "harm": {
+      "id": "0065247",
+      "title": "120873868 - Ear candles",
+      "conceptLink": "/ec2/concept/6001450"
+    }
+  },
+  {
+    "uri": "en/5/119523751",
+    "id": "119523751",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ear candles for therapeutic purposes",
+    "harm": {
+      "id": "0055480",
+      "title": "119523751 - Ear candles for therapeutic purposes",
+      "conceptLink": "/ec2/concept/5996879"
+    }
+  },
+  {
+    "uri": "en/5/383344",
+    "id": "383344",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ear drops",
+    "harm": {
+      "id": "0003123",
+      "title": "383344 - Ear drops",
+      "conceptLink": "/ec2/concept/5954309"
+    }
+  },
+  {
+    "uri": "en/5/233996837",
+    "id": "233996837",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ectoparasite repellents",
+    "harm": {
+      "id": "0074142",
+      "title": "233996837 - Ectoparasite repellents",
+      "conceptLink": "/ec2/concept/6011377"
+    }
+  },
+  {
+    "uri": "en/5/119523753",
+    "id": "119523753",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Edible fish oils for medical purposes",
+    "harm": {
+      "id": "0040837",
+      "title": "119523753 - Edible fish oils for medical purposes",
+      "conceptLink": "/ec2/concept/5988792"
+    }
+  },
+  {
+    "uri": "en/5/666044",
+    "id": "666044",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Effervescent analgesic pharmaceutical preparations",
+    "harm": {
+      "id": "0018885",
+      "title": "666044 - Effervescent analgesic pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5968755"
+    }
+  },
+  {
+    "uri": "en/5/666056",
+    "id": "666056",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Effervescent vitamin tablets",
+    "harm": {
+      "id": "0018886",
+      "title": "666056 - Effervescent vitamin tablets",
+      "conceptLink": "/ec2/concept/5968756"
+    }
+  },
+  {
+    "uri": "en/5/120884164",
+    "id": "120884164",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Egg sanitizing preparations",
+    "harm": {
+      "id": "0050604",
+      "title": "120884164 - Egg sanitizing preparations",
+      "conceptLink": "/ec2/concept/5995972"
+    }
+  },
+  {
+    "uri": "en/5/893143",
+    "id": "893143",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Elastic bandages [dressings]",
+    "harm": {
+      "id": "0037314",
+      "title": "893143 - Elastic bandages [dressings]",
+      "conceptLink": "/ec2/concept/5985577"
+    }
+  },
+  {
+    "uri": "en/5/666069",
+    "id": "666069",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Elastic dressings",
+    "harm": {
+      "id": "0037314",
+      "title": "666069 - Elastic dressings",
+      "conceptLink": "/ec2/concept/5985577"
+    }
+  },
+  {
+    "uri": "en/5/85061",
+    "id": "85061",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrocardiograph electrodes (Chemical conductors for -)",
+    "harm": {
+      "id": "0043036",
+      "title": "85061 - Electrocardiograph electrodes (Chemical conductors for -)",
+      "conceptLink": "/ec2/concept/5990795"
+    }
+  },
+  {
+    "uri": "en/5/85062",
+    "id": "85062",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrodes (Chemical conductors for electrocardiograph -)",
+    "harm": {
+      "id": "0043036",
+      "title": "85062 - Electrodes (Chemical conductors for electrocardiograph -)",
+      "conceptLink": "/ec2/concept/5990795"
+    }
+  },
+  {
+    "uri": "en/5/119523754",
+    "id": "119523754",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrolyte drinks for medical purposes",
+    "harm": {
+      "id": "0070659",
+      "title": "119523754 - Electrolyte drinks for medical purposes",
+      "conceptLink": "/ec2/concept/6006851"
+    }
+  },
+  {
+    "uri": "en/5/137964159",
+    "id": "137964159",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrolyte replacement beverages for medical purposes",
+    "harm": {
+      "id": "0070660",
+      "title": "137964159 - Electrolyte replacement beverages for medical purposes",
+      "conceptLink": "/ec2/concept/6006852"
+    }
+  },
+  {
+    "uri": "en/5/666081",
+    "id": "666081",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrolyte solutions for medical use",
+    "harm": {
+      "id": "0013039",
+      "title": "666081 - Electrolyte solutions for medical use",
+      "conceptLink": "/ec2/concept/5963389"
+    }
+  },
+  {
+    "uri": "en/5/120912324",
+    "id": "120912324",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Electrolytes for medical use",
+    "harm": {
+      "id": "0065446",
+      "title": "120912324 - Electrolytes for medical use",
+      "conceptLink": "/ec2/concept/6001649"
+    }
+  },
+  {
+    "uri": "en/5/666100",
+    "id": "666100",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Elixirs for preventing chills",
+    "harm": {
+      "id": "0036163",
+      "title": "666100 - Elixirs for preventing chills",
+      "conceptLink": "/ec2/concept/5984531"
+    }
+  },
+  {
+    "uri": "en/5/666101",
+    "id": "666101",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Elixirs for preventing colds",
+    "harm": {
+      "id": "0036163",
+      "title": "666101 - Elixirs for preventing colds",
+      "conceptLink": "/ec2/concept/5984531"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/6800901",
+    "id": "6800901",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Podcasting",
+    "harm": {
+      "id": "0068547",
+      "title": "6800901 - Podcasting",
+      "conceptLink": "/ec2/concept/6004750"
+    }
+  },
+  {
+    "uri": "en/38/828048",
+    "id": "828048",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Professional consultancy relating to telecommunications",
+    "harm": {
+      "id": "0005132",
+      "title": "828048 - Professional consultancy relating to telecommunications",
+      "conceptLink": "/ec2/concept/5956155"
+    }
+  },
+  {
+    "uri": "en/38/456446",
+    "id": "456446",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to a global computer information network",
+    "harm": {
+      "id": "0001349",
+      "title": "456446 - Providing access to a global computer information network",
+      "conceptLink": "/ec2/concept/5952698"
+    }
+  },
+  {
+    "uri": "en/38/456466",
+    "id": "456466",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to a global computer network for the transfer and dissemination of information",
+    "harm": {
+      "id": "0024499",
+      "title": "456466 - Providing access to a global computer network for the transfer and dissemination of information",
+      "conceptLink": "/ec2/concept/5973882"
+    }
+  },
+  {
+    "uri": "en/38/21028727",
+    "id": "21028727",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to a video sharing portal",
+    "harm": {
+      "id": "0068592",
+      "title": "21028727 - Providing access to a video sharing portal",
+      "conceptLink": "/ec2/concept/6004795"
+    }
+  },
+  {
+    "uri": "en/38/1087988",
+    "id": "1087988",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to a worldwide computer network",
+    "harm": {
+      "id": "0005099",
+      "title": "1087988 - Providing access to a worldwide computer network",
+      "conceptLink": "/ec2/concept/5956126"
+    }
+  },
+  {
+    "uri": "en/38/129851565",
+    "id": "129851565",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to an Internet discussion website",
+    "harm": {
+      "id": "0068506",
+      "title": "129851565 - Providing access to an Internet discussion website",
+      "conceptLink": "/ec2/concept/6004709"
+    }
+  },
+  {
+    "uri": "en/38/485169",
+    "id": "485169",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to and leasing access time to computer databases",
+    "harm": {
+      "id": "0027288",
+      "title": "485169 - Providing access to and leasing access time to computer databases",
+      "conceptLink": "/ec2/concept/5976423"
+    }
+  },
+  {
+    "uri": "en/38/485170",
+    "id": "485170",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to and leasing access to computer databases",
+    "harm": {
+      "id": "0027288",
+      "title": "485170 - Providing access to and leasing access to computer databases",
+      "conceptLink": "/ec2/concept/5976423"
+    }
+  },
+  {
+    "uri": "en/38/485171",
+    "id": "485171",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to and leasing time to computer databases",
+    "harm": {
+      "id": "0027288",
+      "title": "485171 - Providing access to and leasing time to computer databases",
+      "conceptLink": "/ec2/concept/5976423"
+    }
+  },
+  {
+    "uri": "en/38/485198",
+    "id": "485198",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to and leasing access time to computer networks",
+    "harm": {
+      "id": "0033026",
+      "title": "485198 - Providing access to and leasing access time to computer networks",
+      "conceptLink": "/ec2/concept/5981680"
+    }
+  },
+  {
+    "uri": "en/38/828062",
+    "id": "828062",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to computer networks",
+    "harm": {
+      "id": "0016699",
+      "title": "828062 - Providing access to computer networks",
+      "conceptLink": "/ec2/concept/5966760"
+    }
+  },
+  {
+    "uri": "en/38/454904",
+    "id": "454904",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to computer databases",
+    "harm": {
+      "id": "0042911",
+      "title": "454904 - Providing access to computer databases",
+      "conceptLink": "/ec2/concept/5990681"
+    }
+  },
+  {
+    "uri": "en/38/120870261",
+    "id": "120870261",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to data in computer networks",
+    "harm": {
+      "id": "0068505",
+      "title": "120870261 - Providing access to data in computer networks",
+      "conceptLink": "/ec2/concept/6004708"
+    }
+  },
+  {
+    "uri": "en/38/120868661",
+    "id": "120868661",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to databases in computer networks",
+    "harm": {
+      "id": "0068594",
+      "title": "120868661 - Providing access to databases in computer networks",
+      "conceptLink": "/ec2/concept/6004797"
+    }
+  },
+  {
+    "uri": "en/38/454903",
+    "id": "454903",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to databases",
+    "harm": {
+      "id": "0042911",
+      "title": "454903 - Providing access to databases",
+      "conceptLink": "/ec2/concept/5990681"
+    }
+  },
+  {
+    "uri": "en/38/485214",
+    "id": "485214",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to digital music web sites on the internet",
+    "harm": {
+      "id": "0008905",
+      "title": "485214 - Providing access to digital music web sites on the internet",
+      "conceptLink": "/ec2/concept/5959602"
+    }
+  },
+  {
+    "uri": "en/38/485215",
+    "id": "485215",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to digital music websites on the Internet",
+    "harm": {
+      "id": "0008905",
+      "title": "485215 - Providing access to digital music websites on the Internet",
+      "conceptLink": "/ec2/concept/5959602"
+    }
+  },
+  {
+    "uri": "en/38/8484587",
+    "id": "8484587",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to e-commerce platforms on the Internet",
+    "harm": {
+      "id": "0068497",
+      "title": "8484587 - Providing access to e-commerce platforms on the Internet",
+      "conceptLink": "/ec2/concept/6004700"
+    }
+  },
+  {
+    "uri": "en/38/485250",
+    "id": "485250",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to electronic communications networks and electronic databases",
+    "harm": {
+      "id": "0044586",
+      "title": "485250 - Providing access to electronic communications networks and electronic databases",
+      "conceptLink": "/ec2/concept/5992220"
+    }
+  },
+  {
+    "uri": "en/38/485236",
+    "id": "485236",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to electronic communications networks",
+    "harm": {
+      "id": "0044585",
+      "title": "485236 - Providing access to electronic communications networks",
+      "conceptLink": "/ec2/concept/5992219"
+    }
+  },
+  {
+    "uri": "en/38/3931239",
+    "id": "3931239",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to gambling and gaming websites on the internet",
+    "harm": {
+      "id": "0073087",
+      "title": "3931239 - Providing access to gambling and gaming websites on the internet",
+      "conceptLink": "/ec2/concept/6009260"
+    }
+  },
+  {
+    "uri": "en/38/456486",
+    "id": "456486",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to global computer networks and other computer networks",
+    "harm": {
+      "id": "0016099",
+      "title": "456486 - Providing access to global computer networks and other computer networks",
+      "conceptLink": "/ec2/concept/5966210"
+    }
+  },
+  {
+    "uri": "en/38/43959",
+    "id": "43959",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to global computer networks",
+    "harm": {
+      "id": "0041824",
+      "title": "43959 - Providing access to global computer networks",
+      "conceptLink": "/ec2/concept/5989694"
+    }
+  },
+  {
+    "uri": "en/38/108109428",
+    "id": "108109428",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to information via data networks",
+    "harm": {
+      "id": "0068504",
+      "title": "108109428 - Providing access to information via data networks",
+      "conceptLink": "/ec2/concept/6004707"
+    }
+  },
+  {
+    "uri": "en/38/6029972",
+    "id": "6029972",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to information via the Internet",
+    "harm": {
+      "id": "0068503",
+      "title": "6029972 - Providing access to information via the Internet",
+      "conceptLink": "/ec2/concept/6004706"
+    }
+  },
+  {
+    "uri": "en/38/1630652",
+    "id": "1630652",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to information on the Internet",
+    "harm": {
+      "id": "0068597",
+      "title": "1630652 - Providing access to information on the Internet",
+      "conceptLink": "/ec2/concept/6004800"
+    }
+  },
+  {
+    "uri": "en/38/120870229",
+    "id": "120870229",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to Internet portals for third parties",
+    "harm": {
+      "id": "0068496",
+      "title": "120870229 - Providing access to Internet portals for third parties",
+      "conceptLink": "/ec2/concept/6004699"
+    }
+  },
+  {
+    "uri": "en/38/2335656",
+    "id": "2335656",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to Internet forums",
+    "harm": {
+      "id": "0068499",
+      "title": "2335656 - Providing access to Internet forums",
+      "conceptLink": "/ec2/concept/6004702"
+    }
+  },
+  {
+    "uri": "en/38/22012588",
+    "id": "22012588",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to Internet chatrooms",
+    "harm": {
+      "id": "0068584",
+      "title": "22012588 - Providing access to Internet chatrooms",
+      "conceptLink": "/ec2/concept/6004787"
+    }
+  },
+  {
+    "uri": "en/38/485267",
+    "id": "485267",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to mp3 websites on the internet",
+    "harm": {
+      "id": "0027289",
+      "title": "485267 - Providing access to mp3 websites on the internet",
+      "conceptLink": "/ec2/concept/5976424"
+    }
+  },
+  {
+    "uri": "en/38/485266",
+    "id": "485266",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to mp3 web sites on the internet",
+    "harm": {
+      "id": "0027289",
+      "title": "485266 - Providing access to mp3 web sites on the internet",
+      "conceptLink": "/ec2/concept/5976424"
+    }
+  },
+  {
+    "uri": "en/38/120868282",
+    "id": "120868282",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to multimedia content online",
+    "harm": {
+      "id": "0068542",
+      "title": "120868282 - Providing access to multimedia content online",
+      "conceptLink": "/ec2/concept/6004745"
+    }
+  },
+  {
+    "uri": "en/38/10796210",
+    "id": "10796210",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to online computer databases",
+    "harm": {
+      "id": "0071336",
+      "title": "10796210 - Providing access to online computer databases",
+      "conceptLink": "/ec2/concept/6007527"
+    }
+  },
+  {
+    "uri": "en/38/33088273",
+    "id": "33088273",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to platforms and portals on the Internet",
+    "harm": {
+      "id": "0068546",
+      "title": "33088273 - Providing access to platforms and portals on the Internet",
+      "conceptLink": "/ec2/concept/6004749"
+    }
+  },
+  {
+    "uri": "en/38/7428988",
+    "id": "7428988",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to platforms on the Internet",
+    "harm": {
+      "id": "0068522",
+      "title": "7428988 - Providing access to platforms on the Internet",
+      "conceptLink": "/ec2/concept/6004725"
+    }
+  },
+  {
+    "uri": "en/38/8902506",
+    "id": "8902506",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to portals on the Internet",
+    "harm": {
+      "id": "0068586",
+      "title": "8902506 - Providing access to portals on the Internet",
+      "conceptLink": "/ec2/concept/6004789"
+    }
+  },
+  {
+    "uri": "en/38/370005",
+    "id": "370005",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to telecommunication networks",
+    "harm": {
+      "id": "0021195",
+      "title": "370005 - Providing access to telecommunication networks",
+      "conceptLink": "/ec2/concept/5970858"
+    }
+  },
+  {
+    "uri": "en/38/120867764",
+    "id": "120867764",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to telecommunication channels for teleshopping services",
+    "harm": {
+      "id": "0068580",
+      "title": "120867764 - Providing access to telecommunication channels for teleshopping services",
+      "conceptLink": "/ec2/concept/6004783"
+    }
+  },
+  {
+    "uri": "en/38/456519",
+    "id": "456519",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to the internet",
+    "harm": {
+      "id": "0006595",
+      "title": "456519 - Providing access to the internet",
+      "conceptLink": "/ec2/concept/5957494"
+    }
+  },
+  {
+    "uri": "en/38/1955637",
+    "id": "1955637",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to the Internet and other communications networks",
+    "harm": {
+      "id": "0068502",
+      "title": "1955637 - Providing access to the Internet and other communications networks",
+      "conceptLink": "/ec2/concept/6004705"
+    }
+  },
+  {
+    "uri": "en/38/485291",
+    "id": "485291",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to web sites on the internet",
+    "harm": {
+      "id": "0009930",
+      "title": "485291 - Providing access to web sites on the internet",
+      "conceptLink": "/ec2/concept/5960543"
+    }
+  },
+  {
+    "uri": "en/38/499626",
+    "id": "499626",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to weblogs",
+    "harm": {
+      "id": "0009280",
+      "title": "499626 - Providing access to weblogs",
+      "conceptLink": "/ec2/concept/5959953"
+    }
+  },
+  {
+    "uri": "en/38/129851121",
+    "id": "129851121",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing access to websites on the Internet or any other communications network",
+    "harm": {
+      "id": "0068474",
+      "title": "129851121 - Providing access to websites on the Internet or any other communications network",
+      "conceptLink": "/ec2/concept/6004677"
+    }
+  },
+  {
+    "uri": "en/38/456577",
+    "id": "456577",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing an electronic mailbox",
+    "harm": {
+      "id": "0027625",
+      "title": "456577 - Providing an electronic mailbox",
+      "conceptLink": "/ec2/concept/5976742"
+    }
+  },
+  {
+    "uri": "en/38/485306",
+    "id": "485306",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing an online interactive bulletin board",
+    "harm": {
+      "id": "0033027",
+      "title": "485306 - Providing an online interactive bulletin board",
+      "conceptLink": "/ec2/concept/5981681"
+    }
+  },
+  {
+    "uri": "en/38/906335",
+    "id": "906335",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing chat lines utilising the internet",
+    "harm": {
+      "id": "0002458",
+      "title": "906335 - Providing chat lines utilising the internet",
+      "conceptLink": "/ec2/concept/5953701"
+    }
+  },
+  {
+    "uri": "en/38/485345",
+    "id": "485345",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing communication services through the use of phone cards or debit cards",
+    "harm": {
+      "id": "0005681",
+      "title": "485345 - Providing communication services through the use of phone cards or debit cards",
+      "conceptLink": "/ec2/concept/5956660"
+    }
+  },
+  {
+    "uri": "en/38/485359",
+    "id": "485359",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing computer access to communication networks",
+    "harm": {
+      "id": "0005682",
+      "title": "485359 - Providing computer access to communication networks",
+      "conceptLink": "/ec2/concept/5956661"
+    }
+  },
+  {
+    "uri": "en/38/883651",
+    "id": "883651",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing e-mail fax services",
+    "harm": {
+      "id": "0003156",
+      "title": "883651 - Providing e-mail fax services",
+      "conceptLink": "/ec2/concept/5954339"
+    }
+  },
+  {
+    "uri": "en/38/370044",
+    "id": "370044",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing e-mail services",
+    "harm": {
+      "id": "0058342",
+      "title": "370044 - Providing e-mail services",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/370022",
+    "id": "370022",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing electronic telecommunication connections",
+    "harm": {
+      "id": "0026828",
+      "title": "370022 - Providing electronic telecommunication connections",
+      "conceptLink": "/ec2/concept/5976010"
+    }
+  },
+  {
+    "uri": "en/38/232611759",
+    "id": "232611759",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing electronic transmission of secure e-mail",
+    "harm": {
+      "id": "0031631",
+      "title": "232611759 - Providing electronic transmission of secure e-mail",
+      "conceptLink": "/ec2/concept/5980406"
+    }
+  },
+  {
+    "uri": "en/38/456596",
+    "id": "456596",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing facilities and equipment for video conferencing",
+    "harm": {
+      "id": "0044910",
+      "title": "456596 - Providing facilities and equipment for video conferencing",
+      "conceptLink": "/ec2/concept/5992517"
+    }
+  },
+  {
+    "uri": "en/38/456610",
+    "id": "456610",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing frame relay connectivity services for data transfer",
+    "harm": {
+      "id": "0016100",
+      "title": "456610 - Providing frame relay connectivity services for data transfer",
+      "conceptLink": "/ec2/concept/5966211"
+    }
+  },
+  {
+    "uri": "en/38/120868285",
+    "id": "120868285",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing high speed access to computer and communication networks",
+    "harm": {
+      "id": "0068545",
+      "title": "120868285 - Providing high speed access to computer and communication networks",
+      "conceptLink": "/ec2/concept/6004748"
+    }
+  },
+  {
+    "uri": "en/38/43194",
+    "id": "43194",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing information about telecommunications",
+    "harm": {
+      "id": "0006594",
+      "title": "43194 - Providing information about telecommunications",
+      "conceptLink": "/ec2/concept/5957493"
+    }
+  },
+  {
+    "uri": "en/38/137916908",
+    "id": "137916908",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing information about wireless communication",
+    "harm": {
+      "id": "0068501",
+      "title": "137916908 - Providing information about wireless communication",
+      "conceptLink": "/ec2/concept/6004704"
+    }
+  },
+  {
+    "uri": "en/38/120868292",
+    "id": "120868292",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing information about cable television broadcasting",
+    "harm": {
+      "id": "0068544",
+      "title": "120868292 - Providing information about cable television broadcasting",
+      "conceptLink": "/ec2/concept/6004747"
+    }
+  },
+  {
+    "uri": "en/38/120868304",
+    "id": "120868304",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing information about radio broadcasting",
+    "harm": {
+      "id": "0068537",
+      "title": "120868304 - Providing information about radio broadcasting",
+      "conceptLink": "/ec2/concept/6004740"
+    }
+  },
+  {
+    "uri": "en/38/120870226",
+    "id": "120870226",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing information relating to wireless communication",
+    "harm": {
+      "id": "0068501",
+      "title": "120870226 - Providing information relating to wireless communication",
+      "conceptLink": "/ec2/concept/6004704"
+    }
+  },
+  {
+    "uri": "en/38/69848643",
+    "id": "69848643",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing instant messaging services",
+    "harm": {
+      "id": "0038087",
+      "title": "69848643 - Providing instant messaging services",
+      "conceptLink": "/ec2/concept/5986279"
+    }
+  },
+  {
+    "uri": "en/38/456518",
+    "id": "456518",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing internet access",
+    "harm": {
+      "id": "0006595",
+      "title": "456518 - Providing internet access",
+      "conceptLink": "/ec2/concept/5957494"
+    }
+  },
+  {
+    "uri": "en/38/120892266",
+    "id": "120892266",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing Internet chat lines",
+    "harm": {
+      "id": "0068470",
+      "title": "120892266 - Providing Internet chat lines",
+      "conceptLink": "/ec2/concept/6004673"
+    }
+  },
+  {
+    "uri": "en/38/32271455",
+    "id": "32271455",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing Internet chatrooms and Internet forums",
+    "harm": {
+      "id": "0068475",
+      "title": "32271455 - Providing Internet chatrooms and Internet forums",
+      "conceptLink": "/ec2/concept/6004678"
+    }
+  },
+  {
+    "uri": "en/38/484218",
+    "id": "484218",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing internet chatrooms",
+    "harm": {
+      "id": "0009100",
+      "title": "484218 - Providing internet chatrooms",
+      "conceptLink": "/ec2/concept/5959786"
+    }
+  },
+  {
+    "uri": "en/38/370084",
+    "id": "370084",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing multiple use access to global computer information networks for the transfer and dissemination of a wide range of information",
+    "harm": {
+      "id": "0026829",
+      "title": "370084 - Providing multiple use access to global computer information networks for the transfer and dissemination of a wide range of information",
+      "conceptLink": "/ec2/concept/5976011"
+    }
+  },
+  {
+    "uri": "en/38/456643",
+    "id": "456643",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing multiple-user access to a global computer information network",
+    "harm": {
+      "id": "0039197",
+      "title": "456643 - Providing multiple-user access to a global computer information network",
+      "conceptLink": "/ec2/concept/5987293"
+    }
+  },
+  {
+    "uri": "en/38/2401042",
+    "id": "2401042",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing multiple-user access to a global computer network",
+    "harm": {
+      "id": "0068498",
+      "title": "2401042 - Providing multiple-user access to a global computer network",
+      "conceptLink": "/ec2/concept/6004701"
+    }
+  },
+  {
+    "uri": "en/38/456623",
+    "id": "456623",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing multiple user dial-up and dedicated access to the internet",
+    "harm": {
+      "id": "0022024",
+      "title": "456623 - Providing multiple user dial-up and dedicated access to the internet",
+      "conceptLink": "/ec2/concept/5971614"
+    }
+  },
+  {
+    "uri": "en/38/828078",
+    "id": "828078",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing of access to telecommunication warehousing services",
+    "harm": {
+      "id": "0045504",
+      "title": "828078 - Providing of access to telecommunication warehousing services",
+      "conceptLink": "/ec2/concept/5993059"
+    }
+  },
+  {
+    "uri": "en/38/456660",
+    "id": "456660",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line chat rooms for transmission of messages among computer users",
+    "harm": {
+      "id": "0004569",
+      "title": "456660 - Providing on-line chat rooms for transmission of messages among computer users",
+      "conceptLink": "/ec2/concept/5955633"
+    }
+  },
+  {
+    "uri": "en/38/906390",
+    "id": "906390",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line chat rooms for social networking",
+    "harm": {
+      "id": "0012000",
+      "title": "906390 - Providing on-line chat rooms for social networking",
+      "conceptLink": "/ec2/concept/5962446"
+    }
+  },
+  {
+    "uri": "en/38/120870234",
+    "id": "120870234",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line chatrooms and electronic bulletin boards for transmission of messages amongst users",
+    "harm": {
+      "id": "0068495",
+      "title": "120870234 - Providing on-line chatrooms and electronic bulletin boards for transmission of messages amongst users",
+      "conceptLink": "/ec2/concept/6004698"
+    }
+  },
+  {
+    "uri": "en/38/456675",
+    "id": "456675",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line electronic bulletin board services and chat rooms",
+    "harm": {
+      "id": "0010279",
+      "title": "456675 - Providing on-line electronic bulletin board services and chat rooms",
+      "conceptLink": "/ec2/concept/5960859"
+    }
+  },
+  {
+    "uri": "en/38/456693",
+    "id": "456693",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line electronic bulletin boards for transmission of messages among computer users",
+    "harm": {
+      "id": "0039198",
+      "title": "456693 - Providing on-line electronic bulletin boards for transmission of messages among computer users",
+      "conceptLink": "/ec2/concept/5987294"
+    }
+  },
+  {
+    "uri": "en/38/906394",
+    "id": "906394",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line forums for transmission of messages among computer users",
+    "harm": {
+      "id": "0006208",
+      "title": "906394 - Providing on-line forums for transmission of messages among computer users",
+      "conceptLink": "/ec2/concept/5957140"
+    }
+  },
+  {
+    "uri": "en/38/456707",
+    "id": "456707",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing on-line listservers for transmission of messages among computer users",
+    "harm": {
+      "id": "0039199",
+      "title": "456707 - Providing on-line listservers for transmission of messages among computer users",
+      "conceptLink": "/ec2/concept/5987295"
+    }
+  },
+  {
+    "uri": "en/38/120868273",
+    "id": "120868273",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing online chatrooms for the transmission of messages, comments and multimedia content among users",
+    "harm": {
+      "id": "0068543",
+      "title": "120868273 - Providing online chatrooms for the transmission of messages, comments and multimedia content among users",
+      "conceptLink": "/ec2/concept/6004746"
+    }
+  },
+  {
+    "uri": "en/38/137914749",
+    "id": "137914749",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing online facilities for real-time interaction with other computer users",
+    "harm": {
+      "id": "0006593",
+      "title": "137914749 - Providing online facilities for real-time interaction with other computer users",
+      "conceptLink": "/ec2/concept/5957492"
+    }
+  },
+  {
+    "uri": "en/38/109846750",
+    "id": "109846750",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing online forums",
+    "harm": {
+      "id": "0044831",
+      "title": "109846750 - Providing online forums",
+      "conceptLink": "/ec2/concept/5992443"
+    }
+  },
+  {
+    "uri": "en/38/886896",
+    "id": "886896",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to the internet or databases",
+    "harm": {
+      "id": "0001990",
+      "title": "886896 - Providing telecommunications connections to the internet or databases",
+      "conceptLink": "/ec2/concept/5953280"
+    }
+  },
+  {
+    "uri": "en/38/886895",
+    "id": "886895",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunication connections to the internet or databases",
+    "harm": {
+      "id": "0001990",
+      "title": "886895 - Providing telecommunication connections to the internet or databases",
+      "conceptLink": "/ec2/concept/5953280"
+    }
+  },
+  {
+    "uri": "en/38/43819",
+    "id": "43819",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connection to a global computer network",
+    "harm": {
+      "id": "0035101",
+      "title": "43819 - Providing telecommunications connection to a global computer network",
+      "conceptLink": "/ec2/concept/5983567"
+    }
+  },
+  {
+    "uri": "en/38/456721",
+    "id": "456721",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to a global computer network or databases",
+    "harm": {
+      "id": "0033398",
+      "title": "456721 - Providing telecommunications connections to a global computer network or databases",
+      "conceptLink": "/ec2/concept/5982022"
+    }
+  },
+  {
+    "uri": "en/38/233392254",
+    "id": "233392254",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications access to server centres",
+    "harm": {
+      "id": "0073402",
+      "title": "233392254 - Providing telecommunications access to server centres",
+      "conceptLink": "/ec2/concept/6009575"
+    }
+  },
+  {
+    "uri": "en/38/120868332",
+    "id": "120868332",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to the Internet in a cafe environment",
+    "harm": {
+      "id": "0068535",
+      "title": "120868332 - Providing telecommunications connections to the Internet in a cafe environment",
+      "conceptLink": "/ec2/concept/6004738"
+    }
+  },
+  {
+    "uri": "en/38/120868314",
+    "id": "120868314",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to databases",
+    "harm": {
+      "id": "0068540",
+      "title": "120868314 - Providing telecommunications connections to databases",
+      "conceptLink": "/ec2/concept/6004743"
+    }
+  },
+  {
+    "uri": "en/38/120867716",
+    "id": "120867716",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to a global communication network or databases",
+    "harm": {
+      "id": "0068573",
+      "title": "120867716 - Providing telecommunications connections to a global communication network or databases",
+      "conceptLink": "/ec2/concept/6004776"
+    }
+  },
+  {
+    "uri": "en/38/1130743",
+    "id": "1130743",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to the Internet",
+    "harm": {
+      "id": "0068541",
+      "title": "1130743 - Providing telecommunications connections to the Internet",
+      "conceptLink": "/ec2/concept/6004744"
+    }
+  },
+  {
+    "uri": "en/38/43821",
+    "id": "43821",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunications connections to a global computer network",
+    "harm": {
+      "id": "0035101",
+      "title": "43821 - Providing telecommunications connections to a global computer network",
+      "conceptLink": "/ec2/concept/5983567"
+    }
+  },
+  {
+    "uri": "en/38/495770",
+    "id": "495770",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telecommunication channels for teleshopping services",
+    "harm": {
+      "id": "0040593",
+      "title": "495770 - Providing telecommunication channels for teleshopping services",
+      "conceptLink": "/ec2/concept/5988573"
+    }
+  },
+  {
+    "uri": "en/38/43912",
+    "id": "43912",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing telephone conferencing services",
+    "harm": {
+      "id": "0005865",
+      "title": "43912 - Providing telephone conferencing services",
+      "conceptLink": "/ec2/concept/5956822"
+    }
+  },
+  {
+    "uri": "en/38/370103",
+    "id": "370103",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing third party users with access to telecommunication infrastructure",
+    "harm": {
+      "id": "0026830",
+      "title": "370103 - Providing third party users with access to telecommunication infrastructure",
+      "conceptLink": "/ec2/concept/5976012"
+    }
+  },
+  {
+    "uri": "en/38/485637",
+    "id": "485637",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to the internet (services providers)",
+    "harm": {
+      "id": "0023099",
+      "title": "485637 - Providing user access to the internet (services providers)",
+      "conceptLink": "/ec2/concept/5972591"
+    }
+  },
+  {
+    "uri": "en/38/485636",
+    "id": "485636",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to the internet (service providers)",
+    "harm": {
+      "id": "0023099",
+      "title": "485636 - Providing user access to the internet (service providers)",
+      "conceptLink": "/ec2/concept/5972591"
+    }
+  },
+  {
+    "uri": "en/38/456521",
+    "id": "456521",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to the internet",
+    "harm": {
+      "id": "0006595",
+      "title": "456521 - Providing user access to the internet",
+      "conceptLink": "/ec2/concept/5957494"
+    }
+  },
+  {
+    "uri": "en/38/906420",
+    "id": "906420",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to computer programmes in data networks",
+    "harm": {
+      "id": "0006211",
+      "title": "906420 - Providing user access to computer programmes in data networks",
+      "conceptLink": "/ec2/concept/5957143"
+    }
+  },
+  {
+    "uri": "en/38/120870187",
+    "id": "120870187",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to portals on the Internet",
+    "harm": {
+      "id": "0068493",
+      "title": "120870187 - Providing user access to portals on the Internet",
+      "conceptLink": "/ec2/concept/6004696"
+    }
+  },
+  {
+    "uri": "en/38/120870191",
+    "id": "120870191",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Providing user access to platforms on the Internet",
+    "harm": {
+      "id": "0068494",
+      "title": "120870191 - Providing user access to platforms on the Internet",
+      "conceptLink": "/ec2/concept/6004697"
+    }
+  }
+]

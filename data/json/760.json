@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/504875",
+    "id": "504875",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Marine, aerial and land surveying",
+    "harm": {
+      "id": "0015319",
+      "title": "504875 - Marine, aerial and land surveying",
+      "conceptLink": "/ec2/concept/5965482"
+    }
+  },
+  {
+    "uri": "en/42/473441",
+    "id": "473441",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Marine chart updating",
+    "harm": {
+      "id": "0039520",
+      "title": "473441 - Marine chart updating",
+      "conceptLink": "/ec2/concept/5987587"
+    }
+  },
+  {
+    "uri": "en/42/869970",
+    "id": "869970",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Marine vehicle design",
+    "harm": {
+      "id": "0005751",
+      "title": "869970 - Marine vehicle design",
+      "conceptLink": "/ec2/concept/5956722"
+    }
+  },
+  {
+    "uri": "en/42/62241",
+    "id": "62241",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Material testing",
+    "harm": {
+      "id": "0057455",
+      "title": "62241 - Material testing",
+      "conceptLink": "/ec2/concept/5998961"
+    }
+  },
+  {
+    "uri": "en/42/869981",
+    "id": "869981",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Material testing for fault detection",
+    "harm": {
+      "id": "0023128",
+      "title": "869981 - Material testing for fault detection",
+      "conceptLink": "/ec2/concept/5972617"
+    }
+  },
+  {
+    "uri": "en/42/473455",
+    "id": "473455",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Material testing services",
+    "harm": {
+      "id": "0003387",
+      "title": "473455 - Material testing services",
+      "conceptLink": "/ec2/concept/5954550"
+    }
+  },
+  {
+    "uri": "en/42/1656813",
+    "id": "1656813",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Materials testing",
+    "harm": {
+      "id": "0057455",
+      "title": "1656813 - Materials testing",
+      "conceptLink": "/ec2/concept/5998961"
+    }
+  },
+  {
+    "uri": "en/42/374925",
+    "id": "374925",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Materials testing and analysing",
+    "harm": {
+      "id": "0038977",
+      "title": "374925 - Materials testing and analysing",
+      "conceptLink": "/ec2/concept/5987092"
+    }
+  },
+  {
+    "uri": "en/42/374939",
+    "id": "374939",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Materials testing and evaluation",
+    "harm": {
+      "id": "0011021",
+      "title": "374939 - Materials testing and evaluation",
+      "conceptLink": "/ec2/concept/5961545"
+    }
+  },
+  {
+    "uri": "en/42/125087909",
+    "id": "125087909",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mathematical models (Design of -)",
+    "harm": {
+      "id": "0035141",
+      "title": "125087909 - Mathematical models (Design of -)",
+      "conceptLink": "/ec2/concept/5983600"
+    }
+  },
+  {
+    "uri": "en/42/869995",
+    "id": "869995",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mathematical research services",
+    "harm": {
+      "id": "0009601",
+      "title": "869995 - Mathematical research services",
+      "conceptLink": "/ec2/concept/5960247"
+    }
+  },
+  {
+    "uri": "en/42/473474",
+    "id": "473474",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measurement evaluation services",
+    "harm": {
+      "id": "0038084",
+      "title": "473474 - Measurement evaluation services",
+      "conceptLink": "/ec2/concept/5986276"
+    }
+  },
+  {
+    "uri": "en/42/870010",
+    "id": "870010",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measurement services",
+    "harm": {
+      "id": "0009602",
+      "title": "870010 - Measurement services",
+      "conceptLink": "/ec2/concept/5960248"
+    }
+  },
+  {
+    "uri": "en/42/124616332",
+    "id": "124616332",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring apparatus (Rental of -)",
+    "harm": {
+      "id": "0015308",
+      "title": "124616332 - Measuring apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5965472"
+    }
+  },
+  {
+    "uri": "en/42/870025",
+    "id": "870025",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring of earth samples",
+    "harm": {
+      "id": "0009603",
+      "title": "870025 - Measuring of earth samples",
+      "conceptLink": "/ec2/concept/5960249"
+    }
+  },
+  {
+    "uri": "en/42/870050",
+    "id": "870050",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring the environment within civil engineering structures",
+    "harm": {
+      "id": "0032707",
+      "title": "870050 - Measuring the environment within civil engineering structures",
+      "conceptLink": "/ec2/concept/5981385"
+    }
+  },
+  {
+    "uri": "en/42/870038",
+    "id": "870038",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring the environment within buildings",
+    "harm": {
+      "id": "0032706",
+      "title": "870038 - Measuring the environment within buildings",
+      "conceptLink": "/ec2/concept/5981384"
+    }
+  },
+  {
+    "uri": "en/42/870078",
+    "id": "870078",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring variables associated with the drilling of boreholes",
+    "harm": {
+      "id": "0021318",
+      "title": "870078 - Measuring variables associated with the drilling of boreholes",
+      "conceptLink": "/ec2/concept/5970967"
+    }
+  },
+  {
+    "uri": "en/42/870064",
+    "id": "870064",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Measuring variables associated with the directional steering of boreholes",
+    "harm": {
+      "id": "0044279",
+      "title": "870064 - Measuring variables associated with the directional steering of boreholes",
+      "conceptLink": "/ec2/concept/5991937"
+    }
+  },
+  {
+    "uri": "en/42/473487",
+    "id": "473487",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mechanical engineering",
+    "harm": {
+      "id": "0003388",
+      "title": "473487 - Mechanical engineering",
+      "conceptLink": "/ec2/concept/5954551"
+    }
+  },
+  {
+    "uri": "en/42/14443404",
+    "id": "14443404",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mechanical engineering services",
+    "harm": {
+      "id": "0003388",
+      "title": "14443404 - Mechanical engineering services",
+      "conceptLink": "/ec2/concept/5954551"
+    }
+  },
+  {
+    "uri": "en/42/63237",
+    "id": "63237",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mechanical research",
+    "harm": {
+      "id": "0001400",
+      "title": "63237 - Mechanical research",
+      "conceptLink": "/ec2/concept/5952748"
+    }
+  },
+  {
+    "uri": "en/42/905167",
+    "id": "905167",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mechanical research in the field of motor sports",
+    "harm": {
+      "id": "0028733",
+      "title": "905167 - Mechanical research in the field of motor sports",
+      "conceptLink": "/ec2/concept/5977767"
+    }
+  },
+  {
+    "uri": "en/42/63236",
+    "id": "63236",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mechanics research",
+    "harm": {
+      "id": "0001400",
+      "title": "63236 - Mechanics research",
+      "conceptLink": "/ec2/concept/5952748"
+    }
+  },
+  {
+    "uri": "en/42/120919190",
+    "id": "120919190",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical and pharmacological research services",
+    "harm": {
+      "id": "0048035",
+      "title": "120919190 - Medical and pharmacological research services",
+      "conceptLink": "/ec2/concept/5995294"
+    }
+  },
+  {
+    "uri": "en/42/473543",
+    "id": "473543",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical laboratories",
+    "harm": {
+      "id": "0043811",
+      "title": "473543 - Medical laboratories",
+      "conceptLink": "/ec2/concept/5991504"
+    }
+  },
+  {
+    "uri": "en/42/473544",
+    "id": "473544",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical laboratory services",
+    "harm": {
+      "id": "0043811",
+      "title": "473544 - Medical laboratory services",
+      "conceptLink": "/ec2/concept/5991504"
+    }
+  },
+  {
+    "uri": "en/42/473570",
+    "id": "473570",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical research",
+    "harm": {
+      "id": "0020842",
+      "title": "473570 - Medical research",
+      "conceptLink": "/ec2/concept/5970536"
+    }
+  },
+  {
+    "uri": "en/42/137859407",
+    "id": "137859407",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical research laboratory services",
+    "harm": {
+      "id": "0051709",
+      "title": "137859407 - Medical research laboratory services",
+      "conceptLink": "/ec2/concept/6010695"
+    }
+  },
+  {
+    "uri": "en/42/905173",
+    "id": "905173",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Medical research services",
+    "harm": {
+      "id": "0020842",
+      "title": "905173 - Medical research services",
+      "conceptLink": "/ec2/concept/5970536"
+    }
+  },
+  {
+    "uri": "en/42/870096",
+    "id": "870096",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Metallurgical analysis",
+    "harm": {
+      "id": "0032708",
+      "title": "870096 - Metallurgical analysis",
+      "conceptLink": "/ec2/concept/5981386"
+    }
+  },
+  {
+    "uri": "en/42/870116",
+    "id": "870116",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Metallurgical laboratory services",
+    "harm": {
+      "id": "0009604",
+      "title": "870116 - Metallurgical laboratory services",
+      "conceptLink": "/ec2/concept/5960250"
+    }
+  },
+  {
+    "uri": "en/42/870097",
+    "id": "870097",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Metallurgical testing",
+    "harm": {
+      "id": "0047102",
+      "title": "870097 - Metallurgical testing",
+      "conceptLink": "/ec2/concept/5994477"
+    }
+  },
+  {
+    "uri": "en/42/473587",
+    "id": "473587",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Meteorological forecasting",
+    "harm": {
+      "id": "0072525",
+      "title": "473587 - Meteorological forecasting",
+      "conceptLink": "/ec2/concept/6008702"
+    }
+  },
+  {
+    "uri": "en/42/62713",
+    "id": "62713",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Meteorological information services",
+    "harm": {
+      "id": "0072504",
+      "title": "62713 - Meteorological information services",
+      "conceptLink": "/ec2/concept/6008681"
+    }
+  },
+  {
+    "uri": "en/42/62710",
+    "id": "62710",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Meteorological information",
+    "harm": {
+      "id": "0072504",
+      "title": "62710 - Meteorological information",
+      "conceptLink": "/ec2/concept/6008681"
+    }
+  },
+  {
+    "uri": "en/42/870128",
+    "id": "870128",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Meteorological research",
+    "harm": {
+      "id": "0026958",
+      "title": "870128 - Meteorological research",
+      "conceptLink": "/ec2/concept/5976129"
+    }
+  },
+  {
+    "uri": "en/42/870140",
+    "id": "870140",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Microbiological testing",
+    "harm": {
+      "id": "0026959",
+      "title": "870140 - Microbiological testing",
+      "conceptLink": "/ec2/concept/5976130"
+    }
+  },
+  {
+    "uri": "en/42/473604",
+    "id": "473604",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Microchip design services",
+    "harm": {
+      "id": "0020843",
+      "title": "473604 - Microchip design services",
+      "conceptLink": "/ec2/concept/5970537"
+    }
+  },
+  {
+    "uri": "en/42/473640",
+    "id": "473640",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mineral and oil assaying",
+    "harm": {
+      "id": "0032252",
+      "title": "473640 - Mineral and oil assaying",
+      "conceptLink": "/ec2/concept/5980971"
+    }
+  },
+  {
+    "uri": "en/42/891631",
+    "id": "891631",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mineral exploration services",
+    "harm": {
+      "id": "0000359",
+      "title": "891631 - Mineral exploration services",
+      "conceptLink": "/ec2/concept/5951812"
+    }
+  },
+  {
+    "uri": "en/42/473659",
+    "id": "473659",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Mining and mineral exploration services",
+    "harm": {
+      "id": "0043812",
+      "title": "473659 - Mining and mineral exploration services",
+      "conceptLink": "/ec2/concept/5991505"
+    }
+  },
+  {
+    "uri": "en/42/870157",
+    "id": "870157",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Modifying of computer programs",
+    "harm": {
+      "id": "0038514",
+      "title": "870157 - Modifying of computer programs",
+      "conceptLink": "/ec2/concept/5986678"
+    }
+  },
+  {
+    "uri": "en/42/870171",
+    "id": "870171",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of activities which influence the environment within buildings",
+    "harm": {
+      "id": "0021319",
+      "title": "870171 - Monitoring of activities which influence the environment within buildings",
+      "conceptLink": "/ec2/concept/5970968"
+    }
+  },
+  {
+    "uri": "en/42/870185",
+    "id": "870185",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of activities which influence the environment within civil engineering structures",
+    "harm": {
+      "id": "0038515",
+      "title": "870185 - Monitoring of activities which influence the environment within civil engineering structures",
+      "conceptLink": "/ec2/concept/5986679"
+    }
+  },
+  {
+    "uri": "en/42/899836",
+    "id": "899836",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of audio warning signals",
+    "harm": {
+      "id": "0032916",
+      "title": "899836 - Monitoring of audio warning signals",
+      "conceptLink": "/ec2/concept/5981577"
+    }
+  },
+  {
+    "uri": "en/42/899849",
+    "id": "899849",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of building structures",
+    "harm": {
+      "id": "0032917",
+      "title": "899849 - Monitoring of building structures",
+      "conceptLink": "/ec2/concept/5981578"
+    }
+  },
+  {
+    "uri": "en/42/119554979",
+    "id": "119554979",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of commercial and industrial sites for detection of volatile and non-volatile organic compounds",
+    "harm": {
+      "id": "0051702",
+      "title": "119554979 - Monitoring of commercial and industrial sites for detection of volatile and non-volatile organic compounds",
+      "conceptLink": "/ec2/concept/6010688"
+    }
+  },
+  {
+    "uri": "en/42/912170",
+    "id": "912170",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of computer systems by remote access",
+    "harm": {
+      "id": "0017289",
+      "title": "912170 - Monitoring of computer systems by remote access",
+      "conceptLink": "/ec2/concept/5967287"
+    }
+  },
+  {
+    "uri": "en/42/233651216",
+    "id": "233651216",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of computer systems for detecting unauthorized access or data breach",
+    "harm": {
+      "id": "0052193",
+      "title": "233651216 - Monitoring of computer systems for detecting unauthorized access or data breach",
+      "conceptLink": "/ec2/concept/6011093"
+    }
+  },
+  {
+    "uri": "en/42/233651101",
+    "id": "233651101",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of computer systems to detect breakdowns",
+    "harm": {
+      "id": "0052189",
+      "title": "233651101 - Monitoring of computer systems to detect breakdowns",
+      "conceptLink": "/ec2/concept/6011089"
+    }
+  },
+  {
+    "uri": "en/42/870212",
+    "id": "870212",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of contaminated land for gas",
+    "harm": {
+      "id": "0021320",
+      "title": "870212 - Monitoring of contaminated land for gas",
+      "conceptLink": "/ec2/concept/5970969"
+    }
+  },
+  {
+    "uri": "en/42/870197",
+    "id": "870197",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of contaminated land",
+    "harm": {
+      "id": "0044280",
+      "title": "870197 - Monitoring of contaminated land",
+      "conceptLink": "/ec2/concept/5991938"
+    }
+  },
+  {
+    "uri": "en/42/870240",
+    "id": "870240",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of events which influence the environment within civil engineering structures",
+    "harm": {
+      "id": "0021321",
+      "title": "870240 - Monitoring of events which influence the environment within civil engineering structures",
+      "conceptLink": "/ec2/concept/5970970"
+    }
+  },
+  {
+    "uri": "en/42/870225",
+    "id": "870225",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of events which influence the environment within buildings",
+    "harm": {
+      "id": "0009605",
+      "title": "870225 - Monitoring of events which influence the environment within buildings",
+      "conceptLink": "/ec2/concept/5960251"
+    }
+  },
+  {
+    "uri": "en/42/474771",
+    "id": "474771",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of network systems",
+    "harm": {
+      "id": "0038946",
+      "title": "474771 - Monitoring of network systems",
+      "conceptLink": "/ec2/concept/5987065"
+    }
+  },
+  {
+    "uri": "en/42/120875130",
+    "id": "120875130",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of telecommunication signals",
+    "harm": {
+      "id": "0069386",
+      "title": "120875130 - Monitoring of telecommunication signals",
+      "conceptLink": "/ec2/concept/6005589"
+    }
+  },
+  {
+    "uri": "en/42/120878276",
+    "id": "120878276",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring of water quality",
+    "harm": {
+      "id": "0069339",
+      "title": "120878276 - Monitoring of water quality",
+      "conceptLink": "/ec2/concept/6005542"
+    }
+  },
+  {
+    "uri": "en/42/870254",
+    "id": "870254",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Monitoring the quality control of seismic procedures",
+    "harm": {
+      "id": "0032709",
+      "title": "870254 - Monitoring the quality control of seismic procedures",
+      "conceptLink": "/ec2/concept/5981387"
+    }
+  },
+  {
+    "uri": "en/42/120919191",
+    "id": "120919191",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Natural science services",
+    "harm": {
+      "id": "0048039",
+      "title": "120919191 - Natural science services",
+      "conceptLink": "/ec2/concept/5995298"
+    }
+  },
+  {
+    "uri": "en/42/870270",
+    "id": "870270",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "New product design",
+    "harm": {
+      "id": "0026960",
+      "title": "870270 - New product design",
+      "conceptLink": "/ec2/concept/5976131"
+    }
+  },
+  {
+    "uri": "en/42/125091704",
+    "id": "125091704",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "New products (Design of -)",
+    "harm": {
+      "id": "0026960",
+      "title": "125091704 - New products (Design of -)",
+      "conceptLink": "/ec2/concept/5976131"
+    }
+  },
+  {
+    "uri": "en/42/125091722",
+    "id": "125091722",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "New products (Testing of -)",
+    "harm": {
+      "id": "0009606",
+      "title": "125091722 - New products (Testing of -)",
+      "conceptLink": "/ec2/concept/5960252"
+    }
+  },
+  {
+    "uri": "en/42/90096333",
+    "id": "90096333",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Non-destructive testing services",
+    "harm": {
+      "id": "0050618",
+      "title": "90096333 - Non-destructive testing services",
+      "conceptLink": "/ec2/concept/5995986"
+    }
+  },
+  {
+    "uri": "en/42/110855205",
+    "id": "110855205",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Non-medical, ultrasound imaging services",
+    "harm": {
+      "id": "0056714",
+      "title": "110855205 - Non-medical, ultrasound imaging services",
+      "conceptLink": "/ec2/concept/5998001"
+    }
+  },
+  {
+    "uri": "en/42/870301",
+    "id": "870301",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Nuclear engineering services",
+    "harm": {
+      "id": "0004483",
+      "title": "870301 - Nuclear engineering services",
+      "conceptLink": "/ec2/concept/5955556"
+    }
+  },
+  {
+    "uri": "en/42/870317",
+    "id": "870317",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oceanographic prospecting services",
+    "harm": {
+      "id": "0033302",
+      "title": "870317 - Oceanographic prospecting services",
+      "conceptLink": "/ec2/concept/5981933"
+    }
+  },
+  {
+    "uri": "en/42/870330",
+    "id": "870330",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oceanographic research services",
+    "harm": {
+      "id": "0010171",
+      "title": "870330 - Oceanographic research services",
+      "conceptLink": "/ec2/concept/5960763"
+    }
+  },
+  {
+    "uri": "en/42/478567",
+    "id": "478567",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oenology services",
+    "harm": {
+      "id": "0013470",
+      "title": "478567 - Oenology services",
+      "conceptLink": "/ec2/concept/5963784"
+    }
+  },
+  {
+    "uri": "en/42/135623369",
+    "id": "135623369",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Off-site data backup",
+    "harm": {
+      "id": "0050034",
+      "title": "135623369 - Off-site data backup",
+      "conceptLink": "/ec2/concept/5995444"
+    }
+  },
+  {
+    "uri": "en/42/870342",
+    "id": "870342",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Office furniture design",
+    "harm": {
+      "id": "0027544",
+      "title": "870342 - Office furniture design",
+      "conceptLink": "/ec2/concept/5976663"
+    }
+  },
+  {
+    "uri": "en/42/870357",
+    "id": "870357",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Office layout design services",
+    "harm": {
+      "id": "0010172",
+      "title": "870357 - Office layout design services",
+      "conceptLink": "/ec2/concept/5960764"
+    }
+  },
+  {
+    "uri": "en/42/125091821",
+    "id": "125091821",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-bearing seams (Preparing surveys of -)",
+    "harm": {
+      "id": "0044835",
+      "title": "125091821 - Oil-bearing seams (Preparing surveys of -)",
+      "conceptLink": "/ec2/concept/5992446"
+    }
+  },
+  {
+    "uri": "en/42/125091832",
+    "id": "125091832",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-beds (Preparing surveys of -)",
+    "harm": {
+      "id": "0010174",
+      "title": "125091832 - Oil-beds (Preparing surveys of -)",
+      "conceptLink": "/ec2/concept/5960766"
+    }
+  },
+  {
+    "uri": "en/42/473686",
+    "id": "473686",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil burner inspection",
+    "harm": {
+      "id": "0014981",
+      "title": "473686 - Oil burner inspection",
+      "conceptLink": "/ec2/concept/5965171"
+    }
+  },
+  {
+    "uri": "en/42/63128",
+    "id": "63128",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil exploration",
+    "harm": {
+      "id": "0025836",
+      "title": "63128 - Oil exploration",
+      "conceptLink": "/ec2/concept/5975113"
+    }
+  },
+  {
+    "uri": "en/42/61340",
+    "id": "61340",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-field exploitation (Analysis for -)",
+    "harm": {
+      "id": "0017355",
+      "title": "61340 - Oil-field exploitation (Analysis for -)",
+      "conceptLink": "/ec2/concept/5967344"
+    }
+  },
+  {
+    "uri": "en/42/62536",
+    "id": "62536",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil field exploration",
+    "harm": {
+      "id": "0002297",
+      "title": "62536 - Oil field exploration",
+      "conceptLink": "/ec2/concept/5953554"
+    }
+  },
+  {
+    "uri": "en/42/124344951",
+    "id": "124344951",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-field exploration (Analysis for -)",
+    "harm": {
+      "id": "0017355",
+      "title": "124344951 - Oil-field exploration (Analysis for -)",
+      "conceptLink": "/ec2/concept/5967344"
+    }
+  },
+  {
+    "uri": "en/42/62532",
+    "id": "62532",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil field surveying",
+    "harm": {
+      "id": "0002297",
+      "title": "62532 - Oil field surveying",
+      "conceptLink": "/ec2/concept/5953554"
+    }
+  },
+  {
+    "uri": "en/42/62534",
+    "id": "62534",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-field surveys",
+    "harm": {
+      "id": "0002297",
+      "title": "62534 - Oil-field surveys",
+      "conceptLink": "/ec2/concept/5953554"
+    }
+  },
+  {
+    "uri": "en/42/125091844",
+    "id": "125091844",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-fields (Preparing surveys of -)",
+    "harm": {
+      "id": "0044836",
+      "title": "125091844 - Oil-fields (Preparing surveys of -)",
+      "conceptLink": "/ec2/concept/5992447"
+    }
+  },
+  {
+    "uri": "en/42/63127",
+    "id": "63127",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil prospecting",
+    "harm": {
+      "id": "0025836",
+      "title": "63127 - Oil prospecting",
+      "conceptLink": "/ec2/concept/5975113"
+    }
+  },
+  {
+    "uri": "en/42/870371",
+    "id": "870371",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil spill contingency planning services",
+    "harm": {
+      "id": "0010173",
+      "title": "870371 - Oil spill contingency planning services",
+      "conceptLink": "/ec2/concept/5960765"
+    }
+  },
+  {
+    "uri": "en/42/473700",
+    "id": "473700",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil well logging and testing",
+    "harm": {
+      "id": "0037457",
+      "title": "473700 - Oil well logging and testing",
+      "conceptLink": "/ec2/concept/5985709"
+    }
+  },
+  {
+    "uri": "en/42/61808",
+    "id": "61808",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil well testing",
+    "harm": {
+      "id": "0011685",
+      "title": "61808 - Oil well testing",
+      "conceptLink": "/ec2/concept/5962150"
+    }
+  },
+  {
+    "uri": "en/42/61809",
+    "id": "61809",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Oil-well testing",
+    "harm": {
+      "id": "0011685",
+      "title": "61809 - Oil-well testing",
+      "conceptLink": "/ec2/concept/5962150"
+    }
+  },
+  {
+    "uri": "en/42/5783325",
+    "id": "5783325",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "On-line computer services",
+    "harm": {
+      "id": "0071491",
+      "title": "5783325 - On-line computer services",
+      "conceptLink": "/ec2/concept/6007682"
+    }
+  },
+  {
+    "uri": "en/42/137883978",
+    "id": "137883978",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Online data storage",
+    "harm": {
+      "id": "0051629",
+      "title": "137883978 - Online data storage",
+      "conceptLink": "/ec2/concept/6010615"
+    }
+  },
+  {
+    "uri": "en/42/484301",
+    "id": "484301",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Operating search engines",
+    "harm": {
+      "id": "0009847",
+      "title": "484301 - Operating search engines",
+      "conceptLink": "/ec2/concept/5960468"
+    }
+  },
+  {
+    "uri": "en/42/473713",
+    "id": "473713",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Optical laboratories",
+    "harm": {
+      "id": "0037458",
+      "title": "473713 - Optical laboratories",
+      "conceptLink": "/ec2/concept/5985710"
+    }
+  },
+  {
+    "uri": "en/42/137859748",
+    "id": "137859748",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Optical research laboratory services",
+    "harm": {
+      "id": "0051708",
+      "title": "137859748 - Optical research laboratory services",
+      "conceptLink": "/ec2/concept/6010694"
+    }
+  },
+  {
+    "uri": "en/42/136628634",
+    "id": "136628634",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Outsource service providers in the field of information technology",
+    "harm": {
+      "id": "0060090",
+      "title": "136628634 - Outsource service providers in the field of information technology",
+      "conceptLink": "/ec2/concept/5996360"
+    }
+  },
+  {
+    "uri": "en/42/62132",
+    "id": "62132",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Packaging design",
+    "harm": {
+      "id": "0005939",
+      "title": "62132 - Packaging design",
+      "conceptLink": "/ec2/concept/5956891"
+    }
+  },
+  {
+    "uri": "en/42/473726",
+    "id": "473726",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Packaging design for others",
+    "harm": {
+      "id": "0037459",
+      "title": "473726 - Packaging design for others",
+      "conceptLink": "/ec2/concept/5985711"
+    }
+  },
+  {
+    "uri": "en/42/62130",
+    "id": "62130",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Packaging designs",
+    "harm": {
+      "id": "0005939",
+      "title": "62130 - Packaging designs",
+      "conceptLink": "/ec2/concept/5956891"
+    }
+  },
+  {
+    "uri": "en/42/870422",
+    "id": "870422",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Pattern design",
+    "harm": {
+      "id": "0010175",
+      "title": "870422 - Pattern design",
+      "conceptLink": "/ec2/concept/5960767"
+    }
+  },
+  {
+    "uri": "en/42/61268",
+    "id": "61268",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Performance of chemical analyses",
+    "harm": {
+      "id": "0017764",
+      "title": "61268 - Performance of chemical analyses",
+      "conceptLink": "/ec2/concept/5967717"
+    }
+  },
+  {
+    "uri": "en/42/870437",
+    "id": "870437",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Personal computer hire",
+    "harm": {
+      "id": "0004484",
+      "title": "870437 - Personal computer hire",
+      "conceptLink": "/ec2/concept/5955557"
+    }
+  },
+  {
+    "uri": "en/42/473759",
+    "id": "473759",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Petroleum exploration",
+    "harm": {
+      "id": "0025836",
+      "title": "473759 - Petroleum exploration",
+      "conceptLink": "/ec2/concept/5975113"
+    }
+  }
+]

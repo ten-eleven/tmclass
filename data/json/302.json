@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/724708",
+    "id": "724708",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Corrugated pipes of metal [parts of sanitary installations]",
+    "harm": {
+      "id": "0032075",
+      "title": "724708 - Corrugated pipes of metal [parts of sanitary installations]",
+      "conceptLink": "/ec2/concept/5980812"
+    }
+  },
+  {
+    "uri": "en/11/138349732",
+    "id": "138349732",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cosmetic refrigerators",
+    "harm": {
+      "id": "0070112",
+      "title": "138349732 - Cosmetic refrigerators",
+      "conceptLink": "/ec2/concept/6006314"
+    }
+  },
+  {
+    "uri": "en/11/406437",
+    "id": "406437",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cotton candy making machines",
+    "harm": {
+      "id": "0001184",
+      "title": "406437 - Cotton candy making machines",
+      "conceptLink": "/ec2/concept/5952555"
+    }
+  },
+  {
+    "uri": "en/11/724724",
+    "id": "724724",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Counterweight fittings for pendant lamps",
+    "harm": {
+      "id": "0026278",
+      "title": "724724 - Counterweight fittings for pendant lamps",
+      "conceptLink": "/ec2/concept/5975519"
+    }
+  },
+  {
+    "uri": "en/11/724737",
+    "id": "724737",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Crepe cookers",
+    "harm": {
+      "id": "0014798",
+      "title": "724737 - Crepe cookers",
+      "conceptLink": "/ec2/concept/5965006"
+    }
+  },
+  {
+    "uri": "en/11/724751",
+    "id": "724751",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Crowns [parts of furnaces]",
+    "harm": {
+      "id": "0037871",
+      "title": "724751 - Crowns [parts of furnaces]",
+      "conceptLink": "/ec2/concept/5986079"
+    }
+  },
+  {
+    "uri": "en/11/724752",
+    "id": "724752",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Crowns [parts of kilns]",
+    "harm": {
+      "id": "0037871",
+      "title": "724752 - Crowns [parts of kilns]",
+      "conceptLink": "/ec2/concept/5986079"
+    }
+  },
+  {
+    "uri": "en/11/724776",
+    "id": "724776",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Crucible induction furnaces",
+    "harm": {
+      "id": "0014799",
+      "title": "724776 - Crucible induction furnaces",
+      "conceptLink": "/ec2/concept/5965007"
+    }
+  },
+  {
+    "uri": "en/11/724788",
+    "id": "724788",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Crucible liners",
+    "harm": {
+      "id": "0014800",
+      "title": "724788 - Crucible liners",
+      "conceptLink": "/ec2/concept/5965008"
+    }
+  },
+  {
+    "uri": "en/11/724800",
+    "id": "724800",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cryogenic apparatus",
+    "harm": {
+      "id": "0026279",
+      "title": "724800 - Cryogenic apparatus",
+      "conceptLink": "/ec2/concept/5975520"
+    }
+  },
+  {
+    "uri": "en/11/406449",
+    "id": "406449",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cryorefrigerators",
+    "harm": {
+      "id": "0041659",
+      "title": "406449 - Cryorefrigerators",
+      "conceptLink": "/ec2/concept/5989550"
+    }
+  },
+  {
+    "uri": "en/11/724815",
+    "id": "724815",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cryostats, other than for laboratory use",
+    "harm": {
+      "id": "0032076",
+      "title": "724815 - Cryostats, other than for laboratory use",
+      "conceptLink": "/ec2/concept/5980813"
+    }
+  },
+  {
+    "uri": "en/11/126445158",
+    "id": "126445158",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cubicles [enclosures (Am.)] Shower -",
+    "harm": {
+      "id": "0057688",
+      "title": "126445158 - Cubicles [enclosures (Am.)] Shower -",
+      "conceptLink": "/ec2/concept/5999192"
+    }
+  },
+  {
+    "uri": "en/11/181885",
+    "id": "181885",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cubicles for showers",
+    "harm": {
+      "id": "0057688",
+      "title": "181885 - Cubicles for showers",
+      "conceptLink": "/ec2/concept/5999192"
+    }
+  },
+  {
+    "uri": "en/11/177433",
+    "id": "177433",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Curling lamps",
+    "harm": {
+      "id": "0002689",
+      "title": "177433 - Curling lamps",
+      "conceptLink": "/ec2/concept/5953907"
+    }
+  },
+  {
+    "uri": "en/11/124951990",
+    "id": "124951990",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cushions (Heating -), non-electric, other than for medical purposes",
+    "harm": {
+      "id": "0044580",
+      "title": "124951990 - Cushions (Heating -), non-electric, other than for medical purposes",
+      "conceptLink": "/ec2/concept/5992215"
+    }
+  },
+  {
+    "uri": "en/11/181773",
+    "id": "181773",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cushions [pads] (Heating -), electric, not for medical purposes",
+    "harm": {
+      "id": "0037757",
+      "title": "181773 - Cushions [pads] (Heating -), electric, not for medical purposes",
+      "conceptLink": "/ec2/concept/5985978"
+    }
+  },
+  {
+    "uri": "en/11/724850",
+    "id": "724850",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cutting table extraction installations",
+    "harm": {
+      "id": "0015736",
+      "title": "724850 - Cutting table extraction installations",
+      "conceptLink": "/ec2/concept/5965868"
+    }
+  },
+  {
+    "uri": "en/11/724849",
+    "id": "724849",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cutting table extraction apparatus",
+    "harm": {
+      "id": "0015736",
+      "title": "724849 - Cutting table extraction apparatus",
+      "conceptLink": "/ec2/concept/5965868"
+    }
+  },
+  {
+    "uri": "en/11/172378",
+    "id": "172378",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cycle lights",
+    "harm": {
+      "id": "0025452",
+      "title": "172378 - Cycle lights",
+      "conceptLink": "/ec2/concept/5974763"
+    }
+  },
+  {
+    "uri": "en/11/724872",
+    "id": "724872",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cyclones [air purifying apparatus]",
+    "harm": {
+      "id": "0015737",
+      "title": "724872 - Cyclones [air purifying apparatus]",
+      "conceptLink": "/ec2/concept/5965869"
+    }
+  },
+  {
+    "uri": "en/11/724873",
+    "id": "724873",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cyclones [air purifying machines]",
+    "harm": {
+      "id": "0015737",
+      "title": "724873 - Cyclones [air purifying machines]",
+      "conceptLink": "/ec2/concept/5965869"
+    }
+  },
+  {
+    "uri": "en/11/724902",
+    "id": "724902",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cylinders for the heating of water",
+    "harm": {
+      "id": "0015738",
+      "title": "724902 - Cylinders for the heating of water",
+      "conceptLink": "/ec2/concept/5965870"
+    }
+  },
+  {
+    "uri": "en/11/724914",
+    "id": "724914",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dampers for fires",
+    "harm": {
+      "id": "0021641",
+      "title": "724914 - Dampers for fires",
+      "conceptLink": "/ec2/concept/5971255"
+    }
+  },
+  {
+    "uri": "en/11/724930",
+    "id": "724930",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dampers for furnaces",
+    "harm": {
+      "id": "0044581",
+      "title": "724930 - Dampers for furnaces",
+      "conceptLink": "/ec2/concept/5992216"
+    }
+  },
+  {
+    "uri": "en/11/724942",
+    "id": "724942",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dampers for ventilating installations",
+    "harm": {
+      "id": "0038825",
+      "title": "724942 - Dampers for ventilating installations",
+      "conceptLink": "/ec2/concept/5986956"
+    }
+  },
+  {
+    "uri": "en/11/179239",
+    "id": "179239",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dampers [heating]",
+    "harm": {
+      "id": "0021523",
+      "title": "179239 - Dampers [heating]",
+      "conceptLink": "/ec2/concept/5971152"
+    }
+  },
+  {
+    "uri": "en/11/724954",
+    "id": "724954",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Damping apparatus [parts of fires]",
+    "harm": {
+      "id": "0004203",
+      "title": "724954 - Damping apparatus [parts of fires]",
+      "conceptLink": "/ec2/concept/5955292"
+    }
+  },
+  {
+    "uri": "en/11/724967",
+    "id": "724967",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Damping apparatus [parts of furnaces]",
+    "harm": {
+      "id": "0009924",
+      "title": "724967 - Damping apparatus [parts of furnaces]",
+      "conceptLink": "/ec2/concept/5960537"
+    }
+  },
+  {
+    "uri": "en/11/724983",
+    "id": "724983",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Damping nozzles [parts of fires]",
+    "harm": {
+      "id": "0038826",
+      "title": "724983 - Damping nozzles [parts of fires]",
+      "conceptLink": "/ec2/concept/5986957"
+    }
+  },
+  {
+    "uri": "en/11/724995",
+    "id": "724995",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Damping nozzles [parts of furnaces]",
+    "harm": {
+      "id": "0039777",
+      "title": "724995 - Damping nozzles [parts of furnaces]",
+      "conceptLink": "/ec2/concept/5987827"
+    }
+  },
+  {
+    "uri": "en/11/725009",
+    "id": "725009",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dashboard lamp bulbs",
+    "harm": {
+      "id": "0010920",
+      "title": "725009 - Dashboard lamp bulbs",
+      "conceptLink": "/ec2/concept/5961451"
+    }
+  },
+  {
+    "uri": "en/11/406567",
+    "id": "406567",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "De-humidifiers",
+    "harm": {
+      "id": "0035588",
+      "title": "406567 - De-humidifiers",
+      "conceptLink": "/ec2/concept/5984011"
+    }
+  },
+  {
+    "uri": "en/11/725021",
+    "id": "725021",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decontamination chambers",
+    "harm": {
+      "id": "0034002",
+      "title": "725021 - Decontamination chambers",
+      "conceptLink": "/ec2/concept/5982574"
+    }
+  },
+  {
+    "uri": "en/11/725035",
+    "id": "725035",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decontamination showers",
+    "harm": {
+      "id": "0045543",
+      "title": "725035 - Decontamination showers",
+      "conceptLink": "/ec2/concept/5993095"
+    }
+  },
+  {
+    "uri": "en/11/725051",
+    "id": "725051",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative electric lighting apparatus",
+    "harm": {
+      "id": "0010921",
+      "title": "725051 - Decorative electric lighting apparatus",
+      "conceptLink": "/ec2/concept/5961452"
+    }
+  },
+  {
+    "uri": "en/11/131132956",
+    "id": "131132956",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative fountains, sprinkler and irrigation systems",
+    "harm": {
+      "id": "0047816",
+      "title": "131132956 - Decorative fountains, sprinkler and irrigation systems",
+      "conceptLink": "/ec2/concept/5995090"
+    }
+  },
+  {
+    "uri": "en/11/725067",
+    "id": "725067",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative gas lighting",
+    "harm": {
+      "id": "0045544",
+      "title": "725067 - Decorative gas lighting",
+      "conceptLink": "/ec2/concept/5993096"
+    }
+  },
+  {
+    "uri": "en/11/725079",
+    "id": "725079",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative gas lighting sets",
+    "harm": {
+      "id": "0045545",
+      "title": "725079 - Decorative gas lighting sets",
+      "conceptLink": "/ec2/concept/5993097"
+    }
+  },
+  {
+    "uri": "en/11/406466",
+    "id": "406466",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative lighting",
+    "harm": {
+      "id": "0041660",
+      "title": "406466 - Decorative lighting",
+      "conceptLink": "/ec2/concept/5989551"
+    }
+  },
+  {
+    "uri": "en/11/725095",
+    "id": "725095",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative lighting for christmas trees",
+    "harm": {
+      "id": "0007250",
+      "title": "725095 - Decorative lighting for christmas trees",
+      "conceptLink": "/ec2/concept/5958093"
+    }
+  },
+  {
+    "uri": "en/11/725121",
+    "id": "725121",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative lighting sets",
+    "harm": {
+      "id": "0045546",
+      "title": "725121 - Decorative lighting sets",
+      "conceptLink": "/ec2/concept/5993098"
+    }
+  },
+  {
+    "uri": "en/11/406467",
+    "id": "406467",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative lights",
+    "harm": {
+      "id": "0041660",
+      "title": "406467 - Decorative lights",
+      "conceptLink": "/ec2/concept/5989551"
+    }
+  },
+  {
+    "uri": "en/11/406492",
+    "id": "406492",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative table-top water fountains",
+    "harm": {
+      "id": "0012776",
+      "title": "406492 - Decorative table-top water fountains",
+      "conceptLink": "/ec2/concept/5963154"
+    }
+  },
+  {
+    "uri": "en/11/178100",
+    "id": "178100",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Decorative water fountains",
+    "harm": {
+      "id": "0059182",
+      "title": "178100 - Decorative water fountains",
+      "conceptLink": "/ec2/concept/6000671"
+    }
+  },
+  {
+    "uri": "en/11/124952293",
+    "id": "124952293",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fat friers (Electric -)",
+    "harm": {
+      "id": "0008064",
+      "title": "124952293 - Deep fat friers (Electric -)",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/406514",
+    "id": "406514",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fat fryers",
+    "harm": {
+      "id": "0024353",
+      "title": "406514 - Deep fat fryers",
+      "conceptLink": "/ec2/concept/5973749"
+    }
+  },
+  {
+    "uri": "en/11/124952301",
+    "id": "124952301",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fat fryers (Electric -)",
+    "harm": {
+      "id": "0008064",
+      "title": "124952301 - Deep fat fryers (Electric -)",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/722193",
+    "id": "722193",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep freezers",
+    "harm": {
+      "id": "0023487",
+      "title": "722193 - Deep freezers",
+      "conceptLink": "/ec2/concept/5972953"
+    }
+  },
+  {
+    "uri": "en/11/722194",
+    "id": "722194",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep freezing apparatus",
+    "harm": {
+      "id": "0023487",
+      "title": "722194 - Deep freezing apparatus",
+      "conceptLink": "/ec2/concept/5972953"
+    }
+  },
+  {
+    "uri": "en/11/724606",
+    "id": "724606",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep freezing installations",
+    "harm": {
+      "id": "0008366",
+      "title": "724606 - Deep freezing installations",
+      "conceptLink": "/ec2/concept/5959110"
+    }
+  },
+  {
+    "uri": "en/11/181097",
+    "id": "181097",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fryer, electric",
+    "harm": {
+      "id": "0008064",
+      "title": "181097 - Deep fryer, electric",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/406515",
+    "id": "406515",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fryers",
+    "harm": {
+      "id": "0024353",
+      "title": "406515 - Deep fryers",
+      "conceptLink": "/ec2/concept/5973749"
+    }
+  },
+  {
+    "uri": "en/11/181098",
+    "id": "181098",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep fryers, electric",
+    "harm": {
+      "id": "0008064",
+      "title": "181098 - Deep fryers, electric",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/119532567",
+    "id": "119532567",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deep frying machines",
+    "harm": {
+      "id": "0024353",
+      "title": "119532567 - Deep frying machines",
+      "conceptLink": "/ec2/concept/5973749"
+    }
+  },
+  {
+    "uri": "en/11/175557",
+    "id": "175557",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Defrosters for vehicles",
+    "harm": {
+      "id": "0036119",
+      "title": "175557 - Defrosters for vehicles",
+      "conceptLink": "/ec2/concept/5984492"
+    }
+  },
+  {
+    "uri": "en/11/902636",
+    "id": "902636",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Defrosting apparatus for vehicles",
+    "harm": {
+      "id": "0036119",
+      "title": "902636 - Defrosting apparatus for vehicles",
+      "conceptLink": "/ec2/concept/5984492"
+    }
+  },
+  {
+    "uri": "en/11/180493",
+    "id": "180493",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Defrosting windows of vehicles (Heating apparatus for -)",
+    "harm": {
+      "id": "0042810",
+      "title": "180493 - Defrosting windows of vehicles (Heating apparatus for -)",
+      "conceptLink": "/ec2/concept/5990587"
+    }
+  },
+  {
+    "uri": "en/11/406565",
+    "id": "406565",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dehumidifiers",
+    "harm": {
+      "id": "0035588",
+      "title": "406565 - Dehumidifiers",
+      "conceptLink": "/ec2/concept/5984011"
+    }
+  },
+  {
+    "uri": "en/11/335374",
+    "id": "335374",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dehumidifiers for household use",
+    "harm": {
+      "id": "0002345",
+      "title": "335374 - Dehumidifiers for household use",
+      "conceptLink": "/ec2/concept/5953599"
+    }
+  },
+  {
+    "uri": "en/11/129373546",
+    "id": "129373546",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dehydrating (Apparatus for -) food waste",
+    "harm": {
+      "id": "0044923",
+      "title": "129373546 - Dehydrating (Apparatus for -) food waste",
+      "conceptLink": "/ec2/concept/5992529"
+    }
+  },
+  {
+    "uri": "en/11/182838",
+    "id": "182838",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dehydrating (Apparatus for -) foodstuff organic materials",
+    "harm": {
+      "id": "0044923",
+      "title": "182838 - Dehydrating (Apparatus for -) foodstuff organic materials",
+      "conceptLink": "/ec2/concept/5992529"
+    }
+  },
+  {
+    "uri": "en/11/725135",
+    "id": "725135",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Demisters",
+    "harm": {
+      "id": "0041361",
+      "title": "725135 - Demisters",
+      "conceptLink": "/ec2/concept/5989279"
+    }
+  },
+  {
+    "uri": "en/11/182464",
+    "id": "182464",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dental ovens",
+    "harm": {
+      "id": "0030482",
+      "title": "182464 - Dental ovens",
+      "conceptLink": "/ec2/concept/5979371"
+    }
+  },
+  {
+    "uri": "en/11/181425",
+    "id": "181425",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deodorant apparatus [not for personal use]",
+    "harm": {
+      "id": "0029796",
+      "title": "181425 - Deodorant apparatus [not for personal use]",
+      "conceptLink": "/ec2/concept/5978741"
+    }
+  },
+  {
+    "uri": "en/11/616575",
+    "id": "616575",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deodorising apparatus",
+    "harm": {
+      "id": "0027827",
+      "title": "616575 - Deodorising apparatus",
+      "conceptLink": "/ec2/concept/5976928"
+    }
+  },
+  {
+    "uri": "en/11/725151",
+    "id": "725151",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deodorising apparatus for dispensing scents in motor vehicles",
+    "harm": {
+      "id": "0024067",
+      "title": "725151 - Deodorising apparatus for dispensing scents in motor vehicles",
+      "conceptLink": "/ec2/concept/5973489"
+    }
+  },
+  {
+    "uri": "en/11/181426",
+    "id": "181426",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Deodorising apparatus, not for personal use",
+    "harm": {
+      "id": "0029796",
+      "title": "181426 - Deodorising apparatus, not for personal use",
+      "conceptLink": "/ec2/concept/5978741"
+    }
+  },
+  {
+    "uri": "en/11/725163",
+    "id": "725163",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Depilatory wax heaters",
+    "harm": {
+      "id": "0029797",
+      "title": "725163 - Depilatory wax heaters",
+      "conceptLink": "/ec2/concept/5978742"
+    }
+  },
+  {
+    "uri": "en/11/175047",
+    "id": "175047",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desalination apparatus",
+    "harm": {
+      "id": "0046288",
+      "title": "175047 - Desalination apparatus",
+      "conceptLink": "/ec2/concept/5993749"
+    }
+  },
+  {
+    "uri": "en/11/175683",
+    "id": "175683",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desalination installations",
+    "harm": {
+      "id": "0000876",
+      "title": "175683 - Desalination installations",
+      "conceptLink": "/ec2/concept/5952275"
+    }
+  },
+  {
+    "uri": "en/11/175682",
+    "id": "175682",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desalination plants",
+    "harm": {
+      "id": "0000876",
+      "title": "175682 - Desalination plants",
+      "conceptLink": "/ec2/concept/5952275"
+    }
+  },
+  {
+    "uri": "en/11/406606",
+    "id": "406606",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desalination units",
+    "harm": {
+      "id": "0000876",
+      "title": "406606 - Desalination units",
+      "conceptLink": "/ec2/concept/5952275"
+    }
+  },
+  {
+    "uri": "en/11/175719",
+    "id": "175719",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desiccating apparatus",
+    "harm": {
+      "id": "0040774",
+      "title": "175719 - Desiccating apparatus",
+      "conceptLink": "/ec2/concept/5988740"
+    }
+  },
+  {
+    "uri": "en/11/406628",
+    "id": "406628",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desk lamps",
+    "harm": {
+      "id": "0058404",
+      "title": "406628 - Desk lamps",
+      "conceptLink": "/ec2/concept/5999903"
+    }
+  },
+  {
+    "uri": "en/11/406630",
+    "id": "406630",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Desk lights",
+    "harm": {
+      "id": "0058404",
+      "title": "406630 - Desk lights",
+      "conceptLink": "/ec2/concept/5999903"
+    }
+  },
+  {
+    "uri": "en/11/725179",
+    "id": "725179",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Diesel fuel line heaters",
+    "harm": {
+      "id": "0000877",
+      "title": "725179 - Diesel fuel line heaters",
+      "conceptLink": "/ec2/concept/5952276"
+    }
+  },
+  {
+    "uri": "en/11/725198",
+    "id": "725198",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Diffusers being parts of lighting installations",
+    "harm": {
+      "id": "0037909",
+      "title": "725198 - Diffusers being parts of lighting installations",
+      "conceptLink": "/ec2/concept/5986114"
+    }
+  },
+  {
+    "uri": "en/11/725197",
+    "id": "725197",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Diffusers being parts of lighting apparatus",
+    "harm": {
+      "id": "0037909",
+      "title": "725197 - Diffusers being parts of lighting apparatus",
+      "conceptLink": "/ec2/concept/5986114"
+    }
+  },
+  {
+    "uri": "en/11/175749",
+    "id": "175749",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Diffusers (Light -)",
+    "harm": {
+      "id": "0007178",
+      "title": "175749 - Diffusers (Light -)",
+      "conceptLink": "/ec2/concept/5958022"
+    }
+  },
+  {
+    "uri": "en/11/120894927",
+    "id": "120894927",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Diffusion furnaces for industrial use",
+    "harm": {
+      "id": "0066242",
+      "title": "120894927 - Diffusion furnaces for industrial use",
+      "conceptLink": "/ec2/concept/6002445"
+    }
+  },
+  {
+    "uri": "en/11/725222",
+    "id": "725222",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Direction indicator bulbs",
+    "harm": {
+      "id": "0043663",
+      "title": "725222 - Direction indicator bulbs",
+      "conceptLink": "/ec2/concept/5991373"
+    }
+  },
+  {
+    "uri": "en/11/124952412",
+    "id": "124952412",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Direction indicators for cycles (Lamps for -)",
+    "harm": {
+      "id": "0008987",
+      "title": "124952412 - Direction indicators for cycles (Lamps for -)",
+      "conceptLink": "/ec2/concept/5959682"
+    }
+  },
+  {
+    "uri": "en/11/124440825",
+    "id": "124440825",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Direction indicators for land vehicles (Lamps for -)",
+    "harm": {
+      "id": "0058970",
+      "title": "124440825 - Direction indicators for land vehicles (Lamps for -)",
+      "conceptLink": "/ec2/concept/6000461"
+    }
+  },
+  {
+    "uri": "en/11/124440826",
+    "id": "124440826",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Direction indicators for vehicles (Lamps for -)",
+    "harm": {
+      "id": "0058970",
+      "title": "124440826 - Direction indicators for vehicles (Lamps for -)",
+      "conceptLink": "/ec2/concept/6000461"
+    }
+  },
+  {
+    "uri": "en/11/725247",
+    "id": "725247",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dirt pans [parts of fires or furnaces]",
+    "harm": {
+      "id": "0020670",
+      "title": "725247 - Dirt pans [parts of fires or furnaces]",
+      "conceptLink": "/ec2/concept/5970372"
+    }
+  },
+  {
+    "uri": "en/11/15409415",
+    "id": "15409415",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Discharge lamps",
+    "harm": {
+      "id": "0066244",
+      "title": "15409415 - Discharge lamps",
+      "conceptLink": "/ec2/concept/6002447"
+    }
+  },
+  {
+    "uri": "en/11/175504",
+    "id": "175504",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Discharge tubes, electric, for lighting",
+    "harm": {
+      "id": "0034992",
+      "title": "175504 - Discharge tubes, electric, for lighting",
+      "conceptLink": "/ec2/concept/5983471"
+    }
+  },
+  {
+    "uri": "en/11/335390",
+    "id": "335390",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dish disinfectant apparatus for industrial purposes",
+    "harm": {
+      "id": "0031183",
+      "title": "335390 - Dish disinfectant apparatus for industrial purposes",
+      "conceptLink": "/ec2/concept/5980013"
+    }
+  },
+  {
+    "uri": "en/11/174560",
+    "id": "174560",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Dish heaters",
+    "harm": {
+      "id": "0058122",
+      "title": "174560 - Dish heaters",
+      "conceptLink": "/ec2/concept/5999623"
+    }
+  },
+  {
+    "uri": "en/11/175643",
+    "id": "175643",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant apparatus",
+    "harm": {
+      "id": "0046670",
+      "title": "175643 - Disinfectant apparatus",
+      "conceptLink": "/ec2/concept/5994092"
+    }
+  },
+  {
+    "uri": "en/11/138188821",
+    "id": "138188821",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant apparatus for banknotes",
+    "harm": {
+      "id": "0070239",
+      "title": "138188821 - Disinfectant apparatus for banknotes",
+      "conceptLink": "/ec2/concept/6006432"
+    }
+  },
+  {
+    "uri": "en/11/137613557",
+    "id": "137613557",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant apparatus for banknote",
+    "harm": {
+      "id": "0070239",
+      "title": "137613557 - Disinfectant apparatus for banknote",
+      "conceptLink": "/ec2/concept/6006432"
+    }
+  },
+  {
+    "uri": "en/11/233547363",
+    "id": "233547363",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant apparatus for medical purposes",
+    "harm": {
+      "id": "0052084",
+      "title": "233547363 - Disinfectant apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/6010984"
+    }
+  },
+  {
+    "uri": "en/11/725263",
+    "id": "725263",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant dispensers for washrooms",
+    "harm": {
+      "id": "0014834",
+      "title": "725263 - Disinfectant dispensers for washrooms",
+      "conceptLink": "/ec2/concept/5965038"
+    }
+  },
+  {
+    "uri": "en/11/175592",
+    "id": "175592",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant dispensers for toilets",
+    "harm": {
+      "id": "0029907",
+      "title": "175592 - Disinfectant dispensers for toilets",
+      "conceptLink": "/ec2/concept/5978837"
+    }
+  },
+  {
+    "uri": "en/11/175593",
+    "id": "175593",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfectant distributors for toilets",
+    "harm": {
+      "id": "0029907",
+      "title": "175593 - Disinfectant distributors for toilets",
+      "conceptLink": "/ec2/concept/5978837"
+    }
+  },
+  {
+    "uri": "en/11/175641",
+    "id": "175641",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfecting apparatus",
+    "harm": {
+      "id": "0046670",
+      "title": "175641 - Disinfecting apparatus",
+      "conceptLink": "/ec2/concept/5994092"
+    }
+  },
+  {
+    "uri": "en/11/175642",
+    "id": "175642",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Disinfection apparatus",
+    "harm": {
+      "id": "0046670",
+      "title": "175642 - Disinfection apparatus",
+      "conceptLink": "/ec2/concept/5994092"
+    }
+  },
+  {
+    "uri": "en/11/493604",
+    "id": "493604",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Display cabinets (Refrigerating -) [display cases]",
+    "harm": {
+      "id": "0058370",
+      "title": "493604 - Display cabinets (Refrigerating -) [display cases]",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  }
+]

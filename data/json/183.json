@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/696459",
+    "id": "696459",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spinning preparation machines",
+    "harm": {
+      "id": "0016909",
+      "title": "696459 - Spinning preparation machines",
+      "conceptLink": "/ec2/concept/5966944"
+    }
+  },
+  {
+    "uri": "en/7/118344",
+    "id": "118344",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spinning wheels",
+    "harm": {
+      "id": "0026427",
+      "title": "118344 - Spinning wheels",
+      "conceptLink": "/ec2/concept/5975653"
+    }
+  },
+  {
+    "uri": "en/7/696471",
+    "id": "696471",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spinning wheels [machines]",
+    "harm": {
+      "id": "0034232",
+      "title": "696471 - Spinning wheels [machines]",
+      "conceptLink": "/ec2/concept/5982784"
+    }
+  },
+  {
+    "uri": "en/7/119526871",
+    "id": "119526871",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spiral binding machines for industrial use",
+    "harm": {
+      "id": "0065595",
+      "title": "119526871 - Spiral binding machines for industrial use",
+      "conceptLink": "/ec2/concept/6001798"
+    }
+  },
+  {
+    "uri": "en/7/696487",
+    "id": "696487",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spiral conveyors [machines]",
+    "harm": {
+      "id": "0045722",
+      "title": "696487 - Spiral conveyors [machines]",
+      "conceptLink": "/ec2/concept/5993258"
+    }
+  },
+  {
+    "uri": "en/7/696502",
+    "id": "696502",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spiral de-watering units [machines]",
+    "harm": {
+      "id": "0022765",
+      "title": "696502 - Spiral de-watering units [machines]",
+      "conceptLink": "/ec2/concept/5972293"
+    }
+  },
+  {
+    "uri": "en/7/696516",
+    "id": "696516",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spiral mixing machines",
+    "harm": {
+      "id": "0034233",
+      "title": "696516 - Spiral mixing machines",
+      "conceptLink": "/ec2/concept/5982785"
+    }
+  },
+  {
+    "uri": "en/7/696528",
+    "id": "696528",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splash guards [parts of machines]",
+    "harm": {
+      "id": "0022766",
+      "title": "696528 - Splash guards [parts of machines]",
+      "conceptLink": "/ec2/concept/5972294"
+    }
+  },
+  {
+    "uri": "en/7/696543",
+    "id": "696543",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splash preventers [parts of machines]",
+    "harm": {
+      "id": "0005380",
+      "title": "696543 - Splash preventers [parts of machines]",
+      "conceptLink": "/ec2/concept/5956381"
+    }
+  },
+  {
+    "uri": "en/7/672595",
+    "id": "672595",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splicing machines",
+    "harm": {
+      "id": "0046867",
+      "title": "672595 - Splicing machines",
+      "conceptLink": "/ec2/concept/5994260"
+    }
+  },
+  {
+    "uri": "en/7/696580",
+    "id": "696580",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spline shank bits [parts of machines]",
+    "harm": {
+      "id": "0028439",
+      "title": "696580 - Spline shank bits [parts of machines]",
+      "conceptLink": "/ec2/concept/5977490"
+    }
+  },
+  {
+    "uri": "en/7/696557",
+    "id": "696557",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spline shank bits [parts of gearing for aircraft]",
+    "harm": {
+      "id": "0005381",
+      "title": "696557 - Spline shank bits [parts of gearing for aircraft]",
+      "conceptLink": "/ec2/concept/5956382"
+    }
+  },
+  {
+    "uri": "en/7/696569",
+    "id": "696569",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spline shank bits [parts of gearing for water vehicles]",
+    "harm": {
+      "id": "0039971",
+      "title": "696569 - Spline shank bits [parts of gearing for water vehicles]",
+      "conceptLink": "/ec2/concept/5988007"
+    }
+  },
+  {
+    "uri": "en/7/124924282",
+    "id": "124924282",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splines (involute -) [parts of machines]",
+    "harm": {
+      "id": "0045723",
+      "title": "124924282 - Splines (involute -) [parts of machines]",
+      "conceptLink": "/ec2/concept/5993259"
+    }
+  },
+  {
+    "uri": "en/7/124924295",
+    "id": "124924295",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splines (sliding -) [parts of machines]",
+    "harm": {
+      "id": "0004215",
+      "title": "124924295 - Splines (sliding -) [parts of machines]",
+      "conceptLink": "/ec2/concept/5955304"
+    }
+  },
+  {
+    "uri": "en/7/124924309",
+    "id": "124924309",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splines (sliding -) [parts of water vehicle gearing]",
+    "harm": {
+      "id": "0038839",
+      "title": "124924309 - Splines (sliding -) [parts of water vehicle gearing]",
+      "conceptLink": "/ec2/concept/5986969"
+    }
+  },
+  {
+    "uri": "en/7/124924322",
+    "id": "124924322",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splines (square -) [parts of machines]",
+    "harm": {
+      "id": "0015754",
+      "title": "124924322 - Splines (square -) [parts of machines]",
+      "conceptLink": "/ec2/concept/5965884"
+    }
+  },
+  {
+    "uri": "en/7/124924336",
+    "id": "124924336",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Splines (square -) [parts of water vehicle gearing]",
+    "harm": {
+      "id": "0009939",
+      "title": "124924336 - Splines (square -) [parts of water vehicle gearing]",
+      "conceptLink": "/ec2/concept/5960552"
+    }
+  },
+  {
+    "uri": "en/7/696659",
+    "id": "696659",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spool adaptors [parts for industrial machine]",
+    "harm": {
+      "id": "0044593",
+      "title": "696659 - Spool adaptors [parts for industrial machine]",
+      "conceptLink": "/ec2/concept/5992226"
+    }
+  },
+  {
+    "uri": "en/7/696674",
+    "id": "696674",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spool unwinders [machines]",
+    "harm": {
+      "id": "0027293",
+      "title": "696674 - Spool unwinders [machines]",
+      "conceptLink": "/ec2/concept/5976428"
+    }
+  },
+  {
+    "uri": "en/7/696685",
+    "id": "696685",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spools of metal [parts of machines]",
+    "harm": {
+      "id": "0021659",
+      "title": "696685 - Spools of metal [parts of machines]",
+      "conceptLink": "/ec2/concept/5971273"
+    }
+  },
+  {
+    "uri": "en/7/696702",
+    "id": "696702",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spot cleaning machines",
+    "harm": {
+      "id": "0038840",
+      "title": "696702 - Spot cleaning machines",
+      "conceptLink": "/ec2/concept/5986970"
+    }
+  },
+  {
+    "uri": "en/7/696714",
+    "id": "696714",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spot welding machines",
+    "harm": {
+      "id": "0015755",
+      "title": "696714 - Spot welding machines",
+      "conceptLink": "/ec2/concept/5965885"
+    }
+  },
+  {
+    "uri": "en/7/324500",
+    "id": "324500",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray damping machines [for textile treatment]",
+    "harm": {
+      "id": "0041462",
+      "title": "324500 - Spray damping machines [for textile treatment]",
+      "conceptLink": "/ec2/concept/5989365"
+    }
+  },
+  {
+    "uri": "en/7/696729",
+    "id": "696729",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray fittings [parts of machines]",
+    "harm": {
+      "id": "0033034",
+      "title": "696729 - Spray fittings [parts of machines]",
+      "conceptLink": "/ec2/concept/5981688"
+    }
+  },
+  {
+    "uri": "en/7/696749",
+    "id": "696749",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guards for machines",
+    "harm": {
+      "id": "0015756",
+      "title": "696749 - Spray guards for machines",
+      "conceptLink": "/ec2/concept/5965886"
+    }
+  },
+  {
+    "uri": "en/7/387579",
+    "id": "387579",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns",
+    "harm": {
+      "id": "0018579",
+      "title": "387579 - Spray guns",
+      "conceptLink": "/ec2/concept/5968467"
+    }
+  },
+  {
+    "uri": "en/7/124924458",
+    "id": "124924458",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns (electric -) [airbrushes]",
+    "harm": {
+      "id": "0027294",
+      "title": "124924458 - Spray guns (electric -) [airbrushes]",
+      "conceptLink": "/ec2/concept/5976429"
+    }
+  },
+  {
+    "uri": "en/7/122309",
+    "id": "122309",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns for paint",
+    "harm": {
+      "id": "0058980",
+      "title": "122309 - Spray guns for paint",
+      "conceptLink": "/ec2/concept/6000471"
+    }
+  },
+  {
+    "uri": "en/7/122305",
+    "id": "122305",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns for painting",
+    "harm": {
+      "id": "0058980",
+      "title": "122305 - Spray guns for painting",
+      "conceptLink": "/ec2/concept/6000471"
+    }
+  },
+  {
+    "uri": "en/7/696784",
+    "id": "696784",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns [machines]",
+    "harm": {
+      "id": "0018579",
+      "title": "696784 - Spray guns [machines]",
+      "conceptLink": "/ec2/concept/5968467"
+    }
+  },
+  {
+    "uri": "en/7/696800",
+    "id": "696800",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns [machines] for extruding putty",
+    "harm": {
+      "id": "0045936",
+      "title": "696800 - Spray guns [machines] for extruding putty",
+      "conceptLink": "/ec2/concept/5993457"
+    }
+  },
+  {
+    "uri": "en/7/122311",
+    "id": "122311",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray guns [machines] for paint",
+    "harm": {
+      "id": "0058980",
+      "title": "122311 - Spray guns [machines] for paint",
+      "conceptLink": "/ec2/concept/6000471"
+    }
+  },
+  {
+    "uri": "en/7/696813",
+    "id": "696813",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray heads [parts of machines]",
+    "harm": {
+      "id": "0028658",
+      "title": "696813 - Spray heads [parts of machines]",
+      "conceptLink": "/ec2/concept/5977696"
+    }
+  },
+  {
+    "uri": "en/7/696829",
+    "id": "696829",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray lances being agricultural implements",
+    "harm": {
+      "id": "0040214",
+      "title": "696829 - Spray lances being agricultural implements",
+      "conceptLink": "/ec2/concept/5988228"
+    }
+  },
+  {
+    "uri": "en/7/696841",
+    "id": "696841",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray lances being horticultural implements",
+    "harm": {
+      "id": "0034461",
+      "title": "696841 - Spray lances being horticultural implements",
+      "conceptLink": "/ec2/concept/5982991"
+    }
+  },
+  {
+    "uri": "en/7/696853",
+    "id": "696853",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray lances for attachment to pressure washing machines for cleaning purposes",
+    "harm": {
+      "id": "0028659",
+      "title": "696853 - Spray lances for attachment to pressure washing machines for cleaning purposes",
+      "conceptLink": "/ec2/concept/5977697"
+    }
+  },
+  {
+    "uri": "en/7/696866",
+    "id": "696866",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray nozzles being parts of machines",
+    "harm": {
+      "id": "0011332",
+      "title": "696866 - Spray nozzles being parts of machines",
+      "conceptLink": "/ec2/concept/5961827"
+    }
+  },
+  {
+    "uri": "en/7/696882",
+    "id": "696882",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray nozzles for attachment to pressure washing machines",
+    "harm": {
+      "id": "0005599",
+      "title": "696882 - Spray nozzles for attachment to pressure washing machines",
+      "conceptLink": "/ec2/concept/5956589"
+    }
+  },
+  {
+    "uri": "en/7/391741",
+    "id": "391741",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray paint machines",
+    "harm": {
+      "id": "0018579",
+      "title": "391741 - Spray paint machines",
+      "conceptLink": "/ec2/concept/5968467"
+    }
+  },
+  {
+    "uri": "en/7/696897",
+    "id": "696897",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray prevention flaps for machines",
+    "harm": {
+      "id": "0045937",
+      "title": "696897 - Spray prevention flaps for machines",
+      "conceptLink": "/ec2/concept/5993458"
+    }
+  },
+  {
+    "uri": "en/7/696748",
+    "id": "696748",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray prevention guards for machines",
+    "harm": {
+      "id": "0015756",
+      "title": "696748 - Spray prevention guards for machines",
+      "conceptLink": "/ec2/concept/5965886"
+    }
+  },
+  {
+    "uri": "en/7/696910",
+    "id": "696910",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray rollers being agricultural implements",
+    "harm": {
+      "id": "0005600",
+      "title": "696910 - Spray rollers being agricultural implements",
+      "conceptLink": "/ec2/concept/5956590"
+    }
+  },
+  {
+    "uri": "en/7/696924",
+    "id": "696924",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray rollers being horticultural implements",
+    "harm": {
+      "id": "0034462",
+      "title": "696924 - Spray rollers being horticultural implements",
+      "conceptLink": "/ec2/concept/5982992"
+    }
+  },
+  {
+    "uri": "en/7/696936",
+    "id": "696936",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spray valves [parts of machines]",
+    "harm": {
+      "id": "0044338",
+      "title": "696936 - Spray valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5991987"
+    }
+  },
+  {
+    "uri": "en/7/697130",
+    "id": "697130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers affixed to vehicles for spraying crops",
+    "harm": {
+      "id": "0022174",
+      "title": "697130 - Sprayers affixed to vehicles for spraying crops",
+      "conceptLink": "/ec2/concept/5971752"
+    }
+  },
+  {
+    "uri": "en/7/697143",
+    "id": "697143",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers for towing behind vehicles for spraying crops",
+    "harm": {
+      "id": "0022175",
+      "title": "697143 - Sprayers for towing behind vehicles for spraying crops",
+      "conceptLink": "/ec2/concept/5971753"
+    }
+  },
+  {
+    "uri": "en/7/697155",
+    "id": "697155",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers for use in agriculture [parts of machines]",
+    "harm": {
+      "id": "0027828",
+      "title": "697155 - Sprayers for use in agriculture [parts of machines]",
+      "conceptLink": "/ec2/concept/5976929"
+    }
+  },
+  {
+    "uri": "en/7/697170",
+    "id": "697170",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers for use in horticulture [parts of machines]",
+    "harm": {
+      "id": "0022176",
+      "title": "697170 - Sprayers for use in horticulture [parts of machines]",
+      "conceptLink": "/ec2/concept/5971754"
+    }
+  },
+  {
+    "uri": "en/7/124924624",
+    "id": "124924624",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers (insecticide -) [hand-held tools, electric]",
+    "harm": {
+      "id": "0009656",
+      "title": "124924624 - Sprayers (insecticide -) [hand-held tools, electric]",
+      "conceptLink": "/ec2/concept/5960298"
+    }
+  },
+  {
+    "uri": "en/7/124924641",
+    "id": "124924641",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers (insecticide -) [machines]",
+    "harm": {
+      "id": "0003906",
+      "title": "124924641 - Sprayers (insecticide -) [machines]",
+      "conceptLink": "/ec2/concept/5955024"
+    }
+  },
+  {
+    "uri": "en/7/124924657",
+    "id": "124924657",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers (knapsack -) [electric] for carrying on the back",
+    "harm": {
+      "id": "0015489",
+      "title": "124924657 - Sprayers (knapsack -) [electric] for carrying on the back",
+      "conceptLink": "/ec2/concept/5965636"
+    }
+  },
+  {
+    "uri": "en/7/696997",
+    "id": "696997",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for agricultural use in spraying fungicide",
+    "harm": {
+      "id": "0003907",
+      "title": "696997 - Sprayers [machines] for agricultural use in spraying fungicide",
+      "conceptLink": "/ec2/concept/5955025"
+    }
+  },
+  {
+    "uri": "en/7/697012",
+    "id": "697012",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for agricultural use in spraying herbicide",
+    "harm": {
+      "id": "0003908",
+      "title": "697012 - Sprayers [machines] for agricultural use in spraying herbicide",
+      "conceptLink": "/ec2/concept/5955026"
+    }
+  },
+  {
+    "uri": "en/7/697027",
+    "id": "697027",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for agricultural use in spraying insecticides",
+    "harm": {
+      "id": "0032763",
+      "title": "697027 - Sprayers [machines] for agricultural use in spraying insecticides",
+      "conceptLink": "/ec2/concept/5981438"
+    }
+  },
+  {
+    "uri": "en/7/696982",
+    "id": "696982",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers (machines) for applying artificial sun tanning preparations",
+    "harm": {
+      "id": "0021362",
+      "title": "696982 - Sprayers (machines) for applying artificial sun tanning preparations",
+      "conceptLink": "/ec2/concept/5971007"
+    }
+  },
+  {
+    "uri": "en/7/697042",
+    "id": "697042",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for garden use in spraying insecticide",
+    "harm": {
+      "id": "0038555",
+      "title": "697042 - Sprayers [machines] for garden use in spraying insecticide",
+      "conceptLink": "/ec2/concept/5986714"
+    }
+  },
+  {
+    "uri": "en/7/697056",
+    "id": "697056",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for garden use in spraying weedkillers",
+    "harm": {
+      "id": "0044339",
+      "title": "697056 - Sprayers [machines] for garden use in spraying weedkillers",
+      "conceptLink": "/ec2/concept/5991988"
+    }
+  },
+  {
+    "uri": "en/7/697070",
+    "id": "697070",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for household use in spraying insecticide",
+    "harm": {
+      "id": "0021363",
+      "title": "697070 - Sprayers [machines] for household use in spraying insecticide",
+      "conceptLink": "/ec2/concept/5971008"
+    }
+  },
+  {
+    "uri": "en/7/697085",
+    "id": "697085",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for household use in spraying weedkillers",
+    "harm": {
+      "id": "0044340",
+      "title": "697085 - Sprayers [machines] for household use in spraying weedkillers",
+      "conceptLink": "/ec2/concept/5991989"
+    }
+  },
+  {
+    "uri": "en/7/697099",
+    "id": "697099",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for use in agriculture",
+    "harm": {
+      "id": "0009657",
+      "title": "697099 - Sprayers [machines] for use in agriculture",
+      "conceptLink": "/ec2/concept/5960299"
+    }
+  },
+  {
+    "uri": "en/7/697114",
+    "id": "697114",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprayers [machines] for use in horticulture",
+    "harm": {
+      "id": "0044341",
+      "title": "697114 - Sprayers [machines] for use in horticulture",
+      "conceptLink": "/ec2/concept/5991990"
+    }
+  },
+  {
+    "uri": "en/7/697190",
+    "id": "697190",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying booms attached to vehicles for the purpose of spraying crops",
+    "harm": {
+      "id": "0045103",
+      "title": "697190 - Spraying booms attached to vehicles for the purpose of spraying crops",
+      "conceptLink": "/ec2/concept/5992691"
+    }
+  },
+  {
+    "uri": "en/7/697191",
+    "id": "697191",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying booms for attachment to vehicles for the purpose of spraying crops",
+    "harm": {
+      "id": "0045103",
+      "title": "697191 - Spraying booms for attachment to vehicles for the purpose of spraying crops",
+      "conceptLink": "/ec2/concept/5992691"
+    }
+  },
+  {
+    "uri": "en/7/697211",
+    "id": "697211",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying booms for towing behind vehicles for spraying crops",
+    "harm": {
+      "id": "0033575",
+      "title": "697211 - Spraying booms for towing behind vehicles for spraying crops",
+      "conceptLink": "/ec2/concept/5982186"
+    }
+  },
+  {
+    "uri": "en/7/119104",
+    "id": "119104",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying machines",
+    "harm": {
+      "id": "0047442",
+      "title": "119104 - Spraying machines",
+      "conceptLink": "/ec2/concept/5994755"
+    }
+  },
+  {
+    "uri": "en/7/697239",
+    "id": "697239",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying machines for use mounted on trailers",
+    "harm": {
+      "id": "0004753",
+      "title": "697239 - Spraying machines for use mounted on trailers",
+      "conceptLink": "/ec2/concept/5955807"
+    }
+  },
+  {
+    "uri": "en/7/697223",
+    "id": "697223",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying machines for use mounted on tractors",
+    "harm": {
+      "id": "0004752",
+      "title": "697223 - Spraying machines for use mounted on tractors",
+      "conceptLink": "/ec2/concept/5955806"
+    }
+  },
+  {
+    "uri": "en/7/697251",
+    "id": "697251",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spraying machines in the form of trailers",
+    "harm": {
+      "id": "0027829",
+      "title": "697251 - Spraying machines in the form of trailers",
+      "conceptLink": "/ec2/concept/5976930"
+    }
+  },
+  {
+    "uri": "en/7/697264",
+    "id": "697264",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprays [machines], other than for medical use",
+    "harm": {
+      "id": "0033576",
+      "title": "697264 - Sprays [machines], other than for medical use",
+      "conceptLink": "/ec2/concept/5982187"
+    }
+  },
+  {
+    "uri": "en/7/697279",
+    "id": "697279",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprays [parts of machines], other than for medical use",
+    "harm": {
+      "id": "0010464",
+      "title": "697279 - Sprays [parts of machines], other than for medical use",
+      "conceptLink": "/ec2/concept/5961033"
+    }
+  },
+  {
+    "uri": "en/7/697293",
+    "id": "697293",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spreader beams [machines]",
+    "harm": {
+      "id": "0027830",
+      "title": "697293 - Spreader beams [machines]",
+      "conceptLink": "/ec2/concept/5976931"
+    }
+  },
+  {
+    "uri": "en/7/697308",
+    "id": "697308",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spreader beams [parts of machines]",
+    "harm": {
+      "id": "0039379",
+      "title": "697308 - Spreader beams [parts of machines]",
+      "conceptLink": "/ec2/concept/5987460"
+    }
+  },
+  {
+    "uri": "en/7/697325",
+    "id": "697325",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spreaders [machines]",
+    "harm": {
+      "id": "0007264",
+      "title": "697325 - Spreaders [machines]",
+      "conceptLink": "/ec2/concept/5958107"
+    }
+  },
+  {
+    "uri": "en/7/697326",
+    "id": "697326",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spreading machines",
+    "harm": {
+      "id": "0007264",
+      "title": "697326 - Spreading machines",
+      "conceptLink": "/ec2/concept/5958107"
+    }
+  },
+  {
+    "uri": "en/7/697351",
+    "id": "697351",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spring bushes [parts of machines]",
+    "harm": {
+      "id": "0041974",
+      "title": "697351 - Spring bushes [parts of machines]",
+      "conceptLink": "/ec2/concept/5989832"
+    }
+  },
+  {
+    "uri": "en/7/697365",
+    "id": "697365",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spring driven reels",
+    "harm": {
+      "id": "0030421",
+      "title": "697365 - Spring driven reels",
+      "conceptLink": "/ec2/concept/5979313"
+    }
+  },
+  {
+    "uri": "en/7/697377",
+    "id": "697377",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spring motors",
+    "harm": {
+      "id": "0030422",
+      "title": "697377 - Spring motors",
+      "conceptLink": "/ec2/concept/5979314"
+    }
+  },
+  {
+    "uri": "en/7/697392",
+    "id": "697392",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spring powered machines",
+    "harm": {
+      "id": "0013084",
+      "title": "697392 - Spring powered machines",
+      "conceptLink": "/ec2/concept/5963432"
+    }
+  },
+  {
+    "uri": "en/7/136399771",
+    "id": "136399771",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spring shock absorbers for machines",
+    "harm": {
+      "id": "0031048",
+      "title": "136399771 - Spring shock absorbers for machines",
+      "conceptLink": "/ec2/concept/5979890"
+    }
+  },
+  {
+    "uri": "en/7/697405",
+    "id": "697405",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Springs being parts of anti-vibration mountings for machines",
+    "harm": {
+      "id": "0036204",
+      "title": "697405 - Springs being parts of anti-vibration mountings for machines",
+      "conceptLink": "/ec2/concept/5984567"
+    }
+  },
+  {
+    "uri": "en/7/123576",
+    "id": "123576",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Springs being parts of machines",
+    "harm": {
+      "id": "0024650",
+      "title": "123576 - Springs being parts of machines",
+      "conceptLink": "/ec2/concept/5974026"
+    }
+  },
+  {
+    "uri": "en/7/123575",
+    "id": "123575",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Springs [parts of machines]",
+    "harm": {
+      "id": "0024650",
+      "title": "123575 - Springs [parts of machines]",
+      "conceptLink": "/ec2/concept/5974026"
+    }
+  },
+  {
+    "uri": "en/7/697417",
+    "id": "697417",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprinkling devices [machines]",
+    "harm": {
+      "id": "0041975",
+      "title": "697417 - Sprinkling devices [machines]",
+      "conceptLink": "/ec2/concept/5989833"
+    }
+  },
+  {
+    "uri": "en/7/680777",
+    "id": "680777",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprockets for machines",
+    "harm": {
+      "id": "0030423",
+      "title": "680777 - Sprockets for machines",
+      "conceptLink": "/ec2/concept/5979315"
+    }
+  },
+  {
+    "uri": "en/7/697432",
+    "id": "697432",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprockets for water vehicle gearing",
+    "harm": {
+      "id": "0013085",
+      "title": "697432 - Sprockets for water vehicle gearing",
+      "conceptLink": "/ec2/concept/5963433"
+    }
+  },
+  {
+    "uri": "en/7/697443",
+    "id": "697443",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprung guide rails [parts of machines]",
+    "harm": {
+      "id": "0018922",
+      "title": "697443 - Sprung guide rails [parts of machines]",
+      "conceptLink": "/ec2/concept/5968788"
+    }
+  },
+  {
+    "uri": "en/7/697458",
+    "id": "697458",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sprung sheet metal guides [parts of machines]",
+    "harm": {
+      "id": "0007265",
+      "title": "697458 - Sprung sheet metal guides [parts of machines]",
+      "conceptLink": "/ec2/concept/5958108"
+    }
+  },
+  {
+    "uri": "en/7/697471",
+    "id": "697471",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spur gear manual hoists",
+    "harm": {
+      "id": "0024651",
+      "title": "697471 - Spur gear manual hoists",
+      "conceptLink": "/ec2/concept/5974027"
+    }
+  },
+  {
+    "uri": "en/7/697483",
+    "id": "697483",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spur wheel pulley blocks [parts of machines]",
+    "harm": {
+      "id": "0007266",
+      "title": "697483 - Spur wheel pulley blocks [parts of machines]",
+      "conceptLink": "/ec2/concept/5958109"
+    }
+  },
+  {
+    "uri": "en/7/697496",
+    "id": "697496",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Spur wheels [parts of machines]",
+    "harm": {
+      "id": "0001509",
+      "title": "697496 - Spur wheels [parts of machines]",
+      "conceptLink": "/ec2/concept/5952844"
+    }
+  },
+  {
+    "uri": "en/7/401990",
+    "id": "401990",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sputter coating guns",
+    "harm": {
+      "id": "0007135",
+      "title": "401990 - Sputter coating guns",
+      "conceptLink": "/ec2/concept/5957985"
+    }
+  },
+  {
+    "uri": "en/7/697509",
+    "id": "697509",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Squaring machines",
+    "harm": {
+      "id": "0013086",
+      "title": "697509 - Squaring machines",
+      "conceptLink": "/ec2/concept/5963434"
+    }
+  },
+  {
+    "uri": "en/7/697521",
+    "id": "697521",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Squeegees [machines]",
+    "harm": {
+      "id": "0010465",
+      "title": "697521 - Squeegees [machines]",
+      "conceptLink": "/ec2/concept/5961034"
+    }
+  },
+  {
+    "uri": "en/7/697535",
+    "id": "697535",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Stacker crane arms",
+    "harm": {
+      "id": "0022177",
+      "title": "697535 - Stacker crane arms",
+      "conceptLink": "/ec2/concept/5971755"
+    }
+  },
+  {
+    "uri": "en/7/324516",
+    "id": "324516",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Stacking machines",
+    "harm": {
+      "id": "0024155",
+      "title": "324516 - Stacking machines",
+      "conceptLink": "/ec2/concept/5973573"
+    }
+  },
+  {
+    "uri": "en/7/697565",
+    "id": "697565",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Stacking machines for ingots",
+    "harm": {
+      "id": "0022178",
+      "title": "697565 - Stacking machines for ingots",
+      "conceptLink": "/ec2/concept/5971756"
+    }
+  },
+  {
+    "uri": "en/7/697579",
+    "id": "697579",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Stacking machines for slabs",
+    "harm": {
+      "id": "0004754",
+      "title": "697579 - Stacking machines for slabs",
+      "conceptLink": "/ec2/concept/5955808"
+    }
+  },
+  {
+    "uri": "en/7/697549",
+    "id": "697549",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Stacking machines [other than fork-lift trucks]",
+    "harm": {
+      "id": "0016261",
+      "title": "697549 - Stacking machines [other than fork-lift trucks]",
+      "conceptLink": "/ec2/concept/5966360"
+    }
+  },
+  {
+    "uri": "en/7/324533",
+    "id": "324533",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Staged and segmented conveyors",
+    "harm": {
+      "id": "0012540",
+      "title": "324533 - Staged and segmented conveyors",
+      "conceptLink": "/ec2/concept/5962937"
+    }
+  }
+]

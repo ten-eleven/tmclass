@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/34221",
+    "id": "34221",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock brokerage",
+    "harm": {
+      "id": "0058325",
+      "title": "34221 - Stock brokerage",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/30782",
+    "id": "30782",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock brokerage services",
+    "harm": {
+      "id": "0058325",
+      "title": "30782 - Stock brokerage services",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/34228",
+    "id": "34228",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock broking services",
+    "harm": {
+      "id": "0058325",
+      "title": "34228 - Stock broking services",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/447091",
+    "id": "447091",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock debenture brokerage",
+    "harm": {
+      "id": "0023242",
+      "title": "447091 - Stock debenture brokerage",
+      "conceptLink": "/ec2/concept/5972721"
+    }
+  },
+  {
+    "uri": "en/36/886724",
+    "id": "886724",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange information services",
+    "harm": {
+      "id": "0012909",
+      "title": "886724 - Stock exchange information services",
+      "conceptLink": "/ec2/concept/5963276"
+    }
+  },
+  {
+    "uri": "en/36/120883579",
+    "id": "120883579",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange information provided on-line from a computer database or the Internet",
+    "harm": {
+      "id": "0067971",
+      "title": "120883579 - Stock exchange information provided on-line from a computer database or the Internet",
+      "conceptLink": "/ec2/concept/6004174"
+    }
+  },
+  {
+    "uri": "en/36/35831",
+    "id": "35831",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange price quotations",
+    "harm": {
+      "id": "0058323",
+      "title": "35831 - Stock exchange price quotations",
+      "conceptLink": "/ec2/concept/5999822"
+    }
+  },
+  {
+    "uri": "en/36/125148958",
+    "id": "125148958",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange prices (Quotation of -)",
+    "harm": {
+      "id": "0058323",
+      "title": "125148958 - Stock exchange prices (Quotation of -)",
+      "conceptLink": "/ec2/concept/5999822"
+    }
+  },
+  {
+    "uri": "en/36/35833",
+    "id": "35833",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange quotation services",
+    "harm": {
+      "id": "0058321",
+      "title": "35833 - Stock exchange quotation services",
+      "conceptLink": "/ec2/concept/5999820"
+    }
+  },
+  {
+    "uri": "en/36/35834",
+    "id": "35834",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange quotation and listing services",
+    "harm": {
+      "id": "0058322",
+      "title": "35834 - Stock exchange quotation and listing services",
+      "conceptLink": "/ec2/concept/5999821"
+    }
+  },
+  {
+    "uri": "en/36/35829",
+    "id": "35829",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange quotations",
+    "harm": {
+      "id": "0058321",
+      "title": "35829 - Stock exchange quotations",
+      "conceptLink": "/ec2/concept/5999820"
+    }
+  },
+  {
+    "uri": "en/36/35835",
+    "id": "35835",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchange services",
+    "harm": {
+      "id": "0040531",
+      "title": "35835 - Stock exchange services",
+      "conceptLink": "/ec2/concept/5988515"
+    }
+  },
+  {
+    "uri": "en/36/487323",
+    "id": "487323",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock exchanges for dealing in shares and other financial securities",
+    "harm": {
+      "id": "0009491",
+      "title": "487323 - Stock exchanges for dealing in shares and other financial securities",
+      "conceptLink": "/ec2/concept/5960147"
+    }
+  },
+  {
+    "uri": "en/36/811454",
+    "id": "811454",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock investment management",
+    "harm": {
+      "id": "0040532",
+      "title": "811454 - Stock investment management",
+      "conceptLink": "/ec2/concept/5988516"
+    }
+  },
+  {
+    "uri": "en/36/811469",
+    "id": "811469",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock market services",
+    "harm": {
+      "id": "0011628",
+      "title": "811469 - Stock market services",
+      "conceptLink": "/ec2/concept/5962096"
+    }
+  },
+  {
+    "uri": "en/36/35836",
+    "id": "35836",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock price quotation services",
+    "harm": {
+      "id": "0058323",
+      "title": "35836 - Stock price quotation services",
+      "conceptLink": "/ec2/concept/5999822"
+    }
+  },
+  {
+    "uri": "en/36/46839605",
+    "id": "46839605",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stock trading",
+    "harm": {
+      "id": "0058324",
+      "title": "46839605 - Stock trading",
+      "conceptLink": "/ec2/concept/5999823"
+    }
+  },
+  {
+    "uri": "en/36/120822564",
+    "id": "120822564",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stockbrokerage",
+    "harm": {
+      "id": "0058325",
+      "title": "120822564 - Stockbrokerage",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/34217",
+    "id": "34217",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stockbroking",
+    "harm": {
+      "id": "0058325",
+      "title": "34217 - Stockbroking",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/34226",
+    "id": "34226",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stockbroking agency services",
+    "harm": {
+      "id": "0023244",
+      "title": "34226 - Stockbroking agency services",
+      "conceptLink": "/ec2/concept/5972723"
+    }
+  },
+  {
+    "uri": "en/36/34216",
+    "id": "34216",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stocks and bonds brokerage services",
+    "harm": {
+      "id": "0026134",
+      "title": "34216 - Stocks and bonds brokerage services",
+      "conceptLink": "/ec2/concept/5975385"
+    }
+  },
+  {
+    "uri": "en/36/34215",
+    "id": "34215",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stocks and bonds brokerage",
+    "harm": {
+      "id": "0040530",
+      "title": "34215 - Stocks and bonds brokerage",
+      "conceptLink": "/ec2/concept/5988514"
+    }
+  },
+  {
+    "uri": "en/36/451831",
+    "id": "451831",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Stocks and shares information services",
+    "harm": {
+      "id": "0014640",
+      "title": "451831 - Stocks and shares information services",
+      "conceptLink": "/ec2/concept/5964867"
+    }
+  },
+  {
+    "uri": "en/36/35767",
+    "id": "35767",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Storage of valuables on deposit",
+    "harm": {
+      "id": "0046622",
+      "title": "35767 - Storage of valuables on deposit",
+      "conceptLink": "/ec2/concept/5994048"
+    }
+  },
+  {
+    "uri": "en/36/124686482",
+    "id": "124686482",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Studies (Financial -)",
+    "harm": {
+      "id": "0017417",
+      "title": "124686482 - Studies (Financial -)",
+      "conceptLink": "/ec2/concept/5967400"
+    }
+  },
+  {
+    "uri": "en/36/125036242",
+    "id": "125036242",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Studies (Insurance -)",
+    "harm": {
+      "id": "0028950",
+      "title": "125036242 - Studies (Insurance -)",
+      "conceptLink": "/ec2/concept/5977969"
+    }
+  },
+  {
+    "uri": "en/36/32596",
+    "id": "32596",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Sureties",
+    "harm": {
+      "id": "0011629",
+      "title": "32596 - Sureties",
+      "conceptLink": "/ec2/concept/5962097"
+    }
+  },
+  {
+    "uri": "en/36/32595",
+    "id": "32595",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Surety",
+    "harm": {
+      "id": "0011629",
+      "title": "32595 - Surety",
+      "conceptLink": "/ec2/concept/5962097"
+    }
+  },
+  {
+    "uri": "en/36/32583",
+    "id": "32583",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Surety services",
+    "harm": {
+      "id": "0072805",
+      "title": "32583 - Surety services",
+      "conceptLink": "/ec2/concept/6008980"
+    }
+  },
+  {
+    "uri": "en/36/811498",
+    "id": "811498",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Swaps of currency rates",
+    "harm": {
+      "id": "0011158",
+      "title": "811498 - Swaps of currency rates",
+      "conceptLink": "/ec2/concept/5961670"
+    }
+  },
+  {
+    "uri": "en/36/811511",
+    "id": "811511",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Swaps of interest rates",
+    "harm": {
+      "id": "0016952",
+      "title": "811511 - Swaps of interest rates",
+      "conceptLink": "/ec2/concept/5966983"
+    }
+  },
+  {
+    "uri": "en/36/811523",
+    "id": "811523",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Syndicated loans",
+    "harm": {
+      "id": "0045763",
+      "title": "811523 - Syndicated loans",
+      "conceptLink": "/ec2/concept/5993299"
+    }
+  },
+  {
+    "uri": "en/36/810549",
+    "id": "810549",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax advice [not accounting]",
+    "harm": {
+      "id": "0004016",
+      "title": "810549 - Tax advice [not accounting]",
+      "conceptLink": "/ec2/concept/5955118"
+    }
+  },
+  {
+    "uri": "en/36/131139764",
+    "id": "131139764",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax and duty payment services",
+    "harm": {
+      "id": "0047998",
+      "title": "131139764 - Tax and duty payment services",
+      "conceptLink": "/ec2/concept/5995259"
+    }
+  },
+  {
+    "uri": "en/36/810550",
+    "id": "810550",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax consultancy [not accounting]",
+    "harm": {
+      "id": "0004016",
+      "title": "810550 - Tax consultancy [not accounting]",
+      "conceptLink": "/ec2/concept/5955118"
+    }
+  },
+  {
+    "uri": "en/36/451850",
+    "id": "451850",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax payment processing services",
+    "harm": {
+      "id": "0042074",
+      "title": "451850 - Tax payment processing services",
+      "conceptLink": "/ec2/concept/5989924"
+    }
+  },
+  {
+    "uri": "en/36/897115",
+    "id": "897115",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax planning [not accounting]",
+    "harm": {
+      "id": "0003293",
+      "title": "897115 - Tax planning [not accounting]",
+      "conceptLink": "/ec2/concept/5954462"
+    }
+  },
+  {
+    "uri": "en/36/897130",
+    "id": "897130",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax returns consultancy [not accounting]",
+    "harm": {
+      "id": "0032174",
+      "title": "897130 - Tax returns consultancy [not accounting]",
+      "conceptLink": "/ec2/concept/5980900"
+    }
+  },
+  {
+    "uri": "en/36/33201",
+    "id": "33201",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tax services [not accounting]",
+    "harm": {
+      "id": "0041763",
+      "title": "33201 - Tax services [not accounting]",
+      "conceptLink": "/ec2/concept/5989641"
+    }
+  },
+  {
+    "uri": "en/36/897143",
+    "id": "897143",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Taxation consultancy services [not accounting]",
+    "harm": {
+      "id": "0037996",
+      "title": "897143 - Taxation consultancy services [not accounting]",
+      "conceptLink": "/ec2/concept/5986196"
+    }
+  },
+  {
+    "uri": "en/36/451867",
+    "id": "451867",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Telebanking",
+    "harm": {
+      "id": "0001601",
+      "title": "451867 - Telebanking",
+      "conceptLink": "/ec2/concept/5952928"
+    }
+  },
+  {
+    "uri": "en/36/811552",
+    "id": "811552",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Telegraphic remittance [payment] services",
+    "harm": {
+      "id": "0016953",
+      "title": "811552 - Telegraphic remittance [payment] services",
+      "conceptLink": "/ec2/concept/5966984"
+    }
+  },
+  {
+    "uri": "en/36/487521",
+    "id": "487521",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Telephone banking and insurance services",
+    "harm": {
+      "id": "0037221",
+      "title": "487521 - Telephone banking and insurance services",
+      "conceptLink": "/ec2/concept/5985490"
+    }
+  },
+  {
+    "uri": "en/36/907519",
+    "id": "907519",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Telephone banking services",
+    "harm": {
+      "id": "0034710",
+      "title": "907519 - Telephone banking services",
+      "conceptLink": "/ec2/concept/5983213"
+    }
+  },
+  {
+    "uri": "en/36/912476",
+    "id": "912476",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Timber (Financial evaluation of standing -)",
+    "harm": {
+      "id": "0037328",
+      "title": "912476 - Timber (Financial evaluation of standing -)",
+      "conceptLink": "/ec2/concept/5985590"
+    }
+  },
+  {
+    "uri": "en/36/811566",
+    "id": "811566",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Time and cost completion risk insurance",
+    "harm": {
+      "id": "0011159",
+      "title": "811566 - Time and cost completion risk insurance",
+      "conceptLink": "/ec2/concept/5961671"
+    }
+  },
+  {
+    "uri": "en/36/811580",
+    "id": "811580",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Time and cost overrun risk insurance",
+    "harm": {
+      "id": "0028476",
+      "title": "811580 - Time and cost overrun risk insurance",
+      "conceptLink": "/ec2/concept/5977526"
+    }
+  },
+  {
+    "uri": "en/36/897187",
+    "id": "897187",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Time share management services",
+    "harm": {
+      "id": "0043739",
+      "title": "897187 - Time share management services",
+      "conceptLink": "/ec2/concept/5991439"
+    }
+  },
+  {
+    "uri": "en/36/897199",
+    "id": "897199",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Time-share property management",
+    "harm": {
+      "id": "0043739",
+      "title": "897199 - Time-share property management",
+      "conceptLink": "/ec2/concept/5991439"
+    }
+  },
+  {
+    "uri": "en/36/35711",
+    "id": "35711",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Tokens of value (Issue of -)",
+    "harm": {
+      "id": "0042898",
+      "title": "35711 - Tokens of value (Issue of -)",
+      "conceptLink": "/ec2/concept/5990671"
+    }
+  },
+  {
+    "uri": "en/36/125034561",
+    "id": "125034561",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trade credit (Provision of finance for -)",
+    "harm": {
+      "id": "0011160",
+      "title": "125034561 - Trade credit (Provision of finance for -)",
+      "conceptLink": "/ec2/concept/5961672"
+    }
+  },
+  {
+    "uri": "en/36/811594",
+    "id": "811594",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trade finance services",
+    "harm": {
+      "id": "0016954",
+      "title": "811594 - Trade finance services",
+      "conceptLink": "/ec2/concept/5966985"
+    }
+  },
+  {
+    "uri": "en/36/811609",
+    "id": "811609",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Traded options brokerage",
+    "harm": {
+      "id": "0045764",
+      "title": "811609 - Traded options brokerage",
+      "conceptLink": "/ec2/concept/5993300"
+    }
+  },
+  {
+    "uri": "en/36/811623",
+    "id": "811623",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in bonds",
+    "harm": {
+      "id": "0028477",
+      "title": "811623 - Trading in bonds",
+      "conceptLink": "/ec2/concept/5977527"
+    }
+  },
+  {
+    "uri": "en/36/811636",
+    "id": "811636",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in contracts on stocks",
+    "harm": {
+      "id": "0016955",
+      "title": "811636 - Trading in contracts on stocks",
+      "conceptLink": "/ec2/concept/5966986"
+    }
+  },
+  {
+    "uri": "en/36/449261",
+    "id": "449261",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in currencies",
+    "harm": {
+      "id": "0046959",
+      "title": "449261 - Trading in currencies",
+      "conceptLink": "/ec2/concept/5994346"
+    }
+  },
+  {
+    "uri": "en/36/120881366",
+    "id": "120881366",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in foreign currency",
+    "harm": {
+      "id": "0046959",
+      "title": "120881366 - Trading in foreign currency",
+      "conceptLink": "/ec2/concept/5994346"
+    }
+  },
+  {
+    "uri": "en/36/811675",
+    "id": "811675",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in futures",
+    "harm": {
+      "id": "0019224",
+      "title": "811675 - Trading in futures",
+      "conceptLink": "/ec2/concept/5969065"
+    }
+  },
+  {
+    "uri": "en/36/808390",
+    "id": "808390",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in options",
+    "harm": {
+      "id": "0036499",
+      "title": "808390 - Trading in options",
+      "conceptLink": "/ec2/concept/5984835"
+    }
+  },
+  {
+    "uri": "en/36/34227",
+    "id": "34227",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in securities",
+    "harm": {
+      "id": "0036653",
+      "title": "34227 - Trading in securities",
+      "conceptLink": "/ec2/concept/5984980"
+    }
+  },
+  {
+    "uri": "en/36/811651",
+    "id": "811651",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading in stocks",
+    "harm": {
+      "id": "0058324",
+      "title": "811651 - Trading in stocks",
+      "conceptLink": "/ec2/concept/5999823"
+    }
+  },
+  {
+    "uri": "en/36/120881876",
+    "id": "120881876",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of acceptances",
+    "harm": {
+      "id": "0067809",
+      "title": "120881876 - Trading of acceptances",
+      "conceptLink": "/ec2/concept/6004012"
+    }
+  },
+  {
+    "uri": "en/36/120880538",
+    "id": "120880538",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of financial derivatives",
+    "harm": {
+      "id": "0067959",
+      "title": "120880538 - Trading of financial derivatives",
+      "conceptLink": "/ec2/concept/6004162"
+    }
+  },
+  {
+    "uri": "en/36/120880640",
+    "id": "120880640",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of futures contracts",
+    "harm": {
+      "id": "0067940",
+      "title": "120880640 - Trading of futures contracts",
+      "conceptLink": "/ec2/concept/6004143"
+    }
+  },
+  {
+    "uri": "en/36/120881817",
+    "id": "120881817",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of overseas market securities futures for others",
+    "harm": {
+      "id": "0067808",
+      "title": "120881817 - Trading of overseas market securities futures for others",
+      "conceptLink": "/ec2/concept/6004011"
+    }
+  },
+  {
+    "uri": "en/36/51079529",
+    "id": "51079529",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of overseas market securities futures",
+    "harm": {
+      "id": "0056648",
+      "title": "51079529 - Trading of overseas market securities futures",
+      "conceptLink": "/ec2/concept/5997943"
+    }
+  },
+  {
+    "uri": "en/36/120881283",
+    "id": "120881283",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of securities and securities index futures in overseas markets",
+    "harm": {
+      "id": "0067859",
+      "title": "120881283 - Trading of securities and securities index futures in overseas markets",
+      "conceptLink": "/ec2/concept/6004062"
+    }
+  },
+  {
+    "uri": "en/36/120881485",
+    "id": "120881485",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of securities index futures for others",
+    "harm": {
+      "id": "0067839",
+      "title": "120881485 - Trading of securities index futures for others",
+      "conceptLink": "/ec2/concept/6004042"
+    }
+  },
+  {
+    "uri": "en/36/14833379",
+    "id": "14833379",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of securities index futures",
+    "harm": {
+      "id": "0056649",
+      "title": "14833379 - Trading of securities index futures",
+      "conceptLink": "/ec2/concept/5997944"
+    }
+  },
+  {
+    "uri": "en/36/120883898",
+    "id": "120883898",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of securities options for others",
+    "harm": {
+      "id": "0068025",
+      "title": "120883898 - Trading of securities options for others",
+      "conceptLink": "/ec2/concept/6004228"
+    }
+  },
+  {
+    "uri": "en/36/51079507",
+    "id": "51079507",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of securities options",
+    "harm": {
+      "id": "0056650",
+      "title": "51079507 - Trading of securities options",
+      "conceptLink": "/ec2/concept/5997945"
+    }
+  },
+  {
+    "uri": "en/36/120881764",
+    "id": "120881764",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trading of stocks",
+    "harm": {
+      "id": "0058324",
+      "title": "120881764 - Trading of stocks",
+      "conceptLink": "/ec2/concept/5999823"
+    }
+  },
+  {
+    "uri": "en/36/451886",
+    "id": "451886",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transfer agency services rendered to issuers of investment securities",
+    "harm": {
+      "id": "0042075",
+      "title": "451886 - Transfer agency services rendered to issuers of investment securities",
+      "conceptLink": "/ec2/concept/5989925"
+    }
+  },
+  {
+    "uri": "en/36/35180",
+    "id": "35180",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transfer (Electronic funds -)",
+    "harm": {
+      "id": "0023220",
+      "title": "35180 - Transfer (Electronic funds -)",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/367154",
+    "id": "367154",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transfer of funds",
+    "harm": {
+      "id": "0057391",
+      "title": "367154 - Transfer of funds",
+      "conceptLink": "/ec2/concept/5998898"
+    }
+  },
+  {
+    "uri": "en/36/120882007",
+    "id": "120882007",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transfer of funds for the purchase of goods, via electronic communication networks",
+    "harm": {
+      "id": "0067793",
+      "title": "120882007 - Transfer of funds for the purchase of goods, via electronic communication networks",
+      "conceptLink": "/ec2/concept/6003996"
+    }
+  },
+  {
+    "uri": "en/36/97741906",
+    "id": "97741906",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transfer of funds via electronic communication networks",
+    "harm": {
+      "id": "0067794",
+      "title": "97741906 - Transfer of funds via electronic communication networks",
+      "conceptLink": "/ec2/concept/6003997"
+    }
+  },
+  {
+    "uri": "en/36/811691",
+    "id": "811691",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transit insurance brokerage",
+    "harm": {
+      "id": "0030713",
+      "title": "811691 - Transit insurance brokerage",
+      "conceptLink": "/ec2/concept/5979586"
+    }
+  },
+  {
+    "uri": "en/36/811704",
+    "id": "811704",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transit insurance underwriting",
+    "harm": {
+      "id": "0001819",
+      "title": "811704 - Transit insurance underwriting",
+      "conceptLink": "/ec2/concept/5953122"
+    }
+  },
+  {
+    "uri": "en/36/34258224",
+    "id": "34258224",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Transport insurance brokerage",
+    "harm": {
+      "id": "0067877",
+      "title": "34258224 - Transport insurance brokerage",
+      "conceptLink": "/ec2/concept/6004080"
+    }
+  },
+  {
+    "uri": "en/36/487867",
+    "id": "487867",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travel insurance",
+    "harm": {
+      "id": "0034822",
+      "title": "487867 - Travel insurance",
+      "conceptLink": "/ec2/concept/5983317"
+    }
+  },
+  {
+    "uri": "en/36/487865",
+    "id": "487865",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travel insurance services",
+    "harm": {
+      "id": "0034822",
+      "title": "487865 - Travel insurance services",
+      "conceptLink": "/ec2/concept/5983317"
+    }
+  },
+  {
+    "uri": "en/36/125032356",
+    "id": "125032356",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travel vouchers (Issuing of -)",
+    "harm": {
+      "id": "0019225",
+      "title": "125032356 - Travel vouchers (Issuing of -)",
+      "conceptLink": "/ec2/concept/5969066"
+    }
+  },
+  {
+    "uri": "en/36/32907",
+    "id": "32907",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travelers' check issuance",
+    "harm": {
+      "id": "0001018",
+      "title": "32907 - Travelers' check issuance",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/32916",
+    "id": "32916",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travellers' checks [cheques] (Issuing of -)",
+    "harm": {
+      "id": "0001018",
+      "title": "32916 - Travellers' checks [cheques] (Issuing of -)",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/125026598",
+    "id": "125026598",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Travellers' cheques (Redemption of -)",
+    "harm": {
+      "id": "0001019",
+      "title": "125026598 - Travellers' cheques (Redemption of -)",
+      "conceptLink": "/ec2/concept/5952401"
+    }
+  },
+  {
+    "uri": "en/36/487919",
+    "id": "487919",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Treasury services",
+    "harm": {
+      "id": "0011290",
+      "title": "487919 - Treasury services",
+      "conceptLink": "/ec2/concept/5961789"
+    }
+  },
+  {
+    "uri": "en/36/482628",
+    "id": "482628",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trust administration",
+    "harm": {
+      "id": "0000378",
+      "title": "482628 - Trust administration",
+      "conceptLink": "/ec2/concept/5951828"
+    }
+  },
+  {
+    "uri": "en/36/366341",
+    "id": "366341",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trust advice",
+    "harm": {
+      "id": "0039607",
+      "title": "366341 - Trust advice",
+      "conceptLink": "/ec2/concept/5987667"
+    }
+  },
+  {
+    "uri": "en/36/483106",
+    "id": "483106",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trust investment services",
+    "harm": {
+      "id": "0023771",
+      "title": "483106 - Trust investment services",
+      "conceptLink": "/ec2/concept/5973212"
+    }
+  },
+  {
+    "uri": "en/36/482630",
+    "id": "482630",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trust management",
+    "harm": {
+      "id": "0047004",
+      "title": "482630 - Trust management",
+      "conceptLink": "/ec2/concept/5994385"
+    }
+  },
+  {
+    "uri": "en/36/33368",
+    "id": "33368",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trust services",
+    "harm": {
+      "id": "0008579",
+      "title": "33368 - Trust services",
+      "conceptLink": "/ec2/concept/5959301"
+    }
+  },
+  {
+    "uri": "en/36/811716",
+    "id": "811716",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trustee advisory services",
+    "harm": {
+      "id": "0028077",
+      "title": "811716 - Trustee advisory services",
+      "conceptLink": "/ec2/concept/5977155"
+    }
+  },
+  {
+    "uri": "en/36/33369",
+    "id": "33369",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trustee services",
+    "harm": {
+      "id": "0008579",
+      "title": "33369 - Trustee services",
+      "conceptLink": "/ec2/concept/5959301"
+    }
+  },
+  {
+    "uri": "en/36/33366",
+    "id": "33366",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship",
+    "harm": {
+      "id": "0008579",
+      "title": "33366 - Trusteeship",
+      "conceptLink": "/ec2/concept/5959301"
+    }
+  },
+  {
+    "uri": "en/36/16052514",
+    "id": "16052514",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of financial futures contracts",
+    "harm": {
+      "id": "0067931",
+      "title": "16052514 - Trusteeship of financial futures contracts",
+      "conceptLink": "/ec2/concept/6004134"
+    }
+  },
+  {
+    "uri": "en/36/451932",
+    "id": "451932",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of fund assets",
+    "harm": {
+      "id": "0007364",
+      "title": "451932 - Trusteeship of fund assets",
+      "conceptLink": "/ec2/concept/5958199"
+    }
+  },
+  {
+    "uri": "en/36/487954",
+    "id": "487954",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of money",
+    "harm": {
+      "id": "0011292",
+      "title": "487954 - Trusteeship of money",
+      "conceptLink": "/ec2/concept/5961791"
+    }
+  },
+  {
+    "uri": "en/36/811729",
+    "id": "811729",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of pensions",
+    "harm": {
+      "id": "0016530",
+      "title": "811729 - Trusteeship of pensions",
+      "conceptLink": "/ec2/concept/5966600"
+    }
+  },
+  {
+    "uri": "en/36/33517",
+    "id": "33517",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of real estate property",
+    "harm": {
+      "id": "0045195",
+      "title": "33517 - Trusteeship of real estate property",
+      "conceptLink": "/ec2/concept/5992779"
+    }
+  }
+]

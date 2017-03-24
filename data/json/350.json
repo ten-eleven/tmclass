@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/12/192613",
+    "id": "192613",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle rear windows",
+    "harm": {
+      "id": "0046569",
+      "title": "192613 - Vehicle rear windows",
+      "conceptLink": "/ec2/concept/5994001"
+    }
+  },
+  {
+    "uri": "en/12/413491",
+    "id": "413491",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle roll bars",
+    "harm": {
+      "id": "0014336",
+      "title": "413491 - Vehicle roll bars",
+      "conceptLink": "/ec2/concept/5964583"
+    }
+  },
+  {
+    "uri": "en/12/190246",
+    "id": "190246",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle running boards",
+    "harm": {
+      "id": "0004909",
+      "title": "190246 - Vehicle running boards",
+      "conceptLink": "/ec2/concept/5955954"
+    }
+  },
+  {
+    "uri": "en/12/741666",
+    "id": "741666",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety belts for children",
+    "harm": {
+      "id": "0000070",
+      "title": "741666 - Vehicle safety belts for children",
+      "conceptLink": "/ec2/concept/5951548"
+    }
+  },
+  {
+    "uri": "en/12/749631",
+    "id": "749631",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety harness for carry cots",
+    "harm": {
+      "id": "0024813",
+      "title": "749631 - Vehicle safety harness for carry cots",
+      "conceptLink": "/ec2/concept/5974180"
+    }
+  },
+  {
+    "uri": "en/12/741667",
+    "id": "741667",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety harness for children",
+    "harm": {
+      "id": "0000070",
+      "title": "741667 - Vehicle safety harness for children",
+      "conceptLink": "/ec2/concept/5951548"
+    }
+  },
+  {
+    "uri": "en/12/749643",
+    "id": "749643",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety harness for safety seats for children",
+    "harm": {
+      "id": "0007408",
+      "title": "749643 - Vehicle safety harness for safety seats for children",
+      "conceptLink": "/ec2/concept/5958240"
+    }
+  },
+  {
+    "uri": "en/12/749658",
+    "id": "749658",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety harnesses for pram bodies",
+    "harm": {
+      "id": "0036344",
+      "title": "749658 - Vehicle safety harnesses for pram bodies",
+      "conceptLink": "/ec2/concept/5984698"
+    }
+  },
+  {
+    "uri": "en/12/749682",
+    "id": "749682",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety restraints for use with pram bodies",
+    "harm": {
+      "id": "0036345",
+      "title": "749682 - Vehicle safety restraints for use with pram bodies",
+      "conceptLink": "/ec2/concept/5984699"
+    }
+  },
+  {
+    "uri": "en/12/749694",
+    "id": "749694",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety restraints for use with safety seats",
+    "harm": {
+      "id": "0042119",
+      "title": "749694 - Vehicle safety restraints for use with safety seats",
+      "conceptLink": "/ec2/concept/5989967"
+    }
+  },
+  {
+    "uri": "en/12/749670",
+    "id": "749670",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety restraints for use with carry cots",
+    "harm": {
+      "id": "0042118",
+      "title": "749670 - Vehicle safety restraints for use with carry cots",
+      "conceptLink": "/ec2/concept/5989966"
+    }
+  },
+  {
+    "uri": "en/12/749707",
+    "id": "749707",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety seat cushions",
+    "harm": {
+      "id": "0019067",
+      "title": "749707 - Vehicle safety seat cushions",
+      "conceptLink": "/ec2/concept/5968919"
+    }
+  },
+  {
+    "uri": "en/12/747028",
+    "id": "747028",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety seats",
+    "harm": {
+      "id": "0037105",
+      "title": "747028 - Vehicle safety seats",
+      "conceptLink": "/ec2/concept/5985387"
+    }
+  },
+  {
+    "uri": "en/12/188839",
+    "id": "188839",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle safety seats for children",
+    "harm": {
+      "id": "0047267",
+      "title": "188839 - Vehicle safety seats for children",
+      "conceptLink": "/ec2/concept/5994627"
+    }
+  },
+  {
+    "uri": "en/12/186553",
+    "id": "186553",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seat belts",
+    "harm": {
+      "id": "0057988",
+      "title": "186553 - Vehicle seat belts",
+      "conceptLink": "/ec2/concept/5999492"
+    }
+  },
+  {
+    "uri": "en/12/189878",
+    "id": "189878",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seat covers",
+    "harm": {
+      "id": "0046882",
+      "title": "189878 - Vehicle seat covers",
+      "conceptLink": "/ec2/concept/5994274"
+    }
+  },
+  {
+    "uri": "en/12/747256",
+    "id": "747256",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seat covers [fitted]",
+    "harm": {
+      "id": "0046719",
+      "title": "747256 - Vehicle seat covers [fitted]",
+      "conceptLink": "/ec2/concept/5994129"
+    }
+  },
+  {
+    "uri": "en/12/747257",
+    "id": "747257",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seat covers [shaped]",
+    "harm": {
+      "id": "0046728",
+      "title": "747257 - Vehicle seat covers [shaped]",
+      "conceptLink": "/ec2/concept/5994137"
+    }
+  },
+  {
+    "uri": "en/12/413505",
+    "id": "413505",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seat subsystems",
+    "harm": {
+      "id": "0037467",
+      "title": "413505 - Vehicle seat subsystems",
+      "conceptLink": "/ec2/concept/5985718"
+    }
+  },
+  {
+    "uri": "en/12/191977",
+    "id": "191977",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seating",
+    "harm": {
+      "id": "0035407",
+      "title": "191977 - Vehicle seating",
+      "conceptLink": "/ec2/concept/5983845"
+    }
+  },
+  {
+    "uri": "en/12/191981",
+    "id": "191981",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle seats",
+    "harm": {
+      "id": "0035407",
+      "title": "191981 - Vehicle seats",
+      "conceptLink": "/ec2/concept/5983845"
+    }
+  },
+  {
+    "uri": "en/12/183587",
+    "id": "183587",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle shock absorbers",
+    "harm": {
+      "id": "0047618",
+      "title": "183587 - Vehicle shock absorbers",
+      "conceptLink": "/ec2/concept/5994896"
+    }
+  },
+  {
+    "uri": "en/12/497293",
+    "id": "497293",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle sunroofs",
+    "harm": {
+      "id": "0008877",
+      "title": "497293 - Vehicle sunroofs",
+      "conceptLink": "/ec2/concept/5959574"
+    }
+  },
+  {
+    "uri": "en/12/191699",
+    "id": "191699",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle suspension springs",
+    "harm": {
+      "id": "0015559",
+      "title": "191699 - Vehicle suspension springs",
+      "conceptLink": "/ec2/concept/5965700"
+    }
+  },
+  {
+    "uri": "en/12/107836895",
+    "id": "107836895",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle tire valve stem caps",
+    "harm": {
+      "id": "0066353",
+      "title": "107836895 - Vehicle tire valve stem caps",
+      "conceptLink": "/ec2/concept/6002556"
+    }
+  },
+  {
+    "uri": "en/12/184753",
+    "id": "184753",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle tires",
+    "harm": {
+      "id": "0057572",
+      "title": "184753 - Vehicle tires",
+      "conceptLink": "/ec2/concept/5999077"
+    }
+  },
+  {
+    "uri": "en/12/413209",
+    "id": "413209",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle tow bars",
+    "harm": {
+      "id": "0059304",
+      "title": "413209 - Vehicle tow bars",
+      "conceptLink": "/ec2/concept/6000786"
+    }
+  },
+  {
+    "uri": "en/12/186410",
+    "id": "186410",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle trailers",
+    "harm": {
+      "id": "0037760",
+      "title": "186410 - Vehicle trailers",
+      "conceptLink": "/ec2/concept/5985981"
+    }
+  },
+  {
+    "uri": "en/12/186414",
+    "id": "186414",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle trolleys",
+    "harm": {
+      "id": "0020640",
+      "title": "186414 - Vehicle trolleys",
+      "conceptLink": "/ec2/concept/5970344"
+    }
+  },
+  {
+    "uri": "en/12/184758",
+    "id": "184758",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle tyres",
+    "harm": {
+      "id": "0057572",
+      "title": "184758 - Vehicle tyres",
+      "conceptLink": "/ec2/concept/5999077"
+    }
+  },
+  {
+    "uri": "en/12/186650",
+    "id": "186650",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel hubs",
+    "harm": {
+      "id": "0007484",
+      "title": "186650 - Vehicle wheel hubs",
+      "conceptLink": "/ec2/concept/5958307"
+    }
+  },
+  {
+    "uri": "en/12/184754",
+    "id": "184754",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel rims",
+    "harm": {
+      "id": "0038634",
+      "title": "184754 - Vehicle wheel rims",
+      "conceptLink": "/ec2/concept/5986785"
+    }
+  },
+  {
+    "uri": "en/12/191546",
+    "id": "191546",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel spokes",
+    "harm": {
+      "id": "0028303",
+      "title": "191546 - Vehicle wheel spokes",
+      "conceptLink": "/ec2/concept/5977363"
+    }
+  },
+  {
+    "uri": "en/12/184744",
+    "id": "184744",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel tires",
+    "harm": {
+      "id": "0057572",
+      "title": "184744 - Vehicle wheel tires",
+      "conceptLink": "/ec2/concept/5999077"
+    }
+  },
+  {
+    "uri": "en/12/184746",
+    "id": "184746",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel tires [tyres]",
+    "harm": {
+      "id": "0057572",
+      "title": "184746 - Vehicle wheel tires [tyres]",
+      "conceptLink": "/ec2/concept/5999077"
+    }
+  },
+  {
+    "uri": "en/12/184741",
+    "id": "184741",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheel tyres",
+    "harm": {
+      "id": "0057572",
+      "title": "184741 - Vehicle wheel tyres",
+      "conceptLink": "/ec2/concept/5999077"
+    }
+  },
+  {
+    "uri": "en/12/185584",
+    "id": "185584",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheels",
+    "harm": {
+      "id": "0058600",
+      "title": "185584 - Vehicle wheels",
+      "conceptLink": "/ec2/concept/6000093"
+    }
+  },
+  {
+    "uri": "en/12/186653",
+    "id": "186653",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle wheels (Hubs for -)",
+    "harm": {
+      "id": "0007484",
+      "title": "186653 - Vehicle wheels (Hubs for -)",
+      "conceptLink": "/ec2/concept/5958307"
+    }
+  },
+  {
+    "uri": "en/12/192611",
+    "id": "192611",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle windows",
+    "harm": {
+      "id": "0012272",
+      "title": "192611 - Vehicle windows",
+      "conceptLink": "/ec2/concept/5962693"
+    }
+  },
+  {
+    "uri": "en/12/749733",
+    "id": "749733",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle windows incorporating heaters",
+    "harm": {
+      "id": "0021259",
+      "title": "749733 - Vehicle windows incorporating heaters",
+      "conceptLink": "/ec2/concept/5970916"
+    }
+  },
+  {
+    "uri": "en/12/749720",
+    "id": "749720",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle windows incorporating aerials for radio reception",
+    "harm": {
+      "id": "0015389",
+      "title": "749720 - Vehicle windows incorporating aerials for radio reception",
+      "conceptLink": "/ec2/concept/5965545"
+    }
+  },
+  {
+    "uri": "en/12/190769",
+    "id": "190769",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle windscreens",
+    "harm": {
+      "id": "0058249",
+      "title": "190769 - Vehicle windscreens",
+      "conceptLink": "/ec2/concept/5999748"
+    }
+  },
+  {
+    "uri": "en/12/190768",
+    "id": "190768",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicle windshields",
+    "harm": {
+      "id": "0058249",
+      "title": "190768 - Vehicle windshields",
+      "conceptLink": "/ec2/concept/5999748"
+    }
+  },
+  {
+    "uri": "en/12/190627",
+    "id": "190627",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles",
+    "harm": {
+      "id": "0025734",
+      "title": "190627 - Vehicles",
+      "conceptLink": "/ec2/concept/5975016"
+    }
+  },
+  {
+    "uri": "en/12/749746",
+    "id": "749746",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles adapted for military purposes",
+    "harm": {
+      "id": "0021260",
+      "title": "749746 - Vehicles adapted for military purposes",
+      "conceptLink": "/ec2/concept/5970917"
+    }
+  },
+  {
+    "uri": "en/12/749758",
+    "id": "749758",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles adapted for the disabled",
+    "harm": {
+      "id": "0046762",
+      "title": "749758 - Vehicles adapted for the disabled",
+      "conceptLink": "/ec2/concept/5994168"
+    }
+  },
+  {
+    "uri": "en/12/193991",
+    "id": "193991",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Air cushion -)",
+    "harm": {
+      "id": "0046925",
+      "title": "193991 - Vehicles (Air cushion -)",
+      "conceptLink": "/ec2/concept/5994314"
+    }
+  },
+  {
+    "uri": "en/12/120918970",
+    "id": "120918970",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles and conveyances",
+    "harm": {
+      "id": "0047823",
+      "title": "120918970 - Vehicles and conveyances",
+      "conceptLink": "/ec2/concept/5995097"
+    }
+  },
+  {
+    "uri": "en/12/131244488",
+    "id": "131244488",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles [Anti-glare devices for -]",
+    "harm": {
+      "id": "0003538",
+      "title": "131244488 - Vehicles [Anti-glare devices for -]",
+      "conceptLink": "/ec2/concept/5954688"
+    }
+  },
+  {
+    "uri": "en/12/194105",
+    "id": "194105",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Connecting rods for land -), other than parts of motors and engines",
+    "harm": {
+      "id": "0027704",
+      "title": "194105 - Vehicles (Connecting rods for land -), other than parts of motors and engines",
+      "conceptLink": "/ec2/concept/5976816"
+    }
+  },
+  {
+    "uri": "en/12/188666",
+    "id": "188666",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Electric -)",
+    "harm": {
+      "id": "0006521",
+      "title": "188666 - Vehicles (Electric -)",
+      "conceptLink": "/ec2/concept/5957427"
+    }
+  },
+  {
+    "uri": "en/12/186345",
+    "id": "186345",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles fitted with living accommodation",
+    "harm": {
+      "id": "0046310",
+      "title": "186345 - Vehicles fitted with living accommodation",
+      "conceptLink": "/ec2/concept/5993770"
+    }
+  },
+  {
+    "uri": "en/12/749770",
+    "id": "749770",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for animal transport",
+    "harm": {
+      "id": "0020350",
+      "title": "749770 - Vehicles for animal transport",
+      "conceptLink": "/ec2/concept/5970080"
+    }
+  },
+  {
+    "uri": "en/12/749802",
+    "id": "749802",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion by sea",
+    "harm": {
+      "id": "0020351",
+      "title": "749802 - Vehicles for locomotion by sea",
+      "conceptLink": "/ec2/concept/5970081"
+    }
+  },
+  {
+    "uri": "en/12/749786",
+    "id": "749786",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion by rail",
+    "harm": {
+      "id": "0000856",
+      "title": "749786 - Vehicles for locomotion by rail",
+      "conceptLink": "/ec2/concept/5952258"
+    }
+  },
+  {
+    "uri": "en/12/744531",
+    "id": "744531",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion by land",
+    "harm": {
+      "id": "0043374",
+      "title": "744531 - Vehicles for locomotion by land",
+      "conceptLink": "/ec2/concept/5991103"
+    }
+  },
+  {
+    "uri": "en/12/192480",
+    "id": "192480",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion by land, air, water or rail",
+    "harm": {
+      "id": "0030899",
+      "title": "192480 - Vehicles for locomotion by land, air, water or rail",
+      "conceptLink": "/ec2/concept/5979758"
+    }
+  },
+  {
+    "uri": "en/12/749785",
+    "id": "749785",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion on rails",
+    "harm": {
+      "id": "0000856",
+      "title": "749785 - Vehicles for locomotion on rails",
+      "conceptLink": "/ec2/concept/5952258"
+    }
+  },
+  {
+    "uri": "en/12/748351",
+    "id": "748351",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for locomotion underwater",
+    "harm": {
+      "id": "0043284",
+      "title": "748351 - Vehicles for locomotion underwater",
+      "conceptLink": "/ec2/concept/5991023"
+    }
+  },
+  {
+    "uri": "en/12/907905",
+    "id": "907905",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for the physically handicapped and those of reduced mobility",
+    "harm": {
+      "id": "0020602",
+      "title": "907905 - Vehicles for the physically handicapped and those of reduced mobility",
+      "conceptLink": "/ec2/concept/5970307"
+    }
+  },
+  {
+    "uri": "en/12/742753",
+    "id": "742753",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for the tipping loads",
+    "harm": {
+      "id": "0047197",
+      "title": "742753 - Vehicles for the tipping loads",
+      "conceptLink": "/ec2/concept/5994562"
+    }
+  },
+  {
+    "uri": "en/12/190503",
+    "id": "190503",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for transport (Military -)",
+    "harm": {
+      "id": "0006182",
+      "title": "190503 - Vehicles for transport (Military -)",
+      "conceptLink": "/ec2/concept/5957117"
+    }
+  },
+  {
+    "uri": "en/12/183285",
+    "id": "183285",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for travel by air",
+    "harm": {
+      "id": "0014520",
+      "title": "183285 - Vehicles for travel by air",
+      "conceptLink": "/ec2/concept/5964755"
+    }
+  },
+  {
+    "uri": "en/12/744532",
+    "id": "744532",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for travel by land",
+    "harm": {
+      "id": "0014521",
+      "title": "744532 - Vehicles for travel by land",
+      "conceptLink": "/ec2/concept/5964756"
+    }
+  },
+  {
+    "uri": "en/12/749813",
+    "id": "749813",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for travel by rail",
+    "harm": {
+      "id": "0002946",
+      "title": "749813 - Vehicles for travel by rail",
+      "conceptLink": "/ec2/concept/5954142"
+    }
+  },
+  {
+    "uri": "en/12/747226",
+    "id": "747226",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for travel by sea",
+    "harm": {
+      "id": "0024847",
+      "title": "747226 - Vehicles for travel by sea",
+      "conceptLink": "/ec2/concept/5974211"
+    }
+  },
+  {
+    "uri": "en/12/190623",
+    "id": "190623",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for travel by water",
+    "harm": {
+      "id": "0002947",
+      "title": "190623 - Vehicles for travel by water",
+      "conceptLink": "/ec2/concept/5954143"
+    }
+  },
+  {
+    "uri": "en/12/189080",
+    "id": "189080",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for use in space",
+    "harm": {
+      "id": "0030855",
+      "title": "189080 - Vehicles for use in space",
+      "conceptLink": "/ec2/concept/5979720"
+    }
+  },
+  {
+    "uri": "en/12/749826",
+    "id": "749826",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles for use on land",
+    "harm": {
+      "id": "0043374",
+      "title": "749826 - Vehicles for use on land",
+      "conceptLink": "/ec2/concept/5991103"
+    }
+  },
+  {
+    "uri": "en/12/749849",
+    "id": "749849",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles incorporating apparatus for loading",
+    "harm": {
+      "id": "0013093",
+      "title": "749849 - Vehicles incorporating apparatus for loading",
+      "conceptLink": "/ec2/concept/5963441"
+    }
+  },
+  {
+    "uri": "en/12/749862",
+    "id": "749862",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles incorporating apparatus for tipping",
+    "harm": {
+      "id": "0013094",
+      "title": "749862 - Vehicles incorporating apparatus for tipping",
+      "conceptLink": "/ec2/concept/5963442"
+    }
+  },
+  {
+    "uri": "en/12/749874",
+    "id": "749874",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles incorporating bucket loaders",
+    "harm": {
+      "id": "0001522",
+      "title": "749874 - Vehicles incorporating bucket loaders",
+      "conceptLink": "/ec2/concept/5952856"
+    }
+  },
+  {
+    "uri": "en/12/189627",
+    "id": "189627",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Refrigerated -)",
+    "harm": {
+      "id": "0001325",
+      "title": "189627 - Vehicles (Refrigerated -)",
+      "conceptLink": "/ec2/concept/5952677"
+    }
+  },
+  {
+    "uri": "en/12/194593",
+    "id": "194593",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Remote control -), other than toys",
+    "harm": {
+      "id": "0017999",
+      "title": "194593 - Vehicles (Remote control -), other than toys",
+      "conceptLink": "/ec2/concept/5967930"
+    }
+  },
+  {
+    "uri": "en/12/189077",
+    "id": "189077",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vehicles (Space -)",
+    "harm": {
+      "id": "0030855",
+      "title": "189077 - Vehicles (Space -)",
+      "conceptLink": "/ec2/concept/5979720"
+    }
+  },
+  {
+    "uri": "en/12/192424",
+    "id": "192424",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Velocipedes",
+    "harm": {
+      "id": "0030433",
+      "title": "192424 - Velocipedes",
+      "conceptLink": "/ec2/concept/5979325"
+    }
+  },
+  {
+    "uri": "en/12/339024",
+    "id": "339024",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vessels [boats and ships]",
+    "harm": {
+      "id": "0026456",
+      "title": "339024 - Vessels [boats and ships]",
+      "conceptLink": "/ec2/concept/5975678"
+    }
+  },
+  {
+    "uri": "en/12/749887",
+    "id": "749887",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Vinyl roofs for vehicles",
+    "harm": {
+      "id": "0024675",
+      "title": "749887 - Vinyl roofs for vehicles",
+      "conceptLink": "/ec2/concept/5974050"
+    }
+  },
+  {
+    "uri": "en/12/749899",
+    "id": "749899",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Visors [strips] for vehicle screens",
+    "harm": {
+      "id": "0036215",
+      "title": "749899 - Visors [strips] for vehicle screens",
+      "conceptLink": "/ec2/concept/5984577"
+    }
+  },
+  {
+    "uri": "en/12/187341",
+    "id": "187341",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Waggons",
+    "harm": {
+      "id": "0072254",
+      "title": "187341 - Waggons",
+      "conceptLink": "/ec2/concept/6008437"
+    }
+  },
+  {
+    "uri": "en/12/189675",
+    "id": "189675",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Waggons (Refrigerated -) [railroad vehicles]",
+    "harm": {
+      "id": "0001326",
+      "title": "189675 - Waggons (Refrigerated -) [railroad vehicles]",
+      "conceptLink": "/ec2/concept/5952678"
+    }
+  },
+  {
+    "uri": "en/12/187340",
+    "id": "187340",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Wagons",
+    "harm": {
+      "id": "0072254",
+      "title": "187340 - Wagons",
+      "conceptLink": "/ec2/concept/6008437"
+    }
+  },
+  {
+    "uri": "en/12/497096",
+    "id": "497096",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Wagons, and structural parts therefor",
+    "harm": {
+      "id": "0045527",
+      "title": "497096 - Wagons, and structural parts therefor",
+      "conceptLink": "/ec2/concept/5993082"
+    }
+  },
+  {
+    "uri": "en/12/189674",
+    "id": "189674",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Wagons (Refrigerated -) [railroad vehicles]",
+    "harm": {
+      "id": "0001326",
+      "title": "189674 - Wagons (Refrigerated -) [railroad vehicles]",
+      "conceptLink": "/ec2/concept/5952678"
+    }
+  },
+  {
+    "uri": "en/12/124455127",
+    "id": "124455127",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning alarms (Anti-theft -) for vehicles",
+    "harm": {
+      "id": "0029309",
+      "title": "124455127 - Warning alarms (Anti-theft -) for vehicles",
+      "conceptLink": "/ec2/concept/5978291"
+    }
+  },
+  {
+    "uri": "en/12/184494",
+    "id": "184494",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning alarms [reversing] for vehicles",
+    "harm": {
+      "id": "0036216",
+      "title": "184494 - Warning alarms [reversing] for vehicles",
+      "conceptLink": "/ec2/concept/5984578"
+    }
+  },
+  {
+    "uri": "en/12/124044699",
+    "id": "124044699",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning horns for automobiles",
+    "harm": {
+      "id": "0004125",
+      "title": "124044699 - Warning horns for automobiles",
+      "conceptLink": "/ec2/concept/5955219"
+    }
+  },
+  {
+    "uri": "en/12/231788759",
+    "id": "231788759",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning horns for bicycles",
+    "harm": {
+      "id": "0042159",
+      "title": "231788759 - Warning horns for bicycles",
+      "conceptLink": "/ec2/concept/5990003"
+    }
+  },
+  {
+    "uri": "en/12/137729042",
+    "id": "137729042",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning horns for motorcycles",
+    "harm": {
+      "id": "0069864",
+      "title": "137729042 - Warning horns for motorcycles",
+      "conceptLink": "/ec2/concept/6006067"
+    }
+  },
+  {
+    "uri": "en/12/188331",
+    "id": "188331",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Warning systems (Audible -) for cycles",
+    "harm": {
+      "id": "0072748",
+      "title": "188331 - Warning systems (Audible -) for cycles",
+      "conceptLink": "/ec2/concept/6008924"
+    }
+  },
+  {
+    "uri": "en/12/21099633",
+    "id": "21099633",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water bikes",
+    "harm": {
+      "id": "0056025",
+      "title": "21099633 - Water bikes",
+      "conceptLink": "/ec2/concept/5997385"
+    }
+  },
+  {
+    "uri": "en/12/410719",
+    "id": "410719",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water bottle cages for bicycles",
+    "harm": {
+      "id": "0025844",
+      "title": "410719 - Water bottle cages for bicycles",
+      "conceptLink": "/ec2/concept/5975120"
+    }
+  },
+  {
+    "uri": "en/12/410720",
+    "id": "410720",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water bottle holders for bicycles",
+    "harm": {
+      "id": "0025844",
+      "title": "410720 - Water bottle holders for bicycles",
+      "conceptLink": "/ec2/concept/5975120"
+    }
+  },
+  {
+    "uri": "en/12/411671",
+    "id": "411671",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water deflecting skirts [kayak equipment]",
+    "harm": {
+      "id": "0003133",
+      "title": "411671 - Water deflecting skirts [kayak equipment]",
+      "conceptLink": "/ec2/concept/5954318"
+    }
+  },
+  {
+    "uri": "en/12/413556",
+    "id": "413556",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water scooters",
+    "harm": {
+      "id": "0008472",
+      "title": "413556 - Water scooters",
+      "conceptLink": "/ec2/concept/5959206"
+    }
+  },
+  {
+    "uri": "en/12/190618",
+    "id": "190618",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water vehicles",
+    "harm": {
+      "id": "0040877",
+      "title": "190618 - Water vehicles",
+      "conceptLink": "/ec2/concept/5988829"
+    }
+  },
+  {
+    "uri": "en/12/190626",
+    "id": "190626",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Water vessels",
+    "harm": {
+      "id": "0040877",
+      "title": "190626 - Water vessels",
+      "conceptLink": "/ec2/concept/5988829"
+    }
+  },
+  {
+    "uri": "en/12/190617",
+    "id": "190617",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Waterborne vehicles",
+    "harm": {
+      "id": "0040877",
+      "title": "190617 - Waterborne vehicles",
+      "conceptLink": "/ec2/concept/5988829"
+    }
+  },
+  {
+    "uri": "en/12/190619",
+    "id": "190619",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Watercraft",
+    "harm": {
+      "id": "0040877",
+      "title": "190619 - Watercraft",
+      "conceptLink": "/ec2/concept/5988829"
+    }
+  },
+  {
+    "uri": "en/12/189018",
+    "id": "189018",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Weights (Balance -) for vehicle wheels",
+    "harm": {
+      "id": "0006523",
+      "title": "189018 - Weights (Balance -) for vehicle wheels",
+      "conceptLink": "/ec2/concept/5957428"
+    }
+  }
+]

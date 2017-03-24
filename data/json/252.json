@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/24965369",
+    "id": "24965369",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio receiving and transmitting apparatus",
+    "harm": {
+      "id": "0060499",
+      "title": "24965369 - Radio receiving and transmitting apparatus",
+      "conceptLink": "/ec2/concept/5998472"
+    }
+  },
+  {
+    "uri": "en/9/148339",
+    "id": "148339",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio receiving sets",
+    "harm": {
+      "id": "0059428",
+      "title": "148339 - Radio receiving sets",
+      "conceptLink": "/ec2/concept/6000906"
+    }
+  },
+  {
+    "uri": "en/9/547989",
+    "id": "547989",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio receiving tuners",
+    "harm": {
+      "id": "0046868",
+      "title": "547989 - Radio receiving tuners",
+      "conceptLink": "/ec2/concept/5994261"
+    }
+  },
+  {
+    "uri": "en/9/400718",
+    "id": "400718",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio recorders",
+    "harm": {
+      "id": "0030767",
+      "title": "400718 - Radio recorders",
+      "conceptLink": "/ec2/concept/5979638"
+    }
+  },
+  {
+    "uri": "en/9/331504",
+    "id": "331504",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio relay cables",
+    "harm": {
+      "id": "0028679",
+      "title": "331504 - Radio relay cables",
+      "conceptLink": "/ec2/concept/5977716"
+    }
+  },
+  {
+    "uri": "en/9/548011",
+    "id": "548011",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio relays",
+    "harm": {
+      "id": "0005120",
+      "title": "548011 - Radio relays",
+      "conceptLink": "/ec2/concept/5956145"
+    }
+  },
+  {
+    "uri": "en/9/148337",
+    "id": "148337",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio sets",
+    "harm": {
+      "id": "0059429",
+      "title": "148337 - Radio sets",
+      "conceptLink": "/ec2/concept/6000907"
+    }
+  },
+  {
+    "uri": "en/9/120874056",
+    "id": "120874056",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio signal antennas",
+    "harm": {
+      "id": "0065801",
+      "title": "120874056 - Radio signal antennas",
+      "conceptLink": "/ec2/concept/6002004"
+    }
+  },
+  {
+    "uri": "en/9/906586",
+    "id": "906586",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio signal tuners",
+    "harm": {
+      "id": "0046868",
+      "title": "906586 - Radio signal tuners",
+      "conceptLink": "/ec2/concept/5994261"
+    }
+  },
+  {
+    "uri": "en/9/906597",
+    "id": "906597",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio telephones",
+    "harm": {
+      "id": "0057023",
+      "title": "906597 - Radio telephones",
+      "conceptLink": "/ec2/concept/5998651"
+    }
+  },
+  {
+    "uri": "en/9/884998",
+    "id": "884998",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio transceivers",
+    "harm": {
+      "id": "0042888",
+      "title": "884998 - Radio transceivers",
+      "conceptLink": "/ec2/concept/5990662"
+    }
+  },
+  {
+    "uri": "en/9/331519",
+    "id": "331519",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio transmitters",
+    "harm": {
+      "id": "0040248",
+      "title": "331519 - Radio transmitters",
+      "conceptLink": "/ec2/concept/5988259"
+    }
+  },
+  {
+    "uri": "en/9/2199677",
+    "id": "2199677",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio transmitters and receivers",
+    "harm": {
+      "id": "0060499",
+      "title": "2199677 - Radio transmitters and receivers",
+      "conceptLink": "/ec2/concept/5998472"
+    }
+  },
+  {
+    "uri": "en/9/136977059",
+    "id": "136977059",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio transmitters for remote controls",
+    "harm": {
+      "id": "0060537",
+      "title": "136977059 - Radio transmitters for remote controls",
+      "conceptLink": "/ec2/concept/5998510"
+    }
+  },
+  {
+    "uri": "en/9/547990",
+    "id": "547990",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio tuners",
+    "harm": {
+      "id": "0010873",
+      "title": "547990 - Radio tuners",
+      "conceptLink": "/ec2/concept/5961407"
+    }
+  },
+  {
+    "uri": "en/9/548024",
+    "id": "548024",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radio wave transmitting aerials",
+    "harm": {
+      "id": "0016691",
+      "title": "548024 - Radio wave transmitting aerials",
+      "conceptLink": "/ec2/concept/5966753"
+    }
+  },
+  {
+    "uri": "en/9/120874062",
+    "id": "120874062",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radioactivity measuring apparatus",
+    "harm": {
+      "id": "0065800",
+      "title": "120874062 - Radioactivity measuring apparatus",
+      "conceptLink": "/ec2/concept/6002003"
+    }
+  },
+  {
+    "uri": "en/9/120874065",
+    "id": "120874065",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radioactivity measuring instruments",
+    "harm": {
+      "id": "0065799",
+      "title": "120874065 - Radioactivity measuring instruments",
+      "conceptLink": "/ec2/concept/6002002"
+    }
+  },
+  {
+    "uri": "en/9/548133",
+    "id": "548133",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radioisotope apparatus, other than for medical use",
+    "harm": {
+      "id": "0032290",
+      "title": "548133 - Radioisotope apparatus, other than for medical use",
+      "conceptLink": "/ec2/concept/5981005"
+    }
+  },
+  {
+    "uri": "en/9/153249",
+    "id": "153249",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiological apparatus for industrial purposes",
+    "harm": {
+      "id": "0043532",
+      "title": "153249 - Radiological apparatus for industrial purposes",
+      "conceptLink": "/ec2/concept/5991252"
+    }
+  },
+  {
+    "uri": "en/9/156211",
+    "id": "156211",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiology screens for industrial purposes",
+    "harm": {
+      "id": "0043791",
+      "title": "156211 - Radiology screens for industrial purposes",
+      "conceptLink": "/ec2/concept/5991485"
+    }
+  },
+  {
+    "uri": "en/9/162092",
+    "id": "162092",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiopagers",
+    "harm": {
+      "id": "0058204",
+      "title": "162092 - Radiopagers",
+      "conceptLink": "/ec2/concept/5999705"
+    }
+  },
+  {
+    "uri": "en/9/148335",
+    "id": "148335",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radios",
+    "harm": {
+      "id": "0059429",
+      "title": "148335 - Radios",
+      "conceptLink": "/ec2/concept/6000907"
+    }
+  },
+  {
+    "uri": "en/9/153176",
+    "id": "153176",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radios for vehicles",
+    "harm": {
+      "id": "0059432",
+      "title": "153176 - Radios for vehicles",
+      "conceptLink": "/ec2/concept/6000908"
+    }
+  },
+  {
+    "uri": "en/9/400803",
+    "id": "400803",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radios incorporating clocks",
+    "harm": {
+      "id": "0042346",
+      "title": "400803 - Radios incorporating clocks",
+      "conceptLink": "/ec2/concept/5990173"
+    }
+  },
+  {
+    "uri": "en/9/153177",
+    "id": "153177",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radios (Vehicle -)",
+    "harm": {
+      "id": "0059432",
+      "title": "153177 - Radios (Vehicle -)",
+      "conceptLink": "/ec2/concept/6000908"
+    }
+  },
+  {
+    "uri": "en/9/152873",
+    "id": "152873",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiotelegraphy sets",
+    "harm": {
+      "id": "0029660",
+      "title": "152873 - Radiotelegraphy sets",
+      "conceptLink": "/ec2/concept/5978616"
+    }
+  },
+  {
+    "uri": "en/9/548151",
+    "id": "548151",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiotelephones",
+    "harm": {
+      "id": "0057023",
+      "title": "548151 - Radiotelephones",
+      "conceptLink": "/ec2/concept/5998651"
+    }
+  },
+  {
+    "uri": "en/9/152847",
+    "id": "152847",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radiotelephony sets",
+    "harm": {
+      "id": "0018115",
+      "title": "152847 - Radiotelephony sets",
+      "conceptLink": "/ec2/concept/5968036"
+    }
+  },
+  {
+    "uri": "en/9/400832",
+    "id": "400832",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Radon detectors",
+    "harm": {
+      "id": "0044296",
+      "title": "400832 - Radon detectors",
+      "conceptLink": "/ec2/concept/5991953"
+    }
+  },
+  {
+    "uri": "en/9/124779846",
+    "id": "124779846",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rafts (Life -) for emergency use",
+    "harm": {
+      "id": "0043853",
+      "title": "124779846 - Rafts (Life -) for emergency use",
+      "conceptLink": "/ec2/concept/5991545"
+    }
+  },
+  {
+    "uri": "en/9/107227419",
+    "id": "107227419",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "RAID controllers",
+    "harm": {
+      "id": "0065992",
+      "title": "107227419 - RAID controllers",
+      "conceptLink": "/ec2/concept/6002195"
+    }
+  },
+  {
+    "uri": "en/9/331540",
+    "id": "331540",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Railway signals",
+    "harm": {
+      "id": "0018587",
+      "title": "331540 - Railway signals",
+      "conceptLink": "/ec2/concept/5968475"
+    }
+  },
+  {
+    "uri": "en/9/147930",
+    "id": "147930",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Railway traffic safety apparatus",
+    "harm": {
+      "id": "0023929",
+      "title": "147930 - Railway traffic safety apparatus",
+      "conceptLink": "/ec2/concept/5973358"
+    }
+  },
+  {
+    "uri": "en/9/147931",
+    "id": "147931",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Railway traffic safety appliances",
+    "harm": {
+      "id": "0023929",
+      "title": "147931 - Railway traffic safety appliances",
+      "conceptLink": "/ec2/concept/5973358"
+    }
+  },
+  {
+    "uri": "en/9/18534643",
+    "id": "18534643",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rain gauges",
+    "harm": {
+      "id": "0050462",
+      "title": "18534643 - Rain gauges",
+      "conceptLink": "/ec2/concept/5995669"
+    }
+  },
+  {
+    "uri": "en/9/400845",
+    "id": "400845",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "RAM [random access memory] card",
+    "harm": {
+      "id": "0032717",
+      "title": "400845 - RAM [random access memory] card",
+      "conceptLink": "/ec2/concept/5981393"
+    }
+  },
+  {
+    "uri": "en/9/146043",
+    "id": "146043",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Range finders",
+    "harm": {
+      "id": "0047545",
+      "title": "146043 - Range finders",
+      "conceptLink": "/ec2/concept/5994839"
+    }
+  },
+  {
+    "uri": "en/9/53629348",
+    "id": "53629348",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Range finders [for cameras]",
+    "harm": {
+      "id": "0055839",
+      "title": "53629348 - Range finders [for cameras]",
+      "conceptLink": "/ec2/concept/5997218"
+    }
+  },
+  {
+    "uri": "en/9/131095563",
+    "id": "131095563",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Range finders for cameras",
+    "harm": {
+      "id": "0055839",
+      "title": "131095563 - Range finders for cameras",
+      "conceptLink": "/ec2/concept/5997218"
+    }
+  },
+  {
+    "uri": "en/9/233003826",
+    "id": "233003826",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Range sensors",
+    "harm": {
+      "id": "0072991",
+      "title": "233003826 - Range sensors",
+      "conceptLink": "/ec2/concept/6009166"
+    }
+  },
+  {
+    "uri": "en/9/9780719",
+    "id": "9780719",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rangefinders for golf",
+    "harm": {
+      "id": "0065866",
+      "title": "9780719 - Rangefinders for golf",
+      "conceptLink": "/ec2/concept/6002069"
+    }
+  },
+  {
+    "uri": "en/9/548205",
+    "id": "548205",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rapid scan cameras",
+    "harm": {
+      "id": "0003429",
+      "title": "548205 - Rapid scan cameras",
+      "conceptLink": "/ec2/concept/5954585"
+    }
+  },
+  {
+    "uri": "en/9/331556",
+    "id": "331556",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Raster image processors",
+    "harm": {
+      "id": "0006967",
+      "title": "331556 - Raster image processors",
+      "conceptLink": "/ec2/concept/5957832"
+    }
+  },
+  {
+    "uri": "en/9/329115",
+    "id": "329115",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rate gyros",
+    "harm": {
+      "id": "0003430",
+      "title": "329115 - Rate gyros",
+      "conceptLink": "/ec2/concept/5954586"
+    }
+  },
+  {
+    "uri": "en/9/614428",
+    "id": "614428",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Read only memory [rom] cards",
+    "harm": {
+      "id": "0004772",
+      "title": "614428 - Read only memory [rom] cards",
+      "conceptLink": "/ec2/concept/5955825"
+    }
+  },
+  {
+    "uri": "en/9/614442",
+    "id": "614442",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Read only memory [rom] cartridges",
+    "harm": {
+      "id": "0022201",
+      "title": "614442 - Read only memory [rom] cartridges",
+      "conceptLink": "/ec2/concept/5971778"
+    }
+  },
+  {
+    "uri": "en/9/614454",
+    "id": "614454",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Read only memory [rom] discs",
+    "harm": {
+      "id": "0016286",
+      "title": "614454 - Read only memory [rom] discs",
+      "conceptLink": "/ec2/concept/5966384"
+    }
+  },
+  {
+    "uri": "en/9/157756",
+    "id": "157756",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Readers (Bar code -)",
+    "harm": {
+      "id": "0041552",
+      "title": "157756 - Readers (Bar code -)",
+      "conceptLink": "/ec2/concept/5989452"
+    }
+  },
+  {
+    "uri": "en/9/159432",
+    "id": "159432",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Readers [data processing equipment]",
+    "harm": {
+      "id": "0002669",
+      "title": "159432 - Readers [data processing equipment]",
+      "conceptLink": "/ec2/concept/5953889"
+    }
+  },
+  {
+    "uri": "en/9/159225",
+    "id": "159225",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Readers (Optical character -)",
+    "harm": {
+      "id": "0009423",
+      "title": "159225 - Readers (Optical character -)",
+      "conceptLink": "/ec2/concept/5960087"
+    }
+  },
+  {
+    "uri": "en/9/331570",
+    "id": "331570",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Reading glasses",
+    "harm": {
+      "id": "0018588",
+      "title": "331570 - Reading glasses",
+      "conceptLink": "/ec2/concept/5968476"
+    }
+  },
+  {
+    "uri": "en/9/548219",
+    "id": "548219",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Real-time data processing apparatus",
+    "harm": {
+      "id": "0015021",
+      "title": "548219 - Real-time data processing apparatus",
+      "conceptLink": "/ec2/concept/5965207"
+    }
+  },
+  {
+    "uri": "en/9/131115973",
+    "id": "131115973",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rearview cameras for vehicles",
+    "harm": {
+      "id": "0055161",
+      "title": "131115973 - Rearview cameras for vehicles",
+      "conceptLink": "/ec2/concept/5996598"
+    }
+  },
+  {
+    "uri": "en/9/120917727",
+    "id": "120917727",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rebreathers for diving",
+    "harm": {
+      "id": "0066070",
+      "title": "120917727 - Rebreathers for diving",
+      "conceptLink": "/ec2/concept/6002273"
+    }
+  },
+  {
+    "uri": "en/9/124420043",
+    "id": "124420043",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receivers (Audio-- and video- -)",
+    "harm": {
+      "id": "0013895",
+      "title": "124420043 - Receivers (Audio-- and video- -)",
+      "conceptLink": "/ec2/concept/5964172"
+    }
+  },
+  {
+    "uri": "en/9/33922421",
+    "id": "33922421",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receivers for receiving cable television",
+    "harm": {
+      "id": "0055840",
+      "title": "33922421 - Receivers for receiving cable television",
+      "conceptLink": "/ec2/concept/5997219"
+    }
+  },
+  {
+    "uri": "en/9/331595",
+    "id": "331595",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receivers for satellites",
+    "harm": {
+      "id": "0023440",
+      "title": "331595 - Receivers for satellites",
+      "conceptLink": "/ec2/concept/5972909"
+    }
+  },
+  {
+    "uri": "en/9/111215584",
+    "id": "111215584",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receivers of electronic signals",
+    "harm": {
+      "id": "0073041",
+      "title": "111215584 - Receivers of electronic signals",
+      "conceptLink": "/ec2/concept/6009214"
+    }
+  },
+  {
+    "uri": "en/9/146481",
+    "id": "146481",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receivers (Telephone -)",
+    "harm": {
+      "id": "0000065",
+      "title": "146481 - Receivers (Telephone -)",
+      "conceptLink": "/ec2/concept/5951544"
+    }
+  },
+  {
+    "uri": "en/9/548231",
+    "id": "548231",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receiving antennas for satellite broadcast",
+    "harm": {
+      "id": "0020870",
+      "title": "548231 - Receiving antennas for satellite broadcast",
+      "conceptLink": "/ec2/concept/5970562"
+    }
+  },
+  {
+    "uri": "en/9/548245",
+    "id": "548245",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receiving terminals for signals",
+    "harm": {
+      "id": "0015022",
+      "title": "548245 - Receiving terminals for signals",
+      "conceptLink": "/ec2/concept/5965208"
+    }
+  },
+  {
+    "uri": "en/9/548258",
+    "id": "548258",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receiving tubes",
+    "harm": {
+      "id": "0032291",
+      "title": "548258 - Receiving tubes",
+      "conceptLink": "/ec2/concept/5981006"
+    }
+  },
+  {
+    "uri": "en/9/57821710",
+    "id": "57821710",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Receptacles for contact lenses",
+    "harm": {
+      "id": "0057123",
+      "title": "57821710 - Receptacles for contact lenses",
+      "conceptLink": "/ec2/concept/5998753"
+    }
+  },
+  {
+    "uri": "en/9/400862",
+    "id": "400862",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rechargeable batteries",
+    "harm": {
+      "id": "0032718",
+      "title": "400862 - Rechargeable batteries",
+      "conceptLink": "/ec2/concept/5981394"
+    }
+  },
+  {
+    "uri": "en/9/548271",
+    "id": "548271",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rechargeable cells",
+    "harm": {
+      "id": "0032292",
+      "title": "548271 - Rechargeable cells",
+      "conceptLink": "/ec2/concept/5981007"
+    }
+  },
+  {
+    "uri": "en/9/12002385",
+    "id": "12002385",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rechargeable electric batteries",
+    "harm": {
+      "id": "0065991",
+      "title": "12002385 - Rechargeable electric batteries",
+      "conceptLink": "/ec2/concept/6002194"
+    }
+  },
+  {
+    "uri": "en/9/12000925",
+    "id": "12000925",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Rechargers for electric accumulators",
+    "harm": {
+      "id": "0058174",
+      "title": "12000925 - Rechargers for electric accumulators",
+      "conceptLink": "/ec2/concept/5999675"
+    }
+  },
+  {
+    "uri": "en/9/145910",
+    "id": "145910",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Record decks",
+    "harm": {
+      "id": "0012795",
+      "title": "145910 - Record decks",
+      "conceptLink": "/ec2/concept/5963172"
+    }
+  },
+  {
+    "uri": "en/9/155651",
+    "id": "155651",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Record player needles (Apparatus for changing -)",
+    "harm": {
+      "id": "0038642",
+      "title": "155651 - Record player needles (Apparatus for changing -)",
+      "conceptLink": "/ec2/concept/5986793"
+    }
+  },
+  {
+    "uri": "en/9/548283",
+    "id": "548283",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Record player turntables",
+    "harm": {
+      "id": "0012795",
+      "title": "548283 - Record player turntables",
+      "conceptLink": "/ec2/concept/5963172"
+    }
+  },
+  {
+    "uri": "en/9/145909",
+    "id": "145909",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Record players",
+    "harm": {
+      "id": "0026440",
+      "title": "145909 - Record players",
+      "conceptLink": "/ec2/concept/5975665"
+    }
+  },
+  {
+    "uri": "en/9/15461895",
+    "id": "15461895",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Record playing apparatus and instruments",
+    "harm": {
+      "id": "0055842",
+      "title": "15461895 - Record playing apparatus and instruments",
+      "conceptLink": "/ec2/concept/5997220"
+    }
+  },
+  {
+    "uri": "en/9/546538",
+    "id": "546538",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded compact discs",
+    "harm": {
+      "id": "0028307",
+      "title": "546538 - Recorded compact discs",
+      "conceptLink": "/ec2/concept/5977366"
+    }
+  },
+  {
+    "uri": "en/9/906634",
+    "id": "906634",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer game programs",
+    "harm": {
+      "id": "0025455",
+      "title": "906634 - Recorded computer game programs",
+      "conceptLink": "/ec2/concept/5974766"
+    }
+  },
+  {
+    "uri": "en/9/93044497",
+    "id": "93044497",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer game software",
+    "harm": {
+      "id": "0070937",
+      "title": "93044497 - Recorded computer game software",
+      "conceptLink": "/ec2/concept/6007129"
+    }
+  },
+  {
+    "uri": "en/9/2960004",
+    "id": "2960004",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer operating programs",
+    "harm": {
+      "id": "0031069",
+      "title": "2960004 - Recorded computer operating programs",
+      "conceptLink": "/ec2/concept/5979908"
+    }
+  },
+  {
+    "uri": "en/9/151986",
+    "id": "151986",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer programmes",
+    "harm": {
+      "id": "0059403",
+      "title": "151986 - Recorded computer programmes",
+      "conceptLink": "/ec2/concept/6000881"
+    }
+  },
+  {
+    "uri": "en/9/1020337",
+    "id": "1020337",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer programs",
+    "harm": {
+      "id": "0059403",
+      "title": "1020337 - Recorded computer programs",
+      "conceptLink": "/ec2/concept/6000881"
+    }
+  },
+  {
+    "uri": "en/9/232979109",
+    "id": "232979109",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer software for safe car driving",
+    "harm": {
+      "id": "0073073",
+      "title": "232979109 - Recorded computer software for safe car driving",
+      "conceptLink": "/ec2/concept/6009246"
+    }
+  },
+  {
+    "uri": "en/9/233004228",
+    "id": "233004228",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer software for safe vehicle driving",
+    "harm": {
+      "id": "0072283",
+      "title": "233004228 - Recorded computer software for safe vehicle driving",
+      "conceptLink": "/ec2/concept/6008466"
+    }
+  },
+  {
+    "uri": "en/9/151985",
+    "id": "151985",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded computer software",
+    "harm": {
+      "id": "0059404",
+      "title": "151985 - Recorded computer software",
+      "conceptLink": "/ec2/concept/6000882"
+    }
+  },
+  {
+    "uri": "en/9/120918884",
+    "id": "120918884",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded content",
+    "harm": {
+      "id": "0047742",
+      "title": "120918884 - Recorded content",
+      "conceptLink": "/ec2/concept/5995017"
+    }
+  },
+  {
+    "uri": "en/9/548297",
+    "id": "548297",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded data files",
+    "harm": {
+      "id": "0040283",
+      "title": "548297 - Recorded data files",
+      "conceptLink": "/ec2/concept/5988290"
+    }
+  },
+  {
+    "uri": "en/9/548325",
+    "id": "548325",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded data [magnetic]",
+    "harm": {
+      "id": "0045995",
+      "title": "548325 - Recorded data [magnetic]",
+      "conceptLink": "/ec2/concept/5993512"
+    }
+  },
+  {
+    "uri": "en/9/548339",
+    "id": "548339",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded discs bearing images",
+    "harm": {
+      "id": "0045996",
+      "title": "548339 - Recorded discs bearing images",
+      "conceptLink": "/ec2/concept/5993513"
+    }
+  },
+  {
+    "uri": "en/9/548353",
+    "id": "548353",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded discs bearing sound",
+    "harm": {
+      "id": "0034507",
+      "title": "548353 - Recorded discs bearing sound",
+      "conceptLink": "/ec2/concept/5983035"
+    }
+  },
+  {
+    "uri": "en/9/536476",
+    "id": "536476",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded film",
+    "harm": {
+      "id": "0047087",
+      "title": "536476 - Recorded film",
+      "conceptLink": "/ec2/concept/5994464"
+    }
+  },
+  {
+    "uri": "en/9/536477",
+    "id": "536477",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded films",
+    "harm": {
+      "id": "0047087",
+      "title": "536477 - Recorded films",
+      "conceptLink": "/ec2/concept/5994464"
+    }
+  },
+  {
+    "uri": "en/9/38754117",
+    "id": "38754117",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded programs for hand-held games with liquid crystal displays",
+    "harm": {
+      "id": "0070572",
+      "title": "38754117 - Recorded programs for hand-held games with liquid crystal displays",
+      "conceptLink": "/ec2/concept/6006764"
+    }
+  },
+  {
+    "uri": "en/9/548367",
+    "id": "548367",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded tape cassettes",
+    "harm": {
+      "id": "0017191",
+      "title": "548367 - Recorded tape cassettes",
+      "conceptLink": "/ec2/concept/5967195"
+    }
+  },
+  {
+    "uri": "en/9/546465",
+    "id": "546465",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded tapes",
+    "harm": {
+      "id": "0046434",
+      "title": "546465 - Recorded tapes",
+      "conceptLink": "/ec2/concept/5993886"
+    }
+  },
+  {
+    "uri": "en/9/546570",
+    "id": "546570",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recorded video tapes",
+    "harm": {
+      "id": "0038641",
+      "title": "546570 - Recorded video tapes",
+      "conceptLink": "/ec2/concept/5986792"
+    }
+  },
+  {
+    "uri": "en/9/548384",
+    "id": "548384",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording apparatus",
+    "harm": {
+      "id": "0013464",
+      "title": "548384 - Recording apparatus",
+      "conceptLink": "/ec2/concept/5963778"
+    }
+  },
+  {
+    "uri": "en/9/136977060",
+    "id": "136977060",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording devices for sound and image carriers",
+    "harm": {
+      "id": "0060538",
+      "title": "136977060 - Recording devices for sound and image carriers",
+      "conceptLink": "/ec2/concept/5998511"
+    }
+  },
+  {
+    "uri": "en/9/138567",
+    "id": "138567",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording discs",
+    "harm": {
+      "id": "0007421",
+      "title": "138567 - Recording discs",
+      "conceptLink": "/ec2/concept/5958252"
+    }
+  },
+  {
+    "uri": "en/9/499832",
+    "id": "499832",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording discs [magnetic]",
+    "harm": {
+      "id": "0042349",
+      "title": "499832 - Recording discs [magnetic]",
+      "conceptLink": "/ec2/concept/5990175"
+    }
+  },
+  {
+    "uri": "en/9/138568",
+    "id": "138568",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording disks",
+    "harm": {
+      "id": "0007421",
+      "title": "138568 - Recording disks",
+      "conceptLink": "/ec2/concept/5958252"
+    }
+  },
+  {
+    "uri": "en/9/146003",
+    "id": "146003",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording distance (Apparatus for -)",
+    "harm": {
+      "id": "0021922",
+      "title": "146003 - Recording distance (Apparatus for -)",
+      "conceptLink": "/ec2/concept/5971520"
+    }
+  },
+  {
+    "uri": "en/9/548400",
+    "id": "548400",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Recording substrates [magnetic]",
+    "harm": {
+      "id": "0036593",
+      "title": "548400 - Recording substrates [magnetic]",
+      "conceptLink": "/ec2/concept/5984921"
+    }
+  }
+]

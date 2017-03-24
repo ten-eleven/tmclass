@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/40/840587",
+    "id": "840587",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food grinding",
+    "harm": {
+      "id": "0032140",
+      "title": "840587 - Food grinding",
+      "conceptLink": "/ec2/concept/5980870"
+    }
+  },
+  {
+    "uri": "en/40/840588",
+    "id": "840588",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food milling",
+    "harm": {
+      "id": "0032140",
+      "title": "840588 - Food milling",
+      "conceptLink": "/ec2/concept/5980870"
+    }
+  },
+  {
+    "uri": "en/40/461294",
+    "id": "461294",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food preservation",
+    "harm": {
+      "id": "0001293",
+      "title": "461294 - Food preservation",
+      "conceptLink": "/ec2/concept/5952649"
+    }
+  },
+  {
+    "uri": "en/40/903848",
+    "id": "903848",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food preservation services",
+    "harm": {
+      "id": "0001293",
+      "title": "903848 - Food preservation services",
+      "conceptLink": "/ec2/concept/5952649"
+    }
+  },
+  {
+    "uri": "en/40/903849",
+    "id": "903849",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food processing",
+    "harm": {
+      "id": "0009792",
+      "title": "903849 - Food processing",
+      "conceptLink": "/ec2/concept/5960419"
+    }
+  },
+  {
+    "uri": "en/40/51544",
+    "id": "51544",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Food smoking",
+    "harm": {
+      "id": "0057499",
+      "title": "51544 - Food smoking",
+      "conceptLink": "/ec2/concept/5999005"
+    }
+  },
+  {
+    "uri": "en/40/495891",
+    "id": "495891",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Foods (Freezing of -)",
+    "harm": {
+      "id": "0027056",
+      "title": "495891 - Foods (Freezing of -)",
+      "conceptLink": "/ec2/concept/5976215"
+    }
+  },
+  {
+    "uri": "en/40/136010765",
+    "id": "136010765",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Forage processing",
+    "harm": {
+      "id": "0074008",
+      "title": "136010765 - Forage processing",
+      "conceptLink": "/ec2/concept/6011244"
+    }
+  },
+  {
+    "uri": "en/40/840608",
+    "id": "840608",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Forging",
+    "harm": {
+      "id": "0023219",
+      "title": "840608 - Forging",
+      "conceptLink": "/ec2/concept/5972699"
+    }
+  },
+  {
+    "uri": "en/40/103361443",
+    "id": "103361443",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Forging of metal goods to the order and specification of others",
+    "harm": {
+      "id": "0068933",
+      "title": "103361443 - Forging of metal goods to the order and specification of others",
+      "conceptLink": "/ec2/concept/6005136"
+    }
+  },
+  {
+    "uri": "en/40/51390",
+    "id": "51390",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Forging of metals",
+    "harm": {
+      "id": "0023219",
+      "title": "51390 - Forging of metals",
+      "conceptLink": "/ec2/concept/5972699"
+    }
+  },
+  {
+    "uri": "en/40/840622",
+    "id": "840622",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Formation of silage",
+    "harm": {
+      "id": "0014868",
+      "title": "840622 - Formation of silage",
+      "conceptLink": "/ec2/concept/5965068"
+    }
+  },
+  {
+    "uri": "en/40/840635",
+    "id": "840635",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Framing of pictures",
+    "harm": {
+      "id": "0032141",
+      "title": "840635 - Framing of pictures",
+      "conceptLink": "/ec2/concept/5980871"
+    }
+  },
+  {
+    "uri": "en/40/53222",
+    "id": "53222",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Framing of works of art",
+    "harm": {
+      "id": "0006172",
+      "title": "53222 - Framing of works of art",
+      "conceptLink": "/ec2/concept/5957110"
+    }
+  },
+  {
+    "uri": "en/40/840655",
+    "id": "840655",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Freezing",
+    "harm": {
+      "id": "0020713",
+      "title": "840655 - Freezing",
+      "conceptLink": "/ec2/concept/5970412"
+    }
+  },
+  {
+    "uri": "en/40/495892",
+    "id": "495892",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Freezing of foods",
+    "harm": {
+      "id": "0027056",
+      "title": "495892 - Freezing of foods",
+      "conceptLink": "/ec2/concept/5976215"
+    }
+  },
+  {
+    "uri": "en/40/120822064",
+    "id": "120822064",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Freezing services for others",
+    "harm": {
+      "id": "0068932",
+      "title": "120822064 - Freezing services for others",
+      "conceptLink": "/ec2/concept/6005135"
+    }
+  },
+  {
+    "uri": "en/40/840669",
+    "id": "840669",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "French polishing",
+    "harm": {
+      "id": "0003265",
+      "title": "840669 - French polishing",
+      "conceptLink": "/ec2/concept/5954436"
+    }
+  },
+  {
+    "uri": "en/40/51511",
+    "id": "51511",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fruit crushing",
+    "harm": {
+      "id": "0042693",
+      "title": "51511 - Fruit crushing",
+      "conceptLink": "/ec2/concept/5990486"
+    }
+  },
+  {
+    "uri": "en/40/101011467",
+    "id": "101011467",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fuel processing",
+    "harm": {
+      "id": "0002452",
+      "title": "101011467 - Fuel processing",
+      "conceptLink": "/ec2/concept/5953695"
+    }
+  },
+  {
+    "uri": "en/40/903934",
+    "id": "903934",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fuel refining",
+    "harm": {
+      "id": "0004664",
+      "title": "903934 - Fuel refining",
+      "conceptLink": "/ec2/concept/5955725"
+    }
+  },
+  {
+    "uri": "en/40/461317",
+    "id": "461317",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fuel treatment services",
+    "harm": {
+      "id": "0030191",
+      "title": "461317 - Fuel treatment services",
+      "conceptLink": "/ec2/concept/5979103"
+    }
+  },
+  {
+    "uri": "en/40/495931",
+    "id": "495931",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fulling of cloth",
+    "harm": {
+      "id": "0027057",
+      "title": "495931 - Fulling of cloth",
+      "conceptLink": "/ec2/concept/5976216"
+    }
+  },
+  {
+    "uri": "en/40/50967",
+    "id": "50967",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur conditioning",
+    "harm": {
+      "id": "0046813",
+      "title": "50967 - Fur conditioning",
+      "conceptLink": "/ec2/concept/5994212"
+    }
+  },
+  {
+    "uri": "en/40/50968",
+    "id": "50968",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Custom fashioning of -)",
+    "harm": {
+      "id": "0005889",
+      "title": "50968 - Fur (Custom fashioning of -)",
+      "conceptLink": "/ec2/concept/5956843"
+    }
+  },
+  {
+    "uri": "en/40/840773",
+    "id": "840773",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur cutting",
+    "harm": {
+      "id": "0044312",
+      "title": "840773 - Fur cutting",
+      "conceptLink": "/ec2/concept/5991968"
+    }
+  },
+  {
+    "uri": "en/40/50916",
+    "id": "50916",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur dyeing",
+    "harm": {
+      "id": "0006171",
+      "title": "50916 - Fur dyeing",
+      "conceptLink": "/ec2/concept/5957109"
+    }
+  },
+  {
+    "uri": "en/40/125063441",
+    "id": "125063441",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Edging of -)",
+    "harm": {
+      "id": "0043696",
+      "title": "125063441 - Fur (Edging of -)",
+      "conceptLink": "/ec2/concept/5991400"
+    }
+  },
+  {
+    "uri": "en/40/125063456",
+    "id": "125063456",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Fireproofing of -)",
+    "harm": {
+      "id": "0003266",
+      "title": "125063456 - Fur (Fireproofing of -)",
+      "conceptLink": "/ec2/concept/5954437"
+    }
+  },
+  {
+    "uri": "en/40/53015",
+    "id": "53015",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur glossing",
+    "harm": {
+      "id": "0038539",
+      "title": "53015 - Fur glossing",
+      "conceptLink": "/ec2/concept/5986700"
+    }
+  },
+  {
+    "uri": "en/40/51440",
+    "id": "51440",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur moth-proofing",
+    "harm": {
+      "id": "0031105",
+      "title": "51440 - Fur moth-proofing",
+      "conceptLink": "/ec2/concept/5979942"
+    }
+  },
+  {
+    "uri": "en/40/51438",
+    "id": "51438",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur mothproofing",
+    "harm": {
+      "id": "0031105",
+      "title": "51438 - Fur mothproofing",
+      "conceptLink": "/ec2/concept/5979942"
+    }
+  },
+  {
+    "uri": "en/40/125063470",
+    "id": "125063470",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Permanent press treatment of -)",
+    "harm": {
+      "id": "0009026",
+      "title": "125063470 - Fur (Permanent press treatment of -)",
+      "conceptLink": "/ec2/concept/5959717"
+    }
+  },
+  {
+    "uri": "en/40/125063485",
+    "id": "125063485",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Pre-shrinking of -)",
+    "harm": {
+      "id": "0044311",
+      "title": "125063485 - Fur (Pre-shrinking of -)",
+      "conceptLink": "/ec2/concept/5991967"
+    }
+  },
+  {
+    "uri": "en/40/53053",
+    "id": "53053",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur satining",
+    "harm": {
+      "id": "0005460",
+      "title": "53053 - Fur satining",
+      "conceptLink": "/ec2/concept/5956458"
+    }
+  },
+  {
+    "uri": "en/40/125063501",
+    "id": "125063501",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur (Waterproofing of -)",
+    "harm": {
+      "id": "0038538",
+      "title": "125063501 - Fur (Waterproofing of -)",
+      "conceptLink": "/ec2/concept/5986699"
+    }
+  },
+  {
+    "uri": "en/40/50970",
+    "id": "50970",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Fur working",
+    "harm": {
+      "id": "0046805",
+      "title": "50970 - Fur working",
+      "conceptLink": "/ec2/concept/5994206"
+    }
+  },
+  {
+    "uri": "en/40/51294",
+    "id": "51294",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanisation",
+    "harm": {
+      "id": "0057814",
+      "title": "51294 - Galvanisation",
+      "conceptLink": "/ec2/concept/5999318"
+    }
+  },
+  {
+    "uri": "en/40/51293",
+    "id": "51293",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanising",
+    "harm": {
+      "id": "0057814",
+      "title": "51293 - Galvanising",
+      "conceptLink": "/ec2/concept/5999318"
+    }
+  },
+  {
+    "uri": "en/40/840799",
+    "id": "840799",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanising of metal",
+    "harm": {
+      "id": "0015465",
+      "title": "840799 - Galvanising of metal",
+      "conceptLink": "/ec2/concept/5965617"
+    }
+  },
+  {
+    "uri": "en/40/51295",
+    "id": "51295",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanization",
+    "harm": {
+      "id": "0057814",
+      "title": "51295 - Galvanization",
+      "conceptLink": "/ec2/concept/5999318"
+    }
+  },
+  {
+    "uri": "en/40/840813",
+    "id": "840813",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanization services",
+    "harm": {
+      "id": "0032741",
+      "title": "840813 - Galvanization services",
+      "conceptLink": "/ec2/concept/5981416"
+    }
+  },
+  {
+    "uri": "en/40/50838",
+    "id": "50838",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Galvanizing",
+    "harm": {
+      "id": "0057814",
+      "title": "50838 - Galvanizing",
+      "conceptLink": "/ec2/concept/5999318"
+    }
+  },
+  {
+    "uri": "en/40/903965",
+    "id": "903965",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gas compression services",
+    "harm": {
+      "id": "0039294",
+      "title": "903965 - Gas compression services",
+      "conceptLink": "/ec2/concept/5987383"
+    }
+  },
+  {
+    "uri": "en/40/898291",
+    "id": "898291",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gas processing services",
+    "harm": {
+      "id": "0010163",
+      "title": "898291 - Gas processing services",
+      "conceptLink": "/ec2/concept/5960756"
+    }
+  },
+  {
+    "uri": "en/40/903970",
+    "id": "903970",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gas production services",
+    "harm": {
+      "id": "0010163",
+      "title": "903970 - Gas production services",
+      "conceptLink": "/ec2/concept/5960756"
+    }
+  },
+  {
+    "uri": "en/40/54100",
+    "id": "54100",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generating of electricity",
+    "harm": {
+      "id": "0034685",
+      "title": "54100 - Generating of electricity",
+      "conceptLink": "/ec2/concept/5983190"
+    }
+  },
+  {
+    "uri": "en/40/120887513",
+    "id": "120887513",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of electrical power using carbon sequestration",
+    "harm": {
+      "id": "0068875",
+      "title": "120887513 - Generation of electrical power using carbon sequestration",
+      "conceptLink": "/ec2/concept/6005078"
+    }
+  },
+  {
+    "uri": "en/40/840103",
+    "id": "840103",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of electricity",
+    "harm": {
+      "id": "0034685",
+      "title": "840103 - Generation of electricity",
+      "conceptLink": "/ec2/concept/5983190"
+    }
+  },
+  {
+    "uri": "en/40/120887551",
+    "id": "120887551",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of electricity from wave energy",
+    "harm": {
+      "id": "0068858",
+      "title": "120887551 - Generation of electricity from wave energy",
+      "conceptLink": "/ec2/concept/6005061"
+    }
+  },
+  {
+    "uri": "en/40/120887779",
+    "id": "120887779",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of electricity from wind energy",
+    "harm": {
+      "id": "0068831",
+      "title": "120887779 - Generation of electricity from wind energy",
+      "conceptLink": "/ec2/concept/6005034"
+    }
+  },
+  {
+    "uri": "en/40/904010",
+    "id": "904010",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of electricity from solar energy",
+    "harm": {
+      "id": "0040482",
+      "title": "904010 - Generation of electricity from solar energy",
+      "conceptLink": "/ec2/concept/5988471"
+    }
+  },
+  {
+    "uri": "en/40/54099",
+    "id": "54099",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of energy",
+    "harm": {
+      "id": "0046515",
+      "title": "54099 - Generation of energy",
+      "conceptLink": "/ec2/concept/5993954"
+    }
+  },
+  {
+    "uri": "en/40/887197",
+    "id": "887197",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of gas and electricity",
+    "harm": {
+      "id": "0011486",
+      "title": "887197 - Generation of gas and electricity",
+      "conceptLink": "/ec2/concept/5961966"
+    }
+  },
+  {
+    "uri": "en/40/54098",
+    "id": "54098",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generation of power",
+    "harm": {
+      "id": "0046532",
+      "title": "54098 - Generation of power",
+      "conceptLink": "/ec2/concept/5993970"
+    }
+  },
+  {
+    "uri": "en/40/127550797",
+    "id": "127550797",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Generators (Electricity -) rental of -",
+    "harm": {
+      "id": "0030231",
+      "title": "127550797 - Generators (Electricity -) rental of -",
+      "conceptLink": "/ec2/concept/5979140"
+    }
+  },
+  {
+    "uri": "en/40/51204",
+    "id": "51204",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gilding",
+    "harm": {
+      "id": "0058646",
+      "title": "51204 - Gilding",
+      "conceptLink": "/ec2/concept/6000139"
+    }
+  },
+  {
+    "uri": "en/40/52654",
+    "id": "52654",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass-blowing",
+    "harm": {
+      "id": "0042845",
+      "title": "52654 - Glass-blowing",
+      "conceptLink": "/ec2/concept/5990619"
+    }
+  },
+  {
+    "uri": "en/40/461255",
+    "id": "461255",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass etching",
+    "harm": {
+      "id": "0024454",
+      "title": "461255 - Glass etching",
+      "conceptLink": "/ec2/concept/5973839"
+    }
+  },
+  {
+    "uri": "en/40/461330",
+    "id": "461330",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass polishing",
+    "harm": {
+      "id": "0010237",
+      "title": "461330 - Glass polishing",
+      "conceptLink": "/ec2/concept/5960822"
+    }
+  },
+  {
+    "uri": "en/40/136281648",
+    "id": "136281648",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass resurfacing",
+    "harm": {
+      "id": "0050828",
+      "title": "136281648 - Glass resurfacing",
+      "conceptLink": "/ec2/concept/5996192"
+    }
+  },
+  {
+    "uri": "en/40/119552719",
+    "id": "119552719",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass tempering",
+    "harm": {
+      "id": "0074298",
+      "title": "119552719 - Glass tempering",
+      "conceptLink": "/ec2/concept/6017020"
+    }
+  },
+  {
+    "uri": "en/40/461344",
+    "id": "461344",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glass tinting",
+    "harm": {
+      "id": "0021980",
+      "title": "461344 - Glass tinting",
+      "conceptLink": "/ec2/concept/5971575"
+    }
+  },
+  {
+    "uri": "en/40/53014",
+    "id": "53014",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Glossing (Fur -)",
+    "harm": {
+      "id": "0038539",
+      "title": "53014 - Glossing (Fur -)",
+      "conceptLink": "/ec2/concept/5986700"
+    }
+  },
+  {
+    "uri": "en/40/53261",
+    "id": "53261",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gold-leafing",
+    "harm": {
+      "id": "0058646",
+      "title": "53261 - Gold-leafing",
+      "conceptLink": "/ec2/concept/6000139"
+    }
+  },
+  {
+    "uri": "en/40/53260",
+    "id": "53260",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gold-plating",
+    "harm": {
+      "id": "0058647",
+      "title": "53260 - Gold-plating",
+      "conceptLink": "/ec2/concept/6000140"
+    }
+  },
+  {
+    "uri": "en/40/51205",
+    "id": "51205",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Gold plating",
+    "harm": {
+      "id": "0058647",
+      "title": "51205 - Gold plating",
+      "conceptLink": "/ec2/concept/6000140"
+    }
+  },
+  {
+    "uri": "en/40/51872",
+    "id": "51872",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding",
+    "harm": {
+      "id": "0017243",
+      "title": "51872 - Grinding",
+      "conceptLink": "/ec2/concept/5967244"
+    }
+  },
+  {
+    "uri": "en/40/461357",
+    "id": "461357",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding and polishing glass for eyeglasses",
+    "harm": {
+      "id": "0039166",
+      "title": "461357 - Grinding and polishing glass for eyeglasses",
+      "conceptLink": "/ec2/concept/5987262"
+    }
+  },
+  {
+    "uri": "en/40/839434",
+    "id": "839434",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding of coffee",
+    "harm": {
+      "id": "0037786",
+      "title": "839434 - Grinding of coffee",
+      "conceptLink": "/ec2/concept/5986004"
+    }
+  },
+  {
+    "uri": "en/40/840828",
+    "id": "840828",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding of lenses",
+    "harm": {
+      "id": "0031990",
+      "title": "840828 - Grinding of lenses",
+      "conceptLink": "/ec2/concept/5980733"
+    }
+  },
+  {
+    "uri": "en/40/53409",
+    "id": "53409",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding of optical glass",
+    "harm": {
+      "id": "0040860",
+      "title": "53409 - Grinding of optical glass",
+      "conceptLink": "/ec2/concept/5988813"
+    }
+  },
+  {
+    "uri": "en/40/53410",
+    "id": "53410",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Grinding (Optical glass -)",
+    "harm": {
+      "id": "0040860",
+      "title": "53410 - Grinding (Optical glass -)",
+      "conceptLink": "/ec2/concept/5988813"
+    }
+  },
+  {
+    "uri": "en/40/136191460",
+    "id": "136191460",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Halal slaughtering services [Dhabihah]",
+    "harm": {
+      "id": "0050647",
+      "title": "136191460 - Halal slaughtering services [Dhabihah]",
+      "conceptLink": "/ec2/concept/5996013"
+    }
+  },
+  {
+    "uri": "en/40/120887568",
+    "id": "120887568",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hard chromium plating and hard nickel plating of metal surfaces",
+    "harm": {
+      "id": "0068863",
+      "title": "120887568 - Hard chromium plating and hard nickel plating of metal surfaces",
+      "conceptLink": "/ec2/concept/6005066"
+    }
+  },
+  {
+    "uri": "en/40/120887565",
+    "id": "120887565",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hard chromium plating of metal surfaces",
+    "harm": {
+      "id": "0068862",
+      "title": "120887565 - Hard chromium plating of metal surfaces",
+      "conceptLink": "/ec2/concept/6005065"
+    }
+  },
+  {
+    "uri": "en/40/119552725",
+    "id": "119552725",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hard drive shredding services",
+    "harm": {
+      "id": "0056679",
+      "title": "119552725 - Hard drive shredding services",
+      "conceptLink": "/ec2/concept/5997970"
+    }
+  },
+  {
+    "uri": "en/40/120887562",
+    "id": "120887562",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hard nickel plating of metal surfaces",
+    "harm": {
+      "id": "0068861",
+      "title": "120887562 - Hard nickel plating of metal surfaces",
+      "conceptLink": "/ec2/concept/6005064"
+    }
+  },
+  {
+    "uri": "en/40/120890107",
+    "id": "120890107",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hardening of metals",
+    "harm": {
+      "id": "0057307",
+      "title": "120890107 - Hardening of metals",
+      "conceptLink": "/ec2/concept/5998816"
+    }
+  },
+  {
+    "uri": "en/40/125063589",
+    "id": "125063589",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hazardous substances (Treatment of -)",
+    "harm": {
+      "id": "0014714",
+      "title": "125063589 - Hazardous substances (Treatment of -)",
+      "conceptLink": "/ec2/concept/5964925"
+    }
+  },
+  {
+    "uri": "en/40/461371",
+    "id": "461371",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hazardous waste management",
+    "harm": {
+      "id": "0028494",
+      "title": "461371 - Hazardous waste management",
+      "conceptLink": "/ec2/concept/5977542"
+    }
+  },
+  {
+    "uri": "en/40/461383",
+    "id": "461383",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heat treatment and coating of steel",
+    "harm": {
+      "id": "0044887",
+      "title": "461383 - Heat treatment and coating of steel",
+      "conceptLink": "/ec2/concept/5992496"
+    }
+  },
+  {
+    "uri": "en/40/120887504",
+    "id": "120887504",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heat treatment of metal surfaces",
+    "harm": {
+      "id": "0068872",
+      "title": "120887504 - Heat treatment of metal surfaces",
+      "conceptLink": "/ec2/concept/6005075"
+    }
+  },
+  {
+    "uri": "en/40/840890",
+    "id": "840890",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heat treatment of metals",
+    "harm": {
+      "id": "0031991",
+      "title": "840890 - Heat treatment of metals",
+      "conceptLink": "/ec2/concept/5980734"
+    }
+  },
+  {
+    "uri": "en/40/840905",
+    "id": "840905",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heat treatment of ores",
+    "harm": {
+      "id": "0008868",
+      "title": "840905 - Heat treatment of ores",
+      "conceptLink": "/ec2/concept/5959566"
+    }
+  },
+  {
+    "uri": "en/40/120890213",
+    "id": "120890213",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heat treatment of pipes and tubes made of metal",
+    "harm": {
+      "id": "0068908",
+      "title": "120890213 - Heat treatment of pipes and tubes made of metal",
+      "conceptLink": "/ec2/concept/6005111"
+    }
+  },
+  {
+    "uri": "en/40/506317",
+    "id": "506317",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Heating apparatus (Rental of space -)",
+    "harm": {
+      "id": "0018811",
+      "title": "506317 - Heating apparatus (Rental of space -)",
+      "conceptLink": "/ec2/concept/5968686"
+    }
+  },
+  {
+    "uri": "en/40/840138",
+    "id": "840138",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hire of electrical generators",
+    "harm": {
+      "id": "0030231",
+      "title": "840138 - Hire of electrical generators",
+      "conceptLink": "/ec2/concept/5979140"
+    }
+  },
+  {
+    "uri": "en/40/904392",
+    "id": "904392",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hot dipping",
+    "harm": {
+      "id": "0002110",
+      "title": "904392 - Hot dipping",
+      "conceptLink": "/ec2/concept/5953386"
+    }
+  },
+  {
+    "uri": "en/40/839370",
+    "id": "839370",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Hot-pressing [forming] of clothing",
+    "harm": {
+      "id": "0008869",
+      "title": "839370 - Hot-pressing [forming] of clothing",
+      "conceptLink": "/ec2/concept/5959567"
+    }
+  },
+  {
+    "uri": "en/40/120822093",
+    "id": "120822093",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Imprinting messages on tee-shirts",
+    "harm": {
+      "id": "0024973",
+      "title": "120822093 - Imprinting messages on tee-shirts",
+      "conceptLink": "/ec2/concept/5974325"
+    }
+  },
+  {
+    "uri": "en/40/4687653",
+    "id": "4687653",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Incineration and destruction of waste",
+    "harm": {
+      "id": "0068805",
+      "title": "4687653 - Incineration and destruction of waste",
+      "conceptLink": "/ec2/concept/6005008"
+    }
+  },
+  {
+    "uri": "en/40/840916",
+    "id": "840916",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Incineration of gases",
+    "harm": {
+      "id": "0043556",
+      "title": "840916 - Incineration of gases",
+      "conceptLink": "/ec2/concept/5991275"
+    }
+  },
+  {
+    "uri": "en/40/840929",
+    "id": "840929",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Incineration of spent air",
+    "harm": {
+      "id": "0031992",
+      "title": "840929 - Incineration of spent air",
+      "conceptLink": "/ec2/concept/5980735"
+    }
+  },
+  {
+    "uri": "en/40/54256",
+    "id": "54256",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Incineration of waste",
+    "harm": {
+      "id": "0057974",
+      "title": "54256 - Incineration of waste",
+      "conceptLink": "/ec2/concept/5999478"
+    }
+  },
+  {
+    "uri": "en/40/54253",
+    "id": "54253",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Incineration of waste and trash",
+    "harm": {
+      "id": "0057975",
+      "title": "54253 - Incineration of waste and trash",
+      "conceptLink": "/ec2/concept/5999479"
+    }
+  },
+  {
+    "uri": "en/40/371637",
+    "id": "371637",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Industrial toxic waste disposal",
+    "harm": {
+      "id": "0016076",
+      "title": "371637 - Industrial toxic waste disposal",
+      "conceptLink": "/ec2/concept/5966191"
+    }
+  },
+  {
+    "uri": "en/40/840939",
+    "id": "840939",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Industrial treatment of effluents",
+    "harm": {
+      "id": "0043557",
+      "title": "840939 - Industrial treatment of effluents",
+      "conceptLink": "/ec2/concept/5991276"
+    }
+  },
+  {
+    "uri": "en/40/120887882",
+    "id": "120887882",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Information, advice and consultancy services relating to the recycling of waste and trash",
+    "harm": {
+      "id": "0068804",
+      "title": "120887882 - Information, advice and consultancy services relating to the recycling of waste and trash",
+      "conceptLink": "/ec2/concept/6005007"
+    }
+  },
+  {
+    "uri": "en/40/120887896",
+    "id": "120887896",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Information and advisory services relating to the generation of electricity from wave energy",
+    "harm": {
+      "id": "0068813",
+      "title": "120887896 - Information and advisory services relating to the generation of electricity from wave energy",
+      "conceptLink": "/ec2/concept/6005016"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/330022",
+    "id": "330022",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic object detectors",
+    "harm": {
+      "id": "0029499",
+      "title": "330022 - Magnetic object detectors",
+      "conceptLink": "/ec2/concept/5978463"
+    }
+  },
+  {
+    "uri": "en/9/541789",
+    "id": "541789",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic payment cards",
+    "harm": {
+      "id": "0028405",
+      "title": "541789 - Magnetic payment cards",
+      "conceptLink": "/ec2/concept/5977461"
+    }
+  },
+  {
+    "uri": "en/9/330036",
+    "id": "330036",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic pens",
+    "harm": {
+      "id": "0006367",
+      "title": "330036 - Magnetic pens",
+      "conceptLink": "/ec2/concept/5957286"
+    }
+  },
+  {
+    "uri": "en/9/541803",
+    "id": "541803",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic platforms for software",
+    "harm": {
+      "id": "0016876",
+      "title": "541803 - Magnetic platforms for software",
+      "conceptLink": "/ec2/concept/5966916"
+    }
+  },
+  {
+    "uri": "en/9/158920",
+    "id": "158920",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic recording charts",
+    "harm": {
+      "id": "0030862",
+      "title": "158920 - Magnetic recording charts",
+      "conceptLink": "/ec2/concept/5979726"
+    }
+  },
+  {
+    "uri": "en/9/499833",
+    "id": "499833",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic recording discs",
+    "harm": {
+      "id": "0042349",
+      "title": "499833 - Magnetic recording discs",
+      "conceptLink": "/ec2/concept/5990175"
+    }
+  },
+  {
+    "uri": "en/9/158922",
+    "id": "158922",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic recording supports",
+    "harm": {
+      "id": "0030862",
+      "title": "158922 - Magnetic recording supports",
+      "conceptLink": "/ec2/concept/5979726"
+    }
+  },
+  {
+    "uri": "en/9/915054",
+    "id": "915054",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic recording tapes",
+    "harm": {
+      "id": "0015407",
+      "title": "915054 - Magnetic recording tapes",
+      "conceptLink": "/ec2/concept/5965562"
+    }
+  },
+  {
+    "uri": "en/9/541816",
+    "id": "541816",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic recordings",
+    "harm": {
+      "id": "0015408",
+      "title": "541816 - Magnetic recordings",
+      "conceptLink": "/ec2/concept/5965563"
+    }
+  },
+  {
+    "uri": "en/9/541831",
+    "id": "541831",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic resistance sensors",
+    "harm": {
+      "id": "0026902",
+      "title": "541831 - Magnetic resistance sensors",
+      "conceptLink": "/ec2/concept/5976078"
+    }
+  },
+  {
+    "uri": "en/9/541843",
+    "id": "541843",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic sensors",
+    "harm": {
+      "id": "0032663",
+      "title": "541843 - Magnetic sensors",
+      "conceptLink": "/ec2/concept/5981341"
+    }
+  },
+  {
+    "uri": "en/9/541858",
+    "id": "541858",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic separators for scientific use",
+    "harm": {
+      "id": "0026903",
+      "title": "541858 - Magnetic separators for scientific use",
+      "conceptLink": "/ec2/concept/5976079"
+    }
+  },
+  {
+    "uri": "en/9/399337",
+    "id": "399337",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic strip cards",
+    "harm": {
+      "id": "0042882",
+      "title": "399337 - Magnetic strip cards",
+      "conceptLink": "/ec2/concept/5990656"
+    }
+  },
+  {
+    "uri": "en/9/541870",
+    "id": "541870",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic strip readers",
+    "harm": {
+      "id": "0026904",
+      "title": "541870 - Magnetic strip readers",
+      "conceptLink": "/ec2/concept/5976080"
+    }
+  },
+  {
+    "uri": "en/9/541884",
+    "id": "541884",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic supports for software",
+    "harm": {
+      "id": "0003809",
+      "title": "541884 - Magnetic supports for software",
+      "conceptLink": "/ec2/concept/5954937"
+    }
+  },
+  {
+    "uri": "en/9/541896",
+    "id": "541896",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic switches",
+    "harm": {
+      "id": "0003810",
+      "title": "541896 - Magnetic switches",
+      "conceptLink": "/ec2/concept/5954938"
+    }
+  },
+  {
+    "uri": "en/9/5538673",
+    "id": "5538673",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tape cleaners",
+    "harm": {
+      "id": "0055782",
+      "title": "5538673 - Magnetic tape cleaners",
+      "conceptLink": "/ec2/concept/5997165"
+    }
+  },
+  {
+    "uri": "en/9/399356",
+    "id": "399356",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tape drives",
+    "harm": {
+      "id": "0014005",
+      "title": "399356 - Magnetic tape drives",
+      "conceptLink": "/ec2/concept/5964271"
+    }
+  },
+  {
+    "uri": "en/9/330049",
+    "id": "330049",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tape erasers",
+    "harm": {
+      "id": "0029500",
+      "title": "330049 - Magnetic tape erasers",
+      "conceptLink": "/ec2/concept/5978464"
+    }
+  },
+  {
+    "uri": "en/9/140835",
+    "id": "140835",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tape recorders",
+    "harm": {
+      "id": "0046411",
+      "title": "140835 - Magnetic tape recorders",
+      "conceptLink": "/ec2/concept/5993864"
+    }
+  },
+  {
+    "uri": "en/9/119529860",
+    "id": "119529860",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic-tape recorders",
+    "harm": {
+      "id": "0046411",
+      "title": "119529860 - Magnetic-tape recorders",
+      "conceptLink": "/ec2/concept/5993864"
+    }
+  },
+  {
+    "uri": "en/9/159037",
+    "id": "159037",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tape units for computers",
+    "harm": {
+      "id": "0044114",
+      "title": "159037 - Magnetic tape units for computers",
+      "conceptLink": "/ec2/concept/5991785"
+    }
+  },
+  {
+    "uri": "en/9/140950",
+    "id": "140950",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tapes",
+    "harm": {
+      "id": "0021188",
+      "title": "140950 - Magnetic tapes",
+      "conceptLink": "/ec2/concept/5970851"
+    }
+  },
+  {
+    "uri": "en/9/541910",
+    "id": "541910",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic tapes for memorising software programs",
+    "harm": {
+      "id": "0044230",
+      "title": "541910 - Magnetic tapes for memorising software programs",
+      "conceptLink": "/ec2/concept/5991890"
+    }
+  },
+  {
+    "uri": "en/9/501521",
+    "id": "501521",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic telephone wires",
+    "harm": {
+      "id": "0031519",
+      "title": "501521 - Magnetic telephone wires",
+      "conceptLink": "/ec2/concept/5980312"
+    }
+  },
+  {
+    "uri": "en/9/399369",
+    "id": "399369",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic wall stud finders",
+    "harm": {
+      "id": "0042883",
+      "title": "399369 - Magnetic wall stud finders",
+      "conceptLink": "/ec2/concept/5990657"
+    }
+  },
+  {
+    "uri": "en/9/147966",
+    "id": "147966",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetic wires",
+    "harm": {
+      "id": "0047008",
+      "title": "147966 - Magnetic wires",
+      "conceptLink": "/ec2/concept/5994388"
+    }
+  },
+  {
+    "uri": "en/9/137882917",
+    "id": "137882917",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded bank cards",
+    "harm": {
+      "id": "0070557",
+      "title": "137882917 - Magnetically encoded bank cards",
+      "conceptLink": "/ec2/concept/6006749"
+    }
+  },
+  {
+    "uri": "en/9/158550",
+    "id": "158550",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded cards",
+    "harm": {
+      "id": "0002434",
+      "title": "158550 - Magnetically encoded cards",
+      "conceptLink": "/ec2/concept/5953678"
+    }
+  },
+  {
+    "uri": "en/9/119529859",
+    "id": "119529859",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded charge cards",
+    "harm": {
+      "id": "0070558",
+      "title": "119529859 - Magnetically encoded charge cards",
+      "conceptLink": "/ec2/concept/6006750"
+    }
+  },
+  {
+    "uri": "en/9/399382",
+    "id": "399382",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded credit cards",
+    "harm": {
+      "id": "0042884",
+      "title": "399382 - Magnetically encoded credit cards",
+      "conceptLink": "/ec2/concept/5990658"
+    }
+  },
+  {
+    "uri": "en/9/399403",
+    "id": "399403",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded debit cards",
+    "harm": {
+      "id": "0014006",
+      "title": "399403 - Magnetically encoded debit cards",
+      "conceptLink": "/ec2/concept/5964272"
+    }
+  },
+  {
+    "uri": "en/9/99529427",
+    "id": "99529427",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded gift cards",
+    "harm": {
+      "id": "0051576",
+      "title": "99529427 - Magnetically encoded gift cards",
+      "conceptLink": "/ec2/concept/6010562"
+    }
+  },
+  {
+    "uri": "en/9/493430",
+    "id": "493430",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded identification bracelets",
+    "harm": {
+      "id": "0005920",
+      "title": "493430 - Magnetically encoded identification bracelets",
+      "conceptLink": "/ec2/concept/5956873"
+    }
+  },
+  {
+    "uri": "en/9/15986224",
+    "id": "15986224",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetically encoded key cards",
+    "harm": {
+      "id": "0065969",
+      "title": "15986224 - Magnetically encoded key cards",
+      "conceptLink": "/ec2/concept/6002172"
+    }
+  },
+  {
+    "uri": "en/9/2313395",
+    "id": "2313395",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magneto-optical discs",
+    "harm": {
+      "id": "0065750",
+      "title": "2313395 - Magneto-optical discs",
+      "conceptLink": "/ec2/concept/6001953"
+    }
+  },
+  {
+    "uri": "en/9/13607498",
+    "id": "13607498",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magneto-optical pens",
+    "harm": {
+      "id": "0055783",
+      "title": "13607498 - Magneto-optical pens",
+      "conceptLink": "/ec2/concept/5997166"
+    }
+  },
+  {
+    "uri": "en/9/330063",
+    "id": "330063",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetometers",
+    "harm": {
+      "id": "0035275",
+      "title": "330063 - Magnetometers",
+      "conceptLink": "/ec2/concept/5983728"
+    }
+  },
+  {
+    "uri": "en/9/541924",
+    "id": "541924",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnetrons",
+    "harm": {
+      "id": "0009555",
+      "title": "541924 - Magnetrons",
+      "conceptLink": "/ec2/concept/5960203"
+    }
+  },
+  {
+    "uri": "en/9/138929",
+    "id": "138929",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnets",
+    "harm": {
+      "id": "0059063",
+      "title": "138929 - Magnets",
+      "conceptLink": "/ec2/concept/6000554"
+    }
+  },
+  {
+    "uri": "en/9/161392",
+    "id": "161392",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnets (Decorative -)",
+    "harm": {
+      "id": "0057382",
+      "title": "161392 - Magnets (Decorative -)",
+      "conceptLink": "/ec2/concept/5998889"
+    }
+  },
+  {
+    "uri": "en/9/119529866",
+    "id": "119529866",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnets for industrial purposes",
+    "harm": {
+      "id": "0055784",
+      "title": "119529866 - Magnets for industrial purposes",
+      "conceptLink": "/ec2/concept/5997167"
+    }
+  },
+  {
+    "uri": "en/9/131117902",
+    "id": "131117902",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnets, magnetizers and demagnetizers",
+    "harm": {
+      "id": "0047744",
+      "title": "131117902 - Magnets, magnetizers and demagnetizers",
+      "conceptLink": "/ec2/concept/5995019"
+    }
+  },
+  {
+    "uri": "en/9/150269",
+    "id": "150269",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifiers",
+    "harm": {
+      "id": "0057393",
+      "title": "150269 - Magnifiers",
+      "conceptLink": "/ec2/concept/5998900"
+    }
+  },
+  {
+    "uri": "en/9/120874218",
+    "id": "120874218",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifying eyeglasses",
+    "harm": {
+      "id": "0065817",
+      "title": "120874218 - Magnifying eyeglasses",
+      "conceptLink": "/ec2/concept/6002020"
+    }
+  },
+  {
+    "uri": "en/9/150267",
+    "id": "150267",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifying glasses",
+    "harm": {
+      "id": "0057394",
+      "title": "150267 - Magnifying glasses",
+      "conceptLink": "/ec2/concept/5998901"
+    }
+  },
+  {
+    "uri": "en/9/150266",
+    "id": "150266",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifying glasses [optics]",
+    "harm": {
+      "id": "0057394",
+      "title": "150266 - Magnifying glasses [optics]",
+      "conceptLink": "/ec2/concept/5998901"
+    }
+  },
+  {
+    "uri": "en/9/150268",
+    "id": "150268",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifying lenses",
+    "harm": {
+      "id": "0057393",
+      "title": "150268 - Magnifying lenses",
+      "conceptLink": "/ec2/concept/5998900"
+    }
+  },
+  {
+    "uri": "en/9/905015",
+    "id": "905015",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Magnifying peepholes for doors",
+    "harm": {
+      "id": "0057062",
+      "title": "905015 - Magnifying peepholes for doors",
+      "conceptLink": "/ec2/concept/5998690"
+    }
+  },
+  {
+    "uri": "en/9/530653",
+    "id": "530653",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mainframes [computers]",
+    "harm": {
+      "id": "0026792",
+      "title": "530653 - Mainframes [computers]",
+      "conceptLink": "/ec2/concept/5975977"
+    }
+  },
+  {
+    "uri": "en/9/18551210",
+    "id": "18551210",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains chargers",
+    "harm": {
+      "id": "0065816",
+      "title": "18551210 - Mains chargers",
+      "conceptLink": "/ec2/concept/6002019"
+    }
+  },
+  {
+    "uri": "en/9/124765265",
+    "id": "124765265",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains distribution panels (Electric -)",
+    "harm": {
+      "id": "0035250",
+      "title": "124765265 - Mains distribution panels (Electric -)",
+      "conceptLink": "/ec2/concept/5983704"
+    }
+  },
+  {
+    "uri": "en/9/124415789",
+    "id": "124415789",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains monitoring apparatus (Electric -)",
+    "harm": {
+      "id": "0038459",
+      "title": "124415789 - Mains monitoring apparatus (Electric -)",
+      "conceptLink": "/ec2/concept/5986626"
+    }
+  },
+  {
+    "uri": "en/9/124766053",
+    "id": "124766053",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains power units (Electric -)",
+    "harm": {
+      "id": "0046987",
+      "title": "124766053 - Mains power units (Electric -)",
+      "conceptLink": "/ec2/concept/5994369"
+    }
+  },
+  {
+    "uri": "en/9/124773835",
+    "id": "124773835",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains testers (Electric -)",
+    "harm": {
+      "id": "0016389",
+      "title": "124773835 - Mains testers (Electric -)",
+      "conceptLink": "/ec2/concept/5966479"
+    }
+  },
+  {
+    "uri": "en/9/125168395",
+    "id": "125168395",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mains transformers (Electric -)",
+    "harm": {
+      "id": "0046647",
+      "title": "125168395 - Mains transformers (Electric -)",
+      "conceptLink": "/ec2/concept/5994070"
+    }
+  },
+  {
+    "uri": "en/9/205397027",
+    "id": "205397027",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Maintenance software",
+    "harm": {
+      "id": "0072595",
+      "title": "205397027 - Maintenance software",
+      "conceptLink": "/ec2/concept/6008772"
+    }
+  },
+  {
+    "uri": "en/9/541987",
+    "id": "541987",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Male connectors for electrical cables",
+    "harm": {
+      "id": "0033676",
+      "title": "541987 - Male connectors for electrical cables",
+      "conceptLink": "/ec2/concept/5982274"
+    }
+  },
+  {
+    "uri": "en/9/162424",
+    "id": "162424",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mannequins (Resuscitation -) [teaching apparatus]",
+    "harm": {
+      "id": "0014614",
+      "title": "162424 - Mannequins (Resuscitation -) [teaching apparatus]",
+      "conceptLink": "/ec2/concept/5964842"
+    }
+  },
+  {
+    "uri": "en/9/541999",
+    "id": "541999",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manometer lines, other than for medical use",
+    "harm": {
+      "id": "0004864",
+      "title": "541999 - Manometer lines, other than for medical use",
+      "conceptLink": "/ec2/concept/5955912"
+    }
+  },
+  {
+    "uri": "en/9/150718",
+    "id": "150718",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manometers",
+    "harm": {
+      "id": "0057409",
+      "title": "150718 - Manometers",
+      "conceptLink": "/ec2/concept/5998916"
+    }
+  },
+  {
+    "uri": "en/9/542013",
+    "id": "542013",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manual rectifiers",
+    "harm": {
+      "id": "0010586",
+      "title": "542013 - Manual rectifiers",
+      "conceptLink": "/ec2/concept/5961148"
+    }
+  },
+  {
+    "uri": "en/9/131098153",
+    "id": "131098153",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manual switching apparatus for telecommunication",
+    "harm": {
+      "id": "0050773",
+      "title": "131098153 - Manual switching apparatus for telecommunication",
+      "conceptLink": "/ec2/concept/5996137"
+    }
+  },
+  {
+    "uri": "en/9/5537813",
+    "id": "5537813",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manual telegraph apparatus",
+    "harm": {
+      "id": "0055785",
+      "title": "5537813 - Manual telegraph apparatus",
+      "conceptLink": "/ec2/concept/5997168"
+    }
+  },
+  {
+    "uri": "en/9/233110613",
+    "id": "233110613",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Manufacturing software",
+    "harm": {
+      "id": "0072607",
+      "title": "233110613 - Manufacturing software",
+      "conceptLink": "/ec2/concept/6008784"
+    }
+  },
+  {
+    "uri": "en/9/542037",
+    "id": "542037",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine autopilots",
+    "harm": {
+      "id": "0045228",
+      "title": "542037 - Marine autopilots",
+      "conceptLink": "/ec2/concept/5992810"
+    }
+  },
+  {
+    "uri": "en/9/542050",
+    "id": "542050",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine communication apparatus",
+    "harm": {
+      "id": "0016390",
+      "title": "542050 - Marine communication apparatus",
+      "conceptLink": "/ec2/concept/5966480"
+    }
+  },
+  {
+    "uri": "en/9/142940",
+    "id": "142940",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine compasses",
+    "harm": {
+      "id": "0015195",
+      "title": "142940 - Marine compasses",
+      "conceptLink": "/ec2/concept/5965369"
+    }
+  },
+  {
+    "uri": "en/9/161805",
+    "id": "161805",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine depth finders",
+    "harm": {
+      "id": "0002145",
+      "title": "161805 - Marine depth finders",
+      "conceptLink": "/ec2/concept/5953416"
+    }
+  },
+  {
+    "uri": "en/9/161808",
+    "id": "161808",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine depth sounders",
+    "harm": {
+      "id": "0002145",
+      "title": "161808 - Marine depth sounders",
+      "conceptLink": "/ec2/concept/5953416"
+    }
+  },
+  {
+    "uri": "en/9/542062",
+    "id": "542062",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine navigation apparatus",
+    "harm": {
+      "id": "0039479",
+      "title": "542062 - Marine navigation apparatus",
+      "conceptLink": "/ec2/concept/5987548"
+    }
+  },
+  {
+    "uri": "en/9/136976878",
+    "id": "136976878",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marine radios",
+    "harm": {
+      "id": "0060518",
+      "title": "136976878 - Marine radios",
+      "conceptLink": "/ec2/concept/5998491"
+    }
+  },
+  {
+    "uri": "en/9/118218620",
+    "id": "118218620",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Maritime patrol radar",
+    "harm": {
+      "id": "0055786",
+      "title": "118218620 - Maritime patrol radar",
+      "conceptLink": "/ec2/concept/5997169"
+    }
+  },
+  {
+    "uri": "en/9/120916895",
+    "id": "120916895",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Maritime patrol radars",
+    "harm": {
+      "id": "0055786",
+      "title": "120916895 - Maritime patrol radars",
+      "conceptLink": "/ec2/concept/5997169"
+    }
+  },
+  {
+    "uri": "en/9/542078",
+    "id": "542078",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Maritime rescue apparatus",
+    "harm": {
+      "id": "0010587",
+      "title": "542078 - Maritime rescue apparatus",
+      "conceptLink": "/ec2/concept/5961149"
+    }
+  },
+  {
+    "uri": "en/9/157884",
+    "id": "157884",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marker buoys",
+    "harm": {
+      "id": "0059226",
+      "title": "157884 - Marker buoys",
+      "conceptLink": "/ec2/concept/6000715"
+    }
+  },
+  {
+    "uri": "en/9/542091",
+    "id": "542091",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Markers for electric wire",
+    "harm": {
+      "id": "0016391",
+      "title": "542091 - Markers for electric wire",
+      "conceptLink": "/ec2/concept/5966481"
+    }
+  },
+  {
+    "uri": "en/9/542102",
+    "id": "542102",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Markers for electrical conductors",
+    "harm": {
+      "id": "0004865",
+      "title": "542102 - Markers for electrical conductors",
+      "conceptLink": "/ec2/concept/5955913"
+    }
+  },
+  {
+    "uri": "en/9/119529880",
+    "id": "119529880",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marking and signalling buoys",
+    "harm": {
+      "id": "0060498",
+      "title": "119529880 - Marking and signalling buoys",
+      "conceptLink": "/ec2/concept/5998471"
+    }
+  },
+  {
+    "uri": "en/9/157886",
+    "id": "157886",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marking buoys",
+    "harm": {
+      "id": "0059226",
+      "title": "157886 - Marking buoys",
+      "conceptLink": "/ec2/concept/6000715"
+    }
+  },
+  {
+    "uri": "en/9/4021163",
+    "id": "4021163",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marking gauges",
+    "harm": {
+      "id": "0057109",
+      "title": "4021163 - Marking gauges",
+      "conceptLink": "/ec2/concept/5998736"
+    }
+  },
+  {
+    "uri": "en/9/905107",
+    "id": "905107",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marking gauges for joinery purposes",
+    "harm": {
+      "id": "0057109",
+      "title": "905107 - Marking gauges for joinery purposes",
+      "conceptLink": "/ec2/concept/5998736"
+    }
+  },
+  {
+    "uri": "en/9/155371",
+    "id": "155371",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Marking gauges [joinery]",
+    "harm": {
+      "id": "0057109",
+      "title": "155371 - Marking gauges [joinery]",
+      "conceptLink": "/ec2/concept/5998736"
+    }
+  },
+  {
+    "uri": "en/9/542116",
+    "id": "542116",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masers [microwave amplifiers]",
+    "harm": {
+      "id": "0004866",
+      "title": "542116 - Masers [microwave amplifiers]",
+      "conceptLink": "/ec2/concept/5955914"
+    }
+  },
+  {
+    "uri": "en/9/158422",
+    "id": "158422",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masks (Divers' -)",
+    "harm": {
+      "id": "0058922",
+      "title": "158422 - Masks (Divers' -)",
+      "conceptLink": "/ec2/concept/6000413"
+    }
+  },
+  {
+    "uri": "en/9/158421",
+    "id": "158421",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masks for diving",
+    "harm": {
+      "id": "0058922",
+      "title": "158421 - Masks for diving",
+      "conceptLink": "/ec2/concept/6000413"
+    }
+  },
+  {
+    "uri": "en/9/332192",
+    "id": "332192",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masks for swimming",
+    "harm": {
+      "id": "0059468",
+      "title": "332192 - Masks for swimming",
+      "conceptLink": "/ec2/concept/6000944"
+    }
+  },
+  {
+    "uri": "en/9/137174802",
+    "id": "137174802",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masks [Protective -]",
+    "harm": {
+      "id": "0007841",
+      "title": "137174802 - Masks [Protective -]",
+      "conceptLink": "/ec2/concept/5958635"
+    }
+  },
+  {
+    "uri": "en/9/542141",
+    "id": "542141",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mass flow meters",
+    "harm": {
+      "id": "0019115",
+      "title": "542141 - Mass flow meters",
+      "conceptLink": "/ec2/concept/5968963"
+    }
+  },
+  {
+    "uri": "en/9/542154",
+    "id": "542154",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mass flow sensors",
+    "harm": {
+      "id": "0007459",
+      "title": "542154 - Mass flow sensors",
+      "conceptLink": "/ec2/concept/5958286"
+    }
+  },
+  {
+    "uri": "en/9/542166",
+    "id": "542166",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Mass spectrometers",
+    "harm": {
+      "id": "0030609",
+      "title": "542166 - Mass spectrometers",
+      "conceptLink": "/ec2/concept/5979488"
+    }
+  },
+  {
+    "uri": "en/9/233110571",
+    "id": "233110571",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Master of Education software",
+    "harm": {
+      "id": "0072576",
+      "title": "233110571 - Master of Education software",
+      "conceptLink": "/ec2/concept/6008753"
+    }
+  },
+  {
+    "uri": "en/9/137900841",
+    "id": "137900841",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Master ring gauges",
+    "harm": {
+      "id": "0051601",
+      "title": "137900841 - Master ring gauges",
+      "conceptLink": "/ec2/concept/6010587"
+    }
+  },
+  {
+    "uri": "en/9/527627",
+    "id": "527627",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masts for aerials",
+    "harm": {
+      "id": "0024845",
+      "title": "527627 - Masts for aerials",
+      "conceptLink": "/ec2/concept/5974209"
+    }
+  },
+  {
+    "uri": "en/9/154911",
+    "id": "154911",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masts for wireless aerials",
+    "harm": {
+      "id": "0019116",
+      "title": "154911 - Masts for wireless aerials",
+      "conceptLink": "/ec2/concept/5968964"
+    }
+  },
+  {
+    "uri": "en/9/154909",
+    "id": "154909",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Masts [wireless aerials]",
+    "harm": {
+      "id": "0019116",
+      "title": "154909 - Masts [wireless aerials]",
+      "conceptLink": "/ec2/concept/5968964"
+    }
+  },
+  {
+    "uri": "en/9/542185",
+    "id": "542185",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Material testing apparatus",
+    "harm": {
+      "id": "0024865",
+      "title": "542185 - Material testing apparatus",
+      "conceptLink": "/ec2/concept/5974227"
+    }
+  },
+  {
+    "uri": "en/9/147546",
+    "id": "147546",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Material testing instruments and machines",
+    "harm": {
+      "id": "0014936",
+      "title": "147546 - Material testing instruments and machines",
+      "conceptLink": "/ec2/concept/5965132"
+    }
+  },
+  {
+    "uri": "en/9/19149718",
+    "id": "19149718",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Materials for electricity mains [wires, cables]",
+    "harm": {
+      "id": "0040366",
+      "title": "19149718 - Materials for electricity mains [wires, cables]",
+      "conceptLink": "/ec2/concept/5988365"
+    }
+  },
+  {
+    "uri": "en/9/399423",
+    "id": "399423",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Math coprocessor",
+    "harm": {
+      "id": "0014007",
+      "title": "399423 - Math coprocessor",
+      "conceptLink": "/ec2/concept/5964273"
+    }
+  }
+]

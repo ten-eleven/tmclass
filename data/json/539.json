@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/29/287756",
+    "id": "287756",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Blood sausage",
+    "harm": {
+      "id": "0059030",
+      "title": "287756 - Blood sausage",
+      "conceptLink": "/ec2/concept/6000521"
+    }
+  },
+  {
+    "uri": "en/29/775296",
+    "id": "775296",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Blue cheese",
+    "harm": {
+      "id": "0008062",
+      "title": "775296 - Blue cheese",
+      "conceptLink": "/ec2/concept/5958836"
+    }
+  },
+  {
+    "uri": "en/29/358643",
+    "id": "358643",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Blue mussels [not live]",
+    "harm": {
+      "id": "0000761",
+      "title": "358643 - Blue mussels [not live]",
+      "conceptLink": "/ec2/concept/5952172"
+    }
+  },
+  {
+    "uri": "en/29/131075225",
+    "id": "131075225",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Blue mussels, not live",
+    "harm": {
+      "id": "0000761",
+      "title": "131075225 - Blue mussels, not live",
+      "conceptLink": "/ec2/concept/5952172"
+    }
+  },
+  {
+    "uri": "en/29/136101094",
+    "id": "136101094",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Boiled and dried fish",
+    "harm": {
+      "id": "0056816",
+      "title": "136101094 - Boiled and dried fish",
+      "conceptLink": "/ec2/concept/5998094"
+    }
+  },
+  {
+    "uri": "en/29/233251100",
+    "id": "233251100",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Boiled potatoes",
+    "harm": {
+      "id": "0073212",
+      "title": "233251100 - Boiled potatoes",
+      "conceptLink": "/ec2/concept/6009385"
+    }
+  },
+  {
+    "uri": "en/29/438163",
+    "id": "438163",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bologna",
+    "harm": {
+      "id": "0037455",
+      "title": "438163 - Bologna",
+      "conceptLink": "/ec2/concept/5985707"
+    }
+  },
+  {
+    "uri": "en/29/775316",
+    "id": "775316",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bombay mix",
+    "harm": {
+      "id": "0031209",
+      "title": "775316 - Bombay mix",
+      "conceptLink": "/ec2/concept/5980037"
+    }
+  },
+  {
+    "uri": "en/29/290491",
+    "id": "290491",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bone oil, edible",
+    "harm": {
+      "id": "0017620",
+      "title": "290491 - Bone oil, edible",
+      "conceptLink": "/ec2/concept/5967582"
+    }
+  },
+  {
+    "uri": "en/29/290490",
+    "id": "290490",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bone oil [for food]",
+    "harm": {
+      "id": "0017620",
+      "title": "290490 - Bone oil [for food]",
+      "conceptLink": "/ec2/concept/5967582"
+    }
+  },
+  {
+    "uri": "en/29/233405365",
+    "id": "233405365",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Botifarra sausages",
+    "harm": {
+      "id": "0073656",
+      "title": "233405365 - Botifarra sausages",
+      "conceptLink": "/ec2/concept/6009828"
+    }
+  },
+  {
+    "uri": "en/29/39790925",
+    "id": "39790925",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bottled cooked meat",
+    "harm": {
+      "id": "0056349",
+      "title": "39790925 - Bottled cooked meat",
+      "conceptLink": "/ec2/concept/5997674"
+    }
+  },
+  {
+    "uri": "en/29/120863249",
+    "id": "120863249",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bottled fish products",
+    "harm": {
+      "id": "0067481",
+      "title": "120863249 - Bottled fish products",
+      "conceptLink": "/ec2/concept/6003684"
+    }
+  },
+  {
+    "uri": "en/29/15326831",
+    "id": "15326831",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bottled fruits",
+    "harm": {
+      "id": "0050374",
+      "title": "15326831 - Bottled fruits",
+      "conceptLink": "/ec2/concept/5995549"
+    }
+  },
+  {
+    "uri": "en/29/120850490",
+    "id": "120850490",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bottled sliced fruits",
+    "harm": {
+      "id": "0067525",
+      "title": "120850490 - Bottled sliced fruits",
+      "conceptLink": "/ec2/concept/6003728"
+    }
+  },
+  {
+    "uri": "en/29/120850475",
+    "id": "120850475",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bottled vegetables",
+    "harm": {
+      "id": "0069830",
+      "title": "120850475 - Bottled vegetables",
+      "conceptLink": "/ec2/concept/6006033"
+    }
+  },
+  {
+    "uri": "en/29/287816",
+    "id": "287816",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bouillon",
+    "harm": {
+      "id": "0003275",
+      "title": "287816 - Bouillon",
+      "conceptLink": "/ec2/concept/5954444"
+    }
+  },
+  {
+    "uri": "en/29/288281",
+    "id": "288281",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bouillon concentrates",
+    "harm": {
+      "id": "0047512",
+      "title": "288281 - Bouillon concentrates",
+      "conceptLink": "/ec2/concept/5994814"
+    }
+  },
+  {
+    "uri": "en/29/287851",
+    "id": "287851",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bouillon (Preparations for making -)",
+    "harm": {
+      "id": "0036358",
+      "title": "287851 - Bouillon (Preparations for making -)",
+      "conceptLink": "/ec2/concept/5984710"
+    }
+  },
+  {
+    "uri": "en/29/29584474",
+    "id": "29584474",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bratwurst",
+    "harm": {
+      "id": "0067467",
+      "title": "29584474 - Bratwurst",
+      "conceptLink": "/ec2/concept/6003670"
+    }
+  },
+  {
+    "uri": "en/29/775330",
+    "id": "775330",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Brawn",
+    "harm": {
+      "id": "0013931",
+      "title": "775330 - Brawn",
+      "conceptLink": "/ec2/concept/5964205"
+    }
+  },
+  {
+    "uri": "en/29/120862334",
+    "id": "120862334",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Breaded and fried jalapeno peppers",
+    "harm": {
+      "id": "0067490",
+      "title": "120862334 - Breaded and fried jalapeno peppers",
+      "conceptLink": "/ec2/concept/6003693"
+    }
+  },
+  {
+    "uri": "en/29/775344",
+    "id": "775344",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Broad beans",
+    "harm": {
+      "id": "0002371",
+      "title": "775344 - Broad beans",
+      "conceptLink": "/ec2/concept/5953621"
+    }
+  },
+  {
+    "uri": "en/29/775365",
+    "id": "775365",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Broccoli",
+    "harm": {
+      "id": "0037079",
+      "title": "775365 - Broccoli",
+      "conceptLink": "/ec2/concept/5985365"
+    }
+  },
+  {
+    "uri": "en/29/287815",
+    "id": "287815",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Broth",
+    "harm": {
+      "id": "0003275",
+      "title": "287815 - Broth",
+      "conceptLink": "/ec2/concept/5954444"
+    }
+  },
+  {
+    "uri": "en/29/288279",
+    "id": "288279",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Broth concentrates",
+    "harm": {
+      "id": "0047512",
+      "title": "288279 - Broth concentrates",
+      "conceptLink": "/ec2/concept/5994814"
+    }
+  },
+  {
+    "uri": "en/29/438177",
+    "id": "438177",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Broth [soup]",
+    "harm": {
+      "id": "0002768",
+      "title": "438177 - Broth [soup]",
+      "conceptLink": "/ec2/concept/5953979"
+    }
+  },
+  {
+    "uri": "en/29/137728910",
+    "id": "137728910",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bulgogi [Korean beef dish]",
+    "harm": {
+      "id": "0056450",
+      "title": "137728910 - Bulgogi [Korean beef dish]",
+      "conceptLink": "/ec2/concept/5997763"
+    }
+  },
+  {
+    "uri": "en/29/137906258",
+    "id": "137906258",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Bulgogi [Korean dish consisting of sliced and seasoned barbecued beef]",
+    "harm": {
+      "id": "0056450",
+      "title": "137906258 - Bulgogi [Korean dish consisting of sliced and seasoned barbecued beef]",
+      "conceptLink": "/ec2/concept/5997763"
+    }
+  },
+  {
+    "uri": "en/29/616233",
+    "id": "616233",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Burgers",
+    "harm": {
+      "id": "0018987",
+      "title": "616233 - Burgers",
+      "conceptLink": "/ec2/concept/5968846"
+    }
+  },
+  {
+    "uri": "en/29/287547",
+    "id": "287547",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter",
+    "harm": {
+      "id": "0023767",
+      "title": "287547 - Butter",
+      "conceptLink": "/ec2/concept/5973208"
+    }
+  },
+  {
+    "uri": "en/29/287579",
+    "id": "287579",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter (Chocolate nut -)",
+    "harm": {
+      "id": "0047477",
+      "title": "287579 - Butter (Chocolate nut -)",
+      "conceptLink": "/ec2/concept/5994783"
+    }
+  },
+  {
+    "uri": "en/29/287581",
+    "id": "287581",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter (Cocoa -)",
+    "harm": {
+      "id": "0047477",
+      "title": "287581 - Butter (Cocoa -)",
+      "conceptLink": "/ec2/concept/5994783"
+    }
+  },
+  {
+    "uri": "en/29/287619",
+    "id": "287619",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter (Coconut -)",
+    "harm": {
+      "id": "0024820",
+      "title": "287619 - Butter (Coconut -)",
+      "conceptLink": "/ec2/concept/5974186"
+    }
+  },
+  {
+    "uri": "en/29/775386",
+    "id": "775386",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter for use in cooking",
+    "harm": {
+      "id": "0025478",
+      "title": "775386 - Butter for use in cooking",
+      "conceptLink": "/ec2/concept/5974789"
+    }
+  },
+  {
+    "uri": "en/29/498816",
+    "id": "498816",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter made of nuts",
+    "harm": {
+      "id": "0009452",
+      "title": "498816 - Butter made of nuts",
+      "conceptLink": "/ec2/concept/5960113"
+    }
+  },
+  {
+    "uri": "en/29/775396",
+    "id": "775396",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter oil",
+    "harm": {
+      "id": "0031210",
+      "title": "775396 - Butter oil",
+      "conceptLink": "/ec2/concept/5980038"
+    }
+  },
+  {
+    "uri": "en/29/287506",
+    "id": "287506",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter (Peanut -)",
+    "harm": {
+      "id": "0014239",
+      "title": "287506 - Butter (Peanut -)",
+      "conceptLink": "/ec2/concept/5964493"
+    }
+  },
+  {
+    "uri": "en/29/775410",
+    "id": "775410",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter preparations",
+    "harm": {
+      "id": "0002372",
+      "title": "775410 - Butter preparations",
+      "conceptLink": "/ec2/concept/5953622"
+    }
+  },
+  {
+    "uri": "en/29/438192",
+    "id": "438192",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter substitutes",
+    "harm": {
+      "id": "0043208",
+      "title": "438192 - Butter substitutes",
+      "conceptLink": "/ec2/concept/5990952"
+    }
+  },
+  {
+    "uri": "en/29/775423",
+    "id": "775423",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Butter with herbs",
+    "harm": {
+      "id": "0013932",
+      "title": "775423 - Butter with herbs",
+      "conceptLink": "/ec2/concept/5964206"
+    }
+  },
+  {
+    "uri": "en/29/287663",
+    "id": "287663",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Buttercream",
+    "harm": {
+      "id": "0042133",
+      "title": "287663 - Buttercream",
+      "conceptLink": "/ec2/concept/5989979"
+    }
+  },
+  {
+    "uri": "en/29/901334",
+    "id": "901334",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Buttermilk",
+    "harm": {
+      "id": "0029855",
+      "title": "901334 - Buttermilk",
+      "conceptLink": "/ec2/concept/5978792"
+    }
+  },
+  {
+    "uri": "en/29/112846981",
+    "id": "112846981",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Caesar salad",
+    "harm": {
+      "id": "0056350",
+      "title": "112846981 - Caesar salad",
+      "conceptLink": "/ec2/concept/5997675"
+    }
+  },
+  {
+    "uri": "en/29/137492254",
+    "id": "137492254",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Camellia seed oil for food",
+    "harm": {
+      "id": "0060688",
+      "title": "137492254 - Camellia seed oil for food",
+      "conceptLink": "/ec2/concept/6001009"
+    }
+  },
+  {
+    "uri": "en/29/775437",
+    "id": "775437",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cancoillotte",
+    "harm": {
+      "id": "0037080",
+      "title": "775437 - Cancoillotte",
+      "conceptLink": "/ec2/concept/5985366"
+    }
+  },
+  {
+    "uri": "en/29/3827198",
+    "id": "3827198",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Candied fruit",
+    "harm": {
+      "id": "0057101",
+      "title": "3827198 - Candied fruit",
+      "conceptLink": "/ec2/concept/5998728"
+    }
+  },
+  {
+    "uri": "en/29/438208",
+    "id": "438208",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Candied fruit snacks",
+    "harm": {
+      "id": "0031618",
+      "title": "438208 - Candied fruit snacks",
+      "conceptLink": "/ec2/concept/5980393"
+    }
+  },
+  {
+    "uri": "en/29/438719",
+    "id": "438719",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Candied fruits",
+    "harm": {
+      "id": "0057101",
+      "title": "438719 - Candied fruits",
+      "conceptLink": "/ec2/concept/5998728"
+    }
+  },
+  {
+    "uri": "en/29/5548893",
+    "id": "5548893",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Candied nuts",
+    "harm": {
+      "id": "0067567",
+      "title": "5548893 - Candied nuts",
+      "conceptLink": "/ec2/concept/6003770"
+    }
+  },
+  {
+    "uri": "en/29/291243",
+    "id": "291243",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned beans",
+    "harm": {
+      "id": "0006472",
+      "title": "291243 - Canned beans",
+      "conceptLink": "/ec2/concept/5957381"
+    }
+  },
+  {
+    "uri": "en/29/34979705",
+    "id": "34979705",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned cooked meat",
+    "harm": {
+      "id": "0056351",
+      "title": "34979705 - Canned cooked meat",
+      "conceptLink": "/ec2/concept/5997676"
+    }
+  },
+  {
+    "uri": "en/29/291479",
+    "id": "291479",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned fish",
+    "harm": {
+      "id": "0035447",
+      "title": "291479 - Canned fish",
+      "conceptLink": "/ec2/concept/5983882"
+    }
+  },
+  {
+    "uri": "en/29/287913",
+    "id": "287913",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned fruits",
+    "harm": {
+      "id": "0023914",
+      "title": "287913 - Canned fruits",
+      "conceptLink": "/ec2/concept/5973344"
+    }
+  },
+  {
+    "uri": "en/29/291568",
+    "id": "291568",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned meat",
+    "harm": {
+      "id": "0058428",
+      "title": "291568 - Canned meat",
+      "conceptLink": "/ec2/concept/5999927"
+    }
+  },
+  {
+    "uri": "en/29/88621401",
+    "id": "88621401",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned peanuts",
+    "harm": {
+      "id": "0067513",
+      "title": "88621401 - Canned peanuts",
+      "conceptLink": "/ec2/concept/6003716"
+    }
+  },
+  {
+    "uri": "en/29/119545125",
+    "id": "119545125",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned pork",
+    "harm": {
+      "id": "0056352",
+      "title": "119545125 - Canned pork",
+      "conceptLink": "/ec2/concept/5997677"
+    }
+  },
+  {
+    "uri": "en/29/29585024",
+    "id": "29585024",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned pork and beans",
+    "harm": {
+      "id": "0067566",
+      "title": "29585024 - Canned pork and beans",
+      "conceptLink": "/ec2/concept/6003769"
+    }
+  },
+  {
+    "uri": "en/29/5548933",
+    "id": "5548933",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned processed olives",
+    "harm": {
+      "id": "0056353",
+      "title": "5548933 - Canned processed olives",
+      "conceptLink": "/ec2/concept/5997678"
+    }
+  },
+  {
+    "uri": "en/29/775450",
+    "id": "775450",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned pulses",
+    "harm": {
+      "id": "0018083",
+      "title": "775450 - Canned pulses",
+      "conceptLink": "/ec2/concept/5968008"
+    }
+  },
+  {
+    "uri": "en/29/136009987",
+    "id": "136009987",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned quail eggs",
+    "harm": {
+      "id": "0073894",
+      "title": "136009987 - Canned quail eggs",
+      "conceptLink": "/ec2/concept/6010846"
+    }
+  },
+  {
+    "uri": "en/29/5200640",
+    "id": "5200640",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned seafood",
+    "harm": {
+      "id": "0056462",
+      "title": "5200640 - Canned seafood",
+      "conceptLink": "/ec2/concept/5997774"
+    }
+  },
+  {
+    "uri": "en/29/120850486",
+    "id": "120850486",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned sliced fruits",
+    "harm": {
+      "id": "0067526",
+      "title": "120850486 - Canned sliced fruits",
+      "conceptLink": "/ec2/concept/6003729"
+    }
+  },
+  {
+    "uri": "en/29/120850480",
+    "id": "120850480",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned sliced vegetables",
+    "harm": {
+      "id": "0067524",
+      "title": "120850480 - Canned sliced vegetables",
+      "conceptLink": "/ec2/concept/6003727"
+    }
+  },
+  {
+    "uri": "en/29/119545128",
+    "id": "119545128",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned snails",
+    "harm": {
+      "id": "0056354",
+      "title": "119545128 - Canned snails",
+      "conceptLink": "/ec2/concept/5997679"
+    }
+  },
+  {
+    "uri": "en/29/775461",
+    "id": "775461",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned soups",
+    "harm": {
+      "id": "0006473",
+      "title": "775461 - Canned soups",
+      "conceptLink": "/ec2/concept/5957382"
+    }
+  },
+  {
+    "uri": "en/29/120896593",
+    "id": "120896593",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned spinach",
+    "harm": {
+      "id": "0067446",
+      "title": "120896593 - Canned spinach",
+      "conceptLink": "/ec2/concept/6003649"
+    }
+  },
+  {
+    "uri": "en/29/5548953",
+    "id": "5548953",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned tomatoes",
+    "harm": {
+      "id": "0030780",
+      "title": "5548953 - Canned tomatoes",
+      "conceptLink": "/ec2/concept/5979651"
+    }
+  },
+  {
+    "uri": "en/29/288627",
+    "id": "288627",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canned vegetables",
+    "harm": {
+      "id": "0047527",
+      "title": "288627 - Canned vegetables",
+      "conceptLink": "/ec2/concept/5994827"
+    }
+  },
+  {
+    "uri": "en/29/882232",
+    "id": "882232",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canola oil",
+    "harm": {
+      "id": "0001163",
+      "title": "882232 - Canola oil",
+      "conceptLink": "/ec2/concept/5952536"
+    }
+  },
+  {
+    "uri": "en/29/120896126",
+    "id": "120896126",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Canola oil for food",
+    "harm": {
+      "id": "0001163",
+      "title": "120896126 - Canola oil for food",
+      "conceptLink": "/ec2/concept/5952536"
+    }
+  },
+  {
+    "uri": "en/29/119545133",
+    "id": "119545133",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Caponata",
+    "harm": {
+      "id": "0067441",
+      "title": "119545133 - Caponata",
+      "conceptLink": "/ec2/concept/6003644"
+    }
+  },
+  {
+    "uri": "en/29/131075265",
+    "id": "131075265",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Carp, not live",
+    "harm": {
+      "id": "0041263",
+      "title": "131075265 - Carp, not live",
+      "conceptLink": "/ec2/concept/5989188"
+    }
+  },
+  {
+    "uri": "en/29/358655",
+    "id": "358655",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Carp [not live]",
+    "harm": {
+      "id": "0041263",
+      "title": "358655 - Carp [not live]",
+      "conceptLink": "/ec2/concept/5989188"
+    }
+  },
+  {
+    "uri": "en/29/138392831",
+    "id": "138392831",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Carps, not live",
+    "harm": {
+      "id": "0041263",
+      "title": "138392831 - Carps, not live",
+      "conceptLink": "/ec2/concept/5989188"
+    }
+  },
+  {
+    "uri": "en/29/775476",
+    "id": "775476",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Carrots",
+    "harm": {
+      "id": "0012278",
+      "title": "775476 - Carrots",
+      "conceptLink": "/ec2/concept/5962699"
+    }
+  },
+  {
+    "uri": "en/29/120862469",
+    "id": "120862469",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cashew nut butter",
+    "harm": {
+      "id": "0067508",
+      "title": "120862469 - Cashew nut butter",
+      "conceptLink": "/ec2/concept/6003711"
+    }
+  },
+  {
+    "uri": "en/29/125000911",
+    "id": "125000911",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cashew nuts (Prepared -)",
+    "harm": {
+      "id": "0012279",
+      "title": "125000911 - Cashew nuts (Prepared -)",
+      "conceptLink": "/ec2/concept/5962700"
+    }
+  },
+  {
+    "uri": "en/29/232905949",
+    "id": "232905949",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cassava chips",
+    "harm": {
+      "id": "0073450",
+      "title": "232905949 - Cassava chips",
+      "conceptLink": "/ec2/concept/6009623"
+    }
+  },
+  {
+    "uri": "en/29/775511",
+    "id": "775511",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Casseroles [food]",
+    "harm": {
+      "id": "0000694",
+      "title": "775511 - Casseroles [food]",
+      "conceptLink": "/ec2/concept/5952112"
+    }
+  },
+  {
+    "uri": "en/29/287872",
+    "id": "287872",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Caviar",
+    "harm": {
+      "id": "0030573",
+      "title": "287872 - Caviar",
+      "conceptLink": "/ec2/concept/5979456"
+    }
+  },
+  {
+    "uri": "en/29/136634658",
+    "id": "136634658",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Century eggs",
+    "harm": {
+      "id": "0060163",
+      "title": "136634658 - Century eggs",
+      "conceptLink": "/ec2/concept/5996425"
+    }
+  },
+  {
+    "uri": "en/29/119545136",
+    "id": "119545136",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Chantilly cream",
+    "harm": {
+      "id": "0029646",
+      "title": "119545136 - Chantilly cream",
+      "conceptLink": "/ec2/concept/5978603"
+    }
+  },
+  {
+    "uri": "en/29/287997",
+    "id": "287997",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Charcuterie",
+    "harm": {
+      "id": "0059255",
+      "title": "287997 - Charcuterie",
+      "conceptLink": "/ec2/concept/6000739"
+    }
+  },
+  {
+    "uri": "en/29/775527",
+    "id": "775527",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheddar cheese",
+    "harm": {
+      "id": "0000695",
+      "title": "775527 - Cheddar cheese",
+      "conceptLink": "/ec2/concept/5952113"
+    }
+  },
+  {
+    "uri": "en/29/288774",
+    "id": "288774",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese",
+    "harm": {
+      "id": "0035412",
+      "title": "288774 - Cheese",
+      "conceptLink": "/ec2/concept/5983850"
+    }
+  },
+  {
+    "uri": "en/29/775547",
+    "id": "775547",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese containing herbs",
+    "harm": {
+      "id": "0023888",
+      "title": "775547 - Cheese containing herbs",
+      "conceptLink": "/ec2/concept/5973319"
+    }
+  },
+  {
+    "uri": "en/29/775560",
+    "id": "775560",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese containing spices",
+    "harm": {
+      "id": "0041199",
+      "title": "775560 - Cheese containing spices",
+      "conceptLink": "/ec2/concept/5989127"
+    }
+  },
+  {
+    "uri": "en/29/889578",
+    "id": "889578",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese dips",
+    "harm": {
+      "id": "0032771",
+      "title": "889578 - Cheese dips",
+      "conceptLink": "/ec2/concept/5981446"
+    }
+  },
+  {
+    "uri": "en/29/438223",
+    "id": "438223",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese fondue",
+    "harm": {
+      "id": "0031619",
+      "title": "438223 - Cheese fondue",
+      "conceptLink": "/ec2/concept/5980394"
+    }
+  },
+  {
+    "uri": "en/29/775574",
+    "id": "775574",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese in the form of dips",
+    "harm": {
+      "id": "0032771",
+      "title": "775574 - Cheese in the form of dips",
+      "conceptLink": "/ec2/concept/5981446"
+    }
+  },
+  {
+    "uri": "en/29/775588",
+    "id": "775588",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese mixtures",
+    "harm": {
+      "id": "0035411",
+      "title": "775588 - Cheese mixtures",
+      "conceptLink": "/ec2/concept/5983849"
+    }
+  },
+  {
+    "uri": "en/29/358668",
+    "id": "358668",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese powder",
+    "harm": {
+      "id": "0006542",
+      "title": "358668 - Cheese powder",
+      "conceptLink": "/ec2/concept/5957446"
+    }
+  },
+  {
+    "uri": "en/29/288775",
+    "id": "288775",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese products",
+    "harm": {
+      "id": "0035412",
+      "title": "288775 - Cheese products",
+      "conceptLink": "/ec2/concept/5983850"
+    }
+  },
+  {
+    "uri": "en/29/358684",
+    "id": "358684",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese spreads",
+    "harm": {
+      "id": "0037701",
+      "title": "358684 - Cheese spreads",
+      "conceptLink": "/ec2/concept/5985924"
+    }
+  },
+  {
+    "uri": "en/29/775601",
+    "id": "775601",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese sticks",
+    "harm": {
+      "id": "0035413",
+      "title": "775601 - Cheese sticks",
+      "conceptLink": "/ec2/concept/5983851"
+    }
+  },
+  {
+    "uri": "en/29/6468508",
+    "id": "6468508",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheese substitutes",
+    "harm": {
+      "id": "0056356",
+      "title": "6468508 - Cheese substitutes",
+      "conceptLink": "/ec2/concept/5997680"
+    }
+  },
+  {
+    "uri": "en/29/137906530",
+    "id": "137906530",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Cheonggukjang jjigae [Korean dish consisting primarily of tofu with rich soybean paste]",
+    "harm": {
+      "id": "0056362",
+      "title": "137906530 - Cheonggukjang jjigae [Korean dish consisting primarily of tofu with rich soybean paste]",
+      "conceptLink": "/ec2/concept/5997686"
+    }
+  },
+  {
+    "uri": "en/29/119545146",
+    "id": "119545146",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Chicharron",
+    "harm": {
+      "id": "0069811",
+      "title": "119545146 - Chicharron",
+      "conceptLink": "/ec2/concept/6006014"
+    }
+  },
+  {
+    "uri": "en/29/901734",
+    "id": "901734",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Chicken",
+    "harm": {
+      "id": "0017767",
+      "title": "901734 - Chicken",
+      "conceptLink": "/ec2/concept/5967720"
+    }
+  }
+]

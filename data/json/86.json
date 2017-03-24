@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/4/509292",
+    "id": "509292",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants for use with coaxial telephone cables",
+    "harm": {
+      "id": "0016043",
+      "title": "509292 - Lubricants for use with coaxial telephone cables",
+      "conceptLink": "/ec2/concept/5966160"
+    }
+  },
+  {
+    "uri": "en/4/509305",
+    "id": "509305",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants for use with power cables",
+    "harm": {
+      "id": "0004514",
+      "title": "509305 - Lubricants for use with power cables",
+      "conceptLink": "/ec2/concept/5955583"
+    }
+  },
+  {
+    "uri": "en/4/509316",
+    "id": "509316",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants having cleaning properties",
+    "harm": {
+      "id": "0044875",
+      "title": "509316 - Lubricants having cleaning properties",
+      "conceptLink": "/ec2/concept/5992484"
+    }
+  },
+  {
+    "uri": "en/4/509331",
+    "id": "509331",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants in the nature of oils",
+    "harm": {
+      "id": "0004515",
+      "title": "509331 - Lubricants in the nature of oils",
+      "conceptLink": "/ec2/concept/5955584"
+    }
+  },
+  {
+    "uri": "en/4/509347",
+    "id": "509347",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants of agricultural origin",
+    "harm": {
+      "id": "0039156",
+      "title": "509347 - Lubricants of agricultural origin",
+      "conceptLink": "/ec2/concept/5987252"
+    }
+  },
+  {
+    "uri": "en/4/509361",
+    "id": "509361",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricants of synthetic origin",
+    "harm": {
+      "id": "0029177",
+      "title": "509361 - Lubricants of synthetic origin",
+      "conceptLink": "/ec2/concept/5978176"
+    }
+  },
+  {
+    "uri": "en/4/509375",
+    "id": "509375",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating agents in the form of graphite powder",
+    "harm": {
+      "id": "0021960",
+      "title": "509375 - Lubricating agents in the form of graphite powder",
+      "conceptLink": "/ec2/concept/5971555"
+    }
+  },
+  {
+    "uri": "en/4/509388",
+    "id": "509388",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating agents in the form of talcum powder",
+    "harm": {
+      "id": "0016044",
+      "title": "509388 - Lubricating agents in the form of talcum powder",
+      "conceptLink": "/ec2/concept/5966161"
+    }
+  },
+  {
+    "uri": "en/4/509400",
+    "id": "509400",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating agents, other than for medical use",
+    "harm": {
+      "id": "0033344",
+      "title": "509400 - Lubricating agents, other than for medical use",
+      "conceptLink": "/ec2/concept/5981972"
+    }
+  },
+  {
+    "uri": "en/4/509415",
+    "id": "509415",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating fluids",
+    "harm": {
+      "id": "0023357",
+      "title": "509415 - Lubricating fluids",
+      "conceptLink": "/ec2/concept/5972833"
+    }
+  },
+  {
+    "uri": "en/4/80917",
+    "id": "80917",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating graphite",
+    "harm": {
+      "id": "0058139",
+      "title": "80917 - Lubricating graphite",
+      "conceptLink": "/ec2/concept/5999640"
+    }
+  },
+  {
+    "uri": "en/4/81217",
+    "id": "81217",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating grease",
+    "harm": {
+      "id": "0018659",
+      "title": "81217 - Lubricating grease",
+      "conceptLink": "/ec2/concept/5968541"
+    }
+  },
+  {
+    "uri": "en/4/80457",
+    "id": "80457",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oil",
+    "harm": {
+      "id": "0023543",
+      "title": "80457 - Lubricating oil",
+      "conceptLink": "/ec2/concept/5973005"
+    }
+  },
+  {
+    "uri": "en/4/317812",
+    "id": "317812",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oil for motor vehicle engines",
+    "harm": {
+      "id": "0008886",
+      "title": "317812 - Lubricating oil for motor vehicle engines",
+      "conceptLink": "/ec2/concept/5959583"
+    }
+  },
+  {
+    "uri": "en/4/80456",
+    "id": "80456",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils",
+    "harm": {
+      "id": "0023543",
+      "title": "80456 - Lubricating oils",
+      "conceptLink": "/ec2/concept/5973005"
+    }
+  },
+  {
+    "uri": "en/4/904973",
+    "id": "904973",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils and greases",
+    "harm": {
+      "id": "0035028",
+      "title": "904973 - Lubricating oils and greases",
+      "conceptLink": "/ec2/concept/5983501"
+    }
+  },
+  {
+    "uri": "en/4/509429",
+    "id": "509429",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils being hydraulic oils",
+    "harm": {
+      "id": "0034863",
+      "title": "509429 - Lubricating oils being hydraulic oils",
+      "conceptLink": "/ec2/concept/5983354"
+    }
+  },
+  {
+    "uri": "en/4/509442",
+    "id": "509442",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils containing additives which protect metal against wear by friction",
+    "harm": {
+      "id": "0029082",
+      "title": "509442 - Lubricating oils containing additives which protect metal against wear by friction",
+      "conceptLink": "/ec2/concept/5978092"
+    }
+  },
+  {
+    "uri": "en/4/509454",
+    "id": "509454",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for automotive apparatus",
+    "harm": {
+      "id": "0029083",
+      "title": "509454 - Lubricating oils for automotive apparatus",
+      "conceptLink": "/ec2/concept/5978093"
+    }
+  },
+  {
+    "uri": "en/4/509466",
+    "id": "509466",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for cooling metal during cutting",
+    "harm": {
+      "id": "0005993",
+      "title": "509466 - Lubricating oils for cooling metal during cutting",
+      "conceptLink": "/ec2/concept/5956942"
+    }
+  },
+  {
+    "uri": "en/4/509479",
+    "id": "509479",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for laser printers",
+    "harm": {
+      "id": "0017520",
+      "title": "509479 - Lubricating oils for laser printers",
+      "conceptLink": "/ec2/concept/5967494"
+    }
+  },
+  {
+    "uri": "en/4/509491",
+    "id": "509491",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for petrol engines",
+    "harm": {
+      "id": "0034864",
+      "title": "509491 - Lubricating oils for petrol engines",
+      "conceptLink": "/ec2/concept/5983355"
+    }
+  },
+  {
+    "uri": "en/4/509503",
+    "id": "509503",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for the cutting of metal pieces",
+    "harm": {
+      "id": "0005994",
+      "title": "509503 - Lubricating oils for the cutting of metal pieces",
+      "conceptLink": "/ec2/concept/5956943"
+    }
+  },
+  {
+    "uri": "en/4/509515",
+    "id": "509515",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for the shaping of metal pieces",
+    "harm": {
+      "id": "0005995",
+      "title": "509515 - Lubricating oils for the shaping of metal pieces",
+      "conceptLink": "/ec2/concept/5956944"
+    }
+  },
+  {
+    "uri": "en/4/509527",
+    "id": "509527",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for use as a cutting fluid",
+    "harm": {
+      "id": "0029084",
+      "title": "509527 - Lubricating oils for use as a cutting fluid",
+      "conceptLink": "/ec2/concept/5978094"
+    }
+  },
+  {
+    "uri": "en/4/509540",
+    "id": "509540",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils for wheels",
+    "harm": {
+      "id": "0040654",
+      "title": "509540 - Lubricating oils for wheels",
+      "conceptLink": "/ec2/concept/5988633"
+    }
+  },
+  {
+    "uri": "en/4/317828",
+    "id": "317828",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubricating oils [industrial lubricants]",
+    "harm": {
+      "id": "0037806",
+      "title": "317828 - Lubricating oils [industrial lubricants]",
+      "conceptLink": "/ec2/concept/5986023"
+    }
+  },
+  {
+    "uri": "en/4/382400",
+    "id": "382400",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubrication grease for vehicles",
+    "harm": {
+      "id": "0044507",
+      "title": "382400 - Lubrication grease for vehicles",
+      "conceptLink": "/ec2/concept/5992148"
+    }
+  },
+  {
+    "uri": "en/4/509554",
+    "id": "509554",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lubrication oils for industrial refrigeration apparatus",
+    "harm": {
+      "id": "0023358",
+      "title": "509554 - Lubrication oils for industrial refrigeration apparatus",
+      "conceptLink": "/ec2/concept/5972834"
+    }
+  },
+  {
+    "uri": "en/4/132925633",
+    "id": "132925633",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Lump charcoal",
+    "harm": {
+      "id": "0073683",
+      "title": "132925633 - Lump charcoal",
+      "conceptLink": "/ec2/concept/6009855"
+    }
+  },
+  {
+    "uri": "en/4/509568",
+    "id": "509568",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Machine cutting fluids",
+    "harm": {
+      "id": "0000207",
+      "title": "509568 - Machine cutting fluids",
+      "conceptLink": "/ec2/concept/5951681"
+    }
+  },
+  {
+    "uri": "en/4/317976",
+    "id": "317976",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Manufactured solid fuels",
+    "harm": {
+      "id": "0029085",
+      "title": "317976 - Manufactured solid fuels",
+      "conceptLink": "/ec2/concept/5978095"
+    }
+  },
+  {
+    "uri": "en/4/509579",
+    "id": "509579",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Marine greases",
+    "harm": {
+      "id": "0022658",
+      "title": "509579 - Marine greases",
+      "conceptLink": "/ec2/concept/5972193"
+    }
+  },
+  {
+    "uri": "en/4/509591",
+    "id": "509591",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Marine oils",
+    "harm": {
+      "id": "0010994",
+      "title": "509591 - Marine oils",
+      "conceptLink": "/ec2/concept/5961519"
+    }
+  },
+  {
+    "uri": "en/4/81039",
+    "id": "81039",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Masonry (Oil for the preservation of -)",
+    "harm": {
+      "id": "0001272",
+      "title": "81039 - Masonry (Oil for the preservation of -)",
+      "conceptLink": "/ec2/concept/5952631"
+    }
+  },
+  {
+    "uri": "en/4/509607",
+    "id": "509607",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Masonry preservatives in the form of oils",
+    "harm": {
+      "id": "0001272",
+      "title": "509607 - Masonry preservatives in the form of oils",
+      "conceptLink": "/ec2/concept/5952631"
+    }
+  },
+  {
+    "uri": "en/4/509619",
+    "id": "509619",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Materials for use in preserving buildings [oils]",
+    "harm": {
+      "id": "0045599",
+      "title": "509619 - Materials for use in preserving buildings [oils]",
+      "conceptLink": "/ec2/concept/5993144"
+    }
+  },
+  {
+    "uri": "en/4/509634",
+    "id": "509634",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Materials for use in protecting buildings [oils]",
+    "harm": {
+      "id": "0005240",
+      "title": "509634 - Materials for use in protecting buildings [oils]",
+      "conceptLink": "/ec2/concept/5956250"
+    }
+  },
+  {
+    "uri": "en/4/81300",
+    "id": "81300",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mazut",
+    "harm": {
+      "id": "0071836",
+      "title": "81300 - Mazut",
+      "conceptLink": "/ec2/concept/6008022"
+    }
+  },
+  {
+    "uri": "en/4/509650",
+    "id": "509650",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metal cutting compounds",
+    "harm": {
+      "id": "0010995",
+      "title": "509650 - Metal cutting compounds",
+      "conceptLink": "/ec2/concept/5961520"
+    }
+  },
+  {
+    "uri": "en/4/509665",
+    "id": "509665",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metal preservatives [oils]",
+    "harm": {
+      "id": "0007046",
+      "title": "509665 - Metal preservatives [oils]",
+      "conceptLink": "/ec2/concept/5957902"
+    }
+  },
+  {
+    "uri": "en/4/613503",
+    "id": "613503",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metalworking [cutting] fluids",
+    "harm": {
+      "id": "0045371",
+      "title": "613503 - Metalworking [cutting] fluids",
+      "conceptLink": "/ec2/concept/5992941"
+    }
+  },
+  {
+    "uri": "en/4/509682",
+    "id": "509682",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metalworking fluids in the nature of oils",
+    "harm": {
+      "id": "0005241",
+      "title": "509682 - Metalworking fluids in the nature of oils",
+      "conceptLink": "/ec2/concept/5956251"
+    }
+  },
+  {
+    "uri": "en/4/509128",
+    "id": "509128",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metalworking lubricants",
+    "harm": {
+      "id": "0010219",
+      "title": "509128 - Metalworking lubricants",
+      "conceptLink": "/ec2/concept/5960806"
+    }
+  },
+  {
+    "uri": "en/4/80458",
+    "id": "80458",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metalworking oils",
+    "harm": {
+      "id": "0023543",
+      "title": "80458 - Metalworking oils",
+      "conceptLink": "/ec2/concept/5973005"
+    }
+  },
+  {
+    "uri": "en/4/509695",
+    "id": "509695",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Metalworking products having lubricating properties",
+    "harm": {
+      "id": "0034085",
+      "title": "509695 - Metalworking products having lubricating properties",
+      "conceptLink": "/ec2/concept/5982651"
+    }
+  },
+  {
+    "uri": "en/4/119523190",
+    "id": "119523190",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Methanol fuel",
+    "harm": {
+      "id": "0060693",
+      "title": "119523190 - Methanol fuel",
+      "conceptLink": "/ec2/concept/6001014"
+    }
+  },
+  {
+    "uri": "en/4/78852",
+    "id": "78852",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Methylated spirit",
+    "harm": {
+      "id": "0043460",
+      "title": "78852 - Methylated spirit",
+      "conceptLink": "/ec2/concept/5991184"
+    }
+  },
+  {
+    "uri": "en/4/501281",
+    "id": "501281",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Methylated spirits for fuel [denaturated fuel alcohols]",
+    "harm": {
+      "id": "0040574",
+      "title": "501281 - Methylated spirits for fuel [denaturated fuel alcohols]",
+      "conceptLink": "/ec2/concept/5988554"
+    }
+  },
+  {
+    "uri": "en/4/79276",
+    "id": "79276",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral coal",
+    "harm": {
+      "id": "0060260",
+      "title": "79276 - Mineral coal",
+      "conceptLink": "/ec2/concept/5998240"
+    }
+  },
+  {
+    "uri": "en/4/80077",
+    "id": "80077",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral fuel",
+    "harm": {
+      "id": "0041209",
+      "title": "80077 - Mineral fuel",
+      "conceptLink": "/ec2/concept/5989137"
+    }
+  },
+  {
+    "uri": "en/4/905314",
+    "id": "905314",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral lubricating oils",
+    "harm": {
+      "id": "0035637",
+      "title": "905314 - Mineral lubricating oils",
+      "conceptLink": "/ec2/concept/5984056"
+    }
+  },
+  {
+    "uri": "en/4/905315",
+    "id": "905315",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral motor fuel",
+    "harm": {
+      "id": "0018308",
+      "title": "905315 - Mineral motor fuel",
+      "conceptLink": "/ec2/concept/5968214"
+    }
+  },
+  {
+    "uri": "en/4/905316",
+    "id": "905316",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral oil for use in the manufacture of cosmetics and skin care products",
+    "harm": {
+      "id": "0012497",
+      "title": "905316 - Mineral oil for use in the manufacture of cosmetics and skin care products",
+      "conceptLink": "/ec2/concept/5962899"
+    }
+  },
+  {
+    "uri": "en/4/119523195",
+    "id": "119523195",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral oil for use in the manufacture of paint",
+    "harm": {
+      "id": "0065190",
+      "title": "119523195 - Mineral oil for use in the manufacture of paint",
+      "conceptLink": "/ec2/concept/6001393"
+    }
+  },
+  {
+    "uri": "en/4/4974214",
+    "id": "4974214",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral oil for use in the manufacture of metal cutting fluids",
+    "harm": {
+      "id": "0065191",
+      "title": "4974214 - Mineral oil for use in the manufacture of metal cutting fluids",
+      "conceptLink": "/ec2/concept/6001394"
+    }
+  },
+  {
+    "uri": "en/4/509707",
+    "id": "509707",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral oils",
+    "harm": {
+      "id": "0015700",
+      "title": "509707 - Mineral oils",
+      "conceptLink": "/ec2/concept/5965833"
+    }
+  },
+  {
+    "uri": "en/4/317843",
+    "id": "317843",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral oils and greases for industrial purposes [not for fuel]",
+    "harm": {
+      "id": "0008887",
+      "title": "317843 - Mineral oils and greases for industrial purposes [not for fuel]",
+      "conceptLink": "/ec2/concept/5959584"
+    }
+  },
+  {
+    "uri": "en/4/120910893",
+    "id": "120910893",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral spirits for use as accelerants",
+    "harm": {
+      "id": "0044508",
+      "title": "120910893 - Mineral spirits for use as accelerants",
+      "conceptLink": "/ec2/concept/5992149"
+    }
+  },
+  {
+    "uri": "en/4/382416",
+    "id": "382416",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mineral spirits for use as an accelerant",
+    "harm": {
+      "id": "0044508",
+      "title": "382416 - Mineral spirits for use as an accelerant",
+      "conceptLink": "/ec2/concept/5992149"
+    }
+  },
+  {
+    "uri": "en/4/81118",
+    "id": "81118",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Moistening oil",
+    "harm": {
+      "id": "0012871",
+      "title": "81118 - Moistening oil",
+      "conceptLink": "/ec2/concept/5963240"
+    }
+  },
+  {
+    "uri": "en/4/79740",
+    "id": "79740",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor fuel",
+    "harm": {
+      "id": "0058853",
+      "title": "79740 - Motor fuel",
+      "conceptLink": "/ec2/concept/6000344"
+    }
+  },
+  {
+    "uri": "en/4/81846",
+    "id": "81846",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor fuel (Additives, non-chemical, to -)",
+    "harm": {
+      "id": "0011972",
+      "title": "81846 - Motor fuel (Additives, non-chemical, to -)",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/82184",
+    "id": "82184",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor oil",
+    "harm": {
+      "id": "0057626",
+      "title": "82184 - Motor oil",
+      "conceptLink": "/ec2/concept/5999131"
+    }
+  },
+  {
+    "uri": "en/4/82183",
+    "id": "82183",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor oils",
+    "harm": {
+      "id": "0057626",
+      "title": "82183 - Motor oils",
+      "conceptLink": "/ec2/concept/5999131"
+    }
+  },
+  {
+    "uri": "en/4/79742",
+    "id": "79742",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor spirit",
+    "harm": {
+      "id": "0044509",
+      "title": "79742 - Motor spirit",
+      "conceptLink": "/ec2/concept/5992150"
+    }
+  },
+  {
+    "uri": "en/4/79743",
+    "id": "79743",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor spirits",
+    "harm": {
+      "id": "0044509",
+      "title": "79743 - Motor spirits",
+      "conceptLink": "/ec2/concept/5992150"
+    }
+  },
+  {
+    "uri": "en/4/381879",
+    "id": "381879",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Motor vehicle lubricants",
+    "harm": {
+      "id": "0058684",
+      "title": "381879 - Motor vehicle lubricants",
+      "conceptLink": "/ec2/concept/6000177"
+    }
+  },
+  {
+    "uri": "en/4/317864",
+    "id": "317864",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mould release oils",
+    "harm": {
+      "id": "0026229",
+      "title": "317864 - Mould release oils",
+      "conceptLink": "/ec2/concept/5975474"
+    }
+  },
+  {
+    "uri": "en/4/317865",
+    "id": "317865",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Mould releasing oils",
+    "harm": {
+      "id": "0026229",
+      "title": "317865 - Mould releasing oils",
+      "conceptLink": "/ec2/concept/5975474"
+    }
+  },
+  {
+    "uri": "en/4/509737",
+    "id": "509737",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Musk scented candles",
+    "harm": {
+      "id": "0038780",
+      "title": "509737 - Musk scented candles",
+      "conceptLink": "/ec2/concept/5986916"
+    }
+  },
+  {
+    "uri": "en/4/81384",
+    "id": "81384",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Naphtha",
+    "harm": {
+      "id": "0046920",
+      "title": "81384 - Naphtha",
+      "conceptLink": "/ec2/concept/5994309"
+    }
+  },
+  {
+    "uri": "en/4/317891",
+    "id": "317891",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Natural gas",
+    "harm": {
+      "id": "0020580",
+      "title": "317891 - Natural gas",
+      "conceptLink": "/ec2/concept/5970286"
+    }
+  },
+  {
+    "uri": "en/4/81610",
+    "id": "81610",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Nightlights [candles]",
+    "harm": {
+      "id": "0034771",
+      "title": "81610 - Nightlights [candles]",
+      "conceptLink": "/ec2/concept/5983269"
+    }
+  },
+  {
+    "uri": "en/4/509781",
+    "id": "509781",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for gearbox oils",
+    "harm": {
+      "id": "0004156",
+      "title": "509781 - Non-chemical additives for gearbox oils",
+      "conceptLink": "/ec2/concept/5955248"
+    }
+  },
+  {
+    "uri": "en/4/509782",
+    "id": "509782",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for transmission oils",
+    "harm": {
+      "id": "0004156",
+      "title": "509782 - Non-chemical additives for transmission oils",
+      "conceptLink": "/ec2/concept/5955248"
+    }
+  },
+  {
+    "uri": "en/4/507083",
+    "id": "507083",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for greases",
+    "harm": {
+      "id": "0023577",
+      "title": "507083 - Non-chemical additives for greases",
+      "conceptLink": "/ec2/concept/5973037"
+    }
+  },
+  {
+    "uri": "en/4/507120",
+    "id": "507120",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for oils",
+    "harm": {
+      "id": "0023578",
+      "title": "507120 - Non-chemical additives for oils",
+      "conceptLink": "/ec2/concept/5973038"
+    }
+  },
+  {
+    "uri": "en/4/382464",
+    "id": "382464",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for engine oils",
+    "harm": {
+      "id": "0011971",
+      "title": "382464 - Non-chemical additives for engine oils",
+      "conceptLink": "/ec2/concept/5962420"
+    }
+  },
+  {
+    "uri": "en/4/81850",
+    "id": "81850",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for fuels",
+    "harm": {
+      "id": "0011972",
+      "title": "81850 - Non-chemical additives for fuels",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/81849",
+    "id": "81849",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for motor fuels",
+    "harm": {
+      "id": "0011972",
+      "title": "81849 - Non-chemical additives for motor fuels",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/507103",
+    "id": "507103",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for lubricants",
+    "harm": {
+      "id": "0035075",
+      "title": "507103 - Non-chemical additives for lubricants",
+      "conceptLink": "/ec2/concept/5983544"
+    }
+  },
+  {
+    "uri": "en/4/509765",
+    "id": "509765",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for cutting oils",
+    "harm": {
+      "id": "0038781",
+      "title": "509765 - Non-chemical additives for cutting oils",
+      "conceptLink": "/ec2/concept/5986917"
+    }
+  },
+  {
+    "uri": "en/4/509752",
+    "id": "509752",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives for coolants",
+    "harm": {
+      "id": "0009878",
+      "title": "509752 - Non-chemical additives for coolants",
+      "conceptLink": "/ec2/concept/5960495"
+    }
+  },
+  {
+    "uri": "en/4/509813",
+    "id": "509813",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives to organic working fluids to act as in-situ lubricants",
+    "harm": {
+      "id": "0004157",
+      "title": "509813 - Non-chemical additives to organic working fluids to act as in-situ lubricants",
+      "conceptLink": "/ec2/concept/5955249"
+    }
+  },
+  {
+    "uri": "en/4/509800",
+    "id": "509800",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical additives to organic working fluids to act as flow characteristic modifiers",
+    "harm": {
+      "id": "0015701",
+      "title": "509800 - Non-chemical additives to organic working fluids to act as flow characteristic modifiers",
+      "conceptLink": "/ec2/concept/5965834"
+    }
+  },
+  {
+    "uri": "en/4/131128333",
+    "id": "131128333",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non- chemical fuel additives",
+    "harm": {
+      "id": "0011972",
+      "title": "131128333 - Non- chemical fuel additives",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/382437",
+    "id": "382437",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical gasoline additives",
+    "harm": {
+      "id": "0011972",
+      "title": "382437 - Non-chemical gasoline additives",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/382463",
+    "id": "382463",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical motor oil additives",
+    "harm": {
+      "id": "0011971",
+      "title": "382463 - Non-chemical motor oil additives",
+      "conceptLink": "/ec2/concept/5962420"
+    }
+  },
+  {
+    "uri": "en/4/382438",
+    "id": "382438",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-chemical petrol additives",
+    "harm": {
+      "id": "0011972",
+      "title": "382438 - Non-chemical petrol additives",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/136901768",
+    "id": "136901768",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-mineral greases for industrial purposes [not for fuel]",
+    "harm": {
+      "id": "0060375",
+      "title": "136901768 - Non-mineral greases for industrial purposes [not for fuel]",
+      "conceptLink": "/ec2/concept/5998351"
+    }
+  },
+  {
+    "uri": "en/4/905588",
+    "id": "905588",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-mineral oils for industrial purposes [not for fuel]",
+    "harm": {
+      "id": "0040886",
+      "title": "905588 - Non-mineral oils for industrial purposes [not for fuel]",
+      "conceptLink": "/ec2/concept/5988836"
+    }
+  },
+  {
+    "uri": "en/4/79077",
+    "id": "79077",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-slipping preparations for belts",
+    "harm": {
+      "id": "0007318",
+      "title": "79077 - Non-slipping preparations for belts",
+      "conceptLink": "/ec2/concept/5958158"
+    }
+  },
+  {
+    "uri": "en/4/382487",
+    "id": "382487",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Non-soluble cutting oils",
+    "harm": {
+      "id": "0020373",
+      "title": "382487 - Non-soluble cutting oils",
+      "conceptLink": "/ec2/concept/5970102"
+    }
+  },
+  {
+    "uri": "en/4/509836",
+    "id": "509836",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil based lubricants",
+    "harm": {
+      "id": "0010987",
+      "title": "509836 - Oil based lubricants",
+      "conceptLink": "/ec2/concept/5961514"
+    }
+  },
+  {
+    "uri": "en/4/81037",
+    "id": "81037",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil for preserving masonry",
+    "harm": {
+      "id": "0001272",
+      "title": "81037 - Oil for preserving masonry",
+      "conceptLink": "/ec2/concept/5952631"
+    }
+  },
+  {
+    "uri": "en/4/81041",
+    "id": "81041",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil for the preservation of masonry",
+    "harm": {
+      "id": "0001272",
+      "title": "81041 - Oil for the preservation of masonry",
+      "conceptLink": "/ec2/concept/5952631"
+    }
+  },
+  {
+    "uri": "en/4/82027",
+    "id": "82027",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil for the preservation of leather",
+    "harm": {
+      "id": "0019994",
+      "title": "82027 - Oil for the preservation of leather",
+      "conceptLink": "/ec2/concept/5969755"
+    }
+  },
+  {
+    "uri": "en/4/81042",
+    "id": "81042",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil for use in the preservation of masonry",
+    "harm": {
+      "id": "0001272",
+      "title": "81042 - Oil for use in the preservation of masonry",
+      "conceptLink": "/ec2/concept/5952631"
+    }
+  },
+  {
+    "uri": "en/4/80772",
+    "id": "80772",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Oil-gas",
+    "harm": {
+      "id": "0071834",
+      "title": "80772 - Oil-gas",
+      "conceptLink": "/ec2/concept/6008020"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/729540",
+    "id": "729540",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas fuelled central heating installations",
+    "harm": {
+      "id": "0002290",
+      "title": "729540 - Gas fuelled central heating installations",
+      "conceptLink": "/ec2/concept/5953548"
+    }
+  },
+  {
+    "uri": "en/11/119532858",
+    "id": "119532858",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas generating furnaces [for industrial purposes]",
+    "harm": {
+      "id": "0055958",
+      "title": "119532858 - Gas generating furnaces [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5997329"
+    }
+  },
+  {
+    "uri": "en/11/407998",
+    "id": "407998",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas grills",
+    "harm": {
+      "id": "0036396",
+      "title": "407998 - Gas grills",
+      "conceptLink": "/ec2/concept/5984745"
+    }
+  },
+  {
+    "uri": "en/11/729552",
+    "id": "729552",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas heat generators",
+    "harm": {
+      "id": "0036995",
+      "title": "729552 - Gas heat generators",
+      "conceptLink": "/ec2/concept/5985293"
+    }
+  },
+  {
+    "uri": "en/11/177636",
+    "id": "177636",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas lamps",
+    "harm": {
+      "id": "0035717",
+      "title": "177636 - Gas lamps",
+      "conceptLink": "/ec2/concept/5984128"
+    }
+  },
+  {
+    "uri": "en/11/233003993",
+    "id": "233003993",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas laundry drying machines",
+    "harm": {
+      "id": "0073091",
+      "title": "233003993 - Gas laundry drying machines",
+      "conceptLink": "/ec2/concept/6009264"
+    }
+  },
+  {
+    "uri": "en/11/170740",
+    "id": "170740",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas lighters",
+    "harm": {
+      "id": "0047270",
+      "title": "170740 - Gas lighters",
+      "conceptLink": "/ec2/concept/5994630"
+    }
+  },
+  {
+    "uri": "en/11/177637",
+    "id": "177637",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas lights",
+    "harm": {
+      "id": "0035717",
+      "title": "177637 - Gas lights",
+      "conceptLink": "/ec2/concept/5984128"
+    }
+  },
+  {
+    "uri": "en/11/729306",
+    "id": "729306",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated apparatus for cooking",
+    "harm": {
+      "id": "0017416",
+      "title": "729306 - Gas operated apparatus for cooking",
+      "conceptLink": "/ec2/concept/5967399"
+    }
+  },
+  {
+    "uri": "en/11/729443",
+    "id": "729443",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated apparatus for heating",
+    "harm": {
+      "id": "0047146",
+      "title": "729443 - Gas operated apparatus for heating",
+      "conceptLink": "/ec2/concept/5994514"
+    }
+  },
+  {
+    "uri": "en/11/233107752",
+    "id": "233107752",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated apparatus used in boiling",
+    "harm": {
+      "id": "0072060",
+      "title": "233107752 - Gas operated apparatus used in boiling",
+      "conceptLink": "/ec2/concept/6008243"
+    }
+  },
+  {
+    "uri": "en/11/232623242",
+    "id": "232623242",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated devices used in drying",
+    "harm": {
+      "id": "0072059",
+      "title": "232623242 - Gas operated devices used in drying",
+      "conceptLink": "/ec2/concept/6008242"
+    }
+  },
+  {
+    "uri": "en/11/232623243",
+    "id": "232623243",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated devices used in boiling",
+    "harm": {
+      "id": "0072060",
+      "title": "232623243 - Gas operated devices used in boiling",
+      "conceptLink": "/ec2/concept/6008243"
+    }
+  },
+  {
+    "uri": "en/11/232623241",
+    "id": "232623241",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated devices used in cooling",
+    "harm": {
+      "id": "0072058",
+      "title": "232623241 - Gas operated devices used in cooling",
+      "conceptLink": "/ec2/concept/6008241"
+    }
+  },
+  {
+    "uri": "en/11/233107753",
+    "id": "233107753",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated machines used in drying",
+    "harm": {
+      "id": "0072059",
+      "title": "233107753 - Gas operated machines used in drying",
+      "conceptLink": "/ec2/concept/6008242"
+    }
+  },
+  {
+    "uri": "en/11/233107754",
+    "id": "233107754",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas operated machines used in boiling",
+    "harm": {
+      "id": "0072060",
+      "title": "233107754 - Gas operated machines used in boiling",
+      "conceptLink": "/ec2/concept/6008243"
+    }
+  },
+  {
+    "uri": "en/11/729411",
+    "id": "729411",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas ovens",
+    "harm": {
+      "id": "0046339",
+      "title": "729411 - Gas ovens",
+      "conceptLink": "/ec2/concept/5993796"
+    }
+  },
+  {
+    "uri": "en/11/180170",
+    "id": "180170",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas pipes (Regulating and safety accessories for -)",
+    "harm": {
+      "id": "0011700",
+      "title": "180170 - Gas pipes (Regulating and safety accessories for -)",
+      "conceptLink": "/ec2/concept/5962164"
+    }
+  },
+  {
+    "uri": "en/11/129928960",
+    "id": "129928960",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas-powered griddles [cooking appliances]",
+    "harm": {
+      "id": "0074062",
+      "title": "129928960 - Gas-powered griddles [cooking appliances]",
+      "conceptLink": "/ec2/concept/6011298"
+    }
+  },
+  {
+    "uri": "en/11/729567",
+    "id": "729567",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas pre-heating apparatus for industrial use",
+    "harm": {
+      "id": "0031137",
+      "title": "729567 - Gas pre-heating apparatus for industrial use",
+      "conceptLink": "/ec2/concept/5979971"
+    }
+  },
+  {
+    "uri": "en/11/176675",
+    "id": "176675",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas purification apparatus",
+    "harm": {
+      "id": "0000092",
+      "title": "176675 - Gas purification apparatus",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/60953829",
+    "id": "60953829",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas purification installations",
+    "harm": {
+      "id": "0070959",
+      "title": "60953829 - Gas purification installations",
+      "conceptLink": "/ec2/concept/6007151"
+    }
+  },
+  {
+    "uri": "en/11/78012218",
+    "id": "78012218",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas purification machines",
+    "harm": {
+      "id": "0000092",
+      "title": "78012218 - Gas purification machines",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/176678",
+    "id": "176678",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas purifying installations",
+    "harm": {
+      "id": "0000092",
+      "title": "176678 - Gas purifying installations",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/175375",
+    "id": "175375",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas ranges",
+    "harm": {
+      "id": "0046308",
+      "title": "175375 - Gas ranges",
+      "conceptLink": "/ec2/concept/5993768"
+    }
+  },
+  {
+    "uri": "en/11/729580",
+    "id": "729580",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas recovery apparatus",
+    "harm": {
+      "id": "0032798",
+      "title": "729580 - Gas recovery apparatus",
+      "conceptLink": "/ec2/concept/5981471"
+    }
+  },
+  {
+    "uri": "en/11/335638",
+    "id": "335638",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas refrigerators",
+    "harm": {
+      "id": "0021404",
+      "title": "335638 - Gas refrigerators",
+      "conceptLink": "/ec2/concept/5971043"
+    }
+  },
+  {
+    "uri": "en/11/408031",
+    "id": "408031",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas regulators",
+    "harm": {
+      "id": "0001706",
+      "title": "408031 - Gas regulators",
+      "conceptLink": "/ec2/concept/5953020"
+    }
+  },
+  {
+    "uri": "en/11/177483",
+    "id": "177483",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas scrubbers [parts of gas installations]",
+    "harm": {
+      "id": "0020085",
+      "title": "177483 - Gas scrubbers [parts of gas installations]",
+      "conceptLink": "/ec2/concept/5969838"
+    }
+  },
+  {
+    "uri": "en/11/176671",
+    "id": "176671",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas scrubbing apparatus",
+    "harm": {
+      "id": "0000092",
+      "title": "176671 - Gas scrubbing apparatus",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/729594",
+    "id": "729594",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas scrubbing installations",
+    "harm": {
+      "id": "0000092",
+      "title": "729594 - Gas scrubbing installations",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/729444",
+    "id": "729444",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas space heaters",
+    "harm": {
+      "id": "0007998",
+      "title": "729444 - Gas space heaters",
+      "conceptLink": "/ec2/concept/5958778"
+    }
+  },
+  {
+    "uri": "en/11/177524",
+    "id": "177524",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas stoves",
+    "harm": {
+      "id": "0005862",
+      "title": "177524 - Gas stoves",
+      "conceptLink": "/ec2/concept/5956819"
+    }
+  },
+  {
+    "uri": "en/11/729607",
+    "id": "729607",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas stoves employing flames in ribbon-like form",
+    "harm": {
+      "id": "0021405",
+      "title": "729607 - Gas stoves employing flames in ribbon-like form",
+      "conceptLink": "/ec2/concept/5971044"
+    }
+  },
+  {
+    "uri": "en/11/119532872",
+    "id": "119532872",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas stoves [space-heaters for household use]",
+    "harm": {
+      "id": "0055960",
+      "title": "119532872 - Gas stoves [space-heaters for household use]",
+      "conceptLink": "/ec2/concept/5997330"
+    }
+  },
+  {
+    "uri": "en/11/729620",
+    "id": "729620",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas stoves utilising flames in rotating form",
+    "harm": {
+      "id": "0027045",
+      "title": "729620 - Gas stoves utilising flames in rotating form",
+      "conceptLink": "/ec2/concept/5976204"
+    }
+  },
+  {
+    "uri": "en/11/335663",
+    "id": "335663",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas water heaters",
+    "harm": {
+      "id": "0025399",
+      "title": "335663 - Gas water heaters",
+      "conceptLink": "/ec2/concept/5974711"
+    }
+  },
+  {
+    "uri": "en/11/119532875",
+    "id": "119532875",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas water heaters [for household use]",
+    "harm": {
+      "id": "0055961",
+      "title": "119532875 - Gas water heaters [for household use]",
+      "conceptLink": "/ec2/concept/5997331"
+    }
+  },
+  {
+    "uri": "en/11/2548655",
+    "id": "2548655",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gas water heaters for household use",
+    "harm": {
+      "id": "0066279",
+      "title": "2548655 - Gas water heaters for household use",
+      "conceptLink": "/ec2/concept/6002482"
+    }
+  },
+  {
+    "uri": "en/11/170030",
+    "id": "170030",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Generators (Acetylene -)",
+    "harm": {
+      "id": "0011406",
+      "title": "170030 - Generators (Acetylene -)",
+      "conceptLink": "/ec2/concept/5961895"
+    }
+  },
+  {
+    "uri": "en/11/173067",
+    "id": "173067",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Germicidal burners",
+    "harm": {
+      "id": "0017005",
+      "title": "173067 - Germicidal burners",
+      "conceptLink": "/ec2/concept/5967032"
+    }
+  },
+  {
+    "uri": "en/11/6006495",
+    "id": "6006495",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Germicidal lamps",
+    "harm": {
+      "id": "0066217",
+      "title": "6006495 - Germicidal lamps",
+      "conceptLink": "/ec2/concept/6002420"
+    }
+  },
+  {
+    "uri": "en/11/177703",
+    "id": "177703",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Germicidal lamps for purifying the air",
+    "harm": {
+      "id": "0032799",
+      "title": "177703 - Germicidal lamps for purifying the air",
+      "conceptLink": "/ec2/concept/5981472"
+    }
+  },
+  {
+    "uri": "en/11/177704",
+    "id": "177704",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Germicidal lamps for purifying air",
+    "harm": {
+      "id": "0032799",
+      "title": "177704 - Germicidal lamps for purifying air",
+      "conceptLink": "/ec2/concept/5981472"
+    }
+  },
+  {
+    "uri": "en/11/729633",
+    "id": "729633",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass bending furnaces",
+    "harm": {
+      "id": "0009697",
+      "title": "729633 - Glass bending furnaces",
+      "conceptLink": "/ec2/concept/5960336"
+    }
+  },
+  {
+    "uri": "en/11/729646",
+    "id": "729646",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass covers being fittings for lamps for sun lamps",
+    "harm": {
+      "id": "0009698",
+      "title": "729646 - Glass covers being fittings for lamps for sun lamps",
+      "conceptLink": "/ec2/concept/5960337"
+    }
+  },
+  {
+    "uri": "en/11/729658",
+    "id": "729658",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass covers for lamps",
+    "harm": {
+      "id": "0021406",
+      "title": "729658 - Glass covers for lamps",
+      "conceptLink": "/ec2/concept/5971045"
+    }
+  },
+  {
+    "uri": "en/11/729699",
+    "id": "729699",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass making furnaces",
+    "harm": {
+      "id": "0015518",
+      "title": "729699 - Glass making furnaces",
+      "conceptLink": "/ec2/concept/5965663"
+    }
+  },
+  {
+    "uri": "en/11/408048",
+    "id": "408048",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass plates [parts of ovens]",
+    "harm": {
+      "id": "0007444",
+      "title": "408048 - Glass plates [parts of ovens]",
+      "conceptLink": "/ec2/concept/5958272"
+    }
+  },
+  {
+    "uri": "en/11/408063",
+    "id": "408063",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glass plates[parts of stoves]",
+    "harm": {
+      "id": "0007444",
+      "title": "408063 - Glass plates[parts of stoves]",
+      "conceptLink": "/ec2/concept/5958272"
+    }
+  },
+  {
+    "uri": "en/11/729711",
+    "id": "729711",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glazed shower cubicles",
+    "harm": {
+      "id": "0038599",
+      "title": "729711 - Glazed shower cubicles",
+      "conceptLink": "/ec2/concept/5986755"
+    }
+  },
+  {
+    "uri": "en/11/25909523",
+    "id": "25909523",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Globes for lamps",
+    "harm": {
+      "id": "0009797",
+      "title": "25909523 - Globes for lamps",
+      "conceptLink": "/ec2/concept/5960424"
+    }
+  },
+  {
+    "uri": "en/11/136318167",
+    "id": "136318167",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glow sticks",
+    "harm": {
+      "id": "0050824",
+      "title": "136318167 - Glow sticks",
+      "conceptLink": "/ec2/concept/5996188"
+    }
+  },
+  {
+    "uri": "en/11/175006",
+    "id": "175006",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Glue-heating appliances",
+    "harm": {
+      "id": "0043120",
+      "title": "175006 - Glue-heating appliances",
+      "conceptLink": "/ec2/concept/5990871"
+    }
+  },
+  {
+    "uri": "en/11/729728",
+    "id": "729728",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Graphite bar furnaces",
+    "harm": {
+      "id": "0038600",
+      "title": "729728 - Graphite bar furnaces",
+      "conceptLink": "/ec2/concept/5986756"
+    }
+  },
+  {
+    "uri": "en/11/177870",
+    "id": "177870",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grates",
+    "harm": {
+      "id": "0015519",
+      "title": "177870 - Grates",
+      "conceptLink": "/ec2/concept/5965664"
+    }
+  },
+  {
+    "uri": "en/11/177154",
+    "id": "177154",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grates (Furnace -)",
+    "harm": {
+      "id": "0008382",
+      "title": "177154 - Grates (Furnace -)",
+      "conceptLink": "/ec2/concept/5959124"
+    }
+  },
+  {
+    "uri": "en/11/729767",
+    "id": "729767",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Gravimetric dry flow feeders for water treatment",
+    "harm": {
+      "id": "0038601",
+      "title": "729767 - Gravimetric dry flow feeders for water treatment",
+      "conceptLink": "/ec2/concept/5986757"
+    }
+  },
+  {
+    "uri": "en/11/729779",
+    "id": "729779",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grease filters [parts of extractor fans]",
+    "harm": {
+      "id": "0044377",
+      "title": "729779 - Grease filters [parts of extractor fans]",
+      "conceptLink": "/ec2/concept/5992024"
+    }
+  },
+  {
+    "uri": "en/11/177933",
+    "id": "177933",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Griddles [cooking appliances]",
+    "harm": {
+      "id": "0047573",
+      "title": "177933 - Griddles [cooking appliances]",
+      "conceptLink": "/ec2/concept/5994861"
+    }
+  },
+  {
+    "uri": "en/11/120902238",
+    "id": "120902238",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Griddles, electric",
+    "harm": {
+      "id": "0057034",
+      "title": "120902238 - Griddles, electric",
+      "conceptLink": "/ec2/concept/5998661"
+    }
+  },
+  {
+    "uri": "en/11/729795",
+    "id": "729795",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Griddles [electric cooking utensils]",
+    "harm": {
+      "id": "0057034",
+      "title": "729795 - Griddles [electric cooking utensils]",
+      "conceptLink": "/ec2/concept/5998661"
+    }
+  },
+  {
+    "uri": "en/11/729809",
+    "id": "729809",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grill heating plates",
+    "harm": {
+      "id": "0015998",
+      "title": "729809 - Grill heating plates",
+      "conceptLink": "/ec2/concept/5966117"
+    }
+  },
+  {
+    "uri": "en/11/120893869",
+    "id": "120893869",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grill lighters",
+    "harm": {
+      "id": "0070966",
+      "title": "120893869 - Grill lighters",
+      "conceptLink": "/ec2/concept/6007158"
+    }
+  },
+  {
+    "uri": "en/11/137910231",
+    "id": "137910231",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grill lighters [apparatus]",
+    "harm": {
+      "id": "0070966",
+      "title": "137910231 - Grill lighters [apparatus]",
+      "conceptLink": "/ec2/concept/6007158"
+    }
+  },
+  {
+    "uri": "en/11/490271",
+    "id": "490271",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grills",
+    "harm": {
+      "id": "0047573",
+      "title": "490271 - Grills",
+      "conceptLink": "/ec2/concept/5994861"
+    }
+  },
+  {
+    "uri": "en/11/177932",
+    "id": "177932",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grills [cooking appliances]",
+    "harm": {
+      "id": "0047573",
+      "title": "177932 - Grills [cooking appliances]",
+      "conceptLink": "/ec2/concept/5994861"
+    }
+  },
+  {
+    "uri": "en/11/181025",
+    "id": "181025",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Grills for barbecuing",
+    "harm": {
+      "id": "0047330",
+      "title": "181025 - Grills for barbecuing",
+      "conceptLink": "/ec2/concept/5994676"
+    }
+  },
+  {
+    "uri": "en/11/174858",
+    "id": "174858",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair driers",
+    "harm": {
+      "id": "0040775",
+      "title": "174858 - Hair driers",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/174856",
+    "id": "174856",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair driers [dryers]",
+    "harm": {
+      "id": "0040775",
+      "title": "174856 - Hair driers [dryers]",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/120902503",
+    "id": "120902503",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair driers for use in beauty salons",
+    "harm": {
+      "id": "0070963",
+      "title": "120902503 - Hair driers for use in beauty salons",
+      "conceptLink": "/ec2/concept/6007155"
+    }
+  },
+  {
+    "uri": "en/11/174860",
+    "id": "174860",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair dryers",
+    "harm": {
+      "id": "0040775",
+      "title": "174860 - Hair dryers",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/119532884",
+    "id": "119532884",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair dryers [for household purposes]",
+    "harm": {
+      "id": "0055962",
+      "title": "119532884 - Hair dryers [for household purposes]",
+      "conceptLink": "/ec2/concept/5997332"
+    }
+  },
+  {
+    "uri": "en/11/174862",
+    "id": "174862",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair drying apparatus",
+    "harm": {
+      "id": "0040775",
+      "title": "174862 - Hair drying apparatus",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/174863",
+    "id": "174863",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair drying appliances",
+    "harm": {
+      "id": "0040775",
+      "title": "174863 - Hair drying appliances",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/17703945",
+    "id": "17703945",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair drying machines for beauty salon use",
+    "harm": {
+      "id": "0055963",
+      "title": "17703945 - Hair drying machines for beauty salon use",
+      "conceptLink": "/ec2/concept/5997333"
+    }
+  },
+  {
+    "uri": "en/11/63942683",
+    "id": "63942683",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair steamers for beauty salon use",
+    "harm": {
+      "id": "0055964",
+      "title": "63942683 - Hair steamers for beauty salon use",
+      "conceptLink": "/ec2/concept/5997334"
+    }
+  },
+  {
+    "uri": "en/11/120902496",
+    "id": "120902496",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hair steamers for use in beauty salons",
+    "harm": {
+      "id": "0055964",
+      "title": "120902496 - Hair steamers for use in beauty salons",
+      "conceptLink": "/ec2/concept/5997334"
+    }
+  },
+  {
+    "uri": "en/11/174866",
+    "id": "174866",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hairdryers",
+    "harm": {
+      "id": "0040775",
+      "title": "174866 - Hairdryers",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/7989566",
+    "id": "7989566",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Halogen heaters",
+    "harm": {
+      "id": "0072996",
+      "title": "7989566 - Halogen heaters",
+      "conceptLink": "/ec2/concept/6009171"
+    }
+  },
+  {
+    "uri": "en/11/408084",
+    "id": "408084",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Halogen lamps",
+    "harm": {
+      "id": "0057995",
+      "title": "408084 - Halogen lamps",
+      "conceptLink": "/ec2/concept/5999499"
+    }
+  },
+  {
+    "uri": "en/11/729824",
+    "id": "729824",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Halogen lamps for incorporation into electric cookers",
+    "harm": {
+      "id": "0004477",
+      "title": "729824 - Halogen lamps for incorporation into electric cookers",
+      "conceptLink": "/ec2/concept/5955550"
+    }
+  },
+  {
+    "uri": "en/11/408082",
+    "id": "408082",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Halogen light bulb",
+    "harm": {
+      "id": "0057996",
+      "title": "408082 - Halogen light bulb",
+      "conceptLink": "/ec2/concept/5999500"
+    }
+  },
+  {
+    "uri": "en/11/408083",
+    "id": "408083",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Halogen light bulbs",
+    "harm": {
+      "id": "0057996",
+      "title": "408083 - Halogen light bulbs",
+      "conceptLink": "/ec2/concept/5999500"
+    }
+  },
+  {
+    "uri": "en/11/178490",
+    "id": "178490",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand basins",
+    "harm": {
+      "id": "0023904",
+      "title": "178490 - Hand basins",
+      "conceptLink": "/ec2/concept/5973334"
+    }
+  },
+  {
+    "uri": "en/11/408113",
+    "id": "408113",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand driers",
+    "harm": {
+      "id": "0020780",
+      "title": "408113 - Hand driers",
+      "conceptLink": "/ec2/concept/5970478"
+    }
+  },
+  {
+    "uri": "en/11/408112",
+    "id": "408112",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand dryers",
+    "harm": {
+      "id": "0020780",
+      "title": "408112 - Hand dryers",
+      "conceptLink": "/ec2/concept/5970478"
+    }
+  },
+  {
+    "uri": "en/11/72274677",
+    "id": "72274677",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus",
+    "harm": {
+      "id": "0020780",
+      "title": "72274677 - Hand drying apparatus",
+      "conceptLink": "/ec2/concept/5970478"
+    }
+  },
+  {
+    "uri": "en/11/179508",
+    "id": "179508",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus for washrooms",
+    "harm": {
+      "id": "0058545",
+      "title": "179508 - Hand drying apparatus for washrooms",
+      "conceptLink": "/ec2/concept/6000038"
+    }
+  },
+  {
+    "uri": "en/11/729836",
+    "id": "729836",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus [heat drying]",
+    "harm": {
+      "id": "0027535",
+      "title": "729836 - Hand drying apparatus [heat drying]",
+      "conceptLink": "/ec2/concept/5976654"
+    }
+  },
+  {
+    "uri": "en/11/729861",
+    "id": "729861",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus incorporating fans",
+    "harm": {
+      "id": "0027536",
+      "title": "729861 - Hand drying apparatus incorporating fans",
+      "conceptLink": "/ec2/concept/5976655"
+    }
+  },
+  {
+    "uri": "en/11/729877",
+    "id": "729877",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus incorporating impellers",
+    "harm": {
+      "id": "0028843",
+      "title": "729877 - Hand drying apparatus incorporating impellers",
+      "conceptLink": "/ec2/concept/5977871"
+    }
+  },
+  {
+    "uri": "en/11/729849",
+    "id": "729849",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand drying apparatus incorporating blowers",
+    "harm": {
+      "id": "0039118",
+      "title": "729849 - Hand drying apparatus incorporating blowers",
+      "conceptLink": "/ec2/concept/5987219"
+    }
+  },
+  {
+    "uri": "en/11/408138",
+    "id": "408138",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand-held electric hair dryers",
+    "harm": {
+      "id": "0003328",
+      "title": "408138 - Hand-held electric hair dryers",
+      "conceptLink": "/ec2/concept/5954495"
+    }
+  },
+  {
+    "uri": "en/11/408139",
+    "id": "408139",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand held electric hairdryers",
+    "harm": {
+      "id": "0003328",
+      "title": "408139 - Hand held electric hairdryers",
+      "conceptLink": "/ec2/concept/5954495"
+    }
+  },
+  {
+    "uri": "en/11/729903",
+    "id": "729903",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand held hair dryers",
+    "harm": {
+      "id": "0011498",
+      "title": "729903 - Hand held hair dryers",
+      "conceptLink": "/ec2/concept/5961977"
+    }
+  },
+  {
+    "uri": "en/11/729917",
+    "id": "729917",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand held portable water purification apparatus",
+    "harm": {
+      "id": "0023159",
+      "title": "729917 - Hand held portable water purification apparatus",
+      "conceptLink": "/ec2/concept/5972647"
+    }
+  },
+  {
+    "uri": "en/11/335693",
+    "id": "335693",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand held shower heads",
+    "harm": {
+      "id": "0020781",
+      "title": "335693 - Hand held shower heads",
+      "conceptLink": "/ec2/concept/5970479"
+    }
+  },
+  {
+    "uri": "en/11/335694",
+    "id": "335694",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand held showers",
+    "harm": {
+      "id": "0020781",
+      "title": "335694 - Hand held showers",
+      "conceptLink": "/ec2/concept/5970479"
+    }
+  },
+  {
+    "uri": "en/11/904288",
+    "id": "904288",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Hand-held showers",
+    "harm": {
+      "id": "0020781",
+      "title": "904288 - Hand-held showers",
+      "conceptLink": "/ec2/concept/5970479"
+    }
+  }
+]

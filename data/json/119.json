@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/6/124746926",
+    "id": "124746926",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Door surrounds (Metal -)",
+    "harm": {
+      "id": "0057651",
+      "title": "124746926 - Door surrounds (Metal -)",
+      "conceptLink": "/ec2/concept/5999155"
+    }
+  },
+  {
+    "uri": "en/6/132805248",
+    "id": "132805248",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doorcases of metal",
+    "harm": {
+      "id": "0057652",
+      "title": "132805248 - Doorcases of metal",
+      "conceptLink": "/ec2/concept/5999156"
+    }
+  },
+  {
+    "uri": "en/6/136010968",
+    "id": "136010968",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doorplates of metal",
+    "harm": {
+      "id": "0055155",
+      "title": "136010968 - Doorplates of metal",
+      "conceptLink": "/ec2/concept/5996592"
+    }
+  },
+  {
+    "uri": "en/6/884549",
+    "id": "884549",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors and windows of metal",
+    "harm": {
+      "id": "0003579",
+      "title": "884549 - Doors and windows of metal",
+      "conceptLink": "/ec2/concept/5954727"
+    }
+  },
+  {
+    "uri": "en/6/131117373",
+    "id": "131117373",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors, gates, windows and window coverings of metal",
+    "harm": {
+      "id": "0047674",
+      "title": "131117373 - Doors, gates, windows and window coverings of metal",
+      "conceptLink": "/ec2/concept/5994949"
+    }
+  },
+  {
+    "uri": "en/6/97891",
+    "id": "97891",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors of metal",
+    "harm": {
+      "id": "0036714",
+      "title": "97891 - Doors of metal",
+      "conceptLink": "/ec2/concept/5985038"
+    }
+  },
+  {
+    "uri": "en/6/515149",
+    "id": "515149",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors of metal for buildings",
+    "harm": {
+      "id": "0009682",
+      "title": "515149 - Doors of metal for buildings",
+      "conceptLink": "/ec2/concept/5960323"
+    }
+  },
+  {
+    "uri": "en/6/319032",
+    "id": "319032",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors of metal for indoor use",
+    "harm": {
+      "id": "0031280",
+      "title": "319032 - Doors of metal for indoor use",
+      "conceptLink": "/ec2/concept/5980102"
+    }
+  },
+  {
+    "uri": "en/6/515164",
+    "id": "515164",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Doors of metal for providing access to buildings by pets",
+    "harm": {
+      "id": "0027039",
+      "title": "515164 - Doors of metal for providing access to buildings by pets",
+      "conceptLink": "/ec2/concept/5976200"
+    }
+  },
+  {
+    "uri": "en/6/124746968",
+    "id": "124746968",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Dormer vents (Metal -)",
+    "harm": {
+      "id": "0021395",
+      "title": "124746968 - Dormer vents (Metal -)",
+      "conceptLink": "/ec2/concept/5971036"
+    }
+  },
+  {
+    "uri": "en/6/124746981",
+    "id": "124746981",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Double glazed units (Metal -)",
+    "harm": {
+      "id": "0019528",
+      "title": "124746981 - Double glazed units (Metal -)",
+      "conceptLink": "/ec2/concept/5969335"
+    }
+  },
+  {
+    "uri": "en/6/124747014",
+    "id": "124747014",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Double glazing panels (Metal -) incorporating insulating glass",
+    "harm": {
+      "id": "0003929",
+      "title": "124747014 - Double glazing panels (Metal -) incorporating insulating glass",
+      "conceptLink": "/ec2/concept/5955046"
+    }
+  },
+  {
+    "uri": "en/6/124746999",
+    "id": "124746999",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Double glazing panels (Metal -)",
+    "harm": {
+      "id": "0038588",
+      "title": "124746999 - Double glazing panels (Metal -)",
+      "conceptLink": "/ec2/concept/5986745"
+    }
+  },
+  {
+    "uri": "en/6/124746982",
+    "id": "124746982",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Double glazing units (Metal -)",
+    "harm": {
+      "id": "0019528",
+      "title": "124746982 - Double glazing units (Metal -)",
+      "conceptLink": "/ec2/concept/5969335"
+    }
+  },
+  {
+    "uri": "en/6/124747025",
+    "id": "124747025",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Double skinned (Metal -) heat insulated facade constructions",
+    "harm": {
+      "id": "0019529",
+      "title": "124747025 - Double skinned (Metal -) heat insulated facade constructions",
+      "conceptLink": "/ec2/concept/5969336"
+    }
+  },
+  {
+    "uri": "en/6/515262",
+    "id": "515262",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Dowel rods of metal",
+    "harm": {
+      "id": "0019530",
+      "title": "515262 - Dowel rods of metal",
+      "conceptLink": "/ec2/concept/5969337"
+    }
+  },
+  {
+    "uri": "en/6/119695774",
+    "id": "119695774",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Dowels of metal",
+    "harm": {
+      "id": "0058908",
+      "title": "119695774 - Dowels of metal",
+      "conceptLink": "/ec2/concept/6000399"
+    }
+  },
+  {
+    "uri": "en/6/515284",
+    "id": "515284",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Downpoles of metal for the distribution of cables",
+    "harm": {
+      "id": "0002117",
+      "title": "515284 - Downpoles of metal for the distribution of cables",
+      "conceptLink": "/ec2/concept/5953392"
+    }
+  },
+  {
+    "uri": "en/6/515297",
+    "id": "515297",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Downpoles of metal for the ducting of wires",
+    "harm": {
+      "id": "0002118",
+      "title": "515297 - Downpoles of metal for the ducting of wires",
+      "conceptLink": "/ec2/concept/5953393"
+    }
+  },
+  {
+    "uri": "en/6/515273",
+    "id": "515273",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Downpoles of metal for the accessing of cables",
+    "harm": {
+      "id": "0019531",
+      "title": "515273 - Downpoles of metal for the accessing of cables",
+      "conceptLink": "/ec2/concept/5969338"
+    }
+  },
+  {
+    "uri": "en/6/515324",
+    "id": "515324",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain channels of metal",
+    "harm": {
+      "id": "0002849",
+      "title": "515324 - Drain channels of metal",
+      "conceptLink": "/ec2/concept/5954052"
+    }
+  },
+  {
+    "uri": "en/6/515379",
+    "id": "515379",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain covers of metal",
+    "harm": {
+      "id": "0007835",
+      "title": "515379 - Drain covers of metal",
+      "conceptLink": "/ec2/concept/5958629"
+    }
+  },
+  {
+    "uri": "en/6/515326",
+    "id": "515326",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain gullies of metal",
+    "harm": {
+      "id": "0002849",
+      "title": "515326 - Drain gullies of metal",
+      "conceptLink": "/ec2/concept/5954052"
+    }
+  },
+  {
+    "uri": "en/6/98409",
+    "id": "98409",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain pipes made of metal",
+    "harm": {
+      "id": "0030977",
+      "title": "98409 - Drain pipes made of metal",
+      "conceptLink": "/ec2/concept/5979825"
+    }
+  },
+  {
+    "uri": "en/6/98408",
+    "id": "98408",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain pipes of metal",
+    "harm": {
+      "id": "0030977",
+      "title": "98408 - Drain pipes of metal",
+      "conceptLink": "/ec2/concept/5979825"
+    }
+  },
+  {
+    "uri": "en/6/512676",
+    "id": "512676",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain plugs of metal",
+    "harm": {
+      "id": "0046352",
+      "title": "512676 - Drain plugs of metal",
+      "conceptLink": "/ec2/concept/5993809"
+    }
+  },
+  {
+    "uri": "en/6/63399910",
+    "id": "63399910",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain traps of metal",
+    "harm": {
+      "id": "0057011",
+      "title": "63399910 - Drain traps of metal",
+      "conceptLink": "/ec2/concept/5998640"
+    }
+  },
+  {
+    "uri": "en/6/107628",
+    "id": "107628",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drain traps [valves] of metal",
+    "harm": {
+      "id": "0057011",
+      "title": "107628 - Drain traps [valves] of metal",
+      "conceptLink": "/ec2/concept/5998640"
+    }
+  },
+  {
+    "uri": "en/6/515325",
+    "id": "515325",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drainage channels of metal",
+    "harm": {
+      "id": "0002849",
+      "title": "515325 - Drainage channels of metal",
+      "conceptLink": "/ec2/concept/5954052"
+    }
+  },
+  {
+    "uri": "en/6/515394",
+    "id": "515394",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drainage courses of metal",
+    "harm": {
+      "id": "0019532",
+      "title": "515394 - Drainage courses of metal",
+      "conceptLink": "/ec2/concept/5969339"
+    }
+  },
+  {
+    "uri": "en/6/515408",
+    "id": "515408",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drainage pipes of metal",
+    "harm": {
+      "id": "0030977",
+      "title": "515408 - Drainage pipes of metal",
+      "conceptLink": "/ec2/concept/5979825"
+    }
+  },
+  {
+    "uri": "en/6/515423",
+    "id": "515423",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drainage plates of metal",
+    "harm": {
+      "id": "0013666",
+      "title": "515423 - Drainage plates of metal",
+      "conceptLink": "/ec2/concept/5963955"
+    }
+  },
+  {
+    "uri": "en/6/515439",
+    "id": "515439",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drainage profiles of metal",
+    "harm": {
+      "id": "0002119",
+      "title": "515439 - Drainage profiles of metal",
+      "conceptLink": "/ec2/concept/5953394"
+    }
+  },
+  {
+    "uri": "en/6/515452",
+    "id": "515452",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drains made of metal",
+    "harm": {
+      "id": "0042559",
+      "title": "515452 - Drains made of metal",
+      "conceptLink": "/ec2/concept/5990369"
+    }
+  },
+  {
+    "uri": "en/6/124747216",
+    "id": "124747216",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Draw-off valves (metal -) [other than parts of machines]",
+    "harm": {
+      "id": "0025233",
+      "title": "124747216 - Draw-off valves (metal -) [other than parts of machines]",
+      "conceptLink": "/ec2/concept/5974560"
+    }
+  },
+  {
+    "uri": "en/6/515484",
+    "id": "515484",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer gliders of metal",
+    "harm": {
+      "id": "0034875",
+      "title": "515484 - Drawer gliders of metal",
+      "conceptLink": "/ec2/concept/5983365"
+    }
+  },
+  {
+    "uri": "en/6/515512",
+    "id": "515512",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer guides of metal",
+    "harm": {
+      "id": "0034875",
+      "title": "515512 - Drawer guides of metal",
+      "conceptLink": "/ec2/concept/5983365"
+    }
+  },
+  {
+    "uri": "en/6/515523",
+    "id": "515523",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer handles of metal",
+    "harm": {
+      "id": "0040669",
+      "title": "515523 - Drawer handles of metal",
+      "conceptLink": "/ec2/concept/5988647"
+    }
+  },
+  {
+    "uri": "en/6/515538",
+    "id": "515538",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer knobs of metal",
+    "harm": {
+      "id": "0029093",
+      "title": "515538 - Drawer knobs of metal",
+      "conceptLink": "/ec2/concept/5978102"
+    }
+  },
+  {
+    "uri": "en/6/515485",
+    "id": "515485",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer runners of metal",
+    "harm": {
+      "id": "0034875",
+      "title": "515485 - Drawer runners of metal",
+      "conceptLink": "/ec2/concept/5983365"
+    }
+  },
+  {
+    "uri": "en/6/515486",
+    "id": "515486",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawer sliders of metal",
+    "harm": {
+      "id": "0034875",
+      "title": "515486 - Drawer sliders of metal",
+      "conceptLink": "/ec2/concept/5983365"
+    }
+  },
+  {
+    "uri": "en/6/233498464",
+    "id": "233498464",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drawn and polished metal bars",
+    "harm": {
+      "id": "0052036",
+      "title": "233498464 - Drawn and polished metal bars",
+      "conceptLink": "/ec2/concept/6010936"
+    }
+  },
+  {
+    "uri": "en/6/515550",
+    "id": "515550",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drill pipes of metal",
+    "harm": {
+      "id": "0011782",
+      "title": "515550 - Drill pipes of metal",
+      "conceptLink": "/ec2/concept/5962242"
+    }
+  },
+  {
+    "uri": "en/6/127641608",
+    "id": "127641608",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drums [containers] of metal other than household containers",
+    "harm": {
+      "id": "0019173",
+      "title": "127641608 - Drums [containers] of metal other than household containers",
+      "conceptLink": "/ec2/concept/5969016"
+    }
+  },
+  {
+    "uri": "en/6/903234",
+    "id": "903234",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Drywall corner bead of metal [building materials]",
+    "harm": {
+      "id": "0044013",
+      "title": "903234 - Drywall corner bead of metal [building materials]",
+      "conceptLink": "/ec2/concept/5991690"
+    }
+  },
+  {
+    "uri": "en/6/104421",
+    "id": "104421",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Duckboards of metal",
+    "harm": {
+      "id": "0001580",
+      "title": "104421 - Duckboards of metal",
+      "conceptLink": "/ec2/concept/5952907"
+    }
+  },
+  {
+    "uri": "en/6/138354856",
+    "id": "138354856",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ductile iron piles",
+    "harm": {
+      "id": "0070231",
+      "title": "138354856 - Ductile iron piles",
+      "conceptLink": "/ec2/concept/6006424"
+    }
+  },
+  {
+    "uri": "en/6/124747320",
+    "id": "124747320",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducting conduit installations (Non-electric -) of metal",
+    "harm": {
+      "id": "0017535",
+      "title": "124747320 - Ducting conduit installations (Non-electric -) of metal",
+      "conceptLink": "/ec2/concept/5967509"
+    }
+  },
+  {
+    "uri": "en/6/124747342",
+    "id": "124747342",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducting conduits (Non-electric -) of metal",
+    "harm": {
+      "id": "0040670",
+      "title": "124747342 - Ducting conduits (Non-electric -) of metal",
+      "conceptLink": "/ec2/concept/5988648"
+    }
+  },
+  {
+    "uri": "en/6/124747319",
+    "id": "124747319",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducting installations (Non-electric -) of metal",
+    "harm": {
+      "id": "0017535",
+      "title": "124747319 - Ducting installations (Non-electric -) of metal",
+      "conceptLink": "/ec2/concept/5967509"
+    }
+  },
+  {
+    "uri": "en/6/96676",
+    "id": "96676",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts and pipes of metal for central heating installations",
+    "harm": {
+      "id": "0040762",
+      "title": "96676 - Ducts and pipes of metal for central heating installations",
+      "conceptLink": "/ec2/concept/5988730"
+    }
+  },
+  {
+    "uri": "en/6/515628",
+    "id": "515628",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts made of metal for trunking pipes for gases",
+    "harm": {
+      "id": "0029094",
+      "title": "515628 - Ducts made of metal for trunking pipes for gases",
+      "conceptLink": "/ec2/concept/5978103"
+    }
+  },
+  {
+    "uri": "en/6/515640",
+    "id": "515640",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts made of metal for trunking pipes for liquids",
+    "harm": {
+      "id": "0029095",
+      "title": "515640 - Ducts made of metal for trunking pipes for liquids",
+      "conceptLink": "/ec2/concept/5978104"
+    }
+  },
+  {
+    "uri": "en/6/515601",
+    "id": "515601",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts made of metal for trunking conduits for gases",
+    "harm": {
+      "id": "0040671",
+      "title": "515601 - Ducts made of metal for trunking conduits for gases",
+      "conceptLink": "/ec2/concept/5988649"
+    }
+  },
+  {
+    "uri": "en/6/515615",
+    "id": "515615",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts made of metal for trunking conduits for liquids",
+    "harm": {
+      "id": "0040672",
+      "title": "515615 - Ducts made of metal for trunking conduits for liquids",
+      "conceptLink": "/ec2/concept/5988650"
+    }
+  },
+  {
+    "uri": "en/6/903236",
+    "id": "903236",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for air-conditioning installations",
+    "harm": {
+      "id": "0015204",
+      "title": "903236 - Ducts of metal for air-conditioning installations",
+      "conceptLink": "/ec2/concept/5965378"
+    }
+  },
+  {
+    "uri": "en/6/96674",
+    "id": "96674",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal, for central heating installations",
+    "harm": {
+      "id": "0040762",
+      "title": "96674 - Ducts of metal, for central heating installations",
+      "conceptLink": "/ec2/concept/5988730"
+    }
+  },
+  {
+    "uri": "en/6/515665",
+    "id": "515665",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for concealing water pipes",
+    "harm": {
+      "id": "0017536",
+      "title": "515665 - Ducts of metal for concealing water pipes",
+      "conceptLink": "/ec2/concept/5967510"
+    }
+  },
+  {
+    "uri": "en/6/515677",
+    "id": "515677",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for housing ventilation pipes",
+    "harm": {
+      "id": "0046116",
+      "title": "515677 - Ducts of metal for housing ventilation pipes",
+      "conceptLink": "/ec2/concept/5993627"
+    }
+  },
+  {
+    "uri": "en/6/903237",
+    "id": "903237",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for ventilating installations",
+    "harm": {
+      "id": "0003608",
+      "title": "903237 - Ducts of metal for ventilating installations",
+      "conceptLink": "/ec2/concept/5954752"
+    }
+  },
+  {
+    "uri": "en/6/110374",
+    "id": "110374",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for ventilating and air-conditioning installations",
+    "harm": {
+      "id": "0029684",
+      "title": "110374 - Ducts of metal for ventilating and air-conditioning installations",
+      "conceptLink": "/ec2/concept/5978637"
+    }
+  },
+  {
+    "uri": "en/6/110377",
+    "id": "110377",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Ducts of metal for ventilating and air conditioning installations",
+    "harm": {
+      "id": "0029684",
+      "title": "110377 - Ducts of metal for ventilating and air conditioning installations",
+      "conceptLink": "/ec2/concept/5978637"
+    }
+  },
+  {
+    "uri": "en/6/914986",
+    "id": "914986",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Eaves of metal",
+    "harm": {
+      "id": "0034605",
+      "title": "914986 - Eaves of metal",
+      "conceptLink": "/ec2/concept/5983120"
+    }
+  },
+  {
+    "uri": "en/6/515701",
+    "id": "515701",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Edging strips of metal",
+    "harm": {
+      "id": "0011488",
+      "title": "515701 - Edging strips of metal",
+      "conceptLink": "/ec2/concept/5961968"
+    }
+  },
+  {
+    "uri": "en/6/515713",
+    "id": "515713",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elbow outlets of metal",
+    "harm": {
+      "id": "0011489",
+      "title": "515713 - Elbow outlets of metal",
+      "conceptLink": "/ec2/concept/5961969"
+    }
+  },
+  {
+    "uri": "en/6/97816",
+    "id": "97816",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elbows for pipes of metal",
+    "harm": {
+      "id": "0019100",
+      "title": "97816 - Elbows for pipes of metal",
+      "conceptLink": "/ec2/concept/5968951"
+    }
+  },
+  {
+    "uri": "en/6/515726",
+    "id": "515726",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elbows of metal for connecting gas piping to gas appliances",
+    "harm": {
+      "id": "0011490",
+      "title": "515726 - Elbows of metal for connecting gas piping to gas appliances",
+      "conceptLink": "/ec2/concept/5961970"
+    }
+  },
+  {
+    "uri": "en/6/883151",
+    "id": "883151",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elbows of metal for pipes including those from alloy steel and titanium",
+    "harm": {
+      "id": "0004291",
+      "title": "883151 - Elbows of metal for pipes including those from alloy steel and titanium",
+      "conceptLink": "/ec2/concept/5955378"
+    }
+  },
+  {
+    "uri": "en/6/97817",
+    "id": "97817",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elbows of metal for pipes",
+    "harm": {
+      "id": "0019100",
+      "title": "97817 - Elbows of metal for pipes",
+      "conceptLink": "/ec2/concept/5968951"
+    }
+  },
+  {
+    "uri": "en/6/903358",
+    "id": "903358",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Electronic safes",
+    "harm": {
+      "id": "0030264",
+      "title": "903358 - Electronic safes",
+      "conceptLink": "/ec2/concept/5979168"
+    }
+  },
+  {
+    "uri": "en/6/124747478",
+    "id": "124747478",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Elevator cables (Metal -)",
+    "harm": {
+      "id": "0005764",
+      "title": "124747478 - Elevator cables (Metal -)",
+      "conceptLink": "/ec2/concept/5956735"
+    }
+  },
+  {
+    "uri": "en/6/108905",
+    "id": "108905",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Enclosures of metal for tombs",
+    "harm": {
+      "id": "0031510",
+      "title": "108905 - Enclosures of metal for tombs",
+      "conceptLink": "/ec2/concept/5980303"
+    }
+  },
+  {
+    "uri": "en/6/515751",
+    "id": "515751",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Engravers plates made from metal",
+    "harm": {
+      "id": "0011491",
+      "title": "515751 - Engravers plates made from metal",
+      "conceptLink": "/ec2/concept/5961971"
+    }
+  },
+  {
+    "uri": "en/6/97897",
+    "id": "97897",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Entrances of metal",
+    "harm": {
+      "id": "0028832",
+      "title": "97897 - Entrances of metal",
+      "conceptLink": "/ec2/concept/5977860"
+    }
+  },
+  {
+    "uri": "en/6/515767",
+    "id": "515767",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Escutcheons of metal",
+    "harm": {
+      "id": "0046743",
+      "title": "515767 - Escutcheons of metal",
+      "conceptLink": "/ec2/concept/5994151"
+    }
+  },
+  {
+    "uri": "en/6/98856",
+    "id": "98856",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Espagnolette mechanisms of metal",
+    "harm": {
+      "id": "0035302",
+      "title": "98856 - Espagnolette mechanisms of metal",
+      "conceptLink": "/ec2/concept/5983753"
+    }
+  },
+  {
+    "uri": "en/6/612462",
+    "id": "612462",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Exhibition booths [stands] of metal",
+    "harm": {
+      "id": "0013350",
+      "title": "612462 - Exhibition booths [stands] of metal",
+      "conceptLink": "/ec2/concept/5963675"
+    }
+  },
+  {
+    "uri": "en/6/104423",
+    "id": "104423",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Expandable metal grids",
+    "harm": {
+      "id": "0030760",
+      "title": "104423 - Expandable metal grids",
+      "conceptLink": "/ec2/concept/5979631"
+    }
+  },
+  {
+    "uri": "en/6/511897",
+    "id": "511897",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Expansion bolts of metal",
+    "harm": {
+      "id": "0030761",
+      "title": "511897 - Expansion bolts of metal",
+      "conceptLink": "/ec2/concept/5979632"
+    }
+  },
+  {
+    "uri": "en/6/515822",
+    "id": "515822",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Expansion joints of metal",
+    "harm": {
+      "id": "0001870",
+      "title": "515822 - Expansion joints of metal",
+      "conceptLink": "/ec2/concept/5953171"
+    }
+  },
+  {
+    "uri": "en/6/515843",
+    "id": "515843",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Expansion plugs of metal",
+    "harm": {
+      "id": "0019284",
+      "title": "515843 - Expansion plugs of metal",
+      "conceptLink": "/ec2/concept/5969114"
+    }
+  },
+  {
+    "uri": "en/6/101766",
+    "id": "101766",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "External metal shutters for windows",
+    "harm": {
+      "id": "0024605",
+      "title": "101766 - External metal shutters for windows",
+      "conceptLink": "/ec2/concept/5973983"
+    }
+  },
+  {
+    "uri": "en/6/511761",
+    "id": "511761",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Extruded aluminium profiles",
+    "harm": {
+      "id": "0019285",
+      "title": "511761 - Extruded aluminium profiles",
+      "conceptLink": "/ec2/concept/5969115"
+    }
+  },
+  {
+    "uri": "en/6/515862",
+    "id": "515862",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Extruded aluminium sections",
+    "harm": {
+      "id": "0019285",
+      "title": "515862 - Extruded aluminium sections",
+      "conceptLink": "/ec2/concept/5969115"
+    }
+  },
+  {
+    "uri": "en/6/511762",
+    "id": "511762",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Extrusions of aluminium",
+    "harm": {
+      "id": "0019285",
+      "title": "511762 - Extrusions of aluminium",
+      "conceptLink": "/ec2/concept/5969115"
+    }
+  },
+  {
+    "uri": "en/6/515884",
+    "id": "515884",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Extrusions of metal",
+    "harm": {
+      "id": "0013455",
+      "title": "515884 - Extrusions of metal",
+      "conceptLink": "/ec2/concept/5963769"
+    }
+  },
+  {
+    "uri": "en/6/99553",
+    "id": "99553",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Eye bolts",
+    "harm": {
+      "id": "0057150",
+      "title": "99553 - Eye bolts",
+      "conceptLink": "/ec2/concept/5998787"
+    }
+  },
+  {
+    "uri": "en/6/385142",
+    "id": "385142",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Eye bolts of metal",
+    "harm": {
+      "id": "0057150",
+      "title": "385142 - Eye bolts of metal",
+      "conceptLink": "/ec2/concept/5998787"
+    }
+  },
+  {
+    "uri": "en/6/120862631",
+    "id": "120862631",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fabricated metal components for building foundations",
+    "harm": {
+      "id": "0065489",
+      "title": "120862631 - Fabricated metal components for building foundations",
+      "conceptLink": "/ec2/concept/6001692"
+    }
+  },
+  {
+    "uri": "en/6/515926",
+    "id": "515926",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Facade construction components of metal",
+    "harm": {
+      "id": "0025026",
+      "title": "515926 - Facade construction components of metal",
+      "conceptLink": "/ec2/concept/5974372"
+    }
+  },
+  {
+    "uri": "en/6/515938",
+    "id": "515938",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Facade elements of metal",
+    "harm": {
+      "id": "0007603",
+      "title": "515938 - Facade elements of metal",
+      "conceptLink": "/ec2/concept/5958414"
+    }
+  },
+  {
+    "uri": "en/6/514361",
+    "id": "514361",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Facade facings of metal",
+    "harm": {
+      "id": "0028343",
+      "title": "514361 - Facade facings of metal",
+      "conceptLink": "/ec2/concept/5977401"
+    }
+  },
+  {
+    "uri": "en/6/386306",
+    "id": "386306",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Facades of metal",
+    "harm": {
+      "id": "0016819",
+      "title": "386306 - Facades of metal",
+      "conceptLink": "/ec2/concept/5966862"
+    }
+  },
+  {
+    "uri": "en/6/515954",
+    "id": "515954",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Faceplates of metal",
+    "harm": {
+      "id": "0045631",
+      "title": "515954 - Faceplates of metal",
+      "conceptLink": "/ec2/concept/5993174"
+    }
+  },
+  {
+    "uri": "en/6/515967",
+    "id": "515967",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fair huts of metal",
+    "harm": {
+      "id": "0022688",
+      "title": "515967 - Fair huts of metal",
+      "conceptLink": "/ec2/concept/5972220"
+    }
+  },
+  {
+    "uri": "en/6/515980",
+    "id": "515980",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fascias of metal for advertising",
+    "harm": {
+      "id": "0039872",
+      "title": "515980 - Fascias of metal for advertising",
+      "conceptLink": "/ec2/concept/5987913"
+    }
+  },
+  {
+    "uri": "en/6/384350",
+    "id": "384350",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fasteners of common metal",
+    "harm": {
+      "id": "0019312",
+      "title": "384350 - Fasteners of common metal",
+      "conceptLink": "/ec2/concept/5969138"
+    }
+  },
+  {
+    "uri": "en/6/136154477",
+    "id": "136154477",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fasteners of metal for casement windows",
+    "harm": {
+      "id": "0055624",
+      "title": "136154477 - Fasteners of metal for casement windows",
+      "conceptLink": "/ec2/concept/5997018"
+    }
+  },
+  {
+    "uri": "en/6/100784",
+    "id": "100784",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fastening pipes (Collars of metal for -)",
+    "harm": {
+      "id": "0057024",
+      "title": "100784 - Fastening pipes (Collars of metal for -)",
+      "conceptLink": "/ec2/concept/5998654"
+    }
+  },
+  {
+    "uri": "en/6/516006",
+    "id": "516006",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Fence links of metal",
+    "harm": {
+      "id": "0028344",
+      "title": "516006 - Fence links of metal",
+      "conceptLink": "/ec2/concept/5977402"
+    }
+  }
+]

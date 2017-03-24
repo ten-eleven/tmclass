@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/40/842967",
+    "id": "842967",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of cine films on to video tape",
+    "harm": {
+      "id": "0019217",
+      "title": "842967 - Transfer of cine films on to video tape",
+      "conceptLink": "/ec2/concept/5969058"
+    }
+  },
+  {
+    "uri": "en/40/842969",
+    "id": "842969",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of cine-films on to videotape",
+    "harm": {
+      "id": "0019217",
+      "title": "842969 - Transfer of cine-films on to videotape",
+      "conceptLink": "/ec2/concept/5969058"
+    }
+  },
+  {
+    "uri": "en/40/842968",
+    "id": "842968",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of cinematographic film onto video tape",
+    "harm": {
+      "id": "0019217",
+      "title": "842968 - Transfer of cinematographic film onto video tape",
+      "conceptLink": "/ec2/concept/5969058"
+    }
+  },
+  {
+    "uri": "en/40/843025",
+    "id": "843025",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of photographic prints",
+    "harm": {
+      "id": "0013148",
+      "title": "843025 - Transfer of photographic prints",
+      "conceptLink": "/ec2/concept/5963492"
+    }
+  },
+  {
+    "uri": "en/40/843036",
+    "id": "843036",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of photographic transparencies",
+    "harm": {
+      "id": "0036273",
+      "title": "843036 - Transfer of photographic transparencies",
+      "conceptLink": "/ec2/concept/5984629"
+    }
+  },
+  {
+    "uri": "en/40/843002",
+    "id": "843002",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of photographic films on to video tape",
+    "harm": {
+      "id": "0042032",
+      "title": "843002 - Transfer of photographic films on to video tape",
+      "conceptLink": "/ec2/concept/5989885"
+    }
+  },
+  {
+    "uri": "en/40/843003",
+    "id": "843003",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of photographic films on to videotape",
+    "harm": {
+      "id": "0042032",
+      "title": "843003 - Transfer of photographic films on to videotape",
+      "conceptLink": "/ec2/concept/5989885"
+    }
+  },
+  {
+    "uri": "en/40/843048",
+    "id": "843048",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transfer of photographs on to compact disc",
+    "harm": {
+      "id": "0013149",
+      "title": "843048 - Transfer of photographs on to compact disc",
+      "conceptLink": "/ec2/concept/5963493"
+    }
+  },
+  {
+    "uri": "en/40/125062782",
+    "id": "125062782",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Transparency duplicating (Photographic -)",
+    "harm": {
+      "id": "0042033",
+      "title": "125062782 - Transparency duplicating (Photographic -)",
+      "conceptLink": "/ec2/concept/5989886"
+    }
+  },
+  {
+    "uri": "en/40/119553000",
+    "id": "119553000",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Trash incineration",
+    "harm": {
+      "id": "0057975",
+      "title": "119553000 - Trash incineration",
+      "conceptLink": "/ec2/concept/5999479"
+    }
+  },
+  {
+    "uri": "en/40/124340257",
+    "id": "124340257",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Trash (Incineration of -)",
+    "harm": {
+      "id": "0057975",
+      "title": "124340257 - Trash (Incineration of -)",
+      "conceptLink": "/ec2/concept/5999479"
+    }
+  },
+  {
+    "uri": "en/40/125155226",
+    "id": "125155226",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Trash (Recycling of -)",
+    "harm": {
+      "id": "0058738",
+      "title": "125155226 - Trash (Recycling of -)",
+      "conceptLink": "/ec2/concept/6000229"
+    }
+  },
+  {
+    "uri": "en/40/843060",
+    "id": "843060",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [embossing] of metal",
+    "harm": {
+      "id": "0042034",
+      "title": "843060 - Treating [embossing] of metal",
+      "conceptLink": "/ec2/concept/5989887"
+    }
+  },
+  {
+    "uri": "en/40/843073",
+    "id": "843073",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [enamelling] of metal",
+    "harm": {
+      "id": "0036274",
+      "title": "843073 - Treating [enamelling] of metal",
+      "conceptLink": "/ec2/concept/5984630"
+    }
+  },
+  {
+    "uri": "en/40/843087",
+    "id": "843087",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [forging] of metal",
+    "harm": {
+      "id": "0018985",
+      "title": "843087 - Treating [forging] of metal",
+      "conceptLink": "/ec2/concept/5968845"
+    }
+  },
+  {
+    "uri": "en/40/843103",
+    "id": "843103",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [forming] of metal",
+    "harm": {
+      "id": "0007335",
+      "title": "843103 - Treating [forming] of metal",
+      "conceptLink": "/ec2/concept/5958173"
+    }
+  },
+  {
+    "uri": "en/40/38915113",
+    "id": "38915113",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating materials with ultrasonic waves to modify their properties",
+    "harm": {
+      "id": "0068912",
+      "title": "38915113 - Treating materials with ultrasonic waves to modify their properties",
+      "conceptLink": "/ec2/concept/6005115"
+    }
+  },
+  {
+    "uri": "en/40/50195",
+    "id": "50195",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating of cloth",
+    "harm": {
+      "id": "0057894",
+      "title": "50195 - Treating of cloth",
+      "conceptLink": "/ec2/concept/5999398"
+    }
+  },
+  {
+    "uri": "en/40/52542",
+    "id": "52542",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating of textile against mites",
+    "harm": {
+      "id": "0046958",
+      "title": "52542 - Treating of textile against mites",
+      "conceptLink": "/ec2/concept/5994345"
+    }
+  },
+  {
+    "uri": "en/40/483761",
+    "id": "483761",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating of textiles",
+    "harm": {
+      "id": "0057894",
+      "title": "483761 - Treating of textiles",
+      "conceptLink": "/ec2/concept/5999398"
+    }
+  },
+  {
+    "uri": "en/40/843104",
+    "id": "843104",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [shaping] of metal",
+    "harm": {
+      "id": "0007335",
+      "title": "843104 - Treating [shaping] of metal",
+      "conceptLink": "/ec2/concept/5958173"
+    }
+  },
+  {
+    "uri": "en/40/843137",
+    "id": "843137",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [stamping] of metal",
+    "harm": {
+      "id": "0013150",
+      "title": "843137 - Treating [stamping] of metal",
+      "conceptLink": "/ec2/concept/5963494"
+    }
+  },
+  {
+    "uri": "en/40/843153",
+    "id": "843153",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treating [tempering] of metal",
+    "harm": {
+      "id": "0033722",
+      "title": "843153 - Treating [tempering] of metal",
+      "conceptLink": "/ec2/concept/5982317"
+    }
+  },
+  {
+    "uri": "en/40/120890261",
+    "id": "120890261",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment and coating of metal surfaces",
+    "harm": {
+      "id": "0068916",
+      "title": "120890261 - Treatment and coating of metal surfaces",
+      "conceptLink": "/ec2/concept/6005119"
+    }
+  },
+  {
+    "uri": "en/40/34977572",
+    "id": "34977572",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment and processing of plastics",
+    "harm": {
+      "id": "0068873",
+      "title": "34977572 - Treatment and processing of plastics",
+      "conceptLink": "/ec2/concept/6005076"
+    }
+  },
+  {
+    "uri": "en/40/120887444",
+    "id": "120887444",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment and processing of ores and ore concentrates",
+    "harm": {
+      "id": "0068882",
+      "title": "120887444 - Treatment and processing of ores and ore concentrates",
+      "conceptLink": "/ec2/concept/6005085"
+    }
+  },
+  {
+    "uri": "en/40/120887730",
+    "id": "120887730",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment and processing of clothing for recycling purposes",
+    "harm": {
+      "id": "0068827",
+      "title": "120887730 - Treatment and processing of clothing for recycling purposes",
+      "conceptLink": "/ec2/concept/6005030"
+    }
+  },
+  {
+    "uri": "en/40/478289",
+    "id": "478289",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment and recycling of packaging",
+    "harm": {
+      "id": "0024112",
+      "title": "478289 - Treatment and recycling of packaging",
+      "conceptLink": "/ec2/concept/5973531"
+    }
+  },
+  {
+    "uri": "en/40/478264",
+    "id": "478264",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of aerial or satellite photographs",
+    "harm": {
+      "id": "0024111",
+      "title": "478264 - Treatment of aerial or satellite photographs",
+      "conceptLink": "/ec2/concept/5973530"
+    }
+  },
+  {
+    "uri": "en/40/843327",
+    "id": "843327",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of carpets to impart stain repellent properties",
+    "harm": {
+      "id": "0023314",
+      "title": "843327 - Treatment of carpets to impart stain repellent properties",
+      "conceptLink": "/ec2/concept/5972791"
+    }
+  },
+  {
+    "uri": "en/40/843314",
+    "id": "843314",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of carpets to impart antistatic properties",
+    "harm": {
+      "id": "0029039",
+      "title": "843314 - Treatment of carpets to impart antistatic properties",
+      "conceptLink": "/ec2/concept/5978051"
+    }
+  },
+  {
+    "uri": "en/40/843339",
+    "id": "843339",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of chemical waste",
+    "harm": {
+      "id": "0000158",
+      "title": "843339 - Treatment of chemical waste",
+      "conceptLink": "/ec2/concept/5951633"
+    }
+  },
+  {
+    "uri": "en/40/119553001",
+    "id": "119553001",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of cloth",
+    "harm": {
+      "id": "0057894",
+      "title": "119553001 - Treatment of cloth",
+      "conceptLink": "/ec2/concept/5999398"
+    }
+  },
+  {
+    "uri": "en/40/4307568",
+    "id": "4307568",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of contaminated soil",
+    "harm": {
+      "id": "0068881",
+      "title": "4307568 - Treatment of contaminated soil",
+      "conceptLink": "/ec2/concept/6005084"
+    }
+  },
+  {
+    "uri": "en/40/843353",
+    "id": "843353",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of crude mineral oil",
+    "harm": {
+      "id": "0034819",
+      "title": "843353 - Treatment of crude mineral oil",
+      "conceptLink": "/ec2/concept/5983314"
+    }
+  },
+  {
+    "uri": "en/40/371964",
+    "id": "371964",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of effluent",
+    "harm": {
+      "id": "0011712",
+      "title": "371964 - Treatment of effluent",
+      "conceptLink": "/ec2/concept/5962175"
+    }
+  },
+  {
+    "uri": "en/40/843379",
+    "id": "843379",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of fabrics to impart stain repellent properties",
+    "harm": {
+      "id": "0023315",
+      "title": "843379 - Treatment of fabrics to impart stain repellent properties",
+      "conceptLink": "/ec2/concept/5972792"
+    }
+  },
+  {
+    "uri": "en/40/843366",
+    "id": "843366",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of fabrics to impart antistatic properties",
+    "harm": {
+      "id": "0017475",
+      "title": "843366 - Treatment of fabrics to impart antistatic properties",
+      "conceptLink": "/ec2/concept/5967453"
+    }
+  },
+  {
+    "uri": "en/40/843392",
+    "id": "843392",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of finished products by means of electrolysis",
+    "harm": {
+      "id": "0040610",
+      "title": "843392 - Treatment of finished products by means of electrolysis",
+      "conceptLink": "/ec2/concept/5988590"
+    }
+  },
+  {
+    "uri": "en/40/119553005",
+    "id": "119553005",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of fur",
+    "harm": {
+      "id": "0056693",
+      "title": "119553005 - Treatment of fur",
+      "conceptLink": "/ec2/concept/5997980"
+    }
+  },
+  {
+    "uri": "en/40/843404",
+    "id": "843404",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of glass to alter the optical properties",
+    "harm": {
+      "id": "0000159",
+      "title": "843404 - Treatment of glass to alter the optical properties",
+      "conceptLink": "/ec2/concept/5951634"
+    }
+  },
+  {
+    "uri": "en/40/843417",
+    "id": "843417",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous gases",
+    "harm": {
+      "id": "0034287",
+      "title": "843417 - Treatment of hazardous gases",
+      "conceptLink": "/ec2/concept/5982833"
+    }
+  },
+  {
+    "uri": "en/40/907812",
+    "id": "907812",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous liquids",
+    "harm": {
+      "id": "0006497",
+      "title": "907812 - Treatment of hazardous liquids",
+      "conceptLink": "/ec2/concept/5957404"
+    }
+  },
+  {
+    "uri": "en/40/840850",
+    "id": "840850",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous materials",
+    "harm": {
+      "id": "0014714",
+      "title": "840850 - Treatment of hazardous materials",
+      "conceptLink": "/ec2/concept/5964925"
+    }
+  },
+  {
+    "uri": "en/40/840852",
+    "id": "840852",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous substances",
+    "harm": {
+      "id": "0014714",
+      "title": "840852 - Treatment of hazardous substances",
+      "conceptLink": "/ec2/concept/5964925"
+    }
+  },
+  {
+    "uri": "en/40/843445",
+    "id": "843445",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous waste by encapsulation",
+    "harm": {
+      "id": "0016965",
+      "title": "843445 - Treatment of hazardous waste by encapsulation",
+      "conceptLink": "/ec2/concept/5966992"
+    }
+  },
+  {
+    "uri": "en/40/843429",
+    "id": "843429",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of hazardous waste",
+    "harm": {
+      "id": "0028494",
+      "title": "843429 - Treatment of hazardous waste",
+      "conceptLink": "/ec2/concept/5977542"
+    }
+  },
+  {
+    "uri": "en/40/843457",
+    "id": "843457",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of industrial waste",
+    "harm": {
+      "id": "0039525",
+      "title": "843457 - Treatment of industrial waste",
+      "conceptLink": "/ec2/concept/5987592"
+    }
+  },
+  {
+    "uri": "en/40/120887862",
+    "id": "120887862",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of industrial waste to sequester carbon",
+    "harm": {
+      "id": "0068808",
+      "title": "120887862 - Treatment of industrial waste to sequester carbon",
+      "conceptLink": "/ec2/concept/6005011"
+    }
+  },
+  {
+    "uri": "en/40/843472",
+    "id": "843472",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of lenses to alter the optical properties",
+    "harm": {
+      "id": "0045779",
+      "title": "843472 - Treatment of lenses to alter the optical properties",
+      "conceptLink": "/ec2/concept/5993312"
+    }
+  },
+  {
+    "uri": "en/40/371929",
+    "id": "371929",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of materials by laser beam",
+    "harm": {
+      "id": "0021973",
+      "title": "371929 - Treatment of materials by laser beam",
+      "conceptLink": "/ec2/concept/5971568"
+    }
+  },
+  {
+    "uri": "en/40/371941",
+    "id": "371941",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of materials for the manufacture of ceramic goods",
+    "harm": {
+      "id": "0044884",
+      "title": "371941 - Treatment of materials for the manufacture of ceramic goods",
+      "conceptLink": "/ec2/concept/5992493"
+    }
+  },
+  {
+    "uri": "en/40/120887571",
+    "id": "120887571",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of materials using chemicals",
+    "harm": {
+      "id": "0068864",
+      "title": "120887571 - Treatment of materials using chemicals",
+      "conceptLink": "/ec2/concept/6005067"
+    }
+  },
+  {
+    "uri": "en/40/51900",
+    "id": "51900",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of metal",
+    "harm": {
+      "id": "0057032",
+      "title": "51900 - Treatment of metal",
+      "conceptLink": "/ec2/concept/5998663"
+    }
+  },
+  {
+    "uri": "en/40/120887530",
+    "id": "120887530",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of metal parts to prevent corrosion",
+    "harm": {
+      "id": "0068855",
+      "title": "120887530 - Treatment of metal parts to prevent corrosion",
+      "conceptLink": "/ec2/concept/6005058"
+    }
+  },
+  {
+    "uri": "en/40/120887533",
+    "id": "120887533",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of metal parts to prevent corrosion using hot-dip galvanizing and powder coating processes",
+    "harm": {
+      "id": "0068856",
+      "title": "120887533 - Treatment of metal parts to prevent corrosion using hot-dip galvanizing and powder coating processes",
+      "conceptLink": "/ec2/concept/6005059"
+    }
+  },
+  {
+    "uri": "en/40/51899",
+    "id": "51899",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of metals",
+    "harm": {
+      "id": "0057032",
+      "title": "51899 - Treatment of metals",
+      "conceptLink": "/ec2/concept/5998663"
+    }
+  },
+  {
+    "uri": "en/40/462057",
+    "id": "462057",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of natural gas",
+    "harm": {
+      "id": "0021964",
+      "title": "462057 - Treatment of natural gas",
+      "conceptLink": "/ec2/concept/5971559"
+    }
+  },
+  {
+    "uri": "en/40/843485",
+    "id": "843485",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of oils by the removal of polychlorinated biphenols",
+    "harm": {
+      "id": "0011176",
+      "title": "843485 - Treatment of oils by the removal of polychlorinated biphenols",
+      "conceptLink": "/ec2/concept/5961686"
+    }
+  },
+  {
+    "uri": "en/40/843498",
+    "id": "843498",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of optical components to alter the optical properties",
+    "harm": {
+      "id": "0040032",
+      "title": "843498 - Treatment of optical components to alter the optical properties",
+      "conceptLink": "/ec2/concept/5988059"
+    }
+  },
+  {
+    "uri": "en/40/843510",
+    "id": "843510",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of plastic materials to produce plastic mouldings",
+    "harm": {
+      "id": "0022834",
+      "title": "843510 - Treatment of plastic materials to produce plastic mouldings",
+      "conceptLink": "/ec2/concept/5972354"
+    }
+  },
+  {
+    "uri": "en/40/843525",
+    "id": "843525",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of semi-manufactured products by means of electrolysis",
+    "harm": {
+      "id": "0005438",
+      "title": "843525 - Treatment of semi-manufactured products by means of electrolysis",
+      "conceptLink": "/ec2/concept/5956437"
+    }
+  },
+  {
+    "uri": "en/40/843537",
+    "id": "843537",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of slag arising from metal casting",
+    "harm": {
+      "id": "0005439",
+      "title": "843537 - Treatment of slag arising from metal casting",
+      "conceptLink": "/ec2/concept/5956438"
+    }
+  },
+  {
+    "uri": "en/40/478277",
+    "id": "478277",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of stereoscopic images",
+    "harm": {
+      "id": "0006703",
+      "title": "478277 - Treatment of stereoscopic images",
+      "conceptLink": "/ec2/concept/5957591"
+    }
+  },
+  {
+    "uri": "en/40/843563",
+    "id": "843563",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of synthetic polymers against fungal attacks",
+    "harm": {
+      "id": "0005440",
+      "title": "843563 - Treatment of synthetic polymers against fungal attacks",
+      "conceptLink": "/ec2/concept/5956439"
+    }
+  },
+  {
+    "uri": "en/40/843550",
+    "id": "843550",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of synthetic polymers against bacteriological infections",
+    "harm": {
+      "id": "0016966",
+      "title": "843550 - Treatment of synthetic polymers against bacteriological infections",
+      "conceptLink": "/ec2/concept/5966993"
+    }
+  },
+  {
+    "uri": "en/40/898843",
+    "id": "898843",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of timber with preservatives",
+    "harm": {
+      "id": "0037980",
+      "title": "898843 - Treatment of timber with preservatives",
+      "conceptLink": "/ec2/concept/5986181"
+    }
+  },
+  {
+    "uri": "en/40/843576",
+    "id": "843576",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of toxic material",
+    "harm": {
+      "id": "0019215",
+      "title": "843576 - Treatment of toxic material",
+      "conceptLink": "/ec2/concept/5969056"
+    }
+  },
+  {
+    "uri": "en/40/843589",
+    "id": "843589",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of toxic sludges",
+    "harm": {
+      "id": "0036495",
+      "title": "843589 - Treatment of toxic sludges",
+      "conceptLink": "/ec2/concept/5984831"
+    }
+  },
+  {
+    "uri": "en/40/843602",
+    "id": "843602",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of toxic waste",
+    "harm": {
+      "id": "0001812",
+      "title": "843602 - Treatment of toxic waste",
+      "conceptLink": "/ec2/concept/5953116"
+    }
+  },
+  {
+    "uri": "en/40/53770",
+    "id": "53770",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste",
+    "harm": {
+      "id": "0057326",
+      "title": "53770 - Treatment of waste",
+      "conceptLink": "/ec2/concept/5998835"
+    }
+  },
+  {
+    "uri": "en/40/843616",
+    "id": "843616",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste materials",
+    "harm": {
+      "id": "0057325",
+      "title": "843616 - Treatment of waste materials",
+      "conceptLink": "/ec2/concept/5998834"
+    }
+  },
+  {
+    "uri": "en/40/120890267",
+    "id": "120890267",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste materials in the field of environmental pollution control",
+    "harm": {
+      "id": "0068917",
+      "title": "120890267 - Treatment of waste materials in the field of environmental pollution control",
+      "conceptLink": "/ec2/concept/6005120"
+    }
+  },
+  {
+    "uri": "en/40/371960",
+    "id": "371960",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste water",
+    "harm": {
+      "id": "0011712",
+      "title": "371960 - Treatment of waste water",
+      "conceptLink": "/ec2/concept/5962175"
+    }
+  },
+  {
+    "uri": "en/40/843630",
+    "id": "843630",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste water from generating operations",
+    "harm": {
+      "id": "0042265",
+      "title": "843630 - Treatment of waste water from generating operations",
+      "conceptLink": "/ec2/concept/5990099"
+    }
+  },
+  {
+    "uri": "en/40/843644",
+    "id": "843644",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of waste water from industrial processes",
+    "harm": {
+      "id": "0042266",
+      "title": "843644 - Treatment of waste water from industrial processes",
+      "conceptLink": "/ec2/concept/5990100"
+    }
+  },
+  {
+    "uri": "en/40/51241",
+    "id": "51241",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of water",
+    "harm": {
+      "id": "0041404",
+      "title": "51241 - Treatment of water",
+      "conceptLink": "/ec2/concept/5989309"
+    }
+  },
+  {
+    "uri": "en/40/898858",
+    "id": "898858",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of wet rot",
+    "harm": {
+      "id": "0043732",
+      "title": "898858 - Treatment of wet rot",
+      "conceptLink": "/ec2/concept/5991433"
+    }
+  },
+  {
+    "uri": "en/40/51815",
+    "id": "51815",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment of wool",
+    "harm": {
+      "id": "0042267",
+      "title": "51815 - Treatment of wool",
+      "conceptLink": "/ec2/concept/5990101"
+    }
+  },
+  {
+    "uri": "en/40/372016",
+    "id": "372016",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [purification] of water",
+    "harm": {
+      "id": "0027591",
+      "title": "372016 - Treatment [purification] of water",
+      "conceptLink": "/ec2/concept/5976709"
+    }
+  },
+  {
+    "uri": "en/40/843181",
+    "id": "843181",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [reclamation] of material from hazardous products",
+    "harm": {
+      "id": "0039526",
+      "title": "843181 - Treatment [reclamation] of material from hazardous products",
+      "conceptLink": "/ec2/concept/5987593"
+    }
+  },
+  {
+    "uri": "en/40/843167",
+    "id": "843167",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [reclamation] of industrial waste",
+    "harm": {
+      "id": "0039525",
+      "title": "843167 - Treatment [reclamation] of industrial waste",
+      "conceptLink": "/ec2/concept/5987592"
+    }
+  },
+  {
+    "uri": "en/40/843195",
+    "id": "843195",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [reclamation] of material from waste",
+    "harm": {
+      "id": "0045266",
+      "title": "843195 - Treatment [reclamation] of material from waste",
+      "conceptLink": "/ec2/concept/5992846"
+    }
+  },
+  {
+    "uri": "en/40/843208",
+    "id": "843208",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of chemicals",
+    "harm": {
+      "id": "0016444",
+      "title": "843208 - Treatment [recycling] of chemicals",
+      "conceptLink": "/ec2/concept/5966530"
+    }
+  },
+  {
+    "uri": "en/40/843238",
+    "id": "843238",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of hazardous products",
+    "harm": {
+      "id": "0004917",
+      "title": "843238 - Treatment [recycling] of hazardous products",
+      "conceptLink": "/ec2/concept/5955961"
+    }
+  },
+  {
+    "uri": "en/40/843223",
+    "id": "843223",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of hazardous liquids",
+    "harm": {
+      "id": "0022329",
+      "title": "843223 - Treatment [recycling] of hazardous liquids",
+      "conceptLink": "/ec2/concept/5971893"
+    }
+  },
+  {
+    "uri": "en/40/843253",
+    "id": "843253",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of radioactive waste",
+    "harm": {
+      "id": "0045267",
+      "title": "843253 - Treatment [recycling] of radioactive waste",
+      "conceptLink": "/ec2/concept/5992847"
+    }
+  },
+  {
+    "uri": "en/40/843268",
+    "id": "843268",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of toxic liquids",
+    "harm": {
+      "id": "0045268",
+      "title": "843268 - Treatment [recycling] of toxic liquids",
+      "conceptLink": "/ec2/concept/5992848"
+    }
+  },
+  {
+    "uri": "en/40/843285",
+    "id": "843285",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [recycling] of waste",
+    "harm": {
+      "id": "0011711",
+      "title": "843285 - Treatment [recycling] of waste",
+      "conceptLink": "/ec2/concept/5962174"
+    }
+  },
+  {
+    "uri": "en/40/53767",
+    "id": "53767",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [transformation] of waste",
+    "harm": {
+      "id": "0057324",
+      "title": "53767 - Treatment [transformation] of waste",
+      "conceptLink": "/ec2/concept/5998833"
+    }
+  },
+  {
+    "uri": "en/40/843299",
+    "id": "843299",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Treatment [washing] of coal",
+    "harm": {
+      "id": "0029038",
+      "title": "843299 - Treatment [washing] of coal",
+      "conceptLink": "/ec2/concept/5978050"
+    }
+  },
+  {
+    "uri": "en/40/54549",
+    "id": "54549",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Typesetting",
+    "harm": {
+      "id": "0001405",
+      "title": "54549 - Typesetting",
+      "conceptLink": "/ec2/concept/5952752"
+    }
+  },
+  {
+    "uri": "en/40/843674",
+    "id": "843674",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Typesetting services",
+    "harm": {
+      "id": "0036496",
+      "title": "843674 - Typesetting services",
+      "conceptLink": "/ec2/concept/5984832"
+    }
+  },
+  {
+    "uri": "en/40/474818",
+    "id": "474818",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Typography",
+    "harm": {
+      "id": "0033369",
+      "title": "474818 - Typography",
+      "conceptLink": "/ec2/concept/5981997"
+    }
+  },
+  {
+    "uri": "en/40/136623912",
+    "id": "136623912",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Upcycling [waste recycling]",
+    "harm": {
+      "id": "0060088",
+      "title": "136623912 - Upcycling [waste recycling]",
+      "conceptLink": "/ec2/concept/5996350"
+    }
+  },
+  {
+    "uri": "en/40/119553028",
+    "id": "119553028",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Upholstery deodorizing",
+    "harm": {
+      "id": "0068923",
+      "title": "119553028 - Upholstery deodorizing",
+      "conceptLink": "/ec2/concept/6005126"
+    }
+  },
+  {
+    "uri": "en/40/843693",
+    "id": "843693",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Vapour depositing on metal surfaces",
+    "harm": {
+      "id": "0013390",
+      "title": "843693 - Vapour depositing on metal surfaces",
+      "conceptLink": "/ec2/concept/5963711"
+    }
+  },
+  {
+    "uri": "en/40/840016",
+    "id": "840016",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Video cassette duplicating",
+    "harm": {
+      "id": "0058216",
+      "title": "840016 - Video cassette duplicating",
+      "conceptLink": "/ec2/concept/5999717"
+    }
+  },
+  {
+    "uri": "en/40/125065655",
+    "id": "125065655",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Video tapes (Transfer of cine-films on to -)",
+    "harm": {
+      "id": "0019217",
+      "title": "125065655 - Video tapes (Transfer of cine-films on to -)",
+      "conceptLink": "/ec2/concept/5969058"
+    }
+  },
+  {
+    "uri": "en/40/125065690",
+    "id": "125065690",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Video tapes (Transfer of photographic film on to -)",
+    "harm": {
+      "id": "0042032",
+      "title": "125065690 - Video tapes (Transfer of photographic film on to -)",
+      "conceptLink": "/ec2/concept/5989885"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/484026",
+    "id": "484026",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage issuing services",
+    "harm": {
+      "id": "0022537",
+      "title": "484026 - Mortgage issuing services",
+      "conceptLink": "/ec2/concept/5972083"
+    }
+  },
+  {
+    "uri": "en/36/450584",
+    "id": "450584",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage lending",
+    "harm": {
+      "id": "0004789",
+      "title": "450584 - Mortgage lending",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450630",
+    "id": "450630",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage lending and mortgage brokerage services",
+    "harm": {
+      "id": "0011398",
+      "title": "450630 - Mortgage lending and mortgage brokerage services",
+      "conceptLink": "/ec2/concept/5961887"
+    }
+  },
+  {
+    "uri": "en/36/124687763",
+    "id": "124687763",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage (Lending on -)",
+    "harm": {
+      "id": "0004789",
+      "title": "124687763 - Mortgage (Lending on -)",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450587",
+    "id": "450587",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage loan services",
+    "harm": {
+      "id": "0004789",
+      "title": "450587 - Mortgage loan services",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450588",
+    "id": "450588",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage loans",
+    "harm": {
+      "id": "0004789",
+      "title": "450588 - Mortgage loans",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450650",
+    "id": "450650",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage loans and financing services",
+    "harm": {
+      "id": "0046007",
+      "title": "450650 - Mortgage loans and financing services",
+      "conceptLink": "/ec2/concept/5993524"
+    }
+  },
+  {
+    "uri": "en/36/450667",
+    "id": "450667",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage procurement",
+    "harm": {
+      "id": "0046008",
+      "title": "450667 - Mortgage procurement",
+      "conceptLink": "/ec2/concept/5993525"
+    }
+  },
+  {
+    "uri": "en/36/808239",
+    "id": "808239",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage protection policies",
+    "harm": {
+      "id": "0039726",
+      "title": "808239 - Mortgage protection policies",
+      "conceptLink": "/ec2/concept/5987777"
+    }
+  },
+  {
+    "uri": "en/36/119550319",
+    "id": "119550319",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage refinancing",
+    "harm": {
+      "id": "0056645",
+      "title": "119550319 - Mortgage refinancing",
+      "conceptLink": "/ec2/concept/5997940"
+    }
+  },
+  {
+    "uri": "en/36/484025",
+    "id": "484025",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgage services",
+    "harm": {
+      "id": "0004789",
+      "title": "484025 - Mortgage services",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/449438",
+    "id": "449438",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgaging",
+    "harm": {
+      "id": "0004789",
+      "title": "449438 - Mortgaging",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450679",
+    "id": "450679",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgaging of securities",
+    "harm": {
+      "id": "0005677",
+      "title": "450679 - Mortgaging of securities",
+      "conceptLink": "/ec2/concept/5956657"
+    }
+  },
+  {
+    "uri": "en/36/808251",
+    "id": "808251",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mortgaging relating to property and land",
+    "harm": {
+      "id": "0033951",
+      "title": "808251 - Mortgaging relating to property and land",
+      "conceptLink": "/ec2/concept/5982527"
+    }
+  },
+  {
+    "uri": "en/36/808266",
+    "id": "808266",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Motor insurance",
+    "harm": {
+      "id": "0013391",
+      "title": "808266 - Motor insurance",
+      "conceptLink": "/ec2/concept/5963712"
+    }
+  },
+  {
+    "uri": "en/36/808281",
+    "id": "808281",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Motor insurance brokerage",
+    "harm": {
+      "id": "0033952",
+      "title": "808281 - Motor insurance brokerage",
+      "conceptLink": "/ec2/concept/5982528"
+    }
+  },
+  {
+    "uri": "en/36/808294",
+    "id": "808294",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Motor mechanical breakdown insurance warranty services",
+    "harm": {
+      "id": "0036498",
+      "title": "808294 - Motor mechanical breakdown insurance warranty services",
+      "conceptLink": "/ec2/concept/5984834"
+    }
+  },
+  {
+    "uri": "en/36/807017",
+    "id": "807017",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Motor vehicle insurance services",
+    "harm": {
+      "id": "0013391",
+      "title": "807017 - Motor vehicle insurance services",
+      "conceptLink": "/ec2/concept/5963712"
+    }
+  },
+  {
+    "uri": "en/36/905470",
+    "id": "905470",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund brokerage",
+    "harm": {
+      "id": "0023771",
+      "title": "905470 - Mutual fund brokerage",
+      "conceptLink": "/ec2/concept/5973212"
+    }
+  },
+  {
+    "uri": "en/36/450691",
+    "id": "450691",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund distribution",
+    "harm": {
+      "id": "0046009",
+      "title": "450691 - Mutual fund distribution",
+      "conceptLink": "/ec2/concept/5993526"
+    }
+  },
+  {
+    "uri": "en/36/32310",
+    "id": "32310",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund establishment",
+    "harm": {
+      "id": "0025944",
+      "title": "32310 - Mutual fund establishment",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/450706",
+    "id": "450706",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund investment",
+    "harm": {
+      "id": "0023064",
+      "title": "450706 - Mutual fund investment",
+      "conceptLink": "/ec2/concept/5972558"
+    }
+  },
+  {
+    "uri": "en/36/367024",
+    "id": "367024",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund management",
+    "harm": {
+      "id": "0046995",
+      "title": "367024 - Mutual fund management",
+      "conceptLink": "/ec2/concept/5994377"
+    }
+  },
+  {
+    "uri": "en/36/32308",
+    "id": "32308",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual fund services",
+    "harm": {
+      "id": "0025944",
+      "title": "32308 - Mutual fund services",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/32307",
+    "id": "32307",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual funds",
+    "harm": {
+      "id": "0025944",
+      "title": "32307 - Mutual funds",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/125190975",
+    "id": "125190975",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual funds (Administration of -)",
+    "harm": {
+      "id": "0047016",
+      "title": "125190975 - Mutual funds (Administration of -)",
+      "conceptLink": "/ec2/concept/5994396"
+    }
+  },
+  {
+    "uri": "en/36/32309",
+    "id": "32309",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Mutual funds services",
+    "harm": {
+      "id": "0025944",
+      "title": "32309 - Mutual funds services",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/808307",
+    "id": "808307",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "National debt collection",
+    "harm": {
+      "id": "0007555",
+      "title": "808307 - National debt collection",
+      "conceptLink": "/ec2/concept/5958372"
+    }
+  },
+  {
+    "uri": "en/36/808320",
+    "id": "808320",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "National money transfer services",
+    "harm": {
+      "id": "0042268",
+      "title": "808320 - National money transfer services",
+      "conceptLink": "/ec2/concept/5990102"
+    }
+  },
+  {
+    "uri": "en/36/31301",
+    "id": "31301",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Negotiation for the collection of cheques and bills of payment",
+    "harm": {
+      "id": "0019219",
+      "title": "31301 - Negotiation for the collection of cheques and bills of payment",
+      "conceptLink": "/ec2/concept/5969060"
+    }
+  },
+  {
+    "uri": "en/36/808332",
+    "id": "808332",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Nominee company services for investment",
+    "harm": {
+      "id": "0030702",
+      "title": "808332 - Nominee company services for investment",
+      "conceptLink": "/ec2/concept/5979577"
+    }
+  },
+  {
+    "uri": "en/36/4332688",
+    "id": "4332688",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Non-life insurance underwriting",
+    "harm": {
+      "id": "0056646",
+      "title": "4332688 - Non-life insurance underwriting",
+      "conceptLink": "/ec2/concept/5997941"
+    }
+  },
+  {
+    "uri": "en/36/35530",
+    "id": "35530",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Numismatic appraisal",
+    "harm": {
+      "id": "0017816",
+      "title": "35530 - Numismatic appraisal",
+      "conceptLink": "/ec2/concept/5967764"
+    }
+  },
+  {
+    "uri": "en/36/808361",
+    "id": "808361",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Numismatic appraisal services [valuation]",
+    "harm": {
+      "id": "0017816",
+      "title": "808361 - Numismatic appraisal services [valuation]",
+      "conceptLink": "/ec2/concept/5967764"
+    }
+  },
+  {
+    "uri": "en/36/120880835",
+    "id": "120880835",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Offshore fund management",
+    "harm": {
+      "id": "0067915",
+      "title": "120880835 - Offshore fund management",
+      "conceptLink": "/ec2/concept/6004118"
+    }
+  },
+  {
+    "uri": "en/36/808376",
+    "id": "808376",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Offshore utilised funds",
+    "harm": {
+      "id": "0024974",
+      "title": "808376 - Offshore utilised funds",
+      "conceptLink": "/ec2/concept/5974326"
+    }
+  },
+  {
+    "uri": "en/36/450725",
+    "id": "450725",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "On-line banking",
+    "harm": {
+      "id": "0058606",
+      "title": "450725 - On-line banking",
+      "conceptLink": "/ec2/concept/6000099"
+    }
+  },
+  {
+    "uri": "en/36/450726",
+    "id": "450726",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "On-line banking services",
+    "harm": {
+      "id": "0058606",
+      "title": "450726 - On-line banking services",
+      "conceptLink": "/ec2/concept/6000099"
+    }
+  },
+  {
+    "uri": "en/36/120883627",
+    "id": "120883627",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "On-line bill payment services",
+    "harm": {
+      "id": "0067992",
+      "title": "120883627 - On-line bill payment services",
+      "conceptLink": "/ec2/concept/6004195"
+    }
+  },
+  {
+    "uri": "en/36/905701",
+    "id": "905701",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "On-line real-time currency trading",
+    "harm": {
+      "id": "0013862",
+      "title": "905701 - On-line real-time currency trading",
+      "conceptLink": "/ec2/concept/5964141"
+    }
+  },
+  {
+    "uri": "en/36/4942295",
+    "id": "4942295",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Online banking",
+    "harm": {
+      "id": "0058606",
+      "title": "4942295 - Online banking",
+      "conceptLink": "/ec2/concept/6000099"
+    }
+  },
+  {
+    "uri": "en/36/35169525",
+    "id": "35169525",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Online banking services",
+    "harm": {
+      "id": "0058606",
+      "title": "35169525 - Online banking services",
+      "conceptLink": "/ec2/concept/6000099"
+    }
+  },
+  {
+    "uri": "en/36/35169547",
+    "id": "35169547",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Online business banking services",
+    "harm": {
+      "id": "0068027",
+      "title": "35169547 - Online business banking services",
+      "conceptLink": "/ec2/concept/6004230"
+    }
+  },
+  {
+    "uri": "en/36/120880854",
+    "id": "120880854",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Online financial transactions",
+    "harm": {
+      "id": "0067917",
+      "title": "120880854 - Online financial transactions",
+      "conceptLink": "/ec2/concept/6004120"
+    }
+  },
+  {
+    "uri": "en/36/808389",
+    "id": "808389",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Options trading",
+    "harm": {
+      "id": "0036499",
+      "title": "808389 - Options trading",
+      "conceptLink": "/ec2/concept/5984835"
+    }
+  },
+  {
+    "uri": "en/36/9096026",
+    "id": "9096026",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organisation of charitable collections",
+    "harm": {
+      "id": "0026437",
+      "title": "9096026 - Organisation of charitable collections",
+      "conceptLink": "/ec2/concept/5975662"
+    }
+  },
+  {
+    "uri": "en/36/33127",
+    "id": "33127",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organisation of collections",
+    "harm": {
+      "id": "0059267",
+      "title": "33127 - Organisation of collections",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/801938",
+    "id": "801938",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organisation of financial collections",
+    "harm": {
+      "id": "0059267",
+      "title": "801938 - Organisation of financial collections",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/808406",
+    "id": "808406",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organisation of trading markets for derivative instruments",
+    "harm": {
+      "id": "0024975",
+      "title": "808406 - Organisation of trading markets for derivative instruments",
+      "conceptLink": "/ec2/concept/5974327"
+    }
+  },
+  {
+    "uri": "en/36/808421",
+    "id": "808421",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organisation of trading markets for financial services",
+    "harm": {
+      "id": "0013392",
+      "title": "808421 - Organisation of trading markets for financial services",
+      "conceptLink": "/ec2/concept/5963713"
+    }
+  },
+  {
+    "uri": "en/36/801937",
+    "id": "801937",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organising financial collections",
+    "harm": {
+      "id": "0059267",
+      "title": "801937 - Organising financial collections",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/808435",
+    "id": "808435",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organising of charitable collections",
+    "harm": {
+      "id": "0026437",
+      "title": "808435 - Organising of charitable collections",
+      "conceptLink": "/ec2/concept/5975662"
+    }
+  },
+  {
+    "uri": "en/36/808450",
+    "id": "808450",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organising of debt collections",
+    "harm": {
+      "id": "0014927",
+      "title": "808450 - Organising of debt collections",
+      "conceptLink": "/ec2/concept/5965123"
+    }
+  },
+  {
+    "uri": "en/36/33129",
+    "id": "33129",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organization of collections",
+    "harm": {
+      "id": "0059267",
+      "title": "33129 - Organization of collections",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/367207",
+    "id": "367207",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Organization of stock exchanges for the benefit of the trade of stocks and other financial values",
+    "harm": {
+      "id": "0004683",
+      "title": "367207 - Organization of stock exchanges for the benefit of the trade of stocks and other financial values",
+      "conceptLink": "/ec2/concept/5955743"
+    }
+  },
+  {
+    "uri": "en/36/487027",
+    "id": "487027",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pawn brokerage",
+    "harm": {
+      "id": "0072800",
+      "title": "487027 - Pawn brokerage",
+      "conceptLink": "/ec2/concept/6008975"
+    }
+  },
+  {
+    "uri": "en/36/905876",
+    "id": "905876",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pawn shops",
+    "harm": {
+      "id": "0072800",
+      "title": "905876 - Pawn shops",
+      "conceptLink": "/ec2/concept/6008975"
+    }
+  },
+  {
+    "uri": "en/36/487029",
+    "id": "487029",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pawnbrokerage",
+    "harm": {
+      "id": "0072800",
+      "title": "487029 - Pawnbrokerage",
+      "conceptLink": "/ec2/concept/6008975"
+    }
+  },
+  {
+    "uri": "en/36/487028",
+    "id": "487028",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pawnbroking",
+    "harm": {
+      "id": "0072800",
+      "title": "487028 - Pawnbroking",
+      "conceptLink": "/ec2/concept/6008975"
+    }
+  },
+  {
+    "uri": "en/36/450764",
+    "id": "450764",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment administration services",
+    "harm": {
+      "id": "0003446",
+      "title": "450764 - Payment administration services",
+      "conceptLink": "/ec2/concept/5954602"
+    }
+  },
+  {
+    "uri": "en/36/808465",
+    "id": "808465",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment and receipt of money as agents",
+    "harm": {
+      "id": "0003318",
+      "title": "808465 - Payment and receipt of money as agents",
+      "conceptLink": "/ec2/concept/5954485"
+    }
+  },
+  {
+    "uri": "en/36/450784",
+    "id": "450784",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment processing",
+    "harm": {
+      "id": "0026551",
+      "title": "450784 - Payment processing",
+      "conceptLink": "/ec2/concept/5975766"
+    }
+  },
+  {
+    "uri": "en/36/8538651",
+    "id": "8538651",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment processing services",
+    "harm": {
+      "id": "0026551",
+      "title": "8538651 - Payment processing services",
+      "conceptLink": "/ec2/concept/5975766"
+    }
+  },
+  {
+    "uri": "en/36/120880472",
+    "id": "120880472",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment services provided via wireless telecommunications apparatus and devices",
+    "harm": {
+      "id": "0067952",
+      "title": "120880472 - Payment services provided via wireless telecommunications apparatus and devices",
+      "conceptLink": "/ec2/concept/6004155"
+    }
+  },
+  {
+    "uri": "en/36/808480",
+    "id": "808480",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payment transaction card services",
+    "harm": {
+      "id": "0026438",
+      "title": "808480 - Payment transaction card services",
+      "conceptLink": "/ec2/concept/5975663"
+    }
+  },
+  {
+    "uri": "en/36/450803",
+    "id": "450803",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Payroll tax debiting services",
+    "harm": {
+      "id": "0015038",
+      "title": "450803 - Payroll tax debiting services",
+      "conceptLink": "/ec2/concept/5965221"
+    }
+  },
+  {
+    "uri": "en/36/808494",
+    "id": "808494",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension advisory services",
+    "harm": {
+      "id": "0046755",
+      "title": "808494 - Pension advisory services",
+      "conceptLink": "/ec2/concept/5994161"
+    }
+  },
+  {
+    "uri": "en/36/499504",
+    "id": "499504",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension consultancy",
+    "harm": {
+      "id": "0046755",
+      "title": "499504 - Pension consultancy",
+      "conceptLink": "/ec2/concept/5994161"
+    }
+  },
+  {
+    "uri": "en/36/450841",
+    "id": "450841",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund administration services",
+    "harm": {
+      "id": "0046818",
+      "title": "450841 - Pension fund administration services",
+      "conceptLink": "/ec2/concept/5994217"
+    }
+  },
+  {
+    "uri": "en/36/450839",
+    "id": "450839",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund administration",
+    "harm": {
+      "id": "0046818",
+      "title": "450839 - Pension fund administration",
+      "conceptLink": "/ec2/concept/5994217"
+    }
+  },
+  {
+    "uri": "en/36/808510",
+    "id": "808510",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund financial management",
+    "harm": {
+      "id": "0043761",
+      "title": "808510 - Pension fund financial management",
+      "conceptLink": "/ec2/concept/5991458"
+    }
+  },
+  {
+    "uri": "en/36/808522",
+    "id": "808522",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund investment management",
+    "harm": {
+      "id": "0038017",
+      "title": "808522 - Pension fund investment management",
+      "conceptLink": "/ec2/concept/5986214"
+    }
+  },
+  {
+    "uri": "en/36/450842",
+    "id": "450842",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund management",
+    "harm": {
+      "id": "0046818",
+      "title": "450842 - Pension fund management",
+      "conceptLink": "/ec2/concept/5994217"
+    }
+  },
+  {
+    "uri": "en/36/36022",
+    "id": "36022",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension fund services",
+    "harm": {
+      "id": "0047155",
+      "title": "36022 - Pension fund services",
+      "conceptLink": "/ec2/concept/5994523"
+    }
+  },
+  {
+    "uri": "en/36/36023",
+    "id": "36023",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension funds",
+    "harm": {
+      "id": "0047155",
+      "title": "36023 - Pension funds",
+      "conceptLink": "/ec2/concept/5994523"
+    }
+  },
+  {
+    "uri": "en/36/450819",
+    "id": "450819",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension investment management",
+    "harm": {
+      "id": "0015039",
+      "title": "450819 - Pension investment management",
+      "conceptLink": "/ec2/concept/5965222"
+    }
+  },
+  {
+    "uri": "en/36/808537",
+    "id": "808537",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension management services",
+    "harm": {
+      "id": "0026439",
+      "title": "808537 - Pension management services",
+      "conceptLink": "/ec2/concept/5975664"
+    }
+  },
+  {
+    "uri": "en/36/499506",
+    "id": "499506",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension plan services",
+    "harm": {
+      "id": "0046761",
+      "title": "499506 - Pension plan services",
+      "conceptLink": "/ec2/concept/5994167"
+    }
+  },
+  {
+    "uri": "en/36/808551",
+    "id": "808551",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension planning",
+    "harm": {
+      "id": "0020774",
+      "title": "808551 - Pension planning",
+      "conceptLink": "/ec2/concept/5970473"
+    }
+  },
+  {
+    "uri": "en/36/808569",
+    "id": "808569",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension planning services",
+    "harm": {
+      "id": "0046761",
+      "title": "808569 - Pension planning services",
+      "conceptLink": "/ec2/concept/5994167"
+    }
+  },
+  {
+    "uri": "en/36/808592",
+    "id": "808592",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension scheme services",
+    "harm": {
+      "id": "0032742",
+      "title": "808592 - Pension scheme services",
+      "conceptLink": "/ec2/concept/5981417"
+    }
+  },
+  {
+    "uri": "en/36/808605",
+    "id": "808605",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pension services",
+    "harm": {
+      "id": "0032742",
+      "title": "808605 - Pension services",
+      "conceptLink": "/ec2/concept/5981417"
+    }
+  },
+  {
+    "uri": "en/36/499505",
+    "id": "499505",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Pensions consultancy",
+    "harm": {
+      "id": "0046755",
+      "title": "499505 - Pensions consultancy",
+      "conceptLink": "/ec2/concept/5994161"
+    }
+  },
+  {
+    "uri": "en/36/808625",
+    "id": "808625",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal banking services",
+    "harm": {
+      "id": "0026995",
+      "title": "808625 - Personal banking services",
+      "conceptLink": "/ec2/concept/5976162"
+    }
+  },
+  {
+    "uri": "en/36/808639",
+    "id": "808639",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal equity plan investment",
+    "harm": {
+      "id": "0021351",
+      "title": "808639 - Personal equity plan investment",
+      "conceptLink": "/ec2/concept/5970998"
+    }
+  },
+  {
+    "uri": "en/36/808654",
+    "id": "808654",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal equity plan management",
+    "harm": {
+      "id": "0032743",
+      "title": "808654 - Personal equity plan management",
+      "conceptLink": "/ec2/concept/5981418"
+    }
+  },
+  {
+    "uri": "en/36/808668",
+    "id": "808668",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal finance services",
+    "harm": {
+      "id": "0038542",
+      "title": "808668 - Personal finance services",
+      "conceptLink": "/ec2/concept/5986702"
+    }
+  },
+  {
+    "uri": "en/36/808683",
+    "id": "808683",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal financial banking services",
+    "harm": {
+      "id": "0003890",
+      "title": "808683 - Personal financial banking services",
+      "conceptLink": "/ec2/concept/5955013"
+    }
+  },
+  {
+    "uri": "en/36/808721",
+    "id": "808721",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal financial planning advisory services",
+    "harm": {
+      "id": "0003891",
+      "title": "808721 - Personal financial planning advisory services",
+      "conceptLink": "/ec2/concept/5955014"
+    }
+  },
+  {
+    "uri": "en/36/808700",
+    "id": "808700",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal financial planning",
+    "harm": {
+      "id": "0003891",
+      "title": "808700 - Personal financial planning",
+      "conceptLink": "/ec2/concept/5955014"
+    }
+  },
+  {
+    "uri": "en/36/808701",
+    "id": "808701",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal financial planning services",
+    "harm": {
+      "id": "0003891",
+      "title": "808701 - Personal financial planning services",
+      "conceptLink": "/ec2/concept/5955014"
+    }
+  },
+  {
+    "uri": "en/36/808736",
+    "id": "808736",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal insurance relating to liability for repayment of loans",
+    "harm": {
+      "id": "0003892",
+      "title": "808736 - Personal insurance relating to liability for repayment of loans",
+      "conceptLink": "/ec2/concept/5955015"
+    }
+  },
+  {
+    "uri": "en/36/808777",
+    "id": "808777",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal insurance services relating to the supply of legal services",
+    "harm": {
+      "id": "0015467",
+      "title": "808777 - Personal insurance services relating to the supply of legal services",
+      "conceptLink": "/ec2/concept/5965618"
+    }
+  },
+  {
+    "uri": "en/36/808748",
+    "id": "808748",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal insurance services",
+    "harm": {
+      "id": "0009639",
+      "title": "808748 - Personal insurance services",
+      "conceptLink": "/ec2/concept/5960282"
+    }
+  },
+  {
+    "uri": "en/36/808762",
+    "id": "808762",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal insurance services relating to the supply of legal advice",
+    "harm": {
+      "id": "0044314",
+      "title": "808762 - Personal insurance services relating to the supply of legal advice",
+      "conceptLink": "/ec2/concept/5991970"
+    }
+  },
+  {
+    "uri": "en/36/808789",
+    "id": "808789",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Personal loan services",
+    "harm": {
+      "id": "0015468",
+      "title": "808789 - Personal loan services",
+      "conceptLink": "/ec2/concept/5965619"
+    }
+  },
+  {
+    "uri": "en/36/450880",
+    "id": "450880",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Philanthropic services concerning monetary donations",
+    "harm": {
+      "id": "0020885",
+      "title": "450880 - Philanthropic services concerning monetary donations",
+      "conceptLink": "/ec2/concept/5970575"
+    }
+  },
+  {
+    "uri": "en/36/32409",
+    "id": "32409",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Placement of funds",
+    "harm": {
+      "id": "0072815",
+      "title": "32409 - Placement of funds",
+      "conceptLink": "/ec2/concept/6008990"
+    }
+  },
+  {
+    "uri": "en/36/125033589",
+    "id": "125033589",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Planning (estate -) [financial]",
+    "harm": {
+      "id": "0026054",
+      "title": "125033589 - Planning (estate -) [financial]",
+      "conceptLink": "/ec2/concept/5975311"
+    }
+  },
+  {
+    "uri": "en/36/808819",
+    "id": "808819",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Planning of finances relating to taxation",
+    "harm": {
+      "id": "0008708",
+      "title": "808819 - Planning of finances relating to taxation",
+      "conceptLink": "/ec2/concept/5959415"
+    }
+  }
+]

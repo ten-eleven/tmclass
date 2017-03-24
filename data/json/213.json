@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/159169",
+    "id": "159169",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer mouse",
+    "harm": {
+      "id": "0037850",
+      "title": "159169 - Computer mouse",
+      "conceptLink": "/ec2/concept/5986060"
+    }
+  },
+  {
+    "uri": "en/9/161525",
+    "id": "161525",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer mouse pads",
+    "harm": {
+      "id": "0029132",
+      "title": "161525 - Computer mouse pads",
+      "conceptLink": "/ec2/concept/5978138"
+    }
+  },
+  {
+    "uri": "en/9/159170",
+    "id": "159170",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer mouses",
+    "harm": {
+      "id": "0037850",
+      "title": "159170 - Computer mouses",
+      "conceptLink": "/ec2/concept/5986060"
+    }
+  },
+  {
+    "uri": "en/9/902022",
+    "id": "902022",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network adapters",
+    "harm": {
+      "id": "0012591",
+      "title": "902022 - Computer network adapters",
+      "conceptLink": "/ec2/concept/5962986"
+    }
+  },
+  {
+    "uri": "en/9/137937885",
+    "id": "137937885",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network-attached storage [NAS] hardware",
+    "harm": {
+      "id": "0051579",
+      "title": "137937885 - Computer network-attached storage [NAS] hardware",
+      "conceptLink": "/ec2/concept/6010565"
+    }
+  },
+  {
+    "uri": "en/9/26600137",
+    "id": "26600137",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network bridges",
+    "harm": {
+      "id": "0055048",
+      "title": "26600137 - Computer network bridges",
+      "conceptLink": "/ec2/concept/5996498"
+    }
+  },
+  {
+    "uri": "en/9/902039",
+    "id": "902039",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network hubs",
+    "harm": {
+      "id": "0012592",
+      "title": "902039 - Computer network hubs",
+      "conceptLink": "/ec2/concept/5962987"
+    }
+  },
+  {
+    "uri": "en/9/902038",
+    "id": "902038",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network routers",
+    "harm": {
+      "id": "0029922",
+      "title": "902038 - Computer network routers",
+      "conceptLink": "/ec2/concept/5978852"
+    }
+  },
+  {
+    "uri": "en/9/902061",
+    "id": "902061",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network server",
+    "harm": {
+      "id": "0022604",
+      "title": "902061 - Computer network server",
+      "conceptLink": "/ec2/concept/5972144"
+    }
+  },
+  {
+    "uri": "en/9/3641542",
+    "id": "3641542",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer network switches",
+    "harm": {
+      "id": "0055108",
+      "title": "3641542 - Computer network switches",
+      "conceptLink": "/ec2/concept/5996553"
+    }
+  },
+  {
+    "uri": "en/9/131131346",
+    "id": "131131346",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer networking and data communications equipment",
+    "harm": {
+      "id": "0047758",
+      "title": "131131346 - Computer networking and data communications equipment",
+      "conceptLink": "/ec2/concept/5995033"
+    }
+  },
+  {
+    "uri": "en/9/395701",
+    "id": "395701",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer networking hardware",
+    "harm": {
+      "id": "0030606",
+      "title": "395701 - Computer networking hardware",
+      "conceptLink": "/ec2/concept/5979485"
+    }
+  },
+  {
+    "uri": "en/9/530701",
+    "id": "530701",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer networks",
+    "harm": {
+      "id": "0015317",
+      "title": "530701 - Computer networks",
+      "conceptLink": "/ec2/concept/5965480"
+    }
+  },
+  {
+    "uri": "en/9/398936",
+    "id": "398936",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating programs",
+    "harm": {
+      "id": "0057730",
+      "title": "398936 - Computer operating programs",
+      "conceptLink": "/ec2/concept/5999234"
+    }
+  },
+  {
+    "uri": "en/9/17205716",
+    "id": "17205716",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating programmes",
+    "harm": {
+      "id": "0057730",
+      "title": "17205716 - Computer operating programmes",
+      "conceptLink": "/ec2/concept/5999234"
+    }
+  },
+  {
+    "uri": "en/9/151983",
+    "id": "151983",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating programs, recorded",
+    "harm": {
+      "id": "0031069",
+      "title": "151983 - Computer operating programs, recorded",
+      "conceptLink": "/ec2/concept/5979908"
+    }
+  },
+  {
+    "uri": "en/9/1362610",
+    "id": "1362610",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating software",
+    "harm": {
+      "id": "0057729",
+      "title": "1362610 - Computer operating software",
+      "conceptLink": "/ec2/concept/5999233"
+    }
+  },
+  {
+    "uri": "en/9/395718",
+    "id": "395718",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating system software",
+    "harm": {
+      "id": "0057729",
+      "title": "395718 - Computer operating system software",
+      "conceptLink": "/ec2/concept/5999233"
+    }
+  },
+  {
+    "uri": "en/9/902067",
+    "id": "902067",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer operating systems",
+    "harm": {
+      "id": "0035732",
+      "title": "902067 - Computer operating systems",
+      "conceptLink": "/ec2/concept/5984142"
+    }
+  },
+  {
+    "uri": "en/9/395735",
+    "id": "395735",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer parallel ports",
+    "harm": {
+      "id": "0013283",
+      "title": "395735 - Computer parallel ports",
+      "conceptLink": "/ec2/concept/5963613"
+    }
+  },
+  {
+    "uri": "en/9/158125",
+    "id": "158125",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer peripheral apparatus",
+    "harm": {
+      "id": "0025497",
+      "title": "158125 - Computer peripheral apparatus",
+      "conceptLink": "/ec2/concept/5974805"
+    }
+  },
+  {
+    "uri": "en/9/158124",
+    "id": "158124",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer peripheral devices",
+    "harm": {
+      "id": "0025497",
+      "title": "158124 - Computer peripheral devices",
+      "conceptLink": "/ec2/concept/5974805"
+    }
+  },
+  {
+    "uri": "en/9/158126",
+    "id": "158126",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer peripheral equipment",
+    "harm": {
+      "id": "0025497",
+      "title": "158126 - Computer peripheral equipment",
+      "conceptLink": "/ec2/concept/5974805"
+    }
+  },
+  {
+    "uri": "en/9/158127",
+    "id": "158127",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer peripherals",
+    "harm": {
+      "id": "0025497",
+      "title": "158127 - Computer peripherals",
+      "conceptLink": "/ec2/concept/5974805"
+    }
+  },
+  {
+    "uri": "en/9/530717",
+    "id": "530717",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer plotters",
+    "harm": {
+      "id": "0026793",
+      "title": "530717 - Computer plotters",
+      "conceptLink": "/ec2/concept/5975978"
+    }
+  },
+  {
+    "uri": "en/9/902083",
+    "id": "902083",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer printer",
+    "harm": {
+      "id": "0041505",
+      "title": "902083 - Computer printer",
+      "conceptLink": "/ec2/concept/5989406"
+    }
+  },
+  {
+    "uri": "en/9/159357",
+    "id": "159357",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer printers",
+    "harm": {
+      "id": "0041505",
+      "title": "159357 - Computer printers",
+      "conceptLink": "/ec2/concept/5989406"
+    }
+  },
+  {
+    "uri": "en/9/489092",
+    "id": "489092",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes",
+    "harm": {
+      "id": "0058849",
+      "title": "489092 - Computer programmes",
+      "conceptLink": "/ec2/concept/6000340"
+    }
+  },
+  {
+    "uri": "en/9/7137286",
+    "id": "7137286",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for document management",
+    "harm": {
+      "id": "0016200",
+      "title": "7137286 - Computer programmes for document management",
+      "conceptLink": "/ec2/concept/5966300"
+    }
+  },
+  {
+    "uri": "en/9/530746",
+    "id": "530746",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for data processing",
+    "harm": {
+      "id": "0024431",
+      "title": "530746 - Computer programmes for data processing",
+      "conceptLink": "/ec2/concept/5973821"
+    }
+  },
+  {
+    "uri": "en/9/530774",
+    "id": "530774",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for image processing",
+    "harm": {
+      "id": "0002325",
+      "title": "530774 - Computer programmes for image processing",
+      "conceptLink": "/ec2/concept/5953580"
+    }
+  },
+  {
+    "uri": "en/9/395749",
+    "id": "395749",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for interactive television and for interactive games and/or quizzes",
+    "harm": {
+      "id": "0042161",
+      "title": "395749 - Computer programmes for interactive television and for interactive games and/or quizzes",
+      "conceptLink": "/ec2/concept/5990005"
+    }
+  },
+  {
+    "uri": "en/9/161919",
+    "id": "161919",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for playing games",
+    "harm": {
+      "id": "0035892",
+      "title": "161919 - Computer programmes for playing games",
+      "conceptLink": "/ec2/concept/5984281"
+    }
+  },
+  {
+    "uri": "en/9/530793",
+    "id": "530793",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes for use in telecommunications",
+    "harm": {
+      "id": "0002326",
+      "title": "530793 - Computer programmes for use in telecommunications",
+      "conceptLink": "/ec2/concept/5953581"
+    }
+  },
+  {
+    "uri": "en/9/151981",
+    "id": "151981",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes [programs], recorded",
+    "harm": {
+      "id": "0059403",
+      "title": "151981 - Computer programmes [programs], recorded",
+      "conceptLink": "/ec2/concept/6000881"
+    }
+  },
+  {
+    "uri": "en/9/2091798",
+    "id": "2091798",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes, recorded",
+    "harm": {
+      "id": "0059403",
+      "title": "2091798 - Computer programmes, recorded",
+      "conceptLink": "/ec2/concept/6000881"
+    }
+  },
+  {
+    "uri": "en/9/530822",
+    "id": "530822",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes relating to local area networks",
+    "harm": {
+      "id": "0037031",
+      "title": "530822 - Computer programmes relating to local area networks",
+      "conceptLink": "/ec2/concept/5985325"
+    }
+  },
+  {
+    "uri": "en/9/530809",
+    "id": "530809",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes relating to financial matters",
+    "harm": {
+      "id": "0031164",
+      "title": "530809 - Computer programmes relating to financial matters",
+      "conceptLink": "/ec2/concept/5979996"
+    }
+  },
+  {
+    "uri": "en/9/530835",
+    "id": "530835",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programmes stored in digital form",
+    "harm": {
+      "id": "0037032",
+      "title": "530835 - Computer programmes stored in digital form",
+      "conceptLink": "/ec2/concept/5985326"
+    }
+  },
+  {
+    "uri": "en/9/960463",
+    "id": "960463",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs",
+    "harm": {
+      "id": "0058849",
+      "title": "960463 - Computer programs",
+      "conceptLink": "/ec2/concept/6000340"
+    }
+  },
+  {
+    "uri": "en/9/120873636",
+    "id": "120873636",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs and software for image processing used for mobile phones",
+    "harm": {
+      "id": "0065887",
+      "title": "120873636 - Computer programs and software for image processing used for mobile phones",
+      "conceptLink": "/ec2/concept/6002090"
+    }
+  },
+  {
+    "uri": "en/9/161289",
+    "id": "161289",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs [downloadable software]",
+    "harm": {
+      "id": "0019157",
+      "title": "161289 - Computer programs [downloadable software]",
+      "conceptLink": "/ec2/concept/5969002"
+    }
+  },
+  {
+    "uri": "en/9/395769",
+    "id": "395769",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for accessing and using the internet",
+    "harm": {
+      "id": "0030607",
+      "title": "395769 - Computer programs for accessing and using the internet",
+      "conceptLink": "/ec2/concept/5979486"
+    }
+  },
+  {
+    "uri": "en/9/32254272",
+    "id": "32254272",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for accessing, browsing and searching online databases",
+    "harm": {
+      "id": "0072964",
+      "title": "32254272 - Computer programs for accessing, browsing and searching online databases",
+      "conceptLink": "/ec2/concept/6009139"
+    }
+  },
+  {
+    "uri": "en/9/115949694",
+    "id": "115949694",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for connecting remotely to computers or computer networks",
+    "harm": {
+      "id": "0055053",
+      "title": "115949694 - Computer programs for connecting remotely to computers or computer networks",
+      "conceptLink": "/ec2/concept/5996502"
+    }
+  },
+  {
+    "uri": "en/9/34570709",
+    "id": "34570709",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for document management",
+    "harm": {
+      "id": "0016200",
+      "title": "34570709 - Computer programs for document management",
+      "conceptLink": "/ec2/concept/5966300"
+    }
+  },
+  {
+    "uri": "en/9/11202301",
+    "id": "11202301",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for editing images, sound and video",
+    "harm": {
+      "id": "0055054",
+      "title": "11202301 - Computer programs for editing images, sound and video",
+      "conceptLink": "/ec2/concept/5996503"
+    }
+  },
+  {
+    "uri": "en/9/120916164",
+    "id": "120916164",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for enabling access or entrance control",
+    "harm": {
+      "id": "0055059",
+      "title": "120916164 - Computer programs for enabling access or entrance control",
+      "conceptLink": "/ec2/concept/5996508"
+    }
+  },
+  {
+    "uri": "en/9/395797",
+    "id": "395797",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for network management",
+    "harm": {
+      "id": "0042162",
+      "title": "395797 - Computer programs for network management",
+      "conceptLink": "/ec2/concept/5990006"
+    }
+  },
+  {
+    "uri": "en/9/395830",
+    "id": "395830",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for playing games",
+    "harm": {
+      "id": "0035892",
+      "title": "395830 - Computer programs for playing games",
+      "conceptLink": "/ec2/concept/5984281"
+    }
+  },
+  {
+    "uri": "en/9/1706916",
+    "id": "1706916",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for pre-recorded games",
+    "harm": {
+      "id": "0055056",
+      "title": "1706916 - Computer programs for pre-recorded games",
+      "conceptLink": "/ec2/concept/5996505"
+    }
+  },
+  {
+    "uri": "en/9/530849",
+    "id": "530849",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for project management",
+    "harm": {
+      "id": "0019740",
+      "title": "530849 - Computer programs for project management",
+      "conceptLink": "/ec2/concept/5969527"
+    }
+  },
+  {
+    "uri": "en/9/233004233",
+    "id": "233004233",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for providing an all-around view for a vehicle",
+    "harm": {
+      "id": "0072289",
+      "title": "233004233 - Computer programs for providing an all-around view for a vehicle",
+      "conceptLink": "/ec2/concept/6008472"
+    }
+  },
+  {
+    "uri": "en/9/119528447",
+    "id": "119528447",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for processing digital music files",
+    "harm": {
+      "id": "0065780",
+      "title": "119528447 - Computer programs for processing digital music files",
+      "conceptLink": "/ec2/concept/6001983"
+    }
+  },
+  {
+    "uri": "en/9/4398721",
+    "id": "4398721",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for searching the contents of computers and computer networks by remote control",
+    "harm": {
+      "id": "0055058",
+      "title": "4398721 - Computer programs for searching the contents of computers and computer networks by remote control",
+      "conceptLink": "/ec2/concept/5996507"
+    }
+  },
+  {
+    "uri": "en/9/77104578",
+    "id": "77104578",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for searching remotely for content on computers and computer networks",
+    "harm": {
+      "id": "0055058",
+      "title": "77104578 - Computer programs for searching remotely for content on computers and computer networks",
+      "conceptLink": "/ec2/concept/5996507"
+    }
+  },
+  {
+    "uri": "en/9/12002865",
+    "id": "12002865",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for the enabling of access or entrance control",
+    "harm": {
+      "id": "0055059",
+      "title": "12002865 - Computer programs for the enabling of access or entrance control",
+      "conceptLink": "/ec2/concept/5996508"
+    }
+  },
+  {
+    "uri": "en/9/233004282",
+    "id": "233004282",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for use in autonomous control of vehicles",
+    "harm": {
+      "id": "0072307",
+      "title": "233004282 - Computer programs for use in autonomous control of vehicles",
+      "conceptLink": "/ec2/concept/6008490"
+    }
+  },
+  {
+    "uri": "en/9/233004283",
+    "id": "233004283",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for use in the assisted driving of vehicles",
+    "harm": {
+      "id": "0072308",
+      "title": "233004283 - Computer programs for use in the assisted driving of vehicles",
+      "conceptLink": "/ec2/concept/6008491"
+    }
+  },
+  {
+    "uri": "en/9/233004280",
+    "id": "233004280",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for use in autonomous driving of vehicles",
+    "harm": {
+      "id": "0072305",
+      "title": "233004280 - Computer programs for use in autonomous driving of vehicles",
+      "conceptLink": "/ec2/concept/6008488"
+    }
+  },
+  {
+    "uri": "en/9/233004281",
+    "id": "233004281",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for use in the autonomous navigation of vehicles",
+    "harm": {
+      "id": "0072306",
+      "title": "233004281 - Computer programs for use in the autonomous navigation of vehicles",
+      "conceptLink": "/ec2/concept/6008489"
+    }
+  },
+  {
+    "uri": "en/9/119528446",
+    "id": "119528446",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for user interface design",
+    "harm": {
+      "id": "0055060",
+      "title": "119528446 - Computer programs for user interface design",
+      "conceptLink": "/ec2/concept/5996509"
+    }
+  },
+  {
+    "uri": "en/9/1953377",
+    "id": "1953377",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for using the internet and the worldwide web",
+    "harm": {
+      "id": "0055061",
+      "title": "1953377 - Computer programs for using the internet and the worldwide web",
+      "conceptLink": "/ec2/concept/5996510"
+    }
+  },
+  {
+    "uri": "en/9/1651774",
+    "id": "1651774",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs for video and computer games",
+    "harm": {
+      "id": "0055062",
+      "title": "1651774 - Computer programs for video and computer games",
+      "conceptLink": "/ec2/concept/5996511"
+    }
+  },
+  {
+    "uri": "en/9/132813175",
+    "id": "132813175",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs, recorded",
+    "harm": {
+      "id": "0059403",
+      "title": "132813175 - Computer programs, recorded",
+      "conceptLink": "/ec2/concept/6000881"
+    }
+  },
+  {
+    "uri": "en/9/233004279",
+    "id": "233004279",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs to operate vehicles",
+    "harm": {
+      "id": "0072304",
+      "title": "233004279 - Computer programs to operate vehicles",
+      "conceptLink": "/ec2/concept/6008487"
+    }
+  },
+  {
+    "uri": "en/9/12002705",
+    "id": "12002705",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer programs used for electronic cash register systems",
+    "harm": {
+      "id": "0055063",
+      "title": "12002705 - Computer programs used for electronic cash register systems",
+      "conceptLink": "/ec2/concept/5996512"
+    }
+  },
+  {
+    "uri": "en/9/395852",
+    "id": "395852",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer screen filters",
+    "harm": {
+      "id": "0036408",
+      "title": "395852 - Computer screen filters",
+      "conceptLink": "/ec2/concept/5984753"
+    }
+  },
+  {
+    "uri": "en/9/5406240",
+    "id": "5406240",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer screen saver software",
+    "harm": {
+      "id": "0055064",
+      "title": "5406240 - Computer screen saver software",
+      "conceptLink": "/ec2/concept/5996513"
+    }
+  },
+  {
+    "uri": "en/9/397012",
+    "id": "397012",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer screens",
+    "harm": {
+      "id": "0046292",
+      "title": "397012 - Computer screens",
+      "conceptLink": "/ec2/concept/5993752"
+    }
+  },
+  {
+    "uri": "en/9/395880",
+    "id": "395880",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer search engine software",
+    "harm": {
+      "id": "0019112",
+      "title": "395880 - Computer search engine software",
+      "conceptLink": "/ec2/concept/5968960"
+    }
+  },
+  {
+    "uri": "en/9/395895",
+    "id": "395895",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer serial ports",
+    "harm": {
+      "id": "0013284",
+      "title": "395895 - Computer serial ports",
+      "conceptLink": "/ec2/concept/5963614"
+    }
+  },
+  {
+    "uri": "en/9/884792",
+    "id": "884792",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer servers",
+    "harm": {
+      "id": "0022604",
+      "title": "884792 - Computer servers",
+      "conceptLink": "/ec2/concept/5972144"
+    }
+  },
+  {
+    "uri": "en/9/37454500",
+    "id": "37454500",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer shareware",
+    "harm": {
+      "id": "0066049",
+      "title": "37454500 - Computer shareware",
+      "conceptLink": "/ec2/concept/6002252"
+    }
+  },
+  {
+    "uri": "en/9/489097",
+    "id": "489097",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software",
+    "harm": {
+      "id": "0058848",
+      "title": "489097 - Computer software",
+      "conceptLink": "/ec2/concept/6000339"
+    }
+  },
+  {
+    "uri": "en/9/530887",
+    "id": "530887",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software adapted for use in the operation of computers",
+    "harm": {
+      "id": "0037033",
+      "title": "530887 - Computer software adapted for use in the operation of computers",
+      "conceptLink": "/ec2/concept/5985327"
+    }
+  },
+  {
+    "uri": "en/9/1362590",
+    "id": "1362590",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software applications",
+    "harm": {
+      "id": "0050059",
+      "title": "1362590 - Computer software applications",
+      "conceptLink": "/ec2/concept/5995468"
+    }
+  },
+  {
+    "uri": "en/9/135623949",
+    "id": "135623949",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software applications, downloadable",
+    "harm": {
+      "id": "0050059",
+      "title": "135623949 - Computer software applications, downloadable",
+      "conceptLink": "/ec2/concept/5995468"
+    }
+  },
+  {
+    "uri": "en/9/395909",
+    "id": "395909",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software concerned with children's education",
+    "harm": {
+      "id": "0019113",
+      "title": "395909 - Computer software concerned with children's education",
+      "conceptLink": "/ec2/concept/5968961"
+    }
+  },
+  {
+    "uri": "en/9/530934",
+    "id": "530934",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software designed to estimate resource requirements",
+    "harm": {
+      "id": "0037034",
+      "title": "530934 - Computer software designed to estimate resource requirements",
+      "conceptLink": "/ec2/concept/5985328"
+    }
+  },
+  {
+    "uri": "en/9/530922",
+    "id": "530922",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software designed to estimate costs",
+    "harm": {
+      "id": "0025432",
+      "title": "530922 - Computer software designed to estimate costs",
+      "conceptLink": "/ec2/concept/5974744"
+    }
+  },
+  {
+    "uri": "en/9/395923",
+    "id": "395923",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software development tools",
+    "harm": {
+      "id": "0036409",
+      "title": "395923 - Computer software development tools",
+      "conceptLink": "/ec2/concept/5984754"
+    }
+  },
+  {
+    "uri": "en/9/395939",
+    "id": "395939",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software downloadable from global computer information networks",
+    "harm": {
+      "id": "0019114",
+      "title": "395939 - Computer software downloadable from global computer information networks",
+      "conceptLink": "/ec2/concept/5968962"
+    }
+  },
+  {
+    "uri": "en/9/530947",
+    "id": "530947",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software downloaded from the internet",
+    "harm": {
+      "id": "0023122",
+      "title": "530947 - Computer software downloaded from the internet",
+      "conceptLink": "/ec2/concept/5972611"
+    }
+  },
+  {
+    "uri": "en/9/395954",
+    "id": "395954",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for accessing information directories that may be downloaded from the global computer network",
+    "harm": {
+      "id": "0030608",
+      "title": "395954 - Computer software for accessing information directories that may be downloaded from the global computer network",
+      "conceptLink": "/ec2/concept/5979487"
+    }
+  },
+  {
+    "uri": "en/9/120917912",
+    "id": "120917912",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for administration of local area networks",
+    "harm": {
+      "id": "0066048",
+      "title": "120917912 - Computer software for administration of local area networks",
+      "conceptLink": "/ec2/concept/6002251"
+    }
+  },
+  {
+    "uri": "en/9/136312318",
+    "id": "136312318",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for advertising",
+    "harm": {
+      "id": "0060756",
+      "title": "136312318 - Computer software for advertising",
+      "conceptLink": "/ec2/concept/6001076"
+    }
+  },
+  {
+    "uri": "en/9/530989",
+    "id": "530989",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for analysing market information",
+    "harm": {
+      "id": "0017250",
+      "title": "530989 - Computer software for analysing market information",
+      "conceptLink": "/ec2/concept/5967250"
+    }
+  },
+  {
+    "uri": "en/9/395970",
+    "id": "395970",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for application and database integration",
+    "harm": {
+      "id": "0033503",
+      "title": "395970 - Computer software for application and database integration",
+      "conceptLink": "/ec2/concept/5982118"
+    }
+  },
+  {
+    "uri": "en/9/531026",
+    "id": "531026",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for assisting in the design of sports equipment",
+    "harm": {
+      "id": "0011459",
+      "title": "531026 - Computer software for assisting in the design of sports equipment",
+      "conceptLink": "/ec2/concept/5961940"
+    }
+  },
+  {
+    "uri": "en/9/395987",
+    "id": "395987",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for audibly controlling a computer and the operation thereof",
+    "harm": {
+      "id": "0010380",
+      "title": "395987 - Computer software for audibly controlling a computer and the operation thereof",
+      "conceptLink": "/ec2/concept/5960953"
+    }
+  },
+  {
+    "uri": "en/9/531039",
+    "id": "531039",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for authorising access to data bases",
+    "harm": {
+      "id": "0034579",
+      "title": "531039 - Computer software for authorising access to data bases",
+      "conceptLink": "/ec2/concept/5983098"
+    }
+  },
+  {
+    "uri": "en/9/396007",
+    "id": "396007",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for biometric systems for the identification and authentication of persons",
+    "harm": {
+      "id": "0010381",
+      "title": "396007 - Computer software for biometric systems for the identification and authentication of persons",
+      "conceptLink": "/ec2/concept/5960954"
+    }
+  },
+  {
+    "uri": "en/9/531053",
+    "id": "531053",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for business purposes",
+    "harm": {
+      "id": "0065953",
+      "title": "531053 - Computer software for business purposes",
+      "conceptLink": "/ec2/concept/6002156"
+    }
+  },
+  {
+    "uri": "en/9/232669343",
+    "id": "232669343",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for cellular phones",
+    "harm": {
+      "id": "0071475",
+      "title": "232669343 - Computer software for cellular phones",
+      "conceptLink": "/ec2/concept/6007666"
+    }
+  },
+  {
+    "uri": "en/9/396039",
+    "id": "396039",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for communication between computers over a local network",
+    "harm": {
+      "id": "0004675",
+      "title": "396039 - Computer software for communication between computers over a local network",
+      "conceptLink": "/ec2/concept/5955736"
+    }
+  },
+  {
+    "uri": "en/9/396025",
+    "id": "396025",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for communicating with users of hand-held computers",
+    "harm": {
+      "id": "0016199",
+      "title": "396025 - Computer software for communicating with users of hand-held computers",
+      "conceptLink": "/ec2/concept/5966299"
+    }
+  },
+  {
+    "uri": "en/9/396059",
+    "id": "396059",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for computer aided software engineering",
+    "harm": {
+      "id": "0010382",
+      "title": "396059 - Computer software for computer aided software engineering",
+      "conceptLink": "/ec2/concept/5960955"
+    }
+  },
+  {
+    "uri": "en/9/531079",
+    "id": "531079",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for communicating purposes between microcomputers",
+    "harm": {
+      "id": "0040371",
+      "title": "531079 - Computer software for communicating purposes between microcomputers",
+      "conceptLink": "/ec2/concept/5988370"
+    }
+  },
+  {
+    "uri": "en/9/137608477",
+    "id": "137608477",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for controlling amplifiers",
+    "harm": {
+      "id": "0072865",
+      "title": "137608477 - Computer software for controlling amplifiers",
+      "conceptLink": "/ec2/concept/6009040"
+    }
+  }
+]

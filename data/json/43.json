@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/312961",
+    "id": "312961",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver cyanide",
+    "harm": {
+      "id": "0003136",
+      "title": "312961 - Silver cyanide",
+      "conceptLink": "/ec2/concept/5954321"
+    }
+  },
+  {
+    "uri": "en/1/312974",
+    "id": "312974",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver iodide",
+    "harm": {
+      "id": "0014739",
+      "title": "312974 - Silver iodide",
+      "conceptLink": "/ec2/concept/5964949"
+    }
+  },
+  {
+    "uri": "en/1/19020",
+    "id": "19020",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver nitrate",
+    "harm": {
+      "id": "0001516",
+      "title": "19020 - Silver nitrate",
+      "conceptLink": "/ec2/concept/5952851"
+    }
+  },
+  {
+    "uri": "en/1/19019",
+    "id": "19019",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver nitrite",
+    "harm": {
+      "id": "0001516",
+      "title": "19019 - Silver nitrite",
+      "conceptLink": "/ec2/concept/5952851"
+    }
+  },
+  {
+    "uri": "en/1/312986",
+    "id": "312986",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver oxides",
+    "harm": {
+      "id": "0032021",
+      "title": "312986 - Silver oxides",
+      "conceptLink": "/ec2/concept/5980760"
+    }
+  },
+  {
+    "uri": "en/1/3477",
+    "id": "3477",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver salt solutions for silvering",
+    "harm": {
+      "id": "0040979",
+      "title": "3477 - Silver salt solutions for silvering",
+      "conceptLink": "/ec2/concept/5988923"
+    }
+  },
+  {
+    "uri": "en/1/313000",
+    "id": "313000",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Silver sulphate",
+    "harm": {
+      "id": "0014740",
+      "title": "313000 - Silver sulphate",
+      "conceptLink": "/ec2/concept/5964950"
+    }
+  },
+  {
+    "uri": "en/1/644839",
+    "id": "644839",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Single crystals of silicon",
+    "harm": {
+      "id": "0011951",
+      "title": "644839 - Single crystals of silicon",
+      "conceptLink": "/ec2/concept/5962401"
+    }
+  },
+  {
+    "uri": "en/1/21352",
+    "id": "21352",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sintering (Ceramic compositions for -) [granules and powders]",
+    "harm": {
+      "id": "0025755",
+      "title": "21352 - Sintering (Ceramic compositions for -) [granules and powders]",
+      "conceptLink": "/ec2/concept/5975037"
+    }
+  },
+  {
+    "uri": "en/1/7539",
+    "id": "7539",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Size for finishing and priming",
+    "harm": {
+      "id": "0014600",
+      "title": "7539 - Size for finishing and priming",
+      "conceptLink": "/ec2/concept/5964829"
+    }
+  },
+  {
+    "uri": "en/1/136442350",
+    "id": "136442350",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Size for use in the textile industry",
+    "harm": {
+      "id": "0035059",
+      "title": "136442350 - Size for use in the textile industry",
+      "conceptLink": "/ec2/concept/5983530"
+    }
+  },
+  {
+    "uri": "en/1/119521324",
+    "id": "119521324",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Size for walls",
+    "harm": {
+      "id": "0060268",
+      "title": "119521324 - Size for walls",
+      "conceptLink": "/ec2/concept/5998245"
+    }
+  },
+  {
+    "uri": "en/1/10095",
+    "id": "10095",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sizing agents",
+    "harm": {
+      "id": "0035059",
+      "title": "10095 - Sizing agents",
+      "conceptLink": "/ec2/concept/5983530"
+    }
+  },
+  {
+    "uri": "en/1/132872485",
+    "id": "132872485",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sizing compounds for use in manufacture",
+    "harm": {
+      "id": "0065052",
+      "title": "132872485 - Sizing compounds for use in manufacture",
+      "conceptLink": "/ec2/concept/6001255"
+    }
+  },
+  {
+    "uri": "en/1/10094",
+    "id": "10094",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sizing preparations",
+    "harm": {
+      "id": "0019102",
+      "title": "10094 - Sizing preparations",
+      "conceptLink": "/ec2/concept/5968953"
+    }
+  },
+  {
+    "uri": "en/1/8221",
+    "id": "8221",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Skins (Currying preparations for -)",
+    "harm": {
+      "id": "0057603",
+      "title": "8221 - Skins (Currying preparations for -)",
+      "conceptLink": "/ec2/concept/5999108"
+    }
+  },
+  {
+    "uri": "en/1/7802",
+    "id": "7802",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Skins (Dressing, except oils, for -)",
+    "harm": {
+      "id": "0040673",
+      "title": "7802 - Skins (Dressing, except oils, for -)",
+      "conceptLink": "/ec2/concept/5988651"
+    }
+  },
+  {
+    "uri": "en/1/15097",
+    "id": "15097",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Slag [fertilisers]",
+    "harm": {
+      "id": "0044170",
+      "title": "15097 - Slag [fertilisers]",
+      "conceptLink": "/ec2/concept/5991839"
+    }
+  },
+  {
+    "uri": "en/1/132819564",
+    "id": "132819564",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Slag [fertilizers]",
+    "harm": {
+      "id": "0044170",
+      "title": "132819564 - Slag [fertilizers]",
+      "conceptLink": "/ec2/concept/5991839"
+    }
+  },
+  {
+    "uri": "en/1/644853",
+    "id": "644853",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Slip agents",
+    "harm": {
+      "id": "0029288",
+      "title": "644853 - Slip agents",
+      "conceptLink": "/ec2/concept/5978273"
+    }
+  },
+  {
+    "uri": "en/1/644866",
+    "id": "644866",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Slow release fertilizer compositions",
+    "harm": {
+      "id": "0006174",
+      "title": "644866 - Slow release fertilizer compositions",
+      "conceptLink": "/ec2/concept/5957111"
+    }
+  },
+  {
+    "uri": "en/1/378417",
+    "id": "378417",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Smoke generating fluid for use with fog machines",
+    "harm": {
+      "id": "0022405",
+      "title": "378417 - Smoke generating fluid for use with fog machines",
+      "conceptLink": "/ec2/concept/5971961"
+    }
+  },
+  {
+    "uri": "en/1/632793",
+    "id": "632793",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Smoke suppressant chemicals",
+    "harm": {
+      "id": "0023569",
+      "title": "632793 - Smoke suppressant chemicals",
+      "conceptLink": "/ec2/concept/5973029"
+    }
+  },
+  {
+    "uri": "en/1/11813",
+    "id": "11813",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Smoking meat (Chemical preparations for -)",
+    "harm": {
+      "id": "0030003",
+      "title": "11813 - Smoking meat (Chemical preparations for -)",
+      "conceptLink": "/ec2/concept/5978925"
+    }
+  },
+  {
+    "uri": "en/1/137543357",
+    "id": "137543357",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Snow melting agents",
+    "harm": {
+      "id": "0060797",
+      "title": "137543357 - Snow melting agents",
+      "conceptLink": "/ec2/concept/6001117"
+    }
+  },
+  {
+    "uri": "en/1/16542",
+    "id": "16542",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soap [metallic] for industrial purposes",
+    "harm": {
+      "id": "0011953",
+      "title": "16542 - Soap [metallic] for industrial purposes",
+      "conceptLink": "/ec2/concept/5962403"
+    }
+  },
+  {
+    "uri": "en/1/644892",
+    "id": "644892",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soap stabilisers",
+    "harm": {
+      "id": "0011952",
+      "title": "644892 - Soap stabilisers",
+      "conceptLink": "/ec2/concept/5962402"
+    }
+  },
+  {
+    "uri": "en/1/16541",
+    "id": "16541",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soaps [metallic] for industrial purposes",
+    "harm": {
+      "id": "0011953",
+      "title": "16541 - Soaps [metallic] for industrial purposes",
+      "conceptLink": "/ec2/concept/5962403"
+    }
+  },
+  {
+    "uri": "en/1/4134",
+    "id": "4134",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soda ash",
+    "harm": {
+      "id": "0036099",
+      "title": "4134 - Soda ash",
+      "conceptLink": "/ec2/concept/5984473"
+    }
+  },
+  {
+    "uri": "en/1/16946",
+    "id": "16946",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soda (Calcined -)",
+    "harm": {
+      "id": "0032892",
+      "title": "16946 - Soda (Calcined -)",
+      "conceptLink": "/ec2/concept/5981553"
+    }
+  },
+  {
+    "uri": "en/1/16827",
+    "id": "16827",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium",
+    "harm": {
+      "id": "0023373",
+      "title": "16827 - Sodium",
+      "conceptLink": "/ec2/concept/5972848"
+    }
+  },
+  {
+    "uri": "en/1/313013",
+    "id": "313013",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium alum",
+    "harm": {
+      "id": "0032293",
+      "title": "313013 - Sodium alum",
+      "conceptLink": "/ec2/concept/5981008"
+    }
+  },
+  {
+    "uri": "en/1/313026",
+    "id": "313026",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium aluminium fluoride",
+    "harm": {
+      "id": "0026541",
+      "title": "313026 - Sodium aluminium fluoride",
+      "conceptLink": "/ec2/concept/5975758"
+    }
+  },
+  {
+    "uri": "en/1/907306",
+    "id": "907306",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium aluminium phosphate",
+    "harm": {
+      "id": "0032293",
+      "title": "907306 - Sodium aluminium phosphate",
+      "conceptLink": "/ec2/concept/5981008"
+    }
+  },
+  {
+    "uri": "en/1/313040",
+    "id": "313040",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium bicarbonate",
+    "harm": {
+      "id": "0038126",
+      "title": "313040 - Sodium bicarbonate",
+      "conceptLink": "/ec2/concept/5986313"
+    }
+  },
+  {
+    "uri": "en/1/4796",
+    "id": "4796",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium bichromate",
+    "harm": {
+      "id": "0032294",
+      "title": "4796 - Sodium bichromate",
+      "conceptLink": "/ec2/concept/5981009"
+    }
+  },
+  {
+    "uri": "en/1/313061",
+    "id": "313061",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium bisulphite",
+    "harm": {
+      "id": "0026542",
+      "title": "313061 - Sodium bisulphite",
+      "conceptLink": "/ec2/concept/5975759"
+    }
+  },
+  {
+    "uri": "en/1/313074",
+    "id": "313074",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium bromide",
+    "harm": {
+      "id": "0026543",
+      "title": "313074 - Sodium bromide",
+      "conceptLink": "/ec2/concept/5975760"
+    }
+  },
+  {
+    "uri": "en/1/313088",
+    "id": "313088",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium carbonate",
+    "harm": {
+      "id": "0032295",
+      "title": "313088 - Sodium carbonate",
+      "conceptLink": "/ec2/concept/5981010"
+    }
+  },
+  {
+    "uri": "en/1/313114",
+    "id": "313114",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium chlorate",
+    "harm": {
+      "id": "0046646",
+      "title": "313114 - Sodium chlorate",
+      "conceptLink": "/ec2/concept/5994069"
+    }
+  },
+  {
+    "uri": "en/1/313115",
+    "id": "313115",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium chloride",
+    "harm": {
+      "id": "0009185",
+      "title": "313115 - Sodium chloride",
+      "conceptLink": "/ec2/concept/5959866"
+    }
+  },
+  {
+    "uri": "en/1/907307",
+    "id": "907307",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium chlorite",
+    "harm": {
+      "id": "0037324",
+      "title": "907307 - Sodium chlorite",
+      "conceptLink": "/ec2/concept/5985586"
+    }
+  },
+  {
+    "uri": "en/1/313143",
+    "id": "313143",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium chromate",
+    "harm": {
+      "id": "0009186",
+      "title": "313143 - Sodium chromate",
+      "conceptLink": "/ec2/concept/5959867"
+    }
+  },
+  {
+    "uri": "en/1/313155",
+    "id": "313155",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium cyanide",
+    "harm": {
+      "id": "0015026",
+      "title": "313155 - Sodium cyanide",
+      "conceptLink": "/ec2/concept/5965211"
+    }
+  },
+  {
+    "uri": "en/1/313167",
+    "id": "313167",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium fluoride",
+    "harm": {
+      "id": "0003433",
+      "title": "313167 - Sodium fluoride",
+      "conceptLink": "/ec2/concept/5954589"
+    }
+  },
+  {
+    "uri": "en/1/313183",
+    "id": "313183",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium fluosilicate",
+    "harm": {
+      "id": "0003434",
+      "title": "313183 - Sodium fluosilicate",
+      "conceptLink": "/ec2/concept/5954590"
+    }
+  },
+  {
+    "uri": "en/1/907308",
+    "id": "907308",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium formate",
+    "harm": {
+      "id": "0037325",
+      "title": "907308 - Sodium formate",
+      "conceptLink": "/ec2/concept/5985587"
+    }
+  },
+  {
+    "uri": "en/1/313196",
+    "id": "313196",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium gold chloride",
+    "harm": {
+      "id": "0038127",
+      "title": "313196 - Sodium gold chloride",
+      "conceptLink": "/ec2/concept/5986314"
+    }
+  },
+  {
+    "uri": "en/1/137871985",
+    "id": "137871985",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium hydroxide for industrial purposes",
+    "harm": {
+      "id": "0073573",
+      "title": "137871985 - Sodium hydroxide for industrial purposes",
+      "conceptLink": "/ec2/concept/6009745"
+    }
+  },
+  {
+    "uri": "en/1/13135",
+    "id": "13135",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium hypochlorite",
+    "harm": {
+      "id": "0043854",
+      "title": "13135 - Sodium hypochlorite",
+      "conceptLink": "/ec2/concept/5991546"
+    }
+  },
+  {
+    "uri": "en/1/313209",
+    "id": "313209",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium iodide",
+    "harm": {
+      "id": "0020872",
+      "title": "313209 - Sodium iodide",
+      "conceptLink": "/ec2/concept/5970564"
+    }
+  },
+  {
+    "uri": "en/1/313222",
+    "id": "313222",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium molybdate",
+    "harm": {
+      "id": "0043855",
+      "title": "313222 - Sodium molybdate",
+      "conceptLink": "/ec2/concept/5991547"
+    }
+  },
+  {
+    "uri": "en/1/313235",
+    "id": "313235",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium naphthionate",
+    "harm": {
+      "id": "0015027",
+      "title": "313235 - Sodium naphthionate",
+      "conceptLink": "/ec2/concept/5965212"
+    }
+  },
+  {
+    "uri": "en/1/313249",
+    "id": "313249",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium nitrate",
+    "harm": {
+      "id": "0003435",
+      "title": "313249 - Sodium nitrate",
+      "conceptLink": "/ec2/concept/5954591"
+    }
+  },
+  {
+    "uri": "en/1/313269",
+    "id": "313269",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium nitrate fertilizer",
+    "harm": {
+      "id": "0007868",
+      "title": "313269 - Sodium nitrate fertilizer",
+      "conceptLink": "/ec2/concept/5958660"
+    }
+  },
+  {
+    "uri": "en/1/313281",
+    "id": "313281",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium nitrite",
+    "harm": {
+      "id": "0019574",
+      "title": "313281 - Sodium nitrite",
+      "conceptLink": "/ec2/concept/5969378"
+    }
+  },
+  {
+    "uri": "en/1/313294",
+    "id": "313294",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium oxynaphthionate",
+    "harm": {
+      "id": "0042597",
+      "title": "313294 - Sodium oxynaphthionate",
+      "conceptLink": "/ec2/concept/5990400"
+    }
+  },
+  {
+    "uri": "en/1/14936",
+    "id": "14936",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium perborate",
+    "harm": {
+      "id": "0013714",
+      "title": "14936 - Sodium perborate",
+      "conceptLink": "/ec2/concept/5964002"
+    }
+  },
+  {
+    "uri": "en/1/313307",
+    "id": "313307",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium permanganate",
+    "harm": {
+      "id": "0036855",
+      "title": "313307 - Sodium permanganate",
+      "conceptLink": "/ec2/concept/5985164"
+    }
+  },
+  {
+    "uri": "en/1/137745834",
+    "id": "137745834",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium peroxide",
+    "harm": {
+      "id": "0073323",
+      "title": "137745834 - Sodium peroxide",
+      "conceptLink": "/ec2/concept/6009496"
+    }
+  },
+  {
+    "uri": "en/1/313319",
+    "id": "313319",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium phosphate",
+    "harm": {
+      "id": "0042598",
+      "title": "313319 - Sodium phosphate",
+      "conceptLink": "/ec2/concept/5990401"
+    }
+  },
+  {
+    "uri": "en/1/134896706",
+    "id": "134896706",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium salts [chemical compounds]",
+    "harm": {
+      "id": "0021506",
+      "title": "134896706 - Sodium salts [chemical compounds]",
+      "conceptLink": "/ec2/concept/5971136"
+    }
+  },
+  {
+    "uri": "en/1/17021",
+    "id": "17021",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium salts [chemical preparations]",
+    "harm": {
+      "id": "0021506",
+      "title": "17021 - Sodium salts [chemical preparations]",
+      "conceptLink": "/ec2/concept/5971136"
+    }
+  },
+  {
+    "uri": "en/1/313333",
+    "id": "313333",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium silicate",
+    "harm": {
+      "id": "0025275",
+      "title": "313333 - Sodium silicate",
+      "conceptLink": "/ec2/concept/5974597"
+    }
+  },
+  {
+    "uri": "en/1/313334",
+    "id": "313334",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium silicates",
+    "harm": {
+      "id": "0025275",
+      "title": "313334 - Sodium silicates",
+      "conceptLink": "/ec2/concept/5974597"
+    }
+  },
+  {
+    "uri": "en/1/313358",
+    "id": "313358",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium sulfanilate",
+    "harm": {
+      "id": "0036856",
+      "title": "313358 - Sodium sulfanilate",
+      "conceptLink": "/ec2/concept/5985165"
+    }
+  },
+  {
+    "uri": "en/1/313372",
+    "id": "313372",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium sulphate",
+    "harm": {
+      "id": "0031014",
+      "title": "313372 - Sodium sulphate",
+      "conceptLink": "/ec2/concept/5979857"
+    }
+  },
+  {
+    "uri": "en/1/313392",
+    "id": "313392",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium sulphide",
+    "harm": {
+      "id": "0036857",
+      "title": "313392 - Sodium sulphide",
+      "conceptLink": "/ec2/concept/5985166"
+    }
+  },
+  {
+    "uri": "en/1/313404",
+    "id": "313404",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium sulphite",
+    "harm": {
+      "id": "0031015",
+      "title": "313404 - Sodium sulphite",
+      "conceptLink": "/ec2/concept/5979858"
+    }
+  },
+  {
+    "uri": "en/1/313416",
+    "id": "313416",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium tartrate",
+    "harm": {
+      "id": "0025276",
+      "title": "313416 - Sodium tartrate",
+      "conceptLink": "/ec2/concept/5974598"
+    }
+  },
+  {
+    "uri": "en/1/313429",
+    "id": "313429",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium tetraborate",
+    "harm": {
+      "id": "0042599",
+      "title": "313429 - Sodium tetraborate",
+      "conceptLink": "/ec2/concept/5990402"
+    }
+  },
+  {
+    "uri": "en/1/313442",
+    "id": "313442",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium thiosulfate",
+    "harm": {
+      "id": "0019575",
+      "title": "313442 - Sodium thiosulfate",
+      "conceptLink": "/ec2/concept/5969379"
+    }
+  },
+  {
+    "uri": "en/1/313455",
+    "id": "313455",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sodium tungstate",
+    "harm": {
+      "id": "0007869",
+      "title": "313455 - Sodium tungstate",
+      "conceptLink": "/ec2/concept/5958661"
+    }
+  },
+  {
+    "uri": "en/1/644918",
+    "id": "644918",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Softeners for leather",
+    "harm": {
+      "id": "0010719",
+      "title": "644918 - Softeners for leather",
+      "conceptLink": "/ec2/concept/5961271"
+    }
+  },
+  {
+    "uri": "en/1/974",
+    "id": "974",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Softening preparations (Water -)",
+    "harm": {
+      "id": "0045646",
+      "title": "974 - Softening preparations (Water -)",
+      "conceptLink": "/ec2/concept/5993188"
+    }
+  },
+  {
+    "uri": "en/1/378429",
+    "id": "378429",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil additives",
+    "harm": {
+      "id": "0004985",
+      "title": "378429 - Soil additives",
+      "conceptLink": "/ec2/concept/5956024"
+    }
+  },
+  {
+    "uri": "en/1/644930",
+    "id": "644930",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil additives [fertilising]",
+    "harm": {
+      "id": "0016525",
+      "title": "644930 - Soil additives [fertilising]",
+      "conceptLink": "/ec2/concept/5966596"
+    }
+  },
+  {
+    "uri": "en/1/644946",
+    "id": "644946",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil amendment agents [other than sterilising]",
+    "harm": {
+      "id": "0010720",
+      "title": "644946 - Soil amendment agents [other than sterilising]",
+      "conceptLink": "/ec2/concept/5961272"
+    }
+  },
+  {
+    "uri": "en/1/2334",
+    "id": "2334",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil amendments",
+    "harm": {
+      "id": "0058527",
+      "title": "2334 - Soil amendments",
+      "conceptLink": "/ec2/concept/6000025"
+    }
+  },
+  {
+    "uri": "en/1/132807153",
+    "id": "132807153",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil amendments for agricultural use",
+    "harm": {
+      "id": "0070805",
+      "title": "132807153 - Soil amendments for agricultural use",
+      "conceptLink": "/ec2/concept/6006997"
+    }
+  },
+  {
+    "uri": "en/1/132857559",
+    "id": "132857559",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil amendments for horticultural use",
+    "harm": {
+      "id": "0070807",
+      "title": "132857559 - Soil amendments for horticultural use",
+      "conceptLink": "/ec2/concept/6006999"
+    }
+  },
+  {
+    "uri": "en/1/2335",
+    "id": "2335",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioners",
+    "harm": {
+      "id": "0058527",
+      "title": "2335 - Soil conditioners",
+      "conceptLink": "/ec2/concept/6000025"
+    }
+  },
+  {
+    "uri": "en/1/119782940",
+    "id": "119782940",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioners for agricultural purposes",
+    "harm": {
+      "id": "0060269",
+      "title": "119782940 - Soil conditioners for agricultural purposes",
+      "conceptLink": "/ec2/concept/5998246"
+    }
+  },
+  {
+    "uri": "en/1/119760181",
+    "id": "119760181",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioners for horticultural purposes",
+    "harm": {
+      "id": "0060270",
+      "title": "119760181 - Soil conditioners for horticultural purposes",
+      "conceptLink": "/ec2/concept/5998247"
+    }
+  },
+  {
+    "uri": "en/1/644974",
+    "id": "644974",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioners for inoculation into the soil preparatory to the sowing of seeds [other than sterilising]",
+    "harm": {
+      "id": "0016527",
+      "title": "644974 - Soil conditioners for inoculation into the soil preparatory to the sowing of seeds [other than sterilising]",
+      "conceptLink": "/ec2/concept/5966598"
+    }
+  },
+  {
+    "uri": "en/1/644958",
+    "id": "644958",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioners [other than sterilising]",
+    "harm": {
+      "id": "0016526",
+      "title": "644958 - Soil conditioners [other than sterilising]",
+      "conceptLink": "/ec2/concept/5966597"
+    }
+  },
+  {
+    "uri": "en/1/644986",
+    "id": "644986",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning chemicals [other than sterilising]",
+    "harm": {
+      "id": "0010721",
+      "title": "644986 - Soil conditioning chemicals [other than sterilising]",
+      "conceptLink": "/ec2/concept/5961273"
+    }
+  },
+  {
+    "uri": "en/1/2340",
+    "id": "2340",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning chemicals",
+    "harm": {
+      "id": "0031287",
+      "title": "2340 - Soil conditioning chemicals",
+      "conceptLink": "/ec2/concept/5980109"
+    }
+  },
+  {
+    "uri": "en/1/645014",
+    "id": "645014",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for enhancing the growth of garden products",
+    "harm": {
+      "id": "0021679",
+      "title": "645014 - Soil conditioning preparations for enhancing the growth of garden products",
+      "conceptLink": "/ec2/concept/5971291"
+    }
+  },
+  {
+    "uri": "en/1/645040",
+    "id": "645040",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for regulating the growth of agricultural products",
+    "harm": {
+      "id": "0038867",
+      "title": "645040 - Soil conditioning preparations for regulating the growth of agricultural products",
+      "conceptLink": "/ec2/concept/5986991"
+    }
+  },
+  {
+    "uri": "en/1/645002",
+    "id": "645002",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for enhancing the growth of agricultural products",
+    "harm": {
+      "id": "0022416",
+      "title": "645002 - Soil conditioning preparations for enhancing the growth of agricultural products",
+      "conceptLink": "/ec2/concept/5971972"
+    }
+  },
+  {
+    "uri": "en/1/645065",
+    "id": "645065",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for regulating the growth of horticultural products",
+    "harm": {
+      "id": "0009963",
+      "title": "645065 - Soil conditioning preparations for regulating the growth of horticultural products",
+      "conceptLink": "/ec2/concept/5960575"
+    }
+  },
+  {
+    "uri": "en/1/645027",
+    "id": "645027",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for enhancing the growth of horticultural products",
+    "harm": {
+      "id": "0033062",
+      "title": "645027 - Soil conditioning preparations for enhancing the growth of horticultural products",
+      "conceptLink": "/ec2/concept/5981713"
+    }
+  },
+  {
+    "uri": "en/1/645052",
+    "id": "645052",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations for regulating the growth of garden products",
+    "harm": {
+      "id": "0027318",
+      "title": "645052 - Soil conditioning preparations for regulating the growth of garden products",
+      "conceptLink": "/ec2/concept/5976452"
+    }
+  },
+  {
+    "uri": "en/1/131088817",
+    "id": "131088817",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil-conditioning preparations",
+    "harm": {
+      "id": "0058528",
+      "title": "131088817 - Soil-conditioning preparations",
+      "conceptLink": "/ec2/concept/6000026"
+    }
+  },
+  {
+    "uri": "en/1/2333",
+    "id": "2333",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning preparations",
+    "harm": {
+      "id": "0058528",
+      "title": "2333 - Soil conditioning preparations",
+      "conceptLink": "/ec2/concept/6000026"
+    }
+  },
+  {
+    "uri": "en/1/645077",
+    "id": "645077",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil conditioning substances [other than sterilising]",
+    "harm": {
+      "id": "0044619",
+      "title": "645077 - Soil conditioning substances [other than sterilising]",
+      "conceptLink": "/ec2/concept/5992251"
+    }
+  },
+  {
+    "uri": "en/1/645090",
+    "id": "645090",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil enrichment chemicals",
+    "harm": {
+      "id": "0033063",
+      "title": "645090 - Soil enrichment chemicals",
+      "conceptLink": "/ec2/concept/5981714"
+    }
+  },
+  {
+    "uri": "en/1/233463076",
+    "id": "233463076",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil for growing",
+    "harm": {
+      "id": "0041523",
+      "title": "233463076 - Soil for growing",
+      "conceptLink": "/ec2/concept/5989424"
+    }
+  },
+  {
+    "uri": "en/1/645103",
+    "id": "645103",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil improvement substances",
+    "harm": {
+      "id": "0017359",
+      "title": "645103 - Soil improvement substances",
+      "conceptLink": "/ec2/concept/5967348"
+    }
+  }
+]

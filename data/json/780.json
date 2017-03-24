@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/44/68402",
+    "id": "68402",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Lawn maintenance services",
+    "harm": {
+      "id": "0027581",
+      "title": "68402 - Lawn maintenance services",
+      "conceptLink": "/ec2/concept/5976700"
+    }
+  },
+  {
+    "uri": "en/44/476418",
+    "id": "476418",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Lawn mowing services",
+    "harm": {
+      "id": "0010417",
+      "title": "476418 - Lawn mowing services",
+      "conceptLink": "/ec2/concept/5960988"
+    }
+  },
+  {
+    "uri": "en/44/120888161",
+    "id": "120888161",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Laying of artificial turf",
+    "harm": {
+      "id": "0069629",
+      "title": "120888161 - Laying of artificial turf",
+      "conceptLink": "/ec2/concept/6005832"
+    }
+  },
+  {
+    "uri": "en/44/878286",
+    "id": "878286",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Laying of turf",
+    "harm": {
+      "id": "0040313",
+      "title": "878286 - Laying of turf",
+      "conceptLink": "/ec2/concept/5988318"
+    }
+  },
+  {
+    "uri": "en/44/119555929",
+    "id": "119555929",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Leasing of livestock",
+    "harm": {
+      "id": "0069679",
+      "title": "119555929 - Leasing of livestock",
+      "conceptLink": "/ec2/concept/6005882"
+    }
+  },
+  {
+    "uri": "en/44/476447",
+    "id": "476447",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Leasing of medical equipment",
+    "harm": {
+      "id": "0007161",
+      "title": "476447 - Leasing of medical equipment",
+      "conceptLink": "/ec2/concept/5958007"
+    }
+  },
+  {
+    "uri": "en/44/878299",
+    "id": "878299",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Leasing of showers",
+    "harm": {
+      "id": "0040314",
+      "title": "878299 - Leasing of showers",
+      "conceptLink": "/ec2/concept/5988319"
+    }
+  },
+  {
+    "uri": "en/44/476491",
+    "id": "476491",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Leasing skin care equipment",
+    "harm": {
+      "id": "0028347",
+      "title": "476491 - Leasing skin care equipment",
+      "conceptLink": "/ec2/concept/5977405"
+    }
+  },
+  {
+    "uri": "en/44/103213908",
+    "id": "103213908",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Light therapy services",
+    "harm": {
+      "id": "0071547",
+      "title": "103213908 - Light therapy services",
+      "conceptLink": "/ec2/concept/6007738"
+    }
+  },
+  {
+    "uri": "en/44/137929103",
+    "id": "137929103",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Liposuction services",
+    "harm": {
+      "id": "0071548",
+      "title": "137929103 - Liposuction services",
+      "conceptLink": "/ec2/concept/6007739"
+    }
+  },
+  {
+    "uri": "en/44/131114091",
+    "id": "131114091",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Livestock farming services",
+    "harm": {
+      "id": "0008369",
+      "title": "131114091 - Livestock farming services",
+      "conceptLink": "/ec2/concept/5959113"
+    }
+  },
+  {
+    "uri": "en/44/137887382",
+    "id": "137887382",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Lung cancer screening services",
+    "harm": {
+      "id": "0071549",
+      "title": "137887382 - Lung cancer screening services",
+      "conceptLink": "/ec2/concept/6007740"
+    }
+  },
+  {
+    "uri": "en/44/137544515",
+    "id": "137544515",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Lymphatic drainage services",
+    "harm": {
+      "id": "0028736",
+      "title": "137544515 - Lymphatic drainage services",
+      "conceptLink": "/ec2/concept/5977770"
+    }
+  },
+  {
+    "uri": "en/44/878337",
+    "id": "878337",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Lymphodrainage services",
+    "harm": {
+      "id": "0028736",
+      "title": "878337 - Lymphodrainage services",
+      "conceptLink": "/ec2/concept/5977770"
+    }
+  },
+  {
+    "uri": "en/44/476502",
+    "id": "476502",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Maintaining personal medical history records and files",
+    "harm": {
+      "id": "0022692",
+      "title": "476502 - Maintaining personal medical history records and files",
+      "conceptLink": "/ec2/concept/5972224"
+    }
+  },
+  {
+    "uri": "en/44/905056",
+    "id": "905056",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Make-up application services",
+    "harm": {
+      "id": "0000521",
+      "title": "905056 - Make-up application services",
+      "conceptLink": "/ec2/concept/5951956"
+    }
+  },
+  {
+    "uri": "en/44/120888128",
+    "id": "120888128",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Make-up consultation and application services",
+    "harm": {
+      "id": "0071404",
+      "title": "120888128 - Make-up consultation and application services",
+      "conceptLink": "/ec2/concept/6007595"
+    }
+  },
+  {
+    "uri": "en/44/120888131",
+    "id": "120888131",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Make-up consultation services provided on-line or in-person",
+    "harm": {
+      "id": "0069650",
+      "title": "120888131 - Make-up consultation services provided on-line or in-person",
+      "conceptLink": "/ec2/concept/6005853"
+    }
+  },
+  {
+    "uri": "en/44/878352",
+    "id": "878352",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Make-up services",
+    "harm": {
+      "id": "0000521",
+      "title": "878352 - Make-up services",
+      "conceptLink": "/ec2/concept/5951956"
+    }
+  },
+  {
+    "uri": "en/44/883451",
+    "id": "883451",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Mammography testing services",
+    "harm": {
+      "id": "0019411",
+      "title": "883451 - Mammography testing services",
+      "conceptLink": "/ec2/concept/5969228"
+    }
+  },
+  {
+    "uri": "en/44/905074",
+    "id": "905074",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Managed health care services",
+    "harm": {
+      "id": "0017257",
+      "title": "905074 - Managed health care services",
+      "conceptLink": "/ec2/concept/5967257"
+    }
+  },
+  {
+    "uri": "en/44/2885562",
+    "id": "2885562",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Manicure and pedicure services",
+    "harm": {
+      "id": "0069659",
+      "title": "2885562 - Manicure and pedicure services",
+      "conceptLink": "/ec2/concept/6005862"
+    }
+  },
+  {
+    "uri": "en/44/68446",
+    "id": "68446",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Manicure services",
+    "harm": {
+      "id": "0035551",
+      "title": "68446 - Manicure services",
+      "conceptLink": "/ec2/concept/5983979"
+    }
+  },
+  {
+    "uri": "en/44/68444",
+    "id": "68444",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Manicuring",
+    "harm": {
+      "id": "0035551",
+      "title": "68444 - Manicuring",
+      "conceptLink": "/ec2/concept/5983979"
+    }
+  },
+  {
+    "uri": "en/44/68445",
+    "id": "68445",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Manicuring services",
+    "harm": {
+      "id": "0035551",
+      "title": "68445 - Manicuring services",
+      "conceptLink": "/ec2/concept/5983979"
+    }
+  },
+  {
+    "uri": "en/44/67716",
+    "id": "67716",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Massage",
+    "harm": {
+      "id": "0012392",
+      "title": "67716 - Massage",
+      "conceptLink": "/ec2/concept/5962806"
+    }
+  },
+  {
+    "uri": "en/44/375965",
+    "id": "375965",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Massage and therapeutic shiatsu massage",
+    "harm": {
+      "id": "0009233",
+      "title": "375965 - Massage and therapeutic shiatsu massage",
+      "conceptLink": "/ec2/concept/5959907"
+    }
+  },
+  {
+    "uri": "en/44/67717",
+    "id": "67717",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Massage services",
+    "harm": {
+      "id": "0012392",
+      "title": "67717 - Massage services",
+      "conceptLink": "/ec2/concept/5962806"
+    }
+  },
+  {
+    "uri": "en/44/67715",
+    "id": "67715",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Massages",
+    "harm": {
+      "id": "0012392",
+      "title": "67715 - Massages",
+      "conceptLink": "/ec2/concept/5962806"
+    }
+  },
+  {
+    "uri": "en/44/136630950",
+    "id": "136630950",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical advice for individuals with disabilities",
+    "harm": {
+      "id": "0060093",
+      "title": "136630950 - Medical advice for individuals with disabilities",
+      "conceptLink": "/ec2/concept/5996357"
+    }
+  },
+  {
+    "uri": "en/44/137172454",
+    "id": "137172454",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical advice in the field of pregnancy",
+    "harm": {
+      "id": "0060212",
+      "title": "137172454 - Medical advice in the field of pregnancy",
+      "conceptLink": "/ec2/concept/5998210"
+    }
+  },
+  {
+    "uri": "en/44/376001",
+    "id": "376001",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical advisory services",
+    "harm": {
+      "id": "0058400",
+      "title": "376001 - Medical advisory services",
+      "conceptLink": "/ec2/concept/5999899"
+    }
+  },
+  {
+    "uri": "en/44/4757197",
+    "id": "4757197",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis for the diagnosis and treatment of persons",
+    "harm": {
+      "id": "0069559",
+      "title": "4757197 - Medical analysis for the diagnosis and treatment of persons",
+      "conceptLink": "/ec2/concept/6005762"
+    }
+  },
+  {
+    "uri": "en/44/878373",
+    "id": "878373",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services",
+    "harm": {
+      "id": "0023697",
+      "title": "878373 - Medical analysis services",
+      "conceptLink": "/ec2/concept/5973143"
+    }
+  },
+  {
+    "uri": "en/44/120888334",
+    "id": "120888334",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services relating to the treatment of persons",
+    "harm": {
+      "id": "0069624",
+      "title": "120888334 - Medical analysis services relating to the treatment of persons",
+      "conceptLink": "/ec2/concept/6005827"
+    }
+  },
+  {
+    "uri": "en/44/120888020",
+    "id": "120888020",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services for the diagnosis of cancer",
+    "harm": {
+      "id": "0069666",
+      "title": "120888020 - Medical analysis services for the diagnosis of cancer",
+      "conceptLink": "/ec2/concept/6005869"
+    }
+  },
+  {
+    "uri": "en/44/120888017",
+    "id": "120888017",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services for cancer diagnosis and prognosis",
+    "harm": {
+      "id": "0069667",
+      "title": "120888017 - Medical analysis services for cancer diagnosis and prognosis",
+      "conceptLink": "/ec2/concept/6005870"
+    }
+  },
+  {
+    "uri": "en/44/120885951",
+    "id": "120885951",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services relating to the treatment of patients",
+    "harm": {
+      "id": "0069602",
+      "title": "120885951 - Medical analysis services relating to the treatment of patients",
+      "conceptLink": "/ec2/concept/6005805"
+    }
+  },
+  {
+    "uri": "en/44/120886129",
+    "id": "120886129",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical analysis services relating to the treatment of persons provided by a medical laboratory",
+    "harm": {
+      "id": "0069544",
+      "title": "120886129 - Medical analysis services relating to the treatment of persons provided by a medical laboratory",
+      "conceptLink": "/ec2/concept/6005747"
+    }
+  },
+  {
+    "uri": "en/44/120885916",
+    "id": "120885916",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical and health services relating to DNA, genetics and genetic testing",
+    "harm": {
+      "id": "0069579",
+      "title": "120885916 - Medical and health services relating to DNA, genetics and genetic testing",
+      "conceptLink": "/ec2/concept/6005782"
+    }
+  },
+  {
+    "uri": "en/44/120888232",
+    "id": "120888232",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical and healthcare clinics",
+    "harm": {
+      "id": "0069633",
+      "title": "120888232 - Medical and healthcare clinics",
+      "conceptLink": "/ec2/concept/6005836"
+    }
+  },
+  {
+    "uri": "en/44/4884084",
+    "id": "4884084",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical and healthcare services",
+    "harm": {
+      "id": "0071402",
+      "title": "4884084 - Medical and healthcare services",
+      "conceptLink": "/ec2/concept/6007593"
+    }
+  },
+  {
+    "uri": "en/44/67770",
+    "id": "67770",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical assistance",
+    "harm": {
+      "id": "0047372",
+      "title": "67770 - Medical assistance",
+      "conceptLink": "/ec2/concept/5994706"
+    }
+  },
+  {
+    "uri": "en/44/375979",
+    "id": "375979",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical assistance consultancy provided by doctors and other specialized medical personnel",
+    "harm": {
+      "id": "0026583",
+      "title": "375979 - Medical assistance consultancy provided by doctors and other specialized medical personnel",
+      "conceptLink": "/ec2/concept/5975794"
+    }
+  },
+  {
+    "uri": "en/44/67775",
+    "id": "67775",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical assistance services",
+    "harm": {
+      "id": "0047372",
+      "title": "67775 - Medical assistance services",
+      "conceptLink": "/ec2/concept/5994706"
+    }
+  },
+  {
+    "uri": "en/44/67772",
+    "id": "67772",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical care",
+    "harm": {
+      "id": "0057066",
+      "title": "67772 - Medical care",
+      "conceptLink": "/ec2/concept/5998699"
+    }
+  },
+  {
+    "uri": "en/44/120888076",
+    "id": "120888076",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical care and analysis services relating to patient treatment",
+    "harm": {
+      "id": "0069637",
+      "title": "120888076 - Medical care and analysis services relating to patient treatment",
+      "conceptLink": "/ec2/concept/6005840"
+    }
+  },
+  {
+    "uri": "en/44/878392",
+    "id": "878392",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical care services",
+    "harm": {
+      "id": "0057066",
+      "title": "878392 - Medical care services",
+      "conceptLink": "/ec2/concept/5998699"
+    }
+  },
+  {
+    "uri": "en/44/119555957",
+    "id": "119555957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical clinic day care services for sick children",
+    "harm": {
+      "id": "0069676",
+      "title": "119555957 - Medical clinic day care services for sick children",
+      "conceptLink": "/ec2/concept/6005879"
+    }
+  },
+  {
+    "uri": "en/44/67124",
+    "id": "67124",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical clinic services",
+    "harm": {
+      "id": "0025760",
+      "title": "67124 - Medical clinic services",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/1265732",
+    "id": "1265732",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical clinics",
+    "harm": {
+      "id": "0025760",
+      "title": "1265732 - Medical clinics",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/120886041",
+    "id": "120886041",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical consultancy for selecting appropriate wheelchairs, commodes, invalid hoists, walking frames and beds",
+    "harm": {
+      "id": "0069598",
+      "title": "120886041 - Medical consultancy for selecting appropriate wheelchairs, commodes, invalid hoists, walking frames and beds",
+      "conceptLink": "/ec2/concept/6005801"
+    }
+  },
+  {
+    "uri": "en/44/120888269",
+    "id": "120888269",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical consultancy relating to hearing loss",
+    "harm": {
+      "id": "0069617",
+      "title": "120888269 - Medical consultancy relating to hearing loss",
+      "conceptLink": "/ec2/concept/6005820"
+    }
+  },
+  {
+    "uri": "en/44/375997",
+    "id": "375997",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical consultation",
+    "harm": {
+      "id": "0058400",
+      "title": "375997 - Medical consultation",
+      "conceptLink": "/ec2/concept/5999899"
+    }
+  },
+  {
+    "uri": "en/44/375998",
+    "id": "375998",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical consultations",
+    "harm": {
+      "id": "0058400",
+      "title": "375998 - Medical consultations",
+      "conceptLink": "/ec2/concept/5999899"
+    }
+  },
+  {
+    "uri": "en/44/375999",
+    "id": "375999",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical counseling",
+    "harm": {
+      "id": "0058399",
+      "title": "375999 - Medical counseling",
+      "conceptLink": "/ec2/concept/5999898"
+    }
+  },
+  {
+    "uri": "en/44/120885377",
+    "id": "120885377",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical counseling relating to stress",
+    "harm": {
+      "id": "0069538",
+      "title": "120885377 - Medical counseling relating to stress",
+      "conceptLink": "/ec2/concept/6005741"
+    }
+  },
+  {
+    "uri": "en/44/120820223",
+    "id": "120820223",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical counseling services",
+    "harm": {
+      "id": "0058399",
+      "title": "120820223 - Medical counseling services",
+      "conceptLink": "/ec2/concept/5999898"
+    }
+  },
+  {
+    "uri": "en/44/376000",
+    "id": "376000",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical counselling",
+    "harm": {
+      "id": "0058399",
+      "title": "376000 - Medical counselling",
+      "conceptLink": "/ec2/concept/5999898"
+    }
+  },
+  {
+    "uri": "en/44/4798330",
+    "id": "4798330",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical counselling services",
+    "harm": {
+      "id": "0058399",
+      "title": "4798330 - Medical counselling services",
+      "conceptLink": "/ec2/concept/5999898"
+    }
+  },
+  {
+    "uri": "en/44/1543022",
+    "id": "1543022",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical diagnostic services",
+    "harm": {
+      "id": "0069586",
+      "title": "1543022 - Medical diagnostic services",
+      "conceptLink": "/ec2/concept/6005789"
+    }
+  },
+  {
+    "uri": "en/44/476446",
+    "id": "476446",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical equipment rental",
+    "harm": {
+      "id": "0007161",
+      "title": "476446 - Medical equipment rental",
+      "conceptLink": "/ec2/concept/5958007"
+    }
+  },
+  {
+    "uri": "en/44/476516",
+    "id": "476516",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical evaluation services",
+    "harm": {
+      "id": "0028349",
+      "title": "476516 - Medical evaluation services",
+      "conceptLink": "/ec2/concept/5977407"
+    }
+  },
+  {
+    "uri": "en/44/125099623",
+    "id": "125099623",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical examination of individuals (Provision of reports relating to the -)",
+    "harm": {
+      "id": "0017879",
+      "title": "125099623 - Medical examination of individuals (Provision of reports relating to the -)",
+      "conceptLink": "/ec2/concept/5967822"
+    }
+  },
+  {
+    "uri": "en/44/878405",
+    "id": "878405",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical examination of individuals",
+    "harm": {
+      "id": "0006306",
+      "title": "878405 - Medical examination of individuals",
+      "conceptLink": "/ec2/concept/5957232"
+    }
+  },
+  {
+    "uri": "en/44/120886030",
+    "id": "120886030",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical examinations",
+    "harm": {
+      "id": "0071398",
+      "title": "120886030 - Medical examinations",
+      "conceptLink": "/ec2/concept/6007589"
+    }
+  },
+  {
+    "uri": "en/44/878433",
+    "id": "878433",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical health assessment services",
+    "harm": {
+      "id": "0035189",
+      "title": "878433 - Medical health assessment services",
+      "conceptLink": "/ec2/concept/5983645"
+    }
+  },
+  {
+    "uri": "en/44/136010987",
+    "id": "136010987",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical house call services",
+    "harm": {
+      "id": "0050288",
+      "title": "136010987 - Medical house call services",
+      "conceptLink": "/ec2/concept/5995509"
+    }
+  },
+  {
+    "uri": "en/44/476532",
+    "id": "476532",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical imaging services",
+    "harm": {
+      "id": "0039874",
+      "title": "476532 - Medical imaging services",
+      "conceptLink": "/ec2/concept/5987915"
+    }
+  },
+  {
+    "uri": "en/44/376046",
+    "id": "376046",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical information",
+    "harm": {
+      "id": "0058402",
+      "title": "376046 - Medical information",
+      "conceptLink": "/ec2/concept/5999901"
+    }
+  },
+  {
+    "uri": "en/44/124617389",
+    "id": "124617389",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical information (Provision of -)",
+    "harm": {
+      "id": "0058401",
+      "title": "124617389 - Medical information (Provision of -)",
+      "conceptLink": "/ec2/concept/5999900"
+    }
+  },
+  {
+    "uri": "en/44/878447",
+    "id": "878447",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical information retrieval services",
+    "harm": {
+      "id": "0017880",
+      "title": "878447 - Medical information retrieval services",
+      "conceptLink": "/ec2/concept/5967823"
+    }
+  },
+  {
+    "uri": "en/44/376047",
+    "id": "376047",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical information services",
+    "harm": {
+      "id": "0058402",
+      "title": "376047 - Medical information services",
+      "conceptLink": "/ec2/concept/5999901"
+    }
+  },
+  {
+    "uri": "en/44/120885943",
+    "id": "120885943",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical information services provided via the Internet",
+    "harm": {
+      "id": "0069604",
+      "title": "120885943 - Medical information services provided via the Internet",
+      "conceptLink": "/ec2/concept/6005807"
+    }
+  },
+  {
+    "uri": "en/44/120886063",
+    "id": "120886063",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical laboratory services for the analysis of samples taken from patients",
+    "harm": {
+      "id": "0069553",
+      "title": "120886063 - Medical laboratory services for the analysis of samples taken from patients",
+      "conceptLink": "/ec2/concept/6005756"
+    }
+  },
+  {
+    "uri": "en/44/120886060",
+    "id": "120886060",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical laboratory services for the analysis of blood samples taken from patients",
+    "harm": {
+      "id": "0069552",
+      "title": "120886060 - Medical laboratory services for the analysis of blood samples taken from patients",
+      "conceptLink": "/ec2/concept/6005755"
+    }
+  },
+  {
+    "uri": "en/44/68526",
+    "id": "68526",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical nursing",
+    "harm": {
+      "id": "0059492",
+      "title": "68526 - Medical nursing",
+      "conceptLink": "/ec2/concept/6000968"
+    }
+  },
+  {
+    "uri": "en/44/102463325",
+    "id": "102463325",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical nursing services",
+    "harm": {
+      "id": "0059492",
+      "title": "102463325 - Medical nursing services",
+      "conceptLink": "/ec2/concept/6000968"
+    }
+  },
+  {
+    "uri": "en/44/476569",
+    "id": "476569",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical screening",
+    "harm": {
+      "id": "0027387",
+      "title": "476569 - Medical screening",
+      "conceptLink": "/ec2/concept/5976514"
+    }
+  },
+  {
+    "uri": "en/44/878461",
+    "id": "878461",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical screening relating to the heart",
+    "harm": {
+      "id": "0023699",
+      "title": "878461 - Medical screening relating to the heart",
+      "conceptLink": "/ec2/concept/5973145"
+    }
+  },
+  {
+    "uri": "en/44/137887254",
+    "id": "137887254",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical screening services in the field of asthma",
+    "harm": {
+      "id": "0071550",
+      "title": "137887254 - Medical screening services in the field of asthma",
+      "conceptLink": "/ec2/concept/6007741"
+    }
+  },
+  {
+    "uri": "en/44/137887244",
+    "id": "137887244",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical screening services in the field of sleep apnea",
+    "harm": {
+      "id": "0071551",
+      "title": "137887244 - Medical screening services in the field of sleep apnea",
+      "conceptLink": "/ec2/concept/6007742"
+    }
+  },
+  {
+    "uri": "en/44/120885844",
+    "id": "120885844",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical screening services relating to cardiovascular disease",
+    "harm": {
+      "id": "0069590",
+      "title": "120885844 - Medical screening services relating to cardiovascular disease",
+      "conceptLink": "/ec2/concept/6005793"
+    }
+  },
+  {
+    "uri": "en/44/67771",
+    "id": "67771",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services",
+    "harm": {
+      "id": "0047385",
+      "title": "67771 - Medical services",
+      "conceptLink": "/ec2/concept/5994716"
+    }
+  },
+  {
+    "uri": "en/44/878488",
+    "id": "878488",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services for the treatment of conditions of the human body",
+    "harm": {
+      "id": "0034309",
+      "title": "878488 - Medical services for the treatment of conditions of the human body",
+      "conceptLink": "/ec2/concept/5982852"
+    }
+  },
+  {
+    "uri": "en/44/120886157",
+    "id": "120886157",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services for the treatment of skin cancer",
+    "harm": {
+      "id": "0069547",
+      "title": "120886157 - Medical services for the treatment of skin cancer",
+      "conceptLink": "/ec2/concept/6005750"
+    }
+  },
+  {
+    "uri": "en/44/878475",
+    "id": "878475",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services for the diagnosis of conditions of the human body",
+    "harm": {
+      "id": "0040054",
+      "title": "878475 - Medical services for the diagnosis of conditions of the human body",
+      "conceptLink": "/ec2/concept/5988081"
+    }
+  },
+  {
+    "uri": "en/44/878502",
+    "id": "878502",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services for treatment of the skin",
+    "harm": {
+      "id": "0022859",
+      "title": "878502 - Medical services for treatment of the skin",
+      "conceptLink": "/ec2/concept/5972379"
+    }
+  },
+  {
+    "uri": "en/44/12399544",
+    "id": "12399544",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services in the field of diabetes",
+    "harm": {
+      "id": "0069612",
+      "title": "12399544 - Medical services in the field of diabetes",
+      "conceptLink": "/ec2/concept/6005815"
+    }
+  },
+  {
+    "uri": "en/44/137772940",
+    "id": "137772940",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services in the field of nephrology",
+    "harm": {
+      "id": "0071552",
+      "title": "137772940 - Medical services in the field of nephrology",
+      "conceptLink": "/ec2/concept/6007743"
+    }
+  },
+  {
+    "uri": "en/44/137772939",
+    "id": "137772939",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services in the field of treatment of chronic pain",
+    "harm": {
+      "id": "0071554",
+      "title": "137772939 - Medical services in the field of treatment of chronic pain",
+      "conceptLink": "/ec2/concept/6007745"
+    }
+  },
+  {
+    "uri": "en/44/50114563",
+    "id": "50114563",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services in the field of oncology",
+    "harm": {
+      "id": "0071553",
+      "title": "50114563 - Medical services in the field of oncology",
+      "conceptLink": "/ec2/concept/6007744"
+    }
+  },
+  {
+    "uri": "en/44/137544503",
+    "id": "137544503",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services in the field of in vitro fertilization",
+    "harm": {
+      "id": "0016824",
+      "title": "137544503 - Medical services in the field of in vitro fertilization",
+      "conceptLink": "/ec2/concept/5966867"
+    }
+  },
+  {
+    "uri": "en/44/476552",
+    "id": "476552",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services, namely, in vitro fertilization",
+    "harm": {
+      "id": "0016824",
+      "title": "476552 - Medical services, namely, in vitro fertilization",
+      "conceptLink": "/ec2/concept/5966867"
+    }
+  },
+  {
+    "uri": "en/44/120888049",
+    "id": "120888049",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services relating to the removal, treatment and processing of human blood",
+    "harm": {
+      "id": "0069643",
+      "title": "120888049 - Medical services relating to the removal, treatment and processing of human blood",
+      "conceptLink": "/ec2/concept/6005846"
+    }
+  },
+  {
+    "uri": "en/44/120888046",
+    "id": "120888046",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services relating to the removal, treatment and processing of umbilical cord blood",
+    "harm": {
+      "id": "0069642",
+      "title": "120888046 - Medical services relating to the removal, treatment and processing of umbilical cord blood",
+      "conceptLink": "/ec2/concept/6005845"
+    }
+  },
+  {
+    "uri": "en/44/120888079",
+    "id": "120888079",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services relating to the removal, treatment and processing of stem cells",
+    "harm": {
+      "id": "0069640",
+      "title": "120888079 - Medical services relating to the removal, treatment and processing of stem cells",
+      "conceptLink": "/ec2/concept/6005843"
+    }
+  },
+  {
+    "uri": "en/44/120888082",
+    "id": "120888082",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services relating to the removal, treatment and processing of human cells",
+    "harm": {
+      "id": "0069641",
+      "title": "120888082 - Medical services relating to the removal, treatment and processing of human cells",
+      "conceptLink": "/ec2/concept/6005844"
+    }
+  },
+  {
+    "uri": "en/44/120888085",
+    "id": "120888085",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical services relating to the removal, treatment and processing of bone marrow",
+    "harm": {
+      "id": "0069639",
+      "title": "120888085 - Medical services relating to the removal, treatment and processing of bone marrow",
+      "conceptLink": "/ec2/concept/6005842"
+    }
+  },
+  {
+    "uri": "en/44/878515",
+    "id": "878515",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Medical spa services",
+    "harm": {
+      "id": "0016988",
+      "title": "878515 - Medical spa services",
+      "conceptLink": "/ec2/concept/5967015"
+    }
+  }
+]

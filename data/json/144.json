@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/114030",
+    "id": "114030",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Belts for machines",
+    "harm": {
+      "id": "0005894",
+      "title": "114030 - Belts for machines",
+      "conceptLink": "/ec2/concept/5956848"
+    }
+  },
+  {
+    "uri": "en/7/124141",
+    "id": "124141",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Belts for motors and engines",
+    "harm": {
+      "id": "0021025",
+      "title": "124141 - Belts for motors and engines",
+      "conceptLink": "/ec2/concept/5970701"
+    }
+  },
+  {
+    "uri": "en/7/672187",
+    "id": "672187",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Belts for shrinkage machines",
+    "harm": {
+      "id": "0038329",
+      "title": "672187 - Belts for shrinkage machines",
+      "conceptLink": "/ec2/concept/5986505"
+    }
+  },
+  {
+    "uri": "en/7/387924",
+    "id": "387924",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Belts for transmissions other than for land vehicles",
+    "harm": {
+      "id": "0037936",
+      "title": "387924 - Belts for transmissions other than for land vehicles",
+      "conceptLink": "/ec2/concept/5986138"
+    }
+  },
+  {
+    "uri": "en/7/124900719",
+    "id": "124900719",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Belts (Timing -) for vehicle engines",
+    "harm": {
+      "id": "0032507",
+      "title": "124900719 - Belts (Timing -) for vehicle engines",
+      "conceptLink": "/ec2/concept/5981205"
+    }
+  },
+  {
+    "uri": "en/7/672212",
+    "id": "672212",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bench drilling machines",
+    "harm": {
+      "id": "0026737",
+      "title": "672212 - Bench drilling machines",
+      "conceptLink": "/ec2/concept/5975931"
+    }
+  },
+  {
+    "uri": "en/7/672228",
+    "id": "672228",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bench grinders [machines]",
+    "harm": {
+      "id": "0021095",
+      "title": "672228 - Bench grinders [machines]",
+      "conceptLink": "/ec2/concept/5970766"
+    }
+  },
+  {
+    "uri": "en/7/672243",
+    "id": "672243",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bench presses [machines]",
+    "harm": {
+      "id": "0003672",
+      "title": "672243 - Bench presses [machines]",
+      "conceptLink": "/ec2/concept/5954810"
+    }
+  },
+  {
+    "uri": "en/7/115230",
+    "id": "115230",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending machines",
+    "harm": {
+      "id": "0046689",
+      "title": "115230 - Bending machines",
+      "conceptLink": "/ec2/concept/5994104"
+    }
+  },
+  {
+    "uri": "en/7/131093041",
+    "id": "131093041",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending machines for metalworking",
+    "harm": {
+      "id": "0073967",
+      "title": "131093041 - Bending machines for metalworking",
+      "conceptLink": "/ec2/concept/6011203"
+    }
+  },
+  {
+    "uri": "en/7/28947612",
+    "id": "28947612",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending machines [for metalworking]",
+    "harm": {
+      "id": "0073967",
+      "title": "28947612 - Bending machines [for metalworking]",
+      "conceptLink": "/ec2/concept/6011203"
+    }
+  },
+  {
+    "uri": "en/7/672259",
+    "id": "672259",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending machines for sheets",
+    "harm": {
+      "id": "0032508",
+      "title": "672259 - Bending machines for sheets",
+      "conceptLink": "/ec2/concept/5981206"
+    }
+  },
+  {
+    "uri": "en/7/672274",
+    "id": "672274",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending machines for tubes",
+    "harm": {
+      "id": "0043947",
+      "title": "672274 - Bending machines for tubes",
+      "conceptLink": "/ec2/concept/5991634"
+    }
+  },
+  {
+    "uri": "en/7/672294",
+    "id": "672294",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bending presses [machines]",
+    "harm": {
+      "id": "0038330",
+      "title": "672294 - Bending presses [machines]",
+      "conceptLink": "/ec2/concept/5986506"
+    }
+  },
+  {
+    "uri": "en/7/672310",
+    "id": "672310",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bevel gear grinding machines",
+    "harm": {
+      "id": "0015260",
+      "title": "672310 - Bevel gear grinding machines",
+      "conceptLink": "/ec2/concept/5965430"
+    }
+  },
+  {
+    "uri": "en/7/672323",
+    "id": "672323",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bevel gear grinding tools",
+    "harm": {
+      "id": "0005150",
+      "title": "672323 - Bevel gear grinding tools",
+      "conceptLink": "/ec2/concept/5956170"
+    }
+  },
+  {
+    "uri": "en/7/672335",
+    "id": "672335",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bevelled edge formers [machines]",
+    "harm": {
+      "id": "0039756",
+      "title": "672335 - Bevelled edge formers [machines]",
+      "conceptLink": "/ec2/concept/5987807"
+    }
+  },
+  {
+    "uri": "en/7/672351",
+    "id": "672351",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Beverage making machines",
+    "harm": {
+      "id": "0010895",
+      "title": "672351 - Beverage making machines",
+      "conceptLink": "/ec2/concept/5961428"
+    }
+  },
+  {
+    "uri": "en/7/123095",
+    "id": "123095",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Beverage preparation machines, electromechanical",
+    "harm": {
+      "id": "0026393",
+      "title": "123095 - Beverage preparation machines, electromechanical",
+      "conceptLink": "/ec2/concept/5975621"
+    }
+  },
+  {
+    "uri": "en/7/129921622",
+    "id": "129921622",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Beverage processing machines",
+    "harm": {
+      "id": "0010895",
+      "title": "129921622 - Beverage processing machines",
+      "conceptLink": "/ec2/concept/5961428"
+    }
+  },
+  {
+    "uri": "en/7/130150",
+    "id": "130150",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bicycle assembling machines",
+    "harm": {
+      "id": "0025128",
+      "title": "130150 - Bicycle assembling machines",
+      "conceptLink": "/ec2/concept/5974467"
+    }
+  },
+  {
+    "uri": "en/7/112927",
+    "id": "112927",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bicycle dynamos",
+    "harm": {
+      "id": "0007152",
+      "title": "112927 - Bicycle dynamos",
+      "conceptLink": "/ec2/concept/5957999"
+    }
+  },
+  {
+    "uri": "en/7/672366",
+    "id": "672366",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bilge pumps",
+    "harm": {
+      "id": "0033988",
+      "title": "672366 - Bilge pumps",
+      "conceptLink": "/ec2/concept/5982562"
+    }
+  },
+  {
+    "uri": "en/7/113368",
+    "id": "113368",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Binding apparatus for hay",
+    "harm": {
+      "id": "0047535",
+      "title": "113368 - Binding apparatus for hay",
+      "conceptLink": "/ec2/concept/5994833"
+    }
+  },
+  {
+    "uri": "en/7/113370",
+    "id": "113370",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Binding machines",
+    "harm": {
+      "id": "0001024",
+      "title": "113370 - Binding machines",
+      "conceptLink": "/ec2/concept/5952406"
+    }
+  },
+  {
+    "uri": "en/7/672380",
+    "id": "672380",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Biscuit making machines",
+    "harm": {
+      "id": "0022573",
+      "title": "672380 - Biscuit making machines",
+      "conceptLink": "/ec2/concept/5972115"
+    }
+  },
+  {
+    "uri": "en/7/320674",
+    "id": "320674",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bits for mining machines",
+    "harm": {
+      "id": "0023862",
+      "title": "320674 - Bits for mining machines",
+      "conceptLink": "/ec2/concept/5973296"
+    }
+  },
+  {
+    "uri": "en/7/387978",
+    "id": "387978",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bits for power drills",
+    "harm": {
+      "id": "0042475",
+      "title": "387978 - Bits for power drills",
+      "conceptLink": "/ec2/concept/5990295"
+    }
+  },
+  {
+    "uri": "en/7/113025",
+    "id": "113025",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bitumen making machines",
+    "harm": {
+      "id": "0046498",
+      "title": "113025 - Bitumen making machines",
+      "conceptLink": "/ec2/concept/5993939"
+    }
+  },
+  {
+    "uri": "en/7/119524",
+    "id": "119524",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blade grinding machines",
+    "harm": {
+      "id": "0039757",
+      "title": "119524 - Blade grinding machines",
+      "conceptLink": "/ec2/concept/5987808"
+    }
+  },
+  {
+    "uri": "en/7/119615",
+    "id": "119615",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blade holders [parts of machines]",
+    "harm": {
+      "id": "0032859",
+      "title": "119615 - Blade holders [parts of machines]",
+      "conceptLink": "/ec2/concept/5981524"
+    }
+  },
+  {
+    "uri": "en/7/119522",
+    "id": "119522",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blade sharpening [stropping] machines",
+    "harm": {
+      "id": "0034257",
+      "title": "119522 - Blade sharpening [stropping] machines",
+      "conceptLink": "/ec2/concept/5982805"
+    }
+  },
+  {
+    "uri": "en/7/119435",
+    "id": "119435",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades (Chaff cutter -)",
+    "harm": {
+      "id": "0022574",
+      "title": "119435 - Blades (Chaff cutter -)",
+      "conceptLink": "/ec2/concept/5972116"
+    }
+  },
+  {
+    "uri": "en/7/672394",
+    "id": "672394",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for aircraft turbines",
+    "harm": {
+      "id": "0005151",
+      "title": "672394 - Blades for aircraft turbines",
+      "conceptLink": "/ec2/concept/5956171"
+    }
+  },
+  {
+    "uri": "en/7/488945",
+    "id": "488945",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for circular saws",
+    "harm": {
+      "id": "0022430",
+      "title": "488945 - Blades for circular saws",
+      "conceptLink": "/ec2/concept/5971985"
+    }
+  },
+  {
+    "uri": "en/7/672406",
+    "id": "672406",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for circular saws [machines]",
+    "harm": {
+      "id": "0045525",
+      "title": "672406 - Blades for circular saws [machines]",
+      "conceptLink": "/ec2/concept/5993080"
+    }
+  },
+  {
+    "uri": "en/7/120886869",
+    "id": "120886869",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for earth moving machines",
+    "harm": {
+      "id": "0070883",
+      "title": "120886869 - Blades for earth moving machines",
+      "conceptLink": "/ec2/concept/6007075"
+    }
+  },
+  {
+    "uri": "en/7/387997",
+    "id": "387997",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for power saws",
+    "harm": {
+      "id": "0025174",
+      "title": "387997 - Blades for power saws",
+      "conceptLink": "/ec2/concept/5974506"
+    }
+  },
+  {
+    "uri": "en/7/388021",
+    "id": "388021",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for power tools",
+    "harm": {
+      "id": "0013597",
+      "title": "388021 - Blades for power tools",
+      "conceptLink": "/ec2/concept/5963893"
+    }
+  },
+  {
+    "uri": "en/7/672422",
+    "id": "672422",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for powered planes",
+    "harm": {
+      "id": "0005152",
+      "title": "672422 - Blades for powered planes",
+      "conceptLink": "/ec2/concept/5956172"
+    }
+  },
+  {
+    "uri": "en/7/388022",
+    "id": "388022",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades for powered tools",
+    "harm": {
+      "id": "0013597",
+      "title": "388022 - Blades for powered tools",
+      "conceptLink": "/ec2/concept/5963893"
+    }
+  },
+  {
+    "uri": "en/7/118266",
+    "id": "118266",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades [machine parts]",
+    "harm": {
+      "id": "0026426",
+      "title": "118266 - Blades [machine parts]",
+      "conceptLink": "/ec2/concept/5975652"
+    }
+  },
+  {
+    "uri": "en/7/118267",
+    "id": "118267",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blades [parts of machines]",
+    "harm": {
+      "id": "0026426",
+      "title": "118267 - Blades [parts of machines]",
+      "conceptLink": "/ec2/concept/5975652"
+    }
+  },
+  {
+    "uri": "en/7/320687",
+    "id": "320687",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blanking presses",
+    "harm": {
+      "id": "0035385",
+      "title": "320687 - Blanking presses",
+      "conceptLink": "/ec2/concept/5983827"
+    }
+  },
+  {
+    "uri": "en/7/127832",
+    "id": "127832",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blenders, electric, for household purposes",
+    "harm": {
+      "id": "0057542",
+      "title": "127832 - Blenders, electric, for household purposes",
+      "conceptLink": "/ec2/concept/5999047"
+    }
+  },
+  {
+    "uri": "en/7/672453",
+    "id": "672453",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blenders for food [electric]",
+    "harm": {
+      "id": "0058230",
+      "title": "672453 - Blenders for food [electric]",
+      "conceptLink": "/ec2/concept/5999731"
+    }
+  },
+  {
+    "uri": "en/7/129921632",
+    "id": "129921632",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blending machines for chemical processing",
+    "harm": {
+      "id": "0055649",
+      "title": "129921632 - Blending machines for chemical processing",
+      "conceptLink": "/ec2/concept/5997042"
+    }
+  },
+  {
+    "uri": "en/7/136149368",
+    "id": "136149368",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blight prevention machines and implements, other than hand-operated implements",
+    "harm": {
+      "id": "0050593",
+      "title": "136149368 - Blight prevention machines and implements, other than hand-operated implements",
+      "conceptLink": "/ec2/concept/5995961"
+    }
+  },
+  {
+    "uri": "en/7/115069",
+    "id": "115069",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Block and tackle",
+    "harm": {
+      "id": "0036113",
+      "title": "115069 - Block and tackle",
+      "conceptLink": "/ec2/concept/5984487"
+    }
+  },
+  {
+    "uri": "en/7/320699",
+    "id": "320699",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Block brakes [machine elements not for land vehicles]",
+    "harm": {
+      "id": "0006452",
+      "title": "320699 - Block brakes [machine elements not for land vehicles]",
+      "conceptLink": "/ec2/concept/5957362"
+    }
+  },
+  {
+    "uri": "en/7/672537",
+    "id": "672537",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blow pipes being parts of gas cutting apparatus",
+    "harm": {
+      "id": "0007494",
+      "title": "672537 - Blow pipes being parts of gas cutting apparatus",
+      "conceptLink": "/ec2/concept/5958316"
+    }
+  },
+  {
+    "uri": "en/7/672550",
+    "id": "672550",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blow pipes being parts of gas welding apparatus",
+    "harm": {
+      "id": "0007495",
+      "title": "672550 - Blow pipes being parts of gas welding apparatus",
+      "conceptLink": "/ec2/concept/5958317"
+    }
+  },
+  {
+    "uri": "en/7/672521",
+    "id": "672521",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blow pipes [gas-operated cutting apparatus]",
+    "harm": {
+      "id": "0007493",
+      "title": "672521 - Blow pipes [gas-operated cutting apparatus]",
+      "conceptLink": "/ec2/concept/5958315"
+    }
+  },
+  {
+    "uri": "en/7/125167524",
+    "id": "125167524",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blow pipes (soldering -) [gas-operated]",
+    "harm": {
+      "id": "0046788",
+      "title": "125167524 - Blow pipes (soldering -) [gas-operated]",
+      "conceptLink": "/ec2/concept/5994190"
+    }
+  },
+  {
+    "uri": "en/7/392649",
+    "id": "392649",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blow torches",
+    "harm": {
+      "id": "0046465",
+      "title": "392649 - Blow torches",
+      "conceptLink": "/ec2/concept/5993913"
+    }
+  },
+  {
+    "uri": "en/7/124542",
+    "id": "124542",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowers [machines]",
+    "harm": {
+      "id": "0058742",
+      "title": "124542 - Blowers [machines]",
+      "conceptLink": "/ec2/concept/6000233"
+    }
+  },
+  {
+    "uri": "en/7/124541",
+    "id": "124541",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowing engines",
+    "harm": {
+      "id": "0058741",
+      "title": "124541 - Blowing engines",
+      "conceptLink": "/ec2/concept/6000232"
+    }
+  },
+  {
+    "uri": "en/7/124543",
+    "id": "124543",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowing machines",
+    "harm": {
+      "id": "0058742",
+      "title": "124543 - Blowing machines",
+      "conceptLink": "/ec2/concept/6000233"
+    }
+  },
+  {
+    "uri": "en/7/118648",
+    "id": "118648",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowing machines for the compression, exhaustion and transport of gases",
+    "harm": {
+      "id": "0000962",
+      "title": "118648 - Blowing machines for the compression, exhaustion and transport of gases",
+      "conceptLink": "/ec2/concept/5952353"
+    }
+  },
+  {
+    "uri": "en/7/118782",
+    "id": "118782",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowing machines for the compression, sucking and carrying of grain",
+    "harm": {
+      "id": "0032475",
+      "title": "118782 - Blowing machines for the compression, sucking and carrying of grain",
+      "conceptLink": "/ec2/concept/5981176"
+    }
+  },
+  {
+    "uri": "en/7/16089092",
+    "id": "16089092",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Blowing machines or fans for the compression, sucking and carrying of grain",
+    "harm": {
+      "id": "0032475",
+      "title": "16089092 - Blowing machines or fans for the compression, sucking and carrying of grain",
+      "conceptLink": "/ec2/concept/5981176"
+    }
+  },
+  {
+    "uri": "en/7/126146",
+    "id": "126146",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boat engines",
+    "harm": {
+      "id": "0072780",
+      "title": "126146 - Boat engines",
+      "conceptLink": "/ec2/concept/6008955"
+    }
+  },
+  {
+    "uri": "en/7/18256782",
+    "id": "18256782",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boat lifts",
+    "harm": {
+      "id": "0065556",
+      "title": "18256782 - Boat lifts",
+      "conceptLink": "/ec2/concept/6001759"
+    }
+  },
+  {
+    "uri": "en/7/126150",
+    "id": "126150",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boat motors",
+    "harm": {
+      "id": "0058604",
+      "title": "126150 - Boat motors",
+      "conceptLink": "/ec2/concept/6000097"
+    }
+  },
+  {
+    "uri": "en/7/126147",
+    "id": "126147",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boats (Engines for -)",
+    "harm": {
+      "id": "0058602",
+      "title": "126147 - Boats (Engines for -)",
+      "conceptLink": "/ec2/concept/6000095"
+    }
+  },
+  {
+    "uri": "en/7/126151",
+    "id": "126151",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boats (Motors for -)",
+    "harm": {
+      "id": "0058604",
+      "title": "126151 - Boats (Motors for -)",
+      "conceptLink": "/ec2/concept/6000097"
+    }
+  },
+  {
+    "uri": "en/7/126378",
+    "id": "126378",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bobbin winding machines",
+    "harm": {
+      "id": "0046964",
+      "title": "126378 - Bobbin winding machines",
+      "conceptLink": "/ec2/concept/5994351"
+    }
+  },
+  {
+    "uri": "en/7/87847175",
+    "id": "87847175",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bobbins for sewing machines",
+    "harm": {
+      "id": "0070218",
+      "title": "87847175 - Bobbins for sewing machines",
+      "conceptLink": "/ec2/concept/6006412"
+    }
+  },
+  {
+    "uri": "en/7/119629667",
+    "id": "119629667",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bobbins for weaving loom",
+    "harm": {
+      "id": "0025750",
+      "title": "119629667 - Bobbins for weaving loom",
+      "conceptLink": "/ec2/concept/5975032"
+    }
+  },
+  {
+    "uri": "en/7/113206",
+    "id": "113206",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bobbins for weaving looms",
+    "harm": {
+      "id": "0025750",
+      "title": "113206 - Bobbins for weaving looms",
+      "conceptLink": "/ec2/concept/5975032"
+    }
+  },
+  {
+    "uri": "en/7/126379",
+    "id": "126379",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bobbins [parts of machines]",
+    "harm": {
+      "id": "0047023",
+      "title": "126379 - Bobbins [parts of machines]",
+      "conceptLink": "/ec2/concept/5994402"
+    }
+  },
+  {
+    "uri": "en/7/893264",
+    "id": "893264",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Body straighteners [machines]",
+    "harm": {
+      "id": "0015118",
+      "title": "893264 - Body straighteners [machines]",
+      "conceptLink": "/ec2/concept/5965296"
+    }
+  },
+  {
+    "uri": "en/7/115487",
+    "id": "115487",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boiler scale collectors (Machine -)",
+    "harm": {
+      "id": "0030639",
+      "title": "115487 - Boiler scale collectors (Machine -)",
+      "conceptLink": "/ec2/concept/5979516"
+    }
+  },
+  {
+    "uri": "en/7/128609",
+    "id": "128609",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boiler tubes [parts of machines]",
+    "harm": {
+      "id": "0030836",
+      "title": "128609 - Boiler tubes [parts of machines]",
+      "conceptLink": "/ec2/concept/5979702"
+    }
+  },
+  {
+    "uri": "en/7/672562",
+    "id": "672562",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bolt cutters [machines]",
+    "harm": {
+      "id": "0016693",
+      "title": "672562 - Bolt cutters [machines]",
+      "conceptLink": "/ec2/concept/5966755"
+    }
+  },
+  {
+    "uri": "en/7/672594",
+    "id": "672594",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bonding machines",
+    "harm": {
+      "id": "0046885",
+      "title": "672594 - Bonding machines",
+      "conceptLink": "/ec2/concept/5994277"
+    }
+  },
+  {
+    "uri": "en/7/123489",
+    "id": "123489",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bookbinding apparatus and machines for industrial purposes",
+    "harm": {
+      "id": "0036423",
+      "title": "123489 - Bookbinding apparatus and machines for industrial purposes",
+      "conceptLink": "/ec2/concept/5984766"
+    }
+  },
+  {
+    "uri": "en/7/320713",
+    "id": "320713",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bookbinding machines",
+    "harm": {
+      "id": "0000675",
+      "title": "320713 - Bookbinding machines",
+      "conceptLink": "/ec2/concept/5952097"
+    }
+  },
+  {
+    "uri": "en/7/129921639",
+    "id": "129921639",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bookbinding machines for industrial purposes",
+    "harm": {
+      "id": "0000675",
+      "title": "129921639 - Bookbinding machines for industrial purposes",
+      "conceptLink": "/ec2/concept/5952097"
+    }
+  },
+  {
+    "uri": "en/7/672616",
+    "id": "672616",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Borax coating machines",
+    "harm": {
+      "id": "0028211",
+      "title": "672616 - Borax coating machines",
+      "conceptLink": "/ec2/concept/5977277"
+    }
+  },
+  {
+    "uri": "en/7/121090",
+    "id": "121090",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Borers (Mine -)",
+    "harm": {
+      "id": "0058340",
+      "title": "121090 - Borers (Mine -)",
+      "conceptLink": "/ec2/concept/5999839"
+    }
+  },
+  {
+    "uri": "en/7/122433",
+    "id": "122433",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring machines",
+    "harm": {
+      "id": "0057942",
+      "title": "122433 - Boring machines",
+      "conceptLink": "/ec2/concept/5999446"
+    }
+  },
+  {
+    "uri": "en/7/132807087",
+    "id": "132807087",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring machines for metalworking",
+    "harm": {
+      "id": "0003158",
+      "title": "132807087 - Boring machines for metalworking",
+      "conceptLink": "/ec2/concept/5954341"
+    }
+  },
+  {
+    "uri": "en/7/320735",
+    "id": "320735",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring machines [for metalworking]",
+    "harm": {
+      "id": "0003158",
+      "title": "320735 - Boring machines [for metalworking]",
+      "conceptLink": "/ec2/concept/5954341"
+    }
+  },
+  {
+    "uri": "en/7/672628",
+    "id": "672628",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring machines for use in woodworking",
+    "harm": {
+      "id": "0045497",
+      "title": "672628 - Boring machines for use in woodworking",
+      "conceptLink": "/ec2/concept/5993053"
+    }
+  },
+  {
+    "uri": "en/7/672657",
+    "id": "672657",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring robots for repairing the interiors of pipes",
+    "harm": {
+      "id": "0005124",
+      "title": "672657 - Boring robots for repairing the interiors of pipes",
+      "conceptLink": "/ec2/concept/5956149"
+    }
+  },
+  {
+    "uri": "en/7/672644",
+    "id": "672644",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring robots for repairing the interiors of canalization pipes",
+    "harm": {
+      "id": "0045498",
+      "title": "672644 - Boring robots for repairing the interiors of canalization pipes",
+      "conceptLink": "/ec2/concept/5993054"
+    }
+  },
+  {
+    "uri": "en/7/672683",
+    "id": "672683",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring tools [machine tools]",
+    "harm": {
+      "id": "0005125",
+      "title": "672683 - Boring tools [machine tools]",
+      "conceptLink": "/ec2/concept/5956150"
+    }
+  },
+  {
+    "uri": "en/7/124901125",
+    "id": "124901125",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring tools (Machine -) with slides",
+    "harm": {
+      "id": "0028212",
+      "title": "124901125 - Boring tools (Machine -) with slides",
+      "conceptLink": "/ec2/concept/5977278"
+    }
+  },
+  {
+    "uri": "en/7/672699",
+    "id": "672699",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Boring tools operated by machines",
+    "harm": {
+      "id": "0039736",
+      "title": "672699 - Boring tools operated by machines",
+      "conceptLink": "/ec2/concept/5987787"
+    }
+  },
+  {
+    "uri": "en/7/119525722",
+    "id": "119525722",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle capping machinery",
+    "harm": {
+      "id": "0058029",
+      "title": "119525722 - Bottle capping machinery",
+      "conceptLink": "/ec2/concept/5999533"
+    }
+  },
+  {
+    "uri": "en/7/126485",
+    "id": "126485",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle capping machines",
+    "harm": {
+      "id": "0058029",
+      "title": "126485 - Bottle capping machines",
+      "conceptLink": "/ec2/concept/5999533"
+    }
+  },
+  {
+    "uri": "en/7/136080457",
+    "id": "136080457",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle capping machines for food and beverages",
+    "harm": {
+      "id": "0056847",
+      "title": "136080457 - Bottle capping machines for food and beverages",
+      "conceptLink": "/ec2/concept/5998123"
+    }
+  },
+  {
+    "uri": "en/7/113608",
+    "id": "113608",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle filling machines",
+    "harm": {
+      "id": "0011029",
+      "title": "113608 - Bottle filling machines",
+      "conceptLink": "/ec2/concept/5961552"
+    }
+  },
+  {
+    "uri": "en/7/126513",
+    "id": "126513",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle sealing machines",
+    "harm": {
+      "id": "0008268",
+      "title": "126513 - Bottle sealing machines",
+      "conceptLink": "/ec2/concept/5959020"
+    }
+  },
+  {
+    "uri": "en/7/126446",
+    "id": "126446",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle stoppering machines",
+    "harm": {
+      "id": "0058030",
+      "title": "126446 - Bottle stoppering machines",
+      "conceptLink": "/ec2/concept/5999534"
+    }
+  },
+  {
+    "uri": "en/7/126445",
+    "id": "126445",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle stopping machines",
+    "harm": {
+      "id": "0058030",
+      "title": "126445 - Bottle stopping machines",
+      "conceptLink": "/ec2/concept/5999534"
+    }
+  },
+  {
+    "uri": "en/7/113637",
+    "id": "113637",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottle washing machines",
+    "harm": {
+      "id": "0015819",
+      "title": "113637 - Bottle washing machines",
+      "conceptLink": "/ec2/concept/5965947"
+    }
+  },
+  {
+    "uri": "en/7/320759",
+    "id": "320759",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bottling machines",
+    "harm": {
+      "id": "0014762",
+      "title": "320759 - Bottling machines",
+      "conceptLink": "/ec2/concept/5964971"
+    }
+  },
+  {
+    "uri": "en/7/672711",
+    "id": "672711",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Bow saws [machines]",
+    "harm": {
+      "id": "0045499",
+      "title": "672711 - Bow saws [machines]",
+      "conceptLink": "/ec2/concept/5993055"
+    }
+  }
+]

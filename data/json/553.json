@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/30/233624802",
+    "id": "233624802",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bibimbap [rice mixed with vegetables and beef]",
+    "harm": {
+      "id": "0010191",
+      "title": "233624802 - Bibimbap [rice mixed with vegetables and beef]",
+      "conceptLink": "/ec2/concept/5960780"
+    }
+  },
+  {
+    "uri": "en/30/439495",
+    "id": "439495",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bicarbonate of soda for cooking purposes [baking soda]",
+    "harm": {
+      "id": "0031453",
+      "title": "439495 - Bicarbonate of soda for cooking purposes [baking soda]",
+      "conceptLink": "/ec2/concept/5980259"
+    }
+  },
+  {
+    "uri": "en/30/295812",
+    "id": "295812",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Binding agents for edible ices",
+    "harm": {
+      "id": "0014074",
+      "title": "295812 - Binding agents for edible ices",
+      "conceptLink": "/ec2/concept/5964335"
+    }
+  },
+  {
+    "uri": "en/30/129588636",
+    "id": "129588636",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Binding agents for ice cream",
+    "harm": {
+      "id": "0014074",
+      "title": "129588636 - Binding agents for ice cream",
+      "conceptLink": "/ec2/concept/5964335"
+    }
+  },
+  {
+    "uri": "en/30/295808",
+    "id": "295808",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Binding agents for ice cream [edible ices]",
+    "harm": {
+      "id": "0014074",
+      "title": "295808 - Binding agents for ice cream [edible ices]",
+      "conceptLink": "/ec2/concept/5964335"
+    }
+  },
+  {
+    "uri": "en/30/295814",
+    "id": "295814",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Binding preparations for ice cream [edible ices]",
+    "harm": {
+      "id": "0014074",
+      "title": "295814 - Binding preparations for ice cream [edible ices]",
+      "conceptLink": "/ec2/concept/5964335"
+    }
+  },
+  {
+    "uri": "en/30/778735",
+    "id": "778735",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biological honey for human consumption",
+    "harm": {
+      "id": "0014075",
+      "title": "778735 - Biological honey for human consumption",
+      "conceptLink": "/ec2/concept/5964336"
+    }
+  },
+  {
+    "uri": "en/30/292838",
+    "id": "292838",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscotti",
+    "harm": {
+      "id": "0059482",
+      "title": "292838 - Biscotti",
+      "conceptLink": "/ec2/concept/6000958"
+    }
+  },
+  {
+    "uri": "en/30/120897086",
+    "id": "120897086",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscotti dough",
+    "harm": {
+      "id": "0070315",
+      "title": "120897086 - Biscotti dough",
+      "conceptLink": "/ec2/concept/6006508"
+    }
+  },
+  {
+    "uri": "en/30/778747",
+    "id": "778747",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuit mixes",
+    "harm": {
+      "id": "0031333",
+      "title": "778747 - Biscuit mixes",
+      "conceptLink": "/ec2/concept/5980149"
+    }
+  },
+  {
+    "uri": "en/30/292744",
+    "id": "292744",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuit rusk",
+    "harm": {
+      "id": "0001042",
+      "title": "292744 - Biscuit rusk",
+      "conceptLink": "/ec2/concept/5952424"
+    }
+  },
+  {
+    "uri": "en/30/292839",
+    "id": "292839",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits",
+    "harm": {
+      "id": "0059480",
+      "title": "292839 - Biscuits",
+      "conceptLink": "/ec2/concept/6000956"
+    }
+  },
+  {
+    "uri": "en/30/778761",
+    "id": "778761",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits containing chocolate flavoured ingredients",
+    "harm": {
+      "id": "0031334",
+      "title": "778761 - Biscuits containing chocolate flavoured ingredients",
+      "conceptLink": "/ec2/concept/5980150"
+    }
+  },
+  {
+    "uri": "en/30/778777",
+    "id": "778777",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits containing fruit",
+    "harm": {
+      "id": "0008189",
+      "title": "778777 - Biscuits containing fruit",
+      "conceptLink": "/ec2/concept/5958949"
+    }
+  },
+  {
+    "uri": "en/30/778790",
+    "id": "778790",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits flavoured with fruit",
+    "harm": {
+      "id": "0025598",
+      "title": "778790 - Biscuits flavoured with fruit",
+      "conceptLink": "/ec2/concept/5974892"
+    }
+  },
+  {
+    "uri": "en/30/40290076",
+    "id": "40290076",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits for cheese",
+    "harm": {
+      "id": "0067605",
+      "title": "40290076 - Biscuits for cheese",
+      "conceptLink": "/ec2/concept/6003808"
+    }
+  },
+  {
+    "uri": "en/30/778816",
+    "id": "778816",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits for human consumption made from malt",
+    "harm": {
+      "id": "0018525",
+      "title": "778816 - Biscuits for human consumption made from malt",
+      "conceptLink": "/ec2/concept/5968419"
+    }
+  },
+  {
+    "uri": "en/30/778803",
+    "id": "778803",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits for human consumption made from cereals",
+    "harm": {
+      "id": "0001144",
+      "title": "778803 - Biscuits for human consumption made from cereals",
+      "conceptLink": "/ec2/concept/5952517"
+    }
+  },
+  {
+    "uri": "en/30/778830",
+    "id": "778830",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits having a chocolate coating",
+    "harm": {
+      "id": "0035741",
+      "title": "778830 - Biscuits having a chocolate coating",
+      "conceptLink": "/ec2/concept/5984151"
+    }
+  },
+  {
+    "uri": "en/30/778861",
+    "id": "778861",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits having a chocolate flavoured coating",
+    "harm": {
+      "id": "0001145",
+      "title": "778861 - Biscuits having a chocolate flavoured coating",
+      "conceptLink": "/ec2/concept/5952518"
+    }
+  },
+  {
+    "uri": "en/30/498960",
+    "id": "498960",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits [sweet or savoury]",
+    "harm": {
+      "id": "0037450",
+      "title": "498960 - Biscuits [sweet or savoury]",
+      "conceptLink": "/ec2/concept/5985702"
+    }
+  },
+  {
+    "uri": "en/30/778877",
+    "id": "778877",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Biscuits with an iced topping",
+    "harm": {
+      "id": "0030040",
+      "title": "778877 - Biscuits with an iced topping",
+      "conceptLink": "/ec2/concept/5978961"
+    }
+  },
+  {
+    "uri": "en/30/439588",
+    "id": "439588",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Black tea",
+    "harm": {
+      "id": "0027402",
+      "title": "439588 - Black tea",
+      "conceptLink": "/ec2/concept/5976528"
+    }
+  },
+  {
+    "uri": "en/30/119545978",
+    "id": "119545978",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Black tea [English tea]",
+    "harm": {
+      "id": "0017828",
+      "title": "119545978 - Black tea [English tea]",
+      "conceptLink": "/ec2/concept/5967775"
+    }
+  },
+  {
+    "uri": "en/30/778889",
+    "id": "778889",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Blends of seasonings",
+    "harm": {
+      "id": "0006661",
+      "title": "778889 - Blends of seasonings",
+      "conceptLink": "/ec2/concept/5957554"
+    }
+  },
+  {
+    "uri": "en/30/778904",
+    "id": "778904",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boiled confectionery",
+    "harm": {
+      "id": "0046596",
+      "title": "778904 - Boiled confectionery",
+      "conceptLink": "/ec2/concept/5994023"
+    }
+  },
+  {
+    "uri": "en/30/293796",
+    "id": "293796",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boiled sugar",
+    "harm": {
+      "id": "0041616",
+      "title": "293796 - Boiled sugar",
+      "conceptLink": "/ec2/concept/5989512"
+    }
+  },
+  {
+    "uri": "en/30/293797",
+    "id": "293797",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boiled sugar confectionery",
+    "harm": {
+      "id": "0046596",
+      "title": "293797 - Boiled sugar confectionery",
+      "conceptLink": "/ec2/concept/5994023"
+    }
+  },
+  {
+    "uri": "en/30/293798",
+    "id": "293798",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boiled sugar sweetmeats",
+    "harm": {
+      "id": "0046604",
+      "title": "293798 - Boiled sugar sweetmeats",
+      "conceptLink": "/ec2/concept/5994030"
+    }
+  },
+  {
+    "uri": "en/30/293086",
+    "id": "293086",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boiled sweets",
+    "harm": {
+      "id": "0046426",
+      "title": "293086 - Boiled sweets",
+      "conceptLink": "/ec2/concept/5993879"
+    }
+  },
+  {
+    "uri": "en/30/293087",
+    "id": "293087",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bonbons",
+    "harm": {
+      "id": "0046619",
+      "title": "293087 - Bonbons",
+      "conceptLink": "/ec2/concept/5994045"
+    }
+  },
+  {
+    "uri": "en/30/359377",
+    "id": "359377",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bonbons made of sugar",
+    "harm": {
+      "id": "0046619",
+      "title": "359377 - Bonbons made of sugar",
+      "conceptLink": "/ec2/concept/5994045"
+    }
+  },
+  {
+    "uri": "en/30/120863269",
+    "id": "120863269",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Boxed lunches consisting of rice, with added meat, fish or vegetables",
+    "harm": {
+      "id": "0067616",
+      "title": "120863269 - Boxed lunches consisting of rice, with added meat, fish or vegetables",
+      "conceptLink": "/ec2/concept/6003819"
+    }
+  },
+  {
+    "uri": "en/30/778919",
+    "id": "778919",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bran preparations for human consumption",
+    "harm": {
+      "id": "0035852",
+      "title": "778919 - Bran preparations for human consumption",
+      "conceptLink": "/ec2/concept/5984253"
+    }
+  },
+  {
+    "uri": "en/30/293342",
+    "id": "293342",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread",
+    "harm": {
+      "id": "0047609",
+      "title": "293342 - Bread",
+      "conceptLink": "/ec2/concept/5994889"
+    }
+  },
+  {
+    "uri": "en/30/359390",
+    "id": "359390",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread and buns",
+    "harm": {
+      "id": "0039854",
+      "title": "359390 - Bread and buns",
+      "conceptLink": "/ec2/concept/5987895"
+    }
+  },
+  {
+    "uri": "en/30/120824014",
+    "id": "120824014",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread-based stuffing mixes",
+    "harm": {
+      "id": "0067622",
+      "title": "120824014 - Bread-based stuffing mixes",
+      "conceptLink": "/ec2/concept/6003825"
+    }
+  },
+  {
+    "uri": "en/30/778931",
+    "id": "778931",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread biscuits",
+    "harm": {
+      "id": "0001146",
+      "title": "778931 - Bread biscuits",
+      "conceptLink": "/ec2/concept/5952519"
+    }
+  },
+  {
+    "uri": "en/30/293347",
+    "id": "293347",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread buns",
+    "harm": {
+      "id": "0006480",
+      "title": "293347 - Bread buns",
+      "conceptLink": "/ec2/concept/5957387"
+    }
+  },
+  {
+    "uri": "en/30/778947",
+    "id": "778947",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread casings filled with fruit",
+    "harm": {
+      "id": "0001147",
+      "title": "778947 - Bread casings filled with fruit",
+      "conceptLink": "/ec2/concept/5952520"
+    }
+  },
+  {
+    "uri": "en/30/778959",
+    "id": "778959",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread concentrates",
+    "harm": {
+      "id": "0035853",
+      "title": "778959 - Bread concentrates",
+      "conceptLink": "/ec2/concept/5984254"
+    }
+  },
+  {
+    "uri": "en/30/299848",
+    "id": "299848",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread crumbs",
+    "harm": {
+      "id": "0058045",
+      "title": "299848 - Bread crumbs",
+      "conceptLink": "/ec2/concept/5999546"
+    }
+  },
+  {
+    "uri": "en/30/359406",
+    "id": "359406",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread doughs",
+    "harm": {
+      "id": "0028327",
+      "title": "359406 - Bread doughs",
+      "conceptLink": "/ec2/concept/5977386"
+    }
+  },
+  {
+    "uri": "en/30/120883412",
+    "id": "120883412",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread flavored with spices",
+    "harm": {
+      "id": "0037561",
+      "title": "120883412 - Bread flavored with spices",
+      "conceptLink": "/ec2/concept/5985799"
+    }
+  },
+  {
+    "uri": "en/30/890724",
+    "id": "890724",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread flavoured with spices",
+    "harm": {
+      "id": "0037561",
+      "title": "890724 - Bread flavoured with spices",
+      "conceptLink": "/ec2/concept/5985799"
+    }
+  },
+  {
+    "uri": "en/30/294851",
+    "id": "294851",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread (Ginger -)",
+    "harm": {
+      "id": "0012268",
+      "title": "294851 - Bread (Ginger -)",
+      "conceptLink": "/ec2/concept/5962689"
+    }
+  },
+  {
+    "uri": "en/30/896196",
+    "id": "896196",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread improvers being cereal based preparations",
+    "harm": {
+      "id": "0014859",
+      "title": "896196 - Bread improvers being cereal based preparations",
+      "conceptLink": "/ec2/concept/5965062"
+    }
+  },
+  {
+    "uri": "en/30/120814801",
+    "id": "120814801",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread made with soya beans",
+    "harm": {
+      "id": "0005268",
+      "title": "120814801 - Bread made with soya beans",
+      "conceptLink": "/ec2/concept/5956276"
+    }
+  },
+  {
+    "uri": "en/30/778974",
+    "id": "778974",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread mixes",
+    "harm": {
+      "id": "0024311",
+      "title": "778974 - Bread mixes",
+      "conceptLink": "/ec2/concept/5973713"
+    }
+  },
+  {
+    "uri": "en/30/135866618",
+    "id": "135866618",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread pudding",
+    "harm": {
+      "id": "0056822",
+      "title": "135866618 - Bread pudding",
+      "conceptLink": "/ec2/concept/5998100"
+    }
+  },
+  {
+    "uri": "en/30/293346",
+    "id": "293346",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread rolls",
+    "harm": {
+      "id": "0047585",
+      "title": "293346 - Bread rolls",
+      "conceptLink": "/ec2/concept/5994869"
+    }
+  },
+  {
+    "uri": "en/30/443485",
+    "id": "443485",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread sticks",
+    "harm": {
+      "id": "0037093",
+      "title": "443485 - Bread sticks",
+      "conceptLink": "/ec2/concept/5985377"
+    }
+  },
+  {
+    "uri": "en/30/359420",
+    "id": "359420",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread with soy bean",
+    "harm": {
+      "id": "0005268",
+      "title": "359420 - Bread with soy bean",
+      "conceptLink": "/ec2/concept/5956276"
+    }
+  },
+  {
+    "uri": "en/30/119679858",
+    "id": "119679858",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bread with sweet red bean",
+    "harm": {
+      "id": "0071241",
+      "title": "119679858 - Bread with sweet red bean",
+      "conceptLink": "/ec2/concept/6007433"
+    }
+  },
+  {
+    "uri": "en/30/299846",
+    "id": "299846",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breadcrumbs",
+    "harm": {
+      "id": "0058045",
+      "title": "299846 - Breadcrumbs",
+      "conceptLink": "/ec2/concept/5999546"
+    }
+  },
+  {
+    "uri": "en/30/443486",
+    "id": "443486",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breadsticks",
+    "harm": {
+      "id": "0037093",
+      "title": "443486 - Breadsticks",
+      "conceptLink": "/ec2/concept/5985377"
+    }
+  },
+  {
+    "uri": "en/30/778996",
+    "id": "778996",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cake",
+    "harm": {
+      "id": "0018527",
+      "title": "778996 - Breakfast cake",
+      "conceptLink": "/ec2/concept/5968420"
+    }
+  },
+  {
+    "uri": "en/30/298756",
+    "id": "298756",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals",
+    "harm": {
+      "id": "0046557",
+      "title": "298756 - Breakfast cereals",
+      "conceptLink": "/ec2/concept/5993991"
+    }
+  },
+  {
+    "uri": "en/30/779025",
+    "id": "779025",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals containing fibre",
+    "harm": {
+      "id": "0013975",
+      "title": "779025 - Breakfast cereals containing fibre",
+      "conceptLink": "/ec2/concept/5964245"
+    }
+  },
+  {
+    "uri": "en/30/779011",
+    "id": "779011",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals containing a mixture of fruit and fibre",
+    "harm": {
+      "id": "0019831",
+      "title": "779011 - Breakfast cereals containing a mixture of fruit and fibre",
+      "conceptLink": "/ec2/concept/5969605"
+    }
+  },
+  {
+    "uri": "en/30/779040",
+    "id": "779040",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals containing fruit",
+    "harm": {
+      "id": "0019832",
+      "title": "779040 - Breakfast cereals containing fruit",
+      "conceptLink": "/ec2/concept/5969606"
+    }
+  },
+  {
+    "uri": "en/30/779055",
+    "id": "779055",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals containing honey",
+    "harm": {
+      "id": "0025533",
+      "title": "779055 - Breakfast cereals containing honey",
+      "conceptLink": "/ec2/concept/5974838"
+    }
+  },
+  {
+    "uri": "en/30/779070",
+    "id": "779070",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals flavoured with honey",
+    "harm": {
+      "id": "0042851",
+      "title": "779070 - Breakfast cereals flavoured with honey",
+      "conceptLink": "/ec2/concept/5990625"
+    }
+  },
+  {
+    "uri": "en/30/779084",
+    "id": "779084",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals made of rice",
+    "harm": {
+      "id": "0037112",
+      "title": "779084 - Breakfast cereals made of rice",
+      "conceptLink": "/ec2/concept/5985394"
+    }
+  },
+  {
+    "uri": "en/30/131137947",
+    "id": "131137947",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breakfast cereals, porridge and grits",
+    "harm": {
+      "id": "0047951",
+      "title": "131137947 - Breakfast cereals, porridge and grits",
+      "conceptLink": "/ec2/concept/5995213"
+    }
+  },
+  {
+    "uri": "en/30/120886892",
+    "id": "120886892",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breath-freshening chewing gum",
+    "harm": {
+      "id": "0067610",
+      "title": "120886892 - Breath-freshening chewing gum",
+      "conceptLink": "/ec2/concept/6003813"
+    }
+  },
+  {
+    "uri": "en/30/120866995",
+    "id": "120866995",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Breath mints for use as a breath freshener",
+    "harm": {
+      "id": "0067618",
+      "title": "120866995 - Breath mints for use as a breath freshener",
+      "conceptLink": "/ec2/concept/6003821"
+    }
+  },
+  {
+    "uri": "en/30/901241",
+    "id": "901241",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brine for cooking",
+    "harm": {
+      "id": "0039134",
+      "title": "901241 - Brine for cooking",
+      "conceptLink": "/ec2/concept/5987231"
+    }
+  },
+  {
+    "uri": "en/30/896209",
+    "id": "896209",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brine for pickling",
+    "harm": {
+      "id": "0032134",
+      "title": "896209 - Brine for pickling",
+      "conceptLink": "/ec2/concept/5980864"
+    }
+  },
+  {
+    "uri": "en/30/901242",
+    "id": "901242",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brine for use in cocktails",
+    "harm": {
+      "id": "0016015",
+      "title": "901242 - Brine for use in cocktails",
+      "conceptLink": "/ec2/concept/5966134"
+    }
+  },
+  {
+    "uri": "en/30/293348",
+    "id": "293348",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brioches",
+    "harm": {
+      "id": "0008110",
+      "title": "293348 - Brioches",
+      "conceptLink": "/ec2/concept/5958878"
+    }
+  },
+  {
+    "uri": "en/30/138203541",
+    "id": "138203541",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brittle",
+    "harm": {
+      "id": "0070229",
+      "title": "138203541 - Brittle",
+      "conceptLink": "/ec2/concept/6006422"
+    }
+  },
+  {
+    "uri": "en/30/16675956",
+    "id": "16675956",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brown rice",
+    "harm": {
+      "id": "0019845",
+      "title": "16675956 - Brown rice",
+      "conceptLink": "/ec2/concept/5969618"
+    }
+  },
+  {
+    "uri": "en/30/779100",
+    "id": "779100",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brown sauce",
+    "harm": {
+      "id": "0008111",
+      "title": "779100 - Brown sauce",
+      "conceptLink": "/ec2/concept/5958879"
+    }
+  },
+  {
+    "uri": "en/30/2237000",
+    "id": "2237000",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brown sugar",
+    "harm": {
+      "id": "0056472",
+      "title": "2237000 - Brown sugar",
+      "conceptLink": "/ec2/concept/5997783"
+    }
+  },
+  {
+    "uri": "en/30/119546004",
+    "id": "119546004",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brownie dough",
+    "harm": {
+      "id": "0067597",
+      "title": "119546004 - Brownie dough",
+      "conceptLink": "/ec2/concept/6003800"
+    }
+  },
+  {
+    "uri": "en/30/439629",
+    "id": "439629",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Brownies",
+    "harm": {
+      "id": "0027403",
+      "title": "439629 - Brownies",
+      "conceptLink": "/ec2/concept/5976529"
+    }
+  },
+  {
+    "uri": "en/30/293959",
+    "id": "293959",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bubble gum",
+    "harm": {
+      "id": "0057318",
+      "title": "293959 - Bubble gum",
+      "conceptLink": "/ec2/concept/5998827"
+    }
+  },
+  {
+    "uri": "en/30/132784978",
+    "id": "132784978",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bubble gum [confectionery]",
+    "harm": {
+      "id": "0057318",
+      "title": "132784978 - Bubble gum [confectionery]",
+      "conceptLink": "/ec2/concept/5998827"
+    }
+  },
+  {
+    "uri": "en/30/131111523",
+    "id": "131111523",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Buckwheat flour for food",
+    "harm": {
+      "id": "0016804",
+      "title": "131111523 - Buckwheat flour for food",
+      "conceptLink": "/ec2/concept/5966849"
+    }
+  },
+  {
+    "uri": "en/30/359432",
+    "id": "359432",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Buckwheat flour [for food]",
+    "harm": {
+      "id": "0016804",
+      "title": "359432 - Buckwheat flour [for food]",
+      "conceptLink": "/ec2/concept/5966849"
+    }
+  },
+  {
+    "uri": "en/30/136011011",
+    "id": "136011011",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Buckwheat jelly (Memilmuk)",
+    "harm": {
+      "id": "0050320",
+      "title": "136011011 - Buckwheat jelly (Memilmuk)",
+      "conceptLink": "/ec2/concept/5995528"
+    }
+  },
+  {
+    "uri": "en/30/889945",
+    "id": "889945",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Buckwheat noodles",
+    "harm": {
+      "id": "0033973",
+      "title": "889945 - Buckwheat noodles",
+      "conceptLink": "/ec2/concept/5982548"
+    }
+  },
+  {
+    "uri": "en/30/779115",
+    "id": "779115",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Bun mix",
+    "harm": {
+      "id": "0042852",
+      "title": "779115 - Bun mix",
+      "conceptLink": "/ec2/concept/5990626"
+    }
+  },
+  {
+    "uri": "en/30/293341",
+    "id": "293341",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Buns",
+    "harm": {
+      "id": "0006480",
+      "title": "293341 - Buns",
+      "conceptLink": "/ec2/concept/5957387"
+    }
+  },
+  {
+    "uri": "en/30/136399747",
+    "id": "136399747",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Burdock root tea (Wooungcha)",
+    "harm": {
+      "id": "0050862",
+      "title": "136399747 - Burdock root tea (Wooungcha)",
+      "conceptLink": "/ec2/concept/5996226"
+    }
+  },
+  {
+    "uri": "en/30/441478",
+    "id": "441478",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Burgers contained in bread rolls",
+    "harm": {
+      "id": "0042306",
+      "title": "441478 - Burgers contained in bread rolls",
+      "conceptLink": "/ec2/concept/5990137"
+    }
+  },
+  {
+    "uri": "en/30/439644",
+    "id": "439644",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Burritos",
+    "harm": {
+      "id": "0037999",
+      "title": "439644 - Burritos",
+      "conceptLink": "/ec2/concept/5986199"
+    }
+  },
+  {
+    "uri": "en/30/297011",
+    "id": "297011",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Butter biscuits",
+    "harm": {
+      "id": "0035600",
+      "title": "297011 - Butter biscuits",
+      "conceptLink": "/ec2/concept/5984023"
+    }
+  },
+  {
+    "uri": "en/30/901351",
+    "id": "901351",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Butterscotch chips",
+    "harm": {
+      "id": "0000935",
+      "title": "901351 - Butterscotch chips",
+      "conceptLink": "/ec2/concept/5952329"
+    }
+  },
+  {
+    "uri": "en/30/779128",
+    "id": "779128",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cachou [confectionery], other than for pharmaceutical purposes",
+    "harm": {
+      "id": "0013976",
+      "title": "779128 - Cachou [confectionery], other than for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5964246"
+    }
+  },
+  {
+    "uri": "en/30/359450",
+    "id": "359450",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caffeine-free coffee",
+    "harm": {
+      "id": "0039558",
+      "title": "359450 - Caffeine-free coffee",
+      "conceptLink": "/ec2/concept/5987622"
+    }
+  },
+  {
+    "uri": "en/30/120814794",
+    "id": "120814794",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake batter",
+    "harm": {
+      "id": "0059479",
+      "title": "120814794 - Cake batter",
+      "conceptLink": "/ec2/concept/6000955"
+    }
+  },
+  {
+    "uri": "en/30/779141",
+    "id": "779141",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake decorations made of candy",
+    "harm": {
+      "id": "0031256",
+      "title": "779141 - Cake decorations made of candy",
+      "conceptLink": "/ec2/concept/5980080"
+    }
+  },
+  {
+    "uri": "en/30/120814793",
+    "id": "120814793",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake dough",
+    "harm": {
+      "id": "0059479",
+      "title": "120814793 - Cake dough",
+      "conceptLink": "/ec2/concept/6000955"
+    }
+  },
+  {
+    "uri": "en/30/292843",
+    "id": "292843",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake doughs",
+    "harm": {
+      "id": "0010044",
+      "title": "292843 - Cake doughs",
+      "conceptLink": "/ec2/concept/5960651"
+    }
+  },
+  {
+    "uri": "en/30/779156",
+    "id": "779156",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake flour",
+    "harm": {
+      "id": "0037113",
+      "title": "779156 - Cake flour",
+      "conceptLink": "/ec2/concept/5985395"
+    }
+  },
+  {
+    "uri": "en/30/901404",
+    "id": "901404",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake frosting",
+    "harm": {
+      "id": "0057017",
+      "title": "901404 - Cake frosting",
+      "conceptLink": "/ec2/concept/5998645"
+    }
+  },
+  {
+    "uri": "en/30/120899268",
+    "id": "120899268",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake frosting [icing]",
+    "harm": {
+      "id": "0057017",
+      "title": "120899268 - Cake frosting [icing]",
+      "conceptLink": "/ec2/concept/5998645"
+    }
+  },
+  {
+    "uri": "en/30/783952",
+    "id": "783952",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake icing",
+    "harm": {
+      "id": "0057017",
+      "title": "783952 - Cake icing",
+      "conceptLink": "/ec2/concept/5998645"
+    }
+  }
+]

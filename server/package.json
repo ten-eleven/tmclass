@@ -1,0 +1,24 @@
+{
+  "name": "tmclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:local:watch": "NODE_ENV=test nodemon ./node_modules/jasmine/bin/jasmine.js JASMINE_CONFIG_PATH=./test/support/jasmine.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "es6-promisify-all": "^0.1.0",
+    "jsdom": "^9.11.0",
+    "lodash": "^4.17.4",
+    "spur-common": "^1.0.1",
+    "spur-ioc": "^0.2.5"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3",
+    "jasmine-co": "^1.2.2",
+    "jasmine-spec-reporter": "^3.2.0"
+  }
+}

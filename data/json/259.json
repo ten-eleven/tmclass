@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/151429",
+    "id": "151429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle mountings",
+    "harm": {
+      "id": "0058857",
+      "title": "151429 - Spectacle mountings",
+      "conceptLink": "/ec2/concept/6000348"
+    }
+  },
+  {
+    "uri": "en/9/137853600",
+    "id": "137853600",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle nose pads",
+    "harm": {
+      "id": "0070583",
+      "title": "137853600 - Spectacle nose pads",
+      "conceptLink": "/ec2/concept/6006775"
+    }
+  },
+  {
+    "uri": "en/9/223892650",
+    "id": "223892650",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle straps",
+    "harm": {
+      "id": "0072479",
+      "title": "223892650 - Spectacle straps",
+      "conceptLink": "/ec2/concept/6008656"
+    }
+  },
+  {
+    "uri": "en/9/28548210",
+    "id": "28548210",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle temples",
+    "harm": {
+      "id": "0055863",
+      "title": "28548210 - Spectacle temples",
+      "conceptLink": "/ec2/concept/5997241"
+    }
+  },
+  {
+    "uri": "en/9/150490",
+    "id": "150490",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacles",
+    "harm": {
+      "id": "0057058",
+      "title": "150490 - Spectacles",
+      "conceptLink": "/ec2/concept/5998686"
+    }
+  },
+  {
+    "uri": "en/9/1281992",
+    "id": "1281992",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacles for sports",
+    "harm": {
+      "id": "0059138",
+      "title": "1281992 - Spectacles for sports",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/150488",
+    "id": "150488",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacles [glasses]",
+    "harm": {
+      "id": "0014014",
+      "title": "150488 - Spectacles [glasses]",
+      "conceptLink": "/ec2/concept/5964280"
+    }
+  },
+  {
+    "uri": "en/9/150487",
+    "id": "150487",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacles [optics]",
+    "harm": {
+      "id": "0057058",
+      "title": "150487 - Spectacles [optics]",
+      "conceptLink": "/ec2/concept/5998686"
+    }
+  },
+  {
+    "uri": "en/9/551248",
+    "id": "551248",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrocolorimeters, other than for medical diagnostic use",
+    "harm": {
+      "id": "0000918",
+      "title": "551248 - Spectrocolorimeters, other than for medical diagnostic use",
+      "conceptLink": "/ec2/concept/5952314"
+    }
+  },
+  {
+    "uri": "en/9/154430",
+    "id": "154430",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrograph apparatus",
+    "harm": {
+      "id": "0040925",
+      "title": "154430 - Spectrograph apparatus",
+      "conceptLink": "/ec2/concept/5988873"
+    }
+  },
+  {
+    "uri": "en/9/154429",
+    "id": "154429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrographic apparatus",
+    "harm": {
+      "id": "0040925",
+      "title": "154429 - Spectrographic apparatus",
+      "conceptLink": "/ec2/concept/5988873"
+    }
+  },
+  {
+    "uri": "en/9/154431",
+    "id": "154431",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrographs",
+    "harm": {
+      "id": "0040925",
+      "title": "154431 - Spectrographs",
+      "conceptLink": "/ec2/concept/5988873"
+    }
+  },
+  {
+    "uri": "en/9/551262",
+    "id": "551262",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrometers",
+    "harm": {
+      "id": "0016992",
+      "title": "551262 - Spectrometers",
+      "conceptLink": "/ec2/concept/5967019"
+    }
+  },
+  {
+    "uri": "en/9/551282",
+    "id": "551282",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrometry apparatus",
+    "harm": {
+      "id": "0034313",
+      "title": "551282 - Spectrometry apparatus",
+      "conceptLink": "/ec2/concept/5982856"
+    }
+  },
+  {
+    "uri": "en/9/551295",
+    "id": "551295",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrophotometer",
+    "harm": {
+      "id": "0011196",
+      "title": "551295 - Spectrophotometer",
+      "conceptLink": "/ec2/concept/5961703"
+    }
+  },
+  {
+    "uri": "en/9/153435",
+    "id": "153435",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectroscopes",
+    "harm": {
+      "id": "0014693",
+      "title": "153435 - Spectroscopes",
+      "conceptLink": "/ec2/concept/5964914"
+    }
+  },
+  {
+    "uri": "en/9/551309",
+    "id": "551309",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectrum analyzers, other than for medical use",
+    "harm": {
+      "id": "0045797",
+      "title": "551309 - Spectrum analyzers, other than for medical use",
+      "conceptLink": "/ec2/concept/5993329"
+    }
+  },
+  {
+    "uri": "en/9/137877824",
+    "id": "137877824",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech analytics software",
+    "harm": {
+      "id": "0070584",
+      "title": "137877824 - Speech analytics software",
+      "conceptLink": "/ec2/concept/6006776"
+    }
+  },
+  {
+    "uri": "en/9/401941",
+    "id": "401941",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech processing equipment",
+    "harm": {
+      "id": "0027633",
+      "title": "401941 - Speech processing equipment",
+      "conceptLink": "/ec2/concept/5976750"
+    }
+  },
+  {
+    "uri": "en/9/551327",
+    "id": "551327",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech processors",
+    "harm": {
+      "id": "0030762",
+      "title": "551327 - Speech processors",
+      "conceptLink": "/ec2/concept/5979633"
+    }
+  },
+  {
+    "uri": "en/9/551350",
+    "id": "551350",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech recognisers",
+    "harm": {
+      "id": "0028516",
+      "title": "551350 - Speech recognisers",
+      "conceptLink": "/ec2/concept/5977564"
+    }
+  },
+  {
+    "uri": "en/9/551351",
+    "id": "551351",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech recognition apparatus",
+    "harm": {
+      "id": "0028516",
+      "title": "551351 - Speech recognition apparatus",
+      "conceptLink": "/ec2/concept/5977564"
+    }
+  },
+  {
+    "uri": "en/9/36693651",
+    "id": "36693651",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech recognition software",
+    "harm": {
+      "id": "0070585",
+      "title": "36693651 - Speech recognition software",
+      "conceptLink": "/ec2/concept/6006777"
+    }
+  },
+  {
+    "uri": "en/9/551374",
+    "id": "551374",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speech synthesizers",
+    "harm": {
+      "id": "0040062",
+      "title": "551374 - Speech synthesizers",
+      "conceptLink": "/ec2/concept/5988087"
+    }
+  },
+  {
+    "uri": "en/9/551385",
+    "id": "551385",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed checking apparatus",
+    "harm": {
+      "id": "0005463",
+      "title": "551385 - Speed checking apparatus",
+      "conceptLink": "/ec2/concept/5956461"
+    }
+  },
+  {
+    "uri": "en/9/144384",
+    "id": "144384",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed checking apparatus for vehicles",
+    "harm": {
+      "id": "0032885",
+      "title": "144384 - Speed checking apparatus for vehicles",
+      "conceptLink": "/ec2/concept/5981546"
+    }
+  },
+  {
+    "uri": "en/9/328509",
+    "id": "328509",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed controllers [electrical]",
+    "harm": {
+      "id": "0025093",
+      "title": "328509 - Speed controllers [electrical]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/328510",
+    "id": "328510",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed controllers [electronic]",
+    "harm": {
+      "id": "0025093",
+      "title": "328510 - Speed controllers [electronic]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/149460",
+    "id": "149460",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed indicators",
+    "harm": {
+      "id": "0047049",
+      "title": "149460 - Speed indicators",
+      "conceptLink": "/ec2/concept/5994426"
+    }
+  },
+  {
+    "uri": "en/9/401964",
+    "id": "401964",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed indicators for vehicles",
+    "harm": {
+      "id": "0036639",
+      "title": "401964 - Speed indicators for vehicles",
+      "conceptLink": "/ec2/concept/5984966"
+    }
+  },
+  {
+    "uri": "en/9/551399",
+    "id": "551399",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed measuring apparatus for vehicles",
+    "harm": {
+      "id": "0036639",
+      "title": "551399 - Speed measuring apparatus for vehicles",
+      "conceptLink": "/ec2/concept/5984966"
+    }
+  },
+  {
+    "uri": "en/9/149463",
+    "id": "149463",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed measuring apparatus",
+    "harm": {
+      "id": "0047078",
+      "title": "149463 - Speed measuring apparatus",
+      "conceptLink": "/ec2/concept/5994455"
+    }
+  },
+  {
+    "uri": "en/9/151037",
+    "id": "151037",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed measuring apparatus [photography]",
+    "harm": {
+      "id": "0045924",
+      "title": "151037 - Speed measuring apparatus [photography]",
+      "conceptLink": "/ec2/concept/5993447"
+    }
+  },
+  {
+    "uri": "en/9/120918931",
+    "id": "120918931",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed measuring instruments",
+    "harm": {
+      "id": "0047078",
+      "title": "120918931 - Speed measuring instruments",
+      "conceptLink": "/ec2/concept/5994455"
+    }
+  },
+  {
+    "uri": "en/9/149464",
+    "id": "149464",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed meters",
+    "harm": {
+      "id": "0047056",
+      "title": "149464 - Speed meters",
+      "conceptLink": "/ec2/concept/5994433"
+    }
+  },
+  {
+    "uri": "en/9/328512",
+    "id": "328512",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed reducers [electrical]",
+    "harm": {
+      "id": "0025093",
+      "title": "328512 - Speed reducers [electrical]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/328513",
+    "id": "328513",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed reducers [electronic]",
+    "harm": {
+      "id": "0025093",
+      "title": "328513 - Speed reducers [electronic]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/328514",
+    "id": "328514",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed regulators [electrical]",
+    "harm": {
+      "id": "0025093",
+      "title": "328514 - Speed regulators [electrical]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/328515",
+    "id": "328515",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed regulators [electronic]",
+    "harm": {
+      "id": "0025093",
+      "title": "328515 - Speed regulators [electronic]",
+      "conceptLink": "/ec2/concept/5974434"
+    }
+  },
+  {
+    "uri": "en/9/155308",
+    "id": "155308",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed regulators for record players",
+    "harm": {
+      "id": "0040204",
+      "title": "155308 - Speed regulators for record players",
+      "conceptLink": "/ec2/concept/5988220"
+    }
+  },
+  {
+    "uri": "en/9/149465",
+    "id": "149465",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speed repeaters",
+    "harm": {
+      "id": "0047030",
+      "title": "149465 - Speed repeaters",
+      "conceptLink": "/ec2/concept/5994409"
+    }
+  },
+  {
+    "uri": "en/9/332110",
+    "id": "332110",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speedometer testers",
+    "harm": {
+      "id": "0004519",
+      "title": "332110 - Speedometer testers",
+      "conceptLink": "/ec2/concept/5955588"
+    }
+  },
+  {
+    "uri": "en/9/149466",
+    "id": "149466",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speedometers",
+    "harm": {
+      "id": "0047056",
+      "title": "149466 - Speedometers",
+      "conceptLink": "/ec2/concept/5994433"
+    }
+  },
+  {
+    "uri": "en/9/401963",
+    "id": "401963",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speedometers for vehicles",
+    "harm": {
+      "id": "0036639",
+      "title": "401963 - Speedometers for vehicles",
+      "conceptLink": "/ec2/concept/5984966"
+    }
+  },
+  {
+    "uri": "en/9/551413",
+    "id": "551413",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spelling verifiers",
+    "harm": {
+      "id": "0042389",
+      "title": "551413 - Spelling verifiers",
+      "conceptLink": "/ec2/concept/5990214"
+    }
+  },
+  {
+    "uri": "en/9/154463",
+    "id": "154463",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spherometers",
+    "harm": {
+      "id": "0006226",
+      "title": "154463 - Spherometers",
+      "conceptLink": "/ec2/concept/5957156"
+    }
+  },
+  {
+    "uri": "en/9/141593",
+    "id": "141593",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spirit levels",
+    "harm": {
+      "id": "0058327",
+      "title": "141593 - Spirit levels",
+      "conceptLink": "/ec2/concept/5999826"
+    }
+  },
+  {
+    "uri": "en/9/551426",
+    "id": "551426",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spirometers for scientific use",
+    "harm": {
+      "id": "0025094",
+      "title": "551426 - Spirometers for scientific use",
+      "conceptLink": "/ec2/concept/5974435"
+    }
+  },
+  {
+    "uri": "en/9/143874",
+    "id": "143874",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Splice boxes [electric]",
+    "harm": {
+      "id": "0036640",
+      "title": "143874 - Splice boxes [electric]",
+      "conceptLink": "/ec2/concept/5984967"
+    }
+  },
+  {
+    "uri": "en/9/143705",
+    "id": "143705",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Splice connectors [electric]",
+    "harm": {
+      "id": "0017096",
+      "title": "143705 - Splice connectors [electric]",
+      "conceptLink": "/ec2/concept/5967109"
+    }
+  },
+  {
+    "uri": "en/9/551437",
+    "id": "551437",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Splice connectors [optical]",
+    "harm": {
+      "id": "0018863",
+      "title": "551437 - Splice connectors [optical]",
+      "conceptLink": "/ec2/concept/5968734"
+    }
+  },
+  {
+    "uri": "en/9/68842050",
+    "id": "68842050",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Splices for electrical transmission lines",
+    "harm": {
+      "id": "0001932",
+      "title": "68842050 - Splices for electrical transmission lines",
+      "conceptLink": "/ec2/concept/5953224"
+    }
+  },
+  {
+    "uri": "en/9/114410248",
+    "id": "114410248",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spools for cameras",
+    "harm": {
+      "id": "0010200",
+      "title": "114410248 - Spools for cameras",
+      "conceptLink": "/ec2/concept/5960788"
+    }
+  },
+  {
+    "uri": "en/9/147335",
+    "id": "147335",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spools [photography]",
+    "harm": {
+      "id": "0010200",
+      "title": "147335 - Spools [photography]",
+      "conceptLink": "/ec2/concept/5960788"
+    }
+  },
+  {
+    "uri": "en/9/615149",
+    "id": "615149",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sport bags adapted [shaped] to contain protective helmets",
+    "harm": {
+      "id": "0010794",
+      "title": "615149 - Sport bags adapted [shaped] to contain protective helmets",
+      "conceptLink": "/ec2/concept/5961340"
+    }
+  },
+  {
+    "uri": "en/9/18763096",
+    "id": "18763096",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sport whistles",
+    "harm": {
+      "id": "0065988",
+      "title": "18763096 - Sport whistles",
+      "conceptLink": "/ec2/concept/6002191"
+    }
+  },
+  {
+    "uri": "en/9/161016",
+    "id": "161016",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports eyewear",
+    "harm": {
+      "id": "0059139",
+      "title": "161016 - Sports eyewear",
+      "conceptLink": "/ec2/concept/6000630"
+    }
+  },
+  {
+    "uri": "en/9/161017",
+    "id": "161017",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports glasses",
+    "harm": {
+      "id": "0059138",
+      "title": "161017 - Sports glasses",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/119530784",
+    "id": "119530784",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports' glasses",
+    "harm": {
+      "id": "0059138",
+      "title": "119530784 - Sports' glasses",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/161018",
+    "id": "161018",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports goggles",
+    "harm": {
+      "id": "0059138",
+      "title": "161018 - Sports goggles",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/161019",
+    "id": "161019",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports (Goggles for -)",
+    "harm": {
+      "id": "0059138",
+      "title": "161019 - Sports (Goggles for -)",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/332128",
+    "id": "332128",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports helmets",
+    "harm": {
+      "id": "0040993",
+      "title": "332128 - Sports helmets",
+      "conceptLink": "/ec2/concept/5988936"
+    }
+  },
+  {
+    "uri": "en/9/161129",
+    "id": "161129",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports (Protective helmets for -)",
+    "harm": {
+      "id": "0023353",
+      "title": "161129 - Sports (Protective helmets for -)",
+      "conceptLink": "/ec2/concept/5972830"
+    }
+  },
+  {
+    "uri": "en/9/119530783",
+    "id": "119530783",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports training eyeglasses",
+    "harm": {
+      "id": "0059138",
+      "title": "119530783 - Sports training eyeglasses",
+      "conceptLink": "/ec2/concept/6000629"
+    }
+  },
+  {
+    "uri": "en/9/1148351",
+    "id": "1148351",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sports training simulators",
+    "harm": {
+      "id": "0050750",
+      "title": "1148351 - Sports training simulators",
+      "conceptLink": "/ec2/concept/5996115"
+    }
+  },
+  {
+    "uri": "en/9/155040",
+    "id": "155040",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spotting scopes",
+    "harm": {
+      "id": "0022033",
+      "title": "155040 - Spotting scopes",
+      "conceptLink": "/ec2/concept/5971623"
+    }
+  },
+  {
+    "uri": "en/9/551451",
+    "id": "551451",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spring balances",
+    "harm": {
+      "id": "0040168",
+      "title": "551451 - Spring balances",
+      "conceptLink": "/ec2/concept/5988186"
+    }
+  },
+  {
+    "uri": "en/9/551466",
+    "id": "551466",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spring callipers",
+    "harm": {
+      "id": "0028616",
+      "title": "551466 - Spring callipers",
+      "conceptLink": "/ec2/concept/5977654"
+    }
+  },
+  {
+    "uri": "en/9/615305",
+    "id": "615305",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sprinkler apparatus [automatic] for fire extinguishing",
+    "harm": {
+      "id": "0026728",
+      "title": "615305 - Sprinkler apparatus [automatic] for fire extinguishing",
+      "conceptLink": "/ec2/concept/5975924"
+    }
+  },
+  {
+    "uri": "en/9/160664",
+    "id": "160664",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sprinkler systems for fire extinguishing",
+    "harm": {
+      "id": "0029076",
+      "title": "160664 - Sprinkler systems for fire extinguishing",
+      "conceptLink": "/ec2/concept/5978086"
+    }
+  },
+  {
+    "uri": "en/9/160663",
+    "id": "160663",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sprinkler systems for fire protection",
+    "harm": {
+      "id": "0029076",
+      "title": "160663 - Sprinkler systems for fire protection",
+      "conceptLink": "/ec2/concept/5978086"
+    }
+  },
+  {
+    "uri": "en/9/155036",
+    "id": "155036",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spyglasses",
+    "harm": {
+      "id": "0013522",
+      "title": "155036 - Spyglasses",
+      "conceptLink": "/ec2/concept/5963830"
+    }
+  },
+  {
+    "uri": "en/9/551493",
+    "id": "551493",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Square rulers for measuring",
+    "harm": {
+      "id": "0011299",
+      "title": "551493 - Square rulers for measuring",
+      "conceptLink": "/ec2/concept/5961797"
+    }
+  },
+  {
+    "uri": "en/9/233534317",
+    "id": "233534317",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Squares for measuring",
+    "harm": {
+      "id": "0052077",
+      "title": "233534317 - Squares for measuring",
+      "conceptLink": "/ec2/concept/6010977"
+    }
+  },
+  {
+    "uri": "en/9/137964049",
+    "id": "137964049",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stab vests",
+    "harm": {
+      "id": "0070586",
+      "title": "137964049 - Stab vests",
+      "conceptLink": "/ec2/concept/6006778"
+    }
+  },
+  {
+    "uri": "en/9/551506",
+    "id": "551506",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stabilizing gyroscopes",
+    "harm": {
+      "id": "0011300",
+      "title": "551506 - Stabilizing gyroscopes",
+      "conceptLink": "/ec2/concept/5961798"
+    }
+  },
+  {
+    "uri": "en/9/162457",
+    "id": "162457",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stage lighting controls",
+    "harm": {
+      "id": "0046955",
+      "title": "162457 - Stage lighting controls",
+      "conceptLink": "/ec2/concept/5994342"
+    }
+  },
+  {
+    "uri": "en/9/162456",
+    "id": "162456",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stage lighting regulators",
+    "harm": {
+      "id": "0026110",
+      "title": "162456 - Stage lighting regulators",
+      "conceptLink": "/ec2/concept/5975363"
+    }
+  },
+  {
+    "uri": "en/9/144163",
+    "id": "144163",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stamping mail (Apparatus to check -)",
+    "harm": {
+      "id": "0032884",
+      "title": "144163 - Stamping mail (Apparatus to check -)",
+      "conceptLink": "/ec2/concept/5981545"
+    }
+  },
+  {
+    "uri": "en/9/138174488",
+    "id": "138174488",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands adapted for mobile phones",
+    "harm": {
+      "id": "0069959",
+      "title": "138174488 - Stands adapted for mobile phones",
+      "conceptLink": "/ec2/concept/6006161"
+    }
+  },
+  {
+    "uri": "en/9/138174489",
+    "id": "138174489",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands adapted for tablet computers",
+    "harm": {
+      "id": "0069960",
+      "title": "138174489 - Stands adapted for tablet computers",
+      "conceptLink": "/ec2/concept/6006162"
+    }
+  },
+  {
+    "uri": "en/9/551518",
+    "id": "551518",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands for computer equipment",
+    "harm": {
+      "id": "0017097",
+      "title": "551518 - Stands for computer equipment",
+      "conceptLink": "/ec2/concept/5967110"
+    }
+  },
+  {
+    "uri": "en/9/152446",
+    "id": "152446",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands for photographic apparatus",
+    "harm": {
+      "id": "0058972",
+      "title": "152446 - Stands for photographic apparatus",
+      "conceptLink": "/ec2/concept/6000463"
+    }
+  },
+  {
+    "uri": "en/9/551533",
+    "id": "551533",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands for printers",
+    "harm": {
+      "id": "0022961",
+      "title": "551533 - Stands for printers",
+      "conceptLink": "/ec2/concept/5972465"
+    }
+  },
+  {
+    "uri": "en/9/551548",
+    "id": "551548",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Stands for televisions",
+    "harm": {
+      "id": "0011301",
+      "title": "551548 - Stands for televisions",
+      "conceptLink": "/ec2/concept/5961799"
+    }
+  },
+  {
+    "uri": "en/9/160728",
+    "id": "160728",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Starter cables for motors",
+    "harm": {
+      "id": "0059376",
+      "title": "160728 - Starter cables for motors",
+      "conceptLink": "/ec2/concept/6000858"
+    }
+  },
+  {
+    "uri": "en/9/551565",
+    "id": "551565",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Starter electromagnets",
+    "harm": {
+      "id": "0005572",
+      "title": "551565 - Starter electromagnets",
+      "conceptLink": "/ec2/concept/5956564"
+    }
+  },
+  {
+    "uri": "en/9/402007",
+    "id": "402007",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Starters for electric lights",
+    "harm": {
+      "id": "0007136",
+      "title": "402007 - Starters for electric lights",
+      "conceptLink": "/ec2/concept/5957986"
+    }
+  },
+  {
+    "uri": "en/9/402026",
+    "id": "402026",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Static exciters",
+    "harm": {
+      "id": "0036080",
+      "title": "402026 - Static exciters",
+      "conceptLink": "/ec2/concept/5984455"
+    }
+  },
+  {
+    "uri": "en/9/25145342",
+    "id": "25145342",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Static grounding systems and apparatus",
+    "harm": {
+      "id": "0065865",
+      "title": "25145342 - Static grounding systems and apparatus",
+      "conceptLink": "/ec2/concept/6002068"
+    }
+  },
+  {
+    "uri": "en/9/551578",
+    "id": "551578",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Static power convertors",
+    "harm": {
+      "id": "0038216",
+      "title": "551578 - Static power convertors",
+      "conceptLink": "/ec2/concept/5986396"
+    }
+  },
+  {
+    "uri": "en/9/233106262",
+    "id": "233106262",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Static VAR compensators",
+    "harm": {
+      "id": "0050387",
+      "title": "233106262 - Static VAR compensators",
+      "conceptLink": "/ec2/concept/5995554"
+    }
+  },
+  {
+    "uri": "en/9/333044",
+    "id": "333044",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Static voltage regulators",
+    "harm": {
+      "id": "0059006",
+      "title": "333044 - Static voltage regulators",
+      "conceptLink": "/ec2/concept/6000497"
+    }
+  },
+  {
+    "uri": "en/9/402044",
+    "id": "402044",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Steel rules for measuring",
+    "harm": {
+      "id": "0041849",
+      "title": "402044 - Steel rules for measuring",
+      "conceptLink": "/ec2/concept/5989717"
+    }
+  },
+  {
+    "uri": "en/9/402043",
+    "id": "402043",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Steel tape measures",
+    "harm": {
+      "id": "0041849",
+      "title": "402043 - Steel tape measures",
+      "conceptLink": "/ec2/concept/5989717"
+    }
+  },
+  {
+    "uri": "en/9/153635",
+    "id": "153635",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Steelyards [lever scales]",
+    "harm": {
+      "id": "0001595",
+      "title": "153635 - Steelyards [lever scales]",
+      "conceptLink": "/ec2/concept/5952922"
+    }
+  },
+  {
+    "uri": "en/9/152639",
+    "id": "152639",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Steering apparatus, automatic, for vehicles",
+    "harm": {
+      "id": "0037319",
+      "title": "152639 - Steering apparatus, automatic, for vehicles",
+      "conceptLink": "/ec2/concept/5985582"
+    }
+  },
+  {
+    "uri": "en/9/402084",
+    "id": "402084",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Step down transformers",
+    "harm": {
+      "id": "0007137",
+      "title": "402084 - Step down transformers",
+      "conceptLink": "/ec2/concept/5957987"
+    }
+  },
+  {
+    "uri": "en/9/551591",
+    "id": "551591",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Step relays",
+    "harm": {
+      "id": "0015134",
+      "title": "551591 - Step relays",
+      "conceptLink": "/ec2/concept/5965311"
+    }
+  },
+  {
+    "uri": "en/9/402082",
+    "id": "402082",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Step up transformers",
+    "harm": {
+      "id": "0007137",
+      "title": "402082 - Step up transformers",
+      "conceptLink": "/ec2/concept/5957987"
+    }
+  }
+]

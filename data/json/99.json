@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/90927",
+    "id": "90927",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food for babies",
+    "harm": {
+      "id": "0059421",
+      "title": "90927 - Food for babies",
+      "conceptLink": "/ec2/concept/6000899"
+    }
+  },
+  {
+    "uri": "en/5/383453",
+    "id": "383453",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food for diabetics",
+    "harm": {
+      "id": "0035042",
+      "title": "383453 - Food for diabetics",
+      "conceptLink": "/ec2/concept/5983513"
+    }
+  },
+  {
+    "uri": "en/5/90928",
+    "id": "90928",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food for infants",
+    "harm": {
+      "id": "0059420",
+      "title": "90928 - Food for infants",
+      "conceptLink": "/ec2/concept/6000898"
+    }
+  },
+  {
+    "uri": "en/5/383477",
+    "id": "383477",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food for medically restricted diets",
+    "harm": {
+      "id": "0035663",
+      "title": "383477 - Food for medically restricted diets",
+      "conceptLink": "/ec2/concept/5984079"
+    }
+  },
+  {
+    "uri": "en/5/1573911",
+    "id": "1573911",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements",
+    "harm": {
+      "id": "0058278",
+      "title": "1573911 - Food supplements",
+      "conceptLink": "/ec2/concept/5999777"
+    }
+  },
+  {
+    "uri": "en/5/120897506",
+    "id": "120897506",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements consisting of amino acids",
+    "harm": {
+      "id": "0065199",
+      "title": "120897506 - Food supplements consisting of amino acids",
+      "conceptLink": "/ec2/concept/6001402"
+    }
+  },
+  {
+    "uri": "en/5/120897471",
+    "id": "120897471",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements consisting of trace elements",
+    "harm": {
+      "id": "0065200",
+      "title": "120897471 - Food supplements consisting of trace elements",
+      "conceptLink": "/ec2/concept/6001403"
+    }
+  },
+  {
+    "uri": "en/5/383255",
+    "id": "383255",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements for dietetic use",
+    "harm": {
+      "id": "0058278",
+      "title": "383255 - Food supplements for dietetic use",
+      "conceptLink": "/ec2/concept/5999777"
+    }
+  },
+  {
+    "uri": "en/5/92928",
+    "id": "92928",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements for medical purposes",
+    "harm": {
+      "id": "0041433",
+      "title": "92928 - Food supplements for medical purposes",
+      "conceptLink": "/ec2/concept/5989337"
+    }
+  },
+  {
+    "uri": "en/5/6755898",
+    "id": "6755898",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements for non-medical purposes",
+    "harm": {
+      "id": "0072621",
+      "title": "6755898 - Food supplements for non-medical purposes",
+      "conceptLink": "/ec2/concept/6008798"
+    }
+  },
+  {
+    "uri": "en/5/113436497",
+    "id": "113436497",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Food supplements for veterinary use",
+    "harm": {
+      "id": "0065272",
+      "title": "113436497 - Food supplements for veterinary use",
+      "conceptLink": "/ec2/concept/6001475"
+    }
+  },
+  {
+    "uri": "en/5/383454",
+    "id": "383454",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foodstuffs for diabetics [specially made for]",
+    "harm": {
+      "id": "0035042",
+      "title": "383454 - Foodstuffs for diabetics [specially made for]",
+      "conceptLink": "/ec2/concept/5983513"
+    }
+  },
+  {
+    "uri": "en/5/124895211",
+    "id": "124895211",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foot balms (Medicated -)",
+    "harm": {
+      "id": "0029262",
+      "title": "124895211 - Foot balms (Medicated -)",
+      "conceptLink": "/ec2/concept/5978248"
+    }
+  },
+  {
+    "uri": "en/5/120868995",
+    "id": "120868995",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foot care preparations for medical use",
+    "harm": {
+      "id": "0065285",
+      "title": "120868995 - Foot care preparations for medical use",
+      "conceptLink": "/ec2/concept/6001488"
+    }
+  },
+  {
+    "uri": "en/5/124893982",
+    "id": "124893982",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foot creams (Medicated -)",
+    "harm": {
+      "id": "0025117",
+      "title": "124893982 - Foot creams (Medicated -)",
+      "conceptLink": "/ec2/concept/5974456"
+    }
+  },
+  {
+    "uri": "en/5/89657",
+    "id": "89657",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foot perspiration (Remedies for -)",
+    "harm": {
+      "id": "0025434",
+      "title": "89657 - Foot perspiration (Remedies for -)",
+      "conceptLink": "/ec2/concept/5974746"
+    }
+  },
+  {
+    "uri": "en/5/666533",
+    "id": "666533",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Foot rot vaccines",
+    "harm": {
+      "id": "0014852",
+      "title": "666533 - Foot rot vaccines",
+      "conceptLink": "/ec2/concept/5965055"
+    }
+  },
+  {
+    "uri": "en/5/124895241",
+    "id": "124895241",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Forestry (chemicals for -), [fungicides]",
+    "harm": {
+      "id": "0003249",
+      "title": "124895241 - Forestry (chemicals for -), [fungicides]",
+      "conceptLink": "/ec2/concept/5954422"
+    }
+  },
+  {
+    "uri": "en/5/124895255",
+    "id": "124895255",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Forestry (chemicals for -), [herbicides]",
+    "harm": {
+      "id": "0037929",
+      "title": "124895255 - Forestry (chemicals for -), [herbicides]",
+      "conceptLink": "/ec2/concept/5986131"
+    }
+  },
+  {
+    "uri": "en/5/124895271",
+    "id": "124895271",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Forestry (chemicals for -), [insecticides]",
+    "harm": {
+      "id": "0037930",
+      "title": "124895271 - Forestry (chemicals for -), [insecticides]",
+      "conceptLink": "/ec2/concept/5986132"
+    }
+  },
+  {
+    "uri": "en/5/124895287",
+    "id": "124895287",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Forestry (chemicals for -), [parasiticide]",
+    "harm": {
+      "id": "0037931",
+      "title": "124895287 - Forestry (chemicals for -), [parasiticide]",
+      "conceptLink": "/ec2/concept/5986133"
+    }
+  },
+  {
+    "uri": "en/5/91827",
+    "id": "91827",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Formic aldehyde for pharmaceutical purposes",
+    "harm": {
+      "id": "0020067",
+      "title": "91827 - Formic aldehyde for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5969821"
+    }
+  },
+  {
+    "uri": "en/5/233487913",
+    "id": "233487913",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Freeze-dried food adapted for medical purposes",
+    "harm": {
+      "id": "0052017",
+      "title": "233487913 - Freeze-dried food adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010917"
+    }
+  },
+  {
+    "uri": "en/5/233488002",
+    "id": "233488002",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Freeze-dried meat adapted for medical purposes",
+    "harm": {
+      "id": "0052020",
+      "title": "233488002 - Freeze-dried meat adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010920"
+    }
+  },
+  {
+    "uri": "en/5/82917",
+    "id": "82917",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Frostbite salve for pharmaceutical purposes",
+    "harm": {
+      "id": "0037282",
+      "title": "82917 - Frostbite salve for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5985546"
+    }
+  },
+  {
+    "uri": "en/5/318250",
+    "id": "318250",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fumigants",
+    "harm": {
+      "id": "0014703",
+      "title": "318250 - Fumigants",
+      "conceptLink": "/ec2/concept/5964921"
+    }
+  },
+  {
+    "uri": "en/5/84788",
+    "id": "84788",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fumigating pastilles",
+    "harm": {
+      "id": "0011703",
+      "title": "84788 - Fumigating pastilles",
+      "conceptLink": "/ec2/concept/5962167"
+    }
+  },
+  {
+    "uri": "en/5/84786",
+    "id": "84786",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fumigating sticks",
+    "harm": {
+      "id": "0011703",
+      "title": "84786 - Fumigating sticks",
+      "conceptLink": "/ec2/concept/5962167"
+    }
+  },
+  {
+    "uri": "en/5/119623423",
+    "id": "119623423",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fumigating sticks as disinfectants",
+    "harm": {
+      "id": "0055490",
+      "title": "119623423 - Fumigating sticks as disinfectants",
+      "conceptLink": "/ec2/concept/5996889"
+    }
+  },
+  {
+    "uri": "en/5/91883",
+    "id": "91883",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fumigation preparations for medical purposes",
+    "harm": {
+      "id": "0020068",
+      "title": "91883 - Fumigation preparations for medical purposes",
+      "conceptLink": "/ec2/concept/5969822"
+    }
+  },
+  {
+    "uri": "en/5/666608",
+    "id": "666608",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicidal fungal agents",
+    "harm": {
+      "id": "0032125",
+      "title": "666608 - Fungicidal fungal agents",
+      "conceptLink": "/ec2/concept/5980856"
+    }
+  },
+  {
+    "uri": "en/5/86858",
+    "id": "86858",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicidal preparations",
+    "harm": {
+      "id": "0059451",
+      "title": "86858 - Fungicidal preparations",
+      "conceptLink": "/ec2/concept/6000927"
+    }
+  },
+  {
+    "uri": "en/5/86857",
+    "id": "86857",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides",
+    "harm": {
+      "id": "0059451",
+      "title": "86857 - Fungicides",
+      "conceptLink": "/ec2/concept/6000927"
+    }
+  },
+  {
+    "uri": "en/5/9641542",
+    "id": "9641542",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides for agricultural use",
+    "harm": {
+      "id": "0055491",
+      "title": "9641542 - Fungicides for agricultural use",
+      "conceptLink": "/ec2/concept/5996890"
+    }
+  },
+  {
+    "uri": "en/5/9641562",
+    "id": "9641562",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides for domestic use",
+    "harm": {
+      "id": "0055492",
+      "title": "9641562 - Fungicides for domestic use",
+      "conceptLink": "/ec2/concept/5996891"
+    }
+  },
+  {
+    "uri": "en/5/666620",
+    "id": "666620",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides for horticultural use",
+    "harm": {
+      "id": "0026346",
+      "title": "666620 - Fungicides for horticultural use",
+      "conceptLink": "/ec2/concept/5975580"
+    }
+  },
+  {
+    "uri": "en/5/666633",
+    "id": "666633",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides for killing vermin",
+    "harm": {
+      "id": "0020694",
+      "title": "666633 - Fungicides for killing vermin",
+      "conceptLink": "/ec2/concept/5970394"
+    }
+  },
+  {
+    "uri": "en/5/9641582",
+    "id": "9641582",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Fungicides for medical use",
+    "harm": {
+      "id": "0055493",
+      "title": "9641582 - Fungicides for medical use",
+      "conceptLink": "/ec2/concept/5996892"
+    }
+  },
+  {
+    "uri": "en/5/120868863",
+    "id": "120868863",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Galactagogues",
+    "harm": {
+      "id": "0055508",
+      "title": "120868863 - Galactagogues",
+      "conceptLink": "/ec2/concept/5996907"
+    }
+  },
+  {
+    "uri": "en/5/91904",
+    "id": "91904",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gallic acid for pharmaceutical purposes",
+    "harm": {
+      "id": "0002672",
+      "title": "91904 - Gallic acid for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5953892"
+    }
+  },
+  {
+    "uri": "en/5/91976",
+    "id": "91976",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gamboge for medical purposes",
+    "harm": {
+      "id": "0041015",
+      "title": "91976 - Gamboge for medical purposes",
+      "conceptLink": "/ec2/concept/5988956"
+    }
+  },
+  {
+    "uri": "en/5/666645",
+    "id": "666645",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gas mixtures for medical use",
+    "harm": {
+      "id": "0037932",
+      "title": "666645 - Gas mixtures for medical use",
+      "conceptLink": "/ec2/concept/5986134"
+    }
+  },
+  {
+    "uri": "en/5/119523835",
+    "id": "119523835",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gases and gas mixtures for medical imaging use",
+    "harm": {
+      "id": "0055494",
+      "title": "119523835 - Gases and gas mixtures for medical imaging use",
+      "conceptLink": "/ec2/concept/5996893"
+    }
+  },
+  {
+    "uri": "en/5/666658",
+    "id": "666658",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gases for dental use",
+    "harm": {
+      "id": "0032126",
+      "title": "666658 - Gases for dental use",
+      "conceptLink": "/ec2/concept/5980857"
+    }
+  },
+  {
+    "uri": "en/5/91339",
+    "id": "91339",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gases for medical purposes",
+    "harm": {
+      "id": "0041873",
+      "title": "91339 - Gases for medical purposes",
+      "conceptLink": "/ec2/concept/5989738"
+    }
+  },
+  {
+    "uri": "en/5/666673",
+    "id": "666673",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gastroenteric preparations",
+    "harm": {
+      "id": "0020695",
+      "title": "666673 - Gastroenteric preparations",
+      "conceptLink": "/ec2/concept/5970395"
+    }
+  },
+  {
+    "uri": "en/5/119523837",
+    "id": "119523837",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gastrointestinal cleaning agents",
+    "harm": {
+      "id": "0055495",
+      "title": "119523837 - Gastrointestinal cleaning agents",
+      "conceptLink": "/ec2/concept/5996894"
+    }
+  },
+  {
+    "uri": "en/5/666674",
+    "id": "666674",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gastrointestinal preparations",
+    "harm": {
+      "id": "0020695",
+      "title": "666674 - Gastrointestinal preparations",
+      "conceptLink": "/ec2/concept/5970395"
+    }
+  },
+  {
+    "uri": "en/5/3371264",
+    "id": "3371264",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gauze",
+    "harm": {
+      "id": "0070848",
+      "title": "3371264 - Gauze",
+      "conceptLink": "/ec2/concept/6007040"
+    }
+  },
+  {
+    "uri": "en/5/666697",
+    "id": "666697",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gauze compresses",
+    "harm": {
+      "id": "0015830",
+      "title": "666697 - Gauze compresses",
+      "conceptLink": "/ec2/concept/5965958"
+    }
+  },
+  {
+    "uri": "en/5/87000",
+    "id": "87000",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gauze for dressings",
+    "harm": {
+      "id": "0006727",
+      "title": "87000 - Gauze for dressings",
+      "conceptLink": "/ec2/concept/5957615"
+    }
+  },
+  {
+    "uri": "en/5/87001",
+    "id": "87001",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gauzes for use as dressings",
+    "harm": {
+      "id": "0006727",
+      "title": "87001 - Gauzes for use as dressings",
+      "conceptLink": "/ec2/concept/5957615"
+    }
+  },
+  {
+    "uri": "en/5/120912265",
+    "id": "120912265",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gelatin capsules for pharmaceuticals",
+    "harm": {
+      "id": "0065439",
+      "title": "120912265 - Gelatin capsules for pharmaceuticals",
+      "conceptLink": "/ec2/concept/6001642"
+    }
+  },
+  {
+    "uri": "en/5/87064",
+    "id": "87064",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gelatine for medical purposes",
+    "harm": {
+      "id": "0032894",
+      "title": "87064 - Gelatine for medical purposes",
+      "conceptLink": "/ec2/concept/5981555"
+    }
+  },
+  {
+    "uri": "en/5/83226910",
+    "id": "83226910",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gels for dermatological use",
+    "harm": {
+      "id": "0060417",
+      "title": "83226910 - Gels for dermatological use",
+      "conceptLink": "/ec2/concept/5998390"
+    }
+  },
+  {
+    "uri": "en/5/120911777",
+    "id": "120911777",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "General anaesthetics",
+    "harm": {
+      "id": "0074039",
+      "title": "120911777 - General anaesthetics",
+      "conceptLink": "/ec2/concept/6011275"
+    }
+  },
+  {
+    "uri": "en/5/119523845",
+    "id": "119523845",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "General anesthetics",
+    "harm": {
+      "id": "0055496",
+      "title": "119523845 - General anesthetics",
+      "conceptLink": "/ec2/concept/5996895"
+    }
+  },
+  {
+    "uri": "en/5/138394414",
+    "id": "138394414",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Genetic identity tests comprised of reagents for medical purposes",
+    "harm": {
+      "id": "0070306",
+      "title": "138394414 - Genetic identity tests comprised of reagents for medical purposes",
+      "conceptLink": "/ec2/concept/6006499"
+    }
+  },
+  {
+    "uri": "en/5/87085",
+    "id": "87085",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gentian for pharmaceutical purposes",
+    "harm": {
+      "id": "0009785",
+      "title": "87085 - Gentian for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5960412"
+    }
+  },
+  {
+    "uri": "en/5/233658416",
+    "id": "233658416",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Germicidal detergents",
+    "harm": {
+      "id": "0052204",
+      "title": "233658416 - Germicidal detergents",
+      "conceptLink": "/ec2/concept/6011104"
+    }
+  },
+  {
+    "uri": "en/5/666709",
+    "id": "666709",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Germicidal preparations [other than soap]",
+    "harm": {
+      "id": "0021722",
+      "title": "666709 - Germicidal preparations [other than soap]",
+      "conceptLink": "/ec2/concept/5971332"
+    }
+  },
+  {
+    "uri": "en/5/87110",
+    "id": "87110",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Germicides",
+    "harm": {
+      "id": "0057852",
+      "title": "87110 - Germicides",
+      "conceptLink": "/ec2/concept/5999356"
+    }
+  },
+  {
+    "uri": "en/5/126268087",
+    "id": "126268087",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ginseng capsules for medical purposes",
+    "harm": {
+      "id": "0055497",
+      "title": "126268087 - Ginseng capsules for medical purposes",
+      "conceptLink": "/ec2/concept/5996896"
+    }
+  },
+  {
+    "uri": "en/5/383507",
+    "id": "383507",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ginseng for medicinal use",
+    "harm": {
+      "id": "0000951",
+      "title": "383507 - Ginseng for medicinal use",
+      "conceptLink": "/ec2/concept/5952343"
+    }
+  },
+  {
+    "uri": "en/5/909638",
+    "id": "909638",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glucose dietary supplements",
+    "harm": {
+      "id": "0001632",
+      "title": "909638 - Glucose dietary supplements",
+      "conceptLink": "/ec2/concept/5952957"
+    }
+  },
+  {
+    "uri": "en/5/91955",
+    "id": "91955",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glucose for medical purposes",
+    "harm": {
+      "id": "0023721",
+      "title": "91955 - Glucose for medical purposes",
+      "conceptLink": "/ec2/concept/5973164"
+    }
+  },
+  {
+    "uri": "en/5/119523853",
+    "id": "119523853",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glucose for use as an additive to foods for medical purposes",
+    "harm": {
+      "id": "0055498",
+      "title": "119523853 - Glucose for use as an additive to foods for medical purposes",
+      "conceptLink": "/ec2/concept/5996897"
+    }
+  },
+  {
+    "uri": "en/5/893157",
+    "id": "893157",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glucose preparations for medical purposes",
+    "harm": {
+      "id": "0014195",
+      "title": "893157 - Glucose preparations for medical purposes",
+      "conceptLink": "/ec2/concept/5964453"
+    }
+  },
+  {
+    "uri": "en/5/666738",
+    "id": "666738",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glue coated strips for use against vermin",
+    "harm": {
+      "id": "0038913",
+      "title": "666738 - Glue coated strips for use against vermin",
+      "conceptLink": "/ec2/concept/5987033"
+    }
+  },
+  {
+    "uri": "en/5/88780",
+    "id": "88780",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glue (Fly -)",
+    "harm": {
+      "id": "0008229",
+      "title": "88780 - Glue (Fly -)",
+      "conceptLink": "/ec2/concept/5958984"
+    }
+  },
+  {
+    "uri": "en/5/91719",
+    "id": "91719",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glycerine for medical purposes",
+    "harm": {
+      "id": "0020066",
+      "title": "91719 - Glycerine for medical purposes",
+      "conceptLink": "/ec2/concept/5969820"
+    }
+  },
+  {
+    "uri": "en/5/87145",
+    "id": "87145",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Glycerophosphates",
+    "harm": {
+      "id": "0027131",
+      "title": "87145 - Glycerophosphates",
+      "conceptLink": "/ec2/concept/5976275"
+    }
+  },
+  {
+    "uri": "en/5/119523855",
+    "id": "119523855",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gold amalgam for dental purposes",
+    "harm": {
+      "id": "0017270",
+      "title": "119523855 - Gold amalgam for dental purposes",
+      "conceptLink": "/ec2/concept/5967269"
+    }
+  },
+  {
+    "uri": "en/5/89105",
+    "id": "89105",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gold (Dental amalgams of -)",
+    "harm": {
+      "id": "0017270",
+      "title": "89105 - Gold (Dental amalgams of -)",
+      "conceptLink": "/ec2/concept/5967269"
+    }
+  },
+  {
+    "uri": "en/5/83818",
+    "id": "83818",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Goulard water",
+    "harm": {
+      "id": "0001406",
+      "title": "83818 - Goulard water",
+      "conceptLink": "/ec2/concept/5952753"
+    }
+  },
+  {
+    "uri": "en/5/120825034",
+    "id": "120825034",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gravel as a digestive aid for birds",
+    "harm": {
+      "id": "0065363",
+      "title": "120825034 - Gravel as a digestive aid for birds",
+      "conceptLink": "/ec2/concept/6001566"
+    }
+  },
+  {
+    "uri": "en/5/136914108",
+    "id": "136914108",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Greases for medical or veterinary purposes",
+    "harm": {
+      "id": "0060428",
+      "title": "136914108 - Greases for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5998401"
+    }
+  },
+  {
+    "uri": "en/5/87220",
+    "id": "87220",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Greases for medical purposes",
+    "harm": {
+      "id": "0019429",
+      "title": "87220 - Greases for medical purposes",
+      "conceptLink": "/ec2/concept/5969243"
+    }
+  },
+  {
+    "uri": "en/5/87241",
+    "id": "87241",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Greases for veterinary purposes",
+    "harm": {
+      "id": "0013584",
+      "title": "87241 - Greases for veterinary purposes",
+      "conceptLink": "/ec2/concept/5963883"
+    }
+  },
+  {
+    "uri": "en/5/119523858",
+    "id": "119523858",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ground flaxseed fiber for use as a dietary supplement",
+    "harm": {
+      "id": "0065211",
+      "title": "119523858 - Ground flaxseed fiber for use as a dietary supplement",
+      "conceptLink": "/ec2/concept/6001414"
+    }
+  },
+  {
+    "uri": "en/5/86931",
+    "id": "86931",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Guaiacol for pharmaceutical purposes",
+    "harm": {
+      "id": "0009784",
+      "title": "86931 - Guaiacol for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5960411"
+    }
+  },
+  {
+    "uri": "en/5/87166",
+    "id": "87166",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gum for medical purposes",
+    "harm": {
+      "id": "0044457",
+      "title": "87166 - Gum for medical purposes",
+      "conceptLink": "/ec2/concept/5992101"
+    }
+  },
+  {
+    "uri": "en/5/9325273",
+    "id": "9325273",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gummed taffeta plasters",
+    "harm": {
+      "id": "0058114",
+      "title": "9325273 - Gummed taffeta plasters",
+      "conceptLink": "/ec2/concept/5999615"
+    }
+  },
+  {
+    "uri": "en/5/119523860",
+    "id": "119523860",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gummy vitamins",
+    "harm": {
+      "id": "0055499",
+      "title": "119523860 - Gummy vitamins",
+      "conceptLink": "/ec2/concept/5996898"
+    }
+  },
+  {
+    "uri": "en/5/37904924",
+    "id": "37904924",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gurjun balsam for medical purposes",
+    "harm": {
+      "id": "0012119",
+      "title": "37904924 - Gurjun balsam for medical purposes",
+      "conceptLink": "/ec2/concept/5962556"
+    }
+  },
+  {
+    "uri": "en/5/92000",
+    "id": "92000",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gurjun [gurjon, gurjan] balsam for medical purposes",
+    "harm": {
+      "id": "0012119",
+      "title": "92000 - Gurjun [gurjon, gurjan] balsam for medical purposes",
+      "conceptLink": "/ec2/concept/5962556"
+    }
+  },
+  {
+    "uri": "en/5/666750",
+    "id": "666750",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Gypsum for dental purposes",
+    "harm": {
+      "id": "0038914",
+      "title": "666750 - Gypsum for dental purposes",
+      "conceptLink": "/ec2/concept/5987034"
+    }
+  },
+  {
+    "uri": "en/5/87366",
+    "id": "87366",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Haematogen",
+    "harm": {
+      "id": "0031427",
+      "title": "87366 - Haematogen",
+      "conceptLink": "/ec2/concept/5980236"
+    }
+  },
+  {
+    "uri": "en/5/87388",
+    "id": "87388",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Haemoglobin",
+    "harm": {
+      "id": "0014162",
+      "title": "87388 - Haemoglobin",
+      "conceptLink": "/ec2/concept/5964420"
+    }
+  },
+  {
+    "uri": "en/5/82939",
+    "id": "82939",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Haemorrhoid preparations",
+    "harm": {
+      "id": "0014171",
+      "title": "82939 - Haemorrhoid preparations",
+      "conceptLink": "/ec2/concept/5964429"
+    }
+  },
+  {
+    "uri": "en/5/85505",
+    "id": "85505",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Haemostatic pencils",
+    "harm": {
+      "id": "0007174",
+      "title": "85505 - Haemostatic pencils",
+      "conceptLink": "/ec2/concept/5958018"
+    }
+  },
+  {
+    "uri": "en/5/666761",
+    "id": "666761",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Haemostatic preparations",
+    "harm": {
+      "id": "0027367",
+      "title": "666761 - Haemostatic preparations",
+      "conceptLink": "/ec2/concept/5976496"
+    }
+  },
+  {
+    "uri": "en/5/93202",
+    "id": "93202",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Hair growth preparations (Medicinal -)",
+    "harm": {
+      "id": "0025479",
+      "title": "93202 - Hair growth preparations (Medicinal -)",
+      "conceptLink": "/ec2/concept/5974790"
+    }
+  },
+  {
+    "uri": "en/5/383519",
+    "id": "383519",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Hair growth stimulants",
+    "harm": {
+      "id": "0018341",
+      "title": "383519 - Hair growth stimulants",
+      "conceptLink": "/ec2/concept/5968247"
+    }
+  },
+  {
+    "uri": "en/5/666774",
+    "id": "666774",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Hand creams for medical use",
+    "harm": {
+      "id": "0015831",
+      "title": "666774 - Hand creams for medical use",
+      "conceptLink": "/ec2/concept/5965959"
+    }
+  },
+  {
+    "uri": "en/5/124895468",
+    "id": "124895468",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Hand lotion (Medicated -)",
+    "harm": {
+      "id": "0007228",
+      "title": "124895468 - Hand lotion (Medicated -)",
+      "conceptLink": "/ec2/concept/5958071"
+    }
+  },
+  {
+    "uri": "en/5/119523863",
+    "id": "119523863",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Hand-sanitizing preparations",
+    "harm": {
+      "id": "0065334",
+      "title": "119523863 - Hand-sanitizing preparations",
+      "conceptLink": "/ec2/concept/6001537"
+    }
+  },
+  {
+    "uri": "en/5/85437",
+    "id": "85437",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Headache pencils",
+    "harm": {
+      "id": "0008286",
+      "title": "85437 - Headache pencils",
+      "conceptLink": "/ec2/concept/5959036"
+    }
+  },
+  {
+    "uri": "en/5/666815",
+    "id": "666815",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Health food supplements for persons with special dietary requirements",
+    "harm": {
+      "id": "0015832",
+      "title": "666815 - Health food supplements for persons with special dietary requirements",
+      "conceptLink": "/ec2/concept/5965960"
+    }
+  },
+  {
+    "uri": "en/5/666842",
+    "id": "666842",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Health food supplements made principally of vitamins",
+    "harm": {
+      "id": "0021724",
+      "title": "666842 - Health food supplements made principally of vitamins",
+      "conceptLink": "/ec2/concept/5971334"
+    }
+  }
+]

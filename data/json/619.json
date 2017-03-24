@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/125024210",
+    "id": "125024210",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Accommodation (rental of -) [apartments]",
+    "harm": {
+      "id": "0030712",
+      "title": "125024210 - Accommodation (rental of -) [apartments]",
+      "conceptLink": "/ec2/concept/5979585"
+    }
+  },
+  {
+    "uri": "en/36/446505",
+    "id": "446505",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Account debiting services",
+    "harm": {
+      "id": "0047019",
+      "title": "446505 - Account debiting services",
+      "conceptLink": "/ec2/concept/5994398"
+    }
+  },
+  {
+    "uri": "en/36/446529",
+    "id": "446529",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Accounts payable debiting services",
+    "harm": {
+      "id": "0033629",
+      "title": "446529 - Accounts payable debiting services",
+      "conceptLink": "/ec2/concept/5982230"
+    }
+  },
+  {
+    "uri": "en/36/446542",
+    "id": "446542",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Accounts receivables financing",
+    "harm": {
+      "id": "0016332",
+      "title": "446542 - Accounts receivables financing",
+      "conceptLink": "/ec2/concept/5966423"
+    }
+  },
+  {
+    "uri": "en/36/366307",
+    "id": "366307",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Acquisition and transfer of monetary claims",
+    "harm": {
+      "id": "0020305",
+      "title": "366307 - Acquisition and transfer of monetary claims",
+      "conceptLink": "/ec2/concept/5970037"
+    }
+  },
+  {
+    "uri": "en/36/799356",
+    "id": "799356",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Acquisition for financial investment",
+    "harm": {
+      "id": "0007560",
+      "title": "799356 - Acquisition for financial investment",
+      "conceptLink": "/ec2/concept/5958377"
+    }
+  },
+  {
+    "uri": "en/36/799371",
+    "id": "799371",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Acquisition of land to be let",
+    "harm": {
+      "id": "0042274",
+      "title": "799371 - Acquisition of land to be let",
+      "conceptLink": "/ec2/concept/5990108"
+    }
+  },
+  {
+    "uri": "en/36/18016317",
+    "id": "18016317",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Actuarial consulting and advisory services",
+    "harm": {
+      "id": "0067927",
+      "title": "18016317 - Actuarial consulting and advisory services",
+      "conceptLink": "/ec2/concept/6004130"
+    }
+  },
+  {
+    "uri": "en/36/30631",
+    "id": "30631",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Actuarial services",
+    "harm": {
+      "id": "0037546",
+      "title": "30631 - Actuarial services",
+      "conceptLink": "/ec2/concept/5985786"
+    }
+  },
+  {
+    "uri": "en/36/799386",
+    "id": "799386",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Actuarial services relating to financial transactions",
+    "harm": {
+      "id": "0013396",
+      "title": "799386 - Actuarial services relating to financial transactions",
+      "conceptLink": "/ec2/concept/5963716"
+    }
+  },
+  {
+    "uri": "en/36/799401",
+    "id": "799401",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of capital investment services",
+    "harm": {
+      "id": "0001816",
+      "title": "799401 - Administration of capital investment services",
+      "conceptLink": "/ec2/concept/5953119"
+    }
+  },
+  {
+    "uri": "en/36/799416",
+    "id": "799416",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of deposit taking",
+    "harm": {
+      "id": "0022552",
+      "title": "799416 - Administration of deposit taking",
+      "conceptLink": "/ec2/concept/5972096"
+    }
+  },
+  {
+    "uri": "en/36/446571",
+    "id": "446571",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of employee welfare benefit plans",
+    "harm": {
+      "id": "0039433",
+      "title": "446571 - Administration of employee welfare benefit plans",
+      "conceptLink": "/ec2/concept/5987508"
+    }
+  },
+  {
+    "uri": "en/36/446556",
+    "id": "446556",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of employee benefit plans",
+    "harm": {
+      "id": "0045160",
+      "title": "446556 - Administration of employee benefit plans",
+      "conceptLink": "/ec2/concept/5992745"
+    }
+  },
+  {
+    "uri": "en/36/446598",
+    "id": "446598",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of financial affairs",
+    "harm": {
+      "id": "0013319",
+      "title": "446598 - Administration of financial affairs",
+      "conceptLink": "/ec2/concept/5963645"
+    }
+  },
+  {
+    "uri": "en/36/799428",
+    "id": "799428",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of financial affairs relating to real estate",
+    "harm": {
+      "id": "0033971",
+      "title": "799428 - Administration of financial affairs relating to real estate",
+      "conceptLink": "/ec2/concept/5982546"
+    }
+  },
+  {
+    "uri": "en/36/799444",
+    "id": "799444",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of financial covenants",
+    "harm": {
+      "id": "0039737",
+      "title": "799444 - Administration of financial covenants",
+      "conceptLink": "/ec2/concept/5987788"
+    }
+  },
+  {
+    "uri": "en/36/478800",
+    "id": "478800",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of fund investment",
+    "harm": {
+      "id": "0046973",
+      "title": "478800 - Administration of fund investment",
+      "conceptLink": "/ec2/concept/5994359"
+    }
+  },
+  {
+    "uri": "en/36/478802",
+    "id": "478802",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of funds and investments",
+    "harm": {
+      "id": "0047021",
+      "title": "478802 - Administration of funds and investments",
+      "conceptLink": "/ec2/concept/5994400"
+    }
+  },
+  {
+    "uri": "en/36/799457",
+    "id": "799457",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of group insurance",
+    "harm": {
+      "id": "0028215",
+      "title": "799457 - Administration of group insurance",
+      "conceptLink": "/ec2/concept/5977281"
+    }
+  },
+  {
+    "uri": "en/36/799470",
+    "id": "799470",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of group insurance plans",
+    "harm": {
+      "id": "0016697",
+      "title": "799470 - Administration of group insurance plans",
+      "conceptLink": "/ec2/concept/5966758"
+    }
+  },
+  {
+    "uri": "en/36/799481",
+    "id": "799481",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of insurance business",
+    "harm": {
+      "id": "0005128",
+      "title": "799481 - Administration of insurance business",
+      "conceptLink": "/ec2/concept/5956153"
+    }
+  },
+  {
+    "uri": "en/36/449614",
+    "id": "449614",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of insurance claims",
+    "harm": {
+      "id": "0028216",
+      "title": "449614 - Administration of insurance claims",
+      "conceptLink": "/ec2/concept/5977282"
+    }
+  },
+  {
+    "uri": "en/36/799495",
+    "id": "799495",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of insurance claims adjustment",
+    "harm": {
+      "id": "0022553",
+      "title": "799495 - Administration of insurance claims adjustment",
+      "conceptLink": "/ec2/concept/5972097"
+    }
+  },
+  {
+    "uri": "en/36/799510",
+    "id": "799510",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of insurance portfolios",
+    "harm": {
+      "id": "0033972",
+      "title": "799510 - Administration of insurance portfolios",
+      "conceptLink": "/ec2/concept/5982547"
+    }
+  },
+  {
+    "uri": "en/36/449547",
+    "id": "449547",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of insurance plans",
+    "harm": {
+      "id": "0024071",
+      "title": "449547 - Administration of insurance plans",
+      "conceptLink": "/ec2/concept/5973492"
+    }
+  },
+  {
+    "uri": "en/36/478801",
+    "id": "478801",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of investment funds",
+    "harm": {
+      "id": "0046965",
+      "title": "478801 - Administration of investment funds",
+      "conceptLink": "/ec2/concept/5994352"
+    }
+  },
+  {
+    "uri": "en/36/799537",
+    "id": "799537",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of mortgage business",
+    "harm": {
+      "id": "0015464",
+      "title": "799537 - Administration of mortgage business",
+      "conceptLink": "/ec2/concept/5965616"
+    }
+  },
+  {
+    "uri": "en/36/478807",
+    "id": "478807",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of mutual funds",
+    "harm": {
+      "id": "0047016",
+      "title": "478807 - Administration of mutual funds",
+      "conceptLink": "/ec2/concept/5994396"
+    }
+  },
+  {
+    "uri": "en/36/446649",
+    "id": "446649",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of patient reimbursement programs",
+    "harm": {
+      "id": "0001750",
+      "title": "446649 - Administration of patient reimbursement programs",
+      "conceptLink": "/ec2/concept/5953058"
+    }
+  },
+  {
+    "uri": "en/36/799555",
+    "id": "799555",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of pension schemes",
+    "harm": {
+      "id": "0043741",
+      "title": "799555 - Administration of pension schemes",
+      "conceptLink": "/ec2/concept/5991440"
+    }
+  },
+  {
+    "uri": "en/36/450840",
+    "id": "450840",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of pension funds",
+    "harm": {
+      "id": "0046818",
+      "title": "450840 - Administration of pension funds",
+      "conceptLink": "/ec2/concept/5994217"
+    }
+  },
+  {
+    "uri": "en/36/446664",
+    "id": "446664",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of pre-paid health care plans",
+    "harm": {
+      "id": "0013320",
+      "title": "446664 - Administration of pre-paid health care plans",
+      "conceptLink": "/ec2/concept/5963646"
+    }
+  },
+  {
+    "uri": "en/36/915380",
+    "id": "915380",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of property portfolios",
+    "harm": {
+      "id": "0014405",
+      "title": "915380 - Administration of property portfolios",
+      "conceptLink": "/ec2/concept/5964649"
+    }
+  },
+  {
+    "uri": "en/36/446680",
+    "id": "446680",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of savings accounts",
+    "harm": {
+      "id": "0030641",
+      "title": "446680 - Administration of savings accounts",
+      "conceptLink": "/ec2/concept/5979518"
+    }
+  },
+  {
+    "uri": "en/36/799581",
+    "id": "799581",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of shares",
+    "harm": {
+      "id": "0047253",
+      "title": "799581 - Administration of shares",
+      "conceptLink": "/ec2/concept/5994613"
+    }
+  },
+  {
+    "uri": "en/36/482629",
+    "id": "482629",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administration of trusts",
+    "harm": {
+      "id": "0046930",
+      "title": "482629 - Administration of trusts",
+      "conceptLink": "/ec2/concept/5994319"
+    }
+  },
+  {
+    "uri": "en/36/799610",
+    "id": "799610",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Administrative services relating to investments",
+    "harm": {
+      "id": "0032739",
+      "title": "799610 - Administrative services relating to investments",
+      "conceptLink": "/ec2/concept/5981415"
+    }
+  },
+  {
+    "uri": "en/36/799625",
+    "id": "799625",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advancement of funds",
+    "harm": {
+      "id": "0009637",
+      "title": "799625 - Advancement of funds",
+      "conceptLink": "/ec2/concept/5960280"
+    }
+  },
+  {
+    "uri": "en/36/799643",
+    "id": "799643",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice on finance during retirement",
+    "harm": {
+      "id": "0035809",
+      "title": "799643 - Advice on finance during retirement",
+      "conceptLink": "/ec2/concept/5984213"
+    }
+  },
+  {
+    "uri": "en/36/799642",
+    "id": "799642",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice on finance for retirement",
+    "harm": {
+      "id": "0035809",
+      "title": "799642 - Advice on finance for retirement",
+      "conceptLink": "/ec2/concept/5984213"
+    }
+  },
+  {
+    "uri": "en/36/120874127",
+    "id": "120874127",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice on fiscal assessments",
+    "harm": {
+      "id": "0068030",
+      "title": "120874127 - Advice on fiscal assessments",
+      "conceptLink": "/ec2/concept/6004233"
+    }
+  },
+  {
+    "uri": "en/36/120874124",
+    "id": "120874124",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice on fiscal valuations",
+    "harm": {
+      "id": "0068029",
+      "title": "120874124 - Advice on fiscal valuations",
+      "conceptLink": "/ec2/concept/6004232"
+    }
+  },
+  {
+    "uri": "en/36/447879",
+    "id": "447879",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice regarding credit",
+    "harm": {
+      "id": "0029533",
+      "title": "447879 - Advice regarding credit",
+      "conceptLink": "/ec2/concept/5978495"
+    }
+  },
+  {
+    "uri": "en/36/799678",
+    "id": "799678",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice regarding lending services",
+    "harm": {
+      "id": "0036503",
+      "title": "799678 - Advice regarding lending services",
+      "conceptLink": "/ec2/concept/5984839"
+    }
+  },
+  {
+    "uri": "en/36/35008",
+    "id": "35008",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to insurance",
+    "harm": {
+      "id": "0058671",
+      "title": "35008 - Advice relating to insurance",
+      "conceptLink": "/ec2/concept/6000164"
+    }
+  },
+  {
+    "uri": "en/36/366335",
+    "id": "366335",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to investments",
+    "harm": {
+      "id": "0057360",
+      "title": "366335 - Advice relating to investments",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/799698",
+    "id": "799698",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to investment for retirement",
+    "harm": {
+      "id": "0003354",
+      "title": "799698 - Advice relating to investment for retirement",
+      "conceptLink": "/ec2/concept/5954518"
+    }
+  },
+  {
+    "uri": "en/36/799699",
+    "id": "799699",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to investment during retirement",
+    "harm": {
+      "id": "0003354",
+      "title": "799699 - Advice relating to investment during retirement",
+      "conceptLink": "/ec2/concept/5954518"
+    }
+  },
+  {
+    "uri": "en/36/799723",
+    "id": "799723",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to loan recovery services",
+    "harm": {
+      "id": "0003355",
+      "title": "799723 - Advice relating to loan recovery services",
+      "conceptLink": "/ec2/concept/5954519"
+    }
+  },
+  {
+    "uri": "en/36/799736",
+    "id": "799736",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to mortgages for residential properties",
+    "harm": {
+      "id": "0003356",
+      "title": "799736 - Advice relating to mortgages for residential properties",
+      "conceptLink": "/ec2/concept/5954520"
+    }
+  },
+  {
+    "uri": "en/36/499507",
+    "id": "499507",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice relating to pensions",
+    "harm": {
+      "id": "0046755",
+      "title": "499507 - Advice relating to pensions",
+      "conceptLink": "/ec2/concept/5994161"
+    }
+  },
+  {
+    "uri": "en/36/799749",
+    "id": "799749",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advice services relating to enhancement of mortgages",
+    "harm": {
+      "id": "0009112",
+      "title": "799749 - Advice services relating to enhancement of mortgages",
+      "conceptLink": "/ec2/concept/5959797"
+    }
+  },
+  {
+    "uri": "en/36/120880848",
+    "id": "120880848",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financial asset management",
+    "harm": {
+      "id": "0002750",
+      "title": "120880848 - Advisory services relating to financial asset management",
+      "conceptLink": "/ec2/concept/5953962"
+    }
+  },
+  {
+    "uri": "en/36/799888",
+    "id": "799888",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to futures",
+    "harm": {
+      "id": "0020807",
+      "title": "799888 - Advisory services relating to futures",
+      "conceptLink": "/ec2/concept/5970503"
+    }
+  },
+  {
+    "uri": "en/36/800064",
+    "id": "800064",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to unit trusts",
+    "harm": {
+      "id": "0024980",
+      "title": "800064 - Advisory services relating to unit trusts",
+      "conceptLink": "/ec2/concept/5974331"
+    }
+  },
+  {
+    "uri": "en/36/800049",
+    "id": "800049",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to real estate valuations",
+    "harm": {
+      "id": "0024979",
+      "title": "800049 - Advisory services relating to real estate valuations",
+      "conceptLink": "/ec2/concept/5974330"
+    }
+  },
+  {
+    "uri": "en/36/799979",
+    "id": "799979",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to life insurance",
+    "harm": {
+      "id": "0013402",
+      "title": "799979 - Advisory services relating to life insurance",
+      "conceptLink": "/ec2/concept/5963722"
+    }
+  },
+  {
+    "uri": "en/36/799933",
+    "id": "799933",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to insurance claims",
+    "harm": {
+      "id": "0013401",
+      "title": "799933 - Advisory services relating to insurance claims",
+      "conceptLink": "/ec2/concept/5963721"
+    }
+  },
+  {
+    "uri": "en/36/800006",
+    "id": "800006",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to mortgages",
+    "harm": {
+      "id": "0036504",
+      "title": "800006 - Advisory services relating to mortgages",
+      "conceptLink": "/ec2/concept/5984840"
+    }
+  },
+  {
+    "uri": "en/36/799789",
+    "id": "799789",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to banking",
+    "harm": {
+      "id": "0034488",
+      "title": "799789 - Advisory services relating to banking",
+      "conceptLink": "/ec2/concept/5983016"
+    }
+  },
+  {
+    "uri": "en/36/800035",
+    "id": "800035",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to real estate ownership",
+    "harm": {
+      "id": "0030715",
+      "title": "800035 - Advisory services relating to real estate ownership",
+      "conceptLink": "/ec2/concept/5979588"
+    }
+  },
+  {
+    "uri": "en/36/800020",
+    "id": "800020",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to mutual funds",
+    "harm": {
+      "id": "0030714",
+      "title": "800020 - Advisory services relating to mutual funds",
+      "conceptLink": "/ec2/concept/5979587"
+    }
+  },
+  {
+    "uri": "en/36/446696",
+    "id": "446696",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to corporate finance",
+    "harm": {
+      "id": "0000617",
+      "title": "446696 - Advisory services relating to corporate finance",
+      "conceptLink": "/ec2/concept/5952043"
+    }
+  },
+  {
+    "uri": "en/36/799948",
+    "id": "799948",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to insurance contracts",
+    "harm": {
+      "id": "0001820",
+      "title": "799948 - Advisory services relating to insurance contracts",
+      "conceptLink": "/ec2/concept/5953123"
+    }
+  },
+  {
+    "uri": "en/36/449774",
+    "id": "449774",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to investments",
+    "harm": {
+      "id": "0057360",
+      "title": "449774 - Advisory services relating to investments",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/34874",
+    "id": "34874",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financing",
+    "harm": {
+      "id": "0057316",
+      "title": "34874 - Advisory services relating to financing",
+      "conceptLink": "/ec2/concept/5998825"
+    }
+  },
+  {
+    "uri": "en/36/34873",
+    "id": "34873",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to finance",
+    "harm": {
+      "id": "0057316",
+      "title": "34873 - Advisory services relating to finance",
+      "conceptLink": "/ec2/concept/5998825"
+    }
+  },
+  {
+    "uri": "en/36/799844",
+    "id": "799844",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to investment finance",
+    "harm": {
+      "id": "0057360",
+      "title": "799844 - Advisory services relating to investment finance",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/799845",
+    "id": "799845",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financial investment",
+    "harm": {
+      "id": "0057360",
+      "title": "799845 - Advisory services relating to financial investment",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/799790",
+    "id": "799790",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financial matters",
+    "harm": {
+      "id": "0057316",
+      "title": "799790 - Advisory services relating to financial matters",
+      "conceptLink": "/ec2/concept/5998825"
+    }
+  },
+  {
+    "uri": "en/36/799766",
+    "id": "799766",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to [financial] risk management",
+    "harm": {
+      "id": "0038048",
+      "title": "799766 - Advisory services relating to [financial] risk management",
+      "conceptLink": "/ec2/concept/5986242"
+    }
+  },
+  {
+    "uri": "en/36/120883815",
+    "id": "120883815",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to investments and finance",
+    "harm": {
+      "id": "0068004",
+      "title": "120883815 - Advisory services relating to investments and finance",
+      "conceptLink": "/ec2/concept/6004207"
+    }
+  },
+  {
+    "uri": "en/36/799679",
+    "id": "799679",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to loan services",
+    "harm": {
+      "id": "0036503",
+      "title": "799679 - Advisory services relating to loan services",
+      "conceptLink": "/ec2/concept/5984839"
+    }
+  },
+  {
+    "uri": "en/36/447880",
+    "id": "447880",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to credit",
+    "harm": {
+      "id": "0029533",
+      "title": "447880 - Advisory services relating to credit",
+      "conceptLink": "/ec2/concept/5978495"
+    }
+  },
+  {
+    "uri": "en/36/799873",
+    "id": "799873",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financial planning",
+    "harm": {
+      "id": "0043787",
+      "title": "799873 - Advisory services relating to financial planning",
+      "conceptLink": "/ec2/concept/5991481"
+    }
+  },
+  {
+    "uri": "en/36/799991",
+    "id": "799991",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to money management",
+    "harm": {
+      "id": "0042278",
+      "title": "799991 - Advisory services relating to money management",
+      "conceptLink": "/ec2/concept/5990112"
+    }
+  },
+  {
+    "uri": "en/36/799963",
+    "id": "799963",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to international securities",
+    "harm": {
+      "id": "0042277",
+      "title": "799963 - Advisory services relating to international securities",
+      "conceptLink": "/ec2/concept/5990111"
+    }
+  },
+  {
+    "uri": "en/36/120883534",
+    "id": "120883534",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Advisory services relating to financial investments",
+    "harm": {
+      "id": "0057360",
+      "title": "120883534 - Advisory services relating to financial investments",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/136278516",
+    "id": "136278516",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies for collecting electric power utility payments",
+    "harm": {
+      "id": "0056835",
+      "title": "136278516 - Agencies for collecting electric power utility payments",
+      "conceptLink": "/ec2/concept/5998112"
+    }
+  },
+  {
+    "uri": "en/36/16052694",
+    "id": "16052694",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies for collecting gas or electric power utility payments",
+    "harm": {
+      "id": "0068008",
+      "title": "16052694 - Agencies for collecting gas or electric power utility payments",
+      "conceptLink": "/ec2/concept/6004211"
+    }
+  },
+  {
+    "uri": "en/36/136278517",
+    "id": "136278517",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies for collecting gas utility payments",
+    "harm": {
+      "id": "0056836",
+      "title": "136278517 - Agencies for collecting gas utility payments",
+      "conceptLink": "/ec2/concept/5998113"
+    }
+  },
+  {
+    "uri": "en/36/366406",
+    "id": "366406",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies for commodity futures trading",
+    "harm": {
+      "id": "0025975",
+      "title": "366406 - Agencies for commodity futures trading",
+      "conceptLink": "/ec2/concept/5975240"
+    }
+  },
+  {
+    "uri": "en/36/446736",
+    "id": "446736",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies in the field of bonds and other securities",
+    "harm": {
+      "id": "0001751",
+      "title": "446736 - Agencies in the field of bonds and other securities",
+      "conceptLink": "/ec2/concept/5953059"
+    }
+  },
+  {
+    "uri": "en/36/446751",
+    "id": "446751",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies in the field of credit for farming",
+    "harm": {
+      "id": "0007245",
+      "title": "446751 - Agencies in the field of credit for farming",
+      "conceptLink": "/ec2/concept/5958088"
+    }
+  },
+  {
+    "uri": "en/36/366452",
+    "id": "366452",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies or brokerage for renting of buildings",
+    "harm": {
+      "id": "0012382",
+      "title": "366452 - Agencies or brokerage for renting of buildings",
+      "conceptLink": "/ec2/concept/5962798"
+    }
+  },
+  {
+    "uri": "en/36/366423",
+    "id": "366423",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies or brokerage for leasing or renting of land",
+    "harm": {
+      "id": "0041302",
+      "title": "366423 - Agencies or brokerage for leasing or renting of land",
+      "conceptLink": "/ec2/concept/5989225"
+    }
+  },
+  {
+    "uri": "en/36/366438",
+    "id": "366438",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agencies or brokerage for renting land",
+    "harm": {
+      "id": "0041302",
+      "title": "366438 - Agencies or brokerage for renting land",
+      "conceptLink": "/ec2/concept/5989225"
+    }
+  },
+  {
+    "uri": "en/36/125146848",
+    "id": "125146848",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency (Estate -)",
+    "harm": {
+      "id": "0034744",
+      "title": "125146848 - Agency (Estate -)",
+      "conceptLink": "/ec2/concept/5983244"
+    }
+  },
+  {
+    "uri": "en/36/800078",
+    "id": "800078",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for arranging travel insurance",
+    "harm": {
+      "id": "0027981",
+      "title": "800078 - Agency services for arranging travel insurance",
+      "conceptLink": "/ec2/concept/5977066"
+    }
+  },
+  {
+    "uri": "en/36/800094",
+    "id": "800094",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for bonds",
+    "harm": {
+      "id": "0022316",
+      "title": "800094 - Agency services for bonds",
+      "conceptLink": "/ec2/concept/5971881"
+    }
+  },
+  {
+    "uri": "en/36/800107",
+    "id": "800107",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for lending on mortgage",
+    "harm": {
+      "id": "0033705",
+      "title": "800107 - Agency services for lending on mortgage",
+      "conceptLink": "/ec2/concept/5982302"
+    }
+  },
+  {
+    "uri": "en/36/800119",
+    "id": "800119",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for securities",
+    "harm": {
+      "id": "0039508",
+      "title": "800119 - Agency services for securities",
+      "conceptLink": "/ec2/concept/5987576"
+    }
+  },
+  {
+    "uri": "en/36/800134",
+    "id": "800134",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for the leasing of real estate property",
+    "harm": {
+      "id": "0004899",
+      "title": "800134 - Agency services for the leasing of real estate property",
+      "conceptLink": "/ec2/concept/5955944"
+    }
+  },
+  {
+    "uri": "en/36/800149",
+    "id": "800149",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Agency services for the selling on commission of real property",
+    "harm": {
+      "id": "0027982",
+      "title": "800149 - Agency services for the selling on commission of real property",
+      "conceptLink": "/ec2/concept/5977067"
+    }
+  },
+  {
+    "uri": "en/36/34542",
+    "id": "34542",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Analysis (Financial -)",
+    "harm": {
+      "id": "0012735",
+      "title": "34542 - Analysis (Financial -)",
+      "conceptLink": "/ec2/concept/5963115"
+    }
+  },
+  {
+    "uri": "en/36/479222",
+    "id": "479222",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Annuity services",
+    "harm": {
+      "id": "0047280",
+      "title": "479222 - Annuity services",
+      "conceptLink": "/ec2/concept/5994637"
+    }
+  },
+  {
+    "uri": "en/36/479223",
+    "id": "479223",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Annuity underwriting",
+    "harm": {
+      "id": "0047269",
+      "title": "479223 - Annuity underwriting",
+      "conceptLink": "/ec2/concept/5994629"
+    }
+  },
+  {
+    "uri": "en/36/34604",
+    "id": "34604",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Antique appraisal",
+    "harm": {
+      "id": "0006194",
+      "title": "34604 - Antique appraisal",
+      "conceptLink": "/ec2/concept/5957127"
+    }
+  },
+  {
+    "uri": "en/36/34605",
+    "id": "34605",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Antique appraisal services [valuation]",
+    "harm": {
+      "id": "0006194",
+      "title": "34605 - Antique appraisal services [valuation]",
+      "conceptLink": "/ec2/concept/5957127"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/703577",
+    "id": "703577",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of leg ulcers",
+    "harm": {
+      "id": "0012228",
+      "title": "703577 - Apparatus for the treatment of leg ulcers",
+      "conceptLink": "/ec2/concept/5962652"
+    }
+  },
+  {
+    "uri": "en/10/703520",
+    "id": "703520",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of breathing difficulties",
+    "harm": {
+      "id": "0037014",
+      "title": "703520 - Apparatus for the treatment of breathing difficulties",
+      "conceptLink": "/ec2/concept/5985309"
+    }
+  },
+  {
+    "uri": "en/10/703633",
+    "id": "703633",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of pressure sores",
+    "harm": {
+      "id": "0035340",
+      "title": "703633 - Apparatus for the treatment of pressure sores",
+      "conceptLink": "/ec2/concept/5983786"
+    }
+  },
+  {
+    "uri": "en/10/703590",
+    "id": "703590",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of lung ailments",
+    "harm": {
+      "id": "0029572",
+      "title": "703590 - Apparatus for the treatment of lung ailments",
+      "conceptLink": "/ec2/concept/5978532"
+    }
+  },
+  {
+    "uri": "en/10/703604",
+    "id": "703604",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of lung diseases",
+    "harm": {
+      "id": "0041137",
+      "title": "703604 - Apparatus for the treatment of lung diseases",
+      "conceptLink": "/ec2/concept/5989069"
+    }
+  },
+  {
+    "uri": "en/10/167668",
+    "id": "167668",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the treatment of deafness",
+    "harm": {
+      "id": "0029133",
+      "title": "167668 - Apparatus for the treatment of deafness",
+      "conceptLink": "/ec2/concept/5978139"
+    }
+  },
+  {
+    "uri": "en/10/703646",
+    "id": "703646",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for the turning of patients",
+    "harm": {
+      "id": "0035341",
+      "title": "703646 - Apparatus for the turning of patients",
+      "conceptLink": "/ec2/concept/5983787"
+    }
+  },
+  {
+    "uri": "en/10/703658",
+    "id": "703658",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for tumour diagnosis",
+    "harm": {
+      "id": "0041138",
+      "title": "703658 - Apparatus for tumour diagnosis",
+      "conceptLink": "/ec2/concept/5989070"
+    }
+  },
+  {
+    "uri": "en/10/703671",
+    "id": "703671",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use by colostomy patients",
+    "harm": {
+      "id": "0018030",
+      "title": "703671 - Apparatus for use by colostomy patients",
+      "conceptLink": "/ec2/concept/5967959"
+    }
+  },
+  {
+    "uri": "en/10/702923",
+    "id": "702923",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use by dentists",
+    "harm": {
+      "id": "0035342",
+      "title": "702923 - Apparatus for use by dentists",
+      "conceptLink": "/ec2/concept/5983788"
+    }
+  },
+  {
+    "uri": "en/10/703684",
+    "id": "703684",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use by dental hygienists",
+    "harm": {
+      "id": "0029573",
+      "title": "703684 - Apparatus for use by dental hygienists",
+      "conceptLink": "/ec2/concept/5978533"
+    }
+  },
+  {
+    "uri": "en/10/703697",
+    "id": "703697",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use by dental technicians",
+    "harm": {
+      "id": "0000636",
+      "title": "703697 - Apparatus for use by dental technicians",
+      "conceptLink": "/ec2/concept/5952060"
+    }
+  },
+  {
+    "uri": "en/10/703710",
+    "id": "703710",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use by ileostomy patients",
+    "harm": {
+      "id": "0035343",
+      "title": "703710 - Apparatus for use by ileostomy patients",
+      "conceptLink": "/ec2/concept/5983789"
+    }
+  },
+  {
+    "uri": "en/10/703722",
+    "id": "703722",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in alleviating hearing disorders",
+    "harm": {
+      "id": "0035344",
+      "title": "703722 - Apparatus for use in alleviating hearing disorders",
+      "conceptLink": "/ec2/concept/5983790"
+    }
+  },
+  {
+    "uri": "en/10/703738",
+    "id": "703738",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in angiography",
+    "harm": {
+      "id": "0041139",
+      "title": "703738 - Apparatus for use in angiography",
+      "conceptLink": "/ec2/concept/5989071"
+    }
+  },
+  {
+    "uri": "en/10/703754",
+    "id": "703754",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in assessing periodontal disease",
+    "harm": {
+      "id": "0041140",
+      "title": "703754 - Apparatus for use in assessing periodontal disease",
+      "conceptLink": "/ec2/concept/5989072"
+    }
+  },
+  {
+    "uri": "en/10/703780",
+    "id": "703780",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in exercising muscles for medical use",
+    "harm": {
+      "id": "0029574",
+      "title": "703780 - Apparatus for use in exercising muscles for medical use",
+      "conceptLink": "/ec2/concept/5978534"
+    }
+  },
+  {
+    "uri": "en/10/703793",
+    "id": "703793",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in identifying periodontal disease",
+    "harm": {
+      "id": "0035345",
+      "title": "703793 - Apparatus for use in identifying periodontal disease",
+      "conceptLink": "/ec2/concept/5983791"
+    }
+  },
+  {
+    "uri": "en/10/703819",
+    "id": "703819",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in medicine in the drainage of wounds",
+    "harm": {
+      "id": "0029575",
+      "title": "703819 - Apparatus for use in medicine in the drainage of wounds",
+      "conceptLink": "/ec2/concept/5978535"
+    }
+  },
+  {
+    "uri": "en/10/703806",
+    "id": "703806",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in medicine in the drainage of incisions",
+    "harm": {
+      "id": "0000637",
+      "title": "703806 - Apparatus for use in medicine in the drainage of incisions",
+      "conceptLink": "/ec2/concept/5952061"
+    }
+  },
+  {
+    "uri": "en/10/1229709",
+    "id": "1229709",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in medical analysis",
+    "harm": {
+      "id": "0011610",
+      "title": "1229709 - Apparatus for use in medical analysis",
+      "conceptLink": "/ec2/concept/5962079"
+    }
+  },
+  {
+    "uri": "en/10/703831",
+    "id": "703831",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in orthodontics",
+    "harm": {
+      "id": "0058945",
+      "title": "703831 - Apparatus for use in orthodontics",
+      "conceptLink": "/ec2/concept/6000436"
+    }
+  },
+  {
+    "uri": "en/10/703860",
+    "id": "703860",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in surgery in the drainage of wounds",
+    "harm": {
+      "id": "0025416",
+      "title": "703860 - Apparatus for use in surgery in the drainage of wounds",
+      "conceptLink": "/ec2/concept/5974728"
+    }
+  },
+  {
+    "uri": "en/10/703847",
+    "id": "703847",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in surgery in the drainage of incisions",
+    "harm": {
+      "id": "0031154",
+      "title": "703847 - Apparatus for use in surgery in the drainage of incisions",
+      "conceptLink": "/ec2/concept/5979987"
+    }
+  },
+  {
+    "uri": "en/10/703873",
+    "id": "703873",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in testing hearing disorders",
+    "harm": {
+      "id": "0019729",
+      "title": "703873 - Apparatus for use in testing hearing disorders",
+      "conceptLink": "/ec2/concept/5969516"
+    }
+  },
+  {
+    "uri": "en/10/703959",
+    "id": "703959",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the preparation of artificial teeth",
+    "harm": {
+      "id": "0002311",
+      "title": "703959 - Apparatus for use in the preparation of artificial teeth",
+      "conceptLink": "/ec2/concept/5953566"
+    }
+  },
+  {
+    "uri": "en/10/703941",
+    "id": "703941",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the investigation of metabolic disorders",
+    "harm": {
+      "id": "0037016",
+      "title": "703941 - Apparatus for use in the investigation of metabolic disorders",
+      "conceptLink": "/ec2/concept/5985311"
+    }
+  },
+  {
+    "uri": "en/10/703980",
+    "id": "703980",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the preparation of dental prostheses",
+    "harm": {
+      "id": "0019730",
+      "title": "703980 - Apparatus for use in the preparation of dental prostheses",
+      "conceptLink": "/ec2/concept/5969517"
+    }
+  },
+  {
+    "uri": "en/10/704020",
+    "id": "704020",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the repair of teeth",
+    "harm": {
+      "id": "0031156",
+      "title": "704020 - Apparatus for use in the repair of teeth",
+      "conceptLink": "/ec2/concept/5979989"
+    }
+  },
+  {
+    "uri": "en/10/704007",
+    "id": "704007",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the repair of bones",
+    "harm": {
+      "id": "0025417",
+      "title": "704007 - Apparatus for use in the repair of bones",
+      "conceptLink": "/ec2/concept/5974729"
+    }
+  },
+  {
+    "uri": "en/10/703907",
+    "id": "703907",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the fitting of artificial teeth",
+    "harm": {
+      "id": "0031155",
+      "title": "703907 - Apparatus for use in the fitting of artificial teeth",
+      "conceptLink": "/ec2/concept/5979988"
+    }
+  },
+  {
+    "uri": "en/10/703885",
+    "id": "703885",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the control of incontinence",
+    "harm": {
+      "id": "0042753",
+      "title": "703885 - Apparatus for use in the control of incontinence",
+      "conceptLink": "/ec2/concept/5990538"
+    }
+  },
+  {
+    "uri": "en/10/703928",
+    "id": "703928",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the fitting of dental prostheses",
+    "harm": {
+      "id": "0042754",
+      "title": "703928 - Apparatus for use in the fitting of dental prostheses",
+      "conceptLink": "/ec2/concept/5990539"
+    }
+  },
+  {
+    "uri": "en/10/703992",
+    "id": "703992",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in the prevention of snoring",
+    "harm": {
+      "id": "0042755",
+      "title": "703992 - Apparatus for use in the prevention of snoring",
+      "conceptLink": "/ec2/concept/5990540"
+    }
+  },
+  {
+    "uri": "en/10/704032",
+    "id": "704032",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in toning muscles for medical rehabilitation",
+    "harm": {
+      "id": "0002312",
+      "title": "704032 - Apparatus for use in toning muscles for medical rehabilitation",
+      "conceptLink": "/ec2/concept/5953567"
+    }
+  },
+  {
+    "uri": "en/10/704044",
+    "id": "704044",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in treating hearing disorders",
+    "harm": {
+      "id": "0037017",
+      "title": "704044 - Apparatus for use in treating hearing disorders",
+      "conceptLink": "/ec2/concept/5985312"
+    }
+  },
+  {
+    "uri": "en/10/704059",
+    "id": "704059",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for use in vein puncture",
+    "harm": {
+      "id": "0002313",
+      "title": "704059 - Apparatus for use in vein puncture",
+      "conceptLink": "/ec2/concept/5953568"
+    }
+  },
+  {
+    "uri": "en/10/704071",
+    "id": "704071",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for veterinary purposes",
+    "harm": {
+      "id": "0013874",
+      "title": "704071 - Apparatus for veterinary purposes",
+      "conceptLink": "/ec2/concept/5964153"
+    }
+  },
+  {
+    "uri": "en/10/164058",
+    "id": "164058",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus for washing out body cavities",
+    "harm": {
+      "id": "0035914",
+      "title": "164058 - Apparatus for washing out body cavities",
+      "conceptLink": "/ec2/concept/5984302"
+    }
+  },
+  {
+    "uri": "en/10/124930276",
+    "id": "124930276",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus (Medical -) for extracting oxygen from the atmosphere",
+    "harm": {
+      "id": "0011762",
+      "title": "124930276 - Apparatus (Medical -) for extracting oxygen from the atmosphere",
+      "conceptLink": "/ec2/concept/5962224"
+    }
+  },
+  {
+    "uri": "en/10/119531286",
+    "id": "119531286",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Apparatus used in implementing diagnosis tests designed to detect the abnormal prion protein",
+    "harm": {
+      "id": "0055899",
+      "title": "119531286 - Apparatus used in implementing diagnosis tests designed to detect the abnormal prion protein",
+      "conceptLink": "/ec2/concept/5997273"
+    }
+  },
+  {
+    "uri": "en/10/704087",
+    "id": "704087",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Appliances for massaging feet",
+    "harm": {
+      "id": "0021718",
+      "title": "704087 - Appliances for massaging feet",
+      "conceptLink": "/ec2/concept/5971328"
+    }
+  },
+  {
+    "uri": "en/10/164059",
+    "id": "164059",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Appliances for washing body cavities",
+    "harm": {
+      "id": "0035914",
+      "title": "164059 - Appliances for washing body cavities",
+      "conceptLink": "/ec2/concept/5984302"
+    }
+  },
+  {
+    "uri": "en/10/704099",
+    "id": "704099",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Applicators for antibacterial preparations",
+    "harm": {
+      "id": "0025418",
+      "title": "704099 - Applicators for antibacterial preparations",
+      "conceptLink": "/ec2/concept/5974730"
+    }
+  },
+  {
+    "uri": "en/10/704112",
+    "id": "704112",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Applicators for antiseptic preparations",
+    "harm": {
+      "id": "0019731",
+      "title": "704112 - Applicators for antiseptic preparations",
+      "conceptLink": "/ec2/concept/5969518"
+    }
+  },
+  {
+    "uri": "en/10/704124",
+    "id": "704124",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Applicators for medications",
+    "harm": {
+      "id": "0037018",
+      "title": "704124 - Applicators for medications",
+      "conceptLink": "/ec2/concept/5985313"
+    }
+  },
+  {
+    "uri": "en/10/704139",
+    "id": "704139",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Applicators for pharmaceutical preparations",
+    "harm": {
+      "id": "0037019",
+      "title": "704139 - Applicators for pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5985314"
+    }
+  },
+  {
+    "uri": "en/10/704154",
+    "id": "704154",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Applicators in the nature of sponges [for medical use]",
+    "harm": {
+      "id": "0025419",
+      "title": "704154 - Applicators in the nature of sponges [for medical use]",
+      "conceptLink": "/ec2/concept/5974731"
+    }
+  },
+  {
+    "uri": "en/10/704169",
+    "id": "704169",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch cushions [orthopaedic]",
+    "harm": {
+      "id": "0012859",
+      "title": "704169 - Arch cushions [orthopaedic]",
+      "conceptLink": "/ec2/concept/5963231"
+    }
+  },
+  {
+    "uri": "en/10/14238154",
+    "id": "14238154",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports for boots and shoes",
+    "harm": {
+      "id": "0046360",
+      "title": "14238154 - Arch supports for boots and shoes",
+      "conceptLink": "/ec2/concept/5993815"
+    }
+  },
+  {
+    "uri": "en/10/704198",
+    "id": "704198",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports for flat feet",
+    "harm": {
+      "id": "0007032",
+      "title": "704198 - Arch supports for flat feet",
+      "conceptLink": "/ec2/concept/5957889"
+    }
+  },
+  {
+    "uri": "en/10/163895",
+    "id": "163895",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports for footwear",
+    "harm": {
+      "id": "0046360",
+      "title": "163895 - Arch supports for footwear",
+      "conceptLink": "/ec2/concept/5993815"
+    }
+  },
+  {
+    "uri": "en/10/704210",
+    "id": "704210",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports for orthopaedic boots",
+    "harm": {
+      "id": "0012860",
+      "title": "704210 - Arch supports for orthopaedic boots",
+      "conceptLink": "/ec2/concept/5963232"
+    }
+  },
+  {
+    "uri": "en/10/704222",
+    "id": "704222",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports for orthopaedic shoes",
+    "harm": {
+      "id": "0018649",
+      "title": "704222 - Arch supports for orthopaedic shoes",
+      "conceptLink": "/ec2/concept/5968531"
+    }
+  },
+  {
+    "uri": "en/10/704182",
+    "id": "704182",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arch supports [orthopaedic]",
+    "harm": {
+      "id": "0030161",
+      "title": "704182 - Arch supports [orthopaedic]",
+      "conceptLink": "/ec2/concept/5979074"
+    }
+  },
+  {
+    "uri": "en/10/704234",
+    "id": "704234",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Armboards [surgical splints]",
+    "harm": {
+      "id": "0041736",
+      "title": "704234 - Armboards [surgical splints]",
+      "conceptLink": "/ec2/concept/5989618"
+    }
+  },
+  {
+    "uri": "en/10/704246",
+    "id": "704246",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Armchairs especially made for dental purposes",
+    "harm": {
+      "id": "0024434",
+      "title": "704246 - Armchairs especially made for dental purposes",
+      "conceptLink": "/ec2/concept/5973823"
+    }
+  },
+  {
+    "uri": "en/10/704271",
+    "id": "704271",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Armchairs especially made for surgical purposes",
+    "harm": {
+      "id": "0007033",
+      "title": "704271 - Armchairs especially made for surgical purposes",
+      "conceptLink": "/ec2/concept/5957890"
+    }
+  },
+  {
+    "uri": "en/10/704258",
+    "id": "704258",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Armchairs especially made for medical purposes",
+    "harm": {
+      "id": "0041737",
+      "title": "704258 - Armchairs especially made for medical purposes",
+      "conceptLink": "/ec2/concept/5989619"
+    }
+  },
+  {
+    "uri": "en/10/165618",
+    "id": "165618",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Armchairs for medical or dental purposes",
+    "harm": {
+      "id": "0014621",
+      "title": "165618 - Armchairs for medical or dental purposes",
+      "conceptLink": "/ec2/concept/5964848"
+    }
+  },
+  {
+    "uri": "en/10/166961",
+    "id": "166961",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arterial blood pressure measuring apparatus",
+    "harm": {
+      "id": "0058240",
+      "title": "166961 - Arterial blood pressure measuring apparatus",
+      "conceptLink": "/ec2/concept/5999741"
+    }
+  },
+  {
+    "uri": "en/10/704288",
+    "id": "704288",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arthroscopy irrigation apparatus",
+    "harm": {
+      "id": "0030162",
+      "title": "704288 - Arthroscopy irrigation apparatus",
+      "conceptLink": "/ec2/concept/5979075"
+    }
+  },
+  {
+    "uri": "en/10/704289",
+    "id": "704289",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Arthroscopy irrigation instruments",
+    "harm": {
+      "id": "0030162",
+      "title": "704289 - Arthroscopy irrigation instruments",
+      "conceptLink": "/ec2/concept/5979075"
+    }
+  },
+  {
+    "uri": "en/10/333457",
+    "id": "333457",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Articular protheses",
+    "harm": {
+      "id": "0018650",
+      "title": "333457 - Articular protheses",
+      "conceptLink": "/ec2/concept/5968532"
+    }
+  },
+  {
+    "uri": "en/10/403214",
+    "id": "403214",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Articulators [dental]",
+    "harm": {
+      "id": "0012798",
+      "title": "403214 - Articulators [dental]",
+      "conceptLink": "/ec2/concept/5963175"
+    }
+  },
+  {
+    "uri": "en/10/704310",
+    "id": "704310",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial anaesthetization apparatus",
+    "harm": {
+      "id": "0030163",
+      "title": "704310 - Artificial anaesthetization apparatus",
+      "conceptLink": "/ec2/concept/5979076"
+    }
+  },
+  {
+    "uri": "en/10/704321",
+    "id": "704321",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial bone materials",
+    "harm": {
+      "id": "0024435",
+      "title": "704321 - Artificial bone materials",
+      "conceptLink": "/ec2/concept/5973824"
+    }
+  },
+  {
+    "uri": "en/10/704337",
+    "id": "704337",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial bone materials of ceramics",
+    "harm": {
+      "id": "0024436",
+      "title": "704337 - Artificial bone materials of ceramics",
+      "conceptLink": "/ec2/concept/5973825"
+    }
+  },
+  {
+    "uri": "en/10/333405",
+    "id": "333405",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial bone parts to be implanted in natural bones",
+    "harm": {
+      "id": "0003419",
+      "title": "333405 - Artificial bone parts to be implanted in natural bones",
+      "conceptLink": "/ec2/concept/5954579"
+    }
+  },
+  {
+    "uri": "en/10/704349",
+    "id": "704349",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial bones",
+    "harm": {
+      "id": "0018651",
+      "title": "704349 - Artificial bones",
+      "conceptLink": "/ec2/concept/5968533"
+    }
+  },
+  {
+    "uri": "en/10/333420",
+    "id": "333420",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial bones for implantation",
+    "harm": {
+      "id": "0043842",
+      "title": "333420 - Artificial bones for implantation",
+      "conceptLink": "/ec2/concept/5991535"
+    }
+  },
+  {
+    "uri": "en/10/119531295",
+    "id": "119531295",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial breast implants",
+    "harm": {
+      "id": "0066158",
+      "title": "119531295 - Artificial breast implants",
+      "conceptLink": "/ec2/concept/6002361"
+    }
+  },
+  {
+    "uri": "en/10/167377",
+    "id": "167377",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial breasts",
+    "harm": {
+      "id": "0019453",
+      "title": "167377 - Artificial breasts",
+      "conceptLink": "/ec2/concept/5969265"
+    }
+  },
+  {
+    "uri": "en/10/885041",
+    "id": "885041",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial cardiac valves",
+    "harm": {
+      "id": "0031237",
+      "title": "885041 - Artificial cardiac valves",
+      "conceptLink": "/ec2/concept/5980063"
+    }
+  },
+  {
+    "uri": "en/10/333435",
+    "id": "333435",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial cartilage",
+    "harm": {
+      "id": "0043843",
+      "title": "333435 - Artificial cartilage",
+      "conceptLink": "/ec2/concept/5991536"
+    }
+  },
+  {
+    "uri": "en/10/704365",
+    "id": "704365",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial cartilage made from synthetic materials",
+    "harm": {
+      "id": "0012861",
+      "title": "704365 - Artificial cartilage made from synthetic materials",
+      "conceptLink": "/ec2/concept/5963233"
+    }
+  },
+  {
+    "uri": "en/10/704377",
+    "id": "704377",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial cranial components",
+    "harm": {
+      "id": "0007034",
+      "title": "704377 - Artificial cranial components",
+      "conceptLink": "/ec2/concept/5957891"
+    }
+  },
+  {
+    "uri": "en/10/168050",
+    "id": "168050",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial eyes",
+    "harm": {
+      "id": "0013960",
+      "title": "168050 - Artificial eyes",
+      "conceptLink": "/ec2/concept/5964232"
+    }
+  },
+  {
+    "uri": "en/10/704390",
+    "id": "704390",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial facial components",
+    "harm": {
+      "id": "0030164",
+      "title": "704390 - Artificial facial components",
+      "conceptLink": "/ec2/concept/5979077"
+    }
+  },
+  {
+    "uri": "en/10/704403",
+    "id": "704403",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial heart-lung machines",
+    "harm": {
+      "id": "0007035",
+      "title": "704403 - Artificial heart-lung machines",
+      "conceptLink": "/ec2/concept/5957892"
+    }
+  },
+  {
+    "uri": "en/10/704415",
+    "id": "704415",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial heart-lung oxygenators",
+    "harm": {
+      "id": "0002284",
+      "title": "704415 - Artificial heart-lung oxygenators",
+      "conceptLink": "/ec2/concept/5953542"
+    }
+  },
+  {
+    "uri": "en/10/120896550",
+    "id": "120896550",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial hearts",
+    "harm": {
+      "id": "0066160",
+      "title": "120896550 - Artificial hearts",
+      "conceptLink": "/ec2/concept/6002363"
+    }
+  },
+  {
+    "uri": "en/10/74218502",
+    "id": "74218502",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial hip implants",
+    "harm": {
+      "id": "0036990",
+      "title": "74218502 - Artificial hip implants",
+      "conceptLink": "/ec2/concept/5985288"
+    }
+  },
+  {
+    "uri": "en/10/704430",
+    "id": "704430",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial hip joints",
+    "harm": {
+      "id": "0036990",
+      "title": "704430 - Artificial hip joints",
+      "conceptLink": "/ec2/concept/5985288"
+    }
+  },
+  {
+    "uri": "en/10/704442",
+    "id": "704442",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial implants",
+    "harm": {
+      "id": "0036991",
+      "title": "704442 - Artificial implants",
+      "conceptLink": "/ec2/concept/5985289"
+    }
+  },
+  {
+    "uri": "en/10/704458",
+    "id": "704458",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial internal organ apparatus",
+    "harm": {
+      "id": "0031134",
+      "title": "704458 - Artificial internal organ apparatus",
+      "conceptLink": "/ec2/concept/5979968"
+    }
+  },
+  {
+    "uri": "en/10/166369",
+    "id": "166369",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial jaws",
+    "harm": {
+      "id": "0025653",
+      "title": "166369 - Artificial jaws",
+      "conceptLink": "/ec2/concept/5974945"
+    }
+  },
+  {
+    "uri": "en/10/333456",
+    "id": "333456",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial joints",
+    "harm": {
+      "id": "0018650",
+      "title": "333456 - Artificial joints",
+      "conceptLink": "/ec2/concept/5968532"
+    }
+  },
+  {
+    "uri": "en/10/704470",
+    "id": "704470",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial kidneys",
+    "harm": {
+      "id": "0036992",
+      "title": "704470 - Artificial kidneys",
+      "conceptLink": "/ec2/concept/5985290"
+    }
+  },
+  {
+    "uri": "en/10/233310126",
+    "id": "233310126",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial larynx implants",
+    "harm": {
+      "id": "0072948",
+      "title": "233310126 - Artificial larynx implants",
+      "conceptLink": "/ec2/concept/6009123"
+    }
+  },
+  {
+    "uri": "en/10/233200809",
+    "id": "233200809",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial larynxes",
+    "harm": {
+      "id": "0072948",
+      "title": "233200809 - Artificial larynxes",
+      "conceptLink": "/ec2/concept/6009123"
+    }
+  },
+  {
+    "uri": "en/10/704484",
+    "id": "704484",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial lenses for implantation in the eye",
+    "harm": {
+      "id": "0007993",
+      "title": "704484 - Artificial lenses for implantation in the eye",
+      "conceptLink": "/ec2/concept/5958773"
+    }
+  },
+  {
+    "uri": "en/10/704500",
+    "id": "704500",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial ligaments",
+    "harm": {
+      "id": "0025390",
+      "title": "704500 - Artificial ligaments",
+      "conceptLink": "/ec2/concept/5974702"
+    }
+  },
+  {
+    "uri": "en/10/166589",
+    "id": "166589",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial limb assemblies",
+    "harm": {
+      "id": "0006433",
+      "title": "166589 - Artificial limb assemblies",
+      "conceptLink": "/ec2/concept/5957346"
+    }
+  },
+  {
+    "uri": "en/10/166588",
+    "id": "166588",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial limbs",
+    "harm": {
+      "id": "0006433",
+      "title": "166588 - Artificial limbs",
+      "conceptLink": "/ec2/concept/5957346"
+    }
+  },
+  {
+    "uri": "en/10/120918950",
+    "id": "120918950",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial organs and implants",
+    "harm": {
+      "id": "0047784",
+      "title": "120918950 - Artificial organs and implants",
+      "conceptLink": "/ec2/concept/5995059"
+    }
+  },
+  {
+    "uri": "en/10/704511",
+    "id": "704511",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial orthopaedic implants",
+    "harm": {
+      "id": "0013853",
+      "title": "704511 - Artificial orthopaedic implants",
+      "conceptLink": "/ec2/concept/5964134"
+    }
+  },
+  {
+    "uri": "en/10/704526",
+    "id": "704526",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial parts for teeth",
+    "harm": {
+      "id": "0007994",
+      "title": "704526 - Artificial parts for teeth",
+      "conceptLink": "/ec2/concept/5958774"
+    }
+  },
+  {
+    "uri": "en/10/704541",
+    "id": "704541",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial parts for the body",
+    "harm": {
+      "id": "0019704",
+      "title": "704541 - Artificial parts for the body",
+      "conceptLink": "/ec2/concept/5969493"
+    }
+  },
+  {
+    "uri": "en/10/120896613",
+    "id": "120896613",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Artificial penises [adult sexual stimulation aids]",
+    "harm": {
+      "id": "0066162",
+      "title": "120896613 - Artificial penises [adult sexual stimulation aids]",
+      "conceptLink": "/ec2/concept/6002365"
+    }
+  }
+]

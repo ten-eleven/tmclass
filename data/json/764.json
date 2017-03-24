@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/62932",
+    "id": "62932",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental (Computer -)",
+    "harm": {
+      "id": "0059221",
+      "title": "62932 - Rental (Computer -)",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/375024",
+    "id": "375024",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of a database server (to third parties)",
+    "harm": {
+      "id": "0016825",
+      "title": "375024 - Rental of a database server (to third parties)",
+      "conceptLink": "/ec2/concept/5966868"
+    }
+  },
+  {
+    "uri": "en/42/375038",
+    "id": "375038",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of application software",
+    "harm": {
+      "id": "0034138",
+      "title": "375038 - Rental of application software",
+      "conceptLink": "/ec2/concept/5982702"
+    }
+  },
+  {
+    "uri": "en/42/863680",
+    "id": "863680",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of calculators",
+    "harm": {
+      "id": "0033111",
+      "title": "863680 - Rental of calculators",
+      "conceptLink": "/ec2/concept/5981758"
+    }
+  },
+  {
+    "uri": "en/42/872051",
+    "id": "872051",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of coding apparatus",
+    "harm": {
+      "id": "0039347",
+      "title": "872051 - Rental of coding apparatus",
+      "conceptLink": "/ec2/concept/5987430"
+    }
+  },
+  {
+    "uri": "en/42/62939",
+    "id": "62939",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer apparatus",
+    "harm": {
+      "id": "0059222",
+      "title": "62939 - Rental of computer apparatus",
+      "conceptLink": "/ec2/concept/6000711"
+    }
+  },
+  {
+    "uri": "en/42/120877710",
+    "id": "120877710",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer database software",
+    "harm": {
+      "id": "0069293",
+      "title": "120877710 - Rental of computer database software",
+      "conceptLink": "/ec2/concept/6005496"
+    }
+  },
+  {
+    "uri": "en/42/62940",
+    "id": "62940",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer equipment",
+    "harm": {
+      "id": "0059222",
+      "title": "62940 - Rental of computer equipment",
+      "conceptLink": "/ec2/concept/6000711"
+    }
+  },
+  {
+    "uri": "en/42/87642274",
+    "id": "87642274",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer game software",
+    "harm": {
+      "id": "0051630",
+      "title": "87642274 - Rental of computer game software",
+      "conceptLink": "/ec2/concept/6010616"
+    }
+  },
+  {
+    "uri": "en/42/891964",
+    "id": "891964",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer hardware and computer peripherals",
+    "harm": {
+      "id": "0014023",
+      "title": "891964 - Rental of computer hardware and computer peripherals",
+      "conceptLink": "/ec2/concept/5964287"
+    }
+  },
+  {
+    "uri": "en/42/375104",
+    "id": "375104",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer hardware and software",
+    "harm": {
+      "id": "0030228",
+      "title": "375104 - Rental of computer hardware and software",
+      "conceptLink": "/ec2/concept/5979137"
+    }
+  },
+  {
+    "uri": "en/42/906696",
+    "id": "906696",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer hardware and computer software",
+    "harm": {
+      "id": "0030228",
+      "title": "906696 - Rental of computer hardware and computer software",
+      "conceptLink": "/ec2/concept/5979137"
+    }
+  },
+  {
+    "uri": "en/42/131125814",
+    "id": "131125814",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer hardware and facilities",
+    "harm": {
+      "id": "0048032",
+      "title": "131125814 - Rental of computer hardware and facilities",
+      "conceptLink": "/ec2/concept/5995291"
+    }
+  },
+  {
+    "uri": "en/42/864377",
+    "id": "864377",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer hardware",
+    "harm": {
+      "id": "0059222",
+      "title": "864377 - Rental of computer hardware",
+      "conceptLink": "/ec2/concept/6000711"
+    }
+  },
+  {
+    "uri": "en/42/92424985",
+    "id": "92424985",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer peripherals",
+    "harm": {
+      "id": "0069291",
+      "title": "92424985 - Rental of computer peripherals",
+      "conceptLink": "/ec2/concept/6005494"
+    }
+  },
+  {
+    "uri": "en/42/64215",
+    "id": "64215",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer programs",
+    "harm": {
+      "id": "0057846",
+      "title": "64215 - Rental of computer programs",
+      "conceptLink": "/ec2/concept/5999350"
+    }
+  },
+  {
+    "uri": "en/42/64216",
+    "id": "64216",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer programmes",
+    "harm": {
+      "id": "0057846",
+      "title": "64216 - Rental of computer programmes",
+      "conceptLink": "/ec2/concept/5999350"
+    }
+  },
+  {
+    "uri": "en/42/906710",
+    "id": "906710",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer software and programs",
+    "harm": {
+      "id": "0001328",
+      "title": "906710 - Rental of computer software and programs",
+      "conceptLink": "/ec2/concept/5952680"
+    }
+  },
+  {
+    "uri": "en/42/120877707",
+    "id": "120877707",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer software relating to travel",
+    "harm": {
+      "id": "0069292",
+      "title": "120877707 - Rental of computer software relating to travel",
+      "conceptLink": "/ec2/concept/6005495"
+    }
+  },
+  {
+    "uri": "en/42/906721",
+    "id": "906721",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer software, data processing equipment and computer peripheral devices",
+    "harm": {
+      "id": "0041803",
+      "title": "906721 - Rental of computer software, data processing equipment and computer peripheral devices",
+      "conceptLink": "/ec2/concept/5989675"
+    }
+  },
+  {
+    "uri": "en/42/64212",
+    "id": "64212",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computer software",
+    "harm": {
+      "id": "0057847",
+      "title": "64212 - Rental of computer software",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/62931",
+    "id": "62931",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computers",
+    "harm": {
+      "id": "0059221",
+      "title": "62931 - Rental of computers",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/64214",
+    "id": "64214",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computers and computer software",
+    "harm": {
+      "id": "0057048",
+      "title": "64214 - Rental of computers and computer software",
+      "conceptLink": "/ec2/concept/5998680"
+    }
+  },
+  {
+    "uri": "en/42/64208",
+    "id": "64208",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computers and software",
+    "harm": {
+      "id": "0057048",
+      "title": "64208 - Rental of computers and software",
+      "conceptLink": "/ec2/concept/5998680"
+    }
+  },
+  {
+    "uri": "en/42/120825933",
+    "id": "120825933",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computers for data processing",
+    "harm": {
+      "id": "0069450",
+      "title": "120825933 - Rental of computers for data processing",
+      "conceptLink": "/ec2/concept/6005653"
+    }
+  },
+  {
+    "uri": "en/42/62941",
+    "id": "62941",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of computing equipment",
+    "harm": {
+      "id": "0059221",
+      "title": "62941 - Rental of computing equipment",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/872063",
+    "id": "872063",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data carriers",
+    "harm": {
+      "id": "0010426",
+      "title": "872063 - Rental of data carriers",
+      "conceptLink": "/ec2/concept/5960996"
+    }
+  },
+  {
+    "uri": "en/42/486756",
+    "id": "486756",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data processing equipment and computers",
+    "harm": {
+      "id": "0036911",
+      "title": "486756 - Rental of data processing equipment and computers",
+      "conceptLink": "/ec2/concept/5985215"
+    }
+  },
+  {
+    "uri": "en/42/34560194",
+    "id": "34560194",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data processing apparatus and computers",
+    "harm": {
+      "id": "0036911",
+      "title": "34560194 - Rental of data processing apparatus and computers",
+      "conceptLink": "/ec2/concept/5985215"
+    }
+  },
+  {
+    "uri": "en/42/120875416",
+    "id": "120875416",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data processing programs",
+    "harm": {
+      "id": "0069430",
+      "title": "120875416 - Rental of data processing programs",
+      "conceptLink": "/ec2/concept/6005633"
+    }
+  },
+  {
+    "uri": "en/42/486730",
+    "id": "486730",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data processing apparatus",
+    "harm": {
+      "id": "0059221",
+      "title": "486730 - Rental of data processing apparatus",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/486729",
+    "id": "486729",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of data processing equipment",
+    "harm": {
+      "id": "0059221",
+      "title": "486729 - Rental of data processing equipment",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/120876645",
+    "id": "120876645",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of database management software",
+    "harm": {
+      "id": "0069173",
+      "title": "120876645 - Rental of database management software",
+      "conceptLink": "/ec2/concept/6005376"
+    }
+  },
+  {
+    "uri": "en/42/872078",
+    "id": "872078",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of design equipment",
+    "harm": {
+      "id": "0045067",
+      "title": "872078 - Rental of design equipment",
+      "conceptLink": "/ec2/concept/5992660"
+    }
+  },
+  {
+    "uri": "en/42/33156407",
+    "id": "33156407",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of electronic memory space on the Internet",
+    "harm": {
+      "id": "0051461",
+      "title": "33156407 - Rental of electronic memory space on the Internet",
+      "conceptLink": "/ec2/concept/6010447"
+    }
+  },
+  {
+    "uri": "en/42/120875583",
+    "id": "120875583",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of financial management software",
+    "harm": {
+      "id": "0069440",
+      "title": "120875583 - Rental of financial management software",
+      "conceptLink": "/ec2/concept/6005643"
+    }
+  },
+  {
+    "uri": "en/42/105321372",
+    "id": "105321372",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of Internet security programs",
+    "harm": {
+      "id": "0069181",
+      "title": "105321372 - Rental of Internet security programs",
+      "conceptLink": "/ec2/concept/6005384"
+    }
+  },
+  {
+    "uri": "en/42/375053",
+    "id": "375053",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of laboratory apparatus and instruments",
+    "harm": {
+      "id": "0016826",
+      "title": "375053 - Rental of laboratory apparatus and instruments",
+      "conceptLink": "/ec2/concept/5966869"
+    }
+  },
+  {
+    "uri": "en/42/375075",
+    "id": "375075",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of measuring apparatus",
+    "harm": {
+      "id": "0015308",
+      "title": "375075 - Rental of measuring apparatus",
+      "conceptLink": "/ec2/concept/5965472"
+    }
+  },
+  {
+    "uri": "en/42/137898969",
+    "id": "137898969",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of memory space for websites",
+    "harm": {
+      "id": "0051463",
+      "title": "137898969 - Rental of memory space for websites",
+      "conceptLink": "/ec2/concept/6010449"
+    }
+  },
+  {
+    "uri": "en/42/120876841",
+    "id": "120876841",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of memory space on servers for hosting electronic bulletin boards",
+    "harm": {
+      "id": "0069156",
+      "title": "120876841 - Rental of memory space on servers for hosting electronic bulletin boards",
+      "conceptLink": "/ec2/concept/6005359"
+    }
+  },
+  {
+    "uri": "en/42/872092",
+    "id": "872092",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of mini computers",
+    "harm": {
+      "id": "0013088",
+      "title": "872092 - Rental of mini computers",
+      "conceptLink": "/ec2/concept/5963436"
+    }
+  },
+  {
+    "uri": "en/42/120876688",
+    "id": "120876688",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of operating software for accessing and using a cloud computing network",
+    "harm": {
+      "id": "0069177",
+      "title": "120876688 - Rental of operating software for accessing and using a cloud computing network",
+      "conceptLink": "/ec2/concept/6005380"
+    }
+  },
+  {
+    "uri": "en/42/120876659",
+    "id": "120876659",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of operating software for computer networks and servers",
+    "harm": {
+      "id": "0069169",
+      "title": "120876659 - Rental of operating software for computer networks and servers",
+      "conceptLink": "/ec2/concept/6005372"
+    }
+  },
+  {
+    "uri": "en/42/869901",
+    "id": "869901",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of scientific equipment",
+    "harm": {
+      "id": "0024655",
+      "title": "869901 - Rental of scientific equipment",
+      "conceptLink": "/ec2/concept/5974031"
+    }
+  },
+  {
+    "uri": "en/42/1010520",
+    "id": "1010520",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software",
+    "harm": {
+      "id": "0057847",
+      "title": "1010520 - Rental of software",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/119695933",
+    "id": "119695933",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for computers",
+    "harm": {
+      "id": "0057847",
+      "title": "119695933 - Rental of software for computers",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/137166168",
+    "id": "137166168",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for data processing",
+    "harm": {
+      "id": "0069837",
+      "title": "137166168 - Rental of software for data processing",
+      "conceptLink": "/ec2/concept/6006040"
+    }
+  },
+  {
+    "uri": "en/42/120876866",
+    "id": "120876866",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for importing and managing data",
+    "harm": {
+      "id": "0069161",
+      "title": "120876866 - Rental of software for importing and managing data",
+      "conceptLink": "/ec2/concept/6005364"
+    }
+  },
+  {
+    "uri": "en/42/906791",
+    "id": "906791",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for Internet access",
+    "harm": {
+      "id": "0013965",
+      "title": "906791 - Rental of software for Internet access",
+      "conceptLink": "/ec2/concept/5964235"
+    }
+  },
+  {
+    "uri": "en/42/120876816",
+    "id": "120876816",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for inventory management",
+    "harm": {
+      "id": "0069157",
+      "title": "120876816 - Rental of software for inventory management",
+      "conceptLink": "/ec2/concept/6005360"
+    }
+  },
+  {
+    "uri": "en/42/120876846",
+    "id": "120876846",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of software for website development",
+    "harm": {
+      "id": "0069165",
+      "title": "120876846 - Rental of software for website development",
+      "conceptLink": "/ec2/concept/6005368"
+    }
+  },
+  {
+    "uri": "en/42/872105",
+    "id": "872105",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of time keeping equipment",
+    "harm": {
+      "id": "0007272",
+      "title": "872105 - Rental of time keeping equipment",
+      "conceptLink": "/ec2/concept/5958115"
+    }
+  },
+  {
+    "uri": "en/42/872118",
+    "id": "872118",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of time-recording apparatus",
+    "harm": {
+      "id": "0024656",
+      "title": "872118 - Rental of time-recording apparatus",
+      "conceptLink": "/ec2/concept/5974032"
+    }
+  },
+  {
+    "uri": "en/42/137884546",
+    "id": "137884546",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of video game software",
+    "harm": {
+      "id": "0051559",
+      "title": "137884546 - Rental of video game software",
+      "conceptLink": "/ec2/concept/6010545"
+    }
+  },
+  {
+    "uri": "en/42/496115",
+    "id": "496115",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of web servers",
+    "harm": {
+      "id": "0008903",
+      "title": "496115 - Rental of web servers",
+      "conceptLink": "/ec2/concept/5959600"
+    }
+  },
+  {
+    "uri": "en/42/496116",
+    "id": "496116",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental of webservers",
+    "harm": {
+      "id": "0008903",
+      "title": "496116 - Rental of webservers",
+      "conceptLink": "/ec2/concept/5959600"
+    }
+  },
+  {
+    "uri": "en/42/62942",
+    "id": "62942",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental services for computer equipment",
+    "harm": {
+      "id": "0059221",
+      "title": "62942 - Rental services for computer equipment",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/486757",
+    "id": "486757",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Rental services relating to data processing equipment and computers",
+    "harm": {
+      "id": "0036911",
+      "title": "486757 - Rental services relating to data processing equipment and computers",
+      "conceptLink": "/ec2/concept/5985215"
+    }
+  },
+  {
+    "uri": "en/42/64209",
+    "id": "64209",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Renting computer software",
+    "harm": {
+      "id": "0057847",
+      "title": "64209 - Renting computer software",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/375103",
+    "id": "375103",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Renting out hardware and software",
+    "harm": {
+      "id": "0030228",
+      "title": "375103 - Renting out hardware and software",
+      "conceptLink": "/ec2/concept/5979137"
+    }
+  },
+  {
+    "uri": "en/42/887281",
+    "id": "887281",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Repair (maintenance, updating) of software",
+    "harm": {
+      "id": "0025681",
+      "title": "887281 - Repair (maintenance, updating) of software",
+      "conceptLink": "/ec2/concept/5974970"
+    }
+  },
+  {
+    "uri": "en/42/474411",
+    "id": "474411",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Repair of computer software",
+    "harm": {
+      "id": "0031613",
+      "title": "474411 - Repair of computer software",
+      "conceptLink": "/ec2/concept/5980388"
+    }
+  },
+  {
+    "uri": "en/42/375135",
+    "id": "375135",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Repair of damaged computer programs",
+    "harm": {
+      "id": "0009439",
+      "title": "375135 - Repair of damaged computer programs",
+      "conceptLink": "/ec2/concept/5960102"
+    }
+  },
+  {
+    "uri": "en/42/887282",
+    "id": "887282",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Repair of software [maintenance, updating]",
+    "harm": {
+      "id": "0025681",
+      "title": "887282 - Repair of software [maintenance, updating]",
+      "conceptLink": "/ec2/concept/5974970"
+    }
+  },
+  {
+    "uri": "en/42/474454",
+    "id": "474454",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and consultancy services relating to computer software",
+    "harm": {
+      "id": "0009477",
+      "title": "474454 - Research and consultancy services relating to computer software",
+      "conceptLink": "/ec2/concept/5960134"
+    }
+  },
+  {
+    "uri": "en/42/474433",
+    "id": "474433",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and consultancy services relating to computer hardware",
+    "harm": {
+      "id": "0032596",
+      "title": "474433 - Research and consultancy services relating to computer hardware",
+      "conceptLink": "/ec2/concept/5981283"
+    }
+  },
+  {
+    "uri": "en/42/375149",
+    "id": "375149",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development of vaccines and medicines",
+    "harm": {
+      "id": "0003714",
+      "title": "375149 - Research and development of vaccines and medicines",
+      "conceptLink": "/ec2/concept/5954850"
+    }
+  },
+  {
+    "uri": "en/42/486873",
+    "id": "486873",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services",
+    "harm": {
+      "id": "0006928",
+      "title": "486873 - Research and development services",
+      "conceptLink": "/ec2/concept/5957795"
+    }
+  },
+  {
+    "uri": "en/42/906909",
+    "id": "906909",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in connection with physics",
+    "harm": {
+      "id": "0009320",
+      "title": "906909 - Research and development services in connection with physics",
+      "conceptLink": "/ec2/concept/5959989"
+    }
+  },
+  {
+    "uri": "en/42/906896",
+    "id": "906896",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development of computer software",
+    "harm": {
+      "id": "0021017",
+      "title": "906896 - Research and development of computer software",
+      "conceptLink": "/ec2/concept/5970693"
+    }
+  },
+  {
+    "uri": "en/42/906908",
+    "id": "906908",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development of new products for third parties in the field of plastic materials",
+    "harm": {
+      "id": "0021018",
+      "title": "906908 - Research and development of new products for third parties in the field of plastic materials",
+      "conceptLink": "/ec2/concept/5970694"
+    }
+  },
+  {
+    "uri": "en/42/906892",
+    "id": "906892",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development in the pharmaceutical and biotechnology fields",
+    "harm": {
+      "id": "0021016",
+      "title": "906892 - Research and development in the pharmaceutical and biotechnology fields",
+      "conceptLink": "/ec2/concept/5970692"
+    }
+  },
+  {
+    "uri": "en/42/906907",
+    "id": "906907",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development of new products",
+    "harm": {
+      "id": "0015182",
+      "title": "906907 - Research and development of new products",
+      "conceptLink": "/ec2/concept/5965358"
+    }
+  },
+  {
+    "uri": "en/42/64349",
+    "id": "64349",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development for others",
+    "harm": {
+      "id": "0031515",
+      "title": "64349 - Research and development for others",
+      "conceptLink": "/ec2/concept/5980308"
+    }
+  },
+  {
+    "uri": "en/42/120887364",
+    "id": "120887364",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development for the pharmaceutical industry",
+    "harm": {
+      "id": "0069104",
+      "title": "120887364 - Research and development for the pharmaceutical industry",
+      "conceptLink": "/ec2/concept/6005307"
+    }
+  },
+  {
+    "uri": "en/42/41215315",
+    "id": "41215315",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development in the field of biotechnology",
+    "harm": {
+      "id": "0069105",
+      "title": "41215315 - Research and development in the field of biotechnology",
+      "conceptLink": "/ec2/concept/6005308"
+    }
+  },
+  {
+    "uri": "en/42/120877851",
+    "id": "120877851",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of antibodies",
+    "harm": {
+      "id": "0069283",
+      "title": "120877851 - Research and development services in the field of antibodies",
+      "conceptLink": "/ec2/concept/6005486"
+    }
+  },
+  {
+    "uri": "en/42/120877999",
+    "id": "120877999",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services relating to computer hardware",
+    "harm": {
+      "id": "0069368",
+      "title": "120877999 - Research and development services relating to computer hardware",
+      "conceptLink": "/ec2/concept/6005571"
+    }
+  },
+  {
+    "uri": "en/42/120877023",
+    "id": "120877023",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services relating to vaccines",
+    "harm": {
+      "id": "0069119",
+      "title": "120877023 - Research and development services relating to vaccines",
+      "conceptLink": "/ec2/concept/6005322"
+    }
+  },
+  {
+    "uri": "en/42/120876974",
+    "id": "120876974",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services relating to fertilisers",
+    "harm": {
+      "id": "0069140",
+      "title": "120876974 - Research and development services relating to fertilisers",
+      "conceptLink": "/ec2/concept/6005343"
+    }
+  },
+  {
+    "uri": "en/42/120877381",
+    "id": "120877381",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development in the field of diagnostic preparations",
+    "harm": {
+      "id": "0069225",
+      "title": "120877381 - Research and development in the field of diagnostic preparations",
+      "conceptLink": "/ec2/concept/6005428"
+    }
+  },
+  {
+    "uri": "en/42/120877411",
+    "id": "120877411",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services relating to automobile tires",
+    "harm": {
+      "id": "0069193",
+      "title": "120877411 - Research and development services relating to automobile tires",
+      "conceptLink": "/ec2/concept/6005396"
+    }
+  },
+  {
+    "uri": "en/42/120877418",
+    "id": "120877418",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of immunohistology",
+    "harm": {
+      "id": "0069195",
+      "title": "120877418 - Research and development services in the field of immunohistology",
+      "conceptLink": "/ec2/concept/6005398"
+    }
+  },
+  {
+    "uri": "en/42/120878173",
+    "id": "120878173",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of bacteriology",
+    "harm": {
+      "id": "0069349",
+      "title": "120878173 - Research and development services in the field of bacteriology",
+      "conceptLink": "/ec2/concept/6005552"
+    }
+  },
+  {
+    "uri": "en/42/120878166",
+    "id": "120878166",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of antibody technology",
+    "harm": {
+      "id": "0069347",
+      "title": "120878166 - Research and development services in the field of antibody technology",
+      "conceptLink": "/ec2/concept/6005550"
+    }
+  },
+  {
+    "uri": "en/42/120878162",
+    "id": "120878162",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of cytology",
+    "harm": {
+      "id": "0069348",
+      "title": "120878162 - Research and development services in the field of cytology",
+      "conceptLink": "/ec2/concept/6005551"
+    }
+  },
+  {
+    "uri": "en/42/120878203",
+    "id": "120878203",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of gene expression systems",
+    "harm": {
+      "id": "0069344",
+      "title": "120878203 - Research and development services in the field of gene expression systems",
+      "conceptLink": "/ec2/concept/6005547"
+    }
+  },
+  {
+    "uri": "en/42/120878198",
+    "id": "120878198",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development in the field of microorganisms and cells",
+    "harm": {
+      "id": "0069343",
+      "title": "120878198 - Research and development in the field of microorganisms and cells",
+      "conceptLink": "/ec2/concept/6005546"
+    }
+  },
+  {
+    "uri": "en/42/120878212",
+    "id": "120878212",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of chemistry",
+    "harm": {
+      "id": "0069346",
+      "title": "120878212 - Research and development services in the field of chemistry",
+      "conceptLink": "/ec2/concept/6005549"
+    }
+  },
+  {
+    "uri": "en/42/120878216",
+    "id": "120878216",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of immunology",
+    "harm": {
+      "id": "0069345",
+      "title": "120878216 - Research and development services in the field of immunology",
+      "conceptLink": "/ec2/concept/6005548"
+    }
+  },
+  {
+    "uri": "en/42/137892186",
+    "id": "137892186",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development services in the field of engineering",
+    "harm": {
+      "id": "0051531",
+      "title": "137892186 - Research and development services in the field of engineering",
+      "conceptLink": "/ec2/concept/6010517"
+    }
+  },
+  {
+    "uri": "en/42/2597297",
+    "id": "2597297",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and development of new products for others",
+    "harm": {
+      "id": "0031515",
+      "title": "2597297 - Research and development of new products for others",
+      "conceptLink": "/ec2/concept/5980308"
+    }
+  },
+  {
+    "uri": "en/42/474475",
+    "id": "474475",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research and testing services in the fields of bacteriology and virology",
+    "harm": {
+      "id": "0044158",
+      "title": "474475 - Research and testing services in the fields of bacteriology and virology",
+      "conceptLink": "/ec2/concept/5991828"
+    }
+  },
+  {
+    "uri": "en/42/64661",
+    "id": "64661",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research (Biological -)",
+    "harm": {
+      "id": "0024657",
+      "title": "64661 - Research (Biological -)",
+      "conceptLink": "/ec2/concept/5974033"
+    }
+  },
+  {
+    "uri": "en/42/906914",
+    "id": "906914",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research, development, design and upgrading of computer software",
+    "harm": {
+      "id": "0015183",
+      "title": "906914 - Research, development, design and upgrading of computer software",
+      "conceptLink": "/ec2/concept/5965359"
+    }
+  },
+  {
+    "uri": "en/42/62415",
+    "id": "62415",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research (Geological -)",
+    "harm": {
+      "id": "0058855",
+      "title": "62415 - Research (Geological -)",
+      "conceptLink": "/ec2/concept/6000346"
+    }
+  },
+  {
+    "uri": "en/42/61844",
+    "id": "61844",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research in cosmetology",
+    "harm": {
+      "id": "0000144",
+      "title": "61844 - Research in cosmetology",
+      "conceptLink": "/ec2/concept/5951620"
+    }
+  },
+  {
+    "uri": "en/42/872137",
+    "id": "872137",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research in engine construction",
+    "harm": {
+      "id": "0024658",
+      "title": "872137 - Research in engine construction",
+      "conceptLink": "/ec2/concept/5974034"
+    }
+  },
+  {
+    "uri": "en/42/872149",
+    "id": "872149",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Research in instrumentation",
+    "harm": {
+      "id": "0018930",
+      "title": "872149 - Research in instrumentation",
+      "conceptLink": "/ec2/concept/5968795"
+    }
+  }
+]

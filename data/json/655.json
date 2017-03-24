@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/36398",
+    "id": "36398",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motor vehicles",
+    "harm": {
+      "id": "0059360",
+      "title": "36398 - Maintenance and repair of motor vehicles",
+      "conceptLink": "/ec2/concept/6000842"
+    }
+  },
+  {
+    "uri": "en/37/369272",
+    "id": "369272",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of storage tanks",
+    "harm": {
+      "id": "0038192",
+      "title": "369272 - Maintenance and repair of storage tanks",
+      "conceptLink": "/ec2/concept/5986372"
+    }
+  },
+  {
+    "uri": "en/37/821058",
+    "id": "821058",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of parts and fittings for boats",
+    "harm": {
+      "id": "0039334",
+      "title": "821058 - Maintenance and repair of parts and fittings for boats",
+      "conceptLink": "/ec2/concept/5987418"
+    }
+  },
+  {
+    "uri": "en/37/120879728",
+    "id": "120879728",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of furniture",
+    "harm": {
+      "id": "0048007",
+      "title": "120879728 - Maintenance and repair of furniture",
+      "conceptLink": "/ec2/concept/5995267"
+    }
+  },
+  {
+    "uri": "en/37/120893184",
+    "id": "120893184",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of residential buildings",
+    "harm": {
+      "id": "0068068",
+      "title": "120893184 - Maintenance and repair of residential buildings",
+      "conceptLink": "/ec2/concept/6004271"
+    }
+  },
+  {
+    "uri": "en/37/120893220",
+    "id": "120893220",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motor vehicles and their engines",
+    "harm": {
+      "id": "0068077",
+      "title": "120893220 - Maintenance and repair of motor vehicles and their engines",
+      "conceptLink": "/ec2/concept/6004280"
+    }
+  },
+  {
+    "uri": "en/37/120893235",
+    "id": "120893235",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of medical instruments, apparatus and equipment",
+    "harm": {
+      "id": "0068078",
+      "title": "120893235 - Maintenance and repair of medical instruments, apparatus and equipment",
+      "conceptLink": "/ec2/concept/6004281"
+    }
+  },
+  {
+    "uri": "en/37/120891155",
+    "id": "120891155",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of heating apparatus",
+    "harm": {
+      "id": "0068120",
+      "title": "120891155 - Maintenance and repair of heating apparatus",
+      "conceptLink": "/ec2/concept/6004323"
+    }
+  },
+  {
+    "uri": "en/37/120891161",
+    "id": "120891161",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of refrigerating apparatus",
+    "harm": {
+      "id": "0068119",
+      "title": "120891161 - Maintenance and repair of refrigerating apparatus",
+      "conceptLink": "/ec2/concept/6004322"
+    }
+  },
+  {
+    "uri": "en/37/120891189",
+    "id": "120891189",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of dust extraction apparatus",
+    "harm": {
+      "id": "0068115",
+      "title": "120891189 - Maintenance and repair of dust extraction apparatus",
+      "conceptLink": "/ec2/concept/6004318"
+    }
+  },
+  {
+    "uri": "en/37/120891170",
+    "id": "120891170",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of air conditioning apparatus",
+    "harm": {
+      "id": "0068118",
+      "title": "120891170 - Maintenance and repair of air conditioning apparatus",
+      "conceptLink": "/ec2/concept/6004321"
+    }
+  },
+  {
+    "uri": "en/37/120891177",
+    "id": "120891177",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of drying apparatus",
+    "harm": {
+      "id": "0068117",
+      "title": "120891177 - Maintenance and repair of drying apparatus",
+      "conceptLink": "/ec2/concept/6004320"
+    }
+  },
+  {
+    "uri": "en/37/120891183",
+    "id": "120891183",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of ventilating apparatus",
+    "harm": {
+      "id": "0068116",
+      "title": "120891183 - Maintenance and repair of ventilating apparatus",
+      "conceptLink": "/ec2/concept/6004319"
+    }
+  },
+  {
+    "uri": "en/37/120893178",
+    "id": "120893178",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of office buildings",
+    "harm": {
+      "id": "0068069",
+      "title": "120893178 - Maintenance and repair of office buildings",
+      "conceptLink": "/ec2/concept/6004272"
+    }
+  },
+  {
+    "uri": "en/37/120892745",
+    "id": "120892745",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of axles and parts thereof",
+    "harm": {
+      "id": "0068055",
+      "title": "120892745 - Maintenance and repair of axles and parts thereof",
+      "conceptLink": "/ec2/concept/6004258"
+    }
+  },
+  {
+    "uri": "en/37/120892751",
+    "id": "120892751",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of hearing aids for the deaf",
+    "harm": {
+      "id": "0068057",
+      "title": "120892751 - Maintenance and repair of hearing aids for the deaf",
+      "conceptLink": "/ec2/concept/6004260"
+    }
+  },
+  {
+    "uri": "en/37/44474801",
+    "id": "44474801",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of horological and chronometric instruments",
+    "harm": {
+      "id": "0068136",
+      "title": "44474801 - Maintenance and repair of horological and chronometric instruments",
+      "conceptLink": "/ec2/concept/6004339"
+    }
+  },
+  {
+    "uri": "en/37/120892886",
+    "id": "120892886",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motor vehicle cooling systems",
+    "harm": {
+      "id": "0068045",
+      "title": "120892886 - Maintenance and repair of motor vehicle cooling systems",
+      "conceptLink": "/ec2/concept/6004248"
+    }
+  },
+  {
+    "uri": "en/37/120892808",
+    "id": "120892808",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of transport containers",
+    "harm": {
+      "id": "0068063",
+      "title": "120892808 - Maintenance and repair of transport containers",
+      "conceptLink": "/ec2/concept/6004266"
+    }
+  },
+  {
+    "uri": "en/37/120878940",
+    "id": "120878940",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of wave energy power plants",
+    "harm": {
+      "id": "0068352",
+      "title": "120878940 - Maintenance and repair of wave energy power plants",
+      "conceptLink": "/ec2/concept/6004555"
+    }
+  },
+  {
+    "uri": "en/37/120823498",
+    "id": "120823498",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of telecommuncations networks, apparatus, and instruments",
+    "harm": {
+      "id": "0068455",
+      "title": "120823498 - Maintenance and repair of telecommuncations networks, apparatus, and instruments",
+      "conceptLink": "/ec2/concept/6004658"
+    }
+  },
+  {
+    "uri": "en/37/120879896",
+    "id": "120879896",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of gas and electricity installations",
+    "harm": {
+      "id": "0068279",
+      "title": "120879896 - Maintenance and repair of gas and electricity installations",
+      "conceptLink": "/ec2/concept/6004482"
+    }
+  },
+  {
+    "uri": "en/37/120879766",
+    "id": "120879766",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of wind power plants",
+    "harm": {
+      "id": "0068258",
+      "title": "120879766 - Maintenance and repair of wind power plants",
+      "conceptLink": "/ec2/concept/6004461"
+    }
+  },
+  {
+    "uri": "en/37/120891980",
+    "id": "120891980",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of automatic transmissions",
+    "harm": {
+      "id": "0068188",
+      "title": "120891980 - Maintenance and repair of automatic transmissions",
+      "conceptLink": "/ec2/concept/6004391"
+    }
+  },
+  {
+    "uri": "en/37/120879854",
+    "id": "120879854",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motor vehicle engines",
+    "harm": {
+      "id": "0068255",
+      "title": "120879854 - Maintenance and repair of motor vehicle engines",
+      "conceptLink": "/ec2/concept/6004458"
+    }
+  },
+  {
+    "uri": "en/37/120892030",
+    "id": "120892030",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of mining equipment",
+    "harm": {
+      "id": "0068186",
+      "title": "120892030 - Maintenance and repair of mining equipment",
+      "conceptLink": "/ec2/concept/6004389"
+    }
+  },
+  {
+    "uri": "en/37/120892012",
+    "id": "120892012",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of manual transmissions",
+    "harm": {
+      "id": "0068189",
+      "title": "120892012 - Maintenance and repair of manual transmissions",
+      "conceptLink": "/ec2/concept/6004392"
+    }
+  },
+  {
+    "uri": "en/37/120892006",
+    "id": "120892006",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of gears",
+    "harm": {
+      "id": "0068190",
+      "title": "120892006 - Maintenance and repair of gears",
+      "conceptLink": "/ec2/concept/6004393"
+    }
+  },
+  {
+    "uri": "en/37/120879671",
+    "id": "120879671",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of photographic apparatus",
+    "harm": {
+      "id": "0068300",
+      "title": "120879671 - Maintenance and repair of photographic apparatus",
+      "conceptLink": "/ec2/concept/6004503"
+    }
+  },
+  {
+    "uri": "en/37/120879665",
+    "id": "120879665",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of multimedia apparatus",
+    "harm": {
+      "id": "0068301",
+      "title": "120879665 - Maintenance and repair of multimedia apparatus",
+      "conceptLink": "/ec2/concept/6004504"
+    }
+  },
+  {
+    "uri": "en/37/120879677",
+    "id": "120879677",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of footwear",
+    "harm": {
+      "id": "0068297",
+      "title": "120879677 - Maintenance and repair of footwear",
+      "conceptLink": "/ec2/concept/6004500"
+    }
+  },
+  {
+    "uri": "en/37/120879653",
+    "id": "120879653",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of upholstery",
+    "harm": {
+      "id": "0068299",
+      "title": "120879653 - Maintenance and repair of upholstery",
+      "conceptLink": "/ec2/concept/6004502"
+    }
+  },
+  {
+    "uri": "en/37/120878837",
+    "id": "120878837",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of hardware for data processing apparatus",
+    "harm": {
+      "id": "0068388",
+      "title": "120878837 - Maintenance and repair of hardware for data processing apparatus",
+      "conceptLink": "/ec2/concept/6004591"
+    }
+  },
+  {
+    "uri": "en/37/120878842",
+    "id": "120878842",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of energy generating installations",
+    "harm": {
+      "id": "0068387",
+      "title": "120878842 - Maintenance and repair of energy generating installations",
+      "conceptLink": "/ec2/concept/6004590"
+    }
+  },
+  {
+    "uri": "en/37/120879659",
+    "id": "120879659",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of toys",
+    "harm": {
+      "id": "0068298",
+      "title": "120879659 - Maintenance and repair of toys",
+      "conceptLink": "/ec2/concept/6004501"
+    }
+  },
+  {
+    "uri": "en/37/120882180",
+    "id": "120882180",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of public transport vehicles",
+    "harm": {
+      "id": "0068434",
+      "title": "120882180 - Maintenance and repair of public transport vehicles",
+      "conceptLink": "/ec2/concept/6004637"
+    }
+  },
+  {
+    "uri": "en/37/120892090",
+    "id": "120892090",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of road making machines",
+    "harm": {
+      "id": "0068182",
+      "title": "120892090 - Maintenance and repair of road making machines",
+      "conceptLink": "/ec2/concept/6004385"
+    }
+  },
+  {
+    "uri": "en/37/120892076",
+    "id": "120892076",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of agricultural machines",
+    "harm": {
+      "id": "0068181",
+      "title": "120892076 - Maintenance and repair of agricultural machines",
+      "conceptLink": "/ec2/concept/6004384"
+    }
+  },
+  {
+    "uri": "en/37/120879734",
+    "id": "120879734",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of camping equipment",
+    "harm": {
+      "id": "0068303",
+      "title": "120879734 - Maintenance and repair of camping equipment",
+      "conceptLink": "/ec2/concept/6004506"
+    }
+  },
+  {
+    "uri": "en/37/120892102",
+    "id": "120892102",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of earth moving machines",
+    "harm": {
+      "id": "0068184",
+      "title": "120892102 - Maintenance and repair of earth moving machines",
+      "conceptLink": "/ec2/concept/6004387"
+    }
+  },
+  {
+    "uri": "en/37/120892096",
+    "id": "120892096",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of road making equipment",
+    "harm": {
+      "id": "0068183",
+      "title": "120892096 - Maintenance and repair of road making equipment",
+      "conceptLink": "/ec2/concept/6004386"
+    }
+  },
+  {
+    "uri": "en/37/120879716",
+    "id": "120879716",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of garden tools",
+    "harm": {
+      "id": "0068306",
+      "title": "120879716 - Maintenance and repair of garden tools",
+      "conceptLink": "/ec2/concept/6004509"
+    }
+  },
+  {
+    "uri": "en/37/120879722",
+    "id": "120879722",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of cooling appliances and installations",
+    "harm": {
+      "id": "0068302",
+      "title": "120879722 - Maintenance and repair of cooling appliances and installations",
+      "conceptLink": "/ec2/concept/6004505"
+    }
+  },
+  {
+    "uri": "en/37/120892108",
+    "id": "120892108",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of earth moving equipment",
+    "harm": {
+      "id": "0068185",
+      "title": "120892108 - Maintenance and repair of earth moving equipment",
+      "conceptLink": "/ec2/concept/6004388"
+    }
+  },
+  {
+    "uri": "en/37/120879701",
+    "id": "120879701",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of bicycles",
+    "harm": {
+      "id": "0068305",
+      "title": "120879701 - Maintenance and repair of bicycles",
+      "conceptLink": "/ec2/concept/6004508"
+    }
+  },
+  {
+    "uri": "en/37/120879707",
+    "id": "120879707",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motorcycles",
+    "harm": {
+      "id": "0068304",
+      "title": "120879707 - Maintenance and repair of motorcycles",
+      "conceptLink": "/ec2/concept/6004507"
+    }
+  },
+  {
+    "uri": "en/37/120879683",
+    "id": "120879683",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of textile goods",
+    "harm": {
+      "id": "0068296",
+      "title": "120879683 - Maintenance and repair of textile goods",
+      "conceptLink": "/ec2/concept/6004499"
+    }
+  },
+  {
+    "uri": "en/37/120879489",
+    "id": "120879489",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of gymnastic and sporting articles",
+    "harm": {
+      "id": "0068295",
+      "title": "120879489 - Maintenance and repair of gymnastic and sporting articles",
+      "conceptLink": "/ec2/concept/6004498"
+    }
+  },
+  {
+    "uri": "en/37/106427655",
+    "id": "106427655",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of compressors",
+    "harm": {
+      "id": "0068357",
+      "title": "106427655 - Maintenance and repair of compressors",
+      "conceptLink": "/ec2/concept/6004560"
+    }
+  },
+  {
+    "uri": "en/37/6528709",
+    "id": "6528709",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of motor vehicles and parts thereof",
+    "harm": {
+      "id": "0068256",
+      "title": "6528709 - Maintenance and repair of motor vehicles and parts thereof",
+      "conceptLink": "/ec2/concept/6004459"
+    }
+  },
+  {
+    "uri": "en/37/120891761",
+    "id": "120891761",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of machines and machine tools for treating and processing metals",
+    "harm": {
+      "id": "0068164",
+      "title": "120891761 - Maintenance and repair of machines and machine tools for treating and processing metals",
+      "conceptLink": "/ec2/concept/6004367"
+    }
+  },
+  {
+    "uri": "en/37/120891767",
+    "id": "120891767",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of presses for processing metals",
+    "harm": {
+      "id": "0068163",
+      "title": "120891767 - Maintenance and repair of presses for processing metals",
+      "conceptLink": "/ec2/concept/6004366"
+    }
+  },
+  {
+    "uri": "en/37/51599317",
+    "id": "51599317",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of electronic installations",
+    "harm": {
+      "id": "0068194",
+      "title": "51599317 - Maintenance and repair of electronic installations",
+      "conceptLink": "/ec2/concept/6004397"
+    }
+  },
+  {
+    "uri": "en/37/120879361",
+    "id": "120879361",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of surgical instruments and apparatus",
+    "harm": {
+      "id": "0068335",
+      "title": "120879361 - Maintenance and repair of surgical instruments and apparatus",
+      "conceptLink": "/ec2/concept/6004538"
+    }
+  },
+  {
+    "uri": "en/37/120880418",
+    "id": "120880418",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of airplane motors and engines",
+    "harm": {
+      "id": "0068214",
+      "title": "120880418 - Maintenance and repair of airplane motors and engines",
+      "conceptLink": "/ec2/concept/6004417"
+    }
+  },
+  {
+    "uri": "en/37/120880338",
+    "id": "120880338",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of chassis parts and bodies for vehicles",
+    "harm": {
+      "id": "0068220",
+      "title": "120880338 - Maintenance and repair of chassis parts and bodies for vehicles",
+      "conceptLink": "/ec2/concept/6004423"
+    }
+  },
+  {
+    "uri": "en/37/120879236",
+    "id": "120879236",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of vacuum pumps",
+    "harm": {
+      "id": "0068319",
+      "title": "120879236 - Maintenance and repair of vacuum pumps",
+      "conceptLink": "/ec2/concept/6004522"
+    }
+  },
+  {
+    "uri": "en/37/35325584",
+    "id": "35325584",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of electronic apparatus",
+    "harm": {
+      "id": "0068193",
+      "title": "35325584 - Maintenance and repair of electronic apparatus",
+      "conceptLink": "/ec2/concept/6004396"
+    }
+  },
+  {
+    "uri": "en/37/120879330",
+    "id": "120879330",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of yachts",
+    "harm": {
+      "id": "0068337",
+      "title": "120879330 - Maintenance and repair of yachts",
+      "conceptLink": "/ec2/concept/6004540"
+    }
+  },
+  {
+    "uri": "en/37/120880228",
+    "id": "120880228",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of water vehicles",
+    "harm": {
+      "id": "0068210",
+      "title": "120880228 - Maintenance and repair of water vehicles",
+      "conceptLink": "/ec2/concept/6004413"
+    }
+  },
+  {
+    "uri": "en/37/120880155",
+    "id": "120880155",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of electricity generators",
+    "harm": {
+      "id": "0068237",
+      "title": "120880155 - Maintenance and repair of electricity generators",
+      "conceptLink": "/ec2/concept/6004440"
+    }
+  },
+  {
+    "uri": "en/37/71377706",
+    "id": "71377706",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of ships",
+    "harm": {
+      "id": "0068336",
+      "title": "71377706 - Maintenance and repair of ships",
+      "conceptLink": "/ec2/concept/6004539"
+    }
+  },
+  {
+    "uri": "en/37/120879185",
+    "id": "120879185",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of electronic display panels",
+    "harm": {
+      "id": "0068364",
+      "title": "120879185 - Maintenance and repair of electronic display panels",
+      "conceptLink": "/ec2/concept/6004567"
+    }
+  },
+  {
+    "uri": "en/37/120879179",
+    "id": "120879179",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of laser measuring apparatus",
+    "harm": {
+      "id": "0068365",
+      "title": "120879179 - Maintenance and repair of laser measuring apparatus",
+      "conceptLink": "/ec2/concept/6004568"
+    }
+  },
+  {
+    "uri": "en/37/367823",
+    "id": "367823",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of heating",
+    "harm": {
+      "id": "0019090",
+      "title": "367823 - Maintenance and repair of heating",
+      "conceptLink": "/ec2/concept/5968942"
+    }
+  },
+  {
+    "uri": "en/37/367822",
+    "id": "367822",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of heating installations",
+    "harm": {
+      "id": "0019090",
+      "title": "367822 - Maintenance and repair of heating installations",
+      "conceptLink": "/ec2/concept/5968942"
+    }
+  },
+  {
+    "uri": "en/37/453455",
+    "id": "453455",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of instruments",
+    "harm": {
+      "id": "0020814",
+      "title": "453455 - Maintenance and repair of instruments",
+      "conceptLink": "/ec2/concept/5970510"
+    }
+  },
+  {
+    "uri": "en/37/368649",
+    "id": "368649",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of lifts",
+    "harm": {
+      "id": "0021990",
+      "title": "368649 - Maintenance and repair of lifts",
+      "conceptLink": "/ec2/concept/5971583"
+    }
+  },
+  {
+    "uri": "en/37/369458",
+    "id": "369458",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of water purifying plants",
+    "harm": {
+      "id": "0032362",
+      "title": "369458 - Maintenance and repair of water purifying plants",
+      "conceptLink": "/ec2/concept/5981069"
+    }
+  },
+  {
+    "uri": "en/37/821001",
+    "id": "821001",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of flooring",
+    "harm": {
+      "id": "0043829",
+      "title": "821001 - Maintenance and repair of flooring",
+      "conceptLink": "/ec2/concept/5991522"
+    }
+  },
+  {
+    "uri": "en/37/820902",
+    "id": "820902",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of aircraft weapons",
+    "harm": {
+      "id": "0043827",
+      "title": "820902 - Maintenance and repair of aircraft weapons",
+      "conceptLink": "/ec2/concept/5991520"
+    }
+  },
+  {
+    "uri": "en/37/820973",
+    "id": "820973",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of data communications networks",
+    "harm": {
+      "id": "0043828",
+      "title": "820973 - Maintenance and repair of data communications networks",
+      "conceptLink": "/ec2/concept/5991521"
+    }
+  },
+  {
+    "uri": "en/37/36403",
+    "id": "36403",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of vehicles",
+    "harm": {
+      "id": "0059355",
+      "title": "36403 - Maintenance and repair of vehicles",
+      "conceptLink": "/ec2/concept/6000837"
+    }
+  },
+  {
+    "uri": "en/37/120879483",
+    "id": "120879483",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of sports and fitness equipment",
+    "harm": {
+      "id": "0068294",
+      "title": "120879483 - Maintenance and repair of sports and fitness equipment",
+      "conceptLink": "/ec2/concept/6004497"
+    }
+  },
+  {
+    "uri": "en/37/14172873",
+    "id": "14172873",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of electric vehicles",
+    "harm": {
+      "id": "0068209",
+      "title": "14172873 - Maintenance and repair of electric vehicles",
+      "conceptLink": "/ec2/concept/6004412"
+    }
+  },
+  {
+    "uri": "en/37/821072",
+    "id": "821072",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of parts and fittings for buildings",
+    "harm": {
+      "id": "0045061",
+      "title": "821072 - Maintenance and repair of parts and fittings for buildings",
+      "conceptLink": "/ec2/concept/5992654"
+    }
+  },
+  {
+    "uri": "en/37/897324",
+    "id": "897324",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of systems incorporating hoses which convey fluid",
+    "harm": {
+      "id": "0044345",
+      "title": "897324 - Maintenance and repair of systems incorporating hoses which convey fluid",
+      "conceptLink": "/ec2/concept/5991993"
+    }
+  },
+  {
+    "uri": "en/37/120822745",
+    "id": "120822745",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of automobiles",
+    "harm": {
+      "id": "0059358",
+      "title": "120822745 - Maintenance and repair of automobiles",
+      "conceptLink": "/ec2/concept/6000840"
+    }
+  },
+  {
+    "uri": "en/37/119694017",
+    "id": "119694017",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of strong rooms",
+    "harm": {
+      "id": "0058514",
+      "title": "119694017 - Maintenance and repair of strong rooms",
+      "conceptLink": "/ec2/concept/6000013"
+    }
+  },
+  {
+    "uri": "en/37/119694067",
+    "id": "119694067",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of airplanes",
+    "harm": {
+      "id": "0057870",
+      "title": "119694067 - Maintenance and repair of airplanes",
+      "conceptLink": "/ec2/concept/5999374"
+    }
+  },
+  {
+    "uri": "en/37/119694066",
+    "id": "119694066",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair of aeroplanes",
+    "harm": {
+      "id": "0057870",
+      "title": "119694066 - Maintenance and repair of aeroplanes",
+      "conceptLink": "/ec2/concept/5999374"
+    }
+  },
+  {
+    "uri": "en/37/821214",
+    "id": "821214",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair services relating to automatic door equipment",
+    "harm": {
+      "id": "0015586",
+      "title": "821214 - Maintenance and repair services relating to automatic door equipment",
+      "conceptLink": "/ec2/concept/5965727"
+    }
+  },
+  {
+    "uri": "en/37/821241",
+    "id": "821241",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair services relating to the air transport industry",
+    "harm": {
+      "id": "0038677",
+      "title": "821241 - Maintenance and repair services relating to the air transport industry",
+      "conceptLink": "/ec2/concept/5986823"
+    }
+  },
+  {
+    "uri": "en/37/821199",
+    "id": "821199",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair services relating to automatic barriers",
+    "harm": {
+      "id": "0032878",
+      "title": "821199 - Maintenance and repair services relating to automatic barriers",
+      "conceptLink": "/ec2/concept/5981540"
+    }
+  },
+  {
+    "uri": "en/37/821228",
+    "id": "821228",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and repair services relating to door closers",
+    "harm": {
+      "id": "0004027",
+      "title": "821228 - Maintenance and repair services relating to door closers",
+      "conceptLink": "/ec2/concept/5955128"
+    }
+  },
+  {
+    "uri": "en/37/120882309",
+    "id": "120882309",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and restoration of works of art",
+    "harm": {
+      "id": "0068419",
+      "title": "120882309 - Maintenance and restoration of works of art",
+      "conceptLink": "/ec2/concept/6004622"
+    }
+  },
+  {
+    "uri": "en/37/821269",
+    "id": "821269",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and servicing of security alarms",
+    "harm": {
+      "id": "0037962",
+      "title": "821269 - Maintenance and servicing of security alarms",
+      "conceptLink": "/ec2/concept/5986163"
+    }
+  },
+  {
+    "uri": "en/37/821255",
+    "id": "821255",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance and servicing of fire alarm systems",
+    "harm": {
+      "id": "0044437",
+      "title": "821255 - Maintenance and servicing of fire alarm systems",
+      "conceptLink": "/ec2/concept/5992081"
+    }
+  },
+  {
+    "uri": "en/37/812856",
+    "id": "812856",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of aircraft",
+    "harm": {
+      "id": "0025319",
+      "title": "812856 - Maintenance of aircraft",
+      "conceptLink": "/ec2/concept/5974635"
+    }
+  },
+  {
+    "uri": "en/37/119551059",
+    "id": "119551059",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of aquariums",
+    "harm": {
+      "id": "0068454",
+      "title": "119551059 - Maintenance of aquariums",
+      "conceptLink": "/ec2/concept/6004657"
+    }
+  },
+  {
+    "uri": "en/37/821297",
+    "id": "821297",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of automata",
+    "harm": {
+      "id": "0043718",
+      "title": "821297 - Maintenance of automata",
+      "conceptLink": "/ec2/concept/5991419"
+    }
+  },
+  {
+    "uri": "en/37/821310",
+    "id": "821310",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of beverage processing apparatus",
+    "harm": {
+      "id": "0026378",
+      "title": "821310 - Maintenance of beverage processing apparatus",
+      "conceptLink": "/ec2/concept/5975607"
+    }
+  },
+  {
+    "uri": "en/37/813649",
+    "id": "813649",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of buildings",
+    "harm": {
+      "id": "0040800",
+      "title": "813649 - Maintenance of buildings",
+      "conceptLink": "/ec2/concept/5988763"
+    }
+  },
+  {
+    "uri": "en/37/821322",
+    "id": "821322",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of catering equipment",
+    "harm": {
+      "id": "0009042",
+      "title": "821322 - Maintenance of catering equipment",
+      "conceptLink": "/ec2/concept/5959731"
+    }
+  },
+  {
+    "uri": "en/37/821338",
+    "id": "821338",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of cleaning machines",
+    "harm": {
+      "id": "0026379",
+      "title": "821338 - Maintenance of cleaning machines",
+      "conceptLink": "/ec2/concept/5975608"
+    }
+  },
+  {
+    "uri": "en/37/821353",
+    "id": "821353",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of commercial electrical systems",
+    "harm": {
+      "id": "0037963",
+      "title": "821353 - Maintenance of commercial electrical systems",
+      "conceptLink": "/ec2/concept/5986164"
+    }
+  },
+  {
+    "uri": "en/37/120891786",
+    "id": "120891786",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of communications equipment",
+    "harm": {
+      "id": "0068162",
+      "title": "120891786 - Maintenance of communications equipment",
+      "conceptLink": "/ec2/concept/6004365"
+    }
+  },
+  {
+    "uri": "en/37/905040",
+    "id": "905040",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of computer hardware",
+    "harm": {
+      "id": "0046097",
+      "title": "905040 - Maintenance of computer hardware",
+      "conceptLink": "/ec2/concept/5993608"
+    }
+  },
+  {
+    "uri": "en/37/815472",
+    "id": "815472",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of computers",
+    "harm": {
+      "id": "0014887",
+      "title": "815472 - Maintenance of computers",
+      "conceptLink": "/ec2/concept/5965087"
+    }
+  },
+  {
+    "uri": "en/37/119551064",
+    "id": "119551064",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Maintenance of consumer electric appliances",
+    "harm": {
+      "id": "0056653",
+      "title": "119551064 - Maintenance of consumer electric appliances",
+      "conceptLink": "/ec2/concept/5997948"
+    }
+  }
+]

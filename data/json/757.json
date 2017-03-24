@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/869007",
+    "id": "869007",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Explosives engineering services",
+    "harm": {
+      "id": "0011385",
+      "title": "869007 - Explosives engineering services",
+      "conceptLink": "/ec2/concept/5961874"
+    }
+  },
+  {
+    "uri": "en/42/63833",
+    "id": "63833",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Fashion design",
+    "harm": {
+      "id": "0071895",
+      "title": "63833 - Fashion design",
+      "conceptLink": "/ec2/concept/6008079"
+    }
+  },
+  {
+    "uri": "en/42/903647",
+    "id": "903647",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Fashion design consulting services",
+    "harm": {
+      "id": "0040972",
+      "title": "903647 - Fashion design consulting services",
+      "conceptLink": "/ec2/concept/5988917"
+    }
+  },
+  {
+    "uri": "en/42/869033",
+    "id": "869033",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Feasibility studies relating to material analysis",
+    "harm": {
+      "id": "0011386",
+      "title": "869033 - Feasibility studies relating to material analysis",
+      "conceptLink": "/ec2/concept/5961875"
+    }
+  },
+  {
+    "uri": "en/42/869046",
+    "id": "869046",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Feasibility study services relating to computer software",
+    "harm": {
+      "id": "0005666",
+      "title": "869046 - Feasibility study services relating to computer software",
+      "conceptLink": "/ec2/concept/5956646"
+    }
+  },
+  {
+    "uri": "en/42/869060",
+    "id": "869060",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Feasibility study services relating to computers",
+    "harm": {
+      "id": "0028709",
+      "title": "869060 - Feasibility study services relating to computers",
+      "conceptLink": "/ec2/concept/5977744"
+    }
+  },
+  {
+    "uri": "en/42/452866",
+    "id": "452866",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Food sanitation consultation",
+    "harm": {
+      "id": "0046032",
+      "title": "452866 - Food sanitation consultation",
+      "conceptLink": "/ec2/concept/5993547"
+    }
+  },
+  {
+    "uri": "en/42/903865",
+    "id": "903865",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Footwear design services",
+    "harm": {
+      "id": "0009793",
+      "title": "903865 - Footwear design services",
+      "conceptLink": "/ec2/concept/5960420"
+    }
+  },
+  {
+    "uri": "en/42/62708",
+    "id": "62708",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Forecasting (Weather -)",
+    "harm": {
+      "id": "0072502",
+      "title": "62708 - Forecasting (Weather -)",
+      "conceptLink": "/ec2/concept/6008679"
+    }
+  },
+  {
+    "uri": "en/42/869099",
+    "id": "869099",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Forensic advice relating to marine accidents",
+    "harm": {
+      "id": "0034504",
+      "title": "869099 - Forensic advice relating to marine accidents",
+      "conceptLink": "/ec2/concept/5983032"
+    }
+  },
+  {
+    "uri": "en/42/869073",
+    "id": "869073",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Forensic advice relating to damage assessment",
+    "harm": {
+      "id": "0034503",
+      "title": "869073 - Forensic advice relating to damage assessment",
+      "conceptLink": "/ec2/concept/5983031"
+    }
+  },
+  {
+    "uri": "en/42/869085",
+    "id": "869085",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Forensic advice relating to explosions",
+    "harm": {
+      "id": "0023057",
+      "title": "869085 - Forensic advice relating to explosions",
+      "conceptLink": "/ec2/concept/5972553"
+    }
+  },
+  {
+    "uri": "en/42/869168",
+    "id": "869168",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furnishing design services for the interiors of ships",
+    "harm": {
+      "id": "0021391",
+      "title": "869168 - Furnishing design services for the interiors of ships",
+      "conceptLink": "/ec2/concept/5971032"
+    }
+  },
+  {
+    "uri": "en/42/869139",
+    "id": "869139",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furnishing design services for the interiors of automobiles",
+    "harm": {
+      "id": "0038581",
+      "title": "869139 - Furnishing design services for the interiors of automobiles",
+      "conceptLink": "/ec2/concept/5986739"
+    }
+  },
+  {
+    "uri": "en/42/869111",
+    "id": "869111",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furnishing design services",
+    "harm": {
+      "id": "0006012",
+      "title": "869111 - Furnishing design services",
+      "conceptLink": "/ec2/concept/5956961"
+    }
+  },
+  {
+    "uri": "en/42/869152",
+    "id": "869152",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furnishing design services for the interiors of buildings",
+    "harm": {
+      "id": "0027032",
+      "title": "869152 - Furnishing design services for the interiors of buildings",
+      "conceptLink": "/ec2/concept/5976195"
+    }
+  },
+  {
+    "uri": "en/42/869125",
+    "id": "869125",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furnishing design services for the interiors of aircraft",
+    "harm": {
+      "id": "0045994",
+      "title": "869125 - Furnishing design services for the interiors of aircraft",
+      "conceptLink": "/ec2/concept/5993511"
+    }
+  },
+  {
+    "uri": "en/42/865960",
+    "id": "865960",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Furniture design",
+    "harm": {
+      "id": "0006012",
+      "title": "865960 - Furniture design",
+      "conceptLink": "/ec2/concept/5956961"
+    }
+  },
+  {
+    "uri": "en/42/891426",
+    "id": "891426",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Gas exploration",
+    "harm": {
+      "id": "0018685",
+      "title": "891426 - Gas exploration",
+      "conceptLink": "/ec2/concept/5968567"
+    }
+  },
+  {
+    "uri": "en/42/137884099",
+    "id": "137884099",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic engineering services relating to plants",
+    "harm": {
+      "id": "0051572",
+      "title": "137884099 - Genetic engineering services relating to plants",
+      "conceptLink": "/ec2/concept/6010558"
+    }
+  },
+  {
+    "uri": "en/42/120877388",
+    "id": "120877388",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic engineering services",
+    "harm": {
+      "id": "0069199",
+      "title": "120877388 - Genetic engineering services",
+      "conceptLink": "/ec2/concept/6005402"
+    }
+  },
+  {
+    "uri": "en/42/869193",
+    "id": "869193",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic fingerprinting",
+    "harm": {
+      "id": "0044366",
+      "title": "869193 - Genetic fingerprinting",
+      "conceptLink": "/ec2/concept/5992013"
+    }
+  },
+  {
+    "uri": "en/42/869208",
+    "id": "869208",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic research",
+    "harm": {
+      "id": "0032781",
+      "title": "869208 - Genetic research",
+      "conceptLink": "/ec2/concept/5981454"
+    }
+  },
+  {
+    "uri": "en/42/119554833",
+    "id": "119554833",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic testing for scientific research purposes",
+    "harm": {
+      "id": "0042259",
+      "title": "119554833 - Genetic testing for scientific research purposes",
+      "conceptLink": "/ec2/concept/5990093"
+    }
+  },
+  {
+    "uri": "en/42/119554834",
+    "id": "119554834",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Genetic testing of laboratory animals for research purposes",
+    "harm": {
+      "id": "0071425",
+      "title": "119554834 - Genetic testing of laboratory animals for research purposes",
+      "conceptLink": "/ec2/concept/6007616"
+    }
+  },
+  {
+    "uri": "en/42/472546",
+    "id": "472546",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geo-seismic survey services",
+    "harm": {
+      "id": "0040196",
+      "title": "472546 - Geo-seismic survey services",
+      "conceptLink": "/ec2/concept/5988212"
+    }
+  },
+  {
+    "uri": "en/42/472492",
+    "id": "472492",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological estimation and research",
+    "harm": {
+      "id": "0032782",
+      "title": "472492 - Geological estimation and research",
+      "conceptLink": "/ec2/concept/5981455"
+    }
+  },
+  {
+    "uri": "en/42/472493",
+    "id": "472493",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological estimations and research",
+    "harm": {
+      "id": "0032782",
+      "title": "472493 - Geological estimations and research",
+      "conceptLink": "/ec2/concept/5981455"
+    }
+  },
+  {
+    "uri": "en/42/39997472",
+    "id": "39997472",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological exploration",
+    "harm": {
+      "id": "0071381",
+      "title": "39997472 - Geological exploration",
+      "conceptLink": "/ec2/concept/6007572"
+    }
+  },
+  {
+    "uri": "en/42/869222",
+    "id": "869222",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological probing of building plots",
+    "harm": {
+      "id": "0027034",
+      "title": "869222 - Geological probing of building plots",
+      "conceptLink": "/ec2/concept/5976196"
+    }
+  },
+  {
+    "uri": "en/42/62419",
+    "id": "62419",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological prospecting",
+    "harm": {
+      "id": "0007163",
+      "title": "62419 - Geological prospecting",
+      "conceptLink": "/ec2/concept/5958009"
+    }
+  },
+  {
+    "uri": "en/42/62416",
+    "id": "62416",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological research",
+    "harm": {
+      "id": "0058855",
+      "title": "62416 - Geological research",
+      "conceptLink": "/ec2/concept/6000346"
+    }
+  },
+  {
+    "uri": "en/42/62421",
+    "id": "62421",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological surveying",
+    "harm": {
+      "id": "0058854",
+      "title": "62421 - Geological surveying",
+      "conceptLink": "/ec2/concept/6000345"
+    }
+  },
+  {
+    "uri": "en/42/62423",
+    "id": "62423",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological surveys",
+    "harm": {
+      "id": "0058854",
+      "title": "62423 - Geological surveys",
+      "conceptLink": "/ec2/concept/6000345"
+    }
+  },
+  {
+    "uri": "en/42/374848",
+    "id": "374848",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological surveys or research",
+    "harm": {
+      "id": "0027419",
+      "title": "374848 - Geological surveys or research",
+      "conceptLink": "/ec2/concept/5976544"
+    }
+  },
+  {
+    "uri": "en/42/869235",
+    "id": "869235",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geological testing of building plots",
+    "harm": {
+      "id": "0032783",
+      "title": "869235 - Geological testing of building plots",
+      "conceptLink": "/ec2/concept/5981456"
+    }
+  },
+  {
+    "uri": "en/42/904029",
+    "id": "904029",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical exploration for the gas industry",
+    "harm": {
+      "id": "0034688",
+      "title": "904029 - Geophysical exploration for the gas industry",
+      "conceptLink": "/ec2/concept/5983193"
+    }
+  },
+  {
+    "uri": "en/42/472509",
+    "id": "472509",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical exploration for the oil, gas and mining industries",
+    "harm": {
+      "id": "0022982",
+      "title": "472509 - Geophysical exploration for the oil, gas and mining industries",
+      "conceptLink": "/ec2/concept/5972486"
+    }
+  },
+  {
+    "uri": "en/42/904057",
+    "id": "904057",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical exploration for the oil industry",
+    "harm": {
+      "id": "0040484",
+      "title": "904057 - Geophysical exploration for the oil industry",
+      "conceptLink": "/ec2/concept/5988473"
+    }
+  },
+  {
+    "uri": "en/42/904043",
+    "id": "904043",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical exploration for the mining industry",
+    "harm": {
+      "id": "0040483",
+      "title": "904043 - Geophysical exploration for the mining industry",
+      "conceptLink": "/ec2/concept/5988472"
+    }
+  },
+  {
+    "uri": "en/42/472525",
+    "id": "472525",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical exploration services",
+    "harm": {
+      "id": "0005585",
+      "title": "472525 - Geophysical exploration services",
+      "conceptLink": "/ec2/concept/5956576"
+    }
+  },
+  {
+    "uri": "en/42/869252",
+    "id": "869252",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical research services",
+    "harm": {
+      "id": "0047039",
+      "title": "869252 - Geophysical research services",
+      "conceptLink": "/ec2/concept/5994418"
+    }
+  },
+  {
+    "uri": "en/42/869253",
+    "id": "869253",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Geophysical surveys",
+    "harm": {
+      "id": "0021392",
+      "title": "869253 - Geophysical surveys",
+      "conceptLink": "/ec2/concept/5971033"
+    }
+  },
+  {
+    "uri": "en/42/137743923",
+    "id": "137743923",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Grading of coins",
+    "harm": {
+      "id": "0051400",
+      "title": "137743923 - Grading of coins",
+      "conceptLink": "/ec2/concept/6010386"
+    }
+  },
+  {
+    "uri": "en/42/119554846",
+    "id": "119554846",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Grading of lumber",
+    "harm": {
+      "id": "0051719",
+      "title": "119554846 - Grading of lumber",
+      "conceptLink": "/ec2/concept/6010705"
+    }
+  },
+  {
+    "uri": "en/42/137743920",
+    "id": "137743920",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Grading of precious stones",
+    "harm": {
+      "id": "0051401",
+      "title": "137743920 - Grading of precious stones",
+      "conceptLink": "/ec2/concept/6010387"
+    }
+  },
+  {
+    "uri": "en/42/63980",
+    "id": "63980",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic art design",
+    "harm": {
+      "id": "0058637",
+      "title": "63980 - Graphic art design",
+      "conceptLink": "/ec2/concept/6000130"
+    }
+  },
+  {
+    "uri": "en/42/63991",
+    "id": "63991",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic art services",
+    "harm": {
+      "id": "0058637",
+      "title": "63991 - Graphic art services",
+      "conceptLink": "/ec2/concept/6000130"
+    }
+  },
+  {
+    "uri": "en/42/4509890",
+    "id": "4509890",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic arts design",
+    "harm": {
+      "id": "0058637",
+      "title": "4509890 - Graphic arts design",
+      "conceptLink": "/ec2/concept/6000130"
+    }
+  },
+  {
+    "uri": "en/42/63983",
+    "id": "63983",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic arts designing",
+    "harm": {
+      "id": "0058637",
+      "title": "63983 - Graphic arts designing",
+      "conceptLink": "/ec2/concept/6000130"
+    }
+  },
+  {
+    "uri": "en/42/63986",
+    "id": "63986",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic design",
+    "harm": {
+      "id": "0058636",
+      "title": "63986 - Graphic design",
+      "conceptLink": "/ec2/concept/6000129"
+    }
+  },
+  {
+    "uri": "en/42/472629",
+    "id": "472629",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic design for the compilation of web pages on the internet",
+    "harm": {
+      "id": "0011320",
+      "title": "472629 - Graphic design for the compilation of web pages on the internet",
+      "conceptLink": "/ec2/concept/5961817"
+    }
+  },
+  {
+    "uri": "en/42/472650",
+    "id": "472650",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic design services",
+    "harm": {
+      "id": "0058636",
+      "title": "472650 - Graphic design services",
+      "conceptLink": "/ec2/concept/6000129"
+    }
+  },
+  {
+    "uri": "en/42/63987",
+    "id": "63987",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic designing",
+    "harm": {
+      "id": "0058636",
+      "title": "63987 - Graphic designing",
+      "conceptLink": "/ec2/concept/6000129"
+    }
+  },
+  {
+    "uri": "en/42/137743933",
+    "id": "137743933",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic illustration design",
+    "harm": {
+      "id": "0051402",
+      "title": "137743933 - Graphic illustration design",
+      "conceptLink": "/ec2/concept/6010388"
+    }
+  },
+  {
+    "uri": "en/42/904198",
+    "id": "904198",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Graphic illustration services for others",
+    "harm": {
+      "id": "0013582",
+      "title": "904198 - Graphic illustration services for others",
+      "conceptLink": "/ec2/concept/5963882"
+    }
+  },
+  {
+    "uri": "en/42/904222",
+    "id": "904222",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Greenhouse gas emission measuring and analysis",
+    "harm": {
+      "id": "0007730",
+      "title": "904222 - Greenhouse gas emission measuring and analysis",
+      "conceptLink": "/ec2/concept/5958530"
+    }
+  },
+  {
+    "uri": "en/42/136317903",
+    "id": "136317903",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hand writing analysis (graphology)",
+    "harm": {
+      "id": "0008067",
+      "title": "136317903 - Hand writing analysis (graphology)",
+      "conceptLink": "/ec2/concept/5958841"
+    }
+  },
+  {
+    "uri": "en/42/912068",
+    "id": "912068",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Handwriting analysis [graphology]",
+    "harm": {
+      "id": "0008067",
+      "title": "912068 - Handwriting analysis [graphology]",
+      "conceptLink": "/ec2/concept/5958841"
+    }
+  },
+  {
+    "uri": "en/42/471842",
+    "id": "471842",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hardware design",
+    "harm": {
+      "id": "0023385",
+      "title": "471842 - Hardware design",
+      "conceptLink": "/ec2/concept/5972859"
+    }
+  },
+  {
+    "uri": "en/42/137760313",
+    "id": "137760313",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hat design",
+    "harm": {
+      "id": "0071426",
+      "title": "137760313 - Hat design",
+      "conceptLink": "/ec2/concept/6007617"
+    }
+  },
+  {
+    "uri": "en/42/64219",
+    "id": "64219",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hire of computer programs",
+    "harm": {
+      "id": "0057846",
+      "title": "64219 - Hire of computer programs",
+      "conceptLink": "/ec2/concept/5999350"
+    }
+  },
+  {
+    "uri": "en/42/62936",
+    "id": "62936",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hire of computers",
+    "harm": {
+      "id": "0059221",
+      "title": "62936 - Hire of computers",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/869277",
+    "id": "869277",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hiring of computer firmware",
+    "harm": {
+      "id": "0015511",
+      "title": "869277 - Hiring of computer firmware",
+      "conceptLink": "/ec2/concept/5965656"
+    }
+  },
+  {
+    "uri": "en/42/64220",
+    "id": "64220",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hiring of computer programs",
+    "harm": {
+      "id": "0057846",
+      "title": "64220 - Hiring of computer programs",
+      "conceptLink": "/ec2/concept/5999350"
+    }
+  },
+  {
+    "uri": "en/42/64222",
+    "id": "64222",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hiring of computer software",
+    "harm": {
+      "id": "0057847",
+      "title": "64222 - Hiring of computer software",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/62934",
+    "id": "62934",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hiring out data processing equipment",
+    "harm": {
+      "id": "0059221",
+      "title": "62934 - Hiring out data processing equipment",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/899659",
+    "id": "899659",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Home inspection services [surveying]",
+    "harm": {
+      "id": "0008596",
+      "title": "899659 - Home inspection services [surveying]",
+      "conceptLink": "/ec2/concept/5959315"
+    }
+  },
+  {
+    "uri": "en/42/904339",
+    "id": "904339",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Homepage and webpage design",
+    "harm": {
+      "id": "0006721",
+      "title": "904339 - Homepage and webpage design",
+      "conceptLink": "/ec2/concept/5957609"
+    }
+  },
+  {
+    "uri": "en/42/137858204",
+    "id": "137858204",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting a website for the electronic storage of digital photographs and videos",
+    "harm": {
+      "id": "0071428",
+      "title": "137858204 - Hosting a website for the electronic storage of digital photographs and videos",
+      "conceptLink": "/ec2/concept/6007619"
+    }
+  },
+  {
+    "uri": "en/42/120887339",
+    "id": "120887339",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting an online website for creating and hosting micro websites for businesses",
+    "harm": {
+      "id": "0069106",
+      "title": "120887339 - Hosting an online website for creating and hosting micro websites for businesses",
+      "conceptLink": "/ec2/concept/6005309"
+    }
+  },
+  {
+    "uri": "en/42/120875760",
+    "id": "120875760",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting and rental of memory space for websites",
+    "harm": {
+      "id": "0069425",
+      "title": "120875760 - Hosting and rental of memory space for websites",
+      "conceptLink": "/ec2/concept/6005628"
+    }
+  },
+  {
+    "uri": "en/42/5250808",
+    "id": "5250808",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting computer sites",
+    "harm": {
+      "id": "0058965",
+      "title": "5250808 - Hosting computer sites",
+      "conceptLink": "/ec2/concept/6000456"
+    }
+  },
+  {
+    "uri": "en/42/65158",
+    "id": "65158",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting computer sites [websites]",
+    "harm": {
+      "id": "0058965",
+      "title": "65158 - Hosting computer sites [websites]",
+      "conceptLink": "/ec2/concept/6000456"
+    }
+  },
+  {
+    "uri": "en/42/65153",
+    "id": "65153",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting computer sites [web sites]",
+    "harm": {
+      "id": "0058965",
+      "title": "65153 - Hosting computer sites [web sites]",
+      "conceptLink": "/ec2/concept/6000456"
+    }
+  },
+  {
+    "uri": "en/42/120877729",
+    "id": "120877729",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting electronic memory space on the Internet for advertising goods and services",
+    "harm": {
+      "id": "0069295",
+      "title": "120877729 - Hosting electronic memory space on the Internet for advertising goods and services",
+      "conceptLink": "/ec2/concept/6005498"
+    }
+  },
+  {
+    "uri": "en/42/119554864",
+    "id": "119554864",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting internet sites for others",
+    "harm": {
+      "id": "0002109",
+      "title": "119554864 - Hosting internet sites for others",
+      "conceptLink": "/ec2/concept/5953385"
+    }
+  },
+  {
+    "uri": "en/42/137896724",
+    "id": "137896724",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting memory space for websites",
+    "harm": {
+      "id": "0051464",
+      "title": "137896724 - Hosting memory space for websites",
+      "conceptLink": "/ec2/concept/6010450"
+    }
+  },
+  {
+    "uri": "en/42/120878185",
+    "id": "120878185",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting memory space on the Internet",
+    "harm": {
+      "id": "0069352",
+      "title": "120878185 - Hosting memory space on the Internet",
+      "conceptLink": "/ec2/concept/6005555"
+    }
+  },
+  {
+    "uri": "en/42/137897187",
+    "id": "137897187",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting multimedia educational content",
+    "harm": {
+      "id": "0051477",
+      "title": "137897187 - Hosting multimedia educational content",
+      "conceptLink": "/ec2/concept/6010463"
+    }
+  },
+  {
+    "uri": "en/42/137897184",
+    "id": "137897184",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting multimedia entertainment content",
+    "harm": {
+      "id": "0051478",
+      "title": "137897184 - Hosting multimedia entertainment content",
+      "conceptLink": "/ec2/concept/6010464"
+    }
+  },
+  {
+    "uri": "en/42/120877322",
+    "id": "120877322",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of computerized data, files, applications and information",
+    "harm": {
+      "id": "0069210",
+      "title": "120877322 - Hosting of computerized data, files, applications and information",
+      "conceptLink": "/ec2/concept/6005413"
+    }
+  },
+  {
+    "uri": "en/42/120878358",
+    "id": "120878358",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of customized web pages",
+    "harm": {
+      "id": "0069329",
+      "title": "120878358 - Hosting of customized web pages",
+      "conceptLink": "/ec2/concept/6005532"
+    }
+  },
+  {
+    "uri": "en/42/83225722",
+    "id": "83225722",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of databases",
+    "harm": {
+      "id": "0069412",
+      "title": "83225722 - Hosting of databases",
+      "conceptLink": "/ec2/concept/6005615"
+    }
+  },
+  {
+    "uri": "en/42/505492",
+    "id": "505492",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of digital content, namely, on-line journals and blogs",
+    "harm": {
+      "id": "0009292",
+      "title": "505492 - Hosting of digital content, namely, on-line journals and blogs",
+      "conceptLink": "/ec2/concept/5959965"
+    }
+  },
+  {
+    "uri": "en/42/120877673",
+    "id": "120877673",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of e-commerce platforms on the Internet",
+    "harm": {
+      "id": "0069299",
+      "title": "120877673 - Hosting of e-commerce platforms on the Internet",
+      "conceptLink": "/ec2/concept/6005502"
+    }
+  },
+  {
+    "uri": "en/42/120876752",
+    "id": "120876752",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of memory space on the Internet for storing digital photographs",
+    "harm": {
+      "id": "0069146",
+      "title": "120876752 - Hosting of memory space on the Internet for storing digital photographs",
+      "conceptLink": "/ec2/concept/6005349"
+    }
+  },
+  {
+    "uri": "en/42/103456594",
+    "id": "103456594",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of multimedia content for others",
+    "harm": {
+      "id": "0073079",
+      "title": "103456594 - Hosting of multimedia content for others",
+      "conceptLink": "/ec2/concept/6009252"
+    }
+  },
+  {
+    "uri": "en/42/137613059",
+    "id": "137613059",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of platforms on the Internet",
+    "harm": {
+      "id": "0069351",
+      "title": "137613059 - Hosting of platforms on the Internet",
+      "conceptLink": "/ec2/concept/6005554"
+    }
+  },
+  {
+    "uri": "en/42/136636053",
+    "id": "136636053",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of podcasts",
+    "harm": {
+      "id": "0060191",
+      "title": "136636053 - Hosting of podcasts",
+      "conceptLink": "/ec2/concept/5996453"
+    }
+  },
+  {
+    "uri": "en/42/120877933",
+    "id": "120877933",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of software for use in library management",
+    "harm": {
+      "id": "0069378",
+      "title": "120877933 - Hosting of software for use in library management",
+      "conceptLink": "/ec2/concept/6005581"
+    }
+  },
+  {
+    "uri": "en/42/904390",
+    "id": "904390",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of web sites",
+    "harm": {
+      "id": "0058964",
+      "title": "904390 - Hosting of web sites",
+      "conceptLink": "/ec2/concept/6000455"
+    }
+  },
+  {
+    "uri": "en/42/887267",
+    "id": "887267",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting of websites",
+    "harm": {
+      "id": "0058964",
+      "title": "887267 - Hosting of websites",
+      "conceptLink": "/ec2/concept/6000455"
+    }
+  },
+  {
+    "uri": "en/42/102839793",
+    "id": "102839793",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting on-line web facilities for others",
+    "harm": {
+      "id": "0069107",
+      "title": "102839793 - Hosting on-line web facilities for others",
+      "conceptLink": "/ec2/concept/6005310"
+    }
+  },
+  {
+    "uri": "en/42/99565285",
+    "id": "99565285",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting online facilities for conducting interactive discussions",
+    "harm": {
+      "id": "0069196",
+      "title": "99565285 - Hosting online facilities for conducting interactive discussions",
+      "conceptLink": "/ec2/concept/6005399"
+    }
+  },
+  {
+    "uri": "en/42/137885295",
+    "id": "137885295",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting online web facilities for others for sharing online content",
+    "harm": {
+      "id": "0051565",
+      "title": "137885295 - Hosting online web facilities for others for sharing online content",
+      "conceptLink": "/ec2/concept/6010551"
+    }
+  },
+  {
+    "uri": "en/42/137885307",
+    "id": "137885307",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting online web facilities for others for conducting interactive discussions",
+    "harm": {
+      "id": "0051566",
+      "title": "137885307 - Hosting online web facilities for others for conducting interactive discussions",
+      "conceptLink": "/ec2/concept/6010552"
+    }
+  },
+  {
+    "uri": "en/42/120878189",
+    "id": "120878189",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting platforms on the Internet",
+    "harm": {
+      "id": "0069351",
+      "title": "120878189 - Hosting platforms on the Internet",
+      "conceptLink": "/ec2/concept/6005554"
+    }
+  },
+  {
+    "uri": "en/42/131141351",
+    "id": "131141351",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting services and software as a service and rental of software",
+    "harm": {
+      "id": "0048034",
+      "title": "131141351 - Hosting services and software as a service and rental of software",
+      "conceptLink": "/ec2/concept/5995293"
+    }
+  },
+  {
+    "uri": "en/42/869289",
+    "id": "869289",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Hosting the computer sites (web sites) of others",
+    "harm": {
+      "id": "0021393",
+      "title": "869289 - Hosting the computer sites (web sites) of others",
+      "conceptLink": "/ec2/concept/5971034"
+    }
+  }
+]

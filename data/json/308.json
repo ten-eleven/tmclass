@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/138394433",
+    "id": "138394433",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted covers for portable fireplaces",
+    "harm": {
+      "id": "0070307",
+      "title": "138394433 - Fitted covers for portable fireplaces",
+      "conceptLink": "/ec2/concept/6006500"
+    }
+  },
+  {
+    "uri": "en/11/137906558",
+    "id": "137906558",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted fabric covers for garment steamer heads",
+    "harm": {
+      "id": "0074063",
+      "title": "137906558 - Fitted fabric covers for garment steamer heads",
+      "conceptLink": "/ec2/concept/6011299"
+    }
+  },
+  {
+    "uri": "en/11/137906627",
+    "id": "137906627",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted fabric covers for hot water bottles",
+    "harm": {
+      "id": "0074064",
+      "title": "137906627 - Fitted fabric covers for hot water bottles",
+      "conceptLink": "/ec2/concept/6011300"
+    }
+  },
+  {
+    "uri": "en/11/137906625",
+    "id": "137906625",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted fabric covers for electric toasters",
+    "harm": {
+      "id": "0074065",
+      "title": "137906625 - Fitted fabric covers for electric toasters",
+      "conceptLink": "/ec2/concept/6011301"
+    }
+  },
+  {
+    "uri": "en/11/137789388",
+    "id": "137789388",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted liners for hot tubs",
+    "harm": {
+      "id": "0074051",
+      "title": "137789388 - Fitted liners for hot tubs",
+      "conceptLink": "/ec2/concept/6011287"
+    }
+  },
+  {
+    "uri": "en/11/137795139",
+    "id": "137795139",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted liners for shower trays",
+    "harm": {
+      "id": "0074056",
+      "title": "137795139 - Fitted liners for shower trays",
+      "conceptLink": "/ec2/concept/6011292"
+    }
+  },
+  {
+    "uri": "en/11/119532805",
+    "id": "119532805",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fitted spa covers",
+    "harm": {
+      "id": "0066290",
+      "title": "119532805 - Fitted spa covers",
+      "conceptLink": "/ec2/concept/6002493"
+    }
+  },
+  {
+    "uri": "en/11/171855",
+    "id": "171855",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings (Bath -)",
+    "harm": {
+      "id": "0059117",
+      "title": "171855 - Fittings (Bath -)",
+      "conceptLink": "/ec2/concept/6000608"
+    }
+  },
+  {
+    "uri": "en/11/728184",
+    "id": "728184",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for basins",
+    "harm": {
+      "id": "0027558",
+      "title": "728184 - Fittings for basins",
+      "conceptLink": "/ec2/concept/5976677"
+    }
+  },
+  {
+    "uri": "en/11/728196",
+    "id": "728196",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for bidets",
+    "harm": {
+      "id": "0027559",
+      "title": "728196 - Fittings for bidets",
+      "conceptLink": "/ec2/concept/5976678"
+    }
+  },
+  {
+    "uri": "en/11/728209",
+    "id": "728209",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for flues",
+    "harm": {
+      "id": "0016018",
+      "title": "728209 - Fittings for flues",
+      "conceptLink": "/ec2/concept/5966137"
+    }
+  },
+  {
+    "uri": "en/11/728221",
+    "id": "728221",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for massage baths",
+    "harm": {
+      "id": "0044854",
+      "title": "728221 - Fittings for massage baths",
+      "conceptLink": "/ec2/concept/5992464"
+    }
+  },
+  {
+    "uri": "en/11/728237",
+    "id": "728237",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for sanitary purposes",
+    "harm": {
+      "id": "0010202",
+      "title": "728237 - Fittings for sanitary purposes",
+      "conceptLink": "/ec2/concept/5960789"
+    }
+  },
+  {
+    "uri": "en/11/728252",
+    "id": "728252",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings for the draining of water",
+    "harm": {
+      "id": "0010203",
+      "title": "728252 - Fittings for the draining of water",
+      "conceptLink": "/ec2/concept/5960790"
+    }
+  },
+  {
+    "uri": "en/11/177094",
+    "id": "177094",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings, shaped, for furnaces",
+    "harm": {
+      "id": "0047465",
+      "title": "177094 - Fittings, shaped, for furnaces",
+      "conceptLink": "/ec2/concept/5994773"
+    }
+  },
+  {
+    "uri": "en/11/177096",
+    "id": "177096",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fittings, shaped, for ovens",
+    "harm": {
+      "id": "0047465",
+      "title": "177096 - Fittings, shaped, for ovens",
+      "conceptLink": "/ec2/concept/5994773"
+    }
+  },
+  {
+    "uri": "en/11/728265",
+    "id": "728265",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed acetylene air suction burners",
+    "harm": {
+      "id": "0010204",
+      "title": "728265 - Fixed acetylene air suction burners",
+      "conceptLink": "/ec2/concept/5960791"
+    }
+  },
+  {
+    "uri": "en/11/728278",
+    "id": "728278",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed after-heating burners",
+    "harm": {
+      "id": "0004494",
+      "title": "728278 - Fixed after-heating burners",
+      "conceptLink": "/ec2/concept/5955566"
+    }
+  },
+  {
+    "uri": "en/11/728291",
+    "id": "728291",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed burners for use in fusion connections",
+    "harm": {
+      "id": "0004495",
+      "title": "728291 - Fixed burners for use in fusion connections",
+      "conceptLink": "/ec2/concept/5955567"
+    }
+  },
+  {
+    "uri": "en/11/728304",
+    "id": "728304",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed compressed air burners",
+    "harm": {
+      "id": "0021940",
+      "title": "728304 - Fixed compressed air burners",
+      "conceptLink": "/ec2/concept/5971536"
+    }
+  },
+  {
+    "uri": "en/11/728317",
+    "id": "728317",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed flame hardening burners",
+    "harm": {
+      "id": "0022862",
+      "title": "728317 - Fixed flame hardening burners",
+      "conceptLink": "/ec2/concept/5972382"
+    }
+  },
+  {
+    "uri": "en/11/728330",
+    "id": "728330",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed heating burners",
+    "harm": {
+      "id": "0034315",
+      "title": "728330 - Fixed heating burners",
+      "conceptLink": "/ec2/concept/5982858"
+    }
+  },
+  {
+    "uri": "en/11/728342",
+    "id": "728342",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed oxyacetylene burners",
+    "harm": {
+      "id": "0034316",
+      "title": "728342 - Fixed oxyacetylene burners",
+      "conceptLink": "/ec2/concept/5982859"
+    }
+  },
+  {
+    "uri": "en/11/728355",
+    "id": "728355",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed pre-heating burners",
+    "harm": {
+      "id": "0016995",
+      "title": "728355 - Fixed pre-heating burners",
+      "conceptLink": "/ec2/concept/5967022"
+    }
+  },
+  {
+    "uri": "en/11/728367",
+    "id": "728367",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixed underwater lighting installations for swimming pools",
+    "harm": {
+      "id": "0011200",
+      "title": "728367 - Fixed underwater lighting installations for swimming pools",
+      "conceptLink": "/ec2/concept/5961706"
+    }
+  },
+  {
+    "uri": "en/11/407790",
+    "id": "407790",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fixtures for incandescent light bulbs",
+    "harm": {
+      "id": "0012539",
+      "title": "407790 - Fixtures for incandescent light bulbs",
+      "conceptLink": "/ec2/concept/5962936"
+    }
+  },
+  {
+    "uri": "en/11/891375",
+    "id": "891375",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flameless candles",
+    "harm": {
+      "id": "0035998",
+      "title": "891375 - Flameless candles",
+      "conceptLink": "/ec2/concept/5984380"
+    }
+  },
+  {
+    "uri": "en/11/120884959",
+    "id": "120884959",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flameless light-emitting diode candles",
+    "harm": {
+      "id": "0066257",
+      "title": "120884959 - Flameless light-emitting diode candles",
+      "conceptLink": "/ec2/concept/6002460"
+    }
+  },
+  {
+    "uri": "en/11/233543144",
+    "id": "233543144",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flaming torches",
+    "harm": {
+      "id": "0020960",
+      "title": "233543144 - Flaming torches",
+      "conceptLink": "/ec2/concept/5970640"
+    }
+  },
+  {
+    "uri": "en/11/728379",
+    "id": "728379",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flange light fittings",
+    "harm": {
+      "id": "0022863",
+      "title": "728379 - Flange light fittings",
+      "conceptLink": "/ec2/concept/5972383"
+    }
+  },
+  {
+    "uri": "en/11/173037",
+    "id": "173037",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flare stacks for use in the oil industry",
+    "harm": {
+      "id": "0034334",
+      "title": "173037 - Flare stacks for use in the oil industry",
+      "conceptLink": "/ec2/concept/5982877"
+    }
+  },
+  {
+    "uri": "en/11/176991",
+    "id": "176991",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flares",
+    "harm": {
+      "id": "0020960",
+      "title": "176991 - Flares",
+      "conceptLink": "/ec2/concept/5970640"
+    }
+  },
+  {
+    "uri": "en/11/728391",
+    "id": "728391",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flashlight bulbs",
+    "harm": {
+      "id": "0040063",
+      "title": "728391 - Flashlight bulbs",
+      "conceptLink": "/ec2/concept/5988088"
+    }
+  },
+  {
+    "uri": "en/11/407807",
+    "id": "407807",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flashlight pointers",
+    "harm": {
+      "id": "0041460",
+      "title": "407807 - Flashlight pointers",
+      "conceptLink": "/ec2/concept/5989363"
+    }
+  },
+  {
+    "uri": "en/11/172629",
+    "id": "172629",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flashlights [torches]",
+    "harm": {
+      "id": "0025914",
+      "title": "172629 - Flashlights [torches]",
+      "conceptLink": "/ec2/concept/5975182"
+    }
+  },
+  {
+    "uri": "en/11/728403",
+    "id": "728403",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flashlights utilising electric rechargeable devices",
+    "harm": {
+      "id": "0011201",
+      "title": "728403 - Flashlights utilising electric rechargeable devices",
+      "conceptLink": "/ec2/concept/5961707"
+    }
+  },
+  {
+    "uri": "en/11/728418",
+    "id": "728418",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flat heating elements",
+    "harm": {
+      "id": "0045798",
+      "title": "728418 - Flat heating elements",
+      "conceptLink": "/ec2/concept/5993330"
+    }
+  },
+  {
+    "uri": "en/11/891388",
+    "id": "891388",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flat panel lighting apparatus",
+    "harm": {
+      "id": "0018683",
+      "title": "891388 - Flat panel lighting apparatus",
+      "conceptLink": "/ec2/concept/5968565"
+    }
+  },
+  {
+    "uri": "en/11/728431",
+    "id": "728431",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flat radiators for central heating installations",
+    "harm": {
+      "id": "0034317",
+      "title": "728431 - Flat radiators for central heating installations",
+      "conceptLink": "/ec2/concept/5982860"
+    }
+  },
+  {
+    "uri": "en/11/407820",
+    "id": "407820",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible heating elements for automobile seats",
+    "harm": {
+      "id": "0034361",
+      "title": "407820 - Flexible heating elements for automobile seats",
+      "conceptLink": "/ec2/concept/5982901"
+    }
+  },
+  {
+    "uri": "en/11/728443",
+    "id": "728443",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible lamps",
+    "harm": {
+      "id": "0040064",
+      "title": "728443 - Flexible lamps",
+      "conceptLink": "/ec2/concept/5988089"
+    }
+  },
+  {
+    "uri": "en/11/119532818",
+    "id": "119532818",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible pipes being parts of sink plumbing installations",
+    "harm": {
+      "id": "0055952",
+      "title": "119532818 - Flexible pipes being parts of sink plumbing installations",
+      "conceptLink": "/ec2/concept/5997323"
+    }
+  },
+  {
+    "uri": "en/11/119532817",
+    "id": "119532817",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible pipes being parts of shower plumbing installations",
+    "harm": {
+      "id": "0055951",
+      "title": "119532817 - Flexible pipes being parts of shower plumbing installations",
+      "conceptLink": "/ec2/concept/5997322"
+    }
+  },
+  {
+    "uri": "en/11/119532816",
+    "id": "119532816",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible pipes being parts of bath plumbing installations",
+    "harm": {
+      "id": "0055950",
+      "title": "119532816 - Flexible pipes being parts of bath plumbing installations",
+      "conceptLink": "/ec2/concept/5997321"
+    }
+  },
+  {
+    "uri": "en/11/111304397",
+    "id": "111304397",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible pipes being parts of basin plumbing installations",
+    "harm": {
+      "id": "0055949",
+      "title": "111304397 - Flexible pipes being parts of basin plumbing installations",
+      "conceptLink": "/ec2/concept/5997320"
+    }
+  },
+  {
+    "uri": "en/11/893865",
+    "id": "893865",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flexible strip wound pipes of metal [parts of sanitary installations]",
+    "harm": {
+      "id": "0040416",
+      "title": "893865 - Flexible strip wound pipes of metal [parts of sanitary installations]",
+      "conceptLink": "/ec2/concept/5988410"
+    }
+  },
+  {
+    "uri": "en/11/728455",
+    "id": "728455",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Float valves [ball cocks]",
+    "harm": {
+      "id": "0040065",
+      "title": "728455 - Float valves [ball cocks]",
+      "conceptLink": "/ec2/concept/5988090"
+    }
+  },
+  {
+    "uri": "en/11/407843",
+    "id": "407843",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Floodlights",
+    "harm": {
+      "id": "0059349",
+      "title": "407843 - Floodlights",
+      "conceptLink": "/ec2/concept/6000831"
+    }
+  },
+  {
+    "uri": "en/11/336240",
+    "id": "336240",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Floor heating apparatus",
+    "harm": {
+      "id": "0017921",
+      "title": "336240 - Floor heating apparatus",
+      "conceptLink": "/ec2/concept/5967858"
+    }
+  },
+  {
+    "uri": "en/11/4435172",
+    "id": "4435172",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Floor lamps",
+    "harm": {
+      "id": "0073597",
+      "title": "4435172 - Floor lamps",
+      "conceptLink": "/ec2/concept/6009769"
+    }
+  },
+  {
+    "uri": "en/11/728472",
+    "id": "728472",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flotation apparatus [furnaces]",
+    "harm": {
+      "id": "0032646",
+      "title": "728472 - Flotation apparatus [furnaces]",
+      "conceptLink": "/ec2/concept/5981326"
+    }
+  },
+  {
+    "uri": "en/11/407886",
+    "id": "407886",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flourescent electric light bulbs",
+    "harm": {
+      "id": "0022914",
+      "title": "407886 - Flourescent electric light bulbs",
+      "conceptLink": "/ec2/concept/5972429"
+    }
+  },
+  {
+    "uri": "en/11/407902",
+    "id": "407902",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flow restrictors for reverse osmosis water purification units",
+    "harm": {
+      "id": "0034362",
+      "title": "407902 - Flow restrictors for reverse osmosis water purification units",
+      "conceptLink": "/ec2/concept/5982902"
+    }
+  },
+  {
+    "uri": "en/11/728488",
+    "id": "728488",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flue gas cleaning apparatus",
+    "harm": {
+      "id": "0015395",
+      "title": "728488 - Flue gas cleaning apparatus",
+      "conceptLink": "/ec2/concept/5965551"
+    }
+  },
+  {
+    "uri": "en/11/728500",
+    "id": "728500",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues",
+    "harm": {
+      "id": "0044216",
+      "title": "728500 - Flues",
+      "conceptLink": "/ec2/concept/5991879"
+    }
+  },
+  {
+    "uri": "en/11/131118362",
+    "id": "131118362",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues and installations for conveying exhaust gases",
+    "harm": {
+      "id": "0047782",
+      "title": "131118362 - Flues and installations for conveying exhaust gases",
+      "conceptLink": "/ec2/concept/5995057"
+    }
+  },
+  {
+    "uri": "en/11/174766",
+    "id": "174766",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues (Chimney -)",
+    "harm": {
+      "id": "0006200",
+      "title": "174766 - Flues (Chimney -)",
+      "conceptLink": "/ec2/concept/5957133"
+    }
+  },
+  {
+    "uri": "en/11/728516",
+    "id": "728516",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues for heating apparatus",
+    "harm": {
+      "id": "0009534",
+      "title": "728516 - Flues for heating apparatus",
+      "conceptLink": "/ec2/concept/5960186"
+    }
+  },
+  {
+    "uri": "en/11/180984",
+    "id": "180984",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues for heating boilers",
+    "harm": {
+      "id": "0033404",
+      "title": "180984 - Flues for heating boilers",
+      "conceptLink": "/ec2/concept/5982028"
+    }
+  },
+  {
+    "uri": "en/11/728533",
+    "id": "728533",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues for ventilating apparatus",
+    "harm": {
+      "id": "0044217",
+      "title": "728533 - Flues for ventilating apparatus",
+      "conceptLink": "/ec2/concept/5991880"
+    }
+  },
+  {
+    "uri": "en/11/728555",
+    "id": "728555",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues incorporating extractors",
+    "harm": {
+      "id": "0038448",
+      "title": "728555 - Flues incorporating extractors",
+      "conceptLink": "/ec2/concept/5986615"
+    }
+  },
+  {
+    "uri": "en/11/728534",
+    "id": "728534",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flues incorporating fans",
+    "harm": {
+      "id": "0044217",
+      "title": "728534 - Flues incorporating fans",
+      "conceptLink": "/ec2/concept/5991880"
+    }
+  },
+  {
+    "uri": "en/11/728580",
+    "id": "728580",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluidised bed combustion apparatus",
+    "harm": {
+      "id": "0009535",
+      "title": "728580 - Fluidised bed combustion apparatus",
+      "conceptLink": "/ec2/concept/5960187"
+    }
+  },
+  {
+    "uri": "en/11/728593",
+    "id": "728593",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluidised bed incineration ovens",
+    "harm": {
+      "id": "0032647",
+      "title": "728593 - Fluidised bed incineration ovens",
+      "conceptLink": "/ec2/concept/5981327"
+    }
+  },
+  {
+    "uri": "en/11/728619",
+    "id": "728619",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluidized bed combustion burners",
+    "harm": {
+      "id": "0009536",
+      "title": "728619 - Fluidized bed combustion burners",
+      "conceptLink": "/ec2/concept/5960188"
+    }
+  },
+  {
+    "uri": "en/11/728606",
+    "id": "728606",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluidized bed combustion boilers",
+    "harm": {
+      "id": "0032648",
+      "title": "728606 - Fluidized bed combustion boilers",
+      "conceptLink": "/ec2/concept/5981328"
+    }
+  },
+  {
+    "uri": "en/11/178613",
+    "id": "178613",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lamp tubes",
+    "harm": {
+      "id": "0058431",
+      "title": "178613 - Fluorescent lamp tubes",
+      "conceptLink": "/ec2/concept/5999930"
+    }
+  },
+  {
+    "uri": "en/11/178616",
+    "id": "178616",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lamps",
+    "harm": {
+      "id": "0058433",
+      "title": "178616 - Fluorescent lamps",
+      "conceptLink": "/ec2/concept/5999932"
+    }
+  },
+  {
+    "uri": "en/11/728632",
+    "id": "728632",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lamps with low ultra-violet light output",
+    "harm": {
+      "id": "0026884",
+      "title": "728632 - Fluorescent lamps with low ultra-violet light output",
+      "conceptLink": "/ec2/concept/5976062"
+    }
+  },
+  {
+    "uri": "en/11/407916",
+    "id": "407916",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lighting apparatus",
+    "harm": {
+      "id": "0005504",
+      "title": "407916 - Fluorescent lighting apparatus",
+      "conceptLink": "/ec2/concept/5956501"
+    }
+  },
+  {
+    "uri": "en/11/407933",
+    "id": "407933",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lighting tubes",
+    "harm": {
+      "id": "0011244",
+      "title": "407933 - Fluorescent lighting tubes",
+      "conceptLink": "/ec2/concept/5961748"
+    }
+  },
+  {
+    "uri": "en/11/728646",
+    "id": "728646",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent lights",
+    "harm": {
+      "id": "0058431",
+      "title": "728646 - Fluorescent lights",
+      "conceptLink": "/ec2/concept/5999930"
+    }
+  },
+  {
+    "uri": "en/11/178617",
+    "id": "178617",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fluorescent tubes",
+    "harm": {
+      "id": "0058431",
+      "title": "178617 - Fluorescent tubes",
+      "conceptLink": "/ec2/concept/5999930"
+    }
+  },
+  {
+    "uri": "en/11/120893923",
+    "id": "120893923",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flush levers for toilets",
+    "harm": {
+      "id": "0066218",
+      "title": "120893923 - Flush levers for toilets",
+      "conceptLink": "/ec2/concept/6002421"
+    }
+  },
+  {
+    "uri": "en/11/407952",
+    "id": "407952",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flush levers [parts of toilets]",
+    "harm": {
+      "id": "0005505",
+      "title": "407952 - Flush levers [parts of toilets]",
+      "conceptLink": "/ec2/concept/5956502"
+    }
+  },
+  {
+    "uri": "en/11/728681",
+    "id": "728681",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flusher handles [parts of sanitary installations]",
+    "harm": {
+      "id": "0016414",
+      "title": "728681 - Flusher handles [parts of sanitary installations]",
+      "conceptLink": "/ec2/concept/5966504"
+    }
+  },
+  {
+    "uri": "en/11/181340",
+    "id": "181340",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flushing apparatus",
+    "harm": {
+      "id": "0047439",
+      "title": "181340 - Flushing apparatus",
+      "conceptLink": "/ec2/concept/5994752"
+    }
+  },
+  {
+    "uri": "en/11/409572",
+    "id": "409572",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flushing apparatus for urinals",
+    "harm": {
+      "id": "0047313",
+      "title": "409572 - Flushing apparatus for urinals",
+      "conceptLink": "/ec2/concept/5994662"
+    }
+  },
+  {
+    "uri": "en/11/723761",
+    "id": "723761",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flushing apparatus for water closets",
+    "harm": {
+      "id": "0059477",
+      "title": "723761 - Flushing apparatus for water closets",
+      "conceptLink": "/ec2/concept/6000953"
+    }
+  },
+  {
+    "uri": "en/11/409573",
+    "id": "409573",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flushing cisterns for water closets",
+    "harm": {
+      "id": "0059477",
+      "title": "409573 - Flushing cisterns for water closets",
+      "conceptLink": "/ec2/concept/6000953"
+    }
+  },
+  {
+    "uri": "en/11/173830",
+    "id": "173830",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Flushing tanks",
+    "harm": {
+      "id": "0059477",
+      "title": "173830 - Flushing tanks",
+      "conceptLink": "/ec2/concept/6000953"
+    }
+  },
+  {
+    "uri": "en/11/728694",
+    "id": "728694",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fondues [cooking apparatus]",
+    "harm": {
+      "id": "0010602",
+      "title": "728694 - Fondues [cooking apparatus]",
+      "conceptLink": "/ec2/concept/5961162"
+    }
+  },
+  {
+    "uri": "en/11/131118477",
+    "id": "131118477",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food and beverage cooking, heating, cooling and treatment equipment",
+    "harm": {
+      "id": "0047800",
+      "title": "131118477 - Food and beverage cooking, heating, cooling and treatment equipment",
+      "conceptLink": "/ec2/concept/5995075"
+    }
+  },
+  {
+    "uri": "en/11/728710",
+    "id": "728710",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food dehydrators",
+    "harm": {
+      "id": "0010603",
+      "title": "728710 - Food dehydrators",
+      "conceptLink": "/ec2/concept/5961163"
+    }
+  },
+  {
+    "uri": "en/11/728724",
+    "id": "728724",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food dryers",
+    "harm": {
+      "id": "0022307",
+      "title": "728724 - Food dryers",
+      "conceptLink": "/ec2/concept/5971872"
+    }
+  },
+  {
+    "uri": "en/11/136531904",
+    "id": "136531904",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food steamers, electric",
+    "harm": {
+      "id": "0060029",
+      "title": "136531904 - Food steamers, electric",
+      "conceptLink": "/ec2/concept/5996297"
+    }
+  },
+  {
+    "uri": "en/11/728735",
+    "id": "728735",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food warmers",
+    "harm": {
+      "id": "0033690",
+      "title": "728735 - Food warmers",
+      "conceptLink": "/ec2/concept/5982287"
+    }
+  },
+  {
+    "uri": "en/11/174559",
+    "id": "174559",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food warming plates [heated]",
+    "harm": {
+      "id": "0058120",
+      "title": "174559 - Food warming plates [heated]",
+      "conceptLink": "/ec2/concept/5999621"
+    }
+  },
+  {
+    "uri": "en/11/728749",
+    "id": "728749",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Food warming stands [heated]",
+    "harm": {
+      "id": "0022308",
+      "title": "728749 - Food warming stands [heated]",
+      "conceptLink": "/ec2/concept/5971873"
+    }
+  },
+  {
+    "uri": "en/11/174510",
+    "id": "174510",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Footmuffs, electrically heated",
+    "harm": {
+      "id": "0035263",
+      "title": "174510 - Footmuffs, electrically heated",
+      "conceptLink": "/ec2/concept/5983717"
+    }
+  },
+  {
+    "uri": "en/11/174479",
+    "id": "174479",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Footwarmers, electric or non-electric",
+    "harm": {
+      "id": "0017938",
+      "title": "174479 - Footwarmers, electric or non-electric",
+      "conceptLink": "/ec2/concept/5967874"
+    }
+  },
+  {
+    "uri": "en/11/176838",
+    "id": "176838",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forage drying apparatus",
+    "harm": {
+      "id": "0038207",
+      "title": "176838 - Forage drying apparatus",
+      "conceptLink": "/ec2/concept/5986387"
+    }
+  },
+  {
+    "uri": "en/11/728795",
+    "id": "728795",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forced air type horizontally disposed space heaters",
+    "harm": {
+      "id": "0027354",
+      "title": "728795 - Forced air type horizontally disposed space heaters",
+      "conceptLink": "/ec2/concept/5976483"
+    }
+  },
+  {
+    "uri": "en/11/728782",
+    "id": "728782",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forced air type horizontally disposed cylindrical space heaters",
+    "harm": {
+      "id": "0004269",
+      "title": "728782 - Forced air type horizontally disposed cylindrical space heaters",
+      "conceptLink": "/ec2/concept/5955356"
+    }
+  },
+  {
+    "uri": "en/11/728807",
+    "id": "728807",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forced air type portable horizontally disposed cylindrical space heaters",
+    "harm": {
+      "id": "0038901",
+      "title": "728807 - Forced air type portable horizontally disposed cylindrical space heaters",
+      "conceptLink": "/ec2/concept/5987023"
+    }
+  },
+  {
+    "uri": "en/11/728820",
+    "id": "728820",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forced air type portable horizontally disposed space heaters",
+    "harm": {
+      "id": "0044641",
+      "title": "728820 - Forced air type portable horizontally disposed space heaters",
+      "conceptLink": "/ec2/concept/5992272"
+    }
+  },
+  {
+    "uri": "en/11/177015",
+    "id": "177015",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Forges, portable",
+    "harm": {
+      "id": "0020961",
+      "title": "177015 - Forges, portable",
+      "conceptLink": "/ec2/concept/5970641"
+    }
+  },
+  {
+    "uri": "en/11/723434",
+    "id": "723434",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Founding furnaces",
+    "harm": {
+      "id": "0021119",
+      "title": "723434 - Founding furnaces",
+      "conceptLink": "/ec2/concept/5970789"
+    }
+  },
+  {
+    "uri": "en/11/728832",
+    "id": "728832",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fountain fittings",
+    "harm": {
+      "id": "0009998",
+      "title": "728832 - Fountain fittings",
+      "conceptLink": "/ec2/concept/5960610"
+    }
+  },
+  {
+    "uri": "en/11/176185",
+    "id": "176185",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Fountains",
+    "harm": {
+      "id": "0025739",
+      "title": "176185 - Fountains",
+      "conceptLink": "/ec2/concept/5975021"
+    }
+  }
+]

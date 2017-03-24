@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/334055",
+    "id": "334055",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrically operated hearing aids",
+    "harm": {
+      "id": "0010377",
+      "title": "334055 - Electrically operated hearing aids",
+      "conceptLink": "/ec2/concept/5960950"
+    }
+  },
+  {
+    "uri": "en/10/708535",
+    "id": "708535",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrically operated massagers",
+    "harm": {
+      "id": "0028230",
+      "title": "708535 - Electrically operated massagers",
+      "conceptLink": "/ec2/concept/5977296"
+    }
+  },
+  {
+    "uri": "en/10/708552",
+    "id": "708552",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electro medical instruments",
+    "harm": {
+      "id": "0016710",
+      "title": "708552 - Electro medical instruments",
+      "conceptLink": "/ec2/concept/5966767"
+    }
+  },
+  {
+    "uri": "en/10/709171",
+    "id": "709171",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electro-stimulation apparatus for use in therapeutic treatment",
+    "harm": {
+      "id": "0040942",
+      "title": "709171 - Electro-stimulation apparatus for use in therapeutic treatment",
+      "conceptLink": "/ec2/concept/5988889"
+    }
+  },
+  {
+    "uri": "en/10/708597",
+    "id": "708597",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiograph apparatus",
+    "harm": {
+      "id": "0010901",
+      "title": "708597 - Electrocardiograph apparatus",
+      "conceptLink": "/ec2/concept/5961434"
+    }
+  },
+  {
+    "uri": "en/10/708599",
+    "id": "708599",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiograph instruments",
+    "harm": {
+      "id": "0010901",
+      "title": "708599 - Electrocardiograph instruments",
+      "conceptLink": "/ec2/concept/5961434"
+    }
+  },
+  {
+    "uri": "en/10/708618",
+    "id": "708618",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiograph monitoring apparatus",
+    "harm": {
+      "id": "0005155",
+      "title": "708618 - Electrocardiograph monitoring apparatus",
+      "conceptLink": "/ec2/concept/5956175"
+    }
+  },
+  {
+    "uri": "en/10/708630",
+    "id": "708630",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiograph monitors",
+    "harm": {
+      "id": "0005156",
+      "title": "708630 - Electrocardiograph monitors",
+      "conceptLink": "/ec2/concept/5956176"
+    }
+  },
+  {
+    "uri": "en/10/708643",
+    "id": "708643",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiographic recorders",
+    "harm": {
+      "id": "0022575",
+      "title": "708643 - Electrocardiographic recorders",
+      "conceptLink": "/ec2/concept/5972117"
+    }
+  },
+  {
+    "uri": "en/10/165451",
+    "id": "165451",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiographs",
+    "harm": {
+      "id": "0029078",
+      "title": "165451 - Electrocardiographs",
+      "conceptLink": "/ec2/concept/5978088"
+    }
+  },
+  {
+    "uri": "en/10/120895898",
+    "id": "120895898",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiographs for veterinary use",
+    "harm": {
+      "id": "0066145",
+      "title": "120895898 - Electrocardiographs for veterinary use",
+      "conceptLink": "/ec2/concept/6002348"
+    }
+  },
+  {
+    "uri": "en/10/708598",
+    "id": "708598",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocardiography apparatus",
+    "harm": {
+      "id": "0010901",
+      "title": "708598 - Electrocardiography apparatus",
+      "conceptLink": "/ec2/concept/5961434"
+    }
+  },
+  {
+    "uri": "en/10/708656",
+    "id": "708656",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrocautery apparatus",
+    "harm": {
+      "id": "0021714",
+      "title": "708656 - Electrocautery apparatus",
+      "conceptLink": "/ec2/concept/5971324"
+    }
+  },
+  {
+    "uri": "en/10/903328",
+    "id": "903328",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for external defibrillators",
+    "harm": {
+      "id": "0007131",
+      "title": "903328 - Electrodes for external defibrillators",
+      "conceptLink": "/ec2/concept/5957982"
+    }
+  },
+  {
+    "uri": "en/10/168565",
+    "id": "168565",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for medical purposes",
+    "harm": {
+      "id": "0017754",
+      "title": "168565 - Electrodes for medical purposes",
+      "conceptLink": "/ec2/concept/5967707"
+    }
+  },
+  {
+    "uri": "en/10/708669",
+    "id": "708669",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for medical use made from glass",
+    "harm": {
+      "id": "0015820",
+      "title": "708669 - Electrodes for medical use made from glass",
+      "conceptLink": "/ec2/concept/5965948"
+    }
+  },
+  {
+    "uri": "en/10/168564",
+    "id": "168564",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for medical use",
+    "harm": {
+      "id": "0017754",
+      "title": "168564 - Electrodes for medical use",
+      "conceptLink": "/ec2/concept/5967707"
+    }
+  },
+  {
+    "uri": "en/10/708683",
+    "id": "708683",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for picking up biological parameters",
+    "harm": {
+      "id": "0021715",
+      "title": "708683 - Electrodes for picking up biological parameters",
+      "conceptLink": "/ec2/concept/5971325"
+    }
+  },
+  {
+    "uri": "en/10/708694",
+    "id": "708694",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for picking up electrophysiological parameters",
+    "harm": {
+      "id": "0021716",
+      "title": "708694 - Electrodes for picking up electrophysiological parameters",
+      "conceptLink": "/ec2/concept/5971326"
+    }
+  },
+  {
+    "uri": "en/10/708709",
+    "id": "708709",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrodes for use with medical apparatus",
+    "harm": {
+      "id": "0033098",
+      "title": "708709 - Electrodes for use with medical apparatus",
+      "conceptLink": "/ec2/concept/5981745"
+    }
+  },
+  {
+    "uri": "en/10/334093",
+    "id": "334093",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electroencephalographs",
+    "harm": {
+      "id": "0045023",
+      "title": "334093 - Electroencephalographs",
+      "conceptLink": "/ec2/concept/5992618"
+    }
+  },
+  {
+    "uri": "en/10/708724",
+    "id": "708724",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electromagnetic medical apparatus",
+    "harm": {
+      "id": "0015821",
+      "title": "708724 - Electromagnetic medical apparatus",
+      "conceptLink": "/ec2/concept/5965949"
+    }
+  },
+  {
+    "uri": "en/10/708739",
+    "id": "708739",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electromagnetic wave therapeutic instruments",
+    "harm": {
+      "id": "0021717",
+      "title": "708739 - Electromagnetic wave therapeutic instruments",
+      "conceptLink": "/ec2/concept/5971327"
+    }
+  },
+  {
+    "uri": "en/10/708754",
+    "id": "708754",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electromedical diagnostic instruments",
+    "harm": {
+      "id": "0010003",
+      "title": "708754 - Electromedical diagnostic instruments",
+      "conceptLink": "/ec2/concept/5960615"
+    }
+  },
+  {
+    "uri": "en/10/708785",
+    "id": "708785",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electromedical instruments for slimming treatments",
+    "harm": {
+      "id": "0038903",
+      "title": "708785 - Electromedical instruments for slimming treatments",
+      "conceptLink": "/ec2/concept/5987025"
+    }
+  },
+  {
+    "uri": "en/10/708769",
+    "id": "708769",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electromedical instruments for firming treatments",
+    "harm": {
+      "id": "0027360",
+      "title": "708769 - Electromedical instruments for firming treatments",
+      "conceptLink": "/ec2/concept/5976489"
+    }
+  },
+  {
+    "uri": "en/10/708800",
+    "id": "708800",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic acupuncture instruments",
+    "harm": {
+      "id": "0015822",
+      "title": "708800 - Electronic acupuncture instruments",
+      "conceptLink": "/ec2/concept/5965950"
+    }
+  },
+  {
+    "uri": "en/10/708814",
+    "id": "708814",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic analyzers for medical purposes",
+    "harm": {
+      "id": "0010004",
+      "title": "708814 - Electronic analyzers for medical purposes",
+      "conceptLink": "/ec2/concept/5960616"
+    }
+  },
+  {
+    "uri": "en/10/708827",
+    "id": "708827",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic apparatus for medical purposes",
+    "harm": {
+      "id": "0020496",
+      "title": "708827 - Electronic apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5970211"
+    }
+  },
+  {
+    "uri": "en/10/708859",
+    "id": "708859",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic blood oxygen saturation recorders [for medical use]",
+    "harm": {
+      "id": "0014654",
+      "title": "708859 - Electronic blood oxygen saturation recorders [for medical use]",
+      "conceptLink": "/ec2/concept/5964877"
+    }
+  },
+  {
+    "uri": "en/10/708845",
+    "id": "708845",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic blood oxygen saturation monitors [for medical use]",
+    "harm": {
+      "id": "0026147",
+      "title": "708845 - Electronic blood oxygen saturation monitors [for medical use]",
+      "conceptLink": "/ec2/concept/5975397"
+    }
+  },
+  {
+    "uri": "en/10/708887",
+    "id": "708887",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic blood pressure monitors [for medical use]",
+    "harm": {
+      "id": "0008797",
+      "title": "708887 - Electronic blood pressure monitors [for medical use]",
+      "conceptLink": "/ec2/concept/5959499"
+    }
+  },
+  {
+    "uri": "en/10/708901",
+    "id": "708901",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic blood pressure recorders [for medical use]",
+    "harm": {
+      "id": "0008798",
+      "title": "708901 - Electronic blood pressure recorders [for medical use]",
+      "conceptLink": "/ec2/concept/5959500"
+    }
+  },
+  {
+    "uri": "en/10/708873",
+    "id": "708873",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic blood pressure meters [for medical use]",
+    "harm": {
+      "id": "0043503",
+      "title": "708873 - Electronic blood pressure meters [for medical use]",
+      "conceptLink": "/ec2/concept/5991224"
+    }
+  },
+  {
+    "uri": "en/10/708929",
+    "id": "708929",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic carbon dioxide recorders used for medical purposes",
+    "harm": {
+      "id": "0014655",
+      "title": "708929 - Electronic carbon dioxide recorders used for medical purposes",
+      "conceptLink": "/ec2/concept/5964878"
+    }
+  },
+  {
+    "uri": "en/10/708916",
+    "id": "708916",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic carbon dioxide monitors used for medical purposes",
+    "harm": {
+      "id": "0037721",
+      "title": "708916 - Electronic carbon dioxide monitors used for medical purposes",
+      "conceptLink": "/ec2/concept/5985944"
+    }
+  },
+  {
+    "uri": "en/10/708942",
+    "id": "708942",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic drop counters for medical use",
+    "harm": {
+      "id": "0026148",
+      "title": "708942 - Electronic drop counters for medical use",
+      "conceptLink": "/ec2/concept/5975398"
+    }
+  },
+  {
+    "uri": "en/10/708955",
+    "id": "708955",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic endoscopes for medical use",
+    "harm": {
+      "id": "0014656",
+      "title": "708955 - Electronic endoscopes for medical use",
+      "conceptLink": "/ec2/concept/5964879"
+    }
+  },
+  {
+    "uri": "en/10/708968",
+    "id": "708968",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic endoscopes for surgical use",
+    "harm": {
+      "id": "0031928",
+      "title": "708968 - Electronic endoscopes for surgical use",
+      "conceptLink": "/ec2/concept/5980676"
+    }
+  },
+  {
+    "uri": "en/10/120895285",
+    "id": "120895285",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic hearing aids",
+    "harm": {
+      "id": "0066149",
+      "title": "120895285 - Electronic hearing aids",
+      "conceptLink": "/ec2/concept/6002352"
+    }
+  },
+  {
+    "uri": "en/10/708980",
+    "id": "708980",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic heart rate monitors [for medical use]",
+    "harm": {
+      "id": "0003052",
+      "title": "708980 - Electronic heart rate monitors [for medical use]",
+      "conceptLink": "/ec2/concept/5954240"
+    }
+  },
+  {
+    "uri": "en/10/708995",
+    "id": "708995",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic heart rate recorders [for medical use]",
+    "harm": {
+      "id": "0037722",
+      "title": "708995 - Electronic heart rate recorders [for medical use]",
+      "conceptLink": "/ec2/concept/5985945"
+    }
+  },
+  {
+    "uri": "en/10/709010",
+    "id": "709010",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic heart signal monitors [for medical use]",
+    "harm": {
+      "id": "0031929",
+      "title": "709010 - Electronic heart signal monitors [for medical use]",
+      "conceptLink": "/ec2/concept/5980677"
+    }
+  },
+  {
+    "uri": "en/10/709025",
+    "id": "709025",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic heart signal recorders [for medical use]",
+    "harm": {
+      "id": "0037722",
+      "title": "709025 - Electronic heart signal recorders [for medical use]",
+      "conceptLink": "/ec2/concept/5985945"
+    }
+  },
+  {
+    "uri": "en/10/709042",
+    "id": "709042",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic medical instruments",
+    "harm": {
+      "id": "0012035",
+      "title": "709042 - Electronic medical instruments",
+      "conceptLink": "/ec2/concept/5962479"
+    }
+  },
+  {
+    "uri": "en/10/709072",
+    "id": "709072",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic monitoring instruments for medical use",
+    "harm": {
+      "id": "0012036",
+      "title": "709072 - Electronic monitoring instruments for medical use",
+      "conceptLink": "/ec2/concept/5962480"
+    }
+  },
+  {
+    "uri": "en/10/120895863",
+    "id": "120895863",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic muscle stimulators for medical use",
+    "harm": {
+      "id": "0066143",
+      "title": "120895863 - Electronic muscle stimulators for medical use",
+      "conceptLink": "/ec2/concept/6002346"
+    }
+  },
+  {
+    "uri": "en/10/120895902",
+    "id": "120895902",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic nerve stimulators for medical use",
+    "harm": {
+      "id": "0066144",
+      "title": "120895902 - Electronic nerve stimulators for medical use",
+      "conceptLink": "/ec2/concept/6002347"
+    }
+  },
+  {
+    "uri": "en/10/137936729",
+    "id": "137936729",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic stimulation apparatus for physiotherapy",
+    "harm": {
+      "id": "0073780",
+      "title": "137936729 - Electronic stimulation apparatus for physiotherapy",
+      "conceptLink": "/ec2/concept/6009950"
+    }
+  },
+  {
+    "uri": "en/10/404013",
+    "id": "404013",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic stimulator for medical use",
+    "harm": {
+      "id": "0036739",
+      "title": "404013 - Electronic stimulator for medical use",
+      "conceptLink": "/ec2/concept/5985059"
+    }
+  },
+  {
+    "uri": "en/10/709087",
+    "id": "709087",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic temperature monitors for medical use",
+    "harm": {
+      "id": "0000456",
+      "title": "709087 - Electronic temperature monitors for medical use",
+      "conceptLink": "/ec2/concept/5951895"
+    }
+  },
+  {
+    "uri": "en/10/709100",
+    "id": "709100",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic temperature recorders for medical use",
+    "harm": {
+      "id": "0000457",
+      "title": "709100 - Electronic temperature recorders for medical use",
+      "conceptLink": "/ec2/concept/5951896"
+    }
+  },
+  {
+    "uri": "en/10/709112",
+    "id": "709112",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electronic thermometers for medical use",
+    "harm": {
+      "id": "0017812",
+      "title": "709112 - Electronic thermometers for medical use",
+      "conceptLink": "/ec2/concept/5967760"
+    }
+  },
+  {
+    "uri": "en/10/709128",
+    "id": "709128",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrophoresis apparatus",
+    "harm": {
+      "id": "0006242",
+      "title": "709128 - Electrophoresis apparatus",
+      "conceptLink": "/ec2/concept/5957172"
+    }
+  },
+  {
+    "uri": "en/10/709146",
+    "id": "709146",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrophysiology diagnostic catheters",
+    "harm": {
+      "id": "0023638",
+      "title": "709146 - Electrophysiology diagnostic catheters",
+      "conceptLink": "/ec2/concept/5973089"
+    }
+  },
+  {
+    "uri": "en/10/709159",
+    "id": "709159",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrophysiology electrodes",
+    "harm": {
+      "id": "0012037",
+      "title": "709159 - Electrophysiology electrodes",
+      "conceptLink": "/ec2/concept/5962481"
+    }
+  },
+  {
+    "uri": "en/10/709186",
+    "id": "709186",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrotherapy instruments for firming treatments",
+    "harm": {
+      "id": "0017813",
+      "title": "709186 - Electrotherapy instruments for firming treatments",
+      "conceptLink": "/ec2/concept/5967761"
+    }
+  },
+  {
+    "uri": "en/10/709202",
+    "id": "709202",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Electrotherapy instruments for slimming treatments",
+    "harm": {
+      "id": "0010961",
+      "title": "709202 - Electrotherapy instruments for slimming treatments",
+      "conceptLink": "/ec2/concept/5961489"
+    }
+  },
+  {
+    "uri": "en/10/120895858",
+    "id": "120895858",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Elizabethan collars for veterinary use",
+    "harm": {
+      "id": "0066142",
+      "title": "120895858 - Elizabethan collars for veterinary use",
+      "conceptLink": "/ec2/concept/6002345"
+    }
+  },
+  {
+    "uri": "en/10/404028",
+    "id": "404028",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Embolic devices",
+    "harm": {
+      "id": "0007750",
+      "title": "404028 - Embolic devices",
+      "conceptLink": "/ec2/concept/5958546"
+    }
+  },
+  {
+    "uri": "en/10/334106",
+    "id": "334106",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Emergency pelvic clamps",
+    "harm": {
+      "id": "0039298",
+      "title": "334106 - Emergency pelvic clamps",
+      "conceptLink": "/ec2/concept/5987387"
+    }
+  },
+  {
+    "uri": "en/10/404041",
+    "id": "404041",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endobrachial tubes",
+    "harm": {
+      "id": "0018584",
+      "title": "404041 - Endobrachial tubes",
+      "conceptLink": "/ec2/concept/5968472"
+    }
+  },
+  {
+    "uri": "en/10/709217",
+    "id": "709217",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endodontic devices",
+    "harm": {
+      "id": "0005212",
+      "title": "709217 - Endodontic devices",
+      "conceptLink": "/ec2/concept/5956227"
+    }
+  },
+  {
+    "uri": "en/10/334118",
+    "id": "334118",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoprostheses",
+    "harm": {
+      "id": "0038404",
+      "title": "334118 - Endoprostheses",
+      "conceptLink": "/ec2/concept/5986575"
+    }
+  },
+  {
+    "uri": "en/10/404055",
+    "id": "404055",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopes",
+    "harm": {
+      "id": "0035900",
+      "title": "404055 - Endoscopes",
+      "conceptLink": "/ec2/concept/5984289"
+    }
+  },
+  {
+    "uri": "en/10/709232",
+    "id": "709232",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopes for diagnostic use",
+    "harm": {
+      "id": "0005213",
+      "title": "709232 - Endoscopes for diagnostic use",
+      "conceptLink": "/ec2/concept/5956228"
+    }
+  },
+  {
+    "uri": "en/10/709245",
+    "id": "709245",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopes for medical use",
+    "harm": {
+      "id": "0034047",
+      "title": "709245 - Endoscopes for medical use",
+      "conceptLink": "/ec2/concept/5982615"
+    }
+  },
+  {
+    "uri": "en/10/709260",
+    "id": "709260",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopes for surgical use",
+    "harm": {
+      "id": "0010962",
+      "title": "709260 - Endoscopes for surgical use",
+      "conceptLink": "/ec2/concept/5961490"
+    }
+  },
+  {
+    "uri": "en/10/709276",
+    "id": "709276",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopes for therapeutic use",
+    "harm": {
+      "id": "0022630",
+      "title": "709276 - Endoscopes for therapeutic use",
+      "conceptLink": "/ec2/concept/5972166"
+    }
+  },
+  {
+    "uri": "en/10/334136",
+    "id": "334136",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopic apparatus",
+    "harm": {
+      "id": "0015348",
+      "title": "334136 - Endoscopic apparatus",
+      "conceptLink": "/ec2/concept/5965508"
+    }
+  },
+  {
+    "uri": "en/10/334135",
+    "id": "334135",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopic equipment",
+    "harm": {
+      "id": "0015348",
+      "title": "334135 - Endoscopic equipment",
+      "conceptLink": "/ec2/concept/5965508"
+    }
+  },
+  {
+    "uri": "en/10/232501257",
+    "id": "232501257",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopic equipment for medical purposes",
+    "harm": {
+      "id": "0015348",
+      "title": "232501257 - Endoscopic equipment for medical purposes",
+      "conceptLink": "/ec2/concept/5965508"
+    }
+  },
+  {
+    "uri": "en/10/709289",
+    "id": "709289",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopic occlusion balloons",
+    "harm": {
+      "id": "0010963",
+      "title": "709289 - Endoscopic occlusion balloons",
+      "conceptLink": "/ec2/concept/5961491"
+    }
+  },
+  {
+    "uri": "en/10/120894685",
+    "id": "120894685",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endoscopy cameras for medical purposes",
+    "harm": {
+      "id": "0060024",
+      "title": "120894685 - Endoscopy cameras for medical purposes",
+      "conceptLink": "/ec2/concept/5996290"
+    }
+  },
+  {
+    "uri": "en/10/404075",
+    "id": "404075",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Endotracheal tubes",
+    "harm": {
+      "id": "0035901",
+      "title": "404075 - Endotracheal tubes",
+      "conceptLink": "/ec2/concept/5984290"
+    }
+  },
+  {
+    "uri": "en/10/404090",
+    "id": "404090",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Enema apparatus",
+    "harm": {
+      "id": "0001196",
+      "title": "404090 - Enema apparatus",
+      "conceptLink": "/ec2/concept/5952567"
+    }
+  },
+  {
+    "uri": "en/10/166085",
+    "id": "166085",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Enema apparatus for medical purposes",
+    "harm": {
+      "id": "0012213",
+      "title": "166085 - Enema apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5962639"
+    }
+  },
+  {
+    "uri": "en/10/709302",
+    "id": "709302",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Enema syringes",
+    "harm": {
+      "id": "0039806",
+      "title": "709302 - Enema syringes",
+      "conceptLink": "/ec2/concept/5987852"
+    }
+  },
+  {
+    "uri": "en/10/135851479",
+    "id": "135851479",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Enteral feeding pumps",
+    "harm": {
+      "id": "0071604",
+      "title": "135851479 - Enteral feeding pumps",
+      "conceptLink": "/ec2/concept/6007795"
+    }
+  },
+  {
+    "uri": "en/10/709314",
+    "id": "709314",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Enuresis alarms",
+    "harm": {
+      "id": "0016754",
+      "title": "709314 - Enuresis alarms",
+      "conceptLink": "/ec2/concept/5966806"
+    }
+  },
+  {
+    "uri": "en/10/709326",
+    "id": "709326",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Epidural analgesia apparatus for medical use",
+    "harm": {
+      "id": "0005214",
+      "title": "709326 - Epidural analgesia apparatus for medical use",
+      "conceptLink": "/ec2/concept/5956229"
+    }
+  },
+  {
+    "uri": "en/10/709342",
+    "id": "709342",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Epidural analgesia apparatus for surgical use",
+    "harm": {
+      "id": "0005215",
+      "title": "709342 - Epidural analgesia apparatus for surgical use",
+      "conceptLink": "/ec2/concept/5956230"
+    }
+  },
+  {
+    "uri": "en/10/233200818",
+    "id": "233200818",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Esophagoscopes",
+    "harm": {
+      "id": "0072952",
+      "title": "233200818 - Esophagoscopes",
+      "conceptLink": "/ec2/concept/6009127"
+    }
+  },
+  {
+    "uri": "en/10/164747",
+    "id": "164747",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Esthetic massage apparatus",
+    "harm": {
+      "id": "0019969",
+      "title": "164747 - Esthetic massage apparatus",
+      "conceptLink": "/ec2/concept/5969732"
+    }
+  },
+  {
+    "uri": "en/10/709358",
+    "id": "709358",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Evaporators for liquid anaesthetics",
+    "harm": {
+      "id": "0044626",
+      "title": "709358 - Evaporators for liquid anaesthetics",
+      "conceptLink": "/ec2/concept/5992258"
+    }
+  },
+  {
+    "uri": "en/10/709370",
+    "id": "709370",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination chairs specially made for dental use",
+    "harm": {
+      "id": "0015801",
+      "title": "709370 - Examination chairs specially made for dental use",
+      "conceptLink": "/ec2/concept/5965930"
+    }
+  },
+  {
+    "uri": "en/10/709382",
+    "id": "709382",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination chairs specially made for medical use",
+    "harm": {
+      "id": "0033070",
+      "title": "709382 - Examination chairs specially made for medical use",
+      "conceptLink": "/ec2/concept/5981721"
+    }
+  },
+  {
+    "uri": "en/10/709395",
+    "id": "709395",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination couches specially made for dental use",
+    "harm": {
+      "id": "0004246",
+      "title": "709395 - Examination couches specially made for dental use",
+      "conceptLink": "/ec2/concept/5955334"
+    }
+  },
+  {
+    "uri": "en/10/709408",
+    "id": "709408",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination couches specially made for medical use",
+    "harm": {
+      "id": "0033071",
+      "title": "709408 - Examination couches specially made for medical use",
+      "conceptLink": "/ec2/concept/5981722"
+    }
+  },
+  {
+    "uri": "en/10/709420",
+    "id": "709420",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination fingercots",
+    "harm": {
+      "id": "0009971",
+      "title": "709420 - Examination fingercots",
+      "conceptLink": "/ec2/concept/5960583"
+    }
+  },
+  {
+    "uri": "en/10/709431",
+    "id": "709431",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examination gloves for medical use",
+    "harm": {
+      "id": "0028128",
+      "title": "709431 - Examination gloves for medical use",
+      "conceptLink": "/ec2/concept/5977198"
+    }
+  },
+  {
+    "uri": "en/10/131046570",
+    "id": "131046570",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Examining tables for hospital use",
+    "harm": {
+      "id": "0046062",
+      "title": "131046570 - Examining tables for hospital use",
+      "conceptLink": "/ec2/concept/5993576"
+    }
+  },
+  {
+    "uri": "en/10/709452",
+    "id": "709452",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise apparatus for medical rehabilitative purposes",
+    "harm": {
+      "id": "0021688",
+      "title": "709452 - Exercise apparatus for medical rehabilitative purposes",
+      "conceptLink": "/ec2/concept/5971299"
+    }
+  },
+  {
+    "uri": "en/10/709494",
+    "id": "709494",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise boots for medical rehabilitative purposes",
+    "harm": {
+      "id": "0021689",
+      "title": "709494 - Exercise boots for medical rehabilitative purposes",
+      "conceptLink": "/ec2/concept/5971300"
+    }
+  },
+  {
+    "uri": "en/10/709478",
+    "id": "709478",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise boots [orthopaedic footwear]",
+    "harm": {
+      "id": "0033072",
+      "title": "709478 - Exercise boots [orthopaedic footwear]",
+      "conceptLink": "/ec2/concept/5981723"
+    }
+  },
+  {
+    "uri": "en/10/709454",
+    "id": "709454",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise equipment for medical rehabilitative purposes",
+    "harm": {
+      "id": "0021688",
+      "title": "709454 - Exercise equipment for medical rehabilitative purposes",
+      "conceptLink": "/ec2/concept/5971299"
+    }
+  },
+  {
+    "uri": "en/10/709455",
+    "id": "709455",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise machines for medical rehabilitative purposes",
+    "harm": {
+      "id": "0021688",
+      "title": "709455 - Exercise machines for medical rehabilitative purposes",
+      "conceptLink": "/ec2/concept/5971299"
+    }
+  },
+  {
+    "uri": "en/10/404103",
+    "id": "404103",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise machines for therapeutic purposes",
+    "harm": {
+      "id": "0035902",
+      "title": "404103 - Exercise machines for therapeutic purposes",
+      "conceptLink": "/ec2/concept/5984291"
+    }
+  },
+  {
+    "uri": "en/10/709506",
+    "id": "709506",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercise simulating apparatus for medical purposes",
+    "harm": {
+      "id": "0044627",
+      "title": "709506 - Exercise simulating apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5992259"
+    }
+  },
+  {
+    "uri": "en/10/709518",
+    "id": "709518",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Exercisers [expanders] for medical therapy",
+    "harm": {
+      "id": "0016742",
+      "title": "709518 - Exercisers [expanders] for medical therapy",
+      "conceptLink": "/ec2/concept/5966796"
+    }
+  }
+]

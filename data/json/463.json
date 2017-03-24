@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/21/248140",
+    "id": "248140",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning cotton",
+    "harm": {
+      "id": "0057961",
+      "title": "248140 - Cleaning cotton",
+      "conceptLink": "/ec2/concept/5999465"
+    }
+  },
+  {
+    "uri": "en/21/249214",
+    "id": "249214",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning instruments, hand-operated",
+    "harm": {
+      "id": "0031538",
+      "title": "249214 - Cleaning instruments, hand-operated",
+      "conceptLink": "/ec2/concept/5980327"
+    }
+  },
+  {
+    "uri": "en/21/770995",
+    "id": "770995",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning leathers",
+    "harm": {
+      "id": "0012201",
+      "title": "770995 - Cleaning leathers",
+      "conceptLink": "/ec2/concept/5962630"
+    }
+  },
+  {
+    "uri": "en/21/427943",
+    "id": "427943",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning mitts of fabric",
+    "harm": {
+      "id": "0018787",
+      "title": "427943 - Cleaning mitts of fabric",
+      "conceptLink": "/ec2/concept/5968665"
+    }
+  },
+  {
+    "uri": "en/21/251622",
+    "id": "251622",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning pads",
+    "harm": {
+      "id": "0029809",
+      "title": "251622 - Cleaning pads",
+      "conceptLink": "/ec2/concept/5978753"
+    }
+  },
+  {
+    "uri": "en/21/61250239",
+    "id": "61250239",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning rags",
+    "harm": {
+      "id": "0057962",
+      "title": "61250239 - Cleaning rags",
+      "conceptLink": "/ec2/concept/5999466"
+    }
+  },
+  {
+    "uri": "en/21/248138",
+    "id": "248138",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning (Rags [cloth] for -)",
+    "harm": {
+      "id": "0057962",
+      "title": "248138 - Cleaning (Rags [cloth] for -)",
+      "conceptLink": "/ec2/concept/5999466"
+    }
+  },
+  {
+    "uri": "en/21/427963",
+    "id": "427963",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning sponges",
+    "harm": {
+      "id": "0044281",
+      "title": "427963 - Cleaning sponges",
+      "conceptLink": "/ec2/concept/5991939"
+    }
+  },
+  {
+    "uri": "en/21/256701",
+    "id": "256701",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cleaning tow",
+    "harm": {
+      "id": "0035457",
+      "title": "256701 - Cleaning tow",
+      "conceptLink": "/ec2/concept/5983891"
+    }
+  },
+  {
+    "uri": "en/21/248739",
+    "id": "248739",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Closures for pot lids",
+    "harm": {
+      "id": "0036027",
+      "title": "248739 - Closures for pot lids",
+      "conceptLink": "/ec2/concept/5984409"
+    }
+  },
+  {
+    "uri": "en/21/256307",
+    "id": "256307",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloth for washing floors",
+    "harm": {
+      "id": "0024260",
+      "title": "256307 - Cloth for washing floors",
+      "conceptLink": "/ec2/concept/5973669"
+    }
+  },
+  {
+    "uri": "en/21/250114",
+    "id": "250114",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes airers [clothes horse]",
+    "harm": {
+      "id": "0057972",
+      "title": "250114 - Clothes airers [clothes horse]",
+      "conceptLink": "/ec2/concept/5999476"
+    }
+  },
+  {
+    "uri": "en/21/771021",
+    "id": "771021",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes brushes",
+    "harm": {
+      "id": "0002746",
+      "title": "771021 - Clothes brushes",
+      "conceptLink": "/ec2/concept/5953959"
+    }
+  },
+  {
+    "uri": "en/21/349518",
+    "id": "349518",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes drying hangers",
+    "harm": {
+      "id": "0013263",
+      "title": "349518 - Clothes drying hangers",
+      "conceptLink": "/ec2/concept/5963596"
+    }
+  },
+  {
+    "uri": "en/21/119540192",
+    "id": "119540192",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes drying hangers specially designed for specialty clothing",
+    "harm": {
+      "id": "0066952",
+      "title": "119540192 - Clothes drying hangers specially designed for specialty clothing",
+      "conceptLink": "/ec2/concept/6003155"
+    }
+  },
+  {
+    "uri": "en/21/250109",
+    "id": "250109",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes drying racks",
+    "harm": {
+      "id": "0057973",
+      "title": "250109 - Clothes drying racks",
+      "conceptLink": "/ec2/concept/5999477"
+    }
+  },
+  {
+    "uri": "en/21/771036",
+    "id": "771036",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes drying racks [not heated]",
+    "harm": {
+      "id": "0057973",
+      "title": "771036 - Clothes drying racks [not heated]",
+      "conceptLink": "/ec2/concept/5999477"
+    }
+  },
+  {
+    "uri": "en/21/250115",
+    "id": "250115",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes horses",
+    "harm": {
+      "id": "0057972",
+      "title": "250115 - Clothes horses",
+      "conceptLink": "/ec2/concept/5999476"
+    }
+  },
+  {
+    "uri": "en/21/256729",
+    "id": "256729",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes-pegs",
+    "harm": {
+      "id": "0006510",
+      "title": "256729 - Clothes-pegs",
+      "conceptLink": "/ec2/concept/5957416"
+    }
+  },
+  {
+    "uri": "en/21/119540194",
+    "id": "119540194",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes pegs [clothes pins]",
+    "harm": {
+      "id": "0006510",
+      "title": "119540194 - Clothes pegs [clothes pins]",
+      "conceptLink": "/ec2/concept/5957416"
+    }
+  },
+  {
+    "uri": "en/21/256730",
+    "id": "256730",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes-pins",
+    "harm": {
+      "id": "0006510",
+      "title": "256730 - Clothes-pins",
+      "conceptLink": "/ec2/concept/5957416"
+    }
+  },
+  {
+    "uri": "en/21/250111",
+    "id": "250111",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothes racks, for drying",
+    "harm": {
+      "id": "0057973",
+      "title": "250111 - Clothes racks, for drying",
+      "conceptLink": "/ec2/concept/5999477"
+    }
+  },
+  {
+    "uri": "en/21/253381",
+    "id": "253381",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Clothing stretchers",
+    "harm": {
+      "id": "0020729",
+      "title": "253381 - Clothing stretchers",
+      "conceptLink": "/ec2/concept/5970428"
+    }
+  },
+  {
+    "uri": "en/21/248137",
+    "id": "248137",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for cleaning",
+    "harm": {
+      "id": "0057962",
+      "title": "248137 - Cloths for cleaning",
+      "conceptLink": "/ec2/concept/5999466"
+    }
+  },
+  {
+    "uri": "en/21/771051",
+    "id": "771051",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for cleaning made from cellulose",
+    "harm": {
+      "id": "0002747",
+      "title": "771051 - Cloths for cleaning made from cellulose",
+      "conceptLink": "/ec2/concept/5953960"
+    }
+  },
+  {
+    "uri": "en/21/248143",
+    "id": "248143",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for cleaning purposes",
+    "harm": {
+      "id": "0057962",
+      "title": "248143 - Cloths for cleaning purposes",
+      "conceptLink": "/ec2/concept/5999466"
+    }
+  },
+  {
+    "uri": "en/21/255723",
+    "id": "255723",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for dusting",
+    "harm": {
+      "id": "0058497",
+      "title": "255723 - Cloths for dusting",
+      "conceptLink": "/ec2/concept/5999996"
+    }
+  },
+  {
+    "uri": "en/21/771069",
+    "id": "771069",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for eye-glasses",
+    "harm": {
+      "id": "0024262",
+      "title": "771069 - Cloths for eye-glasses",
+      "conceptLink": "/ec2/concept/5973671"
+    }
+  },
+  {
+    "uri": "en/21/248144",
+    "id": "248144",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for polishing",
+    "harm": {
+      "id": "0000613",
+      "title": "248144 - Cloths for polishing",
+      "conceptLink": "/ec2/concept/5952039"
+    }
+  },
+  {
+    "uri": "en/21/771070",
+    "id": "771070",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for wiping eyeglasses",
+    "harm": {
+      "id": "0024262",
+      "title": "771070 - Cloths for wiping eyeglasses",
+      "conceptLink": "/ec2/concept/5973671"
+    }
+  },
+  {
+    "uri": "en/21/771099",
+    "id": "771099",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for wiping glasses",
+    "harm": {
+      "id": "0024262",
+      "title": "771099 - Cloths for wiping glasses",
+      "conceptLink": "/ec2/concept/5973671"
+    }
+  },
+  {
+    "uri": "en/21/771113",
+    "id": "771113",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for wiping optical lenses",
+    "harm": {
+      "id": "0025810",
+      "title": "771113 - Cloths for wiping optical lenses",
+      "conceptLink": "/ec2/concept/5975088"
+    }
+  },
+  {
+    "uri": "en/21/771071",
+    "id": "771071",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cloths for wiping spectacles",
+    "harm": {
+      "id": "0024262",
+      "title": "771071 - Cloths for wiping spectacles",
+      "conceptLink": "/ec2/concept/5973671"
+    }
+  },
+  {
+    "uri": "en/21/138349765",
+    "id": "138349765",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coal buckets for household use",
+    "harm": {
+      "id": "0070122",
+      "title": "138349765 - Coal buckets for household use",
+      "conceptLink": "/ec2/concept/6006324"
+    }
+  },
+  {
+    "uri": "en/21/17709945",
+    "id": "17709945",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coal scuttles",
+    "harm": {
+      "id": "0056182",
+      "title": "17709945 - Coal scuttles",
+      "conceptLink": "/ec2/concept/5997526"
+    }
+  },
+  {
+    "uri": "en/21/254864",
+    "id": "254864",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coasters, not of paper and other than table linen",
+    "harm": {
+      "id": "0007386",
+      "title": "254864 - Coasters, not of paper and other than table linen",
+      "conceptLink": "/ec2/concept/5958219"
+    }
+  },
+  {
+    "uri": "en/21/9510518",
+    "id": "9510518",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coasters, not of paper or textile",
+    "harm": {
+      "id": "0007386",
+      "title": "9510518 - Coasters, not of paper or textile",
+      "conceptLink": "/ec2/concept/5958219"
+    }
+  },
+  {
+    "uri": "en/21/427993",
+    "id": "427993",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coasters other than of paper or of table linen",
+    "harm": {
+      "id": "0007386",
+      "title": "427993 - Coasters other than of paper or of table linen",
+      "conceptLink": "/ec2/concept/5958219"
+    }
+  },
+  {
+    "uri": "en/21/887311",
+    "id": "887311",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coasters (tableware)",
+    "harm": {
+      "id": "0031438",
+      "title": "887311 - Coasters (tableware)",
+      "conceptLink": "/ec2/concept/5980246"
+    }
+  },
+  {
+    "uri": "en/21/11088529",
+    "id": "11088529",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cocktail glasses",
+    "harm": {
+      "id": "0056183",
+      "title": "11088529 - Cocktail glasses",
+      "conceptLink": "/ec2/concept/5997527"
+    }
+  },
+  {
+    "uri": "en/21/256772",
+    "id": "256772",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cocktail picks",
+    "harm": {
+      "id": "0046669",
+      "title": "256772 - Cocktail picks",
+      "conceptLink": "/ec2/concept/5994091"
+    }
+  },
+  {
+    "uri": "en/21/248389",
+    "id": "248389",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cocktail shakers",
+    "harm": {
+      "id": "0024290",
+      "title": "248389 - Cocktail shakers",
+      "conceptLink": "/ec2/concept/5973696"
+    }
+  },
+  {
+    "uri": "en/21/256770",
+    "id": "256770",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cocktail sticks",
+    "harm": {
+      "id": "0046669",
+      "title": "256770 - Cocktail sticks",
+      "conceptLink": "/ec2/concept/5994091"
+    }
+  },
+  {
+    "uri": "en/21/256771",
+    "id": "256771",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cocktail stirrers",
+    "harm": {
+      "id": "0046661",
+      "title": "256771 - Cocktail stirrers",
+      "conceptLink": "/ec2/concept/5994083"
+    }
+  },
+  {
+    "uri": "en/21/124508547",
+    "id": "124508547",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee brewers (Non-electric -)",
+    "harm": {
+      "id": "0018224",
+      "title": "124508547 - Coffee brewers (Non-electric -)",
+      "conceptLink": "/ec2/concept/5968139"
+    }
+  },
+  {
+    "uri": "en/21/901848",
+    "id": "901848",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee cups",
+    "harm": {
+      "id": "0028579",
+      "title": "901848 - Coffee cups",
+      "conceptLink": "/ec2/concept/5977623"
+    }
+  },
+  {
+    "uri": "en/21/254777",
+    "id": "254777",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee filters, non-electric",
+    "harm": {
+      "id": "0073970",
+      "title": "254777 - Coffee filters, non-electric",
+      "conceptLink": "/ec2/concept/6011206"
+    }
+  },
+  {
+    "uri": "en/21/62704564",
+    "id": "62704564",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee filters not of paper being part of non-electric coffee makers",
+    "harm": {
+      "id": "0073970",
+      "title": "62704564 - Coffee filters not of paper being part of non-electric coffee makers",
+      "conceptLink": "/ec2/concept/6011206"
+    }
+  },
+  {
+    "uri": "en/21/132870871",
+    "id": "132870871",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee filters, not of paper, being part of non-electric coffee makers",
+    "harm": {
+      "id": "0073970",
+      "title": "132870871 - Coffee filters, not of paper, being part of non-electric coffee makers",
+      "conceptLink": "/ec2/concept/6011206"
+    }
+  },
+  {
+    "uri": "en/21/887415",
+    "id": "887415",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee grinders",
+    "harm": {
+      "id": "0019959",
+      "title": "887415 - Coffee grinders",
+      "conceptLink": "/ec2/concept/5969722"
+    }
+  },
+  {
+    "uri": "en/21/254717",
+    "id": "254717",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee grinders, hand-operated",
+    "harm": {
+      "id": "0006869",
+      "title": "254717 - Coffee grinders, hand-operated",
+      "conceptLink": "/ec2/concept/5957740"
+    }
+  },
+  {
+    "uri": "en/21/132823915",
+    "id": "132823915",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee makers, non-electric",
+    "harm": {
+      "id": "0072930",
+      "title": "132823915 - Coffee makers, non-electric",
+      "conceptLink": "/ec2/concept/6009105"
+    }
+  },
+  {
+    "uri": "en/21/124507392",
+    "id": "124507392",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee mills (Hand operated -)",
+    "harm": {
+      "id": "0006869",
+      "title": "124507392 - Coffee mills (Hand operated -)",
+      "conceptLink": "/ec2/concept/5957740"
+    }
+  },
+  {
+    "uri": "en/21/901849",
+    "id": "901849",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee mugs",
+    "harm": {
+      "id": "0028579",
+      "title": "901849 - Coffee mugs",
+      "conceptLink": "/ec2/concept/5977623"
+    }
+  },
+  {
+    "uri": "en/21/254815",
+    "id": "254815",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee percolators, non-electric",
+    "harm": {
+      "id": "0007385",
+      "title": "254815 - Coffee percolators, non-electric",
+      "conceptLink": "/ec2/concept/5958218"
+    }
+  },
+  {
+    "uri": "en/21/770685",
+    "id": "770685",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee pots",
+    "harm": {
+      "id": "0042985",
+      "title": "770685 - Coffee pots",
+      "conceptLink": "/ec2/concept/5990749"
+    }
+  },
+  {
+    "uri": "en/21/255871",
+    "id": "255871",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee pots [non-electric]",
+    "harm": {
+      "id": "0018224",
+      "title": "255871 - Coffee pots [non-electric]",
+      "conceptLink": "/ec2/concept/5968139"
+    }
+  },
+  {
+    "uri": "en/21/1420170",
+    "id": "1420170",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee pots not of precious metal",
+    "harm": {
+      "id": "0056184",
+      "title": "1420170 - Coffee pots not of precious metal",
+      "conceptLink": "/ec2/concept/5997528"
+    }
+  },
+  {
+    "uri": "en/21/124050491",
+    "id": "124050491",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee scoops",
+    "harm": {
+      "id": "0060876",
+      "title": "124050491 - Coffee scoops",
+      "conceptLink": "/ec2/concept/6001196"
+    }
+  },
+  {
+    "uri": "en/21/961586",
+    "id": "961586",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee services, not of precious metal",
+    "harm": {
+      "id": "0071136",
+      "title": "961586 - Coffee services, not of precious metal",
+      "conceptLink": "/ec2/concept/6007328"
+    }
+  },
+  {
+    "uri": "en/21/771138",
+    "id": "771138",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee services of ceramic",
+    "harm": {
+      "id": "0001118",
+      "title": "771138 - Coffee services of ceramic",
+      "conceptLink": "/ec2/concept/5952492"
+    }
+  },
+  {
+    "uri": "en/21/771150",
+    "id": "771150",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee services of china",
+    "harm": {
+      "id": "0001119",
+      "title": "771150 - Coffee services of china",
+      "conceptLink": "/ec2/concept/5952493"
+    }
+  },
+  {
+    "uri": "en/21/25533845",
+    "id": "25533845",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee services of precious metal",
+    "harm": {
+      "id": "0056185",
+      "title": "25533845 - Coffee services of precious metal",
+      "conceptLink": "/ec2/concept/5997529"
+    }
+  },
+  {
+    "uri": "en/21/254755",
+    "id": "254755",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee services [tableware]",
+    "harm": {
+      "id": "0036328",
+      "title": "254755 - Coffee services [tableware]",
+      "conceptLink": "/ec2/concept/5984682"
+    }
+  },
+  {
+    "uri": "en/21/428010",
+    "id": "428010",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffee stirrers",
+    "harm": {
+      "id": "0030285",
+      "title": "428010 - Coffee stirrers",
+      "conceptLink": "/ec2/concept/5979187"
+    }
+  },
+  {
+    "uri": "en/21/255868",
+    "id": "255868",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coffeepots, non-electric",
+    "harm": {
+      "id": "0018224",
+      "title": "255868 - Coffeepots, non-electric",
+      "conceptLink": "/ec2/concept/5968139"
+    }
+  },
+  {
+    "uri": "en/21/137746155",
+    "id": "137746155",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coin banks",
+    "harm": {
+      "id": "0052123",
+      "title": "137746155 - Coin banks",
+      "conceptLink": "/ec2/concept/6011023"
+    }
+  },
+  {
+    "uri": "en/21/132832350",
+    "id": "132832350",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coin banks, not of metal",
+    "harm": {
+      "id": "0058767",
+      "title": "132832350 - Coin banks, not of metal",
+      "conceptLink": "/ec2/concept/6000258"
+    }
+  },
+  {
+    "uri": "en/21/132868299",
+    "id": "132868299",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coin banks, not of precious metal",
+    "harm": {
+      "id": "0066999",
+      "title": "132868299 - Coin banks, not of precious metal",
+      "conceptLink": "/ec2/concept/6003202"
+    }
+  },
+  {
+    "uri": "en/21/120897821",
+    "id": "120897821",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coin banks of precious metal",
+    "harm": {
+      "id": "0067004",
+      "title": "120897821 - Coin banks of precious metal",
+      "conceptLink": "/ec2/concept/6003207"
+    }
+  },
+  {
+    "uri": "en/21/233655974",
+    "id": "233655974",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coin banks (Piggy banks)",
+    "harm": {
+      "id": "0073933",
+      "title": "233655974 - Coin banks (Piggy banks)",
+      "conceptLink": "/ec2/concept/6010882"
+    }
+  },
+  {
+    "uri": "en/21/251851",
+    "id": "251851",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Colanders",
+    "harm": {
+      "id": "0036380",
+      "title": "251851 - Colanders",
+      "conceptLink": "/ec2/concept/5984731"
+    }
+  },
+  {
+    "uri": "en/21/132791345",
+    "id": "132791345",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Colanders for household purposes",
+    "harm": {
+      "id": "0058155",
+      "title": "132791345 - Colanders for household purposes",
+      "conceptLink": "/ec2/concept/5999656"
+    }
+  },
+  {
+    "uri": "en/21/248602",
+    "id": "248602",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Colanders for household use",
+    "harm": {
+      "id": "0058155",
+      "title": "248602 - Colanders for household use",
+      "conceptLink": "/ec2/concept/5999656"
+    }
+  },
+  {
+    "uri": "en/21/233595407",
+    "id": "233595407",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cold packs for chilling food and beverages",
+    "harm": {
+      "id": "0052117",
+      "title": "233595407 - Cold packs for chilling food and beverages",
+      "conceptLink": "/ec2/concept/6011017"
+    }
+  },
+  {
+    "uri": "en/21/119540220",
+    "id": "119540220",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Cold packs used to keep food and drink cold",
+    "harm": {
+      "id": "0067074",
+      "title": "119540220 - Cold packs used to keep food and drink cold",
+      "conceptLink": "/ec2/concept/6003277"
+    }
+  },
+  {
+    "uri": "en/21/254989",
+    "id": "254989",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coldboxes (Non-electric portable -)",
+    "harm": {
+      "id": "0024291",
+      "title": "254989 - Coldboxes (Non-electric portable -)",
+      "conceptLink": "/ec2/concept/5973697"
+    }
+  },
+  {
+    "uri": "en/21/126912307",
+    "id": "126912307",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coldboxes (Portable -), non-electric br.",
+    "harm": {
+      "id": "0024291",
+      "title": "126912307 - Coldboxes (Portable -), non-electric br.",
+      "conceptLink": "/ec2/concept/5973697"
+    }
+  },
+  {
+    "uri": "en/21/428024",
+    "id": "428024",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Collector plates",
+    "harm": {
+      "id": "0030286",
+      "title": "428024 - Collector plates",
+      "conceptLink": "/ec2/concept/5979188"
+    }
+  },
+  {
+    "uri": "en/21/349530",
+    "id": "349530",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Colored sheet glass [not for building]",
+    "harm": {
+      "id": "0030587",
+      "title": "349530 - Colored sheet glass [not for building]",
+      "conceptLink": "/ec2/concept/5979468"
+    }
+  },
+  {
+    "uri": "en/21/132806951",
+    "id": "132806951",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Colored sheet glass, not for building",
+    "harm": {
+      "id": "0030587",
+      "title": "132806951 - Colored sheet glass, not for building",
+      "conceptLink": "/ec2/concept/5979468"
+    }
+  },
+  {
+    "uri": "en/21/124996906",
+    "id": "124996906",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Coloured glass (Semi-worked -)",
+    "harm": {
+      "id": "0006870",
+      "title": "124996906 - Coloured glass (Semi-worked -)",
+      "conceptLink": "/ec2/concept/5957741"
+    }
+  },
+  {
+    "uri": "en/21/250212",
+    "id": "250212",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Comb cases",
+    "harm": {
+      "id": "0016510",
+      "title": "250212 - Comb cases",
+      "conceptLink": "/ec2/concept/5966584"
+    }
+  },
+  {
+    "uri": "en/21/251933",
+    "id": "251933",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Comb (electric)",
+    "harm": {
+      "id": "0035825",
+      "title": "251933 - Comb (electric)",
+      "conceptLink": "/ec2/concept/5984229"
+    }
+  },
+  {
+    "uri": "en/21/771180",
+    "id": "771180",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combined lids for kitchen containers",
+    "harm": {
+      "id": "0006871",
+      "title": "771180 - Combined lids for kitchen containers",
+      "conceptLink": "/ec2/concept/5957742"
+    }
+  },
+  {
+    "uri": "en/21/248081",
+    "id": "248081",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs",
+    "harm": {
+      "id": "0014241",
+      "title": "248081 - Combs",
+      "conceptLink": "/ec2/concept/5964495"
+    }
+  },
+  {
+    "uri": "en/21/251934",
+    "id": "251934",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs (Electric -)",
+    "harm": {
+      "id": "0035825",
+      "title": "251934 - Combs (Electric -)",
+      "conceptLink": "/ec2/concept/5984229"
+    }
+  },
+  {
+    "uri": "en/21/248059",
+    "id": "248059",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs for animals",
+    "harm": {
+      "id": "0041076",
+      "title": "248059 - Combs for animals",
+      "conceptLink": "/ec2/concept/5989014"
+    }
+  },
+  {
+    "uri": "en/21/119540226",
+    "id": "119540226",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs for back-combing hair",
+    "harm": {
+      "id": "0056186",
+      "title": "119540226 - Combs for back-combing hair",
+      "conceptLink": "/ec2/concept/5997530"
+    }
+  },
+  {
+    "uri": "en/21/249404",
+    "id": "249404",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs for the hair (Large-toothed -)",
+    "harm": {
+      "id": "0031539",
+      "title": "249404 - Combs for the hair (Large-toothed -)",
+      "conceptLink": "/ec2/concept/5980328"
+    }
+  },
+  {
+    "uri": "en/21/771190",
+    "id": "771190",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Combs for use on domestic animals",
+    "harm": {
+      "id": "0012704",
+      "title": "771190 - Combs for use on domestic animals",
+      "conceptLink": "/ec2/concept/5963088"
+    }
+  },
+  {
+    "uri": "en/21/428044",
+    "id": "428044",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Commemorative plates",
+    "harm": {
+      "id": "0001393",
+      "title": "428044 - Commemorative plates",
+      "conceptLink": "/ec2/concept/5952741"
+    }
+  },
+  {
+    "uri": "en/21/132836196",
+    "id": "132836196",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Common sheet glass, not for building",
+    "harm": {
+      "id": "0024838",
+      "title": "132836196 - Common sheet glass, not for building",
+      "conceptLink": "/ec2/concept/5974202"
+    }
+  },
+  {
+    "uri": "en/21/349545",
+    "id": "349545",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Common sheet glass [not for building]",
+    "harm": {
+      "id": "0024838",
+      "title": "349545 - Common sheet glass [not for building]",
+      "conceptLink": "/ec2/concept/5974202"
+    }
+  },
+  {
+    "uri": "en/21/97758846",
+    "id": "97758846",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compost containers for household use",
+    "harm": {
+      "id": "0066945",
+      "title": "97758846 - Compost containers for household use",
+      "conceptLink": "/ec2/concept/6003148"
+    }
+  },
+  {
+    "uri": "en/21/132853688",
+    "id": "132853688",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compostable bowls",
+    "harm": {
+      "id": "0060667",
+      "title": "132853688 - Compostable bowls",
+      "conceptLink": "/ec2/concept/5998609"
+    }
+  },
+  {
+    "uri": "en/21/132853689",
+    "id": "132853689",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compostable cups",
+    "harm": {
+      "id": "0067015",
+      "title": "132853689 - Compostable cups",
+      "conceptLink": "/ec2/concept/6003218"
+    }
+  },
+  {
+    "uri": "en/21/132853682",
+    "id": "132853682",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compostable plates",
+    "harm": {
+      "id": "0060668",
+      "title": "132853682 - Compostable plates",
+      "conceptLink": "/ec2/concept/5998610"
+    }
+  },
+  {
+    "uri": "en/21/137056828",
+    "id": "137056828",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compostable trays",
+    "harm": {
+      "id": "0060669",
+      "title": "137056828 - Compostable trays",
+      "conceptLink": "/ec2/concept/5998611"
+    }
+  },
+  {
+    "uri": "en/21/132853693",
+    "id": "132853693",
+    "lang": "en",
+    "classNumber": "21",
+    "term": "Compostable trays for domestic purposes",
+    "harm": {
+      "id": "0067014",
+      "title": "132853693 - Compostable trays for domestic purposes",
+      "conceptLink": "/ec2/concept/6003217"
+    }
+  }
+]

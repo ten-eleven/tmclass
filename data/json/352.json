@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/13/557579",
+    "id": "557579",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Actuators being parts of weapon ejecting installations",
+    "harm": {
+      "id": "0029167",
+      "title": "557579 - Actuators being parts of weapon ejecting installations",
+      "conceptLink": "/ec2/concept/5978168"
+    }
+  },
+  {
+    "uri": "en/13/413748",
+    "id": "413748",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Adjusting knobs for gun sights",
+    "harm": {
+      "id": "0022446",
+      "title": "413748 - Adjusting knobs for gun sights",
+      "conceptLink": "/ec2/concept/5972001"
+    }
+  },
+  {
+    "uri": "en/13/339101",
+    "id": "339101",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Aerial bombs",
+    "harm": {
+      "id": "0038041",
+      "title": "339101 - Aerial bombs",
+      "conceptLink": "/ec2/concept/5986235"
+    }
+  },
+  {
+    "uri": "en/13/196230",
+    "id": "196230",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Aiming mirrors for rifles",
+    "harm": {
+      "id": "0040742",
+      "title": "196230 - Aiming mirrors for rifles",
+      "conceptLink": "/ec2/concept/5988711"
+    }
+  },
+  {
+    "uri": "en/13/415188",
+    "id": "415188",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Aiming sights [other than telescopic]",
+    "harm": {
+      "id": "0034944",
+      "title": "415188 - Aiming sights [other than telescopic]",
+      "conceptLink": "/ec2/concept/5983427"
+    }
+  },
+  {
+    "uri": "en/13/120898296",
+    "id": "120898296",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air gun pellets",
+    "harm": {
+      "id": "0070998",
+      "title": "120898296 - Air gun pellets",
+      "conceptLink": "/ec2/concept/6007190"
+    }
+  },
+  {
+    "uri": "en/13/557617",
+    "id": "557617",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air guns",
+    "harm": {
+      "id": "0006065",
+      "title": "557617 - Air guns",
+      "conceptLink": "/ec2/concept/5957009"
+    }
+  },
+  {
+    "uri": "en/13/137855610",
+    "id": "137855610",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air guns [weapons]",
+    "harm": {
+      "id": "0006065",
+      "title": "137855610 - Air guns [weapons]",
+      "conceptLink": "/ec2/concept/5957009"
+    }
+  },
+  {
+    "uri": "en/13/339118",
+    "id": "339118",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air pistol bullets",
+    "harm": {
+      "id": "0006066",
+      "title": "339118 - Air pistol bullets",
+      "conceptLink": "/ec2/concept/5957010"
+    }
+  },
+  {
+    "uri": "en/13/339119",
+    "id": "339119",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air pistol slugs",
+    "harm": {
+      "id": "0006066",
+      "title": "339119 - Air pistol slugs",
+      "conceptLink": "/ec2/concept/5957010"
+    }
+  },
+  {
+    "uri": "en/13/339136",
+    "id": "339136",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air pistols [air guns]",
+    "harm": {
+      "id": "0027161",
+      "title": "339136 - Air pistols [air guns]",
+      "conceptLink": "/ec2/concept/5976303"
+    }
+  },
+  {
+    "uri": "en/13/196878",
+    "id": "196878",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air pistols [weapons]",
+    "harm": {
+      "id": "0036053",
+      "title": "196878 - Air pistols [weapons]",
+      "conceptLink": "/ec2/concept/5984430"
+    }
+  },
+  {
+    "uri": "en/13/129841783",
+    "id": "129841783",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air rifles [weapons]",
+    "harm": {
+      "id": "0066384",
+      "title": "129841783 - Air rifles [weapons]",
+      "conceptLink": "/ec2/concept/6002587"
+    }
+  },
+  {
+    "uri": "en/13/413761",
+    "id": "413761",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air shot",
+    "harm": {
+      "id": "0033842",
+      "title": "413761 - Air shot",
+      "conceptLink": "/ec2/concept/5982428"
+    }
+  },
+  {
+    "uri": "en/13/491644",
+    "id": "491644",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air-to-air missiles",
+    "harm": {
+      "id": "0040703",
+      "title": "491644 - Air-to-air missiles",
+      "conceptLink": "/ec2/concept/5988679"
+    }
+  },
+  {
+    "uri": "en/13/489795",
+    "id": "489795",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Air-to-surfaces missiles",
+    "harm": {
+      "id": "0001905",
+      "title": "489795 - Air-to-surfaces missiles",
+      "conceptLink": "/ec2/concept/5953202"
+    }
+  },
+  {
+    "uri": "en/13/194722",
+    "id": "194722",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammonium nitrate explosives",
+    "harm": {
+      "id": "0020448",
+      "title": "194722 - Ammonium nitrate explosives",
+      "conceptLink": "/ec2/concept/5970171"
+    }
+  },
+  {
+    "uri": "en/13/195691",
+    "id": "195691",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition",
+    "harm": {
+      "id": "0029344",
+      "title": "195691 - Ammunition",
+      "conceptLink": "/ec2/concept/5978321"
+    }
+  },
+  {
+    "uri": "en/13/505973",
+    "id": "505973",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition and projectiles",
+    "harm": {
+      "id": "0013880",
+      "title": "505973 - Ammunition and projectiles",
+      "conceptLink": "/ec2/concept/5964158"
+    }
+  },
+  {
+    "uri": "en/13/413773",
+    "id": "413773",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition bags",
+    "harm": {
+      "id": "0039627",
+      "title": "413773 - Ammunition bags",
+      "conceptLink": "/ec2/concept/5987684"
+    }
+  },
+  {
+    "uri": "en/13/413787",
+    "id": "413787",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition casings",
+    "harm": {
+      "id": "0022447",
+      "title": "413787 - Ammunition casings",
+      "conceptLink": "/ec2/concept/5972002"
+    }
+  },
+  {
+    "uri": "en/13/196353",
+    "id": "196353",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition for firearms",
+    "harm": {
+      "id": "0023454",
+      "title": "196353 - Ammunition for firearms",
+      "conceptLink": "/ec2/concept/5972922"
+    }
+  },
+  {
+    "uri": "en/13/196355",
+    "id": "196355",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition for guns",
+    "harm": {
+      "id": "0023454",
+      "title": "196355 - Ammunition for guns",
+      "conceptLink": "/ec2/concept/5972922"
+    }
+  },
+  {
+    "uri": "en/13/339151",
+    "id": "339151",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition hoists",
+    "harm": {
+      "id": "0015645",
+      "title": "339151 - Ammunition hoists",
+      "conceptLink": "/ec2/concept/5965782"
+    }
+  },
+  {
+    "uri": "en/13/413799",
+    "id": "413799",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ammunition wagons",
+    "harm": {
+      "id": "0005025",
+      "title": "413799 - Ammunition wagons",
+      "conceptLink": "/ec2/concept/5956059"
+    }
+  },
+  {
+    "uri": "en/13/900511",
+    "id": "900511",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Anti-aircraft guns",
+    "harm": {
+      "id": "0029308",
+      "title": "900511 - Anti-aircraft guns",
+      "conceptLink": "/ec2/concept/5978290"
+    }
+  },
+  {
+    "uri": "en/13/491490",
+    "id": "491490",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Anti submarine torpedoes fitted with warheads",
+    "harm": {
+      "id": "0007799",
+      "title": "491490 - Anti submarine torpedoes fitted with warheads",
+      "conceptLink": "/ec2/concept/5958594"
+    }
+  },
+  {
+    "uri": "en/13/491664",
+    "id": "491664",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Anti-tank mines",
+    "harm": {
+      "id": "0000246",
+      "title": "491664 - Anti-tank mines",
+      "conceptLink": "/ec2/concept/5951716"
+    }
+  },
+  {
+    "uri": "en/13/24485466",
+    "id": "24485466",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Apparatus for filling cartridge belts",
+    "harm": {
+      "id": "0024869",
+      "title": "24485466 - Apparatus for filling cartridge belts",
+      "conceptLink": "/ec2/concept/5974231"
+    }
+  },
+  {
+    "uri": "en/13/557643",
+    "id": "557643",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armaments",
+    "harm": {
+      "id": "0021806",
+      "title": "557643 - Armaments",
+      "conceptLink": "/ec2/concept/5971410"
+    }
+  },
+  {
+    "uri": "en/13/557654",
+    "id": "557654",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armaments installations",
+    "harm": {
+      "id": "0017607",
+      "title": "557654 - Armaments installations",
+      "conceptLink": "/ec2/concept/5967569"
+    }
+  },
+  {
+    "uri": "en/13/413812",
+    "id": "413812",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armor piercing projectiles",
+    "harm": {
+      "id": "0019344",
+      "title": "413812 - Armor piercing projectiles",
+      "conceptLink": "/ec2/concept/5969166"
+    }
+  },
+  {
+    "uri": "en/13/413832",
+    "id": "413832",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armor piercing shells",
+    "harm": {
+      "id": "0033843",
+      "title": "413832 - Armor piercing shells",
+      "conceptLink": "/ec2/concept/5982429"
+    }
+  },
+  {
+    "uri": "en/13/413844",
+    "id": "413844",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armored turrets",
+    "harm": {
+      "id": "0005026",
+      "title": "413844 - Armored turrets",
+      "conceptLink": "/ec2/concept/5956060"
+    }
+  },
+  {
+    "uri": "en/13/490493",
+    "id": "490493",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armour-piercing incendiary projectiles",
+    "harm": {
+      "id": "0017971",
+      "title": "490493 - Armour-piercing incendiary projectiles",
+      "conceptLink": "/ec2/concept/5967904"
+    }
+  },
+  {
+    "uri": "en/13/492330",
+    "id": "492330",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armour-piercing incendiary projectiles for use by aircraft",
+    "harm": {
+      "id": "0041236",
+      "title": "492330 - Armour-piercing incendiary projectiles for use by aircraft",
+      "conceptLink": "/ec2/concept/5989161"
+    }
+  },
+  {
+    "uri": "en/13/413813",
+    "id": "413813",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armour-piercing projectiles",
+    "harm": {
+      "id": "0019344",
+      "title": "413813 - Armour-piercing projectiles",
+      "conceptLink": "/ec2/concept/5969166"
+    }
+  },
+  {
+    "uri": "en/13/492187",
+    "id": "492187",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Armour-piercing projectiles for use by aircraft",
+    "harm": {
+      "id": "0042809",
+      "title": "492187 - Armour-piercing projectiles for use by aircraft",
+      "conceptLink": "/ec2/concept/5990586"
+    }
+  },
+  {
+    "uri": "en/13/195137",
+    "id": "195137",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Artillery",
+    "harm": {
+      "id": "0059260",
+      "title": "195137 - Artillery",
+      "conceptLink": "/ec2/concept/6000744"
+    }
+  },
+  {
+    "uri": "en/13/195140",
+    "id": "195140",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Artillery guns",
+    "harm": {
+      "id": "0059260",
+      "title": "195140 - Artillery guns",
+      "conceptLink": "/ec2/concept/6000744"
+    }
+  },
+  {
+    "uri": "en/13/195135",
+    "id": "195135",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Artillery guns [cannons]",
+    "harm": {
+      "id": "0059260",
+      "title": "195135 - Artillery guns [cannons]",
+      "conceptLink": "/ec2/concept/6000744"
+    }
+  },
+  {
+    "uri": "en/13/195138",
+    "id": "195138",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Artillery pieces",
+    "harm": {
+      "id": "0059260",
+      "title": "195138 - Artillery pieces",
+      "conceptLink": "/ec2/concept/6000744"
+    }
+  },
+  {
+    "uri": "en/13/413857",
+    "id": "413857",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic carbines",
+    "harm": {
+      "id": "0045378",
+      "title": "413857 - Automatic carbines",
+      "conceptLink": "/ec2/concept/5992947"
+    }
+  },
+  {
+    "uri": "en/13/910247",
+    "id": "910247",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic firearm ammunition belts",
+    "harm": {
+      "id": "0009059",
+      "title": "910247 - Automatic firearm ammunition belts",
+      "conceptLink": "/ec2/concept/5959748"
+    }
+  },
+  {
+    "uri": "en/13/413877",
+    "id": "413877",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic guns",
+    "harm": {
+      "id": "0008036",
+      "title": "413877 - Automatic guns",
+      "conceptLink": "/ec2/concept/5958812"
+    }
+  },
+  {
+    "uri": "en/13/413875",
+    "id": "413875",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic pistols",
+    "harm": {
+      "id": "0008036",
+      "title": "413875 - Automatic pistols",
+      "conceptLink": "/ec2/concept/5958812"
+    }
+  },
+  {
+    "uri": "en/13/413903",
+    "id": "413903",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic revolvers",
+    "harm": {
+      "id": "0016555",
+      "title": "413903 - Automatic revolvers",
+      "conceptLink": "/ec2/concept/5966622"
+    }
+  },
+  {
+    "uri": "en/13/413876",
+    "id": "413876",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Automatic rifles",
+    "harm": {
+      "id": "0008036",
+      "title": "413876 - Automatic rifles",
+      "conceptLink": "/ec2/concept/5958812"
+    }
+  },
+  {
+    "uri": "en/13/557666",
+    "id": "557666",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bags for storing firearms [specifically adapted]",
+    "harm": {
+      "id": "0042386",
+      "title": "557666 - Bags for storing firearms [specifically adapted]",
+      "conceptLink": "/ec2/concept/5990211"
+    }
+  },
+  {
+    "uri": "en/13/119534508",
+    "id": "119534508",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bags specially adapted to hold rifles",
+    "harm": {
+      "id": "0039510",
+      "title": "119534508 - Bags specially adapted to hold rifles",
+      "conceptLink": "/ec2/concept/5987578"
+    }
+  },
+  {
+    "uri": "en/13/195232",
+    "id": "195232",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ballistic missiles",
+    "harm": {
+      "id": "0007401",
+      "title": "195232 - Ballistic missiles",
+      "conceptLink": "/ec2/concept/5958233"
+    }
+  },
+  {
+    "uri": "en/13/195229",
+    "id": "195229",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Ballistic weapons",
+    "harm": {
+      "id": "0007401",
+      "title": "195229 - Ballistic weapons",
+      "conceptLink": "/ec2/concept/5958233"
+    }
+  },
+  {
+    "uri": "en/13/413916",
+    "id": "413916",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bandoliers for holding cartridges and ammunition cases",
+    "harm": {
+      "id": "0028099",
+      "title": "413916 - Bandoliers for holding cartridges and ammunition cases",
+      "conceptLink": "/ec2/concept/5977172"
+    }
+  },
+  {
+    "uri": "en/13/197016",
+    "id": "197016",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bandoliers for weapons",
+    "harm": {
+      "id": "0023371",
+      "title": "197016 - Bandoliers for weapons",
+      "conceptLink": "/ec2/concept/5972846"
+    }
+  },
+  {
+    "uri": "en/13/413928",
+    "id": "413928",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Barrel reflectors for firearms",
+    "harm": {
+      "id": "0045379",
+      "title": "413928 - Barrel reflectors for firearms",
+      "conceptLink": "/ec2/concept/5992948"
+    }
+  },
+  {
+    "uri": "en/13/557683",
+    "id": "557683",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Barrels for cannons",
+    "harm": {
+      "id": "0025090",
+      "title": "557683 - Barrels for cannons",
+      "conceptLink": "/ec2/concept/5974431"
+    }
+  },
+  {
+    "uri": "en/13/195430",
+    "id": "195430",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Barrels (Gun -)",
+    "harm": {
+      "id": "0014607",
+      "title": "195430 - Barrels (Gun -)",
+      "conceptLink": "/ec2/concept/5964836"
+    }
+  },
+  {
+    "uri": "en/13/195428",
+    "id": "195428",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Barrels (Rifle -)",
+    "harm": {
+      "id": "0014607",
+      "title": "195428 - Barrels (Rifle -)",
+      "conceptLink": "/ec2/concept/5964836"
+    }
+  },
+  {
+    "uri": "en/13/135854581",
+    "id": "135854581",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "BB guns",
+    "harm": {
+      "id": "0056784",
+      "title": "135854581 - BB guns",
+      "conceptLink": "/ec2/concept/5998064"
+    }
+  },
+  {
+    "uri": "en/13/900963",
+    "id": "900963",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Belts adapted for ammunition",
+    "harm": {
+      "id": "0058226",
+      "title": "900963 - Belts adapted for ammunition",
+      "conceptLink": "/ec2/concept/5999727"
+    }
+  },
+  {
+    "uri": "en/13/195307",
+    "id": "195307",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bengal lights",
+    "harm": {
+      "id": "0007466",
+      "title": "195307 - Bengal lights",
+      "conceptLink": "/ec2/concept/5958291"
+    }
+  },
+  {
+    "uri": "en/13/413943",
+    "id": "413943",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bengal lights [fireworks]",
+    "harm": {
+      "id": "0038817",
+      "title": "413943 - Bengal lights [fireworks]",
+      "conceptLink": "/ec2/concept/5986949"
+    }
+  },
+  {
+    "uri": "en/13/119534515",
+    "id": "119534515",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Black powder",
+    "harm": {
+      "id": "0031498",
+      "title": "119534515 - Black powder",
+      "conceptLink": "/ec2/concept/5980294"
+    }
+  },
+  {
+    "uri": "en/13/413959",
+    "id": "413959",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blank cartridge shells",
+    "harm": {
+      "id": "0015728",
+      "title": "413959 - Blank cartridge shells",
+      "conceptLink": "/ec2/concept/5965860"
+    }
+  },
+  {
+    "uri": "en/13/413970",
+    "id": "413970",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blank cartridges",
+    "harm": {
+      "id": "0004193",
+      "title": "413970 - Blank cartridges",
+      "conceptLink": "/ec2/concept/5955284"
+    }
+  },
+  {
+    "uri": "en/13/413986",
+    "id": "413986",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting cap protectors",
+    "harm": {
+      "id": "0021637",
+      "title": "413986 - Blasting cap protectors",
+      "conceptLink": "/ec2/concept/5971252"
+    }
+  },
+  {
+    "uri": "en/13/194757",
+    "id": "194757",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting caps",
+    "harm": {
+      "id": "0057647",
+      "title": "194757 - Blasting caps",
+      "conceptLink": "/ec2/concept/5999151"
+    }
+  },
+  {
+    "uri": "en/13/413999",
+    "id": "413999",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting compounds",
+    "harm": {
+      "id": "0004194",
+      "title": "413999 - Blasting compounds",
+      "conceptLink": "/ec2/concept/5955285"
+    }
+  },
+  {
+    "uri": "en/13/196032",
+    "id": "196032",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting explosives",
+    "harm": {
+      "id": "0009911",
+      "title": "196032 - Blasting explosives",
+      "conceptLink": "/ec2/concept/5960526"
+    }
+  },
+  {
+    "uri": "en/13/414012",
+    "id": "414012",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting gelatin",
+    "harm": {
+      "id": "0009912",
+      "title": "414012 - Blasting gelatin",
+      "conceptLink": "/ec2/concept/5960527"
+    }
+  },
+  {
+    "uri": "en/13/414024",
+    "id": "414024",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting paper",
+    "harm": {
+      "id": "0033012",
+      "title": "414024 - Blasting paper",
+      "conceptLink": "/ec2/concept/5981666"
+    }
+  },
+  {
+    "uri": "en/13/196615",
+    "id": "196615",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Blasting powder",
+    "harm": {
+      "id": "0031498",
+      "title": "196615 - Blasting powder",
+      "conceptLink": "/ec2/concept/5980294"
+    }
+  },
+  {
+    "uri": "en/13/339164",
+    "id": "339164",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bomb releasers",
+    "harm": {
+      "id": "0021536",
+      "title": "339164 - Bomb releasers",
+      "conceptLink": "/ec2/concept/5971165"
+    }
+  },
+  {
+    "uri": "en/13/414040",
+    "id": "414040",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bombs",
+    "harm": {
+      "id": "0009913",
+      "title": "414040 - Bombs",
+      "conceptLink": "/ec2/concept/5960528"
+    }
+  },
+  {
+    "uri": "en/13/557702",
+    "id": "557702",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Breach boxes for guns",
+    "harm": {
+      "id": "0019345",
+      "title": "557702 - Breach boxes for guns",
+      "conceptLink": "/ec2/concept/5969167"
+    }
+  },
+  {
+    "uri": "en/13/195879",
+    "id": "195879",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Breeches of firearms",
+    "harm": {
+      "id": "0009262",
+      "title": "195879 - Breeches of firearms",
+      "conceptLink": "/ec2/concept/5959935"
+    }
+  },
+  {
+    "uri": "en/13/120904273",
+    "id": "120904273",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bullet extractors",
+    "harm": {
+      "id": "0066383",
+      "title": "120904273 - Bullet extractors",
+      "conceptLink": "/ec2/concept/6002586"
+    }
+  },
+  {
+    "uri": "en/13/414060",
+    "id": "414060",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bullet molds",
+    "harm": {
+      "id": "0038818",
+      "title": "414060 - Bullet molds",
+      "conceptLink": "/ec2/concept/5986950"
+    }
+  },
+  {
+    "uri": "en/13/414074",
+    "id": "414074",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bullets",
+    "harm": {
+      "id": "0029344",
+      "title": "414074 - Bullets",
+      "conceptLink": "/ec2/concept/5978321"
+    }
+  },
+  {
+    "uri": "en/13/557712",
+    "id": "557712",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Bullets for use with rifles",
+    "harm": {
+      "id": "0013507",
+      "title": "557712 - Bullets for use with rifles",
+      "conceptLink": "/ec2/concept/5963816"
+    }
+  },
+  {
+    "uri": "en/13/120870857",
+    "id": "120870857",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Butt plates for firearms",
+    "harm": {
+      "id": "0066373",
+      "title": "120870857 - Butt plates for firearms",
+      "conceptLink": "/ec2/concept/6002576"
+    }
+  },
+  {
+    "uri": "en/13/120898303",
+    "id": "120898303",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Butt plates for pistols",
+    "harm": {
+      "id": "0066371",
+      "title": "120898303 - Butt plates for pistols",
+      "conceptLink": "/ec2/concept/6002574"
+    }
+  },
+  {
+    "uri": "en/13/120898306",
+    "id": "120898306",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Butt plates for rifles",
+    "harm": {
+      "id": "0070999",
+      "title": "120898306 - Butt plates for rifles",
+      "conceptLink": "/ec2/concept/6007191"
+    }
+  },
+  {
+    "uri": "en/13/414095",
+    "id": "414095",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Butt plates for shotguns",
+    "harm": {
+      "id": "0005278",
+      "title": "414095 - Butt plates for shotguns",
+      "conceptLink": "/ec2/concept/5956285"
+    }
+  },
+  {
+    "uri": "en/13/120871953",
+    "id": "120871953",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Butts for small arms",
+    "harm": {
+      "id": "0025990",
+      "title": "120871953 - Butts for small arms",
+      "conceptLink": "/ec2/concept/5975255"
+    }
+  },
+  {
+    "uri": "en/13/557727",
+    "id": "557727",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cannon carriages [artillery]",
+    "harm": {
+      "id": "0025091",
+      "title": "557727 - Cannon carriages [artillery]",
+      "conceptLink": "/ec2/concept/5974432"
+    }
+  },
+  {
+    "uri": "en/13/557684",
+    "id": "557684",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cannon tubes",
+    "harm": {
+      "id": "0025090",
+      "title": "557684 - Cannon tubes",
+      "conceptLink": "/ec2/concept/5974431"
+    }
+  },
+  {
+    "uri": "en/13/195139",
+    "id": "195139",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cannons",
+    "harm": {
+      "id": "0059259",
+      "title": "195139 - Cannons",
+      "conceptLink": "/ec2/concept/6000743"
+    }
+  },
+  {
+    "uri": "en/13/195134",
+    "id": "195134",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cannons [artillery guns]",
+    "harm": {
+      "id": "0059260",
+      "title": "195134 - Cannons [artillery guns]",
+      "conceptLink": "/ec2/concept/6000744"
+    }
+  },
+  {
+    "uri": "en/13/195483",
+    "id": "195483",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Carbines",
+    "harm": {
+      "id": "0072754",
+      "title": "195483 - Carbines",
+      "conceptLink": "/ec2/concept/6008930"
+    }
+  },
+  {
+    "uri": "en/13/612023",
+    "id": "612023",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Carrying cases adapted for firearms",
+    "harm": {
+      "id": "0003187",
+      "title": "612023 - Carrying cases adapted for firearms",
+      "conceptLink": "/ec2/concept/5954368"
+    }
+  },
+  {
+    "uri": "en/13/195279",
+    "id": "195279",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge belt filling machines",
+    "harm": {
+      "id": "0024869",
+      "title": "195279 - Cartridge belt filling machines",
+      "conceptLink": "/ec2/concept/5974231"
+    }
+  },
+  {
+    "uri": "en/13/195591",
+    "id": "195591",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge belts",
+    "harm": {
+      "id": "0058227",
+      "title": "195591 - Cartridge belts",
+      "conceptLink": "/ec2/concept/5999728"
+    }
+  },
+  {
+    "uri": "en/13/195278",
+    "id": "195278",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge belts (Apparatus for filling -)",
+    "harm": {
+      "id": "0024869",
+      "title": "195278 - Cartridge belts (Apparatus for filling -)",
+      "conceptLink": "/ec2/concept/5974231"
+    }
+  },
+  {
+    "uri": "en/13/120874191",
+    "id": "120874191",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge case extractors",
+    "harm": {
+      "id": "0066372",
+      "title": "120874191 - Cartridge case extractors",
+      "conceptLink": "/ec2/concept/6002575"
+    }
+  },
+  {
+    "uri": "en/13/557743",
+    "id": "557743",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge case receivers for automatic firearms",
+    "harm": {
+      "id": "0001927",
+      "title": "557743 - Cartridge case receivers for automatic firearms",
+      "conceptLink": "/ec2/concept/5953219"
+    }
+  },
+  {
+    "uri": "en/13/557756",
+    "id": "557756",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge case receivers for semi-automatic firearms",
+    "harm": {
+      "id": "0025092",
+      "title": "557756 - Cartridge case receivers for semi-automatic firearms",
+      "conceptLink": "/ec2/concept/5974433"
+    }
+  },
+  {
+    "uri": "en/13/195383",
+    "id": "195383",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge cases",
+    "harm": {
+      "id": "0057997",
+      "title": "195383 - Cartridge cases",
+      "conceptLink": "/ec2/concept/5999501"
+    }
+  },
+  {
+    "uri": "en/13/414121",
+    "id": "414121",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge dies",
+    "harm": {
+      "id": "0005279",
+      "title": "414121 - Cartridge dies",
+      "conceptLink": "/ec2/concept/5956286"
+    }
+  },
+  {
+    "uri": "en/13/414133",
+    "id": "414133",
+    "lang": "en",
+    "classNumber": "13",
+    "term": "Cartridge fillers",
+    "harm": {
+      "id": "0045625",
+      "title": "414133 - Cartridge fillers",
+      "conceptLink": "/ec2/concept/5993169"
+    }
+  }
+]

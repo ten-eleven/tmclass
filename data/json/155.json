@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/123094",
+    "id": "123094",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electromechanical beverage preparation machines",
+    "harm": {
+      "id": "0026393",
+      "title": "123094 - Electromechanical beverage preparation machines",
+      "conceptLink": "/ec2/concept/5975621"
+    }
+  },
+  {
+    "uri": "en/7/126971",
+    "id": "126971",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electromechanical food preparation machines",
+    "harm": {
+      "id": "0036013",
+      "title": "126971 - Electromechanical food preparation machines",
+      "conceptLink": "/ec2/concept/5984395"
+    }
+  },
+  {
+    "uri": "en/7/129391",
+    "id": "129391",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electromechanical machines for the chemical industry",
+    "harm": {
+      "id": "0035099",
+      "title": "129391 - Electromechanical machines for the chemical industry",
+      "conceptLink": "/ec2/concept/5983566"
+    }
+  },
+  {
+    "uri": "en/7/129392",
+    "id": "129392",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electromechanical machines for chemical industry",
+    "harm": {
+      "id": "0035099",
+      "title": "129392 - Electromechanical machines for chemical industry",
+      "conceptLink": "/ec2/concept/5983566"
+    }
+  },
+  {
+    "uri": "en/7/120825813",
+    "id": "120825813",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic controls for motors",
+    "harm": {
+      "id": "0065614",
+      "title": "120825813 - Electronic controls for motors",
+      "conceptLink": "/ec2/concept/6001817"
+    }
+  },
+  {
+    "uri": "en/7/903344",
+    "id": "903344",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic door closing system",
+    "harm": {
+      "id": "0018767",
+      "title": "903344 - Electronic door closing system",
+      "conceptLink": "/ec2/concept/5968646"
+    }
+  },
+  {
+    "uri": "en/7/397933",
+    "id": "397933",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic door openers",
+    "harm": {
+      "id": "0019903",
+      "title": "397933 - Electronic door openers",
+      "conceptLink": "/ec2/concept/5969671"
+    }
+  },
+  {
+    "uri": "en/7/891234",
+    "id": "891234",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic feeders for animals",
+    "harm": {
+      "id": "0024458",
+      "title": "891234 - Electronic feeders for animals",
+      "conceptLink": "/ec2/concept/5973843"
+    }
+  },
+  {
+    "uri": "en/7/389150",
+    "id": "389150",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic ignitions for vehicles",
+    "harm": {
+      "id": "0002340",
+      "title": "389150 - Electronic ignitions for vehicles",
+      "conceptLink": "/ec2/concept/5953595"
+    }
+  },
+  {
+    "uri": "en/7/120825819",
+    "id": "120825819",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic servo motor controllers",
+    "harm": {
+      "id": "0065613",
+      "title": "120825819 - Electronic servo motor controllers",
+      "conceptLink": "/ec2/concept/6001816"
+    }
+  },
+  {
+    "uri": "en/7/321830",
+    "id": "321830",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic starters for engines",
+    "harm": {
+      "id": "0015673",
+      "title": "321830 - Electronic starters for engines",
+      "conceptLink": "/ec2/concept/5965809"
+    }
+  },
+  {
+    "uri": "en/7/321829",
+    "id": "321829",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electronic starters for motors",
+    "harm": {
+      "id": "0015673",
+      "title": "321829 - Electronic starters for motors",
+      "conceptLink": "/ec2/concept/5965809"
+    }
+  },
+  {
+    "uri": "en/7/120897897",
+    "id": "120897897",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electroplating apparatus",
+    "harm": {
+      "id": "0033492",
+      "title": "120897897 - Electroplating apparatus",
+      "conceptLink": "/ec2/concept/5982108"
+    }
+  },
+  {
+    "uri": "en/7/912882",
+    "id": "912882",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electroplating machines",
+    "harm": {
+      "id": "0033492",
+      "title": "912882 - Electroplating machines",
+      "conceptLink": "/ec2/concept/5982108"
+    }
+  },
+  {
+    "uri": "en/7/120898328",
+    "id": "120898328",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electrostatic coating machines",
+    "harm": {
+      "id": "0065538",
+      "title": "120898328 - Electrostatic coating machines",
+      "conceptLink": "/ec2/concept/6001741"
+    }
+  },
+  {
+    "uri": "en/7/321949",
+    "id": "321949",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Electrostatic generators",
+    "harm": {
+      "id": "0003167",
+      "title": "321949 - Electrostatic generators",
+      "conceptLink": "/ec2/concept/5954349"
+    }
+  },
+  {
+    "uri": "en/7/114825",
+    "id": "114825",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevating apparatus",
+    "harm": {
+      "id": "0058891",
+      "title": "114825 - Elevating apparatus",
+      "conceptLink": "/ec2/concept/6000382"
+    }
+  },
+  {
+    "uri": "en/7/903361",
+    "id": "903361",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevating or lifting work platforms [including mobile]",
+    "harm": {
+      "id": "0012955",
+      "title": "903361 - Elevating or lifting work platforms [including mobile]",
+      "conceptLink": "/ec2/concept/5963315"
+    }
+  },
+  {
+    "uri": "en/7/114827",
+    "id": "114827",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevating platforms",
+    "harm": {
+      "id": "0013048",
+      "title": "114827 - Elevating platforms",
+      "conceptLink": "/ec2/concept/5963397"
+    }
+  },
+  {
+    "uri": "en/7/678904",
+    "id": "678904",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevating platforms for attachment to vehicles",
+    "harm": {
+      "id": "0034711",
+      "title": "678904 - Elevating platforms for attachment to vehicles",
+      "conceptLink": "/ec2/concept/5983214"
+    }
+  },
+  {
+    "uri": "en/7/389167",
+    "id": "389167",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevating work platforms",
+    "harm": {
+      "id": "0042779",
+      "title": "389167 - Elevating work platforms",
+      "conceptLink": "/ec2/concept/5990560"
+    }
+  },
+  {
+    "uri": "en/7/116180",
+    "id": "116180",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator belts",
+    "harm": {
+      "id": "0004950",
+      "title": "116180 - Elevator belts",
+      "conceptLink": "/ec2/concept/5955992"
+    }
+  },
+  {
+    "uri": "en/7/132750990",
+    "id": "132750990",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator chains being parts of machines",
+    "harm": {
+      "id": "0000633",
+      "title": "132750990 - Elevator chains being parts of machines",
+      "conceptLink": "/ec2/concept/5952057"
+    }
+  },
+  {
+    "uri": "en/7/129428",
+    "id": "129428",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator chains [parts of machines]",
+    "harm": {
+      "id": "0000633",
+      "title": "129428 - Elevator chains [parts of machines]",
+      "conceptLink": "/ec2/concept/5952057"
+    }
+  },
+  {
+    "uri": "en/7/321966",
+    "id": "321966",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator doors",
+    "harm": {
+      "id": "0020610",
+      "title": "321966 - Elevator doors",
+      "conceptLink": "/ec2/concept/5970315"
+    }
+  },
+  {
+    "uri": "en/7/321986",
+    "id": "321986",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator gears",
+    "harm": {
+      "id": "0026252",
+      "title": "321986 - Elevator gears",
+      "conceptLink": "/ec2/concept/5975494"
+    }
+  },
+  {
+    "uri": "en/7/321999",
+    "id": "321999",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator motors",
+    "harm": {
+      "id": "0003168",
+      "title": "321999 - Elevator motors",
+      "conceptLink": "/ec2/concept/5954350"
+    }
+  },
+  {
+    "uri": "en/7/912855",
+    "id": "912855",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevator operating apparatus",
+    "harm": {
+      "id": "0010363",
+      "title": "912855 - Elevator operating apparatus",
+      "conceptLink": "/ec2/concept/5960938"
+    }
+  },
+  {
+    "uri": "en/7/111909",
+    "id": "111909",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevators",
+    "harm": {
+      "id": "0071900",
+      "title": "111909 - Elevators",
+      "conceptLink": "/ec2/concept/6008084"
+    }
+  },
+  {
+    "uri": "en/7/111459",
+    "id": "111459",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevators for agricultural use",
+    "harm": {
+      "id": "0034712",
+      "title": "111459 - Elevators for agricultural use",
+      "conceptLink": "/ec2/concept/5983215"
+    }
+  },
+  {
+    "uri": "en/7/114828",
+    "id": "114828",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevators for materials",
+    "harm": {
+      "id": "0040509",
+      "title": "114828 - Elevators for materials",
+      "conceptLink": "/ec2/concept/5988494"
+    }
+  },
+  {
+    "uri": "en/7/111911",
+    "id": "111911",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Elevators [lifts]",
+    "harm": {
+      "id": "0071900",
+      "title": "111911 - Elevators [lifts]",
+      "conceptLink": "/ec2/concept/6008084"
+    }
+  },
+  {
+    "uri": "en/7/118859",
+    "id": "118859",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Embossing machines",
+    "harm": {
+      "id": "0005301",
+      "title": "118859 - Embossing machines",
+      "conceptLink": "/ec2/concept/5956307"
+    }
+  },
+  {
+    "uri": "en/7/903382",
+    "id": "903382",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Embossing printing machines",
+    "harm": {
+      "id": "0036075",
+      "title": "903382 - Embossing printing machines",
+      "conceptLink": "/ec2/concept/5984450"
+    }
+  },
+  {
+    "uri": "en/7/19916969",
+    "id": "19916969",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Embroidering machines",
+    "harm": {
+      "id": "0037833",
+      "title": "19916969 - Embroidering machines",
+      "conceptLink": "/ec2/concept/5986046"
+    }
+  },
+  {
+    "uri": "en/7/322015",
+    "id": "322015",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Embroidery machines",
+    "harm": {
+      "id": "0037833",
+      "title": "322015 - Embroidery machines",
+      "conceptLink": "/ec2/concept/5986046"
+    }
+  },
+  {
+    "uri": "en/7/129466",
+    "id": "129466",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emergency power generators",
+    "harm": {
+      "id": "0035406",
+      "title": "129466 - Emergency power generators",
+      "conceptLink": "/ec2/concept/5983844"
+    }
+  },
+  {
+    "uri": "en/7/678917",
+    "id": "678917",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emergency power supply generators",
+    "harm": {
+      "id": "0017384",
+      "title": "678917 - Emergency power supply generators",
+      "conceptLink": "/ec2/concept/5967370"
+    }
+  },
+  {
+    "uri": "en/7/389179",
+    "id": "389179",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emission reduction units for motors and engines",
+    "harm": {
+      "id": "0025449",
+      "title": "389179 - Emission reduction units for motors and engines",
+      "conceptLink": "/ec2/concept/5974760"
+    }
+  },
+  {
+    "uri": "en/7/124671",
+    "id": "124671",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emptying machines",
+    "harm": {
+      "id": "0034713",
+      "title": "124671 - Emptying machines",
+      "conceptLink": "/ec2/concept/5983216"
+    }
+  },
+  {
+    "uri": "en/7/322035",
+    "id": "322035",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emulsifying machines [for chemical processing]",
+    "harm": {
+      "id": "0008910",
+      "title": "322035 - Emulsifying machines [for chemical processing]",
+      "conceptLink": "/ec2/concept/5959606"
+    }
+  },
+  {
+    "uri": "en/7/131093631",
+    "id": "131093631",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Emulsifying machines for chemical processing",
+    "harm": {
+      "id": "0008910",
+      "title": "131093631 - Emulsifying machines for chemical processing",
+      "conceptLink": "/ec2/concept/5959606"
+    }
+  },
+  {
+    "uri": "en/7/112704",
+    "id": "112704",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "End mills",
+    "harm": {
+      "id": "0046734",
+      "title": "112704 - End mills",
+      "conceptLink": "/ec2/concept/5994143"
+    }
+  },
+  {
+    "uri": "en/7/390852",
+    "id": "390852",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "End mills [power tools]",
+    "harm": {
+      "id": "0027173",
+      "title": "390852 - End mills [power tools]",
+      "conceptLink": "/ec2/concept/5976315"
+    }
+  },
+  {
+    "uri": "en/7/903450",
+    "id": "903450",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine bearings",
+    "harm": {
+      "id": "0058416",
+      "title": "903450 - Engine bearings",
+      "conceptLink": "/ec2/concept/5999915"
+    }
+  },
+  {
+    "uri": "en/7/389194",
+    "id": "389194",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine camshafts",
+    "harm": {
+      "id": "0025450",
+      "title": "389194 - Engine camshafts",
+      "conceptLink": "/ec2/concept/5974761"
+    }
+  },
+  {
+    "uri": "en/7/392308",
+    "id": "392308",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine cases [vehicle parts]",
+    "harm": {
+      "id": "0024342",
+      "title": "392308 - Engine cases [vehicle parts]",
+      "conceptLink": "/ec2/concept/5973741"
+    }
+  },
+  {
+    "uri": "en/7/128566",
+    "id": "128566",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine cooling radiators",
+    "harm": {
+      "id": "0000066",
+      "title": "128566 - Engine cooling radiators",
+      "conceptLink": "/ec2/concept/5951545"
+    }
+  },
+  {
+    "uri": "en/7/119526065",
+    "id": "119526065",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine cylinders for land vehicles",
+    "harm": {
+      "id": "0065596",
+      "title": "119526065 - Engine cylinders for land vehicles",
+      "conceptLink": "/ec2/concept/6001799"
+    }
+  },
+  {
+    "uri": "en/7/119526064",
+    "id": "119526064",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine cylinders for vehicles",
+    "harm": {
+      "id": "0065597",
+      "title": "119526064 - Engine cylinders for vehicles",
+      "conceptLink": "/ec2/concept/6001800"
+    }
+  },
+  {
+    "uri": "en/7/678929",
+    "id": "678929",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine driven water pumps",
+    "harm": {
+      "id": "0005867",
+      "title": "678929 - Engine driven water pumps",
+      "conceptLink": "/ec2/concept/5956823"
+    }
+  },
+  {
+    "uri": "en/7/678942",
+    "id": "678942",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine fuel pumps",
+    "harm": {
+      "id": "0000067",
+      "title": "678942 - Engine fuel pumps",
+      "conceptLink": "/ec2/concept/5951546"
+    }
+  },
+  {
+    "uri": "en/7/678955",
+    "id": "678955",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine housings",
+    "harm": {
+      "id": "0028924",
+      "title": "678955 - Engine housings",
+      "conceptLink": "/ec2/concept/5977944"
+    }
+  },
+  {
+    "uri": "en/7/114187",
+    "id": "114187",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine injectors",
+    "harm": {
+      "id": "0012143",
+      "title": "114187 - Engine injectors",
+      "conceptLink": "/ec2/concept/5962578"
+    }
+  },
+  {
+    "uri": "en/7/233511265",
+    "id": "233511265",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine mounts, other than for land vehicles",
+    "harm": {
+      "id": "0060013",
+      "title": "233511265 - Engine mounts, other than for land vehicles",
+      "conceptLink": "/ec2/concept/5996280"
+    }
+  },
+  {
+    "uri": "en/7/136498130",
+    "id": "136498130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine mounts other than for land vehicles",
+    "harm": {
+      "id": "0060013",
+      "title": "136498130 - Engine mounts other than for land vehicles",
+      "conceptLink": "/ec2/concept/5996280"
+    }
+  },
+  {
+    "uri": "en/7/128100",
+    "id": "128100",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine mufflers",
+    "harm": {
+      "id": "0072546",
+      "title": "128100 - Engine mufflers",
+      "conceptLink": "/ec2/concept/6008723"
+    }
+  },
+  {
+    "uri": "en/7/389206",
+    "id": "389206",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine rods",
+    "harm": {
+      "id": "0018794",
+      "title": "389206 - Engine rods",
+      "conceptLink": "/ec2/concept/5968671"
+    }
+  },
+  {
+    "uri": "en/7/121397",
+    "id": "121397",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine speed governors",
+    "harm": {
+      "id": "0011605",
+      "title": "121397 - Engine speed governors",
+      "conceptLink": "/ec2/concept/5962075"
+    }
+  },
+  {
+    "uri": "en/7/136940347",
+    "id": "136940347",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine timing components, namely, cam sprockets",
+    "harm": {
+      "id": "0036076",
+      "title": "136940347 - Engine timing components, namely, cam sprockets",
+      "conceptLink": "/ec2/concept/5984451"
+    }
+  },
+  {
+    "uri": "en/7/678972",
+    "id": "678972",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engine valves",
+    "harm": {
+      "id": "0040510",
+      "title": "678972 - Engine valves",
+      "conceptLink": "/ec2/concept/5988495"
+    }
+  },
+  {
+    "uri": "en/7/501384",
+    "id": "501384",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines and motors for model vehicles, aircraft and boats",
+    "harm": {
+      "id": "0025752",
+      "title": "501384 - Engines and motors for model vehicles, aircraft and boats",
+      "conceptLink": "/ec2/concept/5975034"
+    }
+  },
+  {
+    "uri": "en/7/30957248",
+    "id": "30957248",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines and motors for the generation of electricity",
+    "harm": {
+      "id": "0017385",
+      "title": "30957248 - Engines and motors for the generation of electricity",
+      "conceptLink": "/ec2/concept/5967371"
+    }
+  },
+  {
+    "uri": "en/7/127376",
+    "id": "127376",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines (except for land vehicles)",
+    "harm": {
+      "id": "0024818",
+      "title": "127376 - Engines (except for land vehicles)",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/120896473",
+    "id": "120896473",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for aerostats",
+    "harm": {
+      "id": "0070889",
+      "title": "120896473 - Engines for aerostats",
+      "conceptLink": "/ec2/concept/6007081"
+    }
+  },
+  {
+    "uri": "en/7/1234309",
+    "id": "1234309",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for air cushion vehicles",
+    "harm": {
+      "id": "0002721",
+      "title": "1234309 - Engines for air cushion vehicles",
+      "conceptLink": "/ec2/concept/5953938"
+    }
+  },
+  {
+    "uri": "en/7/126148",
+    "id": "126148",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for boats",
+    "harm": {
+      "id": "0058602",
+      "title": "126148 - Engines for boats",
+      "conceptLink": "/ec2/concept/6000095"
+    }
+  },
+  {
+    "uri": "en/7/679003",
+    "id": "679003",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for compressors",
+    "harm": {
+      "id": "0005868",
+      "title": "679003 - Engines for compressors",
+      "conceptLink": "/ec2/concept/5956824"
+    }
+  },
+  {
+    "uri": "en/7/679015",
+    "id": "679015",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for marine use",
+    "harm": {
+      "id": "0058603",
+      "title": "679015 - Engines for marine use",
+      "conceptLink": "/ec2/concept/6000096"
+    }
+  },
+  {
+    "uri": "en/7/679026",
+    "id": "679026",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for marine vessels",
+    "harm": {
+      "id": "0058603",
+      "title": "679026 - Engines for marine vessels",
+      "conceptLink": "/ec2/concept/6000096"
+    }
+  },
+  {
+    "uri": "en/7/903526",
+    "id": "903526",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for model vehicles",
+    "harm": {
+      "id": "0014181",
+      "title": "903526 - Engines for model vehicles",
+      "conceptLink": "/ec2/concept/5964439"
+    }
+  },
+  {
+    "uri": "en/7/679038",
+    "id": "679038",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for scale models",
+    "harm": {
+      "id": "0023232",
+      "title": "679038 - Engines for scale models",
+      "conceptLink": "/ec2/concept/5972711"
+    }
+  },
+  {
+    "uri": "en/7/126153",
+    "id": "126153",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for ships",
+    "harm": {
+      "id": "0058603",
+      "title": "126153 - Engines for ships",
+      "conceptLink": "/ec2/concept/6000096"
+    }
+  },
+  {
+    "uri": "en/7/679052",
+    "id": "679052",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines for the generation of electricity",
+    "harm": {
+      "id": "0017385",
+      "title": "679052 - Engines for the generation of electricity",
+      "conceptLink": "/ec2/concept/5967371"
+    }
+  },
+  {
+    "uri": "en/7/127377",
+    "id": "127377",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines not for land vehicles",
+    "harm": {
+      "id": "0024818",
+      "title": "127377 - Engines not for land vehicles",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/127373",
+    "id": "127373",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engines, other than for land vehicles",
+    "harm": {
+      "id": "0024818",
+      "title": "127373 - Engines, other than for land vehicles",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/118892",
+    "id": "118892",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Engraving machines",
+    "harm": {
+      "id": "0034714",
+      "title": "118892 - Engraving machines",
+      "conceptLink": "/ec2/concept/5983217"
+    }
+  },
+  {
+    "uri": "en/7/322049",
+    "id": "322049",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Envelope feeders",
+    "harm": {
+      "id": "0008911",
+      "title": "322049 - Envelope feeders",
+      "conceptLink": "/ec2/concept/5959607"
+    }
+  },
+  {
+    "uri": "en/7/322060",
+    "id": "322060",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Envelope-inserting machines",
+    "harm": {
+      "id": "0020611",
+      "title": "322060 - Envelope-inserting machines",
+      "conceptLink": "/ec2/concept/5970316"
+    }
+  },
+  {
+    "uri": "en/7/884635",
+    "id": "884635",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Envelope stuffing and inserting machines [packaging machines]",
+    "harm": {
+      "id": "0045854",
+      "title": "884635 - Envelope stuffing and inserting machines [packaging machines]",
+      "conceptLink": "/ec2/concept/5993384"
+    }
+  },
+  {
+    "uri": "en/7/389220",
+    "id": "389220",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Escalator chains",
+    "harm": {
+      "id": "0029384",
+      "title": "389220 - Escalator chains",
+      "conceptLink": "/ec2/concept/5978358"
+    }
+  },
+  {
+    "uri": "en/7/117891",
+    "id": "117891",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Escalators",
+    "harm": {
+      "id": "0040542",
+      "title": "117891 - Escalators",
+      "conceptLink": "/ec2/concept/5988525"
+    }
+  },
+  {
+    "uri": "en/7/138391231",
+    "id": "138391231",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Etching apparatus for use in manufacturing display panels",
+    "harm": {
+      "id": "0070212",
+      "title": "138391231 - Etching apparatus for use in manufacturing display panels",
+      "conceptLink": "/ec2/concept/6006406"
+    }
+  },
+  {
+    "uri": "en/7/118893",
+    "id": "118893",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Etching machines",
+    "harm": {
+      "id": "0034714",
+      "title": "118893 - Etching machines",
+      "conceptLink": "/ec2/concept/5983217"
+    }
+  },
+  {
+    "uri": "en/7/113771",
+    "id": "113771",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavating machines",
+    "harm": {
+      "id": "0058934",
+      "title": "113771 - Excavating machines",
+      "conceptLink": "/ec2/concept/6000425"
+    }
+  },
+  {
+    "uri": "en/7/113770",
+    "id": "113770",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators",
+    "harm": {
+      "id": "0058934",
+      "title": "113770 - Excavators",
+      "conceptLink": "/ec2/concept/6000425"
+    }
+  },
+  {
+    "uri": "en/7/679083",
+    "id": "679083",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators being moveable machines",
+    "harm": {
+      "id": "0040511",
+      "title": "679083 - Excavators being moveable machines",
+      "conceptLink": "/ec2/concept/5988496"
+    }
+  },
+  {
+    "uri": "en/7/679096",
+    "id": "679096",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators being self propelled machines",
+    "harm": {
+      "id": "0011607",
+      "title": "679096 - Excavators being self propelled machines",
+      "conceptLink": "/ec2/concept/5962076"
+    }
+  },
+  {
+    "uri": "en/7/388756",
+    "id": "388756",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators [earth moving machines]",
+    "harm": {
+      "id": "0018548",
+      "title": "388756 - Excavators [earth moving machines]",
+      "conceptLink": "/ec2/concept/5968438"
+    }
+  },
+  {
+    "uri": "en/7/679068",
+    "id": "679068",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators [earth working machines]",
+    "harm": {
+      "id": "0018548",
+      "title": "679068 - Excavators [earth working machines]",
+      "conceptLink": "/ec2/concept/5968438"
+    }
+  },
+  {
+    "uri": "en/7/679109",
+    "id": "679109",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Excavators for hydraulic expansion machines",
+    "harm": {
+      "id": "0005869",
+      "title": "679109 - Excavators for hydraulic expansion machines",
+      "conceptLink": "/ec2/concept/5956825"
+    }
+  },
+  {
+    "uri": "en/7/915535",
+    "id": "915535",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust bypasses",
+    "harm": {
+      "id": "0039005",
+      "title": "915535 - Exhaust bypasses",
+      "conceptLink": "/ec2/concept/5987120"
+    }
+  },
+  {
+    "uri": "en/7/120896371",
+    "id": "120896371",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust gas recirculation [EGR] valves for motors and engines",
+    "harm": {
+      "id": "0065578",
+      "title": "120896371 - Exhaust gas recirculation [EGR] valves for motors and engines",
+      "conceptLink": "/ec2/concept/6001781"
+    }
+  },
+  {
+    "uri": "en/7/903601",
+    "id": "903601",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust gas treatment systems for diesel engines",
+    "harm": {
+      "id": "0037293",
+      "title": "903601 - Exhaust gas treatment systems for diesel engines",
+      "conceptLink": "/ec2/concept/5985557"
+    }
+  },
+  {
+    "uri": "en/7/129634",
+    "id": "129634",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust manifold for engines",
+    "harm": {
+      "id": "0014184",
+      "title": "129634 - Exhaust manifold for engines",
+      "conceptLink": "/ec2/concept/5964442"
+    }
+  },
+  {
+    "uri": "en/7/903602",
+    "id": "903602",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust mufflers for motors",
+    "harm": {
+      "id": "0072546",
+      "title": "903602 - Exhaust mufflers for motors",
+      "conceptLink": "/ec2/concept/6008723"
+    }
+  },
+  {
+    "uri": "en/7/679122",
+    "id": "679122",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust mufflers for watercraft",
+    "harm": {
+      "id": "0010075",
+      "title": "679122 - Exhaust mufflers for watercraft",
+      "conceptLink": "/ec2/concept/5960677"
+    }
+  },
+  {
+    "uri": "en/7/903606",
+    "id": "903606",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust pipes for land vehicles",
+    "harm": {
+      "id": "0014185",
+      "title": "903606 - Exhaust pipes for land vehicles",
+      "conceptLink": "/ec2/concept/5964443"
+    }
+  },
+  {
+    "uri": "en/7/679135",
+    "id": "679135",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust silencers",
+    "harm": {
+      "id": "0021818",
+      "title": "679135 - Exhaust silencers",
+      "conceptLink": "/ec2/concept/5971422"
+    }
+  },
+  {
+    "uri": "en/7/128099",
+    "id": "128099",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Exhaust silencers for engines",
+    "harm": {
+      "id": "0072546",
+      "title": "128099 - Exhaust silencers for engines",
+      "conceptLink": "/ec2/concept/6008723"
+    }
+  }
+]

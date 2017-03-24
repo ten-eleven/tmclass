@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/671377",
+    "id": "671377",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sack forming machines",
+    "harm": {
+      "id": "0020815",
+      "title": "671377 - Sack forming machines",
+      "conceptLink": "/ec2/concept/5970511"
+    }
+  },
+  {
+    "uri": "en/7/685332",
+    "id": "685332",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sack making machines",
+    "harm": {
+      "id": "0026478",
+      "title": "685332 - Sack making machines",
+      "conceptLink": "/ec2/concept/5975696"
+    }
+  },
+  {
+    "uri": "en/7/671408",
+    "id": "671408",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sack sealing machines",
+    "harm": {
+      "id": "0014956",
+      "title": "671408 - Sack sealing machines",
+      "conceptLink": "/ec2/concept/5965148"
+    }
+  },
+  {
+    "uri": "en/7/693449",
+    "id": "693449",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Safety couplings for machines",
+    "harm": {
+      "id": "0026479",
+      "title": "693449 - Safety couplings for machines",
+      "conceptLink": "/ec2/concept/5975697"
+    }
+  },
+  {
+    "uri": "en/7/693436",
+    "id": "693436",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Safety couplings [other than for land vehicles]",
+    "harm": {
+      "id": "0038055",
+      "title": "693436 - Safety couplings [other than for land vehicles]",
+      "conceptLink": "/ec2/concept/5986248"
+    }
+  },
+  {
+    "uri": "en/7/693462",
+    "id": "693462",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Safety manual hoists",
+    "harm": {
+      "id": "0032231",
+      "title": "693462 - Safety manual hoists",
+      "conceptLink": "/ec2/concept/5980951"
+    }
+  },
+  {
+    "uri": "en/7/693474",
+    "id": "693474",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Safety valves [parts of machines]",
+    "harm": {
+      "id": "0032232",
+      "title": "693474 - Safety valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5980952"
+    }
+  },
+  {
+    "uri": "en/7/693491",
+    "id": "693491",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Salad drainers [electric kitchen machines]",
+    "harm": {
+      "id": "0000859",
+      "title": "693491 - Salad drainers [electric kitchen machines]",
+      "conceptLink": "/ec2/concept/5952261"
+    }
+  },
+  {
+    "uri": "en/7/693506",
+    "id": "693506",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Salad drainers [machines]",
+    "harm": {
+      "id": "0012436",
+      "title": "693506 - Salad drainers [machines]",
+      "conceptLink": "/ec2/concept/5962844"
+    }
+  },
+  {
+    "uri": "en/7/324146",
+    "id": "324146",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sand-blasting apparatus",
+    "harm": {
+      "id": "0029785",
+      "title": "324146 - Sand-blasting apparatus",
+      "conceptLink": "/ec2/concept/5978730"
+    }
+  },
+  {
+    "uri": "en/7/324147",
+    "id": "324147",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sand blasting machines",
+    "harm": {
+      "id": "0029785",
+      "title": "324147 - Sand blasting machines",
+      "conceptLink": "/ec2/concept/5978730"
+    }
+  },
+  {
+    "uri": "en/7/324115",
+    "id": "324115",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sand cleaning machines",
+    "harm": {
+      "id": "0007709",
+      "title": "324115 - Sand cleaning machines",
+      "conceptLink": "/ec2/concept/5958512"
+    }
+  },
+  {
+    "uri": "en/7/324130",
+    "id": "324130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sand sorting machines",
+    "harm": {
+      "id": "0030863",
+      "title": "324130 - Sand sorting machines",
+      "conceptLink": "/ec2/concept/5979727"
+    }
+  },
+  {
+    "uri": "en/7/124630082",
+    "id": "124630082",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanders (Electric -)",
+    "harm": {
+      "id": "0000860",
+      "title": "124630082 - Sanders (Electric -)",
+      "conceptLink": "/ec2/concept/5952262"
+    }
+  },
+  {
+    "uri": "en/7/123431",
+    "id": "123431",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanders [machines]",
+    "harm": {
+      "id": "0029786",
+      "title": "123431 - Sanders [machines]",
+      "conceptLink": "/ec2/concept/5978731"
+    }
+  },
+  {
+    "uri": "en/7/693520",
+    "id": "693520",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding belts for use with machines",
+    "harm": {
+      "id": "0012437",
+      "title": "693520 - Sanding belts for use with machines",
+      "conceptLink": "/ec2/concept/5962845"
+    }
+  },
+  {
+    "uri": "en/7/693536",
+    "id": "693536",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding disks for use with machines",
+    "harm": {
+      "id": "0018239",
+      "title": "693536 - Sanding disks for use with machines",
+      "conceptLink": "/ec2/concept/5968154"
+    }
+  },
+  {
+    "uri": "en/7/685634",
+    "id": "685634",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding machines",
+    "harm": {
+      "id": "0029786",
+      "title": "685634 - Sanding machines",
+      "conceptLink": "/ec2/concept/5978731"
+    }
+  },
+  {
+    "uri": "en/7/124921407",
+    "id": "124921407",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding machines (Belt -)",
+    "harm": {
+      "id": "0024053",
+      "title": "124921407 - Sanding machines (Belt -)",
+      "conceptLink": "/ec2/concept/5973476"
+    }
+  },
+  {
+    "uri": "en/7/324170",
+    "id": "324170",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding machines [for woodworking]",
+    "harm": {
+      "id": "0042443",
+      "title": "324170 - Sanding machines [for woodworking]",
+      "conceptLink": "/ec2/concept/5990265"
+    }
+  },
+  {
+    "uri": "en/7/124921423",
+    "id": "124921423",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding machines (Orbital -)",
+    "harm": {
+      "id": "0012438",
+      "title": "124921423 - Sanding machines (Orbital -)",
+      "conceptLink": "/ec2/concept/5962846"
+    }
+  },
+  {
+    "uri": "en/7/124921437",
+    "id": "124921437",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sanding machines (Rotary -)",
+    "harm": {
+      "id": "0000861",
+      "title": "124921437 - Sanding machines (Rotary -)",
+      "conceptLink": "/ec2/concept/5952263"
+    }
+  },
+  {
+    "uri": "en/7/124196",
+    "id": "124196",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Satinizing machines",
+    "harm": {
+      "id": "0046490",
+      "title": "124196 - Satinizing machines",
+      "conceptLink": "/ec2/concept/5993931"
+    }
+  },
+  {
+    "uri": "en/7/124230",
+    "id": "124230",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sausage machines",
+    "harm": {
+      "id": "0021026",
+      "title": "124230 - Sausage machines",
+      "conceptLink": "/ec2/concept/5970702"
+    }
+  },
+  {
+    "uri": "en/7/907107",
+    "id": "907107",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sausage making machines",
+    "harm": {
+      "id": "0021026",
+      "title": "907107 - Sausage making machines",
+      "conceptLink": "/ec2/concept/5970702"
+    }
+  },
+  {
+    "uri": "en/7/136011044",
+    "id": "136011044",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw benches being parts of machines",
+    "harm": {
+      "id": "0060476",
+      "title": "136011044 - Saw benches being parts of machines",
+      "conceptLink": "/ec2/concept/5998449"
+    }
+  },
+  {
+    "uri": "en/7/112405",
+    "id": "112405",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw benches [parts of machines]",
+    "harm": {
+      "id": "0017256",
+      "title": "112405 - Saw benches [parts of machines]",
+      "conceptLink": "/ec2/concept/5967256"
+    }
+  },
+  {
+    "uri": "en/7/693592",
+    "id": "693592",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw blades for use with power tools",
+    "harm": {
+      "id": "0018240",
+      "title": "693592 - Saw blades for use with power tools",
+      "conceptLink": "/ec2/concept/5968155"
+    }
+  },
+  {
+    "uri": "en/7/119591",
+    "id": "119591",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw blades [parts of machines]",
+    "harm": {
+      "id": "0045742",
+      "title": "119591 - Saw blades [parts of machines]",
+      "conceptLink": "/ec2/concept/5993278"
+    }
+  },
+  {
+    "uri": "en/7/129193",
+    "id": "129193",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw chains",
+    "harm": {
+      "id": "0046992",
+      "title": "129193 - Saw chains",
+      "conceptLink": "/ec2/concept/5994374"
+    }
+  },
+  {
+    "uri": "en/7/391511",
+    "id": "391511",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw fences for use on table saws",
+    "harm": {
+      "id": "0039283",
+      "title": "391511 - Saw fences for use on table saws",
+      "conceptLink": "/ec2/concept/5987372"
+    }
+  },
+  {
+    "uri": "en/7/693605",
+    "id": "693605",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw guide rails [parts of machines]",
+    "harm": {
+      "id": "0024054",
+      "title": "693605 - Saw guide rails [parts of machines]",
+      "conceptLink": "/ec2/concept/5973477"
+    }
+  },
+  {
+    "uri": "en/7/124057",
+    "id": "124057",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw machines",
+    "harm": {
+      "id": "0058805",
+      "title": "124057 - Saw machines",
+      "conceptLink": "/ec2/concept/6000296"
+    }
+  },
+  {
+    "uri": "en/7/324185",
+    "id": "324185",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saw-tooth setting machines [for lumbering or woodworking saws]",
+    "harm": {
+      "id": "0001998",
+      "title": "324185 - Saw-tooth setting machines [for lumbering or woodworking saws]",
+      "conceptLink": "/ec2/concept/5953286"
+    }
+  },
+  {
+    "uri": "en/7/124058",
+    "id": "124058",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sawing machines",
+    "harm": {
+      "id": "0058805",
+      "title": "124058 - Sawing machines",
+      "conceptLink": "/ec2/concept/6000296"
+    }
+  },
+  {
+    "uri": "en/7/693620",
+    "id": "693620",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sawing tools for use with sawing machines",
+    "harm": {
+      "id": "0039674",
+      "title": "693620 - Sawing tools for use with sawing machines",
+      "conceptLink": "/ec2/concept/5987728"
+    }
+  },
+  {
+    "uri": "en/7/124060",
+    "id": "124060",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sawmills",
+    "harm": {
+      "id": "0058804",
+      "title": "124060 - Sawmills",
+      "conceptLink": "/ec2/concept/6000295"
+    }
+  },
+  {
+    "uri": "en/7/1824545",
+    "id": "1824545",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saws",
+    "harm": {
+      "id": "0058805",
+      "title": "1824545 - Saws",
+      "conceptLink": "/ec2/concept/6000296"
+    }
+  },
+  {
+    "uri": "en/7/124059",
+    "id": "124059",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Saws [machines]",
+    "harm": {
+      "id": "0058805",
+      "title": "124059 - Saws [machines]",
+      "conceptLink": "/ec2/concept/6000296"
+    }
+  },
+  {
+    "uri": "en/7/119696670",
+    "id": "119696670",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scale collectors for machine boilers",
+    "harm": {
+      "id": "0030639",
+      "title": "119696670 - Scale collectors for machine boilers",
+      "conceptLink": "/ec2/concept/5979516"
+    }
+  },
+  {
+    "uri": "en/7/115489",
+    "id": "115489",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scale collectors (Machine boiler -)",
+    "harm": {
+      "id": "0030639",
+      "title": "115489 - Scale collectors (Machine boiler -)",
+      "conceptLink": "/ec2/concept/5979516"
+    }
+  },
+  {
+    "uri": "en/7/693632",
+    "id": "693632",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scaling machines",
+    "harm": {
+      "id": "0028152",
+      "title": "693632 - Scaling machines",
+      "conceptLink": "/ec2/concept/5977221"
+    }
+  },
+  {
+    "uri": "en/7/232208420",
+    "id": "232208420",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scarifiers (earth moving machines)",
+    "harm": {
+      "id": "0030058",
+      "title": "232208420 - Scarifiers (earth moving machines)",
+      "conceptLink": "/ec2/concept/5978977"
+    }
+  },
+  {
+    "uri": "en/7/388725",
+    "id": "388725",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scarifiers [earth moving machines]",
+    "harm": {
+      "id": "0030058",
+      "title": "388725 - Scarifiers [earth moving machines]",
+      "conceptLink": "/ec2/concept/5978977"
+    }
+  },
+  {
+    "uri": "en/7/116551",
+    "id": "116551",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scarifiers [machines]",
+    "harm": {
+      "id": "0045427",
+      "title": "116551 - Scarifiers [machines]",
+      "conceptLink": "/ec2/concept/5992993"
+    }
+  },
+  {
+    "uri": "en/7/387470",
+    "id": "387470",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scarifying machines",
+    "harm": {
+      "id": "0045427",
+      "title": "387470 - Scarifying machines",
+      "conceptLink": "/ec2/concept/5992993"
+    }
+  },
+  {
+    "uri": "en/7/693647",
+    "id": "693647",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scarifying machines for garden use",
+    "harm": {
+      "id": "0016610",
+      "title": "693647 - Scarifying machines for garden use",
+      "conceptLink": "/ec2/concept/5966675"
+    }
+  },
+  {
+    "uri": "en/7/115336",
+    "id": "115336",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scissors, electric",
+    "harm": {
+      "id": "0057412",
+      "title": "115336 - Scissors, electric",
+      "conceptLink": "/ec2/concept/5998919"
+    }
+  },
+  {
+    "uri": "en/7/685635",
+    "id": "685635",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scouring machines",
+    "harm": {
+      "id": "0033897",
+      "title": "685635 - Scouring machines",
+      "conceptLink": "/ec2/concept/5982478"
+    }
+  },
+  {
+    "uri": "en/7/392412",
+    "id": "392412",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scouring machines for textiles",
+    "harm": {
+      "id": "0016611",
+      "title": "392412 - Scouring machines for textiles",
+      "conceptLink": "/ec2/concept/5966676"
+    }
+  },
+  {
+    "uri": "en/7/693659",
+    "id": "693659",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scrap recovery apparatus [machines]",
+    "harm": {
+      "id": "0039675",
+      "title": "693659 - Scrap recovery apparatus [machines]",
+      "conceptLink": "/ec2/concept/5987729"
+    }
+  },
+  {
+    "uri": "en/7/693673",
+    "id": "693673",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scraper apparatus [machines] for removing sludge",
+    "harm": {
+      "id": "0028153",
+      "title": "693673 - Scraper apparatus [machines] for removing sludge",
+      "conceptLink": "/ec2/concept/5977222"
+    }
+  },
+  {
+    "uri": "en/7/388741",
+    "id": "388741",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scrapers [earth moving machines]",
+    "harm": {
+      "id": "0001158",
+      "title": "388741 - Scrapers [earth moving machines]",
+      "conceptLink": "/ec2/concept/5952531"
+    }
+  },
+  {
+    "uri": "en/7/125471",
+    "id": "125471",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screeders [machines]",
+    "harm": {
+      "id": "0047223",
+      "title": "125471 - Screeders [machines]",
+      "conceptLink": "/ec2/concept/5994588"
+    }
+  },
+  {
+    "uri": "en/7/693688",
+    "id": "693688",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screen printing apparatus [machines]",
+    "harm": {
+      "id": "0039676",
+      "title": "693688 - Screen printing apparatus [machines]",
+      "conceptLink": "/ec2/concept/5987730"
+    }
+  },
+  {
+    "uri": "en/7/693702",
+    "id": "693702",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screen printing machines",
+    "harm": {
+      "id": "0036484",
+      "title": "693702 - Screen printing machines",
+      "conceptLink": "/ec2/concept/5984821"
+    }
+  },
+  {
+    "uri": "en/7/116414",
+    "id": "116414",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screening machines",
+    "harm": {
+      "id": "0019199",
+      "title": "116414 - Screening machines",
+      "conceptLink": "/ec2/concept/5969040"
+    }
+  },
+  {
+    "uri": "en/7/693716",
+    "id": "693716",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screening rollers [parts of machines]",
+    "harm": {
+      "id": "0024960",
+      "title": "693716 - Screening rollers [parts of machines]",
+      "conceptLink": "/ec2/concept/5974312"
+    }
+  },
+  {
+    "uri": "en/7/693730",
+    "id": "693730",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for grading gravel [parts of machines]",
+    "harm": {
+      "id": "0024961",
+      "title": "693730 - Screens for grading gravel [parts of machines]",
+      "conceptLink": "/ec2/concept/5974313"
+    }
+  },
+  {
+    "uri": "en/7/693744",
+    "id": "693744",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for grading ore [parts of machines]",
+    "harm": {
+      "id": "0024962",
+      "title": "693744 - Screens for grading ore [parts of machines]",
+      "conceptLink": "/ec2/concept/5974314"
+    }
+  },
+  {
+    "uri": "en/7/693757",
+    "id": "693757",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for grading rock [parts of machines]",
+    "harm": {
+      "id": "0024963",
+      "title": "693757 - Screens for grading rock [parts of machines]",
+      "conceptLink": "/ec2/concept/5974315"
+    }
+  },
+  {
+    "uri": "en/7/693771",
+    "id": "693771",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for separating gravel [parts of machines]",
+    "harm": {
+      "id": "0024964",
+      "title": "693771 - Screens for separating gravel [parts of machines]",
+      "conceptLink": "/ec2/concept/5974316"
+    }
+  },
+  {
+    "uri": "en/7/693784",
+    "id": "693784",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for separating ore [parts of machines]",
+    "harm": {
+      "id": "0042252",
+      "title": "693784 - Screens for separating ore [parts of machines]",
+      "conceptLink": "/ec2/concept/5990088"
+    }
+  },
+  {
+    "uri": "en/7/693798",
+    "id": "693798",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens for the printing of textile materials [parts of machines]",
+    "harm": {
+      "id": "0013367",
+      "title": "693798 - Screens for the printing of textile materials [parts of machines]",
+      "conceptLink": "/ec2/concept/5963691"
+    }
+  },
+  {
+    "uri": "en/7/693813",
+    "id": "693813",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens used in the paper industry [parts of machines]",
+    "harm": {
+      "id": "0030687",
+      "title": "693813 - Screens used in the paper industry [parts of machines]",
+      "conceptLink": "/ec2/concept/5979562"
+    }
+  },
+  {
+    "uri": "en/7/693826",
+    "id": "693826",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screens used in the pulp industry [parts of machines]",
+    "harm": {
+      "id": "0001793",
+      "title": "693826 - Screens used in the pulp industry [parts of machines]",
+      "conceptLink": "/ec2/concept/5953098"
+    }
+  },
+  {
+    "uri": "en/7/693839",
+    "id": "693839",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw air compressors",
+    "harm": {
+      "id": "0013368",
+      "title": "693839 - Screw air compressors",
+      "conceptLink": "/ec2/concept/5963692"
+    }
+  },
+  {
+    "uri": "en/7/324204",
+    "id": "324204",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw conveyors",
+    "harm": {
+      "id": "0019416",
+      "title": "324204 - Screw conveyors",
+      "conceptLink": "/ec2/concept/5969231"
+    }
+  },
+  {
+    "uri": "en/7/693852",
+    "id": "693852",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw extractors [machines]",
+    "harm": {
+      "id": "0001794",
+      "title": "693852 - Screw extractors [machines]",
+      "conceptLink": "/ec2/concept/5953099"
+    }
+  },
+  {
+    "uri": "en/7/324227",
+    "id": "324227",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw grinding machines",
+    "harm": {
+      "id": "0036708",
+      "title": "324227 - Screw grinding machines",
+      "conceptLink": "/ec2/concept/5985032"
+    }
+  },
+  {
+    "uri": "en/7/693868",
+    "id": "693868",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw hoists",
+    "harm": {
+      "id": "0042253",
+      "title": "693868 - Screw hoists",
+      "conceptLink": "/ec2/concept/5990089"
+    }
+  },
+  {
+    "uri": "en/7/693881",
+    "id": "693881",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw jacks [machines]",
+    "harm": {
+      "id": "0001795",
+      "title": "693881 - Screw jacks [machines]",
+      "conceptLink": "/ec2/concept/5953100"
+    }
+  },
+  {
+    "uri": "en/7/693896",
+    "id": "693896",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw milling cutters [machines]",
+    "harm": {
+      "id": "0013369",
+      "title": "693896 - Screw milling cutters [machines]",
+      "conceptLink": "/ec2/concept/5963693"
+    }
+  },
+  {
+    "uri": "en/7/693910",
+    "id": "693910",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw milling cutters [parts of machines]",
+    "harm": {
+      "id": "0013370",
+      "title": "693910 - Screw milling cutters [parts of machines]",
+      "conceptLink": "/ec2/concept/5963694"
+    }
+  },
+  {
+    "uri": "en/7/693924",
+    "id": "693924",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw pulley blocks [machines]",
+    "harm": {
+      "id": "0027880",
+      "title": "693924 - Screw pulley blocks [machines]",
+      "conceptLink": "/ec2/concept/5976974"
+    }
+  },
+  {
+    "uri": "en/7/693938",
+    "id": "693938",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw pulley blocks [parts of machines]",
+    "harm": {
+      "id": "0010528",
+      "title": "693938 - Screw pulley blocks [parts of machines]",
+      "conceptLink": "/ec2/concept/5961093"
+    }
+  },
+  {
+    "uri": "en/7/324243",
+    "id": "324243",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw pumps",
+    "harm": {
+      "id": "0042444",
+      "title": "324243 - Screw pumps",
+      "conceptLink": "/ec2/concept/5990266"
+    }
+  },
+  {
+    "uri": "en/7/693951",
+    "id": "693951",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw separators",
+    "harm": {
+      "id": "0027881",
+      "title": "693951 - Screw separators",
+      "conceptLink": "/ec2/concept/5976975"
+    }
+  },
+  {
+    "uri": "en/7/693966",
+    "id": "693966",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw sprayers being machines",
+    "harm": {
+      "id": "0027882",
+      "title": "693966 - Screw sprayers being machines",
+      "conceptLink": "/ec2/concept/5976976"
+    }
+  },
+  {
+    "uri": "en/7/694046",
+    "id": "694046",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw-thread cutters [machines]",
+    "harm": {
+      "id": "0045158",
+      "title": "694046 - Screw-thread cutters [machines]",
+      "conceptLink": "/ec2/concept/5992743"
+    }
+  },
+  {
+    "uri": "en/7/693978",
+    "id": "693978",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screw threaded cap openers [machines]",
+    "harm": {
+      "id": "0004811",
+      "title": "693978 - Screw threaded cap openers [machines]",
+      "conceptLink": "/ec2/concept/5955860"
+    }
+  },
+  {
+    "uri": "en/7/693992",
+    "id": "693992",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwdriver bits for electric screwdrivers",
+    "harm": {
+      "id": "0033624",
+      "title": "693992 - Screwdriver bits for electric screwdrivers",
+      "conceptLink": "/ec2/concept/5982225"
+    }
+  },
+  {
+    "uri": "en/7/694005",
+    "id": "694005",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwdriver bits for machines",
+    "harm": {
+      "id": "0010529",
+      "title": "694005 - Screwdriver bits for machines",
+      "conceptLink": "/ec2/concept/5961094"
+    }
+  },
+  {
+    "uri": "en/7/124632121",
+    "id": "124632121",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwdrivers (Electric -)",
+    "harm": {
+      "id": "0041287",
+      "title": "124632121 - Screwdrivers (Electric -)",
+      "conceptLink": "/ec2/concept/5989210"
+    }
+  },
+  {
+    "uri": "en/7/132855389",
+    "id": "132855389",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwdrivers, electric",
+    "harm": {
+      "id": "0041287",
+      "title": "132855389 - Screwdrivers, electric",
+      "conceptLink": "/ec2/concept/5989210"
+    }
+  },
+  {
+    "uri": "en/7/137699533",
+    "id": "137699533",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwdrivers, pneumatic",
+    "harm": {
+      "id": "0069825",
+      "title": "137699533 - Screwdrivers, pneumatic",
+      "conceptLink": "/ec2/concept/6006028"
+    }
+  },
+  {
+    "uri": "en/7/124921907",
+    "id": "124921907",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwing-in tools (Electric -)",
+    "harm": {
+      "id": "0027883",
+      "title": "124921907 - Screwing-in tools (Electric -)",
+      "conceptLink": "/ec2/concept/5976977"
+    }
+  },
+  {
+    "uri": "en/7/694031",
+    "id": "694031",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Screwing-in tools [machines]",
+    "harm": {
+      "id": "0027884",
+      "title": "694031 - Screwing-in tools [machines]",
+      "conceptLink": "/ec2/concept/5976978"
+    }
+  },
+  {
+    "uri": "en/7/1824985",
+    "id": "1824985",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scroll saws",
+    "harm": {
+      "id": "0070876",
+      "title": "1824985 - Scroll saws",
+      "conceptLink": "/ec2/concept/6007068"
+    }
+  },
+  {
+    "uri": "en/7/137699090",
+    "id": "137699090",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scutching machines for the textile industry",
+    "harm": {
+      "id": "0000982",
+      "title": "137699090 - Scutching machines for the textile industry",
+      "conceptLink": "/ec2/concept/5952370"
+    }
+  },
+  {
+    "uri": "en/7/694059",
+    "id": "694059",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Scythes [machines]",
+    "harm": {
+      "id": "0022239",
+      "title": "694059 - Scythes [machines]",
+      "conceptLink": "/ec2/concept/5971810"
+    }
+  },
+  {
+    "uri": "en/7/115824",
+    "id": "115824",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sealing joints [parts of engines]",
+    "harm": {
+      "id": "0023272",
+      "title": "115824 - Sealing joints [parts of engines]",
+      "conceptLink": "/ec2/concept/5972750"
+    }
+  },
+  {
+    "uri": "en/7/694074",
+    "id": "694074",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sealing joints [parts of machines]",
+    "harm": {
+      "id": "0027885",
+      "title": "694074 - Sealing joints [parts of machines]",
+      "conceptLink": "/ec2/concept/5976979"
+    }
+  },
+  {
+    "uri": "en/7/124259",
+    "id": "124259",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sealing machines",
+    "harm": {
+      "id": "0021027",
+      "title": "124259 - Sealing machines",
+      "conceptLink": "/ec2/concept/5970703"
+    }
+  },
+  {
+    "uri": "en/7/124258",
+    "id": "124258",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sealing machines for industrial purposes",
+    "harm": {
+      "id": "0021027",
+      "title": "124258 - Sealing machines for industrial purposes",
+      "conceptLink": "/ec2/concept/5970703"
+    }
+  },
+  {
+    "uri": "en/7/912832",
+    "id": "912832",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sealing plastics (Electrical apparatus for -) [packaging]",
+    "harm": {
+      "id": "0033491",
+      "title": "912832 - Sealing plastics (Electrical apparatus for -) [packaging]",
+      "conceptLink": "/ec2/concept/5982107"
+    }
+  },
+  {
+    "uri": "en/7/121586",
+    "id": "121586",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seaming machines",
+    "harm": {
+      "id": "0018812",
+      "title": "121586 - Seaming machines",
+      "conceptLink": "/ec2/concept/5968687"
+    }
+  },
+  {
+    "uri": "en/7/694092",
+    "id": "694092",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seated [ride on] lawn mowers",
+    "harm": {
+      "id": "0008099",
+      "title": "694092 - Seated [ride on] lawn mowers",
+      "conceptLink": "/ec2/concept/5958870"
+    }
+  },
+  {
+    "uri": "en/7/387509",
+    "id": "387509",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seed drills [agricultural implements]",
+    "harm": {
+      "id": "0041666",
+      "title": "387509 - Seed drills [agricultural implements]",
+      "conceptLink": "/ec2/concept/5989555"
+    }
+  },
+  {
+    "uri": "en/7/120896539",
+    "id": "120896539",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seed drills for agricultural machines",
+    "harm": {
+      "id": "0065582",
+      "title": "120896539 - Seed drills for agricultural machines",
+      "conceptLink": "/ec2/concept/6001785"
+    }
+  }
+]

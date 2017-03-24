@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/41/852333",
+    "id": "852333",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to computer software",
+    "harm": {
+      "id": "0007260",
+      "title": "852333 - Lending of books relating to computer software",
+      "conceptLink": "/ec2/concept/5958103"
+    }
+  },
+  {
+    "uri": "en/41/852365",
+    "id": "852365",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to finance",
+    "harm": {
+      "id": "0024646",
+      "title": "852365 - Lending of books relating to finance",
+      "conceptLink": "/ec2/concept/5974022"
+    }
+  },
+  {
+    "uri": "en/41/852291",
+    "id": "852291",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to banking",
+    "harm": {
+      "id": "0027783",
+      "title": "852291 - Lending of books relating to banking",
+      "conceptLink": "/ec2/concept/5976886"
+    }
+  },
+  {
+    "uri": "en/41/852304",
+    "id": "852304",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to business intelligence",
+    "harm": {
+      "id": "0036199",
+      "title": "852304 - Lending of books relating to business intelligence",
+      "conceptLink": "/ec2/concept/5984562"
+    }
+  },
+  {
+    "uri": "en/41/852269",
+    "id": "852269",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to accounting",
+    "harm": {
+      "id": "0022138",
+      "title": "852269 - Lending of books relating to accounting",
+      "conceptLink": "/ec2/concept/5971719"
+    }
+  },
+  {
+    "uri": "en/41/852270",
+    "id": "852270",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to auditing",
+    "harm": {
+      "id": "0022138",
+      "title": "852270 - Lending of books relating to auditing",
+      "conceptLink": "/ec2/concept/5971719"
+    }
+  },
+  {
+    "uri": "en/41/852317",
+    "id": "852317",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lending of books relating to business methodology",
+    "harm": {
+      "id": "0041971",
+      "title": "852317 - Lending of books relating to business methodology",
+      "conceptLink": "/ec2/concept/5989829"
+    }
+  },
+  {
+    "uri": "en/41/465478",
+    "id": "465478",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Libraries",
+    "harm": {
+      "id": "0017575",
+      "title": "465478 - Libraries",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/56451",
+    "id": "56451",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Libraries (Lending -)",
+    "harm": {
+      "id": "0017575",
+      "title": "56451 - Libraries (Lending -)",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/852380",
+    "id": "852380",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library advisory services",
+    "harm": {
+      "id": "0007261",
+      "title": "852380 - Library advisory services",
+      "conceptLink": "/ec2/concept/5958104"
+    }
+  },
+  {
+    "uri": "en/41/465479",
+    "id": "465479",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services",
+    "harm": {
+      "id": "0017575",
+      "title": "465479 - Library services",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/852395",
+    "id": "852395",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services for the exchanging of books",
+    "harm": {
+      "id": "0024647",
+      "title": "852395 - Library services for the exchanging of books",
+      "conceptLink": "/ec2/concept/5974023"
+    }
+  },
+  {
+    "uri": "en/41/56457",
+    "id": "56457",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services for the lending of books",
+    "harm": {
+      "id": "0017575",
+      "title": "56457 - Library services for the lending of books",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/57463",
+    "id": "57463",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services (Mobile -)",
+    "harm": {
+      "id": "0012510",
+      "title": "57463 - Library services (Mobile -)",
+      "conceptLink": "/ec2/concept/5962909"
+    }
+  },
+  {
+    "uri": "en/41/852407",
+    "id": "852407",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services provided by means of a computerised database",
+    "harm": {
+      "id": "0036200",
+      "title": "852407 - Library services provided by means of a computerised database",
+      "conceptLink": "/ec2/concept/5984563"
+    }
+  },
+  {
+    "uri": "en/41/852421",
+    "id": "852421",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services provided by means of a computerised database containing information extracted from newspapers",
+    "harm": {
+      "id": "0030416",
+      "title": "852421 - Library services provided by means of a computerised database containing information extracted from newspapers",
+      "conceptLink": "/ec2/concept/5979308"
+    }
+  },
+  {
+    "uri": "en/41/852448",
+    "id": "852448",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services related to documents stored and retrieved by electronic means",
+    "harm": {
+      "id": "0013080",
+      "title": "852448 - Library services related to documents stored and retrieved by electronic means",
+      "conceptLink": "/ec2/concept/5963428"
+    }
+  },
+  {
+    "uri": "en/41/852434",
+    "id": "852434",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Library services related to data stored and retrieved by electronic means",
+    "harm": {
+      "id": "0036201",
+      "title": "852434 - Library services related to data stored and retrieved by electronic means",
+      "conceptLink": "/ec2/concept/5984564"
+    }
+  },
+  {
+    "uri": "en/41/898926",
+    "id": "898926",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Life coaching (training)",
+    "harm": {
+      "id": "0036562",
+      "title": "898926 - Life coaching (training)",
+      "conceptLink": "/ec2/concept/5984895"
+    }
+  },
+  {
+    "uri": "en/41/125074338",
+    "id": "125074338",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lighting apparatus for television (Rental of -)",
+    "harm": {
+      "id": "0024648",
+      "title": "125074338 - Lighting apparatus for television (Rental of -)",
+      "conceptLink": "/ec2/concept/5974024"
+    }
+  },
+  {
+    "uri": "en/41/125074354",
+    "id": "125074354",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lighting apparatus for theatre (Rental of -)",
+    "harm": {
+      "id": "0024465",
+      "title": "125074354 - Lighting apparatus for theatre (Rental of -)",
+      "conceptLink": "/ec2/concept/5973850"
+    }
+  },
+  {
+    "uri": "en/41/464572",
+    "id": "464572",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lighting productions for entertainment purposes",
+    "harm": {
+      "id": "0032580",
+      "title": "464572 - Lighting productions for entertainment purposes",
+      "conceptLink": "/ec2/concept/5981268"
+    }
+  },
+  {
+    "uri": "en/41/372789",
+    "id": "372789",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lingual education",
+    "harm": {
+      "id": "0001507",
+      "title": "372789 - Lingual education",
+      "conceptLink": "/ec2/concept/5952842"
+    }
+  },
+  {
+    "uri": "en/41/852495",
+    "id": "852495",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Linguistic classes",
+    "harm": {
+      "id": "0001507",
+      "title": "852495 - Linguistic classes",
+      "conceptLink": "/ec2/concept/5952842"
+    }
+  },
+  {
+    "uri": "en/41/120869534",
+    "id": "120869534",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Linguistic education and training services",
+    "harm": {
+      "id": "0069026",
+      "title": "120869534 - Linguistic education and training services",
+      "conceptLink": "/ec2/concept/6005229"
+    }
+  },
+  {
+    "uri": "en/41/483363",
+    "id": "483363",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Literary agency services",
+    "harm": {
+      "id": "0038718",
+      "title": "483363 - Literary agency services",
+      "conceptLink": "/ec2/concept/5986859"
+    }
+  },
+  {
+    "uri": "en/41/852508",
+    "id": "852508",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live band performance services",
+    "harm": {
+      "id": "0039291",
+      "title": "852508 - Live band performance services",
+      "conceptLink": "/ec2/concept/5987380"
+    }
+  },
+  {
+    "uri": "en/41/464597",
+    "id": "464597",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live band performances",
+    "harm": {
+      "id": "0006041",
+      "title": "464597 - Live band performances",
+      "conceptLink": "/ec2/concept/5956986"
+    }
+  },
+  {
+    "uri": "en/41/852520",
+    "id": "852520",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live comedy shows",
+    "harm": {
+      "id": "0022107",
+      "title": "852520 - Live comedy shows",
+      "conceptLink": "/ec2/concept/5971693"
+    }
+  },
+  {
+    "uri": "en/41/852534",
+    "id": "852534",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live dance exhibitions",
+    "harm": {
+      "id": "0039292",
+      "title": "852534 - Live dance exhibitions",
+      "conceptLink": "/ec2/concept/5987381"
+    }
+  },
+  {
+    "uri": "en/41/852549",
+    "id": "852549",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live demonstrations for entertainment",
+    "harm": {
+      "id": "0016186",
+      "title": "852549 - Live demonstrations for entertainment",
+      "conceptLink": "/ec2/concept/5966289"
+    }
+  },
+  {
+    "uri": "en/41/483380",
+    "id": "483380",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live entertainment",
+    "harm": {
+      "id": "0057151",
+      "title": "483380 - Live entertainment",
+      "conceptLink": "/ec2/concept/5998788"
+    }
+  },
+  {
+    "uri": "en/41/852563",
+    "id": "852563",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live entertainment production services",
+    "harm": {
+      "id": "0000819",
+      "title": "852563 - Live entertainment production services",
+      "conceptLink": "/ec2/concept/5952228"
+    }
+  },
+  {
+    "uri": "en/41/483381",
+    "id": "483381",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live entertainment services",
+    "harm": {
+      "id": "0057151",
+      "title": "483381 - Live entertainment services",
+      "conceptLink": "/ec2/concept/5998788"
+    }
+  },
+  {
+    "uri": "en/41/464862",
+    "id": "464862",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live music concerts",
+    "harm": {
+      "id": "0021552",
+      "title": "464862 - Live music concerts",
+      "conceptLink": "/ec2/concept/5971177"
+    }
+  },
+  {
+    "uri": "en/41/852585",
+    "id": "852585",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live music performances",
+    "harm": {
+      "id": "0033493",
+      "title": "852585 - Live music performances",
+      "conceptLink": "/ec2/concept/5982109"
+    }
+  },
+  {
+    "uri": "en/41/852633",
+    "id": "852633",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live music services",
+    "harm": {
+      "id": "0033493",
+      "title": "852633 - Live music services",
+      "conceptLink": "/ec2/concept/5982109"
+    }
+  },
+  {
+    "uri": "en/41/852586",
+    "id": "852586",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live music shows",
+    "harm": {
+      "id": "0033493",
+      "title": "852586 - Live music shows",
+      "conceptLink": "/ec2/concept/5982109"
+    }
+  },
+  {
+    "uri": "en/41/464863",
+    "id": "464863",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live musical concerts",
+    "harm": {
+      "id": "0021552",
+      "title": "464863 - Live musical concerts",
+      "conceptLink": "/ec2/concept/5971177"
+    }
+  },
+  {
+    "uri": "en/41/852584",
+    "id": "852584",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live musical performances",
+    "harm": {
+      "id": "0033493",
+      "title": "852584 - Live musical performances",
+      "conceptLink": "/ec2/concept/5982109"
+    }
+  },
+  {
+    "uri": "en/41/464596",
+    "id": "464596",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live performances by a musical bands",
+    "harm": {
+      "id": "0006041",
+      "title": "464596 - Live performances by a musical bands",
+      "conceptLink": "/ec2/concept/5956986"
+    }
+  },
+  {
+    "uri": "en/41/464595",
+    "id": "464595",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live performances by a musical band",
+    "harm": {
+      "id": "0006041",
+      "title": "464595 - Live performances by a musical band",
+      "conceptLink": "/ec2/concept/5956986"
+    }
+  },
+  {
+    "uri": "en/41/464879",
+    "id": "464879",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live performances by rock groups",
+    "harm": {
+      "id": "0027708",
+      "title": "464879 - Live performances by rock groups",
+      "conceptLink": "/ec2/concept/5976819"
+    }
+  },
+  {
+    "uri": "en/41/58475",
+    "id": "58475",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live performances (Presentation of -)",
+    "harm": {
+      "id": "0006605",
+      "title": "58475 - Live performances (Presentation of -)",
+      "conceptLink": "/ec2/concept/5957502"
+    }
+  },
+  {
+    "uri": "en/41/467188",
+    "id": "467188",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live show production services",
+    "harm": {
+      "id": "0039293",
+      "title": "467188 - Live show production services",
+      "conceptLink": "/ec2/concept/5987382"
+    }
+  },
+  {
+    "uri": "en/41/1482254",
+    "id": "1482254",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Live stage shows",
+    "harm": {
+      "id": "0013667",
+      "title": "1482254 - Live stage shows",
+      "conceptLink": "/ec2/concept/5963956"
+    }
+  },
+  {
+    "uri": "en/41/56447",
+    "id": "56447",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Loan of books",
+    "harm": {
+      "id": "0017575",
+      "title": "56447 - Loan of books",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/56449",
+    "id": "56449",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Loaning of books",
+    "harm": {
+      "id": "0017575",
+      "title": "56449 - Loaning of books",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/56448",
+    "id": "56448",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Loans of books",
+    "harm": {
+      "id": "0017575",
+      "title": "56448 - Loans of books",
+      "conceptLink": "/ec2/concept/5967541"
+    }
+  },
+  {
+    "uri": "en/41/124343808",
+    "id": "124343808",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lotteries (Conducting -)",
+    "harm": {
+      "id": "0034916",
+      "title": "124343808 - Lotteries (Conducting -)",
+      "conceptLink": "/ec2/concept/5983402"
+    }
+  },
+  {
+    "uri": "en/41/60190",
+    "id": "60190",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lotteries (Operating -)",
+    "harm": {
+      "id": "0034916",
+      "title": "60190 - Lotteries (Operating -)",
+      "conceptLink": "/ec2/concept/5983402"
+    }
+  },
+  {
+    "uri": "en/41/124343809",
+    "id": "124343809",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lotteries (Operating of -)",
+    "harm": {
+      "id": "0034916",
+      "title": "124343809 - Lotteries (Operating of -)",
+      "conceptLink": "/ec2/concept/5983402"
+    }
+  },
+  {
+    "uri": "en/41/465509",
+    "id": "465509",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Lottery services",
+    "harm": {
+      "id": "0034916",
+      "title": "465509 - Lottery services",
+      "conceptLink": "/ec2/concept/5983402"
+    }
+  },
+  {
+    "uri": "en/41/372940",
+    "id": "372940",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Magazine publishing",
+    "harm": {
+      "id": "0037410",
+      "title": "372940 - Magazine publishing",
+      "conceptLink": "/ec2/concept/5985666"
+    }
+  },
+  {
+    "uri": "en/41/124614233",
+    "id": "124614233",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Magazines (Publication of -)",
+    "harm": {
+      "id": "0037410",
+      "title": "124614233 - Magazines (Publication of -)",
+      "conceptLink": "/ec2/concept/5985666"
+    }
+  },
+  {
+    "uri": "en/41/852647",
+    "id": "852647",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Magic show services",
+    "harm": {
+      "id": "0029605",
+      "title": "852647 - Magic show services",
+      "conceptLink": "/ec2/concept/5978565"
+    }
+  },
+  {
+    "uri": "en/41/125074522",
+    "id": "125074522",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Magic shows (Presentation of -)",
+    "harm": {
+      "id": "0006463",
+      "title": "125074522 - Magic shows (Presentation of -)",
+      "conceptLink": "/ec2/concept/5957373"
+    }
+  },
+  {
+    "uri": "en/41/852675",
+    "id": "852675",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Male dance exhibitions",
+    "harm": {
+      "id": "0035399",
+      "title": "852675 - Male dance exhibitions",
+      "conceptLink": "/ec2/concept/5983840"
+    }
+  },
+  {
+    "uri": "en/41/483538",
+    "id": "483538",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Management education services",
+    "harm": {
+      "id": "0041181",
+      "title": "483538 - Management education services",
+      "conceptLink": "/ec2/concept/5989109"
+    }
+  },
+  {
+    "uri": "en/41/463276",
+    "id": "463276",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Management of concerts",
+    "harm": {
+      "id": "0029606",
+      "title": "463276 - Management of concerts",
+      "conceptLink": "/ec2/concept/5978566"
+    }
+  },
+  {
+    "uri": "en/41/915798",
+    "id": "915798",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Management of education services",
+    "harm": {
+      "id": "0023876",
+      "title": "915798 - Management of education services",
+      "conceptLink": "/ec2/concept/5973309"
+    }
+  },
+  {
+    "uri": "en/41/483519",
+    "id": "483519",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Management training consultancy services",
+    "harm": {
+      "id": "0033647",
+      "title": "483519 - Management training consultancy services",
+      "conceptLink": "/ec2/concept/5982247"
+    }
+  },
+  {
+    "uri": "en/41/483537",
+    "id": "483537",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Management training services",
+    "harm": {
+      "id": "0041181",
+      "title": "483537 - Management training services",
+      "conceptLink": "/ec2/concept/5989109"
+    }
+  },
+  {
+    "uri": "en/41/852739",
+    "id": "852739",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Manufacturing training services",
+    "harm": {
+      "id": "0012262",
+      "title": "852739 - Manufacturing training services",
+      "conceptLink": "/ec2/concept/5962684"
+    }
+  },
+  {
+    "uri": "en/41/465528",
+    "id": "465528",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Martial arts instruction",
+    "harm": {
+      "id": "0017576",
+      "title": "465528 - Martial arts instruction",
+      "conceptLink": "/ec2/concept/5967542"
+    }
+  },
+  {
+    "uri": "en/41/465551",
+    "id": "465551",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Master of ceremony services for parties and special events",
+    "harm": {
+      "id": "0029126",
+      "title": "465551 - Master of ceremony services for parties and special events",
+      "conceptLink": "/ec2/concept/5978132"
+    }
+  },
+  {
+    "uri": "en/41/852757",
+    "id": "852757",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Medical education services",
+    "harm": {
+      "id": "0041182",
+      "title": "852757 - Medical education services",
+      "conceptLink": "/ec2/concept/5989110"
+    }
+  },
+  {
+    "uri": "en/41/373052",
+    "id": "373052",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Medical training and teaching",
+    "harm": {
+      "id": "0015035",
+      "title": "373052 - Medical training and teaching",
+      "conceptLink": "/ec2/concept/5965219"
+    }
+  },
+  {
+    "uri": "en/41/852758",
+    "id": "852758",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Medical tuition services",
+    "harm": {
+      "id": "0041182",
+      "title": "852758 - Medical tuition services",
+      "conceptLink": "/ec2/concept/5989110"
+    }
+  },
+  {
+    "uri": "en/41/373068",
+    "id": "373068",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Meditation training",
+    "harm": {
+      "id": "0021903",
+      "title": "373068 - Meditation training",
+      "conceptLink": "/ec2/concept/5971502"
+    }
+  },
+  {
+    "uri": "en/41/60619",
+    "id": "60619",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Micro-publishing",
+    "harm": {
+      "id": "0018732",
+      "title": "60619 - Micro-publishing",
+      "conceptLink": "/ec2/concept/5968612"
+    }
+  },
+  {
+    "uri": "en/41/61233",
+    "id": "61233",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Microfilming",
+    "harm": {
+      "id": "0019954",
+      "title": "61233 - Microfilming",
+      "conceptLink": "/ec2/concept/5969717"
+    }
+  },
+  {
+    "uri": "en/41/465566",
+    "id": "465566",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Microfilming for others",
+    "harm": {
+      "id": "0029127",
+      "title": "465566 - Microfilming for others",
+      "conceptLink": "/ec2/concept/5978133"
+    }
+  },
+  {
+    "uri": "en/41/465582",
+    "id": "465582",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Military base training",
+    "harm": {
+      "id": "0029128",
+      "title": "465582 - Military base training",
+      "conceptLink": "/ec2/concept/5978134"
+    }
+  },
+  {
+    "uri": "en/41/57464",
+    "id": "57464",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Mobile library services",
+    "harm": {
+      "id": "0012510",
+      "title": "57464 - Mobile library services",
+      "conceptLink": "/ec2/concept/5962909"
+    }
+  },
+  {
+    "uri": "en/41/132694181",
+    "id": "132694181",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Mobile petting zoo services",
+    "harm": {
+      "id": "0051120",
+      "title": "132694181 - Mobile petting zoo services",
+      "conceptLink": "/ec2/concept/6010106"
+    }
+  },
+  {
+    "uri": "en/41/905347",
+    "id": "905347",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Modeling for artists",
+    "harm": {
+      "id": "0000940",
+      "title": "905347 - Modeling for artists",
+      "conceptLink": "/ec2/concept/5952333"
+    }
+  },
+  {
+    "uri": "en/41/465608",
+    "id": "465608",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Modelling for artists",
+    "harm": {
+      "id": "0000940",
+      "title": "465608 - Modelling for artists",
+      "conceptLink": "/ec2/concept/5952333"
+    }
+  },
+  {
+    "uri": "en/41/465607",
+    "id": "465607",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Modelling services for artists",
+    "harm": {
+      "id": "0000940",
+      "title": "465607 - Modelling services for artists",
+      "conceptLink": "/ec2/concept/5952333"
+    }
+  },
+  {
+    "uri": "en/41/465681",
+    "id": "465681",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture film production",
+    "harm": {
+      "id": "0041799",
+      "title": "465681 - Motion picture film production",
+      "conceptLink": "/ec2/concept/5989671"
+    }
+  },
+  {
+    "uri": "en/41/465052",
+    "id": "465052",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture production",
+    "harm": {
+      "id": "0041799",
+      "title": "465052 - Motion picture production",
+      "conceptLink": "/ec2/concept/5989671"
+    }
+  },
+  {
+    "uri": "en/41/56000",
+    "id": "56000",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture rental",
+    "harm": {
+      "id": "0017363",
+      "title": "56000 - Motion picture rental",
+      "conceptLink": "/ec2/concept/5967351"
+    }
+  },
+  {
+    "uri": "en/41/125156476",
+    "id": "125156476",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture (Rental of -)",
+    "harm": {
+      "id": "0017363",
+      "title": "125156476 - Motion picture (Rental of -)",
+      "conceptLink": "/ec2/concept/5967351"
+    }
+  },
+  {
+    "uri": "en/41/56005",
+    "id": "56005",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture-rental services",
+    "harm": {
+      "id": "0017363",
+      "title": "56005 - Motion picture-rental services",
+      "conceptLink": "/ec2/concept/5967351"
+    }
+  },
+  {
+    "uri": "en/41/465740",
+    "id": "465740",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture song production",
+    "harm": {
+      "id": "0002780",
+      "title": "465740 - Motion picture song production",
+      "conceptLink": "/ec2/concept/5953990"
+    }
+  },
+  {
+    "uri": "en/41/55062",
+    "id": "55062",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture studio services",
+    "harm": {
+      "id": "0000683",
+      "title": "55062 - Motion picture studio services",
+      "conceptLink": "/ec2/concept/5952103"
+    }
+  },
+  {
+    "uri": "en/41/55063",
+    "id": "55063",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture studios",
+    "harm": {
+      "id": "0000683",
+      "title": "55063 - Motion picture studios",
+      "conceptLink": "/ec2/concept/5952103"
+    }
+  },
+  {
+    "uri": "en/41/462942",
+    "id": "462942",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion picture theaters",
+    "harm": {
+      "id": "0001222",
+      "title": "462942 - Motion picture theaters",
+      "conceptLink": "/ec2/concept/5952591"
+    }
+  },
+  {
+    "uri": "en/41/56001",
+    "id": "56001",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motion pictures (Rental of -)",
+    "harm": {
+      "id": "0017363",
+      "title": "56001 - Motion pictures (Rental of -)",
+      "conceptLink": "/ec2/concept/5967351"
+    }
+  },
+  {
+    "uri": "en/41/137817934",
+    "id": "137817934",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motorcycle riding instruction",
+    "harm": {
+      "id": "0051102",
+      "title": "137817934 - Motorcycle riding instruction",
+      "conceptLink": "/ec2/concept/6010088"
+    }
+  },
+  {
+    "uri": "en/41/137817844",
+    "id": "137817844",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motorcycle training",
+    "harm": {
+      "id": "0051101",
+      "title": "137817844 - Motorcycle training",
+      "conceptLink": "/ec2/concept/6010087"
+    }
+  },
+  {
+    "uri": "en/41/852784",
+    "id": "852784",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Motoring school services",
+    "harm": {
+      "id": "0035402",
+      "title": "852784 - Motoring school services",
+      "conceptLink": "/ec2/concept/5983841"
+    }
+  },
+  {
+    "uri": "en/41/852797",
+    "id": "852797",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movement tuition for pre-school children",
+    "harm": {
+      "id": "0012263",
+      "title": "852797 - Movement tuition for pre-school children",
+      "conceptLink": "/ec2/concept/5962685"
+    }
+  },
+  {
+    "uri": "en/41/54956",
+    "id": "54956",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie projectors and accessories (Rental of -)",
+    "harm": {
+      "id": "0036910",
+      "title": "54956 - Movie projectors and accessories (Rental of -)",
+      "conceptLink": "/ec2/concept/5985214"
+    }
+  },
+  {
+    "uri": "en/41/120869252",
+    "id": "120869252",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie schedule information services",
+    "harm": {
+      "id": "0069053",
+      "title": "120869252 - Movie schedule information services",
+      "conceptLink": "/ec2/concept/6005256"
+    }
+  },
+  {
+    "uri": "en/41/905446",
+    "id": "905446",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie showing",
+    "harm": {
+      "id": "0058596",
+      "title": "905446 - Movie showing",
+      "conceptLink": "/ec2/concept/6000089"
+    }
+  },
+  {
+    "uri": "en/41/55064",
+    "id": "55064",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie studio services",
+    "harm": {
+      "id": "0000683",
+      "title": "55064 - Movie studio services",
+      "conceptLink": "/ec2/concept/5952103"
+    }
+  },
+  {
+    "uri": "en/41/55060",
+    "id": "55060",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie studios",
+    "harm": {
+      "id": "0000683",
+      "title": "55060 - Movie studios",
+      "conceptLink": "/ec2/concept/5952103"
+    }
+  },
+  {
+    "uri": "en/41/119696126",
+    "id": "119696126",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie theater presentations",
+    "harm": {
+      "id": "0058595",
+      "title": "119696126 - Movie theater presentations",
+      "conceptLink": "/ec2/concept/6000088"
+    }
+  },
+  {
+    "uri": "en/41/462943",
+    "id": "462943",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Movie theaters",
+    "harm": {
+      "id": "0001222",
+      "title": "462943 - Movie theaters",
+      "conceptLink": "/ec2/concept/5952591"
+    }
+  }
+]

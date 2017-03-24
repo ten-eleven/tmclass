@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/19/581892",
+    "id": "581892",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hazard warning barriers [non-metallic, fixed structures]",
+    "harm": {
+      "id": "0005169",
+      "title": "581892 - Hazard warning barriers [non-metallic, fixed structures]",
+      "conceptLink": "/ec2/concept/5956189"
+    }
+  },
+  {
+    "uri": "en/19/581906",
+    "id": "581906",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Heat protective glass for building",
+    "harm": {
+      "id": "0005170",
+      "title": "581906 - Heat protective glass for building",
+      "conceptLink": "/ec2/concept/5956190"
+    }
+  },
+  {
+    "uri": "en/19/581918",
+    "id": "581918",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Heat reflecting glass for building",
+    "harm": {
+      "id": "0016727",
+      "title": "581918 - Heat reflecting glass for building",
+      "conceptLink": "/ec2/concept/5966782"
+    }
+  },
+  {
+    "uri": "en/19/232310",
+    "id": "232310",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hen-houses made of non-metallic materials",
+    "harm": {
+      "id": "0017710",
+      "title": "232310 - Hen-houses made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5967666"
+    }
+  },
+  {
+    "uri": "en/19/227100",
+    "id": "227100",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hips for roofing",
+    "harm": {
+      "id": "0044943",
+      "title": "227100 - Hips for roofing",
+      "conceptLink": "/ec2/concept/5992546"
+    }
+  },
+  {
+    "uri": "en/19/581930",
+    "id": "581930",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hobby wood",
+    "harm": {
+      "id": "0016728",
+      "title": "581930 - Hobby wood",
+      "conceptLink": "/ec2/concept/5966783"
+    }
+  },
+  {
+    "uri": "en/19/581944",
+    "id": "581944",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Horizontal slatted blinds [outdoor], not of metal or textile",
+    "harm": {
+      "id": "0039775",
+      "title": "581944 - Horizontal slatted blinds [outdoor], not of metal or textile",
+      "conceptLink": "/ec2/concept/5987825"
+    }
+  },
+  {
+    "uri": "en/19/581959",
+    "id": "581959",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Horizontal venetian blinds [outdoor], not of metal or textile",
+    "harm": {
+      "id": "0022586",
+      "title": "581959 - Horizontal venetian blinds [outdoor], not of metal or textile",
+      "conceptLink": "/ec2/concept/5972128"
+    }
+  },
+  {
+    "uri": "en/19/132882059",
+    "id": "132882059",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Horse stall kick walls, not of metal",
+    "harm": {
+      "id": "0066808",
+      "title": "132882059 - Horse stall kick walls, not of metal",
+      "conceptLink": "/ec2/concept/6003011"
+    }
+  },
+  {
+    "uri": "en/19/233857",
+    "id": "233857",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Horticultural frames, not of metal",
+    "harm": {
+      "id": "0003279",
+      "title": "233857 - Horticultural frames, not of metal",
+      "conceptLink": "/ec2/concept/5954448"
+    }
+  },
+  {
+    "uri": "en/19/612969",
+    "id": "612969",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Horticultural frames [structures] not of metal",
+    "harm": {
+      "id": "0003279",
+      "title": "612969 - Horticultural frames [structures] not of metal",
+      "conceptLink": "/ec2/concept/5954448"
+    }
+  },
+  {
+    "uri": "en/19/230947",
+    "id": "230947",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Housing being non-metallic portable buildings",
+    "harm": {
+      "id": "0029412",
+      "title": "230947 - Housing being non-metallic portable buildings",
+      "conceptLink": "/ec2/concept/5978381"
+    }
+  },
+  {
+    "uri": "en/19/119538321",
+    "id": "119538321",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hume pipes",
+    "harm": {
+      "id": "0003455",
+      "title": "119538321 - Hume pipes",
+      "conceptLink": "/ec2/concept/5954611"
+    }
+  },
+  {
+    "uri": "en/19/227503",
+    "id": "227503",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Huts",
+    "harm": {
+      "id": "0018661",
+      "title": "227503 - Huts",
+      "conceptLink": "/ec2/concept/5968543"
+    }
+  },
+  {
+    "uri": "en/19/581974",
+    "id": "581974",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Huts made of non-metallic materials",
+    "harm": {
+      "id": "0039776",
+      "title": "581974 - Huts made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5987826"
+    }
+  },
+  {
+    "uri": "en/19/119538322",
+    "id": "119538322",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hydrated lime for building purposes",
+    "harm": {
+      "id": "0066745",
+      "title": "119538322 - Hydrated lime for building purposes",
+      "conceptLink": "/ec2/concept/6002948"
+    }
+  },
+  {
+    "uri": "en/19/423850",
+    "id": "423850",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Hydraulic cement",
+    "harm": {
+      "id": "0018368",
+      "title": "423850 - Hydraulic cement",
+      "conceptLink": "/ec2/concept/5968271"
+    }
+  },
+  {
+    "uri": "en/19/347164",
+    "id": "347164",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Industrial concrete for use in civil engineering works",
+    "harm": {
+      "id": "0024839",
+      "title": "347164 - Industrial concrete for use in civil engineering works",
+      "conceptLink": "/ec2/concept/5974203"
+    }
+  },
+  {
+    "uri": "en/19/131048080",
+    "id": "131048080",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Infrared-ray absorbing glass for building",
+    "harm": {
+      "id": "0056123",
+      "title": "131048080 - Infrared-ray absorbing glass for building",
+      "conceptLink": "/ec2/concept/5997473"
+    }
+  },
+  {
+    "uri": "en/19/582002",
+    "id": "582002",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Infrared reflective glass for use in building",
+    "harm": {
+      "id": "0010919",
+      "title": "582002 - Infrared reflective glass for use in building",
+      "conceptLink": "/ec2/concept/5961450"
+    }
+  },
+  {
+    "uri": "en/19/137870254",
+    "id": "137870254",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Inner doors, not of metal",
+    "harm": {
+      "id": "0073014",
+      "title": "137870254 - Inner doors, not of metal",
+      "conceptLink": "/ec2/concept/6009189"
+    }
+  },
+  {
+    "uri": "en/19/124812218",
+    "id": "124812218",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insect screens (Non-metallic -) for doors",
+    "harm": {
+      "id": "0005172",
+      "title": "124812218 - Insect screens (Non-metallic -) for doors",
+      "conceptLink": "/ec2/concept/5956191"
+    }
+  },
+  {
+    "uri": "en/19/124812231",
+    "id": "124812231",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insect screens (Non-metallic -) for windows",
+    "harm": {
+      "id": "0022587",
+      "title": "124812231 - Insect screens (Non-metallic -) for windows",
+      "conceptLink": "/ec2/concept/5972129"
+    }
+  },
+  {
+    "uri": "en/19/234740",
+    "id": "234740",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insect screens not of metal",
+    "harm": {
+      "id": "0000014",
+      "title": "234740 - Insect screens not of metal",
+      "conceptLink": "/ec2/concept/5951497"
+    }
+  },
+  {
+    "uri": "en/19/132801308",
+    "id": "132801308",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insect screens, not of metal",
+    "harm": {
+      "id": "0000014",
+      "title": "132801308 - Insect screens, not of metal",
+      "conceptLink": "/ec2/concept/5951497"
+    }
+  },
+  {
+    "uri": "en/19/582040",
+    "id": "582040",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Inspection chambers made of non-metallic materials",
+    "harm": {
+      "id": "0019149",
+      "title": "582040 - Inspection chambers made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5968994"
+    }
+  },
+  {
+    "uri": "en/19/582053",
+    "id": "582053",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Inspection covers of non-metallic materials",
+    "harm": {
+      "id": "0036439",
+      "title": "582053 - Inspection covers of non-metallic materials",
+      "conceptLink": "/ec2/concept/5984782"
+    }
+  },
+  {
+    "uri": "en/19/119705737",
+    "id": "119705737",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Installations, not of metal, for parking bicycles",
+    "harm": {
+      "id": "0044176",
+      "title": "119705737 - Installations, not of metal, for parking bicycles",
+      "conceptLink": "/ec2/concept/5991844"
+    }
+  },
+  {
+    "uri": "en/19/423862",
+    "id": "423862",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulated glass",
+    "harm": {
+      "id": "0018740",
+      "title": "423862 - Insulated glass",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/124812269",
+    "id": "124812269",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulated pipes (Non-metallic -) for water",
+    "harm": {
+      "id": "0024912",
+      "title": "124812269 - Insulated pipes (Non-metallic -) for water",
+      "conceptLink": "/ec2/concept/5974270"
+    }
+  },
+  {
+    "uri": "en/19/582079",
+    "id": "582079",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulating doors of non-metallic materials",
+    "harm": {
+      "id": "0001756",
+      "title": "582079 - Insulating doors of non-metallic materials",
+      "conceptLink": "/ec2/concept/5953064"
+    }
+  },
+  {
+    "uri": "en/19/232978",
+    "id": "232978",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulating glass [building]",
+    "harm": {
+      "id": "0018740",
+      "title": "232978 - Insulating glass [building]",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/232976",
+    "id": "232976",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulating glass for building",
+    "harm": {
+      "id": "0018740",
+      "title": "232976 - Insulating glass for building",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/232979",
+    "id": "232979",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulating glass for construction purposes",
+    "harm": {
+      "id": "0018740",
+      "title": "232979 - Insulating glass for construction purposes",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/232980",
+    "id": "232980",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulating glass for use in building",
+    "harm": {
+      "id": "0018740",
+      "title": "232980 - Insulating glass for use in building",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/232977",
+    "id": "232977",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Insulation glass for building",
+    "harm": {
+      "id": "0018740",
+      "title": "232977 - Insulation glass for building",
+      "conceptLink": "/ec2/concept/5968620"
+    }
+  },
+  {
+    "uri": "en/19/119538330",
+    "id": "119538330",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Interior non-metal window shutters",
+    "harm": {
+      "id": "0066768",
+      "title": "119538330 - Interior non-metal window shutters",
+      "conceptLink": "/ec2/concept/6002971"
+    }
+  },
+  {
+    "uri": "en/19/582092",
+    "id": "582092",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Interior walls of non-metallic materials",
+    "harm": {
+      "id": "0024913",
+      "title": "582092 - Interior walls of non-metallic materials",
+      "conceptLink": "/ec2/concept/5974271"
+    }
+  },
+  {
+    "uri": "en/19/124812309",
+    "id": "124812309",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Interlocking panels (Non-metallic -) for building",
+    "harm": {
+      "id": "0030643",
+      "title": "124812309 - Interlocking panels (Non-metallic -) for building",
+      "conceptLink": "/ec2/concept/5979520"
+    }
+  },
+  {
+    "uri": "en/19/582118",
+    "id": "582118",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Internal partitioning made of non-metallic materials",
+    "harm": {
+      "id": "0007497",
+      "title": "582118 - Internal partitioning made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5958319"
+    }
+  },
+  {
+    "uri": "en/19/136634675",
+    "id": "136634675",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Interpreter booths, not of metal",
+    "harm": {
+      "id": "0060172",
+      "title": "136634675 - Interpreter booths, not of metal",
+      "conceptLink": "/ec2/concept/5996434"
+    }
+  },
+  {
+    "uri": "en/19/582130",
+    "id": "582130",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Intumescent building materials",
+    "harm": {
+      "id": "0030644",
+      "title": "582130 - Intumescent building materials",
+      "conceptLink": "/ec2/concept/5979521"
+    }
+  },
+  {
+    "uri": "en/19/582131",
+    "id": "582131",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Intumescent construction materials",
+    "harm": {
+      "id": "0030644",
+      "title": "582131 - Intumescent construction materials",
+      "conceptLink": "/ec2/concept/5979521"
+    }
+  },
+  {
+    "uri": "en/19/230433",
+    "id": "230433",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Jalousies, not of metal",
+    "harm": {
+      "id": "0028695",
+      "title": "230433 - Jalousies, not of metal",
+      "conceptLink": "/ec2/concept/5977732"
+    }
+  },
+  {
+    "uri": "en/19/502180",
+    "id": "502180",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Japanese sliding screens of thin paper (shoji)",
+    "harm": {
+      "id": "0039481",
+      "title": "502180 - Japanese sliding screens of thin paper (shoji)",
+      "conceptLink": "/ec2/concept/5987550"
+    }
+  },
+  {
+    "uri": "en/19/502194",
+    "id": "502194",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Japanese style indoor sliding partitions (fusuma)",
+    "harm": {
+      "id": "0022295",
+      "title": "502194 - Japanese style indoor sliding partitions (fusuma)",
+      "conceptLink": "/ec2/concept/5971863"
+    }
+  },
+  {
+    "uri": "en/19/582147",
+    "id": "582147",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Joinery products of timber for use in buildings",
+    "harm": {
+      "id": "0008941",
+      "title": "582147 - Joinery products of timber for use in buildings",
+      "conceptLink": "/ec2/concept/5959637"
+    }
+  },
+  {
+    "uri": "en/19/347178",
+    "id": "347178",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Joists",
+    "harm": {
+      "id": "0024840",
+      "title": "347178 - Joists",
+      "conceptLink": "/ec2/concept/5974204"
+    }
+  },
+  {
+    "uri": "en/19/229821",
+    "id": "229821",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Joists, not of metal",
+    "harm": {
+      "id": "0058109",
+      "title": "229821 - Joists, not of metal",
+      "conceptLink": "/ec2/concept/5999610"
+    }
+  },
+  {
+    "uri": "en/19/582176",
+    "id": "582176",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Kiosks [non-metallic structures]",
+    "harm": {
+      "id": "0037861",
+      "title": "582176 - Kiosks [non-metallic structures]",
+      "conceptLink": "/ec2/concept/5986070"
+    }
+  },
+  {
+    "uri": "en/19/124812395",
+    "id": "124812395",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Kitchen tiles (Non-metallic -)",
+    "harm": {
+      "id": "0003191",
+      "title": "124812395 - Kitchen tiles (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5954371"
+    }
+  },
+  {
+    "uri": "en/19/132882065",
+    "id": "132882065",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminate flooring, not of metal",
+    "harm": {
+      "id": "0066807",
+      "title": "132882065 - Laminate flooring, not of metal",
+      "conceptLink": "/ec2/concept/6003010"
+    }
+  },
+  {
+    "uri": "en/19/124812410",
+    "id": "124812410",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated boards (Non-metallic -) for building use",
+    "harm": {
+      "id": "0008943",
+      "title": "124812410 - Laminated boards (Non-metallic -) for building use",
+      "conceptLink": "/ec2/concept/5959638"
+    }
+  },
+  {
+    "uri": "en/19/124812426",
+    "id": "124812426",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated boards (Non-metallic -) for walls",
+    "harm": {
+      "id": "0032071",
+      "title": "124812426 - Laminated boards (Non-metallic -) for walls",
+      "conceptLink": "/ec2/concept/5980808"
+    }
+  },
+  {
+    "uri": "en/19/582235",
+    "id": "582235",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated building glass incorporating a liquid crystal film",
+    "harm": {
+      "id": "0008944",
+      "title": "582235 - Laminated building glass incorporating a liquid crystal film",
+      "conceptLink": "/ec2/concept/5959639"
+    }
+  },
+  {
+    "uri": "en/19/582247",
+    "id": "582247",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated building glass incorporating fine electrical conductors",
+    "harm": {
+      "id": "0020637",
+      "title": "582247 - Laminated building glass incorporating fine electrical conductors",
+      "conceptLink": "/ec2/concept/5970341"
+    }
+  },
+  {
+    "uri": "en/19/582266",
+    "id": "582266",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated chipboard",
+    "harm": {
+      "id": "0014794",
+      "title": "582266 - Laminated chipboard",
+      "conceptLink": "/ec2/concept/5965002"
+    }
+  },
+  {
+    "uri": "en/19/582267",
+    "id": "582267",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated fibreboard",
+    "harm": {
+      "id": "0014794",
+      "title": "582267 - Laminated fibreboard",
+      "conceptLink": "/ec2/concept/5965002"
+    }
+  },
+  {
+    "uri": "en/19/129844021",
+    "id": "129844021",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated flat glass for building",
+    "harm": {
+      "id": "0036384",
+      "title": "129844021 - Laminated flat glass for building",
+      "conceptLink": "/ec2/concept/5984735"
+    }
+  },
+  {
+    "uri": "en/19/347198",
+    "id": "347198",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated flat glass [for building]",
+    "harm": {
+      "id": "0036384",
+      "title": "347198 - Laminated flat glass [for building]",
+      "conceptLink": "/ec2/concept/5984735"
+    }
+  },
+  {
+    "uri": "en/19/233402905",
+    "id": "233402905",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated parquet floorboards",
+    "harm": {
+      "id": "0073497",
+      "title": "233402905 - Laminated parquet floorboards",
+      "conceptLink": "/ec2/concept/6009670"
+    }
+  },
+  {
+    "uri": "en/19/95020108",
+    "id": "95020108",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated parquet flooring",
+    "harm": {
+      "id": "0073496",
+      "title": "95020108 - Laminated parquet flooring",
+      "conceptLink": "/ec2/concept/6009669"
+    }
+  },
+  {
+    "uri": "en/19/227768",
+    "id": "227768",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminated wood",
+    "harm": {
+      "id": "0031197",
+      "title": "227768 - Laminated wood",
+      "conceptLink": "/ec2/concept/5980026"
+    }
+  },
+  {
+    "uri": "en/19/124812529",
+    "id": "124812529",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminates (Non-metallic -)",
+    "harm": {
+      "id": "0008945",
+      "title": "124812529 - Laminates (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5959640"
+    }
+  },
+  {
+    "uri": "en/19/582304",
+    "id": "582304",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laminates of non-metallic materials for use in building",
+    "harm": {
+      "id": "0003192",
+      "title": "582304 - Laminates of non-metallic materials for use in building",
+      "conceptLink": "/ec2/concept/5954372"
+    }
+  },
+  {
+    "uri": "en/19/230584",
+    "id": "230584",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Laths, not of metal",
+    "harm": {
+      "id": "0019471",
+      "title": "230584 - Laths, not of metal",
+      "conceptLink": "/ec2/concept/5969282"
+    }
+  },
+  {
+    "uri": "en/19/582318",
+    "id": "582318",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Latticed netting of glass for building purposes",
+    "harm": {
+      "id": "0037862",
+      "title": "582318 - Latticed netting of glass for building purposes",
+      "conceptLink": "/ec2/concept/5986071"
+    }
+  },
+  {
+    "uri": "en/19/227097",
+    "id": "227097",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Latticework, not of metal",
+    "harm": {
+      "id": "0047336",
+      "title": "227097 - Latticework, not of metal",
+      "conceptLink": "/ec2/concept/5994680"
+    }
+  },
+  {
+    "uri": "en/19/582331",
+    "id": "582331",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Layered glass",
+    "harm": {
+      "id": "0011846",
+      "title": "582331 - Layered glass",
+      "conceptLink": "/ec2/concept/5962299"
+    }
+  },
+  {
+    "uri": "en/19/234078",
+    "id": "234078",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lengthening pieces, not of metal, for chimneys",
+    "harm": {
+      "id": "0027539",
+      "title": "234078 - Lengthening pieces, not of metal, for chimneys",
+      "conceptLink": "/ec2/concept/5976658"
+    }
+  },
+  {
+    "uri": "en/19/582345",
+    "id": "582345",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Letter-box covers of masonry",
+    "harm": {
+      "id": "0011847",
+      "title": "582345 - Letter-box covers of masonry",
+      "conceptLink": "/ec2/concept/5962300"
+    }
+  },
+  {
+    "uri": "en/19/582357",
+    "id": "582357",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Letter-box flaps of masonry",
+    "harm": {
+      "id": "0011848",
+      "title": "582357 - Letter-box flaps of masonry",
+      "conceptLink": "/ec2/concept/5962301"
+    }
+  },
+  {
+    "uri": "en/19/234494",
+    "id": "234494",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Letter boxes of masonry",
+    "harm": {
+      "id": "0037954",
+      "title": "234494 - Letter boxes of masonry",
+      "conceptLink": "/ec2/concept/5986155"
+    }
+  },
+  {
+    "uri": "en/19/582369",
+    "id": "582369",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Levelling preparations [cement or mortar]",
+    "harm": {
+      "id": "0023460",
+      "title": "582369 - Levelling preparations [cement or mortar]",
+      "conceptLink": "/ec2/concept/5972927"
+    }
+  },
+  {
+    "uri": "en/19/582383",
+    "id": "582383",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lift-up doors, non-metallic",
+    "harm": {
+      "id": "0017612",
+      "title": "582383 - Lift-up doors, non-metallic",
+      "conceptLink": "/ec2/concept/5967574"
+    }
+  },
+  {
+    "uri": "en/19/230773",
+    "id": "230773",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lighting slabs",
+    "harm": {
+      "id": "0028844",
+      "title": "230773 - Lighting slabs",
+      "conceptLink": "/ec2/concept/5977872"
+    }
+  },
+  {
+    "uri": "en/19/228628",
+    "id": "228628",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lime",
+    "harm": {
+      "id": "0044059",
+      "title": "228628 - Lime",
+      "conceptLink": "/ec2/concept/5991735"
+    }
+  },
+  {
+    "uri": "en/19/119538339",
+    "id": "119538339",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lime building materials",
+    "harm": {
+      "id": "0056124",
+      "title": "119538339 - Lime building materials",
+      "conceptLink": "/ec2/concept/5997474"
+    }
+  },
+  {
+    "uri": "en/19/582395",
+    "id": "582395",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lime mortar",
+    "harm": {
+      "id": "0023461",
+      "title": "582395 - Lime mortar",
+      "conceptLink": "/ec2/concept/5972928"
+    }
+  },
+  {
+    "uri": "en/19/228234",
+    "id": "228234",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Limestone",
+    "harm": {
+      "id": "0019093",
+      "title": "228234 - Limestone",
+      "conceptLink": "/ec2/concept/5968944"
+    }
+  },
+  {
+    "uri": "en/19/228233",
+    "id": "228233",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Limestone [calcareous stone]",
+    "harm": {
+      "id": "0019093",
+      "title": "228233 - Limestone [calcareous stone]",
+      "conceptLink": "/ec2/concept/5968944"
+    }
+  },
+  {
+    "uri": "en/19/582408",
+    "id": "582408",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Limestone in granular form",
+    "harm": {
+      "id": "0040749",
+      "title": "582408 - Limestone in granular form",
+      "conceptLink": "/ec2/concept/5988718"
+    }
+  },
+  {
+    "uri": "en/19/582421",
+    "id": "582421",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Limestone in powdered form",
+    "harm": {
+      "id": "0023462",
+      "title": "582421 - Limestone in powdered form",
+      "conceptLink": "/ec2/concept/5972929"
+    }
+  },
+  {
+    "uri": "en/19/124809459",
+    "id": "124809459",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lining boards (Non-metallic -)",
+    "harm": {
+      "id": "0011585",
+      "title": "124809459 - Lining boards (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5962057"
+    }
+  },
+  {
+    "uri": "en/19/232021",
+    "id": "232021",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Linings, not of metal, for building",
+    "harm": {
+      "id": "0072777",
+      "title": "232021 - Linings, not of metal, for building",
+      "conceptLink": "/ec2/concept/6008952"
+    }
+  },
+  {
+    "uri": "en/19/230740",
+    "id": "230740",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lintels, not of metal",
+    "harm": {
+      "id": "0030913",
+      "title": "230740 - Lintels, not of metal",
+      "conceptLink": "/ec2/concept/5979771"
+    }
+  },
+  {
+    "uri": "en/19/347214",
+    "id": "347214",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Liparite",
+    "harm": {
+      "id": "0036385",
+      "title": "347214 - Liparite",
+      "conceptLink": "/ec2/concept/5984736"
+    }
+  },
+  {
+    "uri": "en/19/582433",
+    "id": "582433",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Liquid plastics surface coatings for protection against moisture [not paints]",
+    "harm": {
+      "id": "0000293",
+      "title": "582433 - Liquid plastics surface coatings for protection against moisture [not paints]",
+      "conceptLink": "/ec2/concept/5951757"
+    }
+  },
+  {
+    "uri": "en/19/347226",
+    "id": "347226",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Liquid storage tanks of masonry [for industrial purposes]",
+    "harm": {
+      "id": "0013264",
+      "title": "347226 - Liquid storage tanks of masonry [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5963597"
+    }
+  },
+  {
+    "uri": "en/19/613295",
+    "id": "613295",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Liquid storage tanks [structures] made of masonary or wood",
+    "harm": {
+      "id": "0037985",
+      "title": "613295 - Liquid storage tanks [structures] made of masonary or wood",
+      "conceptLink": "/ec2/concept/5986186"
+    }
+  },
+  {
+    "uri": "en/19/124812687",
+    "id": "124812687",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Livestock buildings (Non-metallic -)",
+    "harm": {
+      "id": "0023463",
+      "title": "124812687 - Livestock buildings (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5972930"
+    }
+  },
+  {
+    "uri": "en/19/423877",
+    "id": "423877",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Log homes sold in kit form",
+    "harm": {
+      "id": "0035679",
+      "title": "423877 - Log homes sold in kit form",
+      "conceptLink": "/ec2/concept/5984093"
+    }
+  },
+  {
+    "uri": "en/19/347241",
+    "id": "347241",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Logs [building material]",
+    "harm": {
+      "id": "0024841",
+      "title": "347241 - Logs [building material]",
+      "conceptLink": "/ec2/concept/5974205"
+    }
+  },
+  {
+    "uri": "en/19/124812700",
+    "id": "124812700",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Louvre vents (Non-metallic -) for buildings",
+    "harm": {
+      "id": "0006070",
+      "title": "124812700 - Louvre vents (Non-metallic -) for buildings",
+      "conceptLink": "/ec2/concept/5957014"
+    }
+  },
+  {
+    "uri": "en/19/124812713",
+    "id": "124812713",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Louvre window assemblies (Non-metallic -)",
+    "harm": {
+      "id": "0040750",
+      "title": "124812713 - Louvre window assemblies (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5988719"
+    }
+  },
+  {
+    "uri": "en/19/613327",
+    "id": "613327",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Low tunnels [non-metallic or non-metallic frame] for the protection of plants",
+    "harm": {
+      "id": "0009057",
+      "title": "613327 - Low tunnels [non-metallic or non-metallic frame] for the protection of plants",
+      "conceptLink": "/ec2/concept/5959746"
+    }
+  },
+  {
+    "uri": "en/19/346839",
+    "id": "346839",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Lumber",
+    "harm": {
+      "id": "0057158",
+      "title": "346839 - Lumber",
+      "conceptLink": "/ec2/concept/5998779"
+    }
+  },
+  {
+    "uri": "en/19/119538348",
+    "id": "119538348",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Luminous glass for building",
+    "harm": {
+      "id": "0056125",
+      "title": "119538348 - Luminous glass for building",
+      "conceptLink": "/ec2/concept/5997475"
+    }
+  },
+  {
+    "uri": "en/19/230771",
+    "id": "230771",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Luminous paving",
+    "harm": {
+      "id": "0028844",
+      "title": "230771 - Luminous paving",
+      "conceptLink": "/ec2/concept/5977872"
+    }
+  },
+  {
+    "uri": "en/19/135093065",
+    "id": "135093065",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Luminous paving blocks",
+    "harm": {
+      "id": "0028844",
+      "title": "135093065 - Luminous paving blocks",
+      "conceptLink": "/ec2/concept/5977872"
+    }
+  }
+]

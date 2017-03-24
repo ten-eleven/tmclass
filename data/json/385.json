@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/16/95342703",
+    "id": "95342703",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pharmaceutical information leaflets",
+    "harm": {
+      "id": "0056075",
+      "title": "95342703 - Pharmaceutical information leaflets",
+      "conceptLink": "/ec2/concept/5997427"
+    }
+  },
+  {
+    "uri": "en/16/213654",
+    "id": "213654",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Philatelic stamps",
+    "harm": {
+      "id": "0030006",
+      "title": "213654 - Philatelic stamps",
+      "conceptLink": "/ec2/concept/5978927"
+    }
+  },
+  {
+    "uri": "en/16/343663",
+    "id": "343663",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photo albums",
+    "harm": {
+      "id": "0023307",
+      "title": "343663 - Photo albums",
+      "conceptLink": "/ec2/concept/5972784"
+    }
+  },
+  {
+    "uri": "en/16/131134290",
+    "id": "131134290",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photo albums and collectors' albums",
+    "harm": {
+      "id": "0047837",
+      "title": "131134290 - Photo albums and collectors' albums",
+      "conceptLink": "/ec2/concept/5995111"
+    }
+  },
+  {
+    "uri": "en/16/212145",
+    "id": "212145",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photo-engravings",
+    "harm": {
+      "id": "0027939",
+      "title": "212145 - Photo-engravings",
+      "conceptLink": "/ec2/concept/5977030"
+    }
+  },
+  {
+    "uri": "en/16/340922",
+    "id": "340922",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photo mounting corners",
+    "harm": {
+      "id": "0040601",
+      "title": "340922 - Photo mounting corners",
+      "conceptLink": "/ec2/concept/5988581"
+    }
+  },
+  {
+    "uri": "en/16/13449348",
+    "id": "13449348",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photo storage boxes",
+    "harm": {
+      "id": "0066452",
+      "title": "13449348 - Photo storage boxes",
+      "conceptLink": "/ec2/concept/6002655"
+    }
+  },
+  {
+    "uri": "en/16/343372",
+    "id": "343372",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photocopy paper",
+    "harm": {
+      "id": "0023306",
+      "title": "343372 - Photocopy paper",
+      "conceptLink": "/ec2/concept/5972783"
+    }
+  },
+  {
+    "uri": "en/16/343373",
+    "id": "343373",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photocopy papers",
+    "harm": {
+      "id": "0023306",
+      "title": "343373 - Photocopy papers",
+      "conceptLink": "/ec2/concept/5972783"
+    }
+  },
+  {
+    "uri": "en/16/39258500",
+    "id": "39258500",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photograph album pages",
+    "harm": {
+      "id": "0066545",
+      "title": "39258500 - Photograph album pages",
+      "conceptLink": "/ec2/concept/6002748"
+    }
+  },
+  {
+    "uri": "en/16/343664",
+    "id": "343664",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photograph albums",
+    "harm": {
+      "id": "0023307",
+      "title": "343664 - Photograph albums",
+      "conceptLink": "/ec2/concept/5972784"
+    }
+  },
+  {
+    "uri": "en/16/343688",
+    "id": "343688",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photograph corners",
+    "harm": {
+      "id": "0040601",
+      "title": "343688 - Photograph corners",
+      "conceptLink": "/ec2/concept/5988581"
+    }
+  },
+  {
+    "uri": "en/16/1434950",
+    "id": "1434950",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photograph mounts",
+    "harm": {
+      "id": "0071038",
+      "title": "1434950 - Photograph mounts",
+      "conceptLink": "/ec2/concept/6007230"
+    }
+  },
+  {
+    "uri": "en/16/212123",
+    "id": "212123",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photograph stands",
+    "harm": {
+      "id": "0033666",
+      "title": "212123 - Photograph stands",
+      "conceptLink": "/ec2/concept/5982265"
+    }
+  },
+  {
+    "uri": "en/16/343665",
+    "id": "343665",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographic albums",
+    "harm": {
+      "id": "0023307",
+      "title": "343665 - Photographic albums",
+      "conceptLink": "/ec2/concept/5972784"
+    }
+  },
+  {
+    "uri": "en/16/119536500",
+    "id": "119536500",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographic or art mounts",
+    "harm": {
+      "id": "0066419",
+      "title": "119536500 - Photographic or art mounts",
+      "conceptLink": "/ec2/concept/6002622"
+    }
+  },
+  {
+    "uri": "en/16/209680",
+    "id": "209680",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographic prints",
+    "harm": {
+      "id": "0057118",
+      "title": "209680 - Photographic prints",
+      "conceptLink": "/ec2/concept/5998742"
+    }
+  },
+  {
+    "uri": "en/16/204054",
+    "id": "204054",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographs",
+    "harm": {
+      "id": "0057118",
+      "title": "204054 - Photographs",
+      "conceptLink": "/ec2/concept/5998742"
+    }
+  },
+  {
+    "uri": "en/16/212091",
+    "id": "212091",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographs (Apparatus for mounting -)",
+    "harm": {
+      "id": "0033665",
+      "title": "212091 - Photographs (Apparatus for mounting -)",
+      "conceptLink": "/ec2/concept/5982264"
+    }
+  },
+  {
+    "uri": "en/16/209681",
+    "id": "209681",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Photographs [printed]",
+    "harm": {
+      "id": "0057118",
+      "title": "209681 - Photographs [printed]",
+      "conceptLink": "/ec2/concept/5998742"
+    }
+  },
+  {
+    "uri": "en/16/4922534",
+    "id": "4922534",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pictorial prints",
+    "harm": {
+      "id": "0066468",
+      "title": "4922534 - Pictorial prints",
+      "conceptLink": "/ec2/concept/6002671"
+    }
+  },
+  {
+    "uri": "en/16/343709",
+    "id": "343709",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Picture books",
+    "harm": {
+      "id": "0047178",
+      "title": "343709 - Picture books",
+      "conceptLink": "/ec2/concept/5994545"
+    }
+  },
+  {
+    "uri": "en/16/210569",
+    "id": "210569",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Picture cards",
+    "harm": {
+      "id": "0046919",
+      "title": "210569 - Picture cards",
+      "conceptLink": "/ec2/concept/5994308"
+    }
+  },
+  {
+    "uri": "en/16/210567",
+    "id": "210567",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Picture postcards",
+    "harm": {
+      "id": "0046537",
+      "title": "210567 - Picture postcards",
+      "conceptLink": "/ec2/concept/5993975"
+    }
+  },
+  {
+    "uri": "en/16/204053",
+    "id": "204053",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pictures",
+    "harm": {
+      "id": "0025645",
+      "title": "204053 - Pictures",
+      "conceptLink": "/ec2/concept/5974937"
+    }
+  },
+  {
+    "uri": "en/16/563137",
+    "id": "563137",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pigeon holes",
+    "harm": {
+      "id": "0035821",
+      "title": "563137 - Pigeon holes",
+      "conceptLink": "/ec2/concept/5984225"
+    }
+  },
+  {
+    "uri": "en/16/563150",
+    "id": "563150",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pins [stationery]",
+    "harm": {
+      "id": "0020208",
+      "title": "563150 - Pins [stationery]",
+      "conceptLink": "/ec2/concept/5969950"
+    }
+  },
+  {
+    "uri": "en/16/559969",
+    "id": "559969",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Placards of cardboard",
+    "harm": {
+      "id": "0006865",
+      "title": "559969 - Placards of cardboard",
+      "conceptLink": "/ec2/concept/5957736"
+    }
+  },
+  {
+    "uri": "en/16/560021",
+    "id": "560021",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Placards of paper",
+    "harm": {
+      "id": "0012702",
+      "title": "560021 - Placards of paper",
+      "conceptLink": "/ec2/concept/5963086"
+    }
+  },
+  {
+    "uri": "en/16/215349",
+    "id": "215349",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Placards of paper or cardboard",
+    "harm": {
+      "id": "0046355",
+      "title": "215349 - Placards of paper or cardboard",
+      "conceptLink": "/ec2/concept/5993811"
+    }
+  },
+  {
+    "uri": "en/16/419669",
+    "id": "419669",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Place cards",
+    "harm": {
+      "id": "0006724",
+      "title": "419669 - Place cards",
+      "conceptLink": "/ec2/concept/5957612"
+    }
+  },
+  {
+    "uri": "en/16/213278",
+    "id": "213278",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Place mats made of paper",
+    "harm": {
+      "id": "0011376",
+      "title": "213278 - Place mats made of paper",
+      "conceptLink": "/ec2/concept/5961865"
+    }
+  },
+  {
+    "uri": "en/16/215133",
+    "id": "215133",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Place mats of paper",
+    "harm": {
+      "id": "0011376",
+      "title": "215133 - Place mats of paper",
+      "conceptLink": "/ec2/concept/5961865"
+    }
+  },
+  {
+    "uri": "en/16/561472",
+    "id": "561472",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Planners [printed matter]",
+    "harm": {
+      "id": "0035822",
+      "title": "561472 - Planners [printed matter]",
+      "conceptLink": "/ec2/concept/5984226"
+    }
+  },
+  {
+    "uri": "en/16/212170",
+    "id": "212170",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plans",
+    "harm": {
+      "id": "0004848",
+      "title": "212170 - Plans",
+      "conceptLink": "/ec2/concept/5955896"
+    }
+  },
+  {
+    "uri": "en/16/12406967",
+    "id": "12406967",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic adhesives for stationery or household purposes",
+    "harm": {
+      "id": "0056076",
+      "title": "12406967 - Plastic adhesives for stationery or household purposes",
+      "conceptLink": "/ec2/concept/5997428"
+    }
+  },
+  {
+    "uri": "en/16/419703",
+    "id": "419703",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for disposable diapers",
+    "harm": {
+      "id": "0041427",
+      "title": "419703 - Plastic bags for disposable diapers",
+      "conceptLink": "/ec2/concept/5989331"
+    }
+  },
+  {
+    "uri": "en/16/419720",
+    "id": "419720",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for disposing of pet waste",
+    "harm": {
+      "id": "0006725",
+      "title": "419720 - Plastic bags for disposing of pet waste",
+      "conceptLink": "/ec2/concept/5957613"
+    }
+  },
+  {
+    "uri": "en/16/66595950",
+    "id": "66595950",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for household use",
+    "harm": {
+      "id": "0066418",
+      "title": "66595950 - Plastic bags for household use",
+      "conceptLink": "/ec2/concept/6002621"
+    }
+  },
+  {
+    "uri": "en/16/419750",
+    "id": "419750",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for packaging",
+    "harm": {
+      "id": "0020205",
+      "title": "419750 - Plastic bags for packaging",
+      "conceptLink": "/ec2/concept/5969949"
+    }
+  },
+  {
+    "uri": "en/16/119536522",
+    "id": "119536522",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for packaging ice",
+    "harm": {
+      "id": "0066448",
+      "title": "119536522 - Plastic bags for packaging ice",
+      "conceptLink": "/ec2/concept/6002651"
+    }
+  },
+  {
+    "uri": "en/16/94365678",
+    "id": "94365678",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for packing",
+    "harm": {
+      "id": "0020205",
+      "title": "94365678 - Plastic bags for packing",
+      "conceptLink": "/ec2/concept/5969949"
+    }
+  },
+  {
+    "uri": "en/16/233568267",
+    "id": "233568267",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for pet waste disposal",
+    "harm": {
+      "id": "0006725",
+      "title": "233568267 - Plastic bags for pet waste disposal",
+      "conceptLink": "/ec2/concept/5957613"
+    }
+  },
+  {
+    "uri": "en/16/120834577",
+    "id": "120834577",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for securing valuables",
+    "harm": {
+      "id": "0066485",
+      "title": "120834577 - Plastic bags for securing valuables",
+      "conceptLink": "/ec2/concept/6002688"
+    }
+  },
+  {
+    "uri": "en/16/419793",
+    "id": "419793",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bags for undergarment disposal",
+    "harm": {
+      "id": "0005425",
+      "title": "419793 - Plastic bags for undergarment disposal",
+      "conceptLink": "/ec2/concept/5956425"
+    }
+  },
+  {
+    "uri": "en/16/119536526",
+    "id": "119536526",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic baseball card holders",
+    "harm": {
+      "id": "0056077",
+      "title": "119536526 - Plastic baseball card holders",
+      "conceptLink": "/ec2/concept/5997429"
+    }
+  },
+  {
+    "uri": "en/16/560489",
+    "id": "560489",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bin liners",
+    "harm": {
+      "id": "0031686",
+      "title": "560489 - Plastic bin liners",
+      "conceptLink": "/ec2/concept/5980458"
+    }
+  },
+  {
+    "uri": "en/16/214465",
+    "id": "214465",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bubble packs for wrapping",
+    "harm": {
+      "id": "0002163",
+      "title": "214465 - Plastic bubble packs for wrapping",
+      "conceptLink": "/ec2/concept/5953431"
+    }
+  },
+  {
+    "uri": "en/16/214463",
+    "id": "214463",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic bubble packs for wrapping or packaging",
+    "harm": {
+      "id": "0002163",
+      "title": "214463 - Plastic bubble packs for wrapping or packaging",
+      "conceptLink": "/ec2/concept/5953431"
+    }
+  },
+  {
+    "uri": "en/16/215723",
+    "id": "215723",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic cling film, extensible, for palletization",
+    "harm": {
+      "id": "0026775",
+      "title": "215723 - Plastic cling film, extensible, for palletization",
+      "conceptLink": "/ec2/concept/5975963"
+    }
+  },
+  {
+    "uri": "en/16/91622877",
+    "id": "91622877",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic coated copying paper",
+    "harm": {
+      "id": "0066540",
+      "title": "91622877 - Plastic coated copying paper",
+      "conceptLink": "/ec2/concept/6002743"
+    }
+  },
+  {
+    "uri": "en/16/419704",
+    "id": "419704",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic disposable diaper bags",
+    "harm": {
+      "id": "0041427",
+      "title": "419704 - Plastic disposable diaper bags",
+      "conceptLink": "/ec2/concept/5989331"
+    }
+  },
+  {
+    "uri": "en/16/419869",
+    "id": "419869",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic envelopes",
+    "harm": {
+      "id": "0046687",
+      "title": "419869 - Plastic envelopes",
+      "conceptLink": "/ec2/concept/5994103"
+    }
+  },
+  {
+    "uri": "en/16/212034",
+    "id": "212034",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film for packaging",
+    "harm": {
+      "id": "0046415",
+      "title": "212034 - Plastic film for packaging",
+      "conceptLink": "/ec2/concept/5993868"
+    }
+  },
+  {
+    "uri": "en/16/212029",
+    "id": "212029",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film for wrapping",
+    "harm": {
+      "id": "0008495",
+      "title": "212029 - Plastic film for wrapping",
+      "conceptLink": "/ec2/concept/5959228"
+    }
+  },
+  {
+    "uri": "en/16/132762026",
+    "id": "132762026",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film roll stock for packaging",
+    "harm": {
+      "id": "0022164",
+      "title": "132762026 - Plastic film roll stock for packaging",
+      "conceptLink": "/ec2/concept/5971743"
+    }
+  },
+  {
+    "uri": "en/16/137747186",
+    "id": "137747186",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film roll stock for packaging food",
+    "harm": {
+      "id": "0072183",
+      "title": "137747186 - Plastic film roll stock for packaging food",
+      "conceptLink": "/ec2/concept/6008366"
+    }
+  },
+  {
+    "uri": "en/16/137747200",
+    "id": "137747200",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film roll stock for packaging pharmaceuticals",
+    "harm": {
+      "id": "0072184",
+      "title": "137747200 - Plastic film roll stock for packaging pharmaceuticals",
+      "conceptLink": "/ec2/concept/6008367"
+    }
+  },
+  {
+    "uri": "en/16/137747206",
+    "id": "137747206",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic film roll stock for packaging electronic devices",
+    "harm": {
+      "id": "0072182",
+      "title": "137747206 - Plastic film roll stock for packaging electronic devices",
+      "conceptLink": "/ec2/concept/6008365"
+    }
+  },
+  {
+    "uri": "en/16/212030",
+    "id": "212030",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic foil for packaging",
+    "harm": {
+      "id": "0046415",
+      "title": "212030 - Plastic foil for packaging",
+      "conceptLink": "/ec2/concept/5993868"
+    }
+  },
+  {
+    "uri": "en/16/212032",
+    "id": "212032",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic foil for wrapping",
+    "harm": {
+      "id": "0008495",
+      "title": "212032 - Plastic foil for wrapping",
+      "conceptLink": "/ec2/concept/5959228"
+    }
+  },
+  {
+    "uri": "en/16/419805",
+    "id": "419805",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic food storage bags for household use",
+    "harm": {
+      "id": "0028489",
+      "title": "419805 - Plastic food storage bags for household use",
+      "conceptLink": "/ec2/concept/5977537"
+    }
+  },
+  {
+    "uri": "en/16/419821",
+    "id": "419821",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic gift wrap",
+    "harm": {
+      "id": "0011170",
+      "title": "419821 - Plastic gift wrap",
+      "conceptLink": "/ec2/concept/5961680"
+    }
+  },
+  {
+    "uri": "en/16/477774",
+    "id": "477774",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic material for packaging",
+    "harm": {
+      "id": "0009109",
+      "title": "477774 - Plastic material for packaging",
+      "conceptLink": "/ec2/concept/5959794"
+    }
+  },
+  {
+    "uri": "en/16/477775",
+    "id": "477775",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic materials for packaging",
+    "harm": {
+      "id": "0009109",
+      "title": "477775 - Plastic materials for packaging",
+      "conceptLink": "/ec2/concept/5959794"
+    }
+  },
+  {
+    "uri": "en/16/119536538",
+    "id": "119536538",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic oven cooking bags",
+    "harm": {
+      "id": "0066543",
+      "title": "119536538 - Plastic oven cooking bags",
+      "conceptLink": "/ec2/concept/6002746"
+    }
+  },
+  {
+    "uri": "en/16/120862022",
+    "id": "120862022",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic pages with pockets for holding trading cards",
+    "harm": {
+      "id": "0066458",
+      "title": "120862022 - Plastic pages with pockets for holding trading cards",
+      "conceptLink": "/ec2/concept/6002661"
+    }
+  },
+  {
+    "uri": "en/16/120862010",
+    "id": "120862010",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic pages with pockets for holding receipts",
+    "harm": {
+      "id": "0066459",
+      "title": "120862010 - Plastic pages with pockets for holding receipts",
+      "conceptLink": "/ec2/concept/6002662"
+    }
+  },
+  {
+    "uri": "en/16/120908007",
+    "id": "120908007",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic pages with pockets for holding photographs",
+    "harm": {
+      "id": "0066542",
+      "title": "120908007 - Plastic pages with pockets for holding photographs",
+      "conceptLink": "/ec2/concept/6002745"
+    }
+  },
+  {
+    "uri": "en/16/419840",
+    "id": "419840",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic sandwich bags",
+    "harm": {
+      "id": "0034282",
+      "title": "419840 - Plastic sandwich bags",
+      "conceptLink": "/ec2/concept/5982829"
+    }
+  },
+  {
+    "uri": "en/16/28829595",
+    "id": "28829595",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic shopping bags",
+    "harm": {
+      "id": "0066541",
+      "title": "28829595 - Plastic shopping bags",
+      "conceptLink": "/ec2/concept/6002744"
+    }
+  },
+  {
+    "uri": "en/16/419852",
+    "id": "419852",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic transparencies",
+    "harm": {
+      "id": "0045772",
+      "title": "419852 - Plastic transparencies",
+      "conceptLink": "/ec2/concept/5993306"
+    }
+  },
+  {
+    "uri": "en/16/419868",
+    "id": "419868",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastic wrap",
+    "harm": {
+      "id": "0043235",
+      "title": "419868 - Plastic wrap",
+      "conceptLink": "/ec2/concept/5990978"
+    }
+  },
+  {
+    "uri": "en/16/211232",
+    "id": "211232",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plastics for modelling",
+    "harm": {
+      "id": "0010560",
+      "title": "211232 - Plastics for modelling",
+      "conceptLink": "/ec2/concept/5961123"
+    }
+  },
+  {
+    "uri": "en/16/213931",
+    "id": "213931",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plates for addressing machines (Address -)",
+    "harm": {
+      "id": "0031176",
+      "title": "213931 - Plates for addressing machines (Address -)",
+      "conceptLink": "/ec2/concept/5980007"
+    }
+  },
+  {
+    "uri": "en/16/213933",
+    "id": "213933",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plates for addressing machines",
+    "harm": {
+      "id": "0031176",
+      "title": "213933 - Plates for addressing machines",
+      "conceptLink": "/ec2/concept/5980007"
+    }
+  },
+  {
+    "uri": "en/16/343744",
+    "id": "343744",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Plotting papers [graph paper as finished products]",
+    "harm": {
+      "id": "0017466",
+      "title": "343744 - Plotting papers [graph paper as finished products]",
+      "conceptLink": "/ec2/concept/5967444"
+    }
+  },
+  {
+    "uri": "en/16/563164",
+    "id": "563164",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket books [stationery]",
+    "harm": {
+      "id": "0008496",
+      "title": "563164 - Pocket books [stationery]",
+      "conceptLink": "/ec2/concept/5959229"
+    }
+  },
+  {
+    "uri": "en/16/3892600",
+    "id": "3892600",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket calendars",
+    "harm": {
+      "id": "0071060",
+      "title": "3892600 - Pocket calendars",
+      "conceptLink": "/ec2/concept/6007252"
+    }
+  },
+  {
+    "uri": "en/16/10960043",
+    "id": "10960043",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket diaries",
+    "harm": {
+      "id": "0071010",
+      "title": "10960043 - Pocket diaries",
+      "conceptLink": "/ec2/concept/6007202"
+    }
+  },
+  {
+    "uri": "en/16/211319",
+    "id": "211319",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket handkerchiefs of paper",
+    "harm": {
+      "id": "0057352",
+      "title": "211319 - Pocket handkerchiefs of paper",
+      "conceptLink": "/ec2/concept/5998859"
+    }
+  },
+  {
+    "uri": "en/16/343756",
+    "id": "343756",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket memorandum books",
+    "harm": {
+      "id": "0025860",
+      "title": "343756 - Pocket memorandum books",
+      "conceptLink": "/ec2/concept/5975134"
+    }
+  },
+  {
+    "uri": "en/16/563179",
+    "id": "563179",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket notebooks",
+    "harm": {
+      "id": "0025860",
+      "title": "563179 - Pocket notebooks",
+      "conceptLink": "/ec2/concept/5975134"
+    }
+  },
+  {
+    "uri": "en/16/94365942",
+    "id": "94365942",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket pen shields",
+    "harm": {
+      "id": "0066539",
+      "title": "94365942 - Pocket pen shields",
+      "conceptLink": "/ec2/concept/6002742"
+    }
+  },
+  {
+    "uri": "en/16/65019726",
+    "id": "65019726",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pocket secretaries",
+    "harm": {
+      "id": "0073737",
+      "title": "65019726 - Pocket secretaries",
+      "conceptLink": "/ec2/concept/6009907"
+    }
+  },
+  {
+    "uri": "en/16/216533",
+    "id": "216533",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pointers (Chart -), non-electronic",
+    "harm": {
+      "id": "0010712",
+      "title": "216533 - Pointers (Chart -), non-electronic",
+      "conceptLink": "/ec2/concept/5961266"
+    }
+  },
+  {
+    "uri": "en/16/136399748",
+    "id": "136399748",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Polymer modelling clay",
+    "harm": {
+      "id": "0060033",
+      "title": "136399748 - Polymer modelling clay",
+      "conceptLink": "/ec2/concept/5996302"
+    }
+  },
+  {
+    "uri": "en/16/343771",
+    "id": "343771",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Polypropylene foil for packing",
+    "harm": {
+      "id": "0017467",
+      "title": "343771 - Polypropylene foil for packing",
+      "conceptLink": "/ec2/concept/5967445"
+    }
+  },
+  {
+    "uri": "en/16/563192",
+    "id": "563192",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Polythene films for wrapping or packaging",
+    "harm": {
+      "id": "0014357",
+      "title": "563192 - Polythene films for wrapping or packaging",
+      "conceptLink": "/ec2/concept/5964603"
+    }
+  },
+  {
+    "uri": "en/16/419898",
+    "id": "419898",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pop-up books",
+    "harm": {
+      "id": "0005426",
+      "title": "419898 - Pop-up books",
+      "conceptLink": "/ec2/concept/5956426"
+    }
+  },
+  {
+    "uri": "en/16/419919",
+    "id": "419919",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Pop-up greetings cards",
+    "harm": {
+      "id": "0005427",
+      "title": "419919 - Pop-up greetings cards",
+      "conceptLink": "/ec2/concept/5956427"
+    }
+  },
+  {
+    "uri": "en/16/119536557",
+    "id": "119536557",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Porous tip pens",
+    "harm": {
+      "id": "0066538",
+      "title": "119536557 - Porous tip pens",
+      "conceptLink": "/ec2/concept/6002741"
+    }
+  },
+  {
+    "uri": "en/16/210667",
+    "id": "210667",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Portable printing sets",
+    "harm": {
+      "id": "0025861",
+      "title": "210667 - Portable printing sets",
+      "conceptLink": "/ec2/concept/5975135"
+    }
+  },
+  {
+    "uri": "en/16/212432",
+    "id": "212432",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Portraits",
+    "harm": {
+      "id": "0029662",
+      "title": "212432 - Portraits",
+      "conceptLink": "/ec2/concept/5978618"
+    }
+  },
+  {
+    "uri": "en/16/210568",
+    "id": "210568",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Post cards",
+    "harm": {
+      "id": "0030007",
+      "title": "210568 - Post cards",
+      "conceptLink": "/ec2/concept/5978928"
+    }
+  },
+  {
+    "uri": "en/16/203741",
+    "id": "203741",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Postage meters for office use",
+    "harm": {
+      "id": "0030176",
+      "title": "203741 - Postage meters for office use",
+      "conceptLink": "/ec2/concept/5979088"
+    }
+  },
+  {
+    "uri": "en/16/213653",
+    "id": "213653",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Postage stamps",
+    "harm": {
+      "id": "0030006",
+      "title": "213653 - Postage stamps",
+      "conceptLink": "/ec2/concept/5978927"
+    }
+  },
+  {
+    "uri": "en/16/3154481",
+    "id": "3154481",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Postcard paper",
+    "harm": {
+      "id": "0056078",
+      "title": "3154481 - Postcard paper",
+      "conceptLink": "/ec2/concept/5997430"
+    }
+  },
+  {
+    "uri": "en/16/210566",
+    "id": "210566",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Postcards",
+    "harm": {
+      "id": "0030007",
+      "title": "210566 - Postcards",
+      "conceptLink": "/ec2/concept/5978928"
+    }
+  },
+  {
+    "uri": "en/16/885392",
+    "id": "885392",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Postcards and picture postcards",
+    "harm": {
+      "id": "0017235",
+      "title": "885392 - Postcards and picture postcards",
+      "conceptLink": "/ec2/concept/5967237"
+    }
+  }
+]

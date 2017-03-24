@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/130184",
+    "id": "130184",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motorized cultivators",
+    "harm": {
+      "id": "0057492",
+      "title": "130184 - Motorized cultivators",
+      "conceptLink": "/ec2/concept/5998998"
+    }
+  },
+  {
+    "uri": "en/7/127378",
+    "id": "127378",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors and engines (except for land vehicles)",
+    "harm": {
+      "id": "0024818",
+      "title": "127378 - Motors and engines (except for land vehicles)",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/128171",
+    "id": "128171",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors, electric, other than for land vehicles",
+    "harm": {
+      "id": "0020800",
+      "title": "128171 - Motors, electric, other than for land vehicles",
+      "conceptLink": "/ec2/concept/5970497"
+    }
+  },
+  {
+    "uri": "en/7/127375",
+    "id": "127375",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors (except for land vehicles)",
+    "harm": {
+      "id": "0024818",
+      "title": "127375 - Motors (except for land vehicles)",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/687225",
+    "id": "687225",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for aeronautical purposes",
+    "harm": {
+      "id": "0017042",
+      "title": "687225 - Motors for aeronautical purposes",
+      "conceptLink": "/ec2/concept/5967063"
+    }
+  },
+  {
+    "uri": "en/7/119696581",
+    "id": "119696581",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for aeroplanes",
+    "harm": {
+      "id": "0058984",
+      "title": "119696581 - Motors for aeroplanes",
+      "conceptLink": "/ec2/concept/6000475"
+    }
+  },
+  {
+    "uri": "en/7/112108",
+    "id": "112108",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for airplanes",
+    "harm": {
+      "id": "0058984",
+      "title": "112108 - Motors for airplanes",
+      "conceptLink": "/ec2/concept/6000475"
+    }
+  },
+  {
+    "uri": "en/7/126152",
+    "id": "126152",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for boats",
+    "harm": {
+      "id": "0058604",
+      "title": "126152 - Motors for boats",
+      "conceptLink": "/ec2/concept/6000097"
+    }
+  },
+  {
+    "uri": "en/7/677830",
+    "id": "677830",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for machines",
+    "harm": {
+      "id": "0014865",
+      "title": "677830 - Motors for machines",
+      "conceptLink": "/ec2/concept/5965066"
+    }
+  },
+  {
+    "uri": "en/7/120896462",
+    "id": "120896462",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for model aircraft",
+    "harm": {
+      "id": "0065574",
+      "title": "120896462 - Motors for model aircraft",
+      "conceptLink": "/ec2/concept/6001777"
+    }
+  },
+  {
+    "uri": "en/7/120896467",
+    "id": "120896467",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors for model boats",
+    "harm": {
+      "id": "0065573",
+      "title": "120896467 - Motors for model boats",
+      "conceptLink": "/ec2/concept/6001776"
+    }
+  },
+  {
+    "uri": "en/7/127374",
+    "id": "127374",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors (not for land vehicles)",
+    "harm": {
+      "id": "0024818",
+      "title": "127374 - Motors (not for land vehicles)",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/127371",
+    "id": "127371",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors other than for land vehicles",
+    "harm": {
+      "id": "0024818",
+      "title": "127371 - Motors other than for land vehicles",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/127372",
+    "id": "127372",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Motors, other than for land vehicles",
+    "harm": {
+      "id": "0024818",
+      "title": "127372 - Motors, other than for land vehicles",
+      "conceptLink": "/ec2/concept/5974184"
+    }
+  },
+  {
+    "uri": "en/7/687236",
+    "id": "687236",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulding dies [parts of machines]",
+    "harm": {
+      "id": "0045844",
+      "title": "687236 - Moulding dies [parts of machines]",
+      "conceptLink": "/ec2/concept/5993375"
+    }
+  },
+  {
+    "uri": "en/7/117969",
+    "id": "117969",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulding machines",
+    "harm": {
+      "id": "0008921",
+      "title": "117969 - Moulding machines",
+      "conceptLink": "/ec2/concept/5959617"
+    }
+  },
+  {
+    "uri": "en/7/687250",
+    "id": "687250",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulds for die-casting [parts of machines]",
+    "harm": {
+      "id": "0038527",
+      "title": "687250 - Moulds for die-casting [parts of machines]",
+      "conceptLink": "/ec2/concept/5986688"
+    }
+  },
+  {
+    "uri": "en/7/687265",
+    "id": "687265",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulds for forging metal products [parts of machines]",
+    "harm": {
+      "id": "0015455",
+      "title": "687265 - Moulds for forging metal products [parts of machines]",
+      "conceptLink": "/ec2/concept/5965608"
+    }
+  },
+  {
+    "uri": "en/7/687281",
+    "id": "687281",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulds for injection moulding tools",
+    "harm": {
+      "id": "0032725",
+      "title": "687281 - Moulds for injection moulding tools",
+      "conceptLink": "/ec2/concept/5981401"
+    }
+  },
+  {
+    "uri": "en/7/687293",
+    "id": "687293",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulds for moulding plastics products [parts of machines]",
+    "harm": {
+      "id": "0026985",
+      "title": "687293 - Moulds for moulding plastics products [parts of machines]",
+      "conceptLink": "/ec2/concept/5976153"
+    }
+  },
+  {
+    "uri": "en/7/121436",
+    "id": "121436",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moulds [parts of machines]",
+    "harm": {
+      "id": "0032059",
+      "title": "121436 - Moulds [parts of machines]",
+      "conceptLink": "/ec2/concept/5980797"
+    }
+  },
+  {
+    "uri": "en/7/687307",
+    "id": "687307",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mounted bearings [parts of machines]",
+    "harm": {
+      "id": "0032726",
+      "title": "687307 - Mounted bearings [parts of machines]",
+      "conceptLink": "/ec2/concept/5981402"
+    }
+  },
+  {
+    "uri": "en/7/129922432",
+    "id": "129922432",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mounting hangers adapted for exhaust systems for internal combustion engines",
+    "harm": {
+      "id": "0060734",
+      "title": "129922432 - Mounting hangers adapted for exhaust systems for internal combustion engines",
+      "conceptLink": "/ec2/concept/6001054"
+    }
+  },
+  {
+    "uri": "en/7/322848",
+    "id": "322848",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Movable cranes",
+    "harm": {
+      "id": "0058367",
+      "title": "322848 - Movable cranes",
+      "conceptLink": "/ec2/concept/5999866"
+    }
+  },
+  {
+    "uri": "en/7/687323",
+    "id": "687323",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Movable elevator conveyors",
+    "harm": {
+      "id": "0026986",
+      "title": "687323 - Movable elevator conveyors",
+      "conceptLink": "/ec2/concept/5976154"
+    }
+  },
+  {
+    "uri": "en/7/687336",
+    "id": "687336",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Movable vibrating conveyors",
+    "harm": {
+      "id": "0003883",
+      "title": "687336 - Movable vibrating conveyors",
+      "conceptLink": "/ec2/concept/5955006"
+    }
+  },
+  {
+    "uri": "en/7/687349",
+    "id": "687349",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Movable worm conveyors",
+    "harm": {
+      "id": "0026987",
+      "title": "687349 - Movable worm conveyors",
+      "conceptLink": "/ec2/concept/5976155"
+    }
+  },
+  {
+    "uri": "en/7/131117557",
+    "id": "131117557",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving and handling equipment",
+    "harm": {
+      "id": "0047696",
+      "title": "131117557 - Moving and handling equipment",
+      "conceptLink": "/ec2/concept/5994971"
+    }
+  },
+  {
+    "uri": "en/7/112461",
+    "id": "112461",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving belt conveyors",
+    "harm": {
+      "id": "0057309",
+      "title": "112461 - Moving belt conveyors",
+      "conceptLink": "/ec2/concept/5998818"
+    }
+  },
+  {
+    "uri": "en/7/687362",
+    "id": "687362",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving coil servomotors",
+    "harm": {
+      "id": "0038528",
+      "title": "687362 - Moving coil servomotors",
+      "conceptLink": "/ec2/concept/5986689"
+    }
+  },
+  {
+    "uri": "en/7/687374",
+    "id": "687374",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving cranes",
+    "harm": {
+      "id": "0058367",
+      "title": "687374 - Moving cranes",
+      "conceptLink": "/ec2/concept/5999866"
+    }
+  },
+  {
+    "uri": "en/7/130377",
+    "id": "130377",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving pavement [sidewalk]",
+    "harm": {
+      "id": "0023410",
+      "title": "130377 - Moving pavement [sidewalk]",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/130376",
+    "id": "130376",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving pavement[sidewalks]",
+    "harm": {
+      "id": "0023410",
+      "title": "130376 - Moving pavement[sidewalks]",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/130379",
+    "id": "130379",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving pavements [sidewalks]",
+    "harm": {
+      "id": "0023410",
+      "title": "130379 - Moving pavements [sidewalks]",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/130383",
+    "id": "130383",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving pavements [walkways]",
+    "harm": {
+      "id": "0023410",
+      "title": "130383 - Moving pavements [walkways]",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/130382",
+    "id": "130382",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving sidewalks",
+    "harm": {
+      "id": "0023410",
+      "title": "130382 - Moving sidewalks",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/117889",
+    "id": "117889",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving staircases [escalators]",
+    "harm": {
+      "id": "0040542",
+      "title": "117889 - Moving staircases [escalators]",
+      "conceptLink": "/ec2/concept/5988525"
+    }
+  },
+  {
+    "uri": "en/7/117887",
+    "id": "117887",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving stairways [escalators]",
+    "harm": {
+      "id": "0040542",
+      "title": "117887 - Moving stairways [escalators]",
+      "conceptLink": "/ec2/concept/5988525"
+    }
+  },
+  {
+    "uri": "en/7/130381",
+    "id": "130381",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Moving walkways",
+    "harm": {
+      "id": "0023410",
+      "title": "130381 - Moving walkways",
+      "conceptLink": "/ec2/concept/5972883"
+    }
+  },
+  {
+    "uri": "en/7/392043",
+    "id": "392043",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowers [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0026554",
+      "title": "392043 - Mowers [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5975768"
+    }
+  },
+  {
+    "uri": "en/7/113085",
+    "id": "113085",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowing and reaping machines",
+    "harm": {
+      "id": "0058615",
+      "title": "113085 - Mowing and reaping machines",
+      "conceptLink": "/ec2/concept/6000108"
+    }
+  },
+  {
+    "uri": "en/7/687387",
+    "id": "687387",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowing buckets [machines or parts of machines]",
+    "harm": {
+      "id": "0034328",
+      "title": "687387 - Mowing buckets [machines or parts of machines]",
+      "conceptLink": "/ec2/concept/5982871"
+    }
+  },
+  {
+    "uri": "en/7/687403",
+    "id": "687403",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowing machines [electric]",
+    "harm": {
+      "id": "0011213",
+      "title": "687403 - Mowing machines [electric]",
+      "conceptLink": "/ec2/concept/5961718"
+    }
+  },
+  {
+    "uri": "en/7/118233",
+    "id": "118233",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowing machines (Knives for -)",
+    "harm": {
+      "id": "0026425",
+      "title": "118233 - Mowing machines (Knives for -)",
+      "conceptLink": "/ec2/concept/5975651"
+    }
+  },
+  {
+    "uri": "en/7/687420",
+    "id": "687420",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mowing machines [petrol]",
+    "harm": {
+      "id": "0040078",
+      "title": "687420 - Mowing machines [petrol]",
+      "conceptLink": "/ec2/concept/5988103"
+    }
+  },
+  {
+    "uri": "en/7/687435",
+    "id": "687435",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Muck spreaders [machines]",
+    "harm": {
+      "id": "0000954",
+      "title": "687435 - Muck spreaders [machines]",
+      "conceptLink": "/ec2/concept/5952346"
+    }
+  },
+  {
+    "uri": "en/7/113419",
+    "id": "113419",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mud catchers and collectors",
+    "harm": {
+      "id": "0037361",
+      "title": "113419 - Mud catchers and collectors",
+      "conceptLink": "/ec2/concept/5985619"
+    }
+  },
+  {
+    "uri": "en/7/113418",
+    "id": "113418",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mud catchers and collectors [machines]",
+    "harm": {
+      "id": "0037361",
+      "title": "113418 - Mud catchers and collectors [machines]",
+      "conceptLink": "/ec2/concept/5985619"
+    }
+  },
+  {
+    "uri": "en/7/323108",
+    "id": "323108",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mud dredging machines",
+    "harm": {
+      "id": "0025637",
+      "title": "323108 - Mud dredging machines",
+      "conceptLink": "/ec2/concept/5974929"
+    }
+  },
+  {
+    "uri": "en/7/687449",
+    "id": "687449",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mud motors",
+    "harm": {
+      "id": "0022872",
+      "title": "687449 - Mud motors",
+      "conceptLink": "/ec2/concept/5972391"
+    }
+  },
+  {
+    "uri": "en/7/905447",
+    "id": "905447",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mufflers for motors",
+    "harm": {
+      "id": "0072546",
+      "title": "905447 - Mufflers for motors",
+      "conceptLink": "/ec2/concept/6008723"
+    }
+  },
+  {
+    "uri": "en/7/130455",
+    "id": "130455",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mufflers for motors and engines",
+    "harm": {
+      "id": "0072546",
+      "title": "130455 - Mufflers for motors and engines",
+      "conceptLink": "/ec2/concept/6008723"
+    }
+  },
+  {
+    "uri": "en/7/687460",
+    "id": "687460",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mufflers [parts of exhaust systems]",
+    "harm": {
+      "id": "0045803",
+      "title": "687460 - Mufflers [parts of exhaust systems]",
+      "conceptLink": "/ec2/concept/5993335"
+    }
+  },
+  {
+    "uri": "en/7/687475",
+    "id": "687475",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mufflers [parts of machines]",
+    "harm": {
+      "id": "0011214",
+      "title": "687475 - Mufflers [parts of machines]",
+      "conceptLink": "/ec2/concept/5961719"
+    }
+  },
+  {
+    "uri": "en/7/323121",
+    "id": "323121",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Mulberry leaf chopping machines",
+    "harm": {
+      "id": "0008226",
+      "title": "323121 - Mulberry leaf chopping machines",
+      "conceptLink": "/ec2/concept/5958981"
+    }
+  },
+  {
+    "uri": "en/7/323134",
+    "id": "323134",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multi-phase screw pumps",
+    "harm": {
+      "id": "0031377",
+      "title": "323134 - Multi-phase screw pumps",
+      "conceptLink": "/ec2/concept/5980188"
+    }
+  },
+  {
+    "uri": "en/7/390446",
+    "id": "390446",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multi-purpose high pressure washers",
+    "harm": {
+      "id": "0039678",
+      "title": "390446 - Multi-purpose high pressure washers",
+      "conceptLink": "/ec2/concept/5987732"
+    }
+  },
+  {
+    "uri": "en/7/390461",
+    "id": "390461",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multi-purpose steam cleaners",
+    "harm": {
+      "id": "0016614",
+      "title": "390461 - Multi-purpose steam cleaners",
+      "conceptLink": "/ec2/concept/5966679"
+    }
+  },
+  {
+    "uri": "en/7/687591",
+    "id": "687591",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multi-spindle automatic screw machines",
+    "harm": {
+      "id": "0027329",
+      "title": "687591 - Multi-spindle automatic screw machines",
+      "conceptLink": "/ec2/concept/5976459"
+    }
+  },
+  {
+    "uri": "en/7/124915315",
+    "id": "124915315",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple function hand-held screwdrivers (Electric -)",
+    "harm": {
+      "id": "0015803",
+      "title": "124915315 - Multiple function hand-held screwdrivers (Electric -)",
+      "conceptLink": "/ec2/concept/5965932"
+    }
+  },
+  {
+    "uri": "en/7/124915314",
+    "id": "124915314",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple function screwdrivers (Electric -)",
+    "harm": {
+      "id": "0015803",
+      "title": "124915314 - Multiple function screwdrivers (Electric -)",
+      "conceptLink": "/ec2/concept/5965932"
+    }
+  },
+  {
+    "uri": "en/7/687518",
+    "id": "687518",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple nut runner motors",
+    "harm": {
+      "id": "0004250",
+      "title": "687518 - Multiple nut runner motors",
+      "conceptLink": "/ec2/concept/5955338"
+    }
+  },
+  {
+    "uri": "en/7/687531",
+    "id": "687531",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple shell grippers [machines]",
+    "harm": {
+      "id": "0004251",
+      "title": "687531 - Multiple shell grippers [machines]",
+      "conceptLink": "/ec2/concept/5955339"
+    }
+  },
+  {
+    "uri": "en/7/687545",
+    "id": "687545",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple spindle heads for use in boring [machines]",
+    "harm": {
+      "id": "0038875",
+      "title": "687545 - Multiple spindle heads for use in boring [machines]",
+      "conceptLink": "/ec2/concept/5986997"
+    }
+  },
+  {
+    "uri": "en/7/687546",
+    "id": "687546",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple spindle heads for use in drilling [machines]",
+    "harm": {
+      "id": "0038875",
+      "title": "687546 - Multiple spindle heads for use in drilling [machines]",
+      "conceptLink": "/ec2/concept/5986997"
+    }
+  },
+  {
+    "uri": "en/7/687568",
+    "id": "687568",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple spindle heads for use in boring [parts of machines]",
+    "harm": {
+      "id": "0009972",
+      "title": "687568 - Multiple spindle heads for use in boring [parts of machines]",
+      "conceptLink": "/ec2/concept/5960584"
+    }
+  },
+  {
+    "uri": "en/7/687569",
+    "id": "687569",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Multiple spindle heads for use in drilling [parts of machines]",
+    "harm": {
+      "id": "0009972",
+      "title": "687569 - Multiple spindle heads for use in drilling [parts of machines]",
+      "conceptLink": "/ec2/concept/5960584"
+    }
+  },
+  {
+    "uri": "en/7/137728732",
+    "id": "137728732",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nail extractors, electric",
+    "harm": {
+      "id": "0069896",
+      "title": "137728732 - Nail extractors, electric",
+      "conceptLink": "/ec2/concept/6006099"
+    }
+  },
+  {
+    "uri": "en/7/137728733",
+    "id": "137728733",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nail pullers, electric",
+    "harm": {
+      "id": "0069896",
+      "title": "137728733 - Nail pullers, electric",
+      "conceptLink": "/ec2/concept/6006099"
+    }
+  },
+  {
+    "uri": "en/7/323148",
+    "id": "323148",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nailing machines",
+    "harm": {
+      "id": "0042979",
+      "title": "323148 - Nailing machines",
+      "conceptLink": "/ec2/concept/5990743"
+    }
+  },
+  {
+    "uri": "en/7/687604",
+    "id": "687604",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Needle pistols [machines]",
+    "harm": {
+      "id": "0033078",
+      "title": "687604 - Needle pistols [machines]",
+      "conceptLink": "/ec2/concept/5981728"
+    }
+  },
+  {
+    "uri": "en/7/128938",
+    "id": "128938",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Net hauling machines",
+    "harm": {
+      "id": "0018169",
+      "title": "128938 - Net hauling machines",
+      "conceptLink": "/ec2/concept/5968086"
+    }
+  },
+  {
+    "uri": "en/7/128936",
+    "id": "128936",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Net hauling machines [fishing]",
+    "harm": {
+      "id": "0018169",
+      "title": "128936 - Net hauling machines [fishing]",
+      "conceptLink": "/ec2/concept/5968086"
+    }
+  },
+  {
+    "uri": "en/7/112703",
+    "id": "112703",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nibblers [machines]",
+    "harm": {
+      "id": "0046706",
+      "title": "112703 - Nibblers [machines]",
+      "conceptLink": "/ec2/concept/5994118"
+    }
+  },
+  {
+    "uri": "en/7/137176844",
+    "id": "137176844",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nickel plating machines",
+    "harm": {
+      "id": "0060401",
+      "title": "137176844 - Nickel plating machines",
+      "conceptLink": "/ec2/concept/5998375"
+    }
+  },
+  {
+    "uri": "en/7/115912",
+    "id": "115912",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nippers [machines]",
+    "harm": {
+      "id": "0009973",
+      "title": "115912 - Nippers [machines]",
+      "conceptLink": "/ec2/concept/5960585"
+    }
+  },
+  {
+    "uri": "en/7/120896658",
+    "id": "120896658",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-metal engine gaskets for vehicles",
+    "harm": {
+      "id": "0065583",
+      "title": "120896658 - Non-metal engine gaskets for vehicles",
+      "conceptLink": "/ec2/concept/6001786"
+    }
+  },
+  {
+    "uri": "en/7/687619",
+    "id": "687619",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-return flaps of metal [parts of machines]",
+    "harm": {
+      "id": "0033079",
+      "title": "687619 - Non-return flaps of metal [parts of machines]",
+      "conceptLink": "/ec2/concept/5981729"
+    }
+  },
+  {
+    "uri": "en/7/674397",
+    "id": "674397",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-return valves of metal [parts of machines]",
+    "harm": {
+      "id": "0037394",
+      "title": "674397 - Non-return valves of metal [parts of machines]",
+      "conceptLink": "/ec2/concept/5985650"
+    }
+  },
+  {
+    "uri": "en/7/687632",
+    "id": "687632",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-return valves of plastic [parts of machines]",
+    "harm": {
+      "id": "0022656",
+      "title": "687632 - Non-return valves of plastic [parts of machines]",
+      "conceptLink": "/ec2/concept/5972191"
+    }
+  },
+  {
+    "uri": "en/7/687648",
+    "id": "687648",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-woven belts being parts of machines for use in abrading",
+    "harm": {
+      "id": "0045597",
+      "title": "687648 - Non-woven belts being parts of machines for use in abrading",
+      "conceptLink": "/ec2/concept/5993143"
+    }
+  },
+  {
+    "uri": "en/7/687661",
+    "id": "687661",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-woven discs being parts of machines for use in cleaning",
+    "harm": {
+      "id": "0022657",
+      "title": "687661 - Non-woven discs being parts of machines for use in cleaning",
+      "conceptLink": "/ec2/concept/5972192"
+    }
+  },
+  {
+    "uri": "en/7/687674",
+    "id": "687674",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-woven rollers being parts of machines for use in polishing",
+    "harm": {
+      "id": "0028301",
+      "title": "687674 - Non-woven rollers being parts of machines for use in polishing",
+      "conceptLink": "/ec2/concept/5977361"
+    }
+  },
+  {
+    "uri": "en/7/687687",
+    "id": "687687",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Non-woven wheels being parts of machines for use in scouring",
+    "harm": {
+      "id": "0005237",
+      "title": "687687 - Non-woven wheels being parts of machines for use in scouring",
+      "conceptLink": "/ec2/concept/5956248"
+    }
+  },
+  {
+    "uri": "en/7/119629727",
+    "id": "119629727",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Noodle making machines",
+    "harm": {
+      "id": "0055680",
+      "title": "119629727 - Noodle making machines",
+      "conceptLink": "/ec2/concept/5997071"
+    }
+  },
+  {
+    "uri": "en/7/118924",
+    "id": "118924",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Notchers [machine tools]",
+    "harm": {
+      "id": "0028370",
+      "title": "118924 - Notchers [machine tools]",
+      "conceptLink": "/ec2/concept/5977428"
+    }
+  },
+  {
+    "uri": "en/7/687700",
+    "id": "687700",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Notching machines",
+    "harm": {
+      "id": "0039830",
+      "title": "687700 - Notching machines",
+      "conceptLink": "/ec2/concept/5987871"
+    }
+  },
+  {
+    "uri": "en/7/390182",
+    "id": "390182",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Nozzles which are parts of power-operated sprayers",
+    "harm": {
+      "id": "0016696",
+      "title": "390182 - Nozzles which are parts of power-operated sprayers",
+      "conceptLink": "/ec2/concept/5966757"
+    }
+  },
+  {
+    "uri": "en/7/687725",
+    "id": "687725",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled drilling machines with co-ordinate tables",
+    "harm": {
+      "id": "0010992",
+      "title": "687725 - Numerically controlled drilling machines with co-ordinate tables",
+      "conceptLink": "/ec2/concept/5961517"
+    }
+  },
+  {
+    "uri": "en/7/687712",
+    "id": "687712",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled drilling machines",
+    "harm": {
+      "id": "0039831",
+      "title": "687712 - Numerically controlled drilling machines",
+      "conceptLink": "/ec2/concept/5987872"
+    }
+  },
+  {
+    "uri": "en/7/687771",
+    "id": "687771",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled machining stations for boring",
+    "harm": {
+      "id": "0008089",
+      "title": "687771 - Numerically controlled machining stations for boring",
+      "conceptLink": "/ec2/concept/5958861"
+    }
+  },
+  {
+    "uri": "en/7/687772",
+    "id": "687772",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled machining stations for drilling",
+    "harm": {
+      "id": "0008089",
+      "title": "687772 - Numerically controlled machining stations for drilling",
+      "conceptLink": "/ec2/concept/5958861"
+    }
+  },
+  {
+    "uri": "en/7/687791",
+    "id": "687791",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled machining stations for boring with palletising system",
+    "harm": {
+      "id": "0005238",
+      "title": "687791 - Numerically controlled machining stations for boring with palletising system",
+      "conceptLink": "/ec2/concept/5956249"
+    }
+  },
+  {
+    "uri": "en/7/687804",
+    "id": "687804",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled machining stations having an automatic tool changer",
+    "harm": {
+      "id": "0034083",
+      "title": "687804 - Numerically controlled machining stations having an automatic tool changer",
+      "conceptLink": "/ec2/concept/5982649"
+    }
+  },
+  {
+    "uri": "en/7/687737",
+    "id": "687737",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled machine tools",
+    "harm": {
+      "id": "0010993",
+      "title": "687737 - Numerically controlled machine tools",
+      "conceptLink": "/ec2/concept/5961518"
+    }
+  },
+  {
+    "uri": "en/7/687830",
+    "id": "687830",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled modelling machines for home use",
+    "harm": {
+      "id": "0034084",
+      "title": "687830 - Numerically controlled modelling machines for home use",
+      "conceptLink": "/ec2/concept/5982650"
+    }
+  },
+  {
+    "uri": "en/7/687816",
+    "id": "687816",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled modelling machines for business use",
+    "harm": {
+      "id": "0016782",
+      "title": "687816 - Numerically controlled modelling machines for business use",
+      "conceptLink": "/ec2/concept/5966832"
+    }
+  },
+  {
+    "uri": "en/7/687856",
+    "id": "687856",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled tapping machines with co-ordinate tables",
+    "harm": {
+      "id": "0021097",
+      "title": "687856 - Numerically controlled tapping machines with co-ordinate tables",
+      "conceptLink": "/ec2/concept/5970768"
+    }
+  },
+  {
+    "uri": "en/7/687843",
+    "id": "687843",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled tapping machines",
+    "harm": {
+      "id": "0038331",
+      "title": "687843 - Numerically controlled tapping machines",
+      "conceptLink": "/ec2/concept/5986507"
+    }
+  },
+  {
+    "uri": "en/7/687869",
+    "id": "687869",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Numerically controlled turning machines",
+    "harm": {
+      "id": "0026739",
+      "title": "687869 - Numerically controlled turning machines",
+      "conceptLink": "/ec2/concept/5975933"
+    }
+  }
+]

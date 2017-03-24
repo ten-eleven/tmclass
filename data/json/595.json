@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/35/790496",
+    "id": "790496",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services by means of balloon displays",
+    "harm": {
+      "id": "0038864",
+      "title": "790496 - Advertising services by means of balloon displays",
+      "conceptLink": "/ec2/concept/5986988"
+    }
+  },
+  {
+    "uri": "en/35/790560",
+    "id": "790560",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services for the promotion of beverages",
+    "harm": {
+      "id": "0015784",
+      "title": "790560 - Advertising services for the promotion of beverages",
+      "conceptLink": "/ec2/concept/5965914"
+    }
+  },
+  {
+    "uri": "en/35/363126",
+    "id": "363126",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services for promoting the brokerage of stocks and other securities",
+    "harm": {
+      "id": "0013201",
+      "title": "363126 - Advertising services for promoting the brokerage of stocks and other securities",
+      "conceptLink": "/ec2/concept/5963541"
+    }
+  },
+  {
+    "uri": "en/35/790547",
+    "id": "790547",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services for the literary industry",
+    "harm": {
+      "id": "0038865",
+      "title": "790547 - Advertising services for the literary industry",
+      "conceptLink": "/ec2/concept/5986989"
+    }
+  },
+  {
+    "uri": "en/35/479026",
+    "id": "479026",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services for the promotion of e-commerce",
+    "harm": {
+      "id": "0017914",
+      "title": "479026 - Advertising services for the promotion of e-commerce",
+      "conceptLink": "/ec2/concept/5967852"
+    }
+  },
+  {
+    "uri": "en/35/790535",
+    "id": "790535",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services for architects",
+    "harm": {
+      "id": "0009959",
+      "title": "790535 - Advertising services for architects",
+      "conceptLink": "/ec2/concept/5960571"
+    }
+  },
+  {
+    "uri": "en/35/503915",
+    "id": "503915",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services of a radio and television advertising agency",
+    "harm": {
+      "id": "0020672",
+      "title": "503915 - Advertising services of a radio and television advertising agency",
+      "conceptLink": "/ec2/concept/5970374"
+    }
+  },
+  {
+    "uri": "en/35/790572",
+    "id": "790572",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided for florists",
+    "harm": {
+      "id": "0004235",
+      "title": "790572 - Advertising services provided for florists",
+      "conceptLink": "/ec2/concept/5955323"
+    }
+  },
+  {
+    "uri": "en/35/790586",
+    "id": "790586",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided via a data base",
+    "harm": {
+      "id": "0015785",
+      "title": "790586 - Advertising services provided via a data base",
+      "conceptLink": "/ec2/concept/5965915"
+    }
+  },
+  {
+    "uri": "en/35/28216",
+    "id": "28216",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided by television",
+    "harm": {
+      "id": "0034780",
+      "title": "28216 - Advertising services provided by television",
+      "conceptLink": "/ec2/concept/5983277"
+    }
+  },
+  {
+    "uri": "en/35/137801041",
+    "id": "137801041",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided by a radio and television advertising agency",
+    "harm": {
+      "id": "0073309",
+      "title": "137801041 - Advertising services provided by a radio and television advertising agency",
+      "conceptLink": "/ec2/concept/6009482"
+    }
+  },
+  {
+    "uri": "en/35/479043",
+    "id": "479043",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided over the internet",
+    "harm": {
+      "id": "0041028",
+      "title": "479043 - Advertising services provided over the internet",
+      "conceptLink": "/ec2/concept/5988968"
+    }
+  },
+  {
+    "uri": "en/35/479044",
+    "id": "479044",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services provided via the internet",
+    "harm": {
+      "id": "0041028",
+      "title": "479044 - Advertising services provided via the internet",
+      "conceptLink": "/ec2/concept/5988968"
+    }
+  },
+  {
+    "uri": "en/35/790600",
+    "id": "790600",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to books",
+    "harm": {
+      "id": "0004236",
+      "title": "790600 - Advertising services relating to books",
+      "conceptLink": "/ec2/concept/5955324"
+    }
+  },
+  {
+    "uri": "en/35/790819",
+    "id": "790819",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the transport industries",
+    "harm": {
+      "id": "0012440",
+      "title": "790819 - Advertising services relating to the transport industries",
+      "conceptLink": "/ec2/concept/5962848"
+    }
+  },
+  {
+    "uri": "en/35/790750",
+    "id": "790750",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the motor vehicle industry",
+    "harm": {
+      "id": "0028319",
+      "title": "790750 - Advertising services relating to the motor vehicle industry",
+      "conceptLink": "/ec2/concept/5977378"
+    }
+  },
+  {
+    "uri": "en/35/790711",
+    "id": "790711",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to public works",
+    "harm": {
+      "id": "0028318",
+      "title": "790711 - Advertising services relating to public works",
+      "conceptLink": "/ec2/concept/5977377"
+    }
+  },
+  {
+    "uri": "en/35/790683",
+    "id": "790683",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to newspapers",
+    "harm": {
+      "id": "0028317",
+      "title": "790683 - Advertising services relating to newspapers",
+      "conceptLink": "/ec2/concept/5977376"
+    }
+  },
+  {
+    "uri": "en/35/790641",
+    "id": "790641",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to financial services",
+    "harm": {
+      "id": "0028316",
+      "title": "790641 - Advertising services relating to financial services",
+      "conceptLink": "/ec2/concept/5977375"
+    }
+  },
+  {
+    "uri": "en/35/790790",
+    "id": "790790",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the sale of motor vehicles",
+    "harm": {
+      "id": "0005265",
+      "title": "790790 - Advertising services relating to the sale of motor vehicles",
+      "conceptLink": "/ec2/concept/5956273"
+    }
+  },
+  {
+    "uri": "en/35/790776",
+    "id": "790776",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the recruitment of personnel",
+    "harm": {
+      "id": "0005264",
+      "title": "790776 - Advertising services relating to the recruitment of personnel",
+      "conceptLink": "/ec2/concept/5956272"
+    }
+  },
+  {
+    "uri": "en/35/790669",
+    "id": "790669",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to motor cars",
+    "harm": {
+      "id": "0005265",
+      "title": "790669 - Advertising services relating to motor cars",
+      "conceptLink": "/ec2/concept/5956273"
+    }
+  },
+  {
+    "uri": "en/35/790698",
+    "id": "790698",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to pharmaceuticals for the treatment of diabetes",
+    "harm": {
+      "id": "0016802",
+      "title": "790698 - Advertising services relating to pharmaceuticals for the treatment of diabetes",
+      "conceptLink": "/ec2/concept/5966847"
+    }
+  },
+  {
+    "uri": "en/35/790831",
+    "id": "790831",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the travel industries",
+    "harm": {
+      "id": "0024056",
+      "title": "790831 - Advertising services relating to the travel industries",
+      "conceptLink": "/ec2/concept/5973479"
+    }
+  },
+  {
+    "uri": "en/35/790804",
+    "id": "790804",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the sale of personal property",
+    "harm": {
+      "id": "0024055",
+      "title": "790804 - Advertising services relating to the sale of personal property",
+      "conceptLink": "/ec2/concept/5973478"
+    }
+  },
+  {
+    "uri": "en/35/790614",
+    "id": "790614",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to data bases",
+    "harm": {
+      "id": "0009960",
+      "title": "790614 - Advertising services relating to data bases",
+      "conceptLink": "/ec2/concept/5960572"
+    }
+  },
+  {
+    "uri": "en/35/790764",
+    "id": "790764",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the provision of business",
+    "harm": {
+      "id": "0011008",
+      "title": "790764 - Advertising services relating to the provision of business",
+      "conceptLink": "/ec2/concept/5961533"
+    }
+  },
+  {
+    "uri": "en/35/790723",
+    "id": "790723",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to real property",
+    "harm": {
+      "id": "0011007",
+      "title": "790723 - Advertising services relating to real property",
+      "conceptLink": "/ec2/concept/5961532"
+    }
+  },
+  {
+    "uri": "en/35/790627",
+    "id": "790627",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to financial investment",
+    "harm": {
+      "id": "0011006",
+      "title": "790627 - Advertising services relating to financial investment",
+      "conceptLink": "/ec2/concept/5961531"
+    }
+  },
+  {
+    "uri": "en/35/137796222",
+    "id": "137796222",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the commercialization of new products",
+    "harm": {
+      "id": "0051217",
+      "title": "137796222 - Advertising services relating to the commercialization of new products",
+      "conceptLink": "/ec2/concept/6010203"
+    }
+  },
+  {
+    "uri": "en/35/137796350",
+    "id": "137796350",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to in vivo imaging apparatus",
+    "harm": {
+      "id": "0051213",
+      "title": "137796350 - Advertising services relating to in vivo imaging apparatus",
+      "conceptLink": "/ec2/concept/6010199"
+    }
+  },
+  {
+    "uri": "en/35/137796243",
+    "id": "137796243",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the sale of goods",
+    "harm": {
+      "id": "0051216",
+      "title": "137796243 - Advertising services relating to the sale of goods",
+      "conceptLink": "/ec2/concept/6010202"
+    }
+  },
+  {
+    "uri": "en/35/137796441",
+    "id": "137796441",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to pharmaceutical products",
+    "harm": {
+      "id": "0051215",
+      "title": "137796441 - Advertising services relating to pharmaceutical products",
+      "conceptLink": "/ec2/concept/6010201"
+    }
+  },
+  {
+    "uri": "en/35/137739009",
+    "id": "137739009",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to jewelry",
+    "harm": {
+      "id": "0051418",
+      "title": "137739009 - Advertising services relating to jewelry",
+      "conceptLink": "/ec2/concept/6010404"
+    }
+  },
+  {
+    "uri": "en/35/137739039",
+    "id": "137739039",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to cosmetics",
+    "harm": {
+      "id": "0051419",
+      "title": "137739039 - Advertising services relating to cosmetics",
+      "conceptLink": "/ec2/concept/6010405"
+    }
+  },
+  {
+    "uri": "en/35/137739032",
+    "id": "137739032",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to perfumery",
+    "harm": {
+      "id": "0051420",
+      "title": "137739032 - Advertising services relating to perfumery",
+      "conceptLink": "/ec2/concept/6010406"
+    }
+  },
+  {
+    "uri": "en/35/137796362",
+    "id": "137796362",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to in vivo imaging products",
+    "harm": {
+      "id": "0051214",
+      "title": "137796362 - Advertising services relating to in vivo imaging products",
+      "conceptLink": "/ec2/concept/6010200"
+    }
+  },
+  {
+    "uri": "en/35/790738",
+    "id": "790738",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to the marine and maritime industry",
+    "harm": {
+      "id": "0039848",
+      "title": "790738 - Advertising services relating to the marine and maritime industry",
+      "conceptLink": "/ec2/concept/5987889"
+    }
+  },
+  {
+    "uri": "en/35/790655",
+    "id": "790655",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to hotels",
+    "harm": {
+      "id": "0039847",
+      "title": "790655 - Advertising services relating to hotels",
+      "conceptLink": "/ec2/concept/5987888"
+    }
+  },
+  {
+    "uri": "en/35/137932327",
+    "id": "137932327",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services relating to clothing",
+    "harm": {
+      "id": "0070689",
+      "title": "137932327 - Advertising services relating to clothing",
+      "conceptLink": "/ec2/concept/6006881"
+    }
+  },
+  {
+    "uri": "en/35/137734205",
+    "id": "137734205",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to create corporate and brand identity",
+    "harm": {
+      "id": "0051292",
+      "title": "137734205 - Advertising services to create corporate and brand identity",
+      "conceptLink": "/ec2/concept/6010278"
+    }
+  },
+  {
+    "uri": "en/35/137884112",
+    "id": "137884112",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to promote public awareness of nephrotic syndrome and focal segmental glomerulosclerosis [FSGS]",
+    "harm": {
+      "id": "0070690",
+      "title": "137884112 - Advertising services to promote public awareness of nephrotic syndrome and focal segmental glomerulosclerosis [FSGS]",
+      "conceptLink": "/ec2/concept/6006882"
+    }
+  },
+  {
+    "uri": "en/35/137884116",
+    "id": "137884116",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to promote public awareness of the benefits of shopping locally",
+    "harm": {
+      "id": "0070698",
+      "title": "137884116 - Advertising services to promote public awareness of the benefits of shopping locally",
+      "conceptLink": "/ec2/concept/6006890"
+    }
+  },
+  {
+    "uri": "en/35/137729516",
+    "id": "137729516",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to promote public awareness of medical conditions",
+    "harm": {
+      "id": "0051336",
+      "title": "137729516 - Advertising services to promote public awareness of medical conditions",
+      "conceptLink": "/ec2/concept/6010322"
+    }
+  },
+  {
+    "uri": "en/35/137884755",
+    "id": "137884755",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to promote public awareness of environmental issues and initiatives",
+    "harm": {
+      "id": "0051557",
+      "title": "137884755 - Advertising services to promote public awareness of environmental issues and initiatives",
+      "conceptLink": "/ec2/concept/6010543"
+    }
+  },
+  {
+    "uri": "en/35/790846",
+    "id": "790846",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising services to promote the sale of beverages",
+    "harm": {
+      "id": "0041350",
+      "title": "790846 - Advertising services to promote the sale of beverages",
+      "conceptLink": "/ec2/concept/5989268"
+    }
+  },
+  {
+    "uri": "en/35/124719545",
+    "id": "124719545",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising space (Rental of -) on the internet",
+    "harm": {
+      "id": "0024057",
+      "title": "124719545 - Advertising space (Rental of -) on the internet",
+      "conceptLink": "/ec2/concept/5973480"
+    }
+  },
+  {
+    "uri": "en/35/29422",
+    "id": "29422",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising space (Rental of -)",
+    "harm": {
+      "id": "0043033",
+      "title": "29422 - Advertising space (Rental of -)",
+      "conceptLink": "/ec2/concept/5990792"
+    }
+  },
+  {
+    "uri": "en/35/27948",
+    "id": "27948",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising text publication services",
+    "harm": {
+      "id": "0012224",
+      "title": "27948 - Advertising text publication services",
+      "conceptLink": "/ec2/concept/5962648"
+    }
+  },
+  {
+    "uri": "en/35/137898472",
+    "id": "137898472",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising the goods and services of online vendors via a searchable online guide",
+    "harm": {
+      "id": "0051450",
+      "title": "137898472 - Advertising the goods and services of online vendors via a searchable online guide",
+      "conceptLink": "/ec2/concept/6010436"
+    }
+  },
+  {
+    "uri": "en/35/363140",
+    "id": "363140",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising through all public communication means",
+    "harm": {
+      "id": "0001615",
+      "title": "363140 - Advertising through all public communication means",
+      "conceptLink": "/ec2/concept/5952942"
+    }
+  },
+  {
+    "uri": "en/35/363154",
+    "id": "363154",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advertising via electronic media and specifically the internet",
+    "harm": {
+      "id": "0005249",
+      "title": "363154 - Advertising via electronic media and specifically the internet",
+      "conceptLink": "/ec2/concept/5956258"
+    }
+  },
+  {
+    "uri": "en/35/890525",
+    "id": "890525",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice and information concerning commercial business management",
+    "harm": {
+      "id": "0020273",
+      "title": "890525 - Advice and information concerning commercial business management",
+      "conceptLink": "/ec2/concept/5970010"
+    }
+  },
+  {
+    "uri": "en/35/363183",
+    "id": "363183",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice concerning chemical product marketing",
+    "harm": {
+      "id": "0039837",
+      "title": "363183 - Advice concerning chemical product marketing",
+      "conceptLink": "/ec2/concept/5987878"
+    }
+  },
+  {
+    "uri": "en/35/495144",
+    "id": "495144",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice for consumers (Commercial information and -) [consumer advice shop]",
+    "harm": {
+      "id": "0019074",
+      "title": "495144 - Advice for consumers (Commercial information and -) [consumer advice shop]",
+      "conceptLink": "/ec2/concept/5968926"
+    }
+  },
+  {
+    "uri": "en/35/363196",
+    "id": "363196",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice in the field of business management and marketing",
+    "harm": {
+      "id": "0022662",
+      "title": "363196 - Advice in the field of business management and marketing",
+      "conceptLink": "/ec2/concept/5972197"
+    }
+  },
+  {
+    "uri": "en/35/890541",
+    "id": "890541",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice in the running of establishments as franchises",
+    "harm": {
+      "id": "0043306",
+      "title": "890541 - Advice in the running of establishments as franchises",
+      "conceptLink": "/ec2/concept/5991042"
+    }
+  },
+  {
+    "uri": "en/35/20073172",
+    "id": "20073172",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice on tax preparation",
+    "harm": {
+      "id": "0067743",
+      "title": "20073172 - Advice on tax preparation",
+      "conceptLink": "/ec2/concept/6003946"
+    }
+  },
+  {
+    "uri": "en/35/2226359",
+    "id": "2226359",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice on the analysis of consumer buying habits and needs provided with the help of sensory, quality and quantity-related data",
+    "harm": {
+      "id": "0056619",
+      "title": "2226359 - Advice on the analysis of consumer buying habits and needs provided with the help of sensory, quality and quantity-related data",
+      "conceptLink": "/ec2/concept/5997918"
+    }
+  },
+  {
+    "uri": "en/35/790859",
+    "id": "790859",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to barter trade",
+    "harm": {
+      "id": "0000862",
+      "title": "790859 - Advice relating to barter trade",
+      "conceptLink": "/ec2/concept/5952264"
+    }
+  },
+  {
+    "uri": "en/35/363851",
+    "id": "363851",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to business organisation",
+    "harm": {
+      "id": "0058956",
+      "title": "363851 - Advice relating to business organisation",
+      "conceptLink": "/ec2/concept/6000447"
+    }
+  },
+  {
+    "uri": "en/35/790888",
+    "id": "790888",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to business management",
+    "harm": {
+      "id": "0057031",
+      "title": "790888 - Advice relating to business management",
+      "conceptLink": "/ec2/concept/5998659"
+    }
+  },
+  {
+    "uri": "en/35/120863911",
+    "id": "120863911",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to business organization",
+    "harm": {
+      "id": "0058956",
+      "title": "120863911 - Advice relating to business organization",
+      "conceptLink": "/ec2/concept/6000447"
+    }
+  },
+  {
+    "uri": "en/35/790913",
+    "id": "790913",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to marketing management",
+    "harm": {
+      "id": "0000865",
+      "title": "790913 - Advice relating to marketing management",
+      "conceptLink": "/ec2/concept/5952266"
+    }
+  },
+  {
+    "uri": "en/35/790936",
+    "id": "790936",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to personnel management",
+    "harm": {
+      "id": "0059109",
+      "title": "790936 - Advice relating to personnel management",
+      "conceptLink": "/ec2/concept/6000600"
+    }
+  },
+  {
+    "uri": "en/35/363480",
+    "id": "363480",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the acquisition of businesses",
+    "harm": {
+      "id": "0006540",
+      "title": "363480 - Advice relating to the acquisition of businesses",
+      "conceptLink": "/ec2/concept/5957444"
+    }
+  },
+  {
+    "uri": "en/35/790955",
+    "id": "790955",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the business operation of fitness clubs",
+    "harm": {
+      "id": "0035578",
+      "title": "790955 - Advice relating to the business operation of fitness clubs",
+      "conceptLink": "/ec2/concept/5984001"
+    }
+  },
+  {
+    "uri": "en/35/790954",
+    "id": "790954",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the business management of fitness clubs",
+    "harm": {
+      "id": "0035578",
+      "title": "790954 - Advice relating to the business management of fitness clubs",
+      "conceptLink": "/ec2/concept/5984001"
+    }
+  },
+  {
+    "uri": "en/35/790975",
+    "id": "790975",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the business management of health clubs",
+    "harm": {
+      "id": "0018241",
+      "title": "790975 - Advice relating to the business management of health clubs",
+      "conceptLink": "/ec2/concept/5968156"
+    }
+  },
+  {
+    "uri": "en/35/790988",
+    "id": "790988",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the business operation of health clubs",
+    "harm": {
+      "id": "0037649",
+      "title": "790988 - Advice relating to the business operation of health clubs",
+      "conceptLink": "/ec2/concept/5985877"
+    }
+  },
+  {
+    "uri": "en/35/26158",
+    "id": "26158",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the organisation and management of business",
+    "harm": {
+      "id": "0016788",
+      "title": "26158 - Advice relating to the organisation and management of business",
+      "conceptLink": "/ec2/concept/5966836"
+    }
+  },
+  {
+    "uri": "en/35/791000",
+    "id": "791000",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advice relating to the sale of businesses",
+    "harm": {
+      "id": "0020388",
+      "title": "791000 - Advice relating to the sale of businesses",
+      "conceptLink": "/ec2/concept/5970117"
+    }
+  },
+  {
+    "uri": "en/35/791014",
+    "id": "791014",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advising commercial enterprises in the conduct of their business",
+    "harm": {
+      "id": "0014552",
+      "title": "791014 - Advising commercial enterprises in the conduct of their business",
+      "conceptLink": "/ec2/concept/5964783"
+    }
+  },
+  {
+    "uri": "en/35/791028",
+    "id": "791028",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advising industrial enterprises in the conduct of their business",
+    "harm": {
+      "id": "0020389",
+      "title": "791028 - Advising industrial enterprises in the conduct of their business",
+      "conceptLink": "/ec2/concept/5970118"
+    }
+  },
+  {
+    "uri": "en/35/137799450",
+    "id": "137799450",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory and consultancy services relating to the procurement of goods for others",
+    "harm": {
+      "id": "0051666",
+      "title": "137799450 - Advisory and consultancy services relating to the procurement of goods for others",
+      "conceptLink": "/ec2/concept/6010652"
+    }
+  },
+  {
+    "uri": "en/35/137796074",
+    "id": "137796074",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory and consultancy services relating to import-export agencies",
+    "harm": {
+      "id": "0051222",
+      "title": "137796074 - Advisory and consultancy services relating to import-export agencies",
+      "conceptLink": "/ec2/concept/6010208"
+    }
+  },
+  {
+    "uri": "en/35/125016021",
+    "id": "125016021",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services (Business -) relating to the management of public sector businesses",
+    "harm": {
+      "id": "0020390",
+      "title": "125016021 - Advisory services (Business -) relating to the management of public sector businesses",
+      "conceptLink": "/ec2/concept/5970119"
+    }
+  },
+  {
+    "uri": "en/35/125016035",
+    "id": "125016035",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services (Business -) relating to the operation of franchises",
+    "harm": {
+      "id": "0020391",
+      "title": "125016035 - Advisory services (Business -) relating to the operation of franchises",
+      "conceptLink": "/ec2/concept/5970120"
+    }
+  },
+  {
+    "uri": "en/35/125015993",
+    "id": "125015993",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services (Business -) relating to the establishment of franchises",
+    "harm": {
+      "id": "0037650",
+      "title": "125015993 - Advisory services (Business -) relating to the establishment of franchises",
+      "conceptLink": "/ec2/concept/5985878"
+    }
+  },
+  {
+    "uri": "en/35/125016007",
+    "id": "125016007",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services (Business -) relating to the management of businesses",
+    "harm": {
+      "id": "0031851",
+      "title": "125016007 - Advisory services (Business -) relating to the management of businesses",
+      "conceptLink": "/ec2/concept/5980608"
+    }
+  },
+  {
+    "uri": "en/35/125117907",
+    "id": "125117907",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services (Business -) relating to the exploitation of inventions",
+    "harm": {
+      "id": "0042157",
+      "title": "125117907 - Advisory services (Business -) relating to the exploitation of inventions",
+      "conceptLink": "/ec2/concept/5990001"
+    }
+  },
+  {
+    "uri": "en/35/26509",
+    "id": "26509",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services for business management",
+    "harm": {
+      "id": "0057031",
+      "title": "26509 - Advisory services for business management",
+      "conceptLink": "/ec2/concept/5998659"
+    }
+  },
+  {
+    "uri": "en/35/900274",
+    "id": "900274",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services for preparing and carrying out commercial transactions",
+    "harm": {
+      "id": "0018098",
+      "title": "900274 - Advisory services for preparing and carrying out commercial transactions",
+      "conceptLink": "/ec2/concept/5968021"
+    }
+  },
+  {
+    "uri": "en/35/791357",
+    "id": "791357",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to the ordering of stationery",
+    "harm": {
+      "id": "0007312",
+      "title": "791357 - Advisory services relating to the ordering of stationery",
+      "conceptLink": "/ec2/concept/5958152"
+    }
+  },
+  {
+    "uri": "en/35/791180",
+    "id": "791180",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to commercial planning",
+    "harm": {
+      "id": "0020392",
+      "title": "791180 - Advisory services relating to commercial planning",
+      "conceptLink": "/ec2/concept/5970121"
+    }
+  },
+  {
+    "uri": "en/35/791166",
+    "id": "791166",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to business risk management",
+    "harm": {
+      "id": "0020393",
+      "title": "791166 - Advisory services relating to business risk management",
+      "conceptLink": "/ec2/concept/5970122"
+    }
+  },
+  {
+    "uri": "en/35/791152",
+    "id": "791152",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to business planning",
+    "harm": {
+      "id": "0020392",
+      "title": "791152 - Advisory services relating to business planning",
+      "conceptLink": "/ec2/concept/5970121"
+    }
+  },
+  {
+    "uri": "en/35/791192",
+    "id": "791192",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to corporate identity",
+    "harm": {
+      "id": "0014553",
+      "title": "791192 - Advisory services relating to corporate identity",
+      "conceptLink": "/ec2/concept/5964784"
+    }
+  },
+  {
+    "uri": "en/35/363481",
+    "id": "363481",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to business acquisitions",
+    "harm": {
+      "id": "0006540",
+      "title": "363481 - Advisory services relating to business acquisitions",
+      "conceptLink": "/ec2/concept/5957444"
+    }
+  },
+  {
+    "uri": "en/35/791370",
+    "id": "791370",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to the purchase of goods on behalf of business",
+    "harm": {
+      "id": "0013130",
+      "title": "791370 - Advisory services relating to the purchase of goods on behalf of business",
+      "conceptLink": "/ec2/concept/5963474"
+    }
+  },
+  {
+    "uri": "en/35/791234",
+    "id": "791234",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to market research",
+    "harm": {
+      "id": "0013127",
+      "title": "791234 - Advisory services relating to market research",
+      "conceptLink": "/ec2/concept/5963472"
+    }
+  },
+  {
+    "uri": "en/35/791247",
+    "id": "791247",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to personnel placement",
+    "harm": {
+      "id": "0013128",
+      "title": "791247 - Advisory services relating to personnel placement",
+      "conceptLink": "/ec2/concept/5963473"
+    }
+  },
+  {
+    "uri": "en/35/364387",
+    "id": "364387",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to personnel recruitment",
+    "harm": {
+      "id": "0012463",
+      "title": "364387 - Advisory services relating to personnel recruitment",
+      "conceptLink": "/ec2/concept/5962869"
+    }
+  },
+  {
+    "uri": "en/35/791288",
+    "id": "791288",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to publicity for franchisees",
+    "harm": {
+      "id": "0036253",
+      "title": "791288 - Advisory services relating to publicity for franchisees",
+      "conceptLink": "/ec2/concept/5984610"
+    }
+  },
+  {
+    "uri": "en/35/791274",
+    "id": "791274",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to public relations",
+    "harm": {
+      "id": "0035612",
+      "title": "791274 - Advisory services relating to public relations",
+      "conceptLink": "/ec2/concept/5984033"
+    }
+  },
+  {
+    "uri": "en/35/791138",
+    "id": "791138",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to business organisation",
+    "harm": {
+      "id": "0058956",
+      "title": "791138 - Advisory services relating to business organisation",
+      "conceptLink": "/ec2/concept/6000447"
+    }
+  },
+  {
+    "uri": "en/35/363210",
+    "id": "363210",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to business management and business operations",
+    "harm": {
+      "id": "0034093",
+      "title": "363210 - Advisory services relating to business management and business operations",
+      "conceptLink": "/ec2/concept/5982659"
+    }
+  },
+  {
+    "uri": "en/35/791206",
+    "id": "791206",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to data processing",
+    "harm": {
+      "id": "0018965",
+      "title": "791206 - Advisory services relating to data processing",
+      "conceptLink": "/ec2/concept/5968828"
+    }
+  },
+  {
+    "uri": "en/35/791382",
+    "id": "791382",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to the purchase of goods on behalf of others",
+    "harm": {
+      "id": "0030465",
+      "title": "791382 - Advisory services relating to the purchase of goods on behalf of others",
+      "conceptLink": "/ec2/concept/5979355"
+    }
+  },
+  {
+    "uri": "en/35/791305",
+    "id": "791305",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Advisory services relating to sales promotion",
+    "harm": {
+      "id": "0030463",
+      "title": "791305 - Advisory services relating to sales promotion",
+      "conceptLink": "/ec2/concept/5979353"
+    }
+  }
+]

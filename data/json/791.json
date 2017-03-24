@@ -1,0 +1,374 @@
+[
+  {
+    "uri": "en/45/506574",
+    "id": "506574",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security services for the protection of property and individuals",
+    "harm": {
+      "id": "0020048",
+      "title": "506574 - Security services for the protection of property and individuals",
+      "conceptLink": "/ec2/concept/5969803"
+    }
+  },
+  {
+    "uri": "en/45/505373",
+    "id": "505373",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security services for the protection of individuals",
+    "harm": {
+      "id": "0043962",
+      "title": "505373 - Security services for the protection of individuals",
+      "conceptLink": "/ec2/concept/5991649"
+    }
+  },
+  {
+    "uri": "en/45/881997",
+    "id": "881997",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Social escort agency services",
+    "harm": {
+      "id": "0028840",
+      "title": "881997 - Social escort agency services",
+      "conceptLink": "/ec2/concept/5977868"
+    }
+  },
+  {
+    "uri": "en/45/69222",
+    "id": "69222",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Social escorting",
+    "harm": {
+      "id": "0025696",
+      "title": "69222 - Social escorting",
+      "conceptLink": "/ec2/concept/5974983"
+    }
+  },
+  {
+    "uri": "en/45/477432",
+    "id": "477432",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Social introduction agencies",
+    "harm": {
+      "id": "0002268",
+      "title": "477432 - Social introduction agencies",
+      "conceptLink": "/ec2/concept/5953527"
+    }
+  },
+  {
+    "uri": "en/45/34121976",
+    "id": "34121976",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Software licensing",
+    "harm": {
+      "id": "0057090",
+      "title": "34121976 - Software licensing",
+      "conceptLink": "/ec2/concept/5998724"
+    }
+  },
+  {
+    "uri": "en/45/132836778",
+    "id": "132836778",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Software licensing [legal services]",
+    "harm": {
+      "id": "0057090",
+      "title": "132836778 - Software licensing [legal services]",
+      "conceptLink": "/ec2/concept/5998724"
+    }
+  },
+  {
+    "uri": "en/45/470128",
+    "id": "470128",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Solicitors' services",
+    "harm": {
+      "id": "0035180",
+      "title": "470128 - Solicitors' services",
+      "conceptLink": "/ec2/concept/5983636"
+    }
+  },
+  {
+    "uri": "en/45/881469",
+    "id": "881469",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Spiritual advice",
+    "harm": {
+      "id": "0046382",
+      "title": "881469 - Spiritual advice",
+      "conceptLink": "/ec2/concept/5993836"
+    }
+  },
+  {
+    "uri": "en/45/137729028",
+    "id": "137729028",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Spiritual consultancy",
+    "harm": {
+      "id": "0070085",
+      "title": "137729028 - Spiritual consultancy",
+      "conceptLink": "/ec2/concept/6006287"
+    }
+  },
+  {
+    "uri": "en/45/477456",
+    "id": "477456",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Stolen vehicle location services",
+    "harm": {
+      "id": "0036976",
+      "title": "477456 - Stolen vehicle location services",
+      "conceptLink": "/ec2/concept/5985274"
+    }
+  },
+  {
+    "uri": "en/45/3485587",
+    "id": "3485587",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Stolen vehicle recovery services",
+    "harm": {
+      "id": "0071411",
+      "title": "3485587 - Stolen vehicle recovery services",
+      "conceptLink": "/ec2/concept/6007602"
+    }
+  },
+  {
+    "uri": "en/45/34003943",
+    "id": "34003943",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Stolen vehicle tracking",
+    "harm": {
+      "id": "0073548",
+      "title": "34003943 - Stolen vehicle tracking",
+      "conceptLink": "/ec2/concept/6009721"
+    }
+  },
+  {
+    "uri": "en/45/882025",
+    "id": "882025",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Store detective services",
+    "harm": {
+      "id": "0027521",
+      "title": "882025 - Store detective services",
+      "conceptLink": "/ec2/concept/5976640"
+    }
+  },
+  {
+    "uri": "en/45/10112819",
+    "id": "10112819",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Surveillance services",
+    "harm": {
+      "id": "0056771",
+      "title": "10112819 - Surveillance services",
+      "conceptLink": "/ec2/concept/5998053"
+    }
+  },
+  {
+    "uri": "en/45/907683",
+    "id": "907683",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Title searching",
+    "harm": {
+      "id": "0013472",
+      "title": "907683 - Title searching",
+      "conceptLink": "/ec2/concept/5963786"
+    }
+  },
+  {
+    "uri": "en/45/882051",
+    "id": "882051",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Tracing of absconders",
+    "harm": {
+      "id": "0033290",
+      "title": "882051 - Tracing of absconders",
+      "conceptLink": "/ec2/concept/5981921"
+    }
+  },
+  {
+    "uri": "en/45/882063",
+    "id": "882063",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Tracing of lost keys",
+    "harm": {
+      "id": "0004456",
+      "title": "882063 - Tracing of lost keys",
+      "conceptLink": "/ec2/concept/5955529"
+    }
+  },
+  {
+    "uri": "en/45/136632074",
+    "id": "136632074",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Tracking of stolen property",
+    "harm": {
+      "id": "0060095",
+      "title": "136632074 - Tracking of stolen property",
+      "conceptLink": "/ec2/concept/5996359"
+    }
+  },
+  {
+    "uri": "en/45/136189353",
+    "id": "136189353",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Trademark agent services",
+    "harm": {
+      "id": "0050739",
+      "title": "136189353 - Trademark agent services",
+      "conceptLink": "/ec2/concept/5996104"
+    }
+  },
+  {
+    "uri": "en/45/120825937",
+    "id": "120825937",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Trademark monitoring [legal services]",
+    "harm": {
+      "id": "0069777",
+      "title": "120825937 - Trademark monitoring [legal services]",
+      "conceptLink": "/ec2/concept/6005980"
+    }
+  },
+  {
+    "uri": "en/45/883970",
+    "id": "883970",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Trademark watch services",
+    "harm": {
+      "id": "0008772",
+      "title": "883970 - Trademark watch services",
+      "conceptLink": "/ec2/concept/5959475"
+    }
+  },
+  {
+    "uri": "en/45/232501256",
+    "id": "232501256",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Trademark watch services for legal advisory purposes",
+    "harm": {
+      "id": "0071633",
+      "title": "232501256 - Trademark watch services for legal advisory purposes",
+      "conceptLink": "/ec2/concept/6007822"
+    }
+  },
+  {
+    "uri": "en/45/56256330",
+    "id": "56256330",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Tuxedo rental",
+    "harm": {
+      "id": "0069779",
+      "title": "56256330 - Tuxedo rental",
+      "conceptLink": "/ec2/concept/6005982"
+    }
+  },
+  {
+    "uri": "en/45/69569",
+    "id": "69569",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Undertakers' services",
+    "harm": {
+      "id": "0072829",
+      "title": "69569 - Undertakers' services",
+      "conceptLink": "/ec2/concept/6009004"
+    }
+  },
+  {
+    "uri": "en/45/478661",
+    "id": "478661",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Vetting services",
+    "harm": {
+      "id": "0007618",
+      "title": "478661 - Vetting services",
+      "conceptLink": "/ec2/concept/5958428"
+    }
+  },
+  {
+    "uri": "en/45/477468",
+    "id": "477468",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Video dating services",
+    "harm": {
+      "id": "0036977",
+      "title": "477468 - Video dating services",
+      "conceptLink": "/ec2/concept/5985275"
+    }
+  },
+  {
+    "uri": "en/45/131087343",
+    "id": "131087343",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Wedding ceremony planning and arranging consultation services",
+    "harm": {
+      "id": "0041866",
+      "title": "131087343 - Wedding ceremony planning and arranging consultation services",
+      "conceptLink": "/ec2/concept/5989731"
+    }
+  },
+  {
+    "uri": "en/45/908123",
+    "id": "908123",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Wedding chapel services",
+    "harm": {
+      "id": "0009313",
+      "title": "908123 - Wedding chapel services",
+      "conceptLink": "/ec2/concept/5959983"
+    }
+  },
+  {
+    "uri": "en/45/882077",
+    "id": "882077",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Wheel clamping",
+    "harm": {
+      "id": "0039101",
+      "title": "882077 - Wheel clamping",
+      "conceptLink": "/ec2/concept/5987204"
+    }
+  },
+  {
+    "uri": "en/45/477482",
+    "id": "477482",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Zodiac consultation",
+    "harm": {
+      "id": "0002269",
+      "title": "477482 - Zodiac consultation",
+      "conceptLink": "/ec2/concept/5953528"
+    }
+  }
+]

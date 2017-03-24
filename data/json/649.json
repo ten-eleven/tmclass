@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/817003",
+    "id": "817003",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Development of land [construction]",
+    "harm": {
+      "id": "0001681",
+      "title": "817003 - Development of land [construction]",
+      "conceptLink": "/ec2/concept/5952997"
+    }
+  },
+  {
+    "uri": "en/37/481779",
+    "id": "481779",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Development of ports",
+    "harm": {
+      "id": "0001012",
+      "title": "481779 - Development of ports",
+      "conceptLink": "/ec2/concept/5952394"
+    }
+  },
+  {
+    "uri": "en/37/817016",
+    "id": "817016",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diagnostic maintenance services for computer printers",
+    "harm": {
+      "id": "0026403",
+      "title": "817016 - Diagnostic maintenance services for computer printers",
+      "conceptLink": "/ec2/concept/5975631"
+    }
+  },
+  {
+    "uri": "en/37/817041",
+    "id": "817041",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diagnostic maintenance services for photocopiers",
+    "harm": {
+      "id": "0026404",
+      "title": "817041 - Diagnostic maintenance services for photocopiers",
+      "conceptLink": "/ec2/concept/5975632"
+    }
+  },
+  {
+    "uri": "en/37/817027",
+    "id": "817027",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diagnostic maintenance services for computers",
+    "harm": {
+      "id": "0032176",
+      "title": "817027 - Diagnostic maintenance services for computers",
+      "conceptLink": "/ec2/concept/5980902"
+    }
+  },
+  {
+    "uri": "en/37/120880009",
+    "id": "120880009",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diamond mining",
+    "harm": {
+      "id": "0068230",
+      "title": "120880009 - Diamond mining",
+      "conceptLink": "/ec2/concept/6004433"
+    }
+  },
+  {
+    "uri": "en/37/40669",
+    "id": "40669",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diaper cleaning",
+    "harm": {
+      "id": "0006302",
+      "title": "40669 - Diaper cleaning",
+      "conceptLink": "/ec2/concept/5957228"
+    }
+  },
+  {
+    "uri": "en/37/40670",
+    "id": "40670",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Diaper cleaning services",
+    "harm": {
+      "id": "0006302",
+      "title": "40670 - Diaper cleaning services",
+      "conceptLink": "/ec2/concept/5957228"
+    }
+  },
+  {
+    "uri": "en/37/38153",
+    "id": "38153",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfecting",
+    "harm": {
+      "id": "0059318",
+      "title": "38153 - Disinfecting",
+      "conceptLink": "/ec2/concept/6000800"
+    }
+  },
+  {
+    "uri": "en/37/367681",
+    "id": "367681",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfecting of telephone hand-sets",
+    "harm": {
+      "id": "0010804",
+      "title": "367681 - Disinfecting of telephone hand-sets",
+      "conceptLink": "/ec2/concept/5961349"
+    }
+  },
+  {
+    "uri": "en/37/38152",
+    "id": "38152",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfection",
+    "harm": {
+      "id": "0059318",
+      "title": "38152 - Disinfection",
+      "conceptLink": "/ec2/concept/6000800"
+    }
+  },
+  {
+    "uri": "en/37/817053",
+    "id": "817053",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfection of buildings against bacterial infestation",
+    "harm": {
+      "id": "0020751",
+      "title": "817053 - Disinfection of buildings against bacterial infestation",
+      "conceptLink": "/ec2/concept/5970450"
+    }
+  },
+  {
+    "uri": "en/37/817068",
+    "id": "817068",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfection of premises",
+    "harm": {
+      "id": "0026405",
+      "title": "817068 - Disinfection of premises",
+      "conceptLink": "/ec2/concept/5975633"
+    }
+  },
+  {
+    "uri": "en/37/817081",
+    "id": "817081",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfection of premises against bacterial infestation",
+    "harm": {
+      "id": "0014906",
+      "title": "817081 - Disinfection of premises against bacterial infestation",
+      "conceptLink": "/ec2/concept/5965103"
+    }
+  },
+  {
+    "uri": "en/37/38156",
+    "id": "38156",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Disinfection services",
+    "harm": {
+      "id": "0059318",
+      "title": "38156 - Disinfection services",
+      "conceptLink": "/ec2/concept/6000800"
+    }
+  },
+  {
+    "uri": "en/37/817097",
+    "id": "817097",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of buildings",
+    "harm": {
+      "id": "0029264",
+      "title": "817097 - Dismantling of buildings",
+      "conceptLink": "/ec2/concept/5978250"
+    }
+  },
+  {
+    "uri": "en/37/817123",
+    "id": "817123",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of industrial equipment",
+    "harm": {
+      "id": "0020752",
+      "title": "817123 - Dismantling of industrial equipment",
+      "conceptLink": "/ec2/concept/5970451"
+    }
+  },
+  {
+    "uri": "en/37/817125",
+    "id": "817125",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of industrial plant",
+    "harm": {
+      "id": "0020752",
+      "title": "817125 - Dismantling of industrial plant",
+      "conceptLink": "/ec2/concept/5970451"
+    }
+  },
+  {
+    "uri": "en/37/817124",
+    "id": "817124",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of industrial machinery",
+    "harm": {
+      "id": "0020752",
+      "title": "817124 - Dismantling of industrial machinery",
+      "conceptLink": "/ec2/concept/5970451"
+    }
+  },
+  {
+    "uri": "en/37/817154",
+    "id": "817154",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of machinery",
+    "harm": {
+      "id": "0032177",
+      "title": "817154 - Dismantling of machinery",
+      "conceptLink": "/ec2/concept/5980903"
+    }
+  },
+  {
+    "uri": "en/37/817166",
+    "id": "817166",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of power lines",
+    "harm": {
+      "id": "0023552",
+      "title": "817166 - Dismantling of power lines",
+      "conceptLink": "/ec2/concept/5973014"
+    }
+  },
+  {
+    "uri": "en/37/817181",
+    "id": "817181",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of roofs",
+    "harm": {
+      "id": "0040841",
+      "title": "817181 - Dismantling of roofs",
+      "conceptLink": "/ec2/concept/5988796"
+    }
+  },
+  {
+    "uri": "en/37/817098",
+    "id": "817098",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling of structures",
+    "harm": {
+      "id": "0029264",
+      "title": "817098 - Dismantling of structures",
+      "conceptLink": "/ec2/concept/5978250"
+    }
+  },
+  {
+    "uri": "en/37/817194",
+    "id": "817194",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dismantling services",
+    "harm": {
+      "id": "0023553",
+      "title": "817194 - Dismantling services",
+      "conceptLink": "/ec2/concept/5973015"
+    }
+  },
+  {
+    "uri": "en/37/817205",
+    "id": "817205",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Domestic cleaning",
+    "harm": {
+      "id": "0006150",
+      "title": "817205 - Domestic cleaning",
+      "conceptLink": "/ec2/concept/5957089"
+    }
+  },
+  {
+    "uri": "en/37/11511641",
+    "id": "11511641",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Domestic cleaning services",
+    "harm": {
+      "id": "0006150",
+      "title": "11511641 - Domestic cleaning services",
+      "conceptLink": "/ec2/concept/5957089"
+    }
+  },
+  {
+    "uri": "en/37/495569",
+    "id": "495569",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Doors and windows (Installation of -)",
+    "harm": {
+      "id": "0029020",
+      "title": "495569 - Doors and windows (Installation of -)",
+      "conceptLink": "/ec2/concept/5978032"
+    }
+  },
+  {
+    "uri": "en/37/817217",
+    "id": "817217",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Double glazing installation",
+    "harm": {
+      "id": "0035044",
+      "title": "817217 - Double glazing installation",
+      "conceptLink": "/ec2/concept/5983515"
+    }
+  },
+  {
+    "uri": "en/37/903150",
+    "id": "903150",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drain cleaning services",
+    "harm": {
+      "id": "0015203",
+      "title": "903150 - Drain cleaning services",
+      "conceptLink": "/ec2/concept/5965377"
+    }
+  },
+  {
+    "uri": "en/37/125041572",
+    "id": "125041572",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drainage (Land -)",
+    "harm": {
+      "id": "0040842",
+      "title": "125041572 - Drainage (Land -)",
+      "conceptLink": "/ec2/concept/5988797"
+    }
+  },
+  {
+    "uri": "en/37/817246",
+    "id": "817246",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drainage services",
+    "harm": {
+      "id": "0000362",
+      "title": "817246 - Drainage services",
+      "conceptLink": "/ec2/concept/5951815"
+    }
+  },
+  {
+    "uri": "en/37/817261",
+    "id": "817261",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Draught proofing",
+    "harm": {
+      "id": "0017695",
+      "title": "817261 - Draught proofing",
+      "conceptLink": "/ec2/concept/5967652"
+    }
+  },
+  {
+    "uri": "en/37/817274",
+    "id": "817274",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dredging of river channels",
+    "harm": {
+      "id": "0017696",
+      "title": "817274 - Dredging of river channels",
+      "conceptLink": "/ec2/concept/5967653"
+    }
+  },
+  {
+    "uri": "en/37/452700",
+    "id": "452700",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drill bit sharpening",
+    "harm": {
+      "id": "0038413",
+      "title": "452700 - Drill bit sharpening",
+      "conceptLink": "/ec2/concept/5986583"
+    }
+  },
+  {
+    "uri": "en/37/817286",
+    "id": "817286",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling",
+    "harm": {
+      "id": "0040843",
+      "title": "817286 - Drilling",
+      "conceptLink": "/ec2/concept/5988798"
+    }
+  },
+  {
+    "uri": "en/37/903177",
+    "id": "903177",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling and pumping of oil",
+    "harm": {
+      "id": "0044011",
+      "title": "903177 - Drilling and pumping of oil",
+      "conceptLink": "/ec2/concept/5991689"
+    }
+  },
+  {
+    "uri": "en/37/903181",
+    "id": "903181",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling for crude oil",
+    "harm": {
+      "id": "0059043",
+      "title": "903181 - Drilling for crude oil",
+      "conceptLink": "/ec2/concept/6000534"
+    }
+  },
+  {
+    "uri": "en/37/911823",
+    "id": "911823",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling of deep oil or gas-wells",
+    "harm": {
+      "id": "0008377",
+      "title": "911823 - Drilling of deep oil or gas-wells",
+      "conceptLink": "/ec2/concept/5959119"
+    }
+  },
+  {
+    "uri": "en/37/119550856",
+    "id": "119550856",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling of deep oil or gas wells",
+    "harm": {
+      "id": "0008377",
+      "title": "119550856 - Drilling of deep oil or gas wells",
+      "conceptLink": "/ec2/concept/5959119"
+    }
+  },
+  {
+    "uri": "en/37/903198",
+    "id": "903198",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling of oil wells",
+    "harm": {
+      "id": "0059044",
+      "title": "903198 - Drilling of oil wells",
+      "conceptLink": "/ec2/concept/6000535"
+    }
+  },
+  {
+    "uri": "en/37/41273",
+    "id": "41273",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drilling of wells",
+    "harm": {
+      "id": "0007082",
+      "title": "41273 - Drilling of wells",
+      "conceptLink": "/ec2/concept/5957936"
+    }
+  },
+  {
+    "uri": "en/37/125041643",
+    "id": "125041643",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drills (Rental of -)",
+    "harm": {
+      "id": "0011692",
+      "title": "125041643 - Drills (Rental of -)",
+      "conceptLink": "/ec2/concept/5962157"
+    }
+  },
+  {
+    "uri": "en/37/817321",
+    "id": "817321",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Driving of piles",
+    "harm": {
+      "id": "0011934",
+      "title": "817321 - Driving of piles",
+      "conceptLink": "/ec2/concept/5962384"
+    }
+  },
+  {
+    "uri": "en/37/40715",
+    "id": "40715",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dry cleaning",
+    "harm": {
+      "id": "0013436",
+      "title": "40715 - Dry cleaning",
+      "conceptLink": "/ec2/concept/5963752"
+    }
+  },
+  {
+    "uri": "en/37/817333",
+    "id": "817333",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Dry cleaning of clothing",
+    "harm": {
+      "id": "0040216",
+      "title": "817333 - Dry cleaning of clothing",
+      "conceptLink": "/ec2/concept/5988230"
+    }
+  },
+  {
+    "uri": "en/37/817359",
+    "id": "817359",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drying of clothes",
+    "harm": {
+      "id": "0045939",
+      "title": "817359 - Drying of clothes",
+      "conceptLink": "/ec2/concept/5993460"
+    }
+  },
+  {
+    "uri": "en/37/452713",
+    "id": "452713",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Drywall contractor services",
+    "harm": {
+      "id": "0046029",
+      "title": "452713 - Drywall contractor services",
+      "conceptLink": "/ec2/concept/5993544"
+    }
+  },
+  {
+    "uri": "en/37/817373",
+    "id": "817373",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Earthmoving",
+    "harm": {
+      "id": "0028662",
+      "title": "817373 - Earthmoving",
+      "conceptLink": "/ec2/concept/5977700"
+    }
+  },
+  {
+    "uri": "en/37/125041731",
+    "id": "125041731",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Earthmoving machines (Rental of -)",
+    "harm": {
+      "id": "0017624",
+      "title": "125041731 - Earthmoving machines (Rental of -)",
+      "conceptLink": "/ec2/concept/5967586"
+    }
+  },
+  {
+    "uri": "en/37/817409",
+    "id": "817409",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electric appliance installation",
+    "harm": {
+      "id": "0006459",
+      "title": "817409 - Electric appliance installation",
+      "conceptLink": "/ec2/concept/5957369"
+    }
+  },
+  {
+    "uri": "en/37/36282",
+    "id": "36282",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electric appliance installation and repair",
+    "harm": {
+      "id": "0006459",
+      "title": "36282 - Electric appliance installation and repair",
+      "conceptLink": "/ec2/concept/5957369"
+    }
+  },
+  {
+    "uri": "en/37/817423",
+    "id": "817423",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electric appliance repair",
+    "harm": {
+      "id": "0006459",
+      "title": "817423 - Electric appliance repair",
+      "conceptLink": "/ec2/concept/5957369"
+    }
+  },
+  {
+    "uri": "en/37/452728",
+    "id": "452728",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electrical contractor services",
+    "harm": {
+      "id": "0005601",
+      "title": "452728 - Electrical contractor services",
+      "conceptLink": "/ec2/concept/5956591"
+    }
+  },
+  {
+    "uri": "en/37/817439",
+    "id": "817439",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electrical installation services",
+    "harm": {
+      "id": "0005601",
+      "title": "817439 - Electrical installation services",
+      "conceptLink": "/ec2/concept/5956591"
+    }
+  },
+  {
+    "uri": "en/37/817454",
+    "id": "817454",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Electrical wiring services",
+    "harm": {
+      "id": "0011335",
+      "title": "817454 - Electrical wiring services",
+      "conceptLink": "/ec2/concept/5961829"
+    }
+  },
+  {
+    "uri": "en/37/817471",
+    "id": "817471",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Elevator installation",
+    "harm": {
+      "id": "0040922",
+      "title": "817471 - Elevator installation",
+      "conceptLink": "/ec2/concept/5988870"
+    }
+  },
+  {
+    "uri": "en/37/36305",
+    "id": "36305",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Elevator installation and repair",
+    "harm": {
+      "id": "0035394",
+      "title": "36305 - Elevator installation and repair",
+      "conceptLink": "/ec2/concept/5983835"
+    }
+  },
+  {
+    "uri": "en/37/817497",
+    "id": "817497",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Elevator repair",
+    "harm": {
+      "id": "0015180",
+      "title": "817497 - Elevator repair",
+      "conceptLink": "/ec2/concept/5965356"
+    }
+  },
+  {
+    "uri": "en/37/120893209",
+    "id": "120893209",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Emergency servicing of apparatus for supplying electricity",
+    "harm": {
+      "id": "0068083",
+      "title": "120893209 - Emergency servicing of apparatus for supplying electricity",
+      "conceptLink": "/ec2/concept/6004286"
+    }
+  },
+  {
+    "uri": "en/37/120893038",
+    "id": "120893038",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Emergency servicing of gas supply apparatus",
+    "harm": {
+      "id": "0068084",
+      "title": "120893038 - Emergency servicing of gas supply apparatus",
+      "conceptLink": "/ec2/concept/6004287"
+    }
+  },
+  {
+    "uri": "en/37/120893206",
+    "id": "120893206",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Emergency servicing of water supply apparatus",
+    "harm": {
+      "id": "0068082",
+      "title": "120893206 - Emergency servicing of water supply apparatus",
+      "conceptLink": "/ec2/concept/6004285"
+    }
+  },
+  {
+    "uri": "en/37/452750",
+    "id": "452750",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Emergency vehicle repair services",
+    "harm": {
+      "id": "0005695",
+      "title": "452750 - Emergency vehicle repair services",
+      "conceptLink": "/ec2/concept/5956672"
+    }
+  },
+  {
+    "uri": "en/37/817513",
+    "id": "817513",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Emptying [cleaning] services",
+    "harm": {
+      "id": "0028663",
+      "title": "817513 - Emptying [cleaning] services",
+      "conceptLink": "/ec2/concept/5977701"
+    }
+  },
+  {
+    "uri": "en/37/816694",
+    "id": "816694",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Engine conversions from petrol to diesel",
+    "harm": {
+      "id": "0022902",
+      "title": "816694 - Engine conversions from petrol to diesel",
+      "conceptLink": "/ec2/concept/5972418"
+    }
+  },
+  {
+    "uri": "en/37/817526",
+    "id": "817526",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Engine lubrication",
+    "harm": {
+      "id": "0044782",
+      "title": "817526 - Engine lubrication",
+      "conceptLink": "/ec2/concept/5992400"
+    }
+  },
+  {
+    "uri": "en/37/903554",
+    "id": "903554",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erecting manufacturing plants",
+    "harm": {
+      "id": "0002610",
+      "title": "903554 - Erecting manufacturing plants",
+      "conceptLink": "/ec2/concept/5953835"
+    }
+  },
+  {
+    "uri": "en/37/903552",
+    "id": "903552",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erecting of commercial centres",
+    "harm": {
+      "id": "0014182",
+      "title": "903552 - Erecting of commercial centres",
+      "conceptLink": "/ec2/concept/5964440"
+    }
+  },
+  {
+    "uri": "en/37/903553",
+    "id": "903553",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erecting of housing areas",
+    "harm": {
+      "id": "0002609",
+      "title": "903553 - Erecting of housing areas",
+      "conceptLink": "/ec2/concept/5953834"
+    }
+  },
+  {
+    "uri": "en/37/817539",
+    "id": "817539",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of climbing formworks",
+    "harm": {
+      "id": "0044783",
+      "title": "817539 - Erection of climbing formworks",
+      "conceptLink": "/ec2/concept/5992401"
+    }
+  },
+  {
+    "uri": "en/37/817552",
+    "id": "817552",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of crowd control barriers",
+    "harm": {
+      "id": "0004412",
+      "title": "817552 - Erection of crowd control barriers",
+      "conceptLink": "/ec2/concept/5955491"
+    }
+  },
+  {
+    "uri": "en/37/817564",
+    "id": "817564",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of curtain walling",
+    "harm": {
+      "id": "0021857",
+      "title": "817564 - Erection of curtain walling",
+      "conceptLink": "/ec2/concept/5971460"
+    }
+  },
+  {
+    "uri": "en/37/817578",
+    "id": "817578",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of display boards",
+    "harm": {
+      "id": "0015948",
+      "title": "817578 - Erection of display boards",
+      "conceptLink": "/ec2/concept/5966069"
+    }
+  },
+  {
+    "uri": "en/37/817592",
+    "id": "817592",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of grandstands",
+    "harm": {
+      "id": "0010126",
+      "title": "817592 - Erection of grandstands",
+      "conceptLink": "/ec2/concept/5960723"
+    }
+  },
+  {
+    "uri": "en/37/817604",
+    "id": "817604",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of pre-fabricated buildings",
+    "harm": {
+      "id": "0015949",
+      "title": "817604 - Erection of pre-fabricated buildings",
+      "conceptLink": "/ec2/concept/5966070"
+    }
+  },
+  {
+    "uri": "en/37/120892001",
+    "id": "120892001",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of prefabricated buildings and structures",
+    "harm": {
+      "id": "0068191",
+      "title": "120892001 - Erection of prefabricated buildings and structures",
+      "conceptLink": "/ec2/concept/6004394"
+    }
+  },
+  {
+    "uri": "en/37/817618",
+    "id": "817618",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of reinforced concrete structures utilising sliding and climbing formworks",
+    "harm": {
+      "id": "0027485",
+      "title": "817618 - Erection of reinforced concrete structures utilising sliding and climbing formworks",
+      "conceptLink": "/ec2/concept/5976606"
+    }
+  },
+  {
+    "uri": "en/37/40595",
+    "id": "40595",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of scaffolding",
+    "harm": {
+      "id": "0006301",
+      "title": "40595 - Erection of scaffolding",
+      "conceptLink": "/ec2/concept/5957227"
+    }
+  },
+  {
+    "uri": "en/37/817635",
+    "id": "817635",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of signboards",
+    "harm": {
+      "id": "0046522",
+      "title": "817635 - Erection of signboards",
+      "conceptLink": "/ec2/concept/5993960"
+    }
+  },
+  {
+    "uri": "en/37/817634",
+    "id": "817634",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of signs",
+    "harm": {
+      "id": "0046516",
+      "title": "817634 - Erection of signs",
+      "conceptLink": "/ec2/concept/5993955"
+    }
+  },
+  {
+    "uri": "en/37/817657",
+    "id": "817657",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of sliding formworks",
+    "harm": {
+      "id": "0027486",
+      "title": "817657 - Erection of sliding formworks",
+      "conceptLink": "/ec2/concept/5976607"
+    }
+  },
+  {
+    "uri": "en/37/817669",
+    "id": "817669",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of temporary constructions for outdoor events",
+    "harm": {
+      "id": "0016891",
+      "title": "817669 - Erection of temporary constructions for outdoor events",
+      "conceptLink": "/ec2/concept/5966929"
+    }
+  },
+  {
+    "uri": "en/37/817684",
+    "id": "817684",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Erection of temporary seating",
+    "harm": {
+      "id": "0045701",
+      "title": "817684 - Erection of temporary seating",
+      "conceptLink": "/ec2/concept/5993240"
+    }
+  },
+  {
+    "uri": "en/37/452773",
+    "id": "452773",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavating",
+    "harm": {
+      "id": "0016892",
+      "title": "452773 - Excavating",
+      "conceptLink": "/ec2/concept/5966930"
+    }
+  },
+  {
+    "uri": "en/37/124330699",
+    "id": "124330699",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavating machines (Rental of -)",
+    "harm": {
+      "id": "0029043",
+      "title": "124330699 - Excavating machines (Rental of -)",
+      "conceptLink": "/ec2/concept/5978055"
+    }
+  },
+  {
+    "uri": "en/37/817697",
+    "id": "817697",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavating services for verifying the location of utility lines",
+    "harm": {
+      "id": "0005367",
+      "title": "817697 - Excavating services for verifying the location of utility lines",
+      "conceptLink": "/ec2/concept/5956370"
+    }
+  },
+  {
+    "uri": "en/37/817710",
+    "id": "817710",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavation of underground tanks",
+    "harm": {
+      "id": "0005368",
+      "title": "817710 - Excavation of underground tanks",
+      "conceptLink": "/ec2/concept/5956371"
+    }
+  },
+  {
+    "uri": "en/37/452772",
+    "id": "452772",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavation services",
+    "harm": {
+      "id": "0016892",
+      "title": "452772 - Excavation services",
+      "conceptLink": "/ec2/concept/5966930"
+    }
+  },
+  {
+    "uri": "en/37/38387",
+    "id": "38387",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Excavators (Rental of -)",
+    "harm": {
+      "id": "0029043",
+      "title": "38387 - Excavators (Rental of -)",
+      "conceptLink": "/ec2/concept/5978055"
+    }
+  },
+  {
+    "uri": "en/37/817722",
+    "id": "817722",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Exploitation [extraction] of oil from oil-fields",
+    "harm": {
+      "id": "0036379",
+      "title": "817722 - Exploitation [extraction] of oil from oil-fields",
+      "conceptLink": "/ec2/concept/5984730"
+    }
+  },
+  {
+    "uri": "en/37/817736",
+    "id": "817736",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Explosive civil engineering",
+    "harm": {
+      "id": "0005369",
+      "title": "817736 - Explosive civil engineering",
+      "conceptLink": "/ec2/concept/5956372"
+    }
+  },
+  {
+    "uri": "en/37/40483",
+    "id": "40483",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Exterminating (Vermin -), other than for agriculture",
+    "harm": {
+      "id": "0006300",
+      "title": "40483 - Exterminating (Vermin -), other than for agriculture",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/120919154",
+    "id": "120919154",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extermination, disinfection and pest control",
+    "harm": {
+      "id": "0048004",
+      "title": "120919154 - Extermination, disinfection and pest control",
+      "conceptLink": "/ec2/concept/5995265"
+    }
+  },
+  {
+    "uri": "en/37/817749",
+    "id": "817749",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extermination of fungus infestation in wood",
+    "harm": {
+      "id": "0045702",
+      "title": "817749 - Extermination of fungus infestation in wood",
+      "conceptLink": "/ec2/concept/5993241"
+    }
+  },
+  {
+    "uri": "en/37/817779",
+    "id": "817779",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extermination of pests",
+    "harm": {
+      "id": "0003359",
+      "title": "817779 - Extermination of pests",
+      "conceptLink": "/ec2/concept/5954523"
+    }
+  },
+  {
+    "uri": "en/37/39770",
+    "id": "39770",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extermination of rats",
+    "harm": {
+      "id": "0031743",
+      "title": "39770 - Extermination of rats",
+      "conceptLink": "/ec2/concept/5980508"
+    }
+  },
+  {
+    "uri": "en/37/40945",
+    "id": "40945",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extraction (Mining -)",
+    "harm": {
+      "id": "0008271",
+      "title": "40945 - Extraction (Mining -)",
+      "conceptLink": "/ec2/concept/5959023"
+    }
+  },
+  {
+    "uri": "en/37/21396423",
+    "id": "21396423",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extraction of gas",
+    "harm": {
+      "id": "0070382",
+      "title": "21396423 - Extraction of gas",
+      "conceptLink": "/ec2/concept/6006575"
+    }
+  },
+  {
+    "uri": "en/37/138391194",
+    "id": "138391194",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extraction of natural resources",
+    "harm": {
+      "id": "0070185",
+      "title": "138391194 - Extraction of natural resources",
+      "conceptLink": "/ec2/concept/6006379"
+    }
+  },
+  {
+    "uri": "en/37/822587",
+    "id": "822587",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Extraction of oil",
+    "harm": {
+      "id": "0059046",
+      "title": "822587 - Extraction of oil",
+      "conceptLink": "/ec2/concept/6000537"
+    }
+  },
+  {
+    "uri": "en/37/39161",
+    "id": "39161",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Fabric ironing",
+    "harm": {
+      "id": "0012049",
+      "title": "39161 - Fabric ironing",
+      "conceptLink": "/ec2/concept/5962493"
+    }
+  }
+]

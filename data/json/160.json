@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/124909572",
+    "id": "124909572",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hand saws (Electrically operated -)",
+    "harm": {
+      "id": "0012354",
+      "title": "124909572 - Hand saws (Electrically operated -)",
+      "conceptLink": "/ec2/concept/5962771"
+    }
+  },
+  {
+    "uri": "en/7/124909586",
+    "id": "124909586",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hand shears (Electrically operated -)",
+    "harm": {
+      "id": "0057414",
+      "title": "124909586 - Hand shears (Electrically operated -)",
+      "conceptLink": "/ec2/concept/5998921"
+    }
+  },
+  {
+    "uri": "en/7/136149382",
+    "id": "136149382",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hand weaving looms",
+    "harm": {
+      "id": "0050612",
+      "title": "136149382 - Hand weaving looms",
+      "conceptLink": "/ec2/concept/5995980"
+    }
+  },
+  {
+    "uri": "en/7/681586",
+    "id": "681586",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Handles being parts of machine tools",
+    "harm": {
+      "id": "0035515",
+      "title": "681586 - Handles being parts of machine tools",
+      "conceptLink": "/ec2/concept/5983945"
+    }
+  },
+  {
+    "uri": "en/7/681599",
+    "id": "681599",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Handles being parts of mechanically operated tools",
+    "harm": {
+      "id": "0035516",
+      "title": "681599 - Handles being parts of mechanically operated tools",
+      "conceptLink": "/ec2/concept/5983946"
+    }
+  },
+  {
+    "uri": "en/7/120301",
+    "id": "120301",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Handling apparatus for loading and unloading",
+    "harm": {
+      "id": "0013695",
+      "title": "120301 - Handling apparatus for loading and unloading",
+      "conceptLink": "/ec2/concept/5963984"
+    }
+  },
+  {
+    "uri": "en/7/119964",
+    "id": "119964",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Handling machines",
+    "harm": {
+      "id": "0029713",
+      "title": "119964 - Handling machines",
+      "conceptLink": "/ec2/concept/5978665"
+    }
+  },
+  {
+    "uri": "en/7/126926",
+    "id": "126926",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Handling machines, automatic [manipulators]",
+    "harm": {
+      "id": "0018702",
+      "title": "126926 - Handling machines, automatic [manipulators]",
+      "conceptLink": "/ec2/concept/5968583"
+    }
+  },
+  {
+    "uri": "en/7/137493026",
+    "id": "137493026",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hangers for internal combustion engines [parts of internal combustion engines]",
+    "harm": {
+      "id": "0060734",
+      "title": "137493026 - Hangers for internal combustion engines [parts of internal combustion engines]",
+      "conceptLink": "/ec2/concept/6001054"
+    }
+  },
+  {
+    "uri": "en/7/114720",
+    "id": "114720",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hangers [parts of machines]",
+    "harm": {
+      "id": "0020064",
+      "title": "114720 - Hangers [parts of machines]",
+      "conceptLink": "/ec2/concept/5969818"
+    }
+  },
+  {
+    "uri": "en/7/119062",
+    "id": "119062",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harrows",
+    "harm": {
+      "id": "0019626",
+      "title": "119062 - Harrows",
+      "conceptLink": "/ec2/concept/5969427"
+    }
+  },
+  {
+    "uri": "en/7/391959",
+    "id": "391959",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harrows [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0038142",
+      "title": "391959 - Harrows [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5986329"
+    }
+  },
+  {
+    "uri": "en/7/113087",
+    "id": "113087",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harvesters",
+    "harm": {
+      "id": "0058615",
+      "title": "113087 - Harvesters",
+      "conceptLink": "/ec2/concept/6000108"
+    }
+  },
+  {
+    "uri": "en/7/391977",
+    "id": "391977",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harvesters [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0026554",
+      "title": "391977 - Harvesters [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5975768"
+    }
+  },
+  {
+    "uri": "en/7/681623",
+    "id": "681623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harvesting heads",
+    "harm": {
+      "id": "0041276",
+      "title": "681623 - Harvesting heads",
+      "conceptLink": "/ec2/concept/5989200"
+    }
+  },
+  {
+    "uri": "en/7/113084",
+    "id": "113084",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Harvesting machines",
+    "harm": {
+      "id": "0058615",
+      "title": "113084 - Harvesting machines",
+      "conceptLink": "/ec2/concept/6000108"
+    }
+  },
+  {
+    "uri": "en/7/118156",
+    "id": "118156",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Haulage apparatus [mining]",
+    "harm": {
+      "id": "0016030",
+      "title": "118156 - Haulage apparatus [mining]",
+      "conceptLink": "/ec2/concept/5966148"
+    }
+  },
+  {
+    "uri": "en/7/128937",
+    "id": "128937",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hauling machines (Net -) [fishing]",
+    "harm": {
+      "id": "0018169",
+      "title": "128937 - Hauling machines (Net -) [fishing]",
+      "conceptLink": "/ec2/concept/5968086"
+    }
+  },
+  {
+    "uri": "en/7/387777",
+    "id": "387777",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay balers",
+    "harm": {
+      "id": "0019458",
+      "title": "387777 - Hay balers",
+      "conceptLink": "/ec2/concept/5969269"
+    }
+  },
+  {
+    "uri": "en/7/391998",
+    "id": "391998",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay balers [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0015048",
+      "title": "391998 - Hay balers [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5965231"
+    }
+  },
+  {
+    "uri": "en/7/113367",
+    "id": "113367",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay binding machines",
+    "harm": {
+      "id": "0047535",
+      "title": "113367 - Hay binding machines",
+      "conceptLink": "/ec2/concept/5994833"
+    }
+  },
+  {
+    "uri": "en/7/681636",
+    "id": "681636",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay grippers [machines or parts of machines]",
+    "harm": {
+      "id": "0018170",
+      "title": "681636 - Hay grippers [machines or parts of machines]",
+      "conceptLink": "/ec2/concept/5968087"
+    }
+  },
+  {
+    "uri": "en/7/113082",
+    "id": "113082",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay making machines",
+    "harm": {
+      "id": "0058617",
+      "title": "113082 - Hay making machines",
+      "conceptLink": "/ec2/concept/6000110"
+    }
+  },
+  {
+    "uri": "en/7/392013",
+    "id": "392013",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hay rakes [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0015049",
+      "title": "392013 - Hay rakes [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5965232"
+    }
+  },
+  {
+    "uri": "en/7/681648",
+    "id": "681648",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Haymaking machines",
+    "harm": {
+      "id": "0058617",
+      "title": "681648 - Haymaking machines",
+      "conceptLink": "/ec2/concept/6000110"
+    }
+  },
+  {
+    "uri": "en/7/681661",
+    "id": "681661",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Head attachments for power tools",
+    "harm": {
+      "id": "0035517",
+      "title": "681661 - Head attachments for power tools",
+      "conceptLink": "/ec2/concept/5983947"
+    }
+  },
+  {
+    "uri": "en/7/681677",
+    "id": "681677",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Headboxes being parts of paper producing machines",
+    "harm": {
+      "id": "0023973",
+      "title": "681677 - Headboxes being parts of paper producing machines",
+      "conceptLink": "/ec2/concept/5973400"
+    }
+  },
+  {
+    "uri": "en/7/389552",
+    "id": "389552",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Headers as part of vehicle exhaust system",
+    "harm": {
+      "id": "0038926",
+      "title": "389552 - Headers as part of vehicle exhaust system",
+      "conceptLink": "/ec2/concept/5987046"
+    }
+  },
+  {
+    "uri": "en/7/11530281",
+    "id": "11530281",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat exchangers being parts of machines",
+    "harm": {
+      "id": "0015045",
+      "title": "11530281 - Heat exchangers being parts of machines",
+      "conceptLink": "/ec2/concept/5965228"
+    }
+  },
+  {
+    "uri": "en/7/128064",
+    "id": "128064",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat exchangers [parts of machines]",
+    "harm": {
+      "id": "0015045",
+      "title": "128064 - Heat exchangers [parts of machines]",
+      "conceptLink": "/ec2/concept/5965228"
+    }
+  },
+  {
+    "uri": "en/7/681689",
+    "id": "681689",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat insulated metal piping elements [parts of machines]",
+    "harm": {
+      "id": "0018171",
+      "title": "681689 - Heat insulated metal piping elements [parts of machines]",
+      "conceptLink": "/ec2/concept/5968088"
+    }
+  },
+  {
+    "uri": "en/7/681702",
+    "id": "681702",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat lances [machines]",
+    "harm": {
+      "id": "0032860",
+      "title": "681702 - Heat lances [machines]",
+      "conceptLink": "/ec2/concept/5981525"
+    }
+  },
+  {
+    "uri": "en/7/681716",
+    "id": "681716",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat pumps [parts of machines]",
+    "harm": {
+      "id": "0032127",
+      "title": "681716 - Heat pumps [parts of machines]",
+      "conceptLink": "/ec2/concept/5980858"
+    }
+  },
+  {
+    "uri": "en/7/681732",
+    "id": "681732",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat recovery devices [parts of machines]",
+    "harm": {
+      "id": "0020696",
+      "title": "681732 - Heat recovery devices [parts of machines]",
+      "conceptLink": "/ec2/concept/5970396"
+    }
+  },
+  {
+    "uri": "en/7/681747",
+    "id": "681747",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat sealing machines",
+    "harm": {
+      "id": "0037933",
+      "title": "681747 - Heat sealing machines",
+      "conceptLink": "/ec2/concept/5986135"
+    }
+  },
+  {
+    "uri": "en/7/389565",
+    "id": "389565",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heat sinks for use in machines",
+    "harm": {
+      "id": "0038927",
+      "title": "389565 - Heat sinks for use in machines",
+      "conceptLink": "/ec2/concept/5987047"
+    }
+  },
+  {
+    "uri": "en/7/681764",
+    "id": "681764",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heavy duty flail mowers",
+    "harm": {
+      "id": "0037934",
+      "title": "681764 - Heavy duty flail mowers",
+      "conceptLink": "/ec2/concept/5986136"
+    }
+  },
+  {
+    "uri": "en/7/681777",
+    "id": "681777",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heavy duty grinding machines",
+    "harm": {
+      "id": "0003250",
+      "title": "681777 - Heavy duty grinding machines",
+      "conceptLink": "/ec2/concept/5954423"
+    }
+  },
+  {
+    "uri": "en/7/681789",
+    "id": "681789",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heavy media separators [machines]",
+    "harm": {
+      "id": "0020697",
+      "title": "681789 - Heavy media separators [machines]",
+      "conceptLink": "/ec2/concept/5970397"
+    }
+  },
+  {
+    "uri": "en/7/681804",
+    "id": "681804",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Heddles",
+    "harm": {
+      "id": "0009014",
+      "title": "681804 - Heddles",
+      "conceptLink": "/ec2/concept/5959708"
+    }
+  },
+  {
+    "uri": "en/7/681816",
+    "id": "681816",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hedge cutters [machines]",
+    "harm": {
+      "id": "0009015",
+      "title": "681816 - Hedge cutters [machines]",
+      "conceptLink": "/ec2/concept/5959709"
+    }
+  },
+  {
+    "uri": "en/7/681831",
+    "id": "681831",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hedge trimmers [machines]",
+    "harm": {
+      "id": "0003251",
+      "title": "681831 - Hedge trimmers [machines]",
+      "conceptLink": "/ec2/concept/5954424"
+    }
+  },
+  {
+    "uri": "en/7/681846",
+    "id": "681846",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Helical gear units being parts of machines",
+    "harm": {
+      "id": "0020698",
+      "title": "681846 - Helical gear units being parts of machines",
+      "conceptLink": "/ec2/concept/5970398"
+    }
+  },
+  {
+    "uri": "en/7/681859",
+    "id": "681859",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Helical gear units for industrial purposes",
+    "harm": {
+      "id": "0043685",
+      "title": "681859 - Helical gear units for industrial purposes",
+      "conceptLink": "/ec2/concept/5991390"
+    }
+  },
+  {
+    "uri": "en/7/121585",
+    "id": "121585",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hemming machines",
+    "harm": {
+      "id": "0046704",
+      "title": "121585 - Hemming machines",
+      "conceptLink": "/ec2/concept/5994117"
+    }
+  },
+  {
+    "uri": "en/7/681871",
+    "id": "681871",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High frequency welding machines",
+    "harm": {
+      "id": "0020699",
+      "title": "681871 - High frequency welding machines",
+      "conceptLink": "/ec2/concept/5970399"
+    }
+  },
+  {
+    "uri": "en/7/129554",
+    "id": "129554",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High pressure cleaning machines",
+    "harm": {
+      "id": "0059194",
+      "title": "129554 - High pressure cleaning machines",
+      "conceptLink": "/ec2/concept/6000683"
+    }
+  },
+  {
+    "uri": "en/7/389601",
+    "id": "389601",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High pressure pumps",
+    "harm": {
+      "id": "0026347",
+      "title": "389601 - High pressure pumps",
+      "conceptLink": "/ec2/concept/5975581"
+    }
+  },
+  {
+    "uri": "en/7/322468",
+    "id": "322468",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High-pressure pumps for washing appliances and installations",
+    "harm": {
+      "id": "0013005",
+      "title": "322468 - High-pressure pumps for washing appliances and installations",
+      "conceptLink": "/ec2/concept/5963359"
+    }
+  },
+  {
+    "uri": "en/7/129552",
+    "id": "129552",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High pressure washers",
+    "harm": {
+      "id": "0059195",
+      "title": "129552 - High pressure washers",
+      "conceptLink": "/ec2/concept/6000684"
+    }
+  },
+  {
+    "uri": "en/7/389579",
+    "id": "389579",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High temperature pumps",
+    "harm": {
+      "id": "0033112",
+      "title": "389579 - High temperature pumps",
+      "conceptLink": "/ec2/concept/5981759"
+    }
+  },
+  {
+    "uri": "en/7/884677",
+    "id": "884677",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "High-voltage generators",
+    "harm": {
+      "id": "0013735",
+      "title": "884677 - High-voltage generators",
+      "conceptLink": "/ec2/concept/5964022"
+    }
+  },
+  {
+    "uri": "en/7/114826",
+    "id": "114826",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoists",
+    "harm": {
+      "id": "0034646",
+      "title": "114826 - Hoists",
+      "conceptLink": "/ec2/concept/5983155"
+    }
+  },
+  {
+    "uri": "en/7/114830",
+    "id": "114830",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoists for freight",
+    "harm": {
+      "id": "0009827",
+      "title": "114830 - Hoists for freight",
+      "conceptLink": "/ec2/concept/5960453"
+    }
+  },
+  {
+    "uri": "en/7/121791",
+    "id": "121791",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Holders for machine tools",
+    "harm": {
+      "id": "0059470",
+      "title": "121791 - Holders for machine tools",
+      "conceptLink": "/ec2/concept/6000946"
+    }
+  },
+  {
+    "uri": "en/7/121789",
+    "id": "121789",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Holding devices for machine tools",
+    "harm": {
+      "id": "0059471",
+      "title": "121789 - Holding devices for machine tools",
+      "conceptLink": "/ec2/concept/6000947"
+    }
+  },
+  {
+    "uri": "en/7/132887169",
+    "id": "132887169",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Honing machines for metalworking",
+    "harm": {
+      "id": "0065631",
+      "title": "132887169 - Honing machines for metalworking",
+      "conceptLink": "/ec2/concept/6001834"
+    }
+  },
+  {
+    "uri": "en/7/114079",
+    "id": "114079",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoods [machine parts]",
+    "harm": {
+      "id": "0058414",
+      "title": "114079 - Hoods [machine parts]",
+      "conceptLink": "/ec2/concept/5999913"
+    }
+  },
+  {
+    "uri": "en/7/114080",
+    "id": "114080",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoods [parts of machines]",
+    "harm": {
+      "id": "0058414",
+      "title": "114080 - Hoods [parts of machines]",
+      "conceptLink": "/ec2/concept/5999913"
+    }
+  },
+  {
+    "uri": "en/7/128994",
+    "id": "128994",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hooke's joints",
+    "harm": {
+      "id": "0043419",
+      "title": "128994 - Hooke's joints",
+      "conceptLink": "/ec2/concept/5991147"
+    }
+  },
+  {
+    "uri": "en/7/681885",
+    "id": "681885",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hopper loaders [machines]",
+    "harm": {
+      "id": "0004095",
+      "title": "681885 - Hopper loaders [machines]",
+      "conceptLink": "/ec2/concept/5955190"
+    }
+  },
+  {
+    "uri": "en/7/681898",
+    "id": "681898",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoppers [machines]",
+    "harm": {
+      "id": "0004096",
+      "title": "681898 - Hoppers [machines]",
+      "conceptLink": "/ec2/concept/5955191"
+    }
+  },
+  {
+    "uri": "en/7/116725",
+    "id": "116725",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoppers [mechanical discharging]",
+    "harm": {
+      "id": "0004487",
+      "title": "116725 - Hoppers [mechanical discharging]",
+      "conceptLink": "/ec2/concept/5955560"
+    }
+  },
+  {
+    "uri": "en/7/322483",
+    "id": "322483",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Horning machines [for metalworking]",
+    "harm": {
+      "id": "0018854",
+      "title": "322483 - Horning machines [for metalworking]",
+      "conceptLink": "/ec2/concept/5968726"
+    }
+  },
+  {
+    "uri": "en/7/131093125",
+    "id": "131093125",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Horning machines for metalworking",
+    "harm": {
+      "id": "0018854",
+      "title": "131093125 - Horning machines for metalworking",
+      "conceptLink": "/ec2/concept/5968726"
+    }
+  },
+  {
+    "uri": "en/7/681913",
+    "id": "681913",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Horticultural implements [machines]",
+    "harm": {
+      "id": "0009828",
+      "title": "681913 - Horticultural implements [machines]",
+      "conceptLink": "/ec2/concept/5960454"
+    }
+  },
+  {
+    "uri": "en/7/681927",
+    "id": "681927",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Horticultural machines",
+    "harm": {
+      "id": "0004097",
+      "title": "681927 - Horticultural machines",
+      "conceptLink": "/ec2/concept/5955192"
+    }
+  },
+  {
+    "uri": "en/7/130017",
+    "id": "130017",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoses for vacuum cleaners",
+    "harm": {
+      "id": "0030841",
+      "title": "130017 - Hoses for vacuum cleaners",
+      "conceptLink": "/ec2/concept/5979706"
+    }
+  },
+  {
+    "uri": "en/7/125114774",
+    "id": "125114774",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoses (Metal -) for transferring hydraulic power in machines",
+    "harm": {
+      "id": "0038204",
+      "title": "125114774 - Hoses (Metal -) for transferring hydraulic power in machines",
+      "conceptLink": "/ec2/concept/5986384"
+    }
+  },
+  {
+    "uri": "en/7/125114786",
+    "id": "125114786",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoses (Metal -) for use in hydraulic systems in machines",
+    "harm": {
+      "id": "0032366",
+      "title": "125114786 - Hoses (Metal -) for use in hydraulic systems in machines",
+      "conceptLink": "/ec2/concept/5981073"
+    }
+  },
+  {
+    "uri": "en/7/125114801",
+    "id": "125114801",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoses (Non-metallic -) for transferring hydraulic power in machines",
+    "harm": {
+      "id": "0043930",
+      "title": "125114801 - Hoses (Non-metallic -) for transferring hydraulic power in machines",
+      "conceptLink": "/ec2/concept/5991619"
+    }
+  },
+  {
+    "uri": "en/7/125114813",
+    "id": "125114813",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hoses (Non-metallic -) for use in hydraulic systems in machines",
+    "harm": {
+      "id": "0015119",
+      "title": "125114813 - Hoses (Non-metallic -) for use in hydraulic systems in machines",
+      "conceptLink": "/ec2/concept/5965297"
+    }
+  },
+  {
+    "uri": "en/7/113302",
+    "id": "113302",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hosiery looms",
+    "harm": {
+      "id": "0047065",
+      "title": "113302 - Hosiery looms",
+      "conceptLink": "/ec2/concept/5994442"
+    }
+  },
+  {
+    "uri": "en/7/322498",
+    "id": "322498",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot adhesive guns",
+    "harm": {
+      "id": "0030334",
+      "title": "322498 - Hot adhesive guns",
+      "conceptLink": "/ec2/concept/5979233"
+    }
+  },
+  {
+    "uri": "en/7/681941",
+    "id": "681941",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot air guns [electric]",
+    "harm": {
+      "id": "0044485",
+      "title": "681941 - Hot air guns [electric]",
+      "conceptLink": "/ec2/concept/5992127"
+    }
+  },
+  {
+    "uri": "en/7/681956",
+    "id": "681956",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot air welding machines",
+    "harm": {
+      "id": "0021548",
+      "title": "681956 - Hot air welding machines",
+      "conceptLink": "/ec2/concept/5971175"
+    }
+  },
+  {
+    "uri": "en/7/322499",
+    "id": "322499",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot melt glue guns",
+    "harm": {
+      "id": "0030334",
+      "title": "322499 - Hot melt glue guns",
+      "conceptLink": "/ec2/concept/5979233"
+    }
+  },
+  {
+    "uri": "en/7/681972",
+    "id": "681972",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot metal extrusion machines",
+    "harm": {
+      "id": "0044486",
+      "title": "681972 - Hot metal extrusion machines",
+      "conceptLink": "/ec2/concept/5992128"
+    }
+  },
+  {
+    "uri": "en/7/681985",
+    "id": "681985",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hot print foiling machines",
+    "harm": {
+      "id": "0032923",
+      "title": "681985 - Hot print foiling machines",
+      "conceptLink": "/ec2/concept/5981583"
+    }
+  },
+  {
+    "uri": "en/7/681997",
+    "id": "681997",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Household vacuum cleaners",
+    "harm": {
+      "id": "0019268",
+      "title": "681997 - Household vacuum cleaners",
+      "conceptLink": "/ec2/concept/5969099"
+    }
+  },
+  {
+    "uri": "en/7/682012",
+    "id": "682012",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Housings for ball bushings",
+    "harm": {
+      "id": "0021549",
+      "title": "682012 - Housings for ball bushings",
+      "conceptLink": "/ec2/concept/5971176"
+    }
+  },
+  {
+    "uri": "en/7/682025",
+    "id": "682025",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Housings for machines",
+    "harm": {
+      "id": "0024545",
+      "title": "682025 - Housings for machines",
+      "conceptLink": "/ec2/concept/5973924"
+    }
+  },
+  {
+    "uri": "en/7/112611",
+    "id": "112611",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Housings [parts of machines]",
+    "harm": {
+      "id": "0024545",
+      "title": "112611 - Housings [parts of machines]",
+      "conceptLink": "/ec2/concept/5973924"
+    }
+  },
+  {
+    "uri": "en/7/114623",
+    "id": "114623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Husking machines (Corn and grain -)",
+    "harm": {
+      "id": "0006132",
+      "title": "114623 - Husking machines (Corn and grain -)",
+      "conceptLink": "/ec2/concept/5957074"
+    }
+  },
+  {
+    "uri": "en/7/682040",
+    "id": "682040",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic accumulators",
+    "harm": {
+      "id": "0032128",
+      "title": "682040 - Hydraulic accumulators",
+      "conceptLink": "/ec2/concept/5980859"
+    }
+  },
+  {
+    "uri": "en/7/136010953",
+    "id": "136010953",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic accumulators being parts of machines",
+    "harm": {
+      "id": "0055141",
+      "title": "136010953 - Hydraulic accumulators being parts of machines",
+      "conceptLink": "/ec2/concept/5996580"
+    }
+  },
+  {
+    "uri": "en/7/682054",
+    "id": "682054",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic actuators",
+    "harm": {
+      "id": "0032129",
+      "title": "682054 - Hydraulic actuators",
+      "conceptLink": "/ec2/concept/5980860"
+    }
+  },
+  {
+    "uri": "en/7/682069",
+    "id": "682069",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic circuits for machines",
+    "harm": {
+      "id": "0043686",
+      "title": "682069 - Hydraulic circuits for machines",
+      "conceptLink": "/ec2/concept/5991391"
+    }
+  },
+  {
+    "uri": "en/7/120896426",
+    "id": "120896426",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic controls for machines",
+    "harm": {
+      "id": "0065570",
+      "title": "120896426 - Hydraulic controls for machines",
+      "conceptLink": "/ec2/concept/6001773"
+    }
+  },
+  {
+    "uri": "en/7/1233949",
+    "id": "1233949",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic controls for machines, motors and engines",
+    "harm": {
+      "id": "0013534",
+      "title": "1233949 - Hydraulic controls for machines, motors and engines",
+      "conceptLink": "/ec2/concept/5963840"
+    }
+  },
+  {
+    "uri": "en/7/120896431",
+    "id": "120896431",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic controls for motors",
+    "harm": {
+      "id": "0065569",
+      "title": "120896431 - Hydraulic controls for motors",
+      "conceptLink": "/ec2/concept/6001772"
+    }
+  },
+  {
+    "uri": "en/7/322519",
+    "id": "322519",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic conveyors",
+    "harm": {
+      "id": "0007194",
+      "title": "322519 - Hydraulic conveyors",
+      "conceptLink": "/ec2/concept/5958038"
+    }
+  },
+  {
+    "uri": "en/7/904423",
+    "id": "904423",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic door closers",
+    "harm": {
+      "id": "0036815",
+      "title": "904423 - Hydraulic door closers",
+      "conceptLink": "/ec2/concept/5985127"
+    }
+  },
+  {
+    "uri": "en/7/389616",
+    "id": "389616",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic door openers",
+    "harm": {
+      "id": "0058797",
+      "title": "389616 - Hydraulic door openers",
+      "conceptLink": "/ec2/concept/6000288"
+    }
+  },
+  {
+    "uri": "en/7/130239",
+    "id": "130239",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic door openers and closers [parts of machines]",
+    "harm": {
+      "id": "0058798",
+      "title": "130239 - Hydraulic door openers and closers [parts of machines]",
+      "conceptLink": "/ec2/concept/6000289"
+    }
+  },
+  {
+    "uri": "en/7/128470",
+    "id": "128470",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic engines and motors",
+    "harm": {
+      "id": "0014854",
+      "title": "128470 - Hydraulic engines and motors",
+      "conceptLink": "/ec2/concept/5965057"
+    }
+  },
+  {
+    "uri": "en/7/322531",
+    "id": "322531",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic excavators",
+    "harm": {
+      "id": "0024586",
+      "title": "322531 - Hydraulic excavators",
+      "conceptLink": "/ec2/concept/5973965"
+    }
+  },
+  {
+    "uri": "en/7/322545",
+    "id": "322545",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic hammers",
+    "harm": {
+      "id": "0030335",
+      "title": "322545 - Hydraulic hammers",
+      "conceptLink": "/ec2/concept/5979234"
+    }
+  },
+  {
+    "uri": "en/7/120895442",
+    "id": "120895442",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic hoists",
+    "harm": {
+      "id": "0050790",
+      "title": "120895442 - Hydraulic hoists",
+      "conceptLink": "/ec2/concept/5996154"
+    }
+  },
+  {
+    "uri": "en/7/136010954",
+    "id": "136010954",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Hydraulic intensifiers being parts of machines",
+    "harm": {
+      "id": "0055142",
+      "title": "136010954 - Hydraulic intensifiers being parts of machines",
+      "conceptLink": "/ec2/concept/5996581"
+    }
+  }
+]

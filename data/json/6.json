@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/376756",
+    "id": "376756",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteria for waste water treatment",
+    "harm": {
+      "id": "0044129",
+      "title": "376756 - Bacteria for waste water treatment",
+      "conceptLink": "/ec2/concept/5991800"
+    }
+  },
+  {
+    "uri": "en/1/22203514",
+    "id": "22203514",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteria for water treatment",
+    "harm": {
+      "id": "0072872",
+      "title": "22203514 - Bacteria for water treatment",
+      "conceptLink": "/ec2/concept/6009047"
+    }
+  },
+  {
+    "uri": "en/1/619716",
+    "id": "619716",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteria [other than for medical or veterinary purposes]",
+    "harm": {
+      "id": "0008664",
+      "title": "619716 - Bacteria [other than for medical or veterinary purposes]",
+      "conceptLink": "/ec2/concept/5959374"
+    }
+  },
+  {
+    "uri": "en/1/900819",
+    "id": "900819",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial cultures for addition to food products",
+    "harm": {
+      "id": "0015394",
+      "title": "900819 - Bacterial cultures for addition to food products",
+      "conceptLink": "/ec2/concept/5965550"
+    }
+  },
+  {
+    "uri": "en/1/137543697",
+    "id": "137543697",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial cultures for the food industry",
+    "harm": {
+      "id": "0015394",
+      "title": "137543697 - Bacterial cultures for the food industry",
+      "conceptLink": "/ec2/concept/5965550"
+    }
+  },
+  {
+    "uri": "en/1/136147261",
+    "id": "136147261",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial cultures for wastewater treatment",
+    "harm": {
+      "id": "0050520",
+      "title": "136147261 - Bacterial cultures for wastewater treatment",
+      "conceptLink": "/ec2/concept/5995889"
+    }
+  },
+  {
+    "uri": "en/1/619775",
+    "id": "619775",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations for use in horticulture",
+    "harm": {
+      "id": "0008666",
+      "title": "619775 - Bacterial preparations for use in horticulture",
+      "conceptLink": "/ec2/concept/5959376"
+    }
+  },
+  {
+    "uri": "en/1/619762",
+    "id": "619762",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations for use in forestry",
+    "harm": {
+      "id": "0008665",
+      "title": "619762 - Bacterial preparations for use in forestry",
+      "conceptLink": "/ec2/concept/5959375"
+    }
+  },
+  {
+    "uri": "en/1/619746",
+    "id": "619746",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations for use in agriculture",
+    "harm": {
+      "id": "0031821",
+      "title": "619746 - Bacterial preparations for use in agriculture",
+      "conceptLink": "/ec2/concept/5980579"
+    }
+  },
+  {
+    "uri": "en/1/137871345",
+    "id": "137871345",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations for the food industry",
+    "harm": {
+      "id": "0073616",
+      "title": "137871345 - Bacterial preparations for the food industry",
+      "conceptLink": "/ec2/concept/6009788"
+    }
+  },
+  {
+    "uri": "en/1/6256806",
+    "id": "6256806",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations other than for medical or veterinary use",
+    "harm": {
+      "id": "0010266",
+      "title": "6256806 - Bacterial preparations other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5960847"
+    }
+  },
+  {
+    "uri": "en/1/19841",
+    "id": "19841",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations other than for medical and veterinary use",
+    "harm": {
+      "id": "0010266",
+      "title": "19841 - Bacterial preparations other than for medical and veterinary use",
+      "conceptLink": "/ec2/concept/5960847"
+    }
+  },
+  {
+    "uri": "en/1/233464681",
+    "id": "233464681",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial preparations, other than for medical and veterinary use",
+    "harm": {
+      "id": "0010266",
+      "title": "233464681 - Bacterial preparations, other than for medical and veterinary use",
+      "conceptLink": "/ec2/concept/5960847"
+    }
+  },
+  {
+    "uri": "en/1/619788",
+    "id": "619788",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial products [other than for medical and veterinary use]",
+    "harm": {
+      "id": "0043375",
+      "title": "619788 - Bacterial products [other than for medical and veterinary use]",
+      "conceptLink": "/ec2/concept/5991104"
+    }
+  },
+  {
+    "uri": "en/1/619820",
+    "id": "619820",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial substances for scientific use",
+    "harm": {
+      "id": "0017611",
+      "title": "619820 - Bacterial substances for scientific use",
+      "conceptLink": "/ec2/concept/5967573"
+    }
+  },
+  {
+    "uri": "en/1/619804",
+    "id": "619804",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacterial substances for industrial use",
+    "harm": {
+      "id": "0029173",
+      "title": "619804 - Bacterial substances for industrial use",
+      "conceptLink": "/ec2/concept/5978172"
+    }
+  },
+  {
+    "uri": "en/1/619836",
+    "id": "619836",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bactericidal preparations [other than for medical and veterinary use]",
+    "harm": {
+      "id": "0029174",
+      "title": "619836 - Bactericidal preparations [other than for medical and veterinary use]",
+      "conceptLink": "/ec2/concept/5978173"
+    }
+  },
+  {
+    "uri": "en/1/3942",
+    "id": "3942",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bactericides (Oenological -) [chemical preparations used in wine making]",
+    "harm": {
+      "id": "0000418",
+      "title": "3942 - Bactericides (Oenological -) [chemical preparations used in wine making]",
+      "conceptLink": "/ec2/concept/5951864"
+    }
+  },
+  {
+    "uri": "en/1/619849",
+    "id": "619849",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bactericides [other than for medical and veterinary use]",
+    "harm": {
+      "id": "0000289",
+      "title": "619849 - Bactericides [other than for medical and veterinary use]",
+      "conceptLink": "/ec2/concept/5951753"
+    }
+  },
+  {
+    "uri": "en/1/619864",
+    "id": "619864",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological cultures [other than for medical and veterinary use]",
+    "harm": {
+      "id": "0000290",
+      "title": "619864 - Bacteriological cultures [other than for medical and veterinary use]",
+      "conceptLink": "/ec2/concept/5951754"
+    }
+  },
+  {
+    "uri": "en/1/619880",
+    "id": "619880",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations for use in agriculture",
+    "harm": {
+      "id": "0034948",
+      "title": "619880 - Bacteriological preparations for use in agriculture",
+      "conceptLink": "/ec2/concept/5983429"
+    }
+  },
+  {
+    "uri": "en/1/619892",
+    "id": "619892",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations for use in forestry",
+    "harm": {
+      "id": "0029175",
+      "title": "619892 - Bacteriological preparations for use in forestry",
+      "conceptLink": "/ec2/concept/5978174"
+    }
+  },
+  {
+    "uri": "en/1/619905",
+    "id": "619905",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations for use in horticulture",
+    "harm": {
+      "id": "0000291",
+      "title": "619905 - Bacteriological preparations for use in horticulture",
+      "conceptLink": "/ec2/concept/5951755"
+    }
+  },
+  {
+    "uri": "en/1/233464704",
+    "id": "233464704",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations, other than for medical and veterinary use",
+    "harm": {
+      "id": "0039194",
+      "title": "233464704 - Bacteriological preparations, other than for medical and veterinary use",
+      "conceptLink": "/ec2/concept/5987290"
+    }
+  },
+  {
+    "uri": "en/1/451",
+    "id": "451",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations for acetification",
+    "harm": {
+      "id": "0038666",
+      "title": "451 - Bacteriological preparations for acetification",
+      "conceptLink": "/ec2/concept/5986816"
+    }
+  },
+  {
+    "uri": "en/1/19862",
+    "id": "19862",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bacteriological preparations other than for medical and veterinary use",
+    "harm": {
+      "id": "0039194",
+      "title": "19862 - Bacteriological preparations other than for medical and veterinary use",
+      "conceptLink": "/ec2/concept/5987290"
+    }
+  },
+  {
+    "uri": "en/1/132744966",
+    "id": "132744966",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bagasse pulp for use in the manufacture of paper",
+    "harm": {
+      "id": "0055215",
+      "title": "132744966 - Bagasse pulp for use in the manufacture of paper",
+      "conceptLink": "/ec2/concept/5996647"
+    }
+  },
+  {
+    "uri": "en/1/12562",
+    "id": "12562",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Balm of gurjun [gurjon, gurjan] for making varnish",
+    "harm": {
+      "id": "0012102",
+      "title": "12562 - Balm of gurjun [gurjon, gurjan] for making varnish",
+      "conceptLink": "/ec2/concept/5962541"
+    }
+  },
+  {
+    "uri": "en/1/919",
+    "id": "919",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bandages (Adhesive preparations for surgical -)",
+    "harm": {
+      "id": "0033518",
+      "title": "919 - Bandages (Adhesive preparations for surgical -)",
+      "conceptLink": "/ec2/concept/5982132"
+    }
+  },
+  {
+    "uri": "en/1/112976587",
+    "id": "112976587",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barite",
+    "harm": {
+      "id": "0015607",
+      "title": "112976587 - Barite",
+      "conceptLink": "/ec2/concept/5965747"
+    }
+  },
+  {
+    "uri": "en/1/4174",
+    "id": "4174",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium",
+    "harm": {
+      "id": "0007149",
+      "title": "4174 - Barium",
+      "conceptLink": "/ec2/concept/5957997"
+    }
+  },
+  {
+    "uri": "en/1/234033957",
+    "id": "234033957",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium carbonate",
+    "harm": {
+      "id": "0020575",
+      "title": "234033957 - Barium carbonate",
+      "conceptLink": "/ec2/concept/5970282"
+    }
+  },
+  {
+    "uri": "en/1/309020",
+    "id": "309020",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium chloride",
+    "harm": {
+      "id": "0009711",
+      "title": "309020 - Barium chloride",
+      "conceptLink": "/ec2/concept/5960348"
+    }
+  },
+  {
+    "uri": "en/1/4244",
+    "id": "4244",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium compounds",
+    "harm": {
+      "id": "0024543",
+      "title": "4244 - Barium compounds",
+      "conceptLink": "/ec2/concept/5973922"
+    }
+  },
+  {
+    "uri": "en/1/309033",
+    "id": "309033",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium hydroxide",
+    "harm": {
+      "id": "0038606",
+      "title": "309033 - Barium hydroxide",
+      "conceptLink": "/ec2/concept/5986762"
+    }
+  },
+  {
+    "uri": "en/1/309046",
+    "id": "309046",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium nitrate",
+    "harm": {
+      "id": "0003950",
+      "title": "309046 - Barium nitrate",
+      "conceptLink": "/ec2/concept/5955066"
+    }
+  },
+  {
+    "uri": "en/1/309059",
+    "id": "309059",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium nitrite",
+    "harm": {
+      "id": "0003950",
+      "title": "309059 - Barium nitrite",
+      "conceptLink": "/ec2/concept/5955066"
+    }
+  },
+  {
+    "uri": "en/1/619918",
+    "id": "619918",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium paper",
+    "harm": {
+      "id": "0040747",
+      "title": "619918 - Barium paper",
+      "conceptLink": "/ec2/concept/5988716"
+    }
+  },
+  {
+    "uri": "en/1/309071",
+    "id": "309071",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium peroxides",
+    "harm": {
+      "id": "0038608",
+      "title": "309071 - Barium peroxides",
+      "conceptLink": "/ec2/concept/5986763"
+    }
+  },
+  {
+    "uri": "en/1/900875",
+    "id": "900875",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium phosphate",
+    "harm": {
+      "id": "0027987",
+      "title": "900875 - Barium phosphate",
+      "conceptLink": "/ec2/concept/5977071"
+    }
+  },
+  {
+    "uri": "en/1/119698149",
+    "id": "119698149",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium sulfate",
+    "harm": {
+      "id": "0041984",
+      "title": "119698149 - Barium sulfate",
+      "conceptLink": "/ec2/concept/5989842"
+    }
+  },
+  {
+    "uri": "en/1/19186",
+    "id": "19186",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium sulphate",
+    "harm": {
+      "id": "0041984",
+      "title": "19186 - Barium sulphate",
+      "conceptLink": "/ec2/concept/5989842"
+    }
+  },
+  {
+    "uri": "en/1/309084",
+    "id": "309084",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barium sulphide",
+    "harm": {
+      "id": "0032810",
+      "title": "309084 - Barium sulphide",
+      "conceptLink": "/ec2/concept/5981481"
+    }
+  },
+  {
+    "uri": "en/1/4196",
+    "id": "4196",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Baryta",
+    "harm": {
+      "id": "0036100",
+      "title": "4196 - Baryta",
+      "conceptLink": "/ec2/concept/5984474"
+    }
+  },
+  {
+    "uri": "en/1/4219",
+    "id": "4219",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Baryta paper",
+    "harm": {
+      "id": "0040747",
+      "title": "4219 - Baryta paper",
+      "conceptLink": "/ec2/concept/5988716"
+    }
+  },
+  {
+    "uri": "en/1/17113",
+    "id": "17113",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barytes",
+    "harm": {
+      "id": "0015607",
+      "title": "17113 - Barytes",
+      "conceptLink": "/ec2/concept/5965747"
+    }
+  },
+  {
+    "uri": "en/1/500984",
+    "id": "500984",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Barytes (barite, heavy spar)",
+    "harm": {
+      "id": "0015607",
+      "title": "500984 - Barytes (barite, heavy spar)",
+      "conceptLink": "/ec2/concept/5965747"
+    }
+  },
+  {
+    "uri": "en/1/619931",
+    "id": "619931",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Base papers for diazo copying",
+    "harm": {
+      "id": "0040748",
+      "title": "619931 - Base papers for diazo copying",
+      "conceptLink": "/ec2/concept/5988717"
+    }
+  },
+  {
+    "uri": "en/1/4321",
+    "id": "4321",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bases [chemical preparations]",
+    "harm": {
+      "id": "0007151",
+      "title": "4321 - Bases [chemical preparations]",
+      "conceptLink": "/ec2/concept/5957998"
+    }
+  },
+  {
+    "uri": "en/1/4969",
+    "id": "4969",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Basic gallate of bismuth",
+    "harm": {
+      "id": "0040562",
+      "title": "4969 - Basic gallate of bismuth",
+      "conceptLink": "/ec2/concept/5988542"
+    }
+  },
+  {
+    "uri": "en/1/119683324",
+    "id": "119683324",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bast pulp",
+    "harm": {
+      "id": "0055216",
+      "title": "119683324 - Bast pulp",
+      "conceptLink": "/ec2/concept/5996648"
+    }
+  },
+  {
+    "uri": "en/1/7800",
+    "id": "7800",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bate for dressing skins",
+    "harm": {
+      "id": "0040673",
+      "title": "7800 - Bate for dressing skins",
+      "conceptLink": "/ec2/concept/5988651"
+    }
+  },
+  {
+    "uri": "en/1/4013",
+    "id": "4013",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Baths (Fixing -) [photography]",
+    "harm": {
+      "id": "0034949",
+      "title": "4013 - Baths (Fixing -) [photography]",
+      "conceptLink": "/ec2/concept/5983430"
+    }
+  },
+  {
+    "uri": "en/1/4054",
+    "id": "4054",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Baths for galvanizing",
+    "harm": {
+      "id": "0018153",
+      "title": "4054 - Baths for galvanizing",
+      "conceptLink": "/ec2/concept/5968073"
+    }
+  },
+  {
+    "uri": "en/1/4095",
+    "id": "4095",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Baths (Toning -) [photography]",
+    "harm": {
+      "id": "0023459",
+      "title": "4095 - Baths (Toning -) [photography]",
+      "conceptLink": "/ec2/concept/5972926"
+    }
+  },
+  {
+    "uri": "en/1/9506",
+    "id": "9506",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Batteries (Acidulated water for recharging -)",
+    "harm": {
+      "id": "0000292",
+      "title": "9506 - Batteries (Acidulated water for recharging -)",
+      "conceptLink": "/ec2/concept/5951756"
+    }
+  },
+  {
+    "uri": "en/1/363",
+    "id": "363",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Batteries (Anti-frothing solutions for -)",
+    "harm": {
+      "id": "0008219",
+      "title": "363 - Batteries (Anti-frothing solutions for -)",
+      "conceptLink": "/ec2/concept/5958976"
+    }
+  },
+  {
+    "uri": "en/1/17233",
+    "id": "17233",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Batteries (Liquids for removing sulphates from -)",
+    "harm": {
+      "id": "0014108",
+      "title": "17233 - Batteries (Liquids for removing sulphates from -)",
+      "conceptLink": "/ec2/concept/5964368"
+    }
+  },
+  {
+    "uri": "en/1/9874",
+    "id": "9874",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Batteries (Salts for galvanic -)",
+    "harm": {
+      "id": "0019935",
+      "title": "9874 - Batteries (Salts for galvanic -)",
+      "conceptLink": "/ec2/concept/5969699"
+    }
+  },
+  {
+    "uri": "en/1/119620411",
+    "id": "119620411",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Battery anti-sulphurizing agents",
+    "harm": {
+      "id": "0055217",
+      "title": "119620411 - Battery anti-sulphurizing agents",
+      "conceptLink": "/ec2/concept/5996649"
+    }
+  },
+  {
+    "uri": "en/1/376768",
+    "id": "376768",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Battery electrolytes",
+    "harm": {
+      "id": "0021162",
+      "title": "376768 - Battery electrolytes",
+      "conceptLink": "/ec2/concept/5970829"
+    }
+  },
+  {
+    "uri": "en/1/619943",
+    "id": "619943",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Battery fluid [acidulated water]",
+    "harm": {
+      "id": "0014109",
+      "title": "619943 - Battery fluid [acidulated water]",
+      "conceptLink": "/ec2/concept/5964369"
+    }
+  },
+  {
+    "uri": "en/1/4375",
+    "id": "4375",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bauxite",
+    "harm": {
+      "id": "0024544",
+      "title": "4375 - Bauxite",
+      "conceptLink": "/ec2/concept/5973923"
+    }
+  },
+  {
+    "uri": "en/1/4823",
+    "id": "4823",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Beer-clarifying and preserving agents",
+    "harm": {
+      "id": "0040349",
+      "title": "4823 - Beer-clarifying and preserving agents",
+      "conceptLink": "/ec2/concept/5988353"
+    }
+  },
+  {
+    "uri": "en/1/20621",
+    "id": "20621",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Beer preserving agents",
+    "harm": {
+      "id": "0026153",
+      "title": "20621 - Beer preserving agents",
+      "conceptLink": "/ec2/concept/5975403"
+    }
+  },
+  {
+    "uri": "en/1/4396",
+    "id": "4396",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bentonite",
+    "harm": {
+      "id": "0041862",
+      "title": "4396 - Bentonite",
+      "conceptLink": "/ec2/concept/5989727"
+    }
+  },
+  {
+    "uri": "en/1/309097",
+    "id": "309097",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzaldehyde",
+    "harm": {
+      "id": "0010282",
+      "title": "309097 - Benzaldehyde",
+      "conceptLink": "/ec2/concept/5960862"
+    }
+  },
+  {
+    "uri": "en/1/233467265",
+    "id": "233467265",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzene",
+    "harm": {
+      "id": "0052260",
+      "title": "233467265 - Benzene",
+      "conceptLink": "/ec2/concept/6011160"
+    }
+  },
+  {
+    "uri": "en/1/4420",
+    "id": "4420",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzene-based acids",
+    "harm": {
+      "id": "0036101",
+      "title": "4420 - Benzene-based acids",
+      "conceptLink": "/ec2/concept/5984475"
+    }
+  },
+  {
+    "uri": "en/1/4441",
+    "id": "4441",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzene derivatives",
+    "harm": {
+      "id": "0018792",
+      "title": "4441 - Benzene derivatives",
+      "conceptLink": "/ec2/concept/5968669"
+    }
+  },
+  {
+    "uri": "en/1/19295",
+    "id": "19295",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzene (Methyl -)",
+    "harm": {
+      "id": "0058026",
+      "title": "19295 - Benzene (Methyl -)",
+      "conceptLink": "/ec2/concept/5999530"
+    }
+  },
+  {
+    "uri": "en/1/119618545",
+    "id": "119618545",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzidine",
+    "harm": {
+      "id": "0055218",
+      "title": "119618545 - Benzidine",
+      "conceptLink": "/ec2/concept/5996650"
+    }
+  },
+  {
+    "uri": "en/1/119620136",
+    "id": "119620136",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzidine sulphate",
+    "harm": {
+      "id": "0055219",
+      "title": "119620136 - Benzidine sulphate",
+      "conceptLink": "/ec2/concept/5996651"
+    }
+  },
+  {
+    "uri": "en/1/4462",
+    "id": "4462",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzoic acid",
+    "harm": {
+      "id": "0014197",
+      "title": "4462 - Benzoic acid",
+      "conceptLink": "/ec2/concept/5964455"
+    }
+  },
+  {
+    "uri": "en/1/132823294",
+    "id": "132823294",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzoic sulfimide",
+    "harm": {
+      "id": "0008318",
+      "title": "132823294 - Benzoic sulfimide",
+      "conceptLink": "/ec2/concept/5959066"
+    }
+  },
+  {
+    "uri": "en/1/4485",
+    "id": "4485",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzoic sulphinide",
+    "harm": {
+      "id": "0008318",
+      "title": "4485 - Benzoic sulphinide",
+      "conceptLink": "/ec2/concept/5959066"
+    }
+  },
+  {
+    "uri": "en/1/233467288",
+    "id": "233467288",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzol",
+    "harm": {
+      "id": "0052261",
+      "title": "233467288 - Benzol",
+      "conceptLink": "/ec2/concept/6011161"
+    }
+  },
+  {
+    "uri": "en/1/19252",
+    "id": "19252",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzol (Methyl -)",
+    "harm": {
+      "id": "0058025",
+      "title": "19252 - Benzol (Methyl -)",
+      "conceptLink": "/ec2/concept/5999529"
+    }
+  },
+  {
+    "uri": "en/1/309109",
+    "id": "309109",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzophenone",
+    "harm": {
+      "id": "0022028",
+      "title": "309109 - Benzophenone",
+      "conceptLink": "/ec2/concept/5971618"
+    }
+  },
+  {
+    "uri": "en/1/309122",
+    "id": "309122",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzyl alcohol",
+    "harm": {
+      "id": "0039200",
+      "title": "309122 - Benzyl alcohol",
+      "conceptLink": "/ec2/concept/5987296"
+    }
+  },
+  {
+    "uri": "en/1/309135",
+    "id": "309135",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzyl chloride",
+    "harm": {
+      "id": "0033400",
+      "title": "309135 - Benzyl chloride",
+      "conceptLink": "/ec2/concept/5982024"
+    }
+  },
+  {
+    "uri": "en/1/309148",
+    "id": "309148",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Benzyl ether",
+    "harm": {
+      "id": "0022029",
+      "title": "309148 - Benzyl ether",
+      "conceptLink": "/ec2/concept/5971619"
+    }
+  },
+  {
+    "uri": "en/1/4532",
+    "id": "4532",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Berkelium",
+    "harm": {
+      "id": "0020027",
+      "title": "4532 - Berkelium",
+      "conceptLink": "/ec2/concept/5969783"
+    }
+  },
+  {
+    "uri": "en/1/137766866",
+    "id": "137766866",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Betaines for use in manufacture",
+    "harm": {
+      "id": "0073397",
+      "title": "137766866 - Betaines for use in manufacture",
+      "conceptLink": "/ec2/concept/6009570"
+    }
+  },
+  {
+    "uri": "en/1/19324",
+    "id": "19324",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bicarbonate of soda for chemical purposes",
+    "harm": {
+      "id": "0014459",
+      "title": "19324 - Bicarbonate of soda for chemical purposes",
+      "conceptLink": "/ec2/concept/5964699"
+    }
+  },
+  {
+    "uri": "en/1/4738",
+    "id": "4738",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bichloride of tin",
+    "harm": {
+      "id": "0024381",
+      "title": "4738 - Bichloride of tin",
+      "conceptLink": "/ec2/concept/5973776"
+    }
+  },
+  {
+    "uri": "en/1/4772",
+    "id": "4772",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bichromate of potassium",
+    "harm": {
+      "id": "0040348",
+      "title": "4772 - Bichromate of potassium",
+      "conceptLink": "/ec2/concept/5988352"
+    }
+  },
+  {
+    "uri": "en/1/4797",
+    "id": "4797",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bichromate of soda",
+    "harm": {
+      "id": "0032294",
+      "title": "4797 - Bichromate of soda",
+      "conceptLink": "/ec2/concept/5981009"
+    }
+  },
+  {
+    "uri": "en/1/1236",
+    "id": "1236",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Billposting (Adhesives for -)",
+    "harm": {
+      "id": "0011788",
+      "title": "1236 - Billposting (Adhesives for -)",
+      "conceptLink": "/ec2/concept/5962247"
+    }
+  },
+  {
+    "uri": "en/1/892411",
+    "id": "892411",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binders for investment casting",
+    "harm": {
+      "id": "0018090",
+      "title": "892411 - Binders for investment casting",
+      "conceptLink": "/ec2/concept/5968014"
+    }
+  },
+  {
+    "uri": "en/1/619958",
+    "id": "619958",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binders for use in the formulation of caulks",
+    "harm": {
+      "id": "0037234",
+      "title": "619958 - Binders for use in the formulation of caulks",
+      "conceptLink": "/ec2/concept/5985500"
+    }
+  },
+  {
+    "uri": "en/1/619971",
+    "id": "619971",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binders for use in the formulation of sealants",
+    "harm": {
+      "id": "0042970",
+      "title": "619971 - Binders for use in the formulation of sealants",
+      "conceptLink": "/ec2/concept/5990734"
+    }
+  },
+  {
+    "uri": "en/1/488218",
+    "id": "488218",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binding agents for chipboard",
+    "harm": {
+      "id": "0003877",
+      "title": "488218 - Binding agents for chipboard",
+      "conceptLink": "/ec2/concept/5955000"
+    }
+  },
+  {
+    "uri": "en/1/619984",
+    "id": "619984",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binding agents for flock-printing",
+    "harm": {
+      "id": "0031372",
+      "title": "619984 - Binding agents for flock-printing",
+      "conceptLink": "/ec2/concept/5980184"
+    }
+  },
+  {
+    "uri": "en/1/619996",
+    "id": "619996",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binding chemicals for concrete",
+    "harm": {
+      "id": "0042971",
+      "title": "619996 - Binding chemicals for concrete",
+      "conceptLink": "/ec2/concept/5990735"
+    }
+  },
+  {
+    "uri": "en/1/620010",
+    "id": "620010",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binding substances for industrial use",
+    "harm": {
+      "id": "0031373",
+      "title": "620010 - Binding substances for industrial use",
+      "conceptLink": "/ec2/concept/5980185"
+    }
+  },
+  {
+    "uri": "en/1/11375",
+    "id": "11375",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Binding substances (Foundry -)",
+    "harm": {
+      "id": "0011568",
+      "title": "11375 - Binding substances (Foundry -)",
+      "conceptLink": "/ec2/concept/5962041"
+    }
+  },
+  {
+    "uri": "en/1/234033958",
+    "id": "234033958",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bio-fertilizer",
+    "harm": {
+      "id": "0073558",
+      "title": "234033958 - Bio-fertilizer",
+      "conceptLink": "/ec2/concept/6009731"
+    }
+  },
+  {
+    "uri": "en/1/4845",
+    "id": "4845",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemical catalysts",
+    "harm": {
+      "id": "0003683",
+      "title": "4845 - Biochemical catalysts",
+      "conceptLink": "/ec2/concept/5954821"
+    }
+  },
+  {
+    "uri": "en/1/137871303",
+    "id": "137871303",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemical precursors for scientific purposes",
+    "harm": {
+      "id": "0073615",
+      "title": "137871303 - Biochemical precursors for scientific purposes",
+      "conceptLink": "/ec2/concept/6009787"
+    }
+  }
+]

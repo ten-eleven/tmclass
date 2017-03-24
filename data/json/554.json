@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/30/295521",
+    "id": "295521",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake mixes",
+    "harm": {
+      "id": "0057513",
+      "title": "295521 - Cake mixes",
+      "conceptLink": "/ec2/concept/5999019"
+    }
+  },
+  {
+    "uri": "en/30/295522",
+    "id": "295522",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake mixtures",
+    "harm": {
+      "id": "0057513",
+      "title": "295522 - Cake mixtures",
+      "conceptLink": "/ec2/concept/5999019"
+    }
+  },
+  {
+    "uri": "en/30/295518",
+    "id": "295518",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake powder",
+    "harm": {
+      "id": "0057512",
+      "title": "295518 - Cake powder",
+      "conceptLink": "/ec2/concept/5999018"
+    }
+  },
+  {
+    "uri": "en/30/779169",
+    "id": "779169",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cake preparations",
+    "harm": {
+      "id": "0057513",
+      "title": "779169 - Cake preparations",
+      "conceptLink": "/ec2/concept/5999019"
+    }
+  },
+  {
+    "uri": "en/30/293630",
+    "id": "293630",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cakes",
+    "harm": {
+      "id": "0059484",
+      "title": "293630 - Cakes",
+      "conceptLink": "/ec2/concept/6000960"
+    }
+  },
+  {
+    "uri": "en/30/295436",
+    "id": "295436",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cakes (Flavorings [flavourings], other than essential oils, for -)",
+    "harm": {
+      "id": "0023877",
+      "title": "295436 - Cakes (Flavorings [flavourings], other than essential oils, for -)",
+      "conceptLink": "/ec2/concept/5973310"
+    }
+  },
+  {
+    "uri": "en/30/503415",
+    "id": "503415",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cakes of sugar-bounded millet or popped rice (okoshi)",
+    "harm": {
+      "id": "0021285",
+      "title": "503415 - Cakes of sugar-bounded millet or popped rice (okoshi)",
+      "conceptLink": "/ec2/concept/5970937"
+    }
+  },
+  {
+    "uri": "en/30/299366",
+    "id": "299366",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cakes (Rice -)",
+    "harm": {
+      "id": "0046929",
+      "title": "299366 - Cakes (Rice -)",
+      "conceptLink": "/ec2/concept/5994318"
+    }
+  },
+  {
+    "uri": "en/30/901457",
+    "id": "901457",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Calzones",
+    "harm": {
+      "id": "0022431",
+      "title": "901457 - Calzones",
+      "conceptLink": "/ec2/concept/5971986"
+    }
+  },
+  {
+    "uri": "en/30/779184",
+    "id": "779184",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Canapes",
+    "harm": {
+      "id": "0019833",
+      "title": "779184 - Canapes",
+      "conceptLink": "/ec2/concept/5969607"
+    }
+  },
+  {
+    "uri": "en/30/125195375",
+    "id": "125195375",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candies (Non-medicated -)",
+    "harm": {
+      "id": "0047003",
+      "title": "125195375 - Candies (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5994384"
+    }
+  },
+  {
+    "uri": "en/30/125004636",
+    "id": "125004636",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candies (Non-medicated -) with honey",
+    "harm": {
+      "id": "0015060",
+      "title": "125004636 - Candies (Non-medicated -) with honey",
+      "conceptLink": "/ec2/concept/5965243"
+    }
+  },
+  {
+    "uri": "en/30/125004621",
+    "id": "125004621",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candies (Non-medicated -) with alcohol",
+    "harm": {
+      "id": "0032313",
+      "title": "125004621 - Candies (Non-medicated -) with alcohol",
+      "conceptLink": "/ec2/concept/5981027"
+    }
+  },
+  {
+    "uri": "en/30/125004652",
+    "id": "125004652",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candies (Non-medicated -) with mint",
+    "harm": {
+      "id": "0039797",
+      "title": "125004652 - Candies (Non-medicated -) with mint",
+      "conceptLink": "/ec2/concept/5987845"
+    }
+  },
+  {
+    "uri": "en/30/293080",
+    "id": "293080",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candies [sweets]",
+    "harm": {
+      "id": "0070199",
+      "title": "293080 - Candies [sweets]",
+      "conceptLink": "/ec2/concept/6006393"
+    }
+  },
+  {
+    "uri": "en/30/293084",
+    "id": "293084",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy",
+    "harm": {
+      "id": "0070199",
+      "title": "293084 - Candy",
+      "conceptLink": "/ec2/concept/6006393"
+    }
+  },
+  {
+    "uri": "en/30/359531",
+    "id": "359531",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy bars",
+    "harm": {
+      "id": "0046610",
+      "title": "359531 - Candy bars",
+      "conceptLink": "/ec2/concept/5994036"
+    }
+  },
+  {
+    "uri": "en/30/779336",
+    "id": "779336",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy cake",
+    "harm": {
+      "id": "0032314",
+      "title": "779336 - Candy cake",
+      "conceptLink": "/ec2/concept/5981028"
+    }
+  },
+  {
+    "uri": "en/30/439668",
+    "id": "439668",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy cake decorations",
+    "harm": {
+      "id": "0031256",
+      "title": "439668 - Candy cake decorations",
+      "conceptLink": "/ec2/concept/5980080"
+    }
+  },
+  {
+    "uri": "en/30/132784987",
+    "id": "132784987",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy-coated apples",
+    "harm": {
+      "id": "0067631",
+      "title": "132784987 - Candy-coated apples",
+      "conceptLink": "/ec2/concept/6003834"
+    }
+  },
+  {
+    "uri": "en/30/94375380",
+    "id": "94375380",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy coated apples",
+    "harm": {
+      "id": "0067631",
+      "title": "94375380 - Candy coated apples",
+      "conceptLink": "/ec2/concept/6003834"
+    }
+  },
+  {
+    "uri": "en/30/779357",
+    "id": "779357",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy coated confections",
+    "harm": {
+      "id": "0000936",
+      "title": "779357 - Candy coated confections",
+      "conceptLink": "/ec2/concept/5952330"
+    }
+  },
+  {
+    "uri": "en/30/132784927",
+    "id": "132784927",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy-coated popcorn",
+    "harm": {
+      "id": "0014908",
+      "title": "132784927 - Candy-coated popcorn",
+      "conceptLink": "/ec2/concept/5965105"
+    }
+  },
+  {
+    "uri": "en/30/439696",
+    "id": "439696",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy coated popcorn",
+    "harm": {
+      "id": "0014908",
+      "title": "439696 - Candy coated popcorn",
+      "conceptLink": "/ec2/concept/5965105"
+    }
+  },
+  {
+    "uri": "en/30/439669",
+    "id": "439669",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy decorations for cakes",
+    "harm": {
+      "id": "0031256",
+      "title": "439669 - Candy decorations for cakes",
+      "conceptLink": "/ec2/concept/5980080"
+    }
+  },
+  {
+    "uri": "en/30/292990",
+    "id": "292990",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy mints",
+    "harm": {
+      "id": "0057831",
+      "title": "292990 - Candy mints",
+      "conceptLink": "/ec2/concept/5999335"
+    }
+  },
+  {
+    "uri": "en/30/125195373",
+    "id": "125195373",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy (Non-medicated -)",
+    "harm": {
+      "id": "0047003",
+      "title": "125195373 - Candy (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5994384"
+    }
+  },
+  {
+    "uri": "en/30/779387",
+    "id": "779387",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy, other than for medical purposes",
+    "harm": {
+      "id": "0047003",
+      "title": "779387 - Candy, other than for medical purposes",
+      "conceptLink": "/ec2/concept/5994384"
+    }
+  },
+  {
+    "uri": "en/30/293088",
+    "id": "293088",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy [sugar]",
+    "harm": {
+      "id": "0070199",
+      "title": "293088 - Candy [sugar]",
+      "conceptLink": "/ec2/concept/6006393"
+    }
+  },
+  {
+    "uri": "en/30/293793",
+    "id": "293793",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy with caramel",
+    "harm": {
+      "id": "0046443",
+      "title": "293793 - Candy with caramel",
+      "conceptLink": "/ec2/concept/5993894"
+    }
+  },
+  {
+    "uri": "en/30/359477",
+    "id": "359477",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Candy with cocoa",
+    "harm": {
+      "id": "0019280",
+      "title": "359477 - Candy with cocoa",
+      "conceptLink": "/ec2/concept/5969110"
+    }
+  },
+  {
+    "uri": "en/30/889960",
+    "id": "889960",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Canned pasta foods",
+    "harm": {
+      "id": "0010878",
+      "title": "889960 - Canned pasta foods",
+      "conceptLink": "/ec2/concept/5961412"
+    }
+  },
+  {
+    "uri": "en/30/779402",
+    "id": "779402",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Canned sauces",
+    "harm": {
+      "id": "0015061",
+      "title": "779402 - Canned sauces",
+      "conceptLink": "/ec2/concept/5965244"
+    }
+  },
+  {
+    "uri": "en/30/779418",
+    "id": "779418",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Canned spaghetti in tomato sauce",
+    "harm": {
+      "id": "0020900",
+      "title": "779418 - Canned spaghetti in tomato sauce",
+      "conceptLink": "/ec2/concept/5970588"
+    }
+  },
+  {
+    "uri": "en/30/359496",
+    "id": "359496",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cannelloni",
+    "harm": {
+      "id": "0013451",
+      "title": "359496 - Cannelloni",
+      "conceptLink": "/ec2/concept/5963765"
+    }
+  },
+  {
+    "uri": "en/30/293761",
+    "id": "293761",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Capers",
+    "harm": {
+      "id": "0023277",
+      "title": "293761 - Capers",
+      "conceptLink": "/ec2/concept/5972754"
+    }
+  },
+  {
+    "uri": "en/30/439715",
+    "id": "439715",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cappuccino",
+    "harm": {
+      "id": "0020753",
+      "title": "439715 - Cappuccino",
+      "conceptLink": "/ec2/concept/5970452"
+    }
+  },
+  {
+    "uri": "en/30/293077",
+    "id": "293077",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramel",
+    "harm": {
+      "id": "0046418",
+      "title": "293077 - Caramel",
+      "conceptLink": "/ec2/concept/5993871"
+    }
+  },
+  {
+    "uri": "en/30/132784913",
+    "id": "132784913",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramel-coated popcorn",
+    "harm": {
+      "id": "0003295",
+      "title": "132784913 - Caramel-coated popcorn",
+      "conceptLink": "/ec2/concept/5954464"
+    }
+  },
+  {
+    "uri": "en/30/439734",
+    "id": "439734",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramel coated popcorn",
+    "harm": {
+      "id": "0003295",
+      "title": "439734 - Caramel coated popcorn",
+      "conceptLink": "/ec2/concept/5954464"
+    }
+  },
+  {
+    "uri": "en/30/779430",
+    "id": "779430",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramel coated popcorn with candied nuts",
+    "harm": {
+      "id": "0026561",
+      "title": "779430 - Caramel coated popcorn with candied nuts",
+      "conceptLink": "/ec2/concept/5975772"
+    }
+  },
+  {
+    "uri": "en/30/439733",
+    "id": "439733",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramel popcorn",
+    "harm": {
+      "id": "0003295",
+      "title": "439733 - Caramel popcorn",
+      "conceptLink": "/ec2/concept/5954464"
+    }
+  },
+  {
+    "uri": "en/30/779442",
+    "id": "779442",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramelised sugar",
+    "harm": {
+      "id": "0026562",
+      "title": "779442 - Caramelised sugar",
+      "conceptLink": "/ec2/concept/5975773"
+    }
+  },
+  {
+    "uri": "en/30/293078",
+    "id": "293078",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramels",
+    "harm": {
+      "id": "0046409",
+      "title": "293078 - Caramels",
+      "conceptLink": "/ec2/concept/5993862"
+    }
+  },
+  {
+    "uri": "en/30/293794",
+    "id": "293794",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caramels [candy]",
+    "harm": {
+      "id": "0046409",
+      "title": "293794 - Caramels [candy]",
+      "conceptLink": "/ec2/concept/5993862"
+    }
+  },
+  {
+    "uri": "en/30/779455",
+    "id": "779455",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Caraway seeds",
+    "harm": {
+      "id": "0045108",
+      "title": "779455 - Caraway seeds",
+      "conceptLink": "/ec2/concept/5992695"
+    }
+  },
+  {
+    "uri": "en/30/882724",
+    "id": "882724",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Carbohydrate-based nutritional drink mix for use as a meal replacement",
+    "harm": {
+      "id": "0015539",
+      "title": "882724 - Carbohydrate-based nutritional drink mix for use as a meal replacement",
+      "conceptLink": "/ec2/concept/5965682"
+    }
+  },
+  {
+    "uri": "en/30/779469",
+    "id": "779469",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Carbohydrate preparations for food",
+    "harm": {
+      "id": "0004765",
+      "title": "779469 - Carbohydrate preparations for food",
+      "conceptLink": "/ec2/concept/5955818"
+    }
+  },
+  {
+    "uri": "en/30/78837710",
+    "id": "78837710",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Castor sugar",
+    "harm": {
+      "id": "0060138",
+      "title": "78837710 - Castor sugar",
+      "conceptLink": "/ec2/concept/5996400"
+    }
+  },
+  {
+    "uri": "en/30/296038",
+    "id": "296038",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Catchup",
+    "harm": {
+      "id": "0058682",
+      "title": "296038 - Catchup",
+      "conceptLink": "/ec2/concept/6000175"
+    }
+  },
+  {
+    "uri": "en/30/296037",
+    "id": "296037",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Catsup",
+    "harm": {
+      "id": "0058682",
+      "title": "296037 - Catsup",
+      "conceptLink": "/ec2/concept/6000175"
+    }
+  },
+  {
+    "uri": "en/30/297486",
+    "id": "297486",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Celery salt",
+    "harm": {
+      "id": "0017790",
+      "title": "297486 - Celery salt",
+      "conceptLink": "/ec2/concept/5967740"
+    }
+  },
+  {
+    "uri": "en/30/779484",
+    "id": "779484",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal bars",
+    "harm": {
+      "id": "0039386",
+      "title": "779484 - Cereal bars",
+      "conceptLink": "/ec2/concept/5987467"
+    }
+  },
+  {
+    "uri": "en/30/131137740",
+    "id": "131137740",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal bars and energy bars",
+    "harm": {
+      "id": "0047958",
+      "title": "131137740 - Cereal bars and energy bars",
+      "conceptLink": "/ec2/concept/5995220"
+    }
+  },
+  {
+    "uri": "en/30/41221738",
+    "id": "41221738",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal based energy bars",
+    "harm": {
+      "id": "0069975",
+      "title": "41221738 - Cereal based energy bars",
+      "conceptLink": "/ec2/concept/6006177"
+    }
+  },
+  {
+    "uri": "en/30/779499",
+    "id": "779499",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal based food bars",
+    "harm": {
+      "id": "0022186",
+      "title": "779499 - Cereal based food bars",
+      "conceptLink": "/ec2/concept/5971763"
+    }
+  },
+  {
+    "uri": "en/30/779514",
+    "id": "779514",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal based foodstuffs for human consumption",
+    "harm": {
+      "id": "0045109",
+      "title": "779514 - Cereal based foodstuffs for human consumption",
+      "conceptLink": "/ec2/concept/5992696"
+    }
+  },
+  {
+    "uri": "en/30/439791",
+    "id": "439791",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal based prepared snack foods",
+    "harm": {
+      "id": "0035677",
+      "title": "439791 - Cereal based prepared snack foods",
+      "conceptLink": "/ec2/concept/5984091"
+    }
+  },
+  {
+    "uri": "en/30/439789",
+    "id": "439789",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal-based snack food",
+    "harm": {
+      "id": "0035677",
+      "title": "439789 - Cereal-based snack food",
+      "conceptLink": "/ec2/concept/5984091"
+    }
+  },
+  {
+    "uri": "en/30/439787",
+    "id": "439787",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal based snack foods",
+    "harm": {
+      "id": "0035677",
+      "title": "439787 - Cereal based snack foods",
+      "conceptLink": "/ec2/concept/5984091"
+    }
+  },
+  {
+    "uri": "en/30/779529",
+    "id": "779529",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal breakfast foods",
+    "harm": {
+      "id": "0046557",
+      "title": "779529 - Cereal breakfast foods",
+      "conceptLink": "/ec2/concept/5993991"
+    }
+  },
+  {
+    "uri": "en/30/779545",
+    "id": "779545",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal cakes for human consumption",
+    "harm": {
+      "id": "0045110",
+      "title": "779545 - Cereal cakes for human consumption",
+      "conceptLink": "/ec2/concept/5992697"
+    }
+  },
+  {
+    "uri": "en/30/779559",
+    "id": "779559",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal flour",
+    "harm": {
+      "id": "0010471",
+      "title": "779559 - Cereal flour",
+      "conceptLink": "/ec2/concept/5961040"
+    }
+  },
+  {
+    "uri": "en/30/779579",
+    "id": "779579",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal powders",
+    "harm": {
+      "id": "0004766",
+      "title": "779579 - Cereal powders",
+      "conceptLink": "/ec2/concept/5955819"
+    }
+  },
+  {
+    "uri": "en/30/293926",
+    "id": "293926",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal preparations",
+    "harm": {
+      "id": "0072436",
+      "title": "293926 - Cereal preparations",
+      "conceptLink": "/ec2/concept/6008616"
+    }
+  },
+  {
+    "uri": "en/30/779592",
+    "id": "779592",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal preparations coated with sugar and honey",
+    "harm": {
+      "id": "0022187",
+      "title": "779592 - Cereal preparations coated with sugar and honey",
+      "conceptLink": "/ec2/concept/5971764"
+    }
+  },
+  {
+    "uri": "en/30/779608",
+    "id": "779608",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal preparations consisting of bran",
+    "harm": {
+      "id": "0027836",
+      "title": "779608 - Cereal preparations consisting of bran",
+      "conceptLink": "/ec2/concept/5976936"
+    }
+  },
+  {
+    "uri": "en/30/779625",
+    "id": "779625",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal preparations consisting of oatbran",
+    "harm": {
+      "id": "0027404",
+      "title": "779625 - Cereal preparations consisting of oatbran",
+      "conceptLink": "/ec2/concept/5976530"
+    }
+  },
+  {
+    "uri": "en/30/779624",
+    "id": "779624",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal preparations containing oatbran",
+    "harm": {
+      "id": "0027404",
+      "title": "779624 - Cereal preparations containing oatbran",
+      "conceptLink": "/ec2/concept/5976530"
+    }
+  },
+  {
+    "uri": "en/30/779644",
+    "id": "779644",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal products in bar form",
+    "harm": {
+      "id": "0021772",
+      "title": "779644 - Cereal products in bar form",
+      "conceptLink": "/ec2/concept/5971379"
+    }
+  },
+  {
+    "uri": "en/30/442727",
+    "id": "442727",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal seeds, processed",
+    "harm": {
+      "id": "0059082",
+      "title": "442727 - Cereal seeds, processed",
+      "conceptLink": "/ec2/concept/6000573"
+    }
+  },
+  {
+    "uri": "en/30/779657",
+    "id": "779657",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal snack foods flavoured with cheese",
+    "harm": {
+      "id": "0044694",
+      "title": "779657 - Cereal snack foods flavoured with cheese",
+      "conceptLink": "/ec2/concept/5992318"
+    }
+  },
+  {
+    "uri": "en/30/439790",
+    "id": "439790",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereal snacks",
+    "harm": {
+      "id": "0035677",
+      "title": "439790 - Cereal snacks",
+      "conceptLink": "/ec2/concept/5984091"
+    }
+  },
+  {
+    "uri": "en/30/2444619",
+    "id": "2444619",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereals",
+    "harm": {
+      "id": "0040558",
+      "title": "2444619 - Cereals",
+      "conceptLink": "/ec2/concept/5988539"
+    }
+  },
+  {
+    "uri": "en/30/779672",
+    "id": "779672",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereals for food for consumption by humans",
+    "harm": {
+      "id": "0044695",
+      "title": "779672 - Cereals for food for consumption by humans",
+      "conceptLink": "/ec2/concept/5992319"
+    }
+  },
+  {
+    "uri": "en/30/779684",
+    "id": "779684",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereals for use in making pasta",
+    "harm": {
+      "id": "0038962",
+      "title": "779684 - Cereals for use in making pasta",
+      "conceptLink": "/ec2/concept/5987077"
+    }
+  },
+  {
+    "uri": "en/30/779697",
+    "id": "779697",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereals prepared for consumption by humans",
+    "harm": {
+      "id": "0044695",
+      "title": "779697 - Cereals prepared for consumption by humans",
+      "conceptLink": "/ec2/concept/5992319"
+    }
+  },
+  {
+    "uri": "en/30/120824095",
+    "id": "120824095",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cereals, processed",
+    "harm": {
+      "id": "0059082",
+      "title": "120824095 - Cereals, processed",
+      "conceptLink": "/ec2/concept/6000573"
+    }
+  },
+  {
+    "uri": "en/30/294038",
+    "id": "294038",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chai tea",
+    "harm": {
+      "id": "0005916",
+      "title": "294038 - Chai tea",
+      "conceptLink": "/ec2/concept/5956870"
+    }
+  },
+  {
+    "uri": "en/30/439890",
+    "id": "439890",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chalupas",
+    "harm": {
+      "id": "0041451",
+      "title": "439890 - Chalupas",
+      "conceptLink": "/ec2/concept/5989355"
+    }
+  },
+  {
+    "uri": "en/30/233624756",
+    "id": "233624756",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chamomile-based beverages",
+    "harm": {
+      "id": "0052160",
+      "title": "233624756 - Chamomile-based beverages",
+      "conceptLink": "/ec2/concept/6011060"
+    }
+  },
+  {
+    "uri": "en/30/498975",
+    "id": "498975",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese balls [snacks]",
+    "harm": {
+      "id": "0000971",
+      "title": "498975 - Cheese balls [snacks]",
+      "conceptLink": "/ec2/concept/5952362"
+    }
+  },
+  {
+    "uri": "en/30/439916",
+    "id": "439916",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese curls [snacks]",
+    "harm": {
+      "id": "0000971",
+      "title": "439916 - Cheese curls [snacks]",
+      "conceptLink": "/ec2/concept/5952362"
+    }
+  },
+  {
+    "uri": "en/30/120874728",
+    "id": "120874728",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese-flavored biscuits",
+    "harm": {
+      "id": "0071223",
+      "title": "120874728 - Cheese-flavored biscuits",
+      "conceptLink": "/ec2/concept/6007415"
+    }
+  },
+  {
+    "uri": "en/30/439901",
+    "id": "439901",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese flavored puffed corn snacks",
+    "harm": {
+      "id": "0024146",
+      "title": "439901 - Cheese flavored puffed corn snacks",
+      "conceptLink": "/ec2/concept/5973565"
+    }
+  },
+  {
+    "uri": "en/30/889860",
+    "id": "889860",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese puffs",
+    "harm": {
+      "id": "0000971",
+      "title": "889860 - Cheese puffs",
+      "conceptLink": "/ec2/concept/5952362"
+    }
+  },
+  {
+    "uri": "en/30/439931",
+    "id": "439931",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheese sauce",
+    "harm": {
+      "id": "0024147",
+      "title": "439931 - Cheese sauce",
+      "conceptLink": "/ec2/concept/5973566"
+    }
+  },
+  {
+    "uri": "en/30/911408",
+    "id": "911408",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheeseburgers [sandwiches]",
+    "harm": {
+      "id": "0019801",
+      "title": "911408 - Cheeseburgers [sandwiches]",
+      "conceptLink": "/ec2/concept/5969580"
+    }
+  },
+  {
+    "uri": "en/30/439952",
+    "id": "439952",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheesecake",
+    "harm": {
+      "id": "0024148",
+      "title": "439952 - Cheesecake",
+      "conceptLink": "/ec2/concept/5973567"
+    }
+  },
+  {
+    "uri": "en/30/439953",
+    "id": "439953",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Cheesecakes",
+    "harm": {
+      "id": "0024148",
+      "title": "439953 - Cheesecakes",
+      "conceptLink": "/ec2/concept/5973567"
+    }
+  },
+  {
+    "uri": "en/30/779713",
+    "id": "779713",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chemical seasonings [cooking]",
+    "harm": {
+      "id": "0015867",
+      "title": "779713 - Chemical seasonings [cooking]",
+      "conceptLink": "/ec2/concept/5965992"
+    }
+  },
+  {
+    "uri": "en/30/360282",
+    "id": "360282",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing candy",
+    "harm": {
+      "id": "0003301",
+      "title": "360282 - Chewing candy",
+      "conceptLink": "/ec2/concept/5954470"
+    }
+  },
+  {
+    "uri": "en/30/119546065",
+    "id": "119546065",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing gum",
+    "harm": {
+      "id": "0057319",
+      "title": "119546065 - Chewing gum",
+      "conceptLink": "/ec2/concept/5998828"
+    }
+  },
+  {
+    "uri": "en/30/1209571",
+    "id": "1209571",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing gum, not for medical purposes",
+    "harm": {
+      "id": "0057319",
+      "title": "1209571 - Chewing gum, not for medical purposes",
+      "conceptLink": "/ec2/concept/5998828"
+    }
+  },
+  {
+    "uri": "en/30/293957",
+    "id": "293957",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing gums",
+    "harm": {
+      "id": "0057319",
+      "title": "293957 - Chewing gums",
+      "conceptLink": "/ec2/concept/5998828"
+    }
+  },
+  {
+    "uri": "en/30/125005061",
+    "id": "125005061",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing sweets (Non-medicated -)",
+    "harm": {
+      "id": "0015868",
+      "title": "125005061 - Chewing sweets (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5965993"
+    }
+  },
+  {
+    "uri": "en/30/125005076",
+    "id": "125005076",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chewing sweets (Non-medicated -) having liquid fruit fillings",
+    "harm": {
+      "id": "0033151",
+      "title": "125005076 - Chewing sweets (Non-medicated -) having liquid fruit fillings",
+      "conceptLink": "/ec2/concept/5981797"
+    }
+  },
+  {
+    "uri": "en/30/779761",
+    "id": "779761",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chicken gravy",
+    "harm": {
+      "id": "0044696",
+      "title": "779761 - Chicken gravy",
+      "conceptLink": "/ec2/concept/5992320"
+    }
+  },
+  {
+    "uri": "en/30/787246",
+    "id": "787246",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chicken sandwiches",
+    "harm": {
+      "id": "0007582",
+      "title": "787246 - Chicken sandwiches",
+      "conceptLink": "/ec2/concept/5958398"
+    }
+  },
+  {
+    "uri": "en/30/886095",
+    "id": "886095",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Chicory and chicory mixtures, all for use as substitutes for coffee",
+    "harm": {
+      "id": "0044443",
+      "title": "886095 - Chicory and chicory mixtures, all for use as substitutes for coffee",
+      "conceptLink": "/ec2/concept/5992087"
+    }
+  }
+]

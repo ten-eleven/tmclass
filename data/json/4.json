@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/619163",
+    "id": "619163",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Alumina fibre",
+    "harm": {
+      "id": "0020810",
+      "title": "619163 - Alumina fibre",
+      "conceptLink": "/ec2/concept/5970506"
+    }
+  },
+  {
+    "uri": "en/1/308618",
+    "id": "308618",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Alumina trihydrate",
+    "harm": {
+      "id": "0017526",
+      "title": "308618 - Alumina trihydrate",
+      "conceptLink": "/ec2/concept/5967500"
+    }
+  },
+  {
+    "uri": "en/1/308601",
+    "id": "308601",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminate",
+    "harm": {
+      "id": "0029087",
+      "title": "308601 - Aluminate",
+      "conceptLink": "/ec2/concept/5978097"
+    }
+  },
+  {
+    "uri": "en/1/125214774",
+    "id": "125214774",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium acetate",
+    "harm": {
+      "id": "0005927",
+      "title": "125214774 - Aluminium acetate",
+      "conceptLink": "/ec2/concept/5956880"
+    }
+  },
+  {
+    "uri": "en/1/2148",
+    "id": "2148",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium alum",
+    "harm": {
+      "id": "0046125",
+      "title": "2148 - Aluminium alum",
+      "conceptLink": "/ec2/concept/5993634"
+    }
+  },
+  {
+    "uri": "en/1/2230",
+    "id": "2230",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium chloride",
+    "harm": {
+      "id": "0024511",
+      "title": "2230 - Aluminium chloride",
+      "conceptLink": "/ec2/concept/5973893"
+    }
+  },
+  {
+    "uri": "en/1/234033950",
+    "id": "234033950",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium diacetate",
+    "harm": {
+      "id": "0005927",
+      "title": "234033950 - Aluminium diacetate",
+      "conceptLink": "/ec2/concept/5956880"
+    }
+  },
+  {
+    "uri": "en/1/234033949",
+    "id": "234033949",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium ethanoate",
+    "harm": {
+      "id": "0005927",
+      "title": "234033949 - Aluminium ethanoate",
+      "conceptLink": "/ec2/concept/5956880"
+    }
+  },
+  {
+    "uri": "en/1/619187",
+    "id": "619187",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium halides",
+    "harm": {
+      "id": "0026475",
+      "title": "619187 - Aluminium halides",
+      "conceptLink": "/ec2/concept/5975693"
+    }
+  },
+  {
+    "uri": "en/1/2169",
+    "id": "2169",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium hydrate",
+    "harm": {
+      "id": "0017526",
+      "title": "2169 - Aluminium hydrate",
+      "conceptLink": "/ec2/concept/5967500"
+    }
+  },
+  {
+    "uri": "en/1/308617",
+    "id": "308617",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium hydroxide",
+    "harm": {
+      "id": "0017526",
+      "title": "308617 - Aluminium hydroxide",
+      "conceptLink": "/ec2/concept/5967500"
+    }
+  },
+  {
+    "uri": "en/1/2256",
+    "id": "2256",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium iodide",
+    "harm": {
+      "id": "0024512",
+      "title": "2256 - Aluminium iodide",
+      "conceptLink": "/ec2/concept/5973894"
+    }
+  },
+  {
+    "uri": "en/1/308638",
+    "id": "308638",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium nitrate",
+    "harm": {
+      "id": "0011768",
+      "title": "308638 - Aluminium nitrate",
+      "conceptLink": "/ec2/concept/5962228"
+    }
+  },
+  {
+    "uri": "en/1/2097",
+    "id": "2097",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium oxide",
+    "harm": {
+      "id": "0057871",
+      "title": "2097 - Aluminium oxide",
+      "conceptLink": "/ec2/concept/5999375"
+    }
+  },
+  {
+    "uri": "en/1/2100",
+    "id": "2100",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium oxide [alumina]",
+    "harm": {
+      "id": "0057871",
+      "title": "2100 - Aluminium oxide [alumina]",
+      "conceptLink": "/ec2/concept/5999375"
+    }
+  },
+  {
+    "uri": "en/1/2101",
+    "id": "2101",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium oxides (alumina)",
+    "harm": {
+      "id": "0057871",
+      "title": "2101 - Aluminium oxides (alumina)",
+      "conceptLink": "/ec2/concept/5999375"
+    }
+  },
+  {
+    "uri": "en/1/900478",
+    "id": "900478",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium oxynitride",
+    "harm": {
+      "id": "0032036",
+      "title": "900478 - Aluminium oxynitride",
+      "conceptLink": "/ec2/concept/5980774"
+    }
+  },
+  {
+    "uri": "en/1/619198",
+    "id": "619198",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium powder",
+    "harm": {
+      "id": "0021306",
+      "title": "619198 - Aluminium powder",
+      "conceptLink": "/ec2/concept/5970957"
+    }
+  },
+  {
+    "uri": "en/1/619213",
+    "id": "619213",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium salts",
+    "harm": {
+      "id": "0032693",
+      "title": "619213 - Aluminium salts",
+      "conceptLink": "/ec2/concept/5981371"
+    }
+  },
+  {
+    "uri": "en/1/2195",
+    "id": "2195",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium silicate",
+    "harm": {
+      "id": "0012946",
+      "title": "2195 - Aluminium silicate",
+      "conceptLink": "/ec2/concept/5963308"
+    }
+  },
+  {
+    "uri": "en/1/308650",
+    "id": "308650",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminium sulphate",
+    "harm": {
+      "id": "0011770",
+      "title": "308650 - Aluminium sulphate",
+      "conceptLink": "/ec2/concept/5962230"
+    }
+  },
+  {
+    "uri": "en/1/2194",
+    "id": "2194",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Alumino-silicates",
+    "harm": {
+      "id": "0012946",
+      "title": "2194 - Alumino-silicates",
+      "conceptLink": "/ec2/concept/5963308"
+    }
+  },
+  {
+    "uri": "en/1/137872009",
+    "id": "137872009",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminum ammonium sulfate",
+    "harm": {
+      "id": "0073572",
+      "title": "137872009 - Aluminum ammonium sulfate",
+      "conceptLink": "/ec2/concept/6009744"
+    }
+  },
+  {
+    "uri": "en/1/119772040",
+    "id": "119772040",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aluminum oxide",
+    "harm": {
+      "id": "0057871",
+      "title": "119772040 - Aluminum oxide",
+      "conceptLink": "/ec2/concept/5999375"
+    }
+  },
+  {
+    "uri": "en/1/308662",
+    "id": "308662",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Alunite",
+    "harm": {
+      "id": "0000216",
+      "title": "308662 - Alunite",
+      "conceptLink": "/ec2/concept/5951689"
+    }
+  },
+  {
+    "uri": "en/1/619226",
+    "id": "619226",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ameliorants for the soil",
+    "harm": {
+      "id": "0009585",
+      "title": "619226 - Ameliorants for the soil",
+      "conceptLink": "/ec2/concept/5960232"
+    }
+  },
+  {
+    "uri": "en/1/2464",
+    "id": "2464",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Americium",
+    "harm": {
+      "id": "0036063",
+      "title": "2464 - Americium",
+      "conceptLink": "/ec2/concept/5984440"
+    }
+  },
+  {
+    "uri": "en/1/619239",
+    "id": "619239",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amides for use in industry",
+    "harm": {
+      "id": "0026934",
+      "title": "619239 - Amides for use in industry",
+      "conceptLink": "/ec2/concept/5976108"
+    }
+  },
+  {
+    "uri": "en/1/137543679",
+    "id": "137543679",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amides for use in manufacture",
+    "harm": {
+      "id": "0026934",
+      "title": "137543679 - Amides for use in manufacture",
+      "conceptLink": "/ec2/concept/5976108"
+    }
+  },
+  {
+    "uri": "en/1/619251",
+    "id": "619251",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amino acids for industrial purposes",
+    "harm": {
+      "id": "0009586",
+      "title": "619251 - Amino acids for industrial purposes",
+      "conceptLink": "/ec2/concept/5960233"
+    }
+  },
+  {
+    "uri": "en/1/137871462",
+    "id": "137871462",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amino acids for scientific purposes",
+    "harm": {
+      "id": "0073621",
+      "title": "137871462 - Amino acids for scientific purposes",
+      "conceptLink": "/ec2/concept/6009793"
+    }
+  },
+  {
+    "uri": "en/1/619264",
+    "id": "619264",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amino acrylic polymers for use in manufacture",
+    "harm": {
+      "id": "0026935",
+      "title": "619264 - Amino acrylic polymers for use in manufacture",
+      "conceptLink": "/ec2/concept/5976109"
+    }
+  },
+  {
+    "uri": "en/1/619276",
+    "id": "619276",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amino compounds",
+    "harm": {
+      "id": "0044262",
+      "title": "619276 - Amino compounds",
+      "conceptLink": "/ec2/concept/5991921"
+    }
+  },
+  {
+    "uri": "en/1/900479",
+    "id": "900479",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aminonaphthol toluidine sulfonate",
+    "harm": {
+      "id": "0020596",
+      "title": "900479 - Aminonaphthol toluidine sulfonate",
+      "conceptLink": "/ec2/concept/5970301"
+    }
+  },
+  {
+    "uri": "en/1/125200901",
+    "id": "125200901",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonia",
+    "harm": {
+      "id": "0011771",
+      "title": "125200901 - Ammonia",
+      "conceptLink": "/ec2/concept/5962231"
+    }
+  },
+  {
+    "uri": "en/1/2786",
+    "id": "2786",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonia alum",
+    "harm": {
+      "id": "0017527",
+      "title": "2786 - Ammonia alum",
+      "conceptLink": "/ec2/concept/5967501"
+    }
+  },
+  {
+    "uri": "en/1/18715",
+    "id": "18715",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonia for industrial purposes",
+    "harm": {
+      "id": "0040572",
+      "title": "18715 - Ammonia for industrial purposes",
+      "conceptLink": "/ec2/concept/5988552"
+    }
+  },
+  {
+    "uri": "en/1/18712",
+    "id": "18712",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonia [volatile alkali] for industrial purposes",
+    "harm": {
+      "id": "0040572",
+      "title": "18712 - Ammonia [volatile alkali] for industrial purposes",
+      "conceptLink": "/ec2/concept/5988552"
+    }
+  },
+  {
+    "uri": "en/1/2728",
+    "id": "2728",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonia water",
+    "harm": {
+      "id": "0011771",
+      "title": "2728 - Ammonia water",
+      "conceptLink": "/ec2/concept/5962231"
+    }
+  },
+  {
+    "uri": "en/1/2688",
+    "id": "2688",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammoniacal salts",
+    "harm": {
+      "id": "0071809",
+      "title": "2688 - Ammoniacal salts",
+      "conceptLink": "/ec2/concept/6007996"
+    }
+  },
+  {
+    "uri": "en/1/137745989",
+    "id": "137745989",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium acetate",
+    "harm": {
+      "id": "0073322",
+      "title": "137745989 - Ammonium acetate",
+      "conceptLink": "/ec2/concept/6009495"
+    }
+  },
+  {
+    "uri": "en/1/2759",
+    "id": "2759",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium aldehyde",
+    "harm": {
+      "id": "0031387",
+      "title": "2759 - Ammonium aldehyde",
+      "conceptLink": "/ec2/concept/5980198"
+    }
+  },
+  {
+    "uri": "en/1/2785",
+    "id": "2785",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium alum",
+    "harm": {
+      "id": "0017527",
+      "title": "2785 - Ammonium alum",
+      "conceptLink": "/ec2/concept/5967501"
+    }
+  },
+  {
+    "uri": "en/1/308673",
+    "id": "308673",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium bicarbonate",
+    "harm": {
+      "id": "0023370",
+      "title": "308673 - Ammonium bicarbonate",
+      "conceptLink": "/ec2/concept/5972845"
+    }
+  },
+  {
+    "uri": "en/1/308686",
+    "id": "308686",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium bichromate",
+    "harm": {
+      "id": "0044908",
+      "title": "308686 - Ammonium bichromate",
+      "conceptLink": "/ec2/concept/5992515"
+    }
+  },
+  {
+    "uri": "en/1/308698",
+    "id": "308698",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium bromide",
+    "harm": {
+      "id": "0022023",
+      "title": "308698 - Ammonium bromide",
+      "conceptLink": "/ec2/concept/5971613"
+    }
+  },
+  {
+    "uri": "en/1/308711",
+    "id": "308711",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium carbonate",
+    "harm": {
+      "id": "0004564",
+      "title": "308711 - Ammonium carbonate",
+      "conceptLink": "/ec2/concept/5955628"
+    }
+  },
+  {
+    "uri": "en/1/2578",
+    "id": "2578",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium chloride",
+    "harm": {
+      "id": "0024513",
+      "title": "2578 - Ammonium chloride",
+      "conceptLink": "/ec2/concept/5973895"
+    }
+  },
+  {
+    "uri": "en/1/308724",
+    "id": "308724",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium chloride fertilizer",
+    "harm": {
+      "id": "0027620",
+      "title": "308724 - Ammonium chloride fertilizer",
+      "conceptLink": "/ec2/concept/5976737"
+    }
+  },
+  {
+    "uri": "en/1/619292",
+    "id": "619292",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium compounds for removing electrostatatic charges",
+    "harm": {
+      "id": "0032694",
+      "title": "619292 - Ammonium compounds for removing electrostatatic charges",
+      "conceptLink": "/ec2/concept/5981372"
+    }
+  },
+  {
+    "uri": "en/1/308737",
+    "id": "308737",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium fluoride",
+    "harm": {
+      "id": "0027621",
+      "title": "308737 - Ammonium fluoride",
+      "conceptLink": "/ec2/concept/5976738"
+    }
+  },
+  {
+    "uri": "en/1/137872035",
+    "id": "137872035",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium hydroxide",
+    "harm": {
+      "id": "0073570",
+      "title": "137872035 - Ammonium hydroxide",
+      "conceptLink": "/ec2/concept/6009743"
+    }
+  },
+  {
+    "uri": "en/1/308750",
+    "id": "308750",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium molybdate",
+    "harm": {
+      "id": "0010272",
+      "title": "308750 - Ammonium molybdate",
+      "conceptLink": "/ec2/concept/5960852"
+    }
+  },
+  {
+    "uri": "en/1/308761",
+    "id": "308761",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium nitrate",
+    "harm": {
+      "id": "0010273",
+      "title": "308761 - Ammonium nitrate",
+      "conceptLink": "/ec2/concept/5960853"
+    }
+  },
+  {
+    "uri": "en/1/308776",
+    "id": "308776",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium nitrate fertilizer",
+    "harm": {
+      "id": "0033392",
+      "title": "308776 - Ammonium nitrate fertilizer",
+      "conceptLink": "/ec2/concept/5982016"
+    }
+  },
+  {
+    "uri": "en/1/308789",
+    "id": "308789",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium perchlorate",
+    "harm": {
+      "id": "0044909",
+      "title": "308789 - Ammonium perchlorate",
+      "conceptLink": "/ec2/concept/5992516"
+    }
+  },
+  {
+    "uri": "en/1/900480",
+    "id": "900480",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium persulfate",
+    "harm": {
+      "id": "0008898",
+      "title": "900480 - Ammonium persulfate",
+      "conceptLink": "/ec2/concept/5959595"
+    }
+  },
+  {
+    "uri": "en/1/308802",
+    "id": "308802",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium phosphate",
+    "harm": {
+      "id": "0004565",
+      "title": "308802 - Ammonium phosphate",
+      "conceptLink": "/ec2/concept/5955629"
+    }
+  },
+  {
+    "uri": "en/1/2687",
+    "id": "2687",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium salts",
+    "harm": {
+      "id": "0071810",
+      "title": "2687 - Ammonium salts",
+      "conceptLink": "/ec2/concept/6007997"
+    }
+  },
+  {
+    "uri": "en/1/308816",
+    "id": "308816",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium sulphate",
+    "harm": {
+      "id": "0004566",
+      "title": "308816 - Ammonium sulphate",
+      "conceptLink": "/ec2/concept/5955630"
+    }
+  },
+  {
+    "uri": "en/1/308837",
+    "id": "308837",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium sulphate fertilizer",
+    "harm": {
+      "id": "0010274",
+      "title": "308837 - Ammonium sulphate fertilizer",
+      "conceptLink": "/ec2/concept/5960854"
+    }
+  },
+  {
+    "uri": "en/1/308850",
+    "id": "308850",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium sulphide",
+    "harm": {
+      "id": "0027622",
+      "title": "308850 - Ammonium sulphide",
+      "conceptLink": "/ec2/concept/5976739"
+    }
+  },
+  {
+    "uri": "en/1/308863",
+    "id": "308863",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ammonium vanadate",
+    "harm": {
+      "id": "0010275",
+      "title": "308863 - Ammonium vanadate",
+      "conceptLink": "/ec2/concept/5960855"
+    }
+  },
+  {
+    "uri": "en/1/2811",
+    "id": "2811",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amyl acetate",
+    "harm": {
+      "id": "0002551",
+      "title": "2811 - Amyl acetate",
+      "conceptLink": "/ec2/concept/5953785"
+    }
+  },
+  {
+    "uri": "en/1/2834",
+    "id": "2834",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amyl alcohol",
+    "harm": {
+      "id": "0019964",
+      "title": "2834 - Amyl alcohol",
+      "conceptLink": "/ec2/concept/5969727"
+    }
+  },
+  {
+    "uri": "en/1/900482",
+    "id": "900482",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Amyl alcohol (pentanol)",
+    "harm": {
+      "id": "0032038",
+      "title": "900482 - Amyl alcohol (pentanol)",
+      "conceptLink": "/ec2/concept/5980776"
+    }
+  },
+  {
+    "uri": "en/1/6862",
+    "id": "6862",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Analyses in laboratories (Chemical preparations for -), other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0007979",
+      "title": "6862 - Analyses in laboratories (Chemical preparations for -), other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5958760"
+    }
+  },
+  {
+    "uri": "en/1/2880",
+    "id": "2880",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anhydrides",
+    "harm": {
+      "id": "0019965",
+      "title": "2880 - Anhydrides",
+      "conceptLink": "/ec2/concept/5969728"
+    }
+  },
+  {
+    "uri": "en/1/2855",
+    "id": "2855",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anhydrous ammonia",
+    "harm": {
+      "id": "0002552",
+      "title": "2855 - Anhydrous ammonia",
+      "conceptLink": "/ec2/concept/5953786"
+    }
+  },
+  {
+    "uri": "en/1/308875",
+    "id": "308875",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anhydrous caustic soda",
+    "harm": {
+      "id": "0033393",
+      "title": "308875 - Anhydrous caustic soda",
+      "conceptLink": "/ec2/concept/5982017"
+    }
+  },
+  {
+    "uri": "en/1/137872023",
+    "id": "137872023",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anhydrous sodium hydroxide for industrial purposes",
+    "harm": {
+      "id": "0073574",
+      "title": "137872023 - Anhydrous sodium hydroxide for industrial purposes",
+      "conceptLink": "/ec2/concept/6009746"
+    }
+  },
+  {
+    "uri": "en/1/308887",
+    "id": "308887",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Aniline",
+    "harm": {
+      "id": "0004567",
+      "title": "308887 - Aniline",
+      "conceptLink": "/ec2/concept/5955631"
+    }
+  },
+  {
+    "uri": "en/1/2967",
+    "id": "2967",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal albumen [raw materials]",
+    "harm": {
+      "id": "0025647",
+      "title": "2967 - Animal albumen [raw materials]",
+      "conceptLink": "/ec2/concept/5974939"
+    }
+  },
+  {
+    "uri": "en/1/2968",
+    "id": "2968",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal albumen [raw material]",
+    "harm": {
+      "id": "0025647",
+      "title": "2968 - Animal albumen [raw material]",
+      "conceptLink": "/ec2/concept/5974939"
+    }
+  },
+  {
+    "uri": "en/1/2921",
+    "id": "2921",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal carbon",
+    "harm": {
+      "id": "0057851",
+      "title": "2921 - Animal carbon",
+      "conceptLink": "/ec2/concept/5999355"
+    }
+  },
+  {
+    "uri": "en/1/6168",
+    "id": "6168",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal carbon preparations",
+    "harm": {
+      "id": "0019999",
+      "title": "6168 - Animal carbon preparations",
+      "conceptLink": "/ec2/concept/5969760"
+    }
+  },
+  {
+    "uri": "en/1/2920",
+    "id": "2920",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal charcoal",
+    "harm": {
+      "id": "0057850",
+      "title": "2920 - Animal charcoal",
+      "conceptLink": "/ec2/concept/5999354"
+    }
+  },
+  {
+    "uri": "en/1/132872567",
+    "id": "132872567",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Animal manure",
+    "harm": {
+      "id": "0052006",
+      "title": "132872567 - Animal manure",
+      "conceptLink": "/ec2/concept/6010906"
+    }
+  },
+  {
+    "uri": "en/1/308904",
+    "id": "308904",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anisole",
+    "harm": {
+      "id": "0039196",
+      "title": "308904 - Anisole",
+      "conceptLink": "/ec2/concept/5987292"
+    }
+  },
+  {
+    "uri": "en/1/308917",
+    "id": "308917",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anthracene",
+    "harm": {
+      "id": "0044387",
+      "title": "308917 - Anthracene",
+      "conceptLink": "/ec2/concept/5992034"
+    }
+  },
+  {
+    "uri": "en/1/132823394",
+    "id": "132823394",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anthranilic acid",
+    "harm": {
+      "id": "0031388",
+      "title": "132823394 - Anthranilic acid",
+      "conceptLink": "/ec2/concept/5980199"
+    }
+  },
+  {
+    "uri": "en/1/136860181",
+    "id": "136860181",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-aging agents for industrial purposes",
+    "harm": {
+      "id": "0056871",
+      "title": "136860181 - Anti-aging agents for industrial purposes",
+      "conceptLink": "/ec2/concept/5998145"
+    }
+  },
+  {
+    "uri": "en/1/21308",
+    "id": "21308",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-boil preparations for engine coolants",
+    "harm": {
+      "id": "0002673",
+      "title": "21308 - Anti-boil preparations for engine coolants",
+      "conceptLink": "/ec2/concept/5953893"
+    }
+  },
+  {
+    "uri": "en/1/119620387",
+    "id": "119620387",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-creasing agents",
+    "harm": {
+      "id": "0055209",
+      "title": "119620387 - Anti-creasing agents",
+      "conceptLink": "/ec2/concept/5996641"
+    }
+  },
+  {
+    "uri": "en/1/619304",
+    "id": "619304",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-damp insulating compositions [other than paint]",
+    "harm": {
+      "id": "0044263",
+      "title": "619304 - Anti-damp insulating compositions [other than paint]",
+      "conceptLink": "/ec2/concept/5991922"
+    }
+  },
+  {
+    "uri": "en/1/619321",
+    "id": "619321",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-foaming agents",
+    "harm": {
+      "id": "0003849",
+      "title": "619321 - Anti-foaming agents",
+      "conceptLink": "/ec2/concept/5954974"
+    }
+  },
+  {
+    "uri": "en/1/619338",
+    "id": "619338",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-fogging preparations",
+    "harm": {
+      "id": "0026936",
+      "title": "619338 - Anti-fogging preparations",
+      "conceptLink": "/ec2/concept/5976110"
+    }
+  },
+  {
+    "uri": "en/1/3082",
+    "id": "3082",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze",
+    "harm": {
+      "id": "0057522",
+      "title": "3082 - Anti-freeze",
+      "conceptLink": "/ec2/concept/5999027"
+    }
+  },
+  {
+    "uri": "en/1/3083",
+    "id": "3083",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze agents",
+    "harm": {
+      "id": "0057521",
+      "title": "3083 - Anti-freeze agents",
+      "conceptLink": "/ec2/concept/5999026"
+    }
+  },
+  {
+    "uri": "en/1/619350",
+    "id": "619350",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze chemicals",
+    "harm": {
+      "id": "0027768",
+      "title": "619350 - Anti-freeze chemicals",
+      "conceptLink": "/ec2/concept/5976872"
+    }
+  },
+  {
+    "uri": "en/1/3084",
+    "id": "3084",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze compositions",
+    "harm": {
+      "id": "0057521",
+      "title": "3084 - Anti-freeze compositions",
+      "conceptLink": "/ec2/concept/5999026"
+    }
+  },
+  {
+    "uri": "en/1/619367",
+    "id": "619367",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze for vehicle cooling systems",
+    "harm": {
+      "id": "0045052",
+      "title": "619367 - Anti-freeze for vehicle cooling systems",
+      "conceptLink": "/ec2/concept/5992645"
+    }
+  },
+  {
+    "uri": "en/1/3078",
+    "id": "3078",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freeze preparations",
+    "harm": {
+      "id": "0057521",
+      "title": "3078 - Anti-freeze preparations",
+      "conceptLink": "/ec2/concept/5999026"
+    }
+  },
+  {
+    "uri": "en/1/124848903",
+    "id": "124848903",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freezing additives (Chemical -) for fuels",
+    "harm": {
+      "id": "0022132",
+      "title": "124848903 - Anti-freezing additives (Chemical -) for fuels",
+      "conceptLink": "/ec2/concept/5971713"
+    }
+  },
+  {
+    "uri": "en/1/119772159",
+    "id": "119772159",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freezing liquids",
+    "harm": {
+      "id": "0057523",
+      "title": "119772159 - Anti-freezing liquids",
+      "conceptLink": "/ec2/concept/5999028"
+    }
+  },
+  {
+    "uri": "en/1/3085",
+    "id": "3085",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freezing mixtures",
+    "harm": {
+      "id": "0057521",
+      "title": "3085 - Anti-freezing mixtures",
+      "conceptLink": "/ec2/concept/5999026"
+    }
+  },
+  {
+    "uri": "en/1/3079",
+    "id": "3079",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-freezing preparations",
+    "harm": {
+      "id": "0057521",
+      "title": "3079 - Anti-freezing preparations",
+      "conceptLink": "/ec2/concept/5999026"
+    }
+  },
+  {
+    "uri": "en/1/364",
+    "id": "364",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-frothing solutions for batteries",
+    "harm": {
+      "id": "0008219",
+      "title": "364 - Anti-frothing solutions for batteries",
+      "conceptLink": "/ec2/concept/5958976"
+    }
+  },
+  {
+    "uri": "en/1/365",
+    "id": "365",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-frothing solutions for accumulators",
+    "harm": {
+      "id": "0008219",
+      "title": "365 - Anti-frothing solutions for accumulators",
+      "conceptLink": "/ec2/concept/5958976"
+    }
+  },
+  {
+    "uri": "en/1/138216728",
+    "id": "138216728",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Anti-glare spray for 3D scanning",
+    "harm": {
+      "id": "0070055",
+      "title": "138216728 - Anti-glare spray for 3D scanning",
+      "conceptLink": "/ec2/concept/6006257"
+    }
+  }
+]

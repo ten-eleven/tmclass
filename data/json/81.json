@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/3/73936",
+    "id": "73936",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toilet water",
+    "harm": {
+      "id": "0058865",
+      "title": "73936 - Toilet water",
+      "conceptLink": "/ec2/concept/6000356"
+    }
+  },
+  {
+    "uri": "en/3/119522980",
+    "id": "119522980",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toilet water containing snake oil",
+    "harm": {
+      "id": "0065176",
+      "title": "119522980 - Toilet water containing snake oil",
+      "conceptLink": "/ec2/concept/6001379"
+    }
+  },
+  {
+    "uri": "en/3/73937",
+    "id": "73937",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toilet waters",
+    "harm": {
+      "id": "0058865",
+      "title": "73937 - Toilet waters",
+      "conceptLink": "/ec2/concept/6000356"
+    }
+  },
+  {
+    "uri": "en/3/76330",
+    "id": "76330",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toiletries",
+    "harm": {
+      "id": "0025946",
+      "title": "76330 - Toiletries",
+      "conceptLink": "/ec2/concept/5975211"
+    }
+  },
+  {
+    "uri": "en/3/8929182",
+    "id": "8929182",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toiletry preparations",
+    "harm": {
+      "id": "0025946",
+      "title": "8929182 - Toiletry preparations",
+      "conceptLink": "/ec2/concept/5975211"
+    }
+  },
+  {
+    "uri": "en/3/120825510",
+    "id": "120825510",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toners for cosmetic use",
+    "harm": {
+      "id": "0065129",
+      "title": "120825510 - Toners for cosmetic use",
+      "conceptLink": "/ec2/concept/6001332"
+    }
+  },
+  {
+    "uri": "en/3/663350",
+    "id": "663350",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tonics [cosmetic]",
+    "harm": {
+      "id": "0047615",
+      "title": "663350 - Tonics [cosmetic]",
+      "conceptLink": "/ec2/concept/5994893"
+    }
+  },
+  {
+    "uri": "en/3/663364",
+    "id": "663364",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toning creams [cosmetic]",
+    "harm": {
+      "id": "0037351",
+      "title": "663364 - Toning creams [cosmetic]",
+      "conceptLink": "/ec2/concept/5985610"
+    }
+  },
+  {
+    "uri": "en/3/96407849",
+    "id": "96407849",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toning lotion, for the face, body and hands",
+    "harm": {
+      "id": "0055393",
+      "title": "96407849 - Toning lotion, for the face, body and hands",
+      "conceptLink": "/ec2/concept/5996800"
+    }
+  },
+  {
+    "uri": "en/3/663382",
+    "id": "663382",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth care preparations",
+    "harm": {
+      "id": "0002658",
+      "title": "663382 - Tooth care preparations",
+      "conceptLink": "/ec2/concept/5953880"
+    }
+  },
+  {
+    "uri": "en/3/74664",
+    "id": "74664",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth cleaning preparations",
+    "harm": {
+      "id": "0058194",
+      "title": "74664 - Tooth cleaning preparations",
+      "conceptLink": "/ec2/concept/5999695"
+    }
+  },
+  {
+    "uri": "en/3/16167878",
+    "id": "16167878",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth gel",
+    "harm": {
+      "id": "0065077",
+      "title": "16167878 - Tooth gel",
+      "conceptLink": "/ec2/concept/6001280"
+    }
+  },
+  {
+    "uri": "en/3/74661",
+    "id": "74661",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth paste",
+    "harm": {
+      "id": "0058196",
+      "title": "74661 - Tooth paste",
+      "conceptLink": "/ec2/concept/5999697"
+    }
+  },
+  {
+    "uri": "en/3/381745",
+    "id": "381745",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth polish",
+    "harm": {
+      "id": "0031930",
+      "title": "381745 - Tooth polish",
+      "conceptLink": "/ec2/concept/5980678"
+    }
+  },
+  {
+    "uri": "en/3/7080538",
+    "id": "7080538",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth polishes",
+    "harm": {
+      "id": "0031930",
+      "title": "7080538 - Tooth polishes",
+      "conceptLink": "/ec2/concept/5980678"
+    }
+  },
+  {
+    "uri": "en/3/74665",
+    "id": "74665",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth powder",
+    "harm": {
+      "id": "0058195",
+      "title": "74665 - Tooth powder",
+      "conceptLink": "/ec2/concept/5999696"
+    }
+  },
+  {
+    "uri": "en/3/120911209",
+    "id": "120911209",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth powder [for cosmetic use]",
+    "harm": {
+      "id": "0058195",
+      "title": "120911209 - Tooth powder [for cosmetic use]",
+      "conceptLink": "/ec2/concept/5999696"
+    }
+  },
+  {
+    "uri": "en/3/16167918",
+    "id": "16167918",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth powders",
+    "harm": {
+      "id": "0058195",
+      "title": "16167918 - Tooth powders",
+      "conceptLink": "/ec2/concept/5999696"
+    }
+  },
+  {
+    "uri": "en/3/120911208",
+    "id": "120911208",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth powders [for cosmetic use]",
+    "harm": {
+      "id": "0058195",
+      "title": "120911208 - Tooth powders [for cosmetic use]",
+      "conceptLink": "/ec2/concept/5999696"
+    }
+  },
+  {
+    "uri": "en/3/119522994",
+    "id": "119522994",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth whitening creams",
+    "harm": {
+      "id": "0073723",
+      "title": "119522994 - Tooth whitening creams",
+      "conceptLink": "/ec2/concept/6009893"
+    }
+  },
+  {
+    "uri": "en/3/119522996",
+    "id": "119522996",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth whitening pastes",
+    "harm": {
+      "id": "0073722",
+      "title": "119522996 - Tooth whitening pastes",
+      "conceptLink": "/ec2/concept/6009892"
+    }
+  },
+  {
+    "uri": "en/3/28861715",
+    "id": "28861715",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tooth whitening preparations",
+    "harm": {
+      "id": "0073724",
+      "title": "28861715 - Tooth whitening preparations",
+      "conceptLink": "/ec2/concept/6009894"
+    }
+  },
+  {
+    "uri": "en/3/74662",
+    "id": "74662",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toothpaste",
+    "harm": {
+      "id": "0058196",
+      "title": "74662 - Toothpaste",
+      "conceptLink": "/ec2/concept/5999697"
+    }
+  },
+  {
+    "uri": "en/3/120910443",
+    "id": "120910443",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toothpaste in soft cake form",
+    "harm": {
+      "id": "0070832",
+      "title": "120910443 - Toothpaste in soft cake form",
+      "conceptLink": "/ec2/concept/6007024"
+    }
+  },
+  {
+    "uri": "en/3/74663",
+    "id": "74663",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Toothpastes",
+    "harm": {
+      "id": "0058196",
+      "title": "74663 - Toothpastes",
+      "conceptLink": "/ec2/concept/5999697"
+    }
+  },
+  {
+    "uri": "en/3/381760",
+    "id": "381760",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Topical skin sprays for cosmetic purposes",
+    "harm": {
+      "id": "0020497",
+      "title": "381760 - Topical skin sprays for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5970212"
+    }
+  },
+  {
+    "uri": "en/3/78033",
+    "id": "78033",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Transfers (Decorative -) for cosmetic purposes",
+    "harm": {
+      "id": "0022012",
+      "title": "78033 - Transfers (Decorative -) for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5971603"
+    }
+  },
+  {
+    "uri": "en/3/77514",
+    "id": "77514",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Tripoli stone for polishing",
+    "harm": {
+      "id": "0041878",
+      "title": "77514 - Tripoli stone for polishing",
+      "conceptLink": "/ec2/concept/5989743"
+    }
+  },
+  {
+    "uri": "en/3/131089455",
+    "id": "131089455",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Turpentine for degreasing",
+    "harm": {
+      "id": "0039192",
+      "title": "131089455 - Turpentine for degreasing",
+      "conceptLink": "/ec2/concept/5987288"
+    }
+  },
+  {
+    "uri": "en/3/77336",
+    "id": "77336",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Turpentine, for degreasing",
+    "harm": {
+      "id": "0039192",
+      "title": "77336 - Turpentine, for degreasing",
+      "conceptLink": "/ec2/concept/5987288"
+    }
+  },
+  {
+    "uri": "en/3/78275",
+    "id": "78275",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Unblocking drain pipes (Preparations for -)",
+    "harm": {
+      "id": "0021049",
+      "title": "78275 - Unblocking drain pipes (Preparations for -)",
+      "conceptLink": "/ec2/concept/5970722"
+    }
+  },
+  {
+    "uri": "en/3/315257",
+    "id": "315257",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Under-eye enhancers",
+    "harm": {
+      "id": "0059017",
+      "title": "315257 - Under-eye enhancers",
+      "conceptLink": "/ec2/concept/6000508"
+    }
+  },
+  {
+    "uri": "en/3/1380547",
+    "id": "1380547",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Upholstery cleaners",
+    "harm": {
+      "id": "0065139",
+      "title": "1380547 - Upholstery cleaners",
+      "conceptLink": "/ec2/concept/6001342"
+    }
+  },
+  {
+    "uri": "en/3/233475396",
+    "id": "233475396",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Vaginal washes for personal sanitary or deodorant purposes",
+    "harm": {
+      "id": "0052012",
+      "title": "233475396 - Vaginal washes for personal sanitary or deodorant purposes",
+      "conceptLink": "/ec2/concept/6010912"
+    }
+  },
+  {
+    "uri": "en/3/107237429",
+    "id": "107237429",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Vanilla perfumery",
+    "harm": {
+      "id": "0070635",
+      "title": "107237429 - Vanilla perfumery",
+      "conceptLink": "/ec2/concept/6006827"
+    }
+  },
+  {
+    "uri": "en/3/72583",
+    "id": "72583",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Varnish (Nail -)",
+    "harm": {
+      "id": "0026377",
+      "title": "72583 - Varnish (Nail -)",
+      "conceptLink": "/ec2/concept/5975606"
+    }
+  },
+  {
+    "uri": "en/3/316632",
+    "id": "316632",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Varnish removers",
+    "harm": {
+      "id": "0072527",
+      "title": "316632 - Varnish removers",
+      "conceptLink": "/ec2/concept/6008704"
+    }
+  },
+  {
+    "uri": "en/3/74986",
+    "id": "74986",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Varnish-removing preparations",
+    "harm": {
+      "id": "0072527",
+      "title": "74986 - Varnish-removing preparations",
+      "conceptLink": "/ec2/concept/6008704"
+    }
+  },
+  {
+    "uri": "en/3/658902",
+    "id": "658902",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Vehicle cleaning preparations",
+    "harm": {
+      "id": "0031502",
+      "title": "658902 - Vehicle cleaning preparations",
+      "conceptLink": "/ec2/concept/5980296"
+    }
+  },
+  {
+    "uri": "en/3/662433",
+    "id": "662433",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Vehicle shampoos",
+    "harm": {
+      "id": "0036231",
+      "title": "662433 - Vehicle shampoos",
+      "conceptLink": "/ec2/concept/5984591"
+    }
+  },
+  {
+    "uri": "en/3/77566",
+    "id": "77566",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Volatile alkali [ammonia] [detergent]",
+    "harm": {
+      "id": "0012984",
+      "title": "77566 - Volatile alkali [ammonia] [detergent]",
+      "conceptLink": "/ec2/concept/5963341"
+    }
+  },
+  {
+    "uri": "en/3/72947",
+    "id": "72947",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Volcanic ash for cleaning",
+    "harm": {
+      "id": "0033809",
+      "title": "72947 - Volcanic ash for cleaning",
+      "conceptLink": "/ec2/concept/5982401"
+    }
+  },
+  {
+    "uri": "en/3/76700",
+    "id": "76700",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wallpaper cleaning preparations",
+    "harm": {
+      "id": "0006469",
+      "title": "76700 - Wallpaper cleaning preparations",
+      "conceptLink": "/ec2/concept/5957379"
+    }
+  },
+  {
+    "uri": "en/3/663398",
+    "id": "663398",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing agents for textiles",
+    "harm": {
+      "id": "0043097",
+      "title": "663398 - Washing agents for textiles",
+      "conceptLink": "/ec2/concept/5990849"
+    }
+  },
+  {
+    "uri": "en/3/663411",
+    "id": "663411",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing conservation agents",
+    "harm": {
+      "id": "0043098",
+      "title": "663411 - Washing conservation agents",
+      "conceptLink": "/ec2/concept/5990850"
+    }
+  },
+  {
+    "uri": "en/3/658955",
+    "id": "658955",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing creams",
+    "harm": {
+      "id": "0046892",
+      "title": "658955 - Washing creams",
+      "conceptLink": "/ec2/concept/5994284"
+    }
+  },
+  {
+    "uri": "en/3/661048",
+    "id": "661048",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing liquids",
+    "harm": {
+      "id": "0047131",
+      "title": "661048 - Washing liquids",
+      "conceptLink": "/ec2/concept/5994501"
+    }
+  },
+  {
+    "uri": "en/3/317104",
+    "id": "317104",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing powder",
+    "harm": {
+      "id": "0047461",
+      "title": "317104 - Washing powder",
+      "conceptLink": "/ec2/concept/5994769"
+    }
+  },
+  {
+    "uri": "en/3/72323",
+    "id": "72323",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing preparations",
+    "harm": {
+      "id": "0047522",
+      "title": "72323 - Washing preparations",
+      "conceptLink": "/ec2/concept/5994823"
+    }
+  },
+  {
+    "uri": "en/3/663435",
+    "id": "663435",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing preparations for personal use",
+    "harm": {
+      "id": "0008350",
+      "title": "663435 - Washing preparations for personal use",
+      "conceptLink": "/ec2/concept/5959094"
+    }
+  },
+  {
+    "uri": "en/3/663423",
+    "id": "663423",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing preparations for household purposes",
+    "harm": {
+      "id": "0031503",
+      "title": "663423 - Washing preparations for household purposes",
+      "conceptLink": "/ec2/concept/5980297"
+    }
+  },
+  {
+    "uri": "en/3/74403",
+    "id": "74403",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing soda, for cleaning",
+    "harm": {
+      "id": "0022400",
+      "title": "74403 - Washing soda, for cleaning",
+      "conceptLink": "/ec2/concept/5971956"
+    }
+  },
+  {
+    "uri": "en/3/380275",
+    "id": "380275",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing-up detergent",
+    "harm": {
+      "id": "0046514",
+      "title": "380275 - Washing-up detergent",
+      "conceptLink": "/ec2/concept/5993953"
+    }
+  },
+  {
+    "uri": "en/3/14613058",
+    "id": "14613058",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Washing-up liquids",
+    "harm": {
+      "id": "0047131",
+      "title": "14613058 - Washing-up liquids",
+      "conceptLink": "/ec2/concept/5994501"
+    }
+  },
+  {
+    "uri": "en/3/120884380",
+    "id": "120884380",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Water-resistant sunscreen",
+    "harm": {
+      "id": "0055396",
+      "title": "120884380 - Water-resistant sunscreen",
+      "conceptLink": "/ec2/concept/5996801"
+    }
+  },
+  {
+    "uri": "en/3/136244693",
+    "id": "136244693",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waterless shampoo",
+    "harm": {
+      "id": "0009077",
+      "title": "136244693 - Waterless shampoo",
+      "conceptLink": "/ec2/concept/5959765"
+    }
+  },
+  {
+    "uri": "en/3/136400389",
+    "id": "136400389",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waterless shampoos",
+    "harm": {
+      "id": "0009077",
+      "title": "136400389 - Waterless shampoos",
+      "conceptLink": "/ec2/concept/5959765"
+    }
+  },
+  {
+    "uri": "en/3/381773",
+    "id": "381773",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waterless soap",
+    "harm": {
+      "id": "0037724",
+      "title": "381773 - Waterless soap",
+      "conceptLink": "/ec2/concept/5985947"
+    }
+  },
+  {
+    "uri": "en/3/99679403",
+    "id": "99679403",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waterproof sunscreen",
+    "harm": {
+      "id": "0055396",
+      "title": "99679403 - Waterproof sunscreen",
+      "conceptLink": "/ec2/concept/5996801"
+    }
+  },
+  {
+    "uri": "en/3/119621757",
+    "id": "119621757",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wave-set lotions",
+    "harm": {
+      "id": "0055397",
+      "title": "119621757 - Wave-set lotions",
+      "conceptLink": "/ec2/concept/5996802"
+    }
+  },
+  {
+    "uri": "en/3/73196",
+    "id": "73196",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waving preparations for the hair",
+    "harm": {
+      "id": "0035641",
+      "title": "73196 - Waving preparations for the hair",
+      "conceptLink": "/ec2/concept/5984060"
+    }
+  },
+  {
+    "uri": "en/3/73640",
+    "id": "73640",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Cobblers' -)",
+    "harm": {
+      "id": "0058233",
+      "title": "73640 - Wax (Cobblers' -)",
+      "conceptLink": "/ec2/concept/5999734"
+    }
+  },
+  {
+    "uri": "en/3/75506",
+    "id": "75506",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Depilatory -)",
+    "harm": {
+      "id": "0011713",
+      "title": "75506 - Wax (Depilatory -)",
+      "conceptLink": "/ec2/concept/5962176"
+    }
+  },
+  {
+    "uri": "en/3/492589",
+    "id": "492589",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax for floors (Non-slipping -)",
+    "harm": {
+      "id": "0045063",
+      "title": "492589 - Wax for floors (Non-slipping -)",
+      "conceptLink": "/ec2/concept/5992656"
+    }
+  },
+  {
+    "uri": "en/3/233406903",
+    "id": "233406903",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax for parquet floors",
+    "harm": {
+      "id": "0073762",
+      "title": "233406903 - Wax for parquet floors",
+      "conceptLink": "/ec2/concept/6009932"
+    }
+  },
+  {
+    "uri": "en/3/73675",
+    "id": "73675",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Laundry -)",
+    "harm": {
+      "id": "0003333",
+      "title": "73675 - Wax (Laundry -)",
+      "conceptLink": "/ec2/concept/5954500"
+    }
+  },
+  {
+    "uri": "en/3/73709",
+    "id": "73709",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Moustache -)",
+    "harm": {
+      "id": "0026445",
+      "title": "73709 - Wax (Moustache -)",
+      "conceptLink": "/ec2/concept/5975668"
+    }
+  },
+  {
+    "uri": "en/3/73773",
+    "id": "73773",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Parquet floor -)",
+    "harm": {
+      "id": "0073762",
+      "title": "73773 - Wax (Parquet floor -)",
+      "conceptLink": "/ec2/concept/6009932"
+    }
+  },
+  {
+    "uri": "en/3/73771",
+    "id": "73771",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Polishing -)",
+    "harm": {
+      "id": "0059211",
+      "title": "73771 - Wax (Polishing -)",
+      "conceptLink": "/ec2/concept/6000700"
+    }
+  },
+  {
+    "uri": "en/3/37543381",
+    "id": "37543381",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax stripping preparations",
+    "harm": {
+      "id": "0070813",
+      "title": "37543381 - Wax stripping preparations",
+      "conceptLink": "/ec2/concept/6007005"
+    }
+  },
+  {
+    "uri": "en/3/381788",
+    "id": "381788",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax strips for removing body hair",
+    "harm": {
+      "id": "0008800",
+      "title": "381788 - Wax strips for removing body hair",
+      "conceptLink": "/ec2/concept/5959502"
+    }
+  },
+  {
+    "uri": "en/3/73849",
+    "id": "73849",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax (Tailors' -)",
+    "harm": {
+      "id": "0014135",
+      "title": "73849 - Wax (Tailors' -)",
+      "conceptLink": "/ec2/concept/5964395"
+    }
+  },
+  {
+    "uri": "en/3/663449",
+    "id": "663449",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wax treatments for the hair",
+    "harm": {
+      "id": "0011995",
+      "title": "663449 - Wax treatments for the hair",
+      "conceptLink": "/ec2/concept/5962441"
+    }
+  },
+  {
+    "uri": "en/3/74472",
+    "id": "74472",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Waxes for leather",
+    "harm": {
+      "id": "0046681",
+      "title": "74472 - Waxes for leather",
+      "conceptLink": "/ec2/concept/5994100"
+    }
+  },
+  {
+    "uri": "en/3/72129",
+    "id": "72129",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Whitening the skin (Cream for -)",
+    "harm": {
+      "id": "0037961",
+      "title": "72129 - Whitening the skin (Cream for -)",
+      "conceptLink": "/ec2/concept/5986162"
+    }
+  },
+  {
+    "uri": "en/3/119523017",
+    "id": "119523017",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Whitewall cleaners",
+    "harm": {
+      "id": "0065138",
+      "title": "119523017 - Whitewall cleaners",
+      "conceptLink": "/ec2/concept/6001341"
+    }
+  },
+  {
+    "uri": "en/3/72095",
+    "id": "72095",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Whiting",
+    "harm": {
+      "id": "0040388",
+      "title": "72095 - Whiting",
+      "conceptLink": "/ec2/concept/5988382"
+    }
+  },
+  {
+    "uri": "en/3/663476",
+    "id": "663476",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Window cleaners in spray form",
+    "harm": {
+      "id": "0029323",
+      "title": "663476 - Window cleaners in spray form",
+      "conceptLink": "/ec2/concept/5978304"
+    }
+  },
+  {
+    "uri": "en/3/663461",
+    "id": "663461",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Window cleaners [polish]",
+    "harm": {
+      "id": "0035097",
+      "title": "663461 - Window cleaners [polish]",
+      "conceptLink": "/ec2/concept/5983565"
+    }
+  },
+  {
+    "uri": "en/3/663488",
+    "id": "663488",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Window cleaning compositions",
+    "harm": {
+      "id": "0000422",
+      "title": "663488 - Window cleaning compositions",
+      "conceptLink": "/ec2/concept/5951866"
+    }
+  },
+  {
+    "uri": "en/3/76238",
+    "id": "76238",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windscreen cleaning fluids",
+    "harm": {
+      "id": "0047218",
+      "title": "76238 - Windscreen cleaning fluids",
+      "conceptLink": "/ec2/concept/5994583"
+    }
+  },
+  {
+    "uri": "en/3/76232",
+    "id": "76232",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windscreen cleaning liquids",
+    "harm": {
+      "id": "0047218",
+      "title": "76232 - Windscreen cleaning liquids",
+      "conceptLink": "/ec2/concept/5994583"
+    }
+  },
+  {
+    "uri": "en/3/381804",
+    "id": "381804",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windscreen cleaning preparations",
+    "harm": {
+      "id": "0014657",
+      "title": "381804 - Windscreen cleaning preparations",
+      "conceptLink": "/ec2/concept/5964880"
+    }
+  },
+  {
+    "uri": "en/3/40333636",
+    "id": "40333636",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windshield cleaner fluids",
+    "harm": {
+      "id": "0047218",
+      "title": "40333636 - Windshield cleaner fluids",
+      "conceptLink": "/ec2/concept/5994583"
+    }
+  },
+  {
+    "uri": "en/3/76233",
+    "id": "76233",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windshield cleaning liquids",
+    "harm": {
+      "id": "0047218",
+      "title": "76233 - Windshield cleaning liquids",
+      "conceptLink": "/ec2/concept/5994583"
+    }
+  },
+  {
+    "uri": "en/3/40335594",
+    "id": "40335594",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Windshield washing fluid",
+    "harm": {
+      "id": "0047218",
+      "title": "40335594 - Windshield washing fluid",
+      "conceptLink": "/ec2/concept/5994583"
+    }
+  },
+  {
+    "uri": "en/3/381824",
+    "id": "381824",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wipes impregnated with a skin cleanser",
+    "harm": {
+      "id": "0008801",
+      "title": "381824 - Wipes impregnated with a skin cleanser",
+      "conceptLink": "/ec2/concept/5959503"
+    }
+  },
+  {
+    "uri": "en/3/90777821",
+    "id": "90777821",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wipes impregnated with a cleaning preparation",
+    "harm": {
+      "id": "0023604",
+      "title": "90777821 - Wipes impregnated with a cleaning preparation",
+      "conceptLink": "/ec2/concept/5973058"
+    }
+  },
+  {
+    "uri": "en/3/663500",
+    "id": "663500",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wipes incorporating cleaning preparations",
+    "harm": {
+      "id": "0023604",
+      "title": "663500 - Wipes incorporating cleaning preparations",
+      "conceptLink": "/ec2/concept/5973058"
+    }
+  },
+  {
+    "uri": "en/3/663514",
+    "id": "663514",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wiping cloth impregnated with a cleaning preparation for cleaning eye glasses",
+    "harm": {
+      "id": "0040905",
+      "title": "663514 - Wiping cloth impregnated with a cleaning preparation for cleaning eye glasses",
+      "conceptLink": "/ec2/concept/5988853"
+    }
+  },
+  {
+    "uri": "en/3/663528",
+    "id": "663528",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wood treatment preparations for polishing",
+    "harm": {
+      "id": "0000423",
+      "title": "663528 - Wood treatment preparations for polishing",
+      "conceptLink": "/ec2/concept/5951867"
+    }
+  },
+  {
+    "uri": "en/3/96408069",
+    "id": "96408069",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wrinkle-minimizing cosmetic preparations for topical facial use",
+    "harm": {
+      "id": "0065107",
+      "title": "96408069 - Wrinkle-minimizing cosmetic preparations for topical facial use",
+      "conceptLink": "/ec2/concept/6001310"
+    }
+  },
+  {
+    "uri": "en/3/381843",
+    "id": "381843",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wrinkle removing skin care preparations",
+    "harm": {
+      "id": "0029679",
+      "title": "381843 - Wrinkle removing skin care preparations",
+      "conceptLink": "/ec2/concept/5978632"
+    }
+  },
+  {
+    "uri": "en/3/317413",
+    "id": "317413",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wrinkle resistant cream",
+    "harm": {
+      "id": "0059239",
+      "title": "317413 - Wrinkle resistant cream",
+      "conceptLink": "/ec2/concept/6000728"
+    }
+  },
+  {
+    "uri": "en/3/108712864",
+    "id": "108712864",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wrinkle resistant creams",
+    "harm": {
+      "id": "0059239",
+      "title": "108712864 - Wrinkle resistant creams",
+      "conceptLink": "/ec2/concept/6000728"
+    }
+  },
+  {
+    "uri": "en/3/120899550",
+    "id": "120899550",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Wrinkle resistant creams [for cosmetic use]",
+    "harm": {
+      "id": "0059239",
+      "title": "120899550 - Wrinkle resistant creams [for cosmetic use]",
+      "conceptLink": "/ec2/concept/6000728"
+    }
+  },
+  {
+    "uri": "en/4/124738833",
+    "id": "124738833",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additive concentrates (Non-chemical -) for lubricants",
+    "harm": {
+      "id": "0025081",
+      "title": "124738833 - Additive concentrates (Non-chemical -) for lubricants",
+      "conceptLink": "/ec2/concept/5974423"
+    }
+  },
+  {
+    "uri": "en/4/124738845",
+    "id": "124738845",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additive concentrates (Non-chemical -) for motor fuels",
+    "harm": {
+      "id": "0042375",
+      "title": "124738845 - Additive concentrates (Non-chemical -) for motor fuels",
+      "conceptLink": "/ec2/concept/5990200"
+    }
+  },
+  {
+    "uri": "en/4/124841031",
+    "id": "124841031",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for hydraulic fluids",
+    "harm": {
+      "id": "0001848",
+      "title": "124841031 - Additives (Non-chemical -) for hydraulic fluids",
+      "conceptLink": "/ec2/concept/5953149"
+    }
+  },
+  {
+    "uri": "en/4/124738922",
+    "id": "124738922",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for oils",
+    "harm": {
+      "id": "0023578",
+      "title": "124738922 - Additives (Non-chemical -) for oils",
+      "conceptLink": "/ec2/concept/5973038"
+    }
+  }
+]

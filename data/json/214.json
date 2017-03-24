@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/327342",
+    "id": "327342",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for controlling self-service terminals",
+    "harm": {
+      "id": "0055065",
+      "title": "327342 - Computer software for controlling self-service terminals",
+      "conceptLink": "/ec2/concept/5996514"
+    }
+  },
+  {
+    "uri": "en/9/104057881",
+    "id": "104057881",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for controlling the operation of audio and video devices",
+    "harm": {
+      "id": "0055066",
+      "title": "104057881 - Computer software for controlling the operation of audio and video devices",
+      "conceptLink": "/ec2/concept/5996515"
+    }
+  },
+  {
+    "uri": "en/9/327328",
+    "id": "327328",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for controlling and managing access server applications",
+    "harm": {
+      "id": "0040368",
+      "title": "327328 - Computer software for controlling and managing access server applications",
+      "conceptLink": "/ec2/concept/5988367"
+    }
+  },
+  {
+    "uri": "en/9/120873646",
+    "id": "120873646",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for converting document images into electronic formats",
+    "harm": {
+      "id": "0065886",
+      "title": "120873646 - Computer software for converting document images into electronic formats",
+      "conceptLink": "/ec2/concept/6002089"
+    }
+  },
+  {
+    "uri": "en/9/396079",
+    "id": "396079",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for creating dynamic websites",
+    "harm": {
+      "id": "0027750",
+      "title": "396079 - Computer software for creating dynamic websites",
+      "conceptLink": "/ec2/concept/5976856"
+    }
+  },
+  {
+    "uri": "en/9/103790889",
+    "id": "103790889",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for creating and editing music and sounds",
+    "harm": {
+      "id": "0055067",
+      "title": "103790889 - Computer software for creating and editing music and sounds",
+      "conceptLink": "/ec2/concept/5996516"
+    }
+  },
+  {
+    "uri": "en/9/396098",
+    "id": "396098",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for creating searchable databases of information and data",
+    "harm": {
+      "id": "0045028",
+      "title": "396098 - Computer software for creating searchable databases of information and data",
+      "conceptLink": "/ec2/concept/5992622"
+    }
+  },
+  {
+    "uri": "en/9/396118",
+    "id": "396118",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for database management",
+    "harm": {
+      "id": "0057049",
+      "title": "396118 - Computer software for database management",
+      "conceptLink": "/ec2/concept/5998679"
+    }
+  },
+  {
+    "uri": "en/9/396138",
+    "id": "396138",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for document management",
+    "harm": {
+      "id": "0016200",
+      "title": "396138 - Computer software for document management",
+      "conceptLink": "/ec2/concept/5966300"
+    }
+  },
+  {
+    "uri": "en/9/232207728",
+    "id": "232207728",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for electronic bulletin boards",
+    "harm": {
+      "id": "0071483",
+      "title": "232207728 - Computer software for electronic bulletin boards",
+      "conceptLink": "/ec2/concept/6007674"
+    }
+  },
+  {
+    "uri": "en/9/327357",
+    "id": "327357",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for encryption",
+    "harm": {
+      "id": "0005734",
+      "title": "327357 - Computer software for encryption",
+      "conceptLink": "/ec2/concept/5956708"
+    }
+  },
+  {
+    "uri": "en/9/496995",
+    "id": "496995",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for generation of typefaces and fonts",
+    "harm": {
+      "id": "0023670",
+      "title": "496995 - Computer software for generation of typefaces and fonts",
+      "conceptLink": "/ec2/concept/5973119"
+    }
+  },
+  {
+    "uri": "en/9/120897406",
+    "id": "120897406",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for Global Positioning Systems",
+    "harm": {
+      "id": "0065716",
+      "title": "120897406 - Computer software for Global Positioning Systems",
+      "conceptLink": "/ec2/concept/6001919"
+    }
+  },
+  {
+    "uri": "en/9/232668123",
+    "id": "232668123",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for Global Positioning Systems (GPS)",
+    "harm": {
+      "id": "0065716",
+      "title": "232668123 - Computer software for Global Positioning Systems (GPS)",
+      "conceptLink": "/ec2/concept/6001919"
+    }
+  },
+  {
+    "uri": "en/9/233157677",
+    "id": "233157677",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for instrument tuning",
+    "harm": {
+      "id": "0072866",
+      "title": "233157677 - Computer software for instrument tuning",
+      "conceptLink": "/ec2/concept/6009041"
+    }
+  },
+  {
+    "uri": "en/9/396178",
+    "id": "396178",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for interpreting fingerprints or palm prints",
+    "harm": {
+      "id": "0039304",
+      "title": "396178 - Computer software for interpreting fingerprints or palm prints",
+      "conceptLink": "/ec2/concept/5987392"
+    }
+  },
+  {
+    "uri": "en/9/396158",
+    "id": "396158",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for inter-network accounting in the telecommunications field",
+    "harm": {
+      "id": "0045030",
+      "title": "396158 - Computer software for inter-network accounting in the telecommunications field",
+      "conceptLink": "/ec2/concept/5992624"
+    }
+  },
+  {
+    "uri": "en/9/1595492",
+    "id": "1595492",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for mobile phones",
+    "harm": {
+      "id": "0071475",
+      "title": "1595492 - Computer software for mobile phones",
+      "conceptLink": "/ec2/concept/6007666"
+    }
+  },
+  {
+    "uri": "en/9/232029195",
+    "id": "232029195",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for monitoring the use of computers and the internet by children",
+    "harm": {
+      "id": "0071229",
+      "title": "232029195 - Computer software for monitoring the use of computers and the internet by children",
+      "conceptLink": "/ec2/concept/6007421"
+    }
+  },
+  {
+    "uri": "en/9/12003705",
+    "id": "12003705",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for organizing and viewing digital images and photographs",
+    "harm": {
+      "id": "0055068",
+      "title": "12003705 - Computer software for organizing and viewing digital images and photographs",
+      "conceptLink": "/ec2/concept/5996517"
+    }
+  },
+  {
+    "uri": "en/9/531116",
+    "id": "531116",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for processing market information",
+    "harm": {
+      "id": "0017251",
+      "title": "531116 - Computer software for processing market information",
+      "conceptLink": "/ec2/concept/5967251"
+    }
+  },
+  {
+    "uri": "en/9/66649190",
+    "id": "66649190",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for processing digital images",
+    "harm": {
+      "id": "0055069",
+      "title": "66649190 - Computer software for processing digital images",
+      "conceptLink": "/ec2/concept/5996518"
+    }
+  },
+  {
+    "uri": "en/9/1706976",
+    "id": "1706976",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for processing digital music files",
+    "harm": {
+      "id": "0055070",
+      "title": "1706976 - Computer software for processing digital music files",
+      "conceptLink": "/ec2/concept/5996519"
+    }
+  },
+  {
+    "uri": "en/9/396198",
+    "id": "396198",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for producing financial models",
+    "harm": {
+      "id": "0039305",
+      "title": "396198 - Computer software for producing financial models",
+      "conceptLink": "/ec2/concept/5987393"
+    }
+  },
+  {
+    "uri": "en/9/396219",
+    "id": "396219",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for scanning images and documents",
+    "harm": {
+      "id": "0027751",
+      "title": "396219 - Computer software for scanning images and documents",
+      "conceptLink": "/ec2/concept/5976857"
+    }
+  },
+  {
+    "uri": "en/9/233392575",
+    "id": "233392575",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for testing vulnerability in computers and computer networks",
+    "harm": {
+      "id": "0073444",
+      "title": "233392575 - Computer software for testing vulnerability in computers and computer networks",
+      "conceptLink": "/ec2/concept/6009617"
+    }
+  },
+  {
+    "uri": "en/9/232028873",
+    "id": "232028873",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the remote control of office machines and equipment",
+    "harm": {
+      "id": "0072987",
+      "title": "232028873 - Computer software for the remote control of office machines and equipment",
+      "conceptLink": "/ec2/concept/6009162"
+    }
+  },
+  {
+    "uri": "en/9/232028872",
+    "id": "232028872",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the remote control of security apparatus",
+    "harm": {
+      "id": "0072986",
+      "title": "232028872 - Computer software for the remote control of security apparatus",
+      "conceptLink": "/ec2/concept/6009161"
+    }
+  },
+  {
+    "uri": "en/9/232028874",
+    "id": "232028874",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the remote control of electric lighting apparatus",
+    "harm": {
+      "id": "0073042",
+      "title": "232028874 - Computer software for the remote control of electric lighting apparatus",
+      "conceptLink": "/ec2/concept/6009215"
+    }
+  },
+  {
+    "uri": "en/9/232028878",
+    "id": "232028878",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the remote control of telephone sets and radiotelephony sets",
+    "harm": {
+      "id": "0072988",
+      "title": "232028878 - Computer software for the remote control of telephone sets and radiotelephony sets",
+      "conceptLink": "/ec2/concept/6009163"
+    }
+  },
+  {
+    "uri": "en/9/233392574",
+    "id": "233392574",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the detection of threats to computer networks",
+    "harm": {
+      "id": "0073443",
+      "title": "233392574 - Computer software for the detection of threats to computer networks",
+      "conceptLink": "/ec2/concept/6009616"
+    }
+  },
+  {
+    "uri": "en/9/233392573",
+    "id": "233392573",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the monitoring of computer systems",
+    "harm": {
+      "id": "0073442",
+      "title": "233392573 - Computer software for the monitoring of computer systems",
+      "conceptLink": "/ec2/concept/6009615"
+    }
+  },
+  {
+    "uri": "en/9/233157501",
+    "id": "233157501",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the administration of on-line games and gaming",
+    "harm": {
+      "id": "0072848",
+      "title": "233157501 - Computer software for the administration of on-line games and gaming",
+      "conceptLink": "/ec2/concept/6009023"
+    }
+  },
+  {
+    "uri": "en/9/233106274",
+    "id": "233106274",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the collection of positioning data",
+    "harm": {
+      "id": "0072310",
+      "title": "233106274 - Computer software for the collection of positioning data",
+      "conceptLink": "/ec2/concept/6008493"
+    }
+  },
+  {
+    "uri": "en/9/233106280",
+    "id": "233106280",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the compilation of positioning data",
+    "harm": {
+      "id": "0072311",
+      "title": "233106280 - Computer software for the compilation of positioning data",
+      "conceptLink": "/ec2/concept/6008494"
+    }
+  },
+  {
+    "uri": "en/9/233106282",
+    "id": "233106282",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the processing of positioning data",
+    "harm": {
+      "id": "0072312",
+      "title": "233106282 - Computer software for the processing of positioning data",
+      "conceptLink": "/ec2/concept/6008495"
+    }
+  },
+  {
+    "uri": "en/9/233106288",
+    "id": "233106288",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the transmission of positioning data",
+    "harm": {
+      "id": "0072313",
+      "title": "233106288 - Computer software for the transmission of positioning data",
+      "conceptLink": "/ec2/concept/6008496"
+    }
+  },
+  {
+    "uri": "en/9/233106290",
+    "id": "233106290",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the dissemination of positioning data",
+    "harm": {
+      "id": "0072314",
+      "title": "233106290 - Computer software for the dissemination of positioning data",
+      "conceptLink": "/ec2/concept/6008497"
+    }
+  },
+  {
+    "uri": "en/9/11243721",
+    "id": "11243721",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for the creation of firewalls",
+    "harm": {
+      "id": "0065909",
+      "title": "11243721 - Computer software for the creation of firewalls",
+      "conceptLink": "/ec2/concept/6002112"
+    }
+  },
+  {
+    "uri": "en/9/531164",
+    "id": "531164",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for time control",
+    "harm": {
+      "id": "0040372",
+      "title": "531164 - Computer software for time control",
+      "conceptLink": "/ec2/concept/5988371"
+    }
+  },
+  {
+    "uri": "en/9/531190",
+    "id": "531190",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in remote meter reading",
+    "harm": {
+      "id": "0005735",
+      "title": "531190 - Computer software for use in remote meter reading",
+      "conceptLink": "/ec2/concept/5956709"
+    }
+  },
+  {
+    "uri": "en/9/531177",
+    "id": "531177",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in remote meter monitoring",
+    "harm": {
+      "id": "0017252",
+      "title": "531177 - Computer software for use in remote meter monitoring",
+      "conceptLink": "/ec2/concept/5967252"
+    }
+  },
+  {
+    "uri": "en/9/396279",
+    "id": "396279",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in migrating between different computer network operating systems",
+    "harm": {
+      "id": "0006714",
+      "title": "396279 - Computer software for use in migrating between different computer network operating systems",
+      "conceptLink": "/ec2/concept/5957602"
+    }
+  },
+  {
+    "uri": "en/9/396259",
+    "id": "396259",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in medical decision support systems",
+    "harm": {
+      "id": "0029862",
+      "title": "396259 - Computer software for use in medical decision support systems",
+      "conceptLink": "/ec2/concept/5978798"
+    }
+  },
+  {
+    "uri": "en/9/327374",
+    "id": "327374",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in programming facsimile machines",
+    "harm": {
+      "id": "0046089",
+      "title": "327374 - Computer software for use in programming facsimile machines",
+      "conceptLink": "/ec2/concept/5993600"
+    }
+  },
+  {
+    "uri": "en/9/78790058",
+    "id": "78790058",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use as an application programming interface (API)",
+    "harm": {
+      "id": "0072992",
+      "title": "78790058 - Computer software for use as an application programming interface (API)",
+      "conceptLink": "/ec2/concept/6009167"
+    }
+  },
+  {
+    "uri": "en/9/136312031",
+    "id": "136312031",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use on handheld mobile digital electronic devices and other consumer electronics",
+    "harm": {
+      "id": "0070797",
+      "title": "136312031 - Computer software for use on handheld mobile digital electronic devices and other consumer electronics",
+      "conceptLink": "/ec2/concept/6006989"
+    }
+  },
+  {
+    "uri": "en/9/95997557",
+    "id": "95997557",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in processing semiconductor wafers",
+    "harm": {
+      "id": "0055071",
+      "title": "95997557 - Computer software for use in processing semiconductor wafers",
+      "conceptLink": "/ec2/concept/5996520"
+    }
+  },
+  {
+    "uri": "en/9/233392567",
+    "id": "233392567",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in computer network access control",
+    "harm": {
+      "id": "0041420",
+      "title": "233392567 - Computer software for use in computer network access control",
+      "conceptLink": "/ec2/concept/5989325"
+    }
+  },
+  {
+    "uri": "en/9/8658249",
+    "id": "8658249",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in creating and designing websites",
+    "harm": {
+      "id": "0065885",
+      "title": "8658249 - Computer software for use in creating and designing websites",
+      "conceptLink": "/ec2/concept/6002088"
+    }
+  },
+  {
+    "uri": "en/9/30624635",
+    "id": "30624635",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in providing multiple user access to a global computer information network",
+    "harm": {
+      "id": "0065908",
+      "title": "30624635 - Computer software for use in providing multiple user access to a global computer information network",
+      "conceptLink": "/ec2/concept/6002111"
+    }
+  },
+  {
+    "uri": "en/9/396239",
+    "id": "396239",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for use in computer access control",
+    "harm": {
+      "id": "0041420",
+      "title": "396239 - Computer software for use in computer access control",
+      "conceptLink": "/ec2/concept/5989325"
+    }
+  },
+  {
+    "uri": "en/9/327411",
+    "id": "327411",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for wireless content delivery",
+    "harm": {
+      "id": "0055073",
+      "title": "327411 - Computer software for wireless content delivery",
+      "conceptLink": "/ec2/concept/5996522"
+    }
+  },
+  {
+    "uri": "en/9/120873629",
+    "id": "120873629",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software for wireless network communications",
+    "harm": {
+      "id": "0065884",
+      "title": "120873629 - Computer software for wireless network communications",
+      "conceptLink": "/ec2/concept/6002087"
+    }
+  },
+  {
+    "uri": "en/9/396299",
+    "id": "396299",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software in the field of electronic publishing",
+    "harm": {
+      "id": "0018331",
+      "title": "396299 - Computer software in the field of electronic publishing",
+      "conceptLink": "/ec2/concept/5968237"
+    }
+  },
+  {
+    "uri": "en/9/531205",
+    "id": "531205",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software packages",
+    "harm": {
+      "id": "0014315",
+      "title": "531205 - Computer software packages",
+      "conceptLink": "/ec2/concept/5964564"
+    }
+  },
+  {
+    "uri": "en/9/396317",
+    "id": "396317",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software platforms",
+    "harm": {
+      "id": "0041421",
+      "title": "396317 - Computer software platforms",
+      "conceptLink": "/ec2/concept/5989326"
+    }
+  },
+  {
+    "uri": "en/9/531243",
+    "id": "531243",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software programs for spreadsheet management",
+    "harm": {
+      "id": "0024587",
+      "title": "531243 - Computer software programs for spreadsheet management",
+      "conceptLink": "/ec2/concept/5973966"
+    }
+  },
+  {
+    "uri": "en/9/489095",
+    "id": "489095",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software [programmes]",
+    "harm": {
+      "id": "0058848",
+      "title": "489095 - Computer software [programmes]",
+      "conceptLink": "/ec2/concept/6000339"
+    }
+  },
+  {
+    "uri": "en/9/489096",
+    "id": "489096",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software programs",
+    "harm": {
+      "id": "0058848",
+      "title": "489096 - Computer software programs",
+      "conceptLink": "/ec2/concept/6000339"
+    }
+  },
+  {
+    "uri": "en/9/531230",
+    "id": "531230",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software programs for database management",
+    "harm": {
+      "id": "0057049",
+      "title": "531230 - Computer software programs for database management",
+      "conceptLink": "/ec2/concept/5998679"
+    }
+  },
+  {
+    "uri": "en/9/158196",
+    "id": "158196",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software, recorded",
+    "harm": {
+      "id": "0059404",
+      "title": "158196 - Computer software, recorded",
+      "conceptLink": "/ec2/concept/6000882"
+    }
+  },
+  {
+    "uri": "en/9/396333",
+    "id": "396333",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software relating to financial history",
+    "harm": {
+      "id": "0006715",
+      "title": "396333 - Computer software relating to financial history",
+      "conceptLink": "/ec2/concept/5957603"
+    }
+  },
+  {
+    "uri": "en/9/396353",
+    "id": "396353",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software relating to the handling of financial transactions",
+    "harm": {
+      "id": "0012516",
+      "title": "396353 - Computer software relating to the handling of financial transactions",
+      "conceptLink": "/ec2/concept/5962915"
+    }
+  },
+  {
+    "uri": "en/9/233249838",
+    "id": "233249838",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software relating to the medical field",
+    "harm": {
+      "id": "0073164",
+      "title": "233249838 - Computer software relating to the medical field",
+      "conceptLink": "/ec2/concept/6009337"
+    }
+  },
+  {
+    "uri": "en/9/1893016",
+    "id": "1893016",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software supplied from the Internet",
+    "harm": {
+      "id": "0023122",
+      "title": "1893016 - Computer software supplied from the Internet",
+      "conceptLink": "/ec2/concept/5972611"
+    }
+  },
+  {
+    "uri": "en/9/6279351",
+    "id": "6279351",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software that assists computers in deploying parallel applications and performing parallel computations",
+    "harm": {
+      "id": "0066047",
+      "title": "6279351 - Computer software that assists computers in deploying parallel applications and performing parallel computations",
+      "conceptLink": "/ec2/concept/6002250"
+    }
+  },
+  {
+    "uri": "en/9/396373",
+    "id": "396373",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software that permits games to be played",
+    "harm": {
+      "id": "0024121",
+      "title": "396373 - Computer software that permits games to be played",
+      "conceptLink": "/ec2/concept/5973540"
+    }
+  },
+  {
+    "uri": "en/9/396392",
+    "id": "396392",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to automate data warehousing",
+    "harm": {
+      "id": "0024122",
+      "title": "396392 - Computer software to automate data warehousing",
+      "conceptLink": "/ec2/concept/5973541"
+    }
+  },
+  {
+    "uri": "en/9/396415",
+    "id": "396415",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the searching of data",
+    "harm": {
+      "id": "0006716",
+      "title": "396415 - Computer software to enable the searching of data",
+      "conceptLink": "/ec2/concept/5957604"
+    }
+  },
+  {
+    "uri": "en/9/396414",
+    "id": "396414",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable searching of data",
+    "harm": {
+      "id": "0006716",
+      "title": "396414 - Computer software to enable searching of data",
+      "conceptLink": "/ec2/concept/5957604"
+    }
+  },
+  {
+    "uri": "en/9/233157505",
+    "id": "233157505",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the provision of information via communications networks",
+    "harm": {
+      "id": "0072852",
+      "title": "233157505 - Computer software to enable the provision of information via communications networks",
+      "conceptLink": "/ec2/concept/6009027"
+    }
+  },
+  {
+    "uri": "en/9/233157504",
+    "id": "233157504",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the provision of electronic media via communications networks",
+    "harm": {
+      "id": "0072851",
+      "title": "233157504 - Computer software to enable the provision of electronic media via communications networks",
+      "conceptLink": "/ec2/concept/6009026"
+    }
+  },
+  {
+    "uri": "en/9/233157599",
+    "id": "233157599",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the provision of information via the Internet",
+    "harm": {
+      "id": "0072850",
+      "title": "233157599 - Computer software to enable the provision of information via the Internet",
+      "conceptLink": "/ec2/concept/6009025"
+    }
+  },
+  {
+    "uri": "en/9/233157499",
+    "id": "233157499",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable browsing on global computer networks",
+    "harm": {
+      "id": "0072846",
+      "title": "233157499 - Computer software to enable browsing on global computer networks",
+      "conceptLink": "/ec2/concept/6009021"
+    }
+  },
+  {
+    "uri": "en/9/233157502",
+    "id": "233157502",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the provision of electronic media via the Internet",
+    "harm": {
+      "id": "0072849",
+      "title": "233157502 - Computer software to enable the provision of electronic media via the Internet",
+      "conceptLink": "/ec2/concept/6009024"
+    }
+  },
+  {
+    "uri": "en/9/2207237",
+    "id": "2207237",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable teleconferencing, videoconferencing and videophone services",
+    "harm": {
+      "id": "0071481",
+      "title": "2207237 - Computer software to enable teleconferencing, videoconferencing and videophone services",
+      "conceptLink": "/ec2/concept/6007672"
+    }
+  },
+  {
+    "uri": "en/9/232207727",
+    "id": "232207727",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable retrieval of data",
+    "harm": {
+      "id": "0071482",
+      "title": "232207727 - Computer software to enable retrieval of data",
+      "conceptLink": "/ec2/concept/6007673"
+    }
+  },
+  {
+    "uri": "en/9/327426",
+    "id": "327426",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enable the transmission of photographs to mobile telephones",
+    "harm": {
+      "id": "0055074",
+      "title": "327426 - Computer software to enable the transmission of photographs to mobile telephones",
+      "conceptLink": "/ec2/concept/5996523"
+    }
+  },
+  {
+    "uri": "en/9/396436",
+    "id": "396436",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enhance the audio-visual capabilities of multimedia applications",
+    "harm": {
+      "id": "0018332",
+      "title": "396436 - Computer software to enhance the audio-visual capabilities of multimedia applications",
+      "conceptLink": "/ec2/concept/5968238"
+    }
+  },
+  {
+    "uri": "en/9/1707036",
+    "id": "1707036",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to enhance the audio-visual capabilities of multimedia applications, namely, for the integration of text, audio, graphics, still images and moving pictures",
+    "harm": {
+      "id": "0055075",
+      "title": "1707036 - Computer software to enhance the audio-visual capabilities of multimedia applications, namely, for the integration of text, audio, graphics, still images and moving pictures",
+      "conceptLink": "/ec2/concept/5996524"
+    }
+  },
+  {
+    "uri": "en/9/67102784",
+    "id": "67102784",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to maintain and operate computer system",
+    "harm": {
+      "id": "0055076",
+      "title": "67102784 - Computer software to maintain and operate computer system",
+      "conceptLink": "/ec2/concept/5996525"
+    }
+  },
+  {
+    "uri": "en/9/233004278",
+    "id": "233004278",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer software to operate vehicles",
+    "harm": {
+      "id": "0072303",
+      "title": "233004278 - Computer software to operate vehicles",
+      "conceptLink": "/ec2/concept/6008486"
+    }
+  },
+  {
+    "uri": "en/9/396449",
+    "id": "396449",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer stylus",
+    "harm": {
+      "id": "0032183",
+      "title": "396449 - Computer stylus",
+      "conceptLink": "/ec2/concept/5980909"
+    }
+  },
+  {
+    "uri": "en/9/531256",
+    "id": "531256",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer sub-assemblies",
+    "harm": {
+      "id": "0041903",
+      "title": "531256 - Computer sub-assemblies",
+      "conceptLink": "/ec2/concept/5989767"
+    }
+  },
+  {
+    "uri": "en/9/531280",
+    "id": "531280",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer swivelling stands",
+    "harm": {
+      "id": "0018858",
+      "title": "531280 - Computer swivelling stands",
+      "conceptLink": "/ec2/concept/5968730"
+    }
+  },
+  {
+    "uri": "en/9/531293",
+    "id": "531293",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer systems",
+    "harm": {
+      "id": "0036141",
+      "title": "531293 - Computer systems",
+      "conceptLink": "/ec2/concept/5984510"
+    }
+  },
+  {
+    "uri": "en/9/531306",
+    "id": "531306",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer tapes",
+    "harm": {
+      "id": "0030337",
+      "title": "531306 - Computer tapes",
+      "conceptLink": "/ec2/concept/5979236"
+    }
+  },
+  {
+    "uri": "en/9/396465",
+    "id": "396465",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer telephony equipment",
+    "harm": {
+      "id": "0026413",
+      "title": "396465 - Computer telephony equipment",
+      "conceptLink": "/ec2/concept/5975641"
+    }
+  },
+  {
+    "uri": "en/9/396484",
+    "id": "396484",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer telephony software",
+    "harm": {
+      "id": "0014912",
+      "title": "396484 - Computer telephony software",
+      "conceptLink": "/ec2/concept/5965109"
+    }
+  },
+  {
+    "uri": "en/9/396499",
+    "id": "396499",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer terminals",
+    "harm": {
+      "id": "0032184",
+      "title": "396499 - Computer terminals",
+      "conceptLink": "/ec2/concept/5980910"
+    }
+  },
+  {
+    "uri": "en/9/531321",
+    "id": "531321",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer terminals for banking purposes",
+    "harm": {
+      "id": "0018859",
+      "title": "531321 - Computer terminals for banking purposes",
+      "conceptLink": "/ec2/concept/5968731"
+    }
+  },
+  {
+    "uri": "en/9/37193681",
+    "id": "37193681",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer touchscreens",
+    "harm": {
+      "id": "0065928",
+      "title": "37193681 - Computer touchscreens",
+      "conceptLink": "/ec2/concept/6002131"
+    }
+  },
+  {
+    "uri": "en/9/137746272",
+    "id": "137746272",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer utility programs for data compression",
+    "harm": {
+      "id": "0070470",
+      "title": "137746272 - Computer utility programs for data compression",
+      "conceptLink": "/ec2/concept/6006662"
+    }
+  },
+  {
+    "uri": "en/9/137746268",
+    "id": "137746268",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer utility programs for file management",
+    "harm": {
+      "id": "0070471",
+      "title": "137746268 - Computer utility programs for file management",
+      "conceptLink": "/ec2/concept/6006663"
+    }
+  },
+  {
+    "uri": "en/9/11996165",
+    "id": "11996165",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer utility programs [program performs computer maintenance work]",
+    "harm": {
+      "id": "0055077",
+      "title": "11996165 - Computer utility programs [program performs computer maintenance work]",
+      "conceptLink": "/ec2/concept/5996526"
+    }
+  },
+  {
+    "uri": "en/9/137699293",
+    "id": "137699293",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer utility programs for computer maintenance",
+    "harm": {
+      "id": "0055077",
+      "title": "137699293 - Computer utility programs for computer maintenance",
+      "conceptLink": "/ec2/concept/5996526"
+    }
+  },
+  {
+    "uri": "en/9/3227402",
+    "id": "3227402",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer video game software",
+    "harm": {
+      "id": "0070926",
+      "title": "3227402 - Computer video game software",
+      "conceptLink": "/ec2/concept/6007118"
+    }
+  },
+  {
+    "uri": "en/9/120897330",
+    "id": "120897330",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer whiteboard software",
+    "harm": {
+      "id": "0065705",
+      "title": "120897330 - Computer whiteboard software",
+      "conceptLink": "/ec2/concept/6001908"
+    }
+  },
+  {
+    "uri": "en/9/396519",
+    "id": "396519",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Computer whiteboards",
+    "harm": {
+      "id": "0043749",
+      "title": "396519 - Computer whiteboards",
+      "conceptLink": "/ec2/concept/5991448"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/40130",
+    "id": "40130",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the maintenance of motor vehicles",
+    "harm": {
+      "id": "0057376",
+      "title": "40130 - Services for the maintenance of motor vehicles",
+      "conceptLink": "/ec2/concept/5998883"
+    }
+  },
+  {
+    "uri": "en/37/824525",
+    "id": "824525",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the maintenance of windscreens in vehicles",
+    "harm": {
+      "id": "0046034",
+      "title": "824525 - Services for the maintenance of windscreens in vehicles",
+      "conceptLink": "/ec2/concept/5993549"
+    }
+  },
+  {
+    "uri": "en/37/815470",
+    "id": "815470",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the maintenance of computers",
+    "harm": {
+      "id": "0014887",
+      "title": "815470 - Services for the maintenance of computers",
+      "conceptLink": "/ec2/concept/5965087"
+    }
+  },
+  {
+    "uri": "en/37/824538",
+    "id": "824538",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the painting and decorating of buildings",
+    "harm": {
+      "id": "0040319",
+      "title": "824538 - Services for the painting and decorating of buildings",
+      "conceptLink": "/ec2/concept/5988324"
+    }
+  },
+  {
+    "uri": "en/37/824550",
+    "id": "824550",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the redecoration of buildings",
+    "harm": {
+      "id": "0046035",
+      "title": "824550 - Services for the redecoration of buildings",
+      "conceptLink": "/ec2/concept/5993550"
+    }
+  },
+  {
+    "uri": "en/37/367408",
+    "id": "367408",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the renovation of buildings",
+    "harm": {
+      "id": "0047075",
+      "title": "367408 - Services for the renovation of buildings",
+      "conceptLink": "/ec2/concept/5994452"
+    }
+  },
+  {
+    "uri": "en/37/824562",
+    "id": "824562",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the rental of machinery for civil engineering",
+    "harm": {
+      "id": "0002078",
+      "title": "824562 - Services for the rental of machinery for civil engineering",
+      "conceptLink": "/ec2/concept/5953355"
+    }
+  },
+  {
+    "uri": "en/37/37220",
+    "id": "37220",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the rental of machinery for building",
+    "harm": {
+      "id": "0057858",
+      "title": "37220 - Services for the rental of machinery for building",
+      "conceptLink": "/ec2/concept/5999362"
+    }
+  },
+  {
+    "uri": "en/37/37215",
+    "id": "37215",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the rental of machinery for construction",
+    "harm": {
+      "id": "0057858",
+      "title": "37215 - Services for the rental of machinery for construction",
+      "conceptLink": "/ec2/concept/5999362"
+    }
+  },
+  {
+    "uri": "en/37/824633",
+    "id": "824633",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of heat exchangers",
+    "harm": {
+      "id": "0036794",
+      "title": "824633 - Services for the repair of heat exchangers",
+      "conceptLink": "/ec2/concept/5985108"
+    }
+  },
+  {
+    "uri": "en/37/824575",
+    "id": "824575",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of canals",
+    "harm": {
+      "id": "0019500",
+      "title": "824575 - Services for the repair of canals",
+      "conceptLink": "/ec2/concept/5969310"
+    }
+  },
+  {
+    "uri": "en/37/824619",
+    "id": "824619",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of drains",
+    "harm": {
+      "id": "0042520",
+      "title": "824619 - Services for the repair of drains",
+      "conceptLink": "/ec2/concept/5990333"
+    }
+  },
+  {
+    "uri": "en/37/824592",
+    "id": "824592",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of pipes",
+    "harm": {
+      "id": "0042519",
+      "title": "824592 - Services for the repair of pipes",
+      "conceptLink": "/ec2/concept/5990332"
+    }
+  },
+  {
+    "uri": "en/37/453619",
+    "id": "453619",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of motor vehicles",
+    "harm": {
+      "id": "0059359",
+      "title": "453619 - Services for the repair of motor vehicles",
+      "conceptLink": "/ec2/concept/6000841"
+    }
+  },
+  {
+    "uri": "en/37/454428",
+    "id": "454428",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of signs",
+    "harm": {
+      "id": "0002079",
+      "title": "454428 - Services for the repair of signs",
+      "conceptLink": "/ec2/concept/5953356"
+    }
+  },
+  {
+    "uri": "en/37/824593",
+    "id": "824593",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of pipelines",
+    "harm": {
+      "id": "0047005",
+      "title": "824593 - Services for the repair of pipelines",
+      "conceptLink": "/ec2/concept/5994386"
+    }
+  },
+  {
+    "uri": "en/37/824591",
+    "id": "824591",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the repair of conduits",
+    "harm": {
+      "id": "0046917",
+      "title": "824591 - Services for the repair of conduits",
+      "conceptLink": "/ec2/concept/5994306"
+    }
+  },
+  {
+    "uri": "en/37/824647",
+    "id": "824647",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Services for the washing of buildings",
+    "harm": {
+      "id": "0025208",
+      "title": "824647 - Services for the washing of buildings",
+      "conceptLink": "/ec2/concept/5974538"
+    }
+  },
+  {
+    "uri": "en/37/120880063",
+    "id": "120880063",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing and repair of aerial work platforms",
+    "harm": {
+      "id": "0068224",
+      "title": "120880063 - Servicing and repair of aerial work platforms",
+      "conceptLink": "/ec2/concept/6004427"
+    }
+  },
+  {
+    "uri": "en/37/120880066",
+    "id": "120880066",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing and repair of lifting apparatus",
+    "harm": {
+      "id": "0068225",
+      "title": "120880066 - Servicing and repair of lifting apparatus",
+      "conceptLink": "/ec2/concept/6004428"
+    }
+  },
+  {
+    "uri": "en/37/120880077",
+    "id": "120880077",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing and repair of mechanical access platforms",
+    "harm": {
+      "id": "0068223",
+      "title": "120880077 - Servicing and repair of mechanical access platforms",
+      "conceptLink": "/ec2/concept/6004426"
+    }
+  },
+  {
+    "uri": "en/37/824660",
+    "id": "824660",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of aeronautical engines",
+    "harm": {
+      "id": "0007794",
+      "title": "824660 - Servicing of aeronautical engines",
+      "conceptLink": "/ec2/concept/5958589"
+    }
+  },
+  {
+    "uri": "en/37/40125",
+    "id": "40125",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of cars",
+    "harm": {
+      "id": "0057378",
+      "title": "40125 - Servicing of cars",
+      "conceptLink": "/ec2/concept/5998885"
+    }
+  },
+  {
+    "uri": "en/37/40126",
+    "id": "40126",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of commercial vehicles",
+    "harm": {
+      "id": "0013641",
+      "title": "40126 - Servicing of commercial vehicles",
+      "conceptLink": "/ec2/concept/5963933"
+    }
+  },
+  {
+    "uri": "en/37/824675",
+    "id": "824675",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of conduits",
+    "harm": {
+      "id": "0046771",
+      "title": "824675 - Servicing of conduits",
+      "conceptLink": "/ec2/concept/5994177"
+    }
+  },
+  {
+    "uri": "en/37/824696",
+    "id": "824696",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of cranes",
+    "harm": {
+      "id": "0002080",
+      "title": "824696 - Servicing of cranes",
+      "conceptLink": "/ec2/concept/5953357"
+    }
+  },
+  {
+    "uri": "en/37/824712",
+    "id": "824712",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of industrial boilers",
+    "harm": {
+      "id": "0002081",
+      "title": "824712 - Servicing of industrial boilers",
+      "conceptLink": "/ec2/concept/5953358"
+    }
+  },
+  {
+    "uri": "en/37/824725",
+    "id": "824725",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of machine tools",
+    "harm": {
+      "id": "0019501",
+      "title": "824725 - Servicing of machine tools",
+      "conceptLink": "/ec2/concept/5969311"
+    }
+  },
+  {
+    "uri": "en/37/824738",
+    "id": "824738",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of mains services",
+    "harm": {
+      "id": "0030945",
+      "title": "824738 - Servicing of mains services",
+      "conceptLink": "/ec2/concept/5979797"
+    }
+  },
+  {
+    "uri": "en/37/120891735",
+    "id": "120891735",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of manufacturing machines and apparatus",
+    "harm": {
+      "id": "0068167",
+      "title": "120891735 - Servicing of manufacturing machines and apparatus",
+      "conceptLink": "/ec2/concept/6004370"
+    }
+  },
+  {
+    "uri": "en/37/824750",
+    "id": "824750",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of nuclear plant",
+    "harm": {
+      "id": "0001180",
+      "title": "824750 - Servicing of nuclear plant",
+      "conceptLink": "/ec2/concept/5952551"
+    }
+  },
+  {
+    "uri": "en/37/824676",
+    "id": "824676",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of pipelines",
+    "harm": {
+      "id": "0046893",
+      "title": "824676 - Servicing of pipelines",
+      "conceptLink": "/ec2/concept/5994285"
+    }
+  },
+  {
+    "uri": "en/37/120878771",
+    "id": "120878771",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of power generating apparatus and installations",
+    "harm": {
+      "id": "0068379",
+      "title": "120878771 - Servicing of power generating apparatus and installations",
+      "conceptLink": "/ec2/concept/6004582"
+    }
+  },
+  {
+    "uri": "en/37/821515",
+    "id": "821515",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of typewriters",
+    "harm": {
+      "id": "0024347",
+      "title": "821515 - Servicing of typewriters",
+      "conceptLink": "/ec2/concept/5973744"
+    }
+  },
+  {
+    "uri": "en/37/824766",
+    "id": "824766",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of vehicle engines",
+    "harm": {
+      "id": "0057377",
+      "title": "824766 - Servicing of vehicle engines",
+      "conceptLink": "/ec2/concept/5998884"
+    }
+  },
+  {
+    "uri": "en/37/40128",
+    "id": "40128",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Servicing of vehicles",
+    "harm": {
+      "id": "0057377",
+      "title": "40128 - Servicing of vehicles",
+      "conceptLink": "/ec2/concept/5998884"
+    }
+  },
+  {
+    "uri": "en/37/824781",
+    "id": "824781",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Setting of gems [repair]",
+    "harm": {
+      "id": "0041653",
+      "title": "824781 - Setting of gems [repair]",
+      "conceptLink": "/ec2/concept/5989544"
+    }
+  },
+  {
+    "uri": "en/37/824794",
+    "id": "824794",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Setting of saw blades",
+    "harm": {
+      "id": "0001181",
+      "title": "824794 - Setting of saw blades",
+      "conceptLink": "/ec2/concept/5952552"
+    }
+  },
+  {
+    "uri": "en/37/824810",
+    "id": "824810",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sewer pipe cleaning",
+    "harm": {
+      "id": "0006938",
+      "title": "824810 - Sewer pipe cleaning",
+      "conceptLink": "/ec2/concept/5957804"
+    }
+  },
+  {
+    "uri": "en/37/824823",
+    "id": "824823",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sewer pipe maintenance",
+    "harm": {
+      "id": "0030088",
+      "title": "824823 - Sewer pipe maintenance",
+      "conceptLink": "/ec2/concept/5979004"
+    }
+  },
+  {
+    "uri": "en/37/824836",
+    "id": "824836",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sewer pipe renovation",
+    "harm": {
+      "id": "0041654",
+      "title": "824836 - Sewer pipe renovation",
+      "conceptLink": "/ec2/concept/5989545"
+    }
+  },
+  {
+    "uri": "en/37/824848",
+    "id": "824848",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sewer pipe servicing",
+    "harm": {
+      "id": "0006939",
+      "title": "824848 - Sewer pipe servicing",
+      "conceptLink": "/ec2/concept/5957805"
+    }
+  },
+  {
+    "uri": "en/37/40903",
+    "id": "40903",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening (Knife -)",
+    "harm": {
+      "id": "0031431",
+      "title": "40903 - Sharpening (Knife -)",
+      "conceptLink": "/ec2/concept/5980240"
+    }
+  },
+  {
+    "uri": "en/37/907191",
+    "id": "907191",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening of kitchen knives",
+    "harm": {
+      "id": "0008106",
+      "title": "907191 - Sharpening of kitchen knives",
+      "conceptLink": "/ec2/concept/5958875"
+    }
+  },
+  {
+    "uri": "en/37/40902",
+    "id": "40902",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening of knives",
+    "harm": {
+      "id": "0031431",
+      "title": "40902 - Sharpening of knives",
+      "conceptLink": "/ec2/concept/5980240"
+    }
+  },
+  {
+    "uri": "en/37/897458",
+    "id": "897458",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening of lawnmowers",
+    "harm": {
+      "id": "0038559",
+      "title": "897458 - Sharpening of lawnmowers",
+      "conceptLink": "/ec2/concept/5986718"
+    }
+  },
+  {
+    "uri": "en/37/454320",
+    "id": "454320",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening of scissors",
+    "harm": {
+      "id": "0019828",
+      "title": "454320 - Sharpening of scissors",
+      "conceptLink": "/ec2/concept/5969602"
+    }
+  },
+  {
+    "uri": "en/37/3162341",
+    "id": "3162341",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening of scissors and kitchen knives",
+    "harm": {
+      "id": "0068465",
+      "title": "3162341 - Sharpening of scissors and kitchen knives",
+      "conceptLink": "/ec2/concept/6004668"
+    }
+  },
+  {
+    "uri": "en/37/897469",
+    "id": "897469",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sharpening services",
+    "harm": {
+      "id": "0015492",
+      "title": "897469 - Sharpening services",
+      "conceptLink": "/ec2/concept/5965639"
+    }
+  },
+  {
+    "uri": "en/37/37365",
+    "id": "37365",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship building",
+    "harm": {
+      "id": "0047084",
+      "title": "37365 - Ship building",
+      "conceptLink": "/ec2/concept/5994461"
+    }
+  },
+  {
+    "uri": "en/37/897481",
+    "id": "897481",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship conversion",
+    "harm": {
+      "id": "0044348",
+      "title": "897481 - Ship conversion",
+      "conceptLink": "/ec2/concept/5991996"
+    }
+  },
+  {
+    "uri": "en/37/824861",
+    "id": "824861",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship defence equipment construction services",
+    "harm": {
+      "id": "0030089",
+      "title": "824861 - Ship defence equipment construction services",
+      "conceptLink": "/ec2/concept/5979005"
+    }
+  },
+  {
+    "uri": "en/37/131113793",
+    "id": "131113793",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship dismantling",
+    "harm": {
+      "id": "0056662",
+      "title": "131113793 - Ship dismantling",
+      "conceptLink": "/ec2/concept/5997956"
+    }
+  },
+  {
+    "uri": "en/37/824873",
+    "id": "824873",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship maintenance",
+    "harm": {
+      "id": "0024348",
+      "title": "824873 - Ship maintenance",
+      "conceptLink": "/ec2/concept/5973745"
+    }
+  },
+  {
+    "uri": "en/37/824887",
+    "id": "824887",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ship repair",
+    "harm": {
+      "id": "0018568",
+      "title": "824887 - Ship repair",
+      "conceptLink": "/ec2/concept/5968456"
+    }
+  },
+  {
+    "uri": "en/37/37362",
+    "id": "37362",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shipbuilding",
+    "harm": {
+      "id": "0047084",
+      "title": "37362 - Shipbuilding",
+      "conceptLink": "/ec2/concept/5994461"
+    }
+  },
+  {
+    "uri": "en/37/37517",
+    "id": "37517",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shoe mending",
+    "harm": {
+      "id": "0011889",
+      "title": "37517 - Shoe mending",
+      "conceptLink": "/ec2/concept/5962341"
+    }
+  },
+  {
+    "uri": "en/37/233244845",
+    "id": "233244845",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shoe polishing services",
+    "harm": {
+      "id": "0005470",
+      "title": "233244845 - Shoe polishing services",
+      "conceptLink": "/ec2/concept/5956468"
+    }
+  },
+  {
+    "uri": "en/37/37515",
+    "id": "37515",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shoe repair",
+    "harm": {
+      "id": "0011889",
+      "title": "37515 - Shoe repair",
+      "conceptLink": "/ec2/concept/5962341"
+    }
+  },
+  {
+    "uri": "en/37/37514",
+    "id": "37514",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shoe repairing",
+    "harm": {
+      "id": "0011889",
+      "title": "37514 - Shoe repairing",
+      "conceptLink": "/ec2/concept/5962341"
+    }
+  },
+  {
+    "uri": "en/37/454386",
+    "id": "454386",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shoe shining",
+    "harm": {
+      "id": "0005470",
+      "title": "454386 - Shoe shining",
+      "conceptLink": "/ec2/concept/5956468"
+    }
+  },
+  {
+    "uri": "en/37/824903",
+    "id": "824903",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Shuttering services",
+    "harm": {
+      "id": "0035884",
+      "title": "824903 - Shuttering services",
+      "conceptLink": "/ec2/concept/5984275"
+    }
+  },
+  {
+    "uri": "en/37/824914",
+    "id": "824914",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign construction",
+    "harm": {
+      "id": "0001182",
+      "title": "824914 - Sign construction",
+      "conceptLink": "/ec2/concept/5952553"
+    }
+  },
+  {
+    "uri": "en/37/824926",
+    "id": "824926",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign maintenance",
+    "harm": {
+      "id": "0018569",
+      "title": "824926 - Sign maintenance",
+      "conceptLink": "/ec2/concept/5968457"
+    }
+  },
+  {
+    "uri": "en/37/454401",
+    "id": "454401",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign painting",
+    "harm": {
+      "id": "0012774",
+      "title": "454401 - Sign painting",
+      "conceptLink": "/ec2/concept/5963152"
+    }
+  },
+  {
+    "uri": "en/37/454403",
+    "id": "454403",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign painting services",
+    "harm": {
+      "id": "0012774",
+      "title": "454403 - Sign painting services",
+      "conceptLink": "/ec2/concept/5963152"
+    }
+  },
+  {
+    "uri": "en/37/824939",
+    "id": "824939",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign posting services",
+    "harm": {
+      "id": "0012775",
+      "title": "824939 - Sign posting services",
+      "conceptLink": "/ec2/concept/5963153"
+    }
+  },
+  {
+    "uri": "en/37/454427",
+    "id": "454427",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Sign repair",
+    "harm": {
+      "id": "0002079",
+      "title": "454427 - Sign repair",
+      "conceptLink": "/ec2/concept/5953356"
+    }
+  },
+  {
+    "uri": "en/37/124330639",
+    "id": "124330639",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Signs (Painting and repair of -)",
+    "harm": {
+      "id": "0000163",
+      "title": "124330639 - Signs (Painting and repair of -)",
+      "conceptLink": "/ec2/concept/5951638"
+    }
+  },
+  {
+    "uri": "en/37/38201",
+    "id": "38201",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Signs (Painting or repair of -)",
+    "harm": {
+      "id": "0000163",
+      "title": "38201 - Signs (Painting or repair of -)",
+      "conceptLink": "/ec2/concept/5951638"
+    }
+  },
+  {
+    "uri": "en/37/824953",
+    "id": "824953",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Site clearance",
+    "harm": {
+      "id": "0024349",
+      "title": "824953 - Site clearance",
+      "conceptLink": "/ec2/concept/5973746"
+    }
+  },
+  {
+    "uri": "en/37/824967",
+    "id": "824967",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Site grading",
+    "harm": {
+      "id": "0030952",
+      "title": "824967 - Site grading",
+      "conceptLink": "/ec2/concept/5979804"
+    }
+  },
+  {
+    "uri": "en/37/824968",
+    "id": "824968",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Site levelling",
+    "harm": {
+      "id": "0030952",
+      "title": "824968 - Site levelling",
+      "conceptLink": "/ec2/concept/5979804"
+    }
+  },
+  {
+    "uri": "en/37/824989",
+    "id": "824989",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Site preparation",
+    "harm": {
+      "id": "0042525",
+      "title": "824989 - Site preparation",
+      "conceptLink": "/ec2/concept/5990337"
+    }
+  },
+  {
+    "uri": "en/37/907244",
+    "id": "907244",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Ski tuning services",
+    "harm": {
+      "id": "0011927",
+      "title": "907244 - Ski tuning services",
+      "conceptLink": "/ec2/concept/5962378"
+    }
+  },
+  {
+    "uri": "en/37/825001",
+    "id": "825001",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Slating and tiling",
+    "harm": {
+      "id": "0019504",
+      "title": "825001 - Slating and tiling",
+      "conceptLink": "/ec2/concept/5969313"
+    }
+  },
+  {
+    "uri": "en/37/41570",
+    "id": "41570",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Snow-making services (Artificial -)",
+    "harm": {
+      "id": "0018967",
+      "title": "41570 - Snow-making services (Artificial -)",
+      "conceptLink": "/ec2/concept/5968829"
+    }
+  },
+  {
+    "uri": "en/37/120891506",
+    "id": "120891506",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Snow removal and de-icing services for airplanes",
+    "harm": {
+      "id": "0068141",
+      "title": "120891506 - Snow removal and de-icing services for airplanes",
+      "conceptLink": "/ec2/concept/6004344"
+    }
+  },
+  {
+    "uri": "en/37/454447",
+    "id": "454447",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Snow removal services",
+    "harm": {
+      "id": "0040072",
+      "title": "454447 - Snow removal services",
+      "conceptLink": "/ec2/concept/5988097"
+    }
+  },
+  {
+    "uri": "en/37/825015",
+    "id": "825015",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil blasting",
+    "harm": {
+      "id": "0036800",
+      "title": "825015 - Soil blasting",
+      "conceptLink": "/ec2/concept/5985113"
+    }
+  },
+  {
+    "uri": "en/37/825029",
+    "id": "825029",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil dredging",
+    "harm": {
+      "id": "0007801",
+      "title": "825029 - Soil dredging",
+      "conceptLink": "/ec2/concept/5958596"
+    }
+  },
+  {
+    "uri": "en/37/454462",
+    "id": "454462",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil erosion control services",
+    "harm": {
+      "id": "0016999",
+      "title": "454462 - Soil erosion control services",
+      "conceptLink": "/ec2/concept/5967026"
+    }
+  },
+  {
+    "uri": "en/37/825041",
+    "id": "825041",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil foundation work",
+    "harm": {
+      "id": "0030953",
+      "title": "825041 - Soil foundation work",
+      "conceptLink": "/ec2/concept/5979805"
+    }
+  },
+  {
+    "uri": "en/37/825054",
+    "id": "825054",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil piling",
+    "harm": {
+      "id": "0025215",
+      "title": "825054 - Soil piling",
+      "conceptLink": "/ec2/concept/5974545"
+    }
+  },
+  {
+    "uri": "en/37/818249",
+    "id": "818249",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Soil stabilisation",
+    "harm": {
+      "id": "0025216",
+      "title": "818249 - Soil stabilisation",
+      "conceptLink": "/ec2/concept/5974546"
+    }
+  },
+  {
+    "uri": "en/37/825066",
+    "id": "825066",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Specialist building restoration",
+    "harm": {
+      "id": "0042526",
+      "title": "825066 - Specialist building restoration",
+      "conceptLink": "/ec2/concept/5990338"
+    }
+  },
+  {
+    "uri": "en/37/825080",
+    "id": "825080",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Spillage clearance",
+    "harm": {
+      "id": "0030954",
+      "title": "825080 - Spillage clearance",
+      "conceptLink": "/ec2/concept/5979806"
+    }
+  },
+  {
+    "uri": "en/37/825094",
+    "id": "825094",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Spindle rebuilding",
+    "harm": {
+      "id": "0042527",
+      "title": "825094 - Spindle rebuilding",
+      "conceptLink": "/ec2/concept/5990339"
+    }
+  },
+  {
+    "uri": "en/37/825109",
+    "id": "825109",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Spindle reconditioning",
+    "harm": {
+      "id": "0007802",
+      "title": "825109 - Spindle reconditioning",
+      "conceptLink": "/ec2/concept/5958597"
+    }
+  },
+  {
+    "uri": "en/37/821955",
+    "id": "821955",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Spray painting",
+    "harm": {
+      "id": "0042528",
+      "title": "821955 - Spray painting",
+      "conceptLink": "/ec2/concept/5990340"
+    }
+  },
+  {
+    "uri": "en/37/825135",
+    "id": "825135",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Spray painting of metals",
+    "harm": {
+      "id": "0036801",
+      "title": "825135 - Spray painting of metals",
+      "conceptLink": "/ec2/concept/5985114"
+    }
+  },
+  {
+    "uri": "en/37/125049334",
+    "id": "125049334",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of earth by vibratory compaction (Services for the -)",
+    "harm": {
+      "id": "0042529",
+      "title": "125049334 - Stabilisation of earth by vibratory compaction (Services for the -)",
+      "conceptLink": "/ec2/concept/5990341"
+    }
+  },
+  {
+    "uri": "en/37/125049229",
+    "id": "125049229",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of earth by cement injection (Services for the -)",
+    "harm": {
+      "id": "0002091",
+      "title": "125049229 - Stabilisation of earth by cement injection (Services for the -)",
+      "conceptLink": "/ec2/concept/5953367"
+    }
+  },
+  {
+    "uri": "en/37/125049301",
+    "id": "125049301",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of earth by insertion of reinforcing bars (Services for the -)",
+    "harm": {
+      "id": "0019505",
+      "title": "125049301 - Stabilisation of earth by insertion of reinforcing bars (Services for the -)",
+      "conceptLink": "/ec2/concept/5969314"
+    }
+  },
+  {
+    "uri": "en/37/125049262",
+    "id": "125049262",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of earth by grout injection (Services for the -)",
+    "harm": {
+      "id": "0030955",
+      "title": "125049262 - Stabilisation of earth by grout injection (Services for the -)",
+      "conceptLink": "/ec2/concept/5979807"
+    }
+  },
+  {
+    "uri": "en/37/125049335",
+    "id": "125049335",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of ground by vibratory compaction (Services for the -)",
+    "harm": {
+      "id": "0042529",
+      "title": "125049335 - Stabilisation of ground by vibratory compaction (Services for the -)",
+      "conceptLink": "/ec2/concept/5990341"
+    }
+  },
+  {
+    "uri": "en/37/125049230",
+    "id": "125049230",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of ground by cement injection (Services for the -)",
+    "harm": {
+      "id": "0002091",
+      "title": "125049230 - Stabilisation of ground by cement injection (Services for the -)",
+      "conceptLink": "/ec2/concept/5953367"
+    }
+  },
+  {
+    "uri": "en/37/125049302",
+    "id": "125049302",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of ground by insertion of reinforcing bars (Services for the -)",
+    "harm": {
+      "id": "0019505",
+      "title": "125049302 - Stabilisation of ground by insertion of reinforcing bars (Services for the -)",
+      "conceptLink": "/ec2/concept/5969314"
+    }
+  },
+  {
+    "uri": "en/37/125049263",
+    "id": "125049263",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of ground by grout injection (Services for the -)",
+    "harm": {
+      "id": "0030955",
+      "title": "125049263 - Stabilisation of ground by grout injection (Services for the -)",
+      "conceptLink": "/ec2/concept/5979807"
+    }
+  },
+  {
+    "uri": "en/37/125049336",
+    "id": "125049336",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Stabilisation of soil by vibratory compaction (Services for the -)",
+    "harm": {
+      "id": "0042529",
+      "title": "125049336 - Stabilisation of soil by vibratory compaction (Services for the -)",
+      "conceptLink": "/ec2/concept/5990341"
+    }
+  }
+]

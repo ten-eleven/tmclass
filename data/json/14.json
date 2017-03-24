@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/892595",
+    "id": "892595",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as food ingredients",
+    "harm": {
+      "id": "0002873",
+      "title": "892595 - Chemical substances for use as food ingredients",
+      "conceptLink": "/ec2/concept/5954073"
+    }
+  },
+  {
+    "uri": "en/1/624576",
+    "id": "624576",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in dissolving toxic gases",
+    "harm": {
+      "id": "0026568",
+      "title": "624576 - Chemical substances for use in dissolving toxic gases",
+      "conceptLink": "/ec2/concept/5975779"
+    }
+  },
+  {
+    "uri": "en/1/624498",
+    "id": "624498",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as adsorbents in the administration of inhalant gases",
+    "harm": {
+      "id": "0026567",
+      "title": "624498 - Chemical substances for use as adsorbents in the administration of inhalant gases",
+      "conceptLink": "/ec2/concept/5975778"
+    }
+  },
+  {
+    "uri": "en/1/624655",
+    "id": "624655",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in neutralizing malodorous gases",
+    "harm": {
+      "id": "0026569",
+      "title": "624655 - Chemical substances for use in neutralizing malodorous gases",
+      "conceptLink": "/ec2/concept/5975780"
+    }
+  },
+  {
+    "uri": "en/1/624668",
+    "id": "624668",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in neutralizing poisonous gases",
+    "harm": {
+      "id": "0026570",
+      "title": "624668 - Chemical substances for use in neutralizing poisonous gases",
+      "conceptLink": "/ec2/concept/5975781"
+    }
+  },
+  {
+    "uri": "en/1/624680",
+    "id": "624680",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in neutralizing toxic gases",
+    "harm": {
+      "id": "0026570",
+      "title": "624680 - Chemical substances for use in neutralizing toxic gases",
+      "conceptLink": "/ec2/concept/5975781"
+    }
+  },
+  {
+    "uri": "en/1/624601",
+    "id": "624601",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in finishing processes in the textile industry",
+    "harm": {
+      "id": "0032323",
+      "title": "624601 - Chemical substances for use in finishing processes in the textile industry",
+      "conceptLink": "/ec2/concept/5981034"
+    }
+  },
+  {
+    "uri": "en/1/892611",
+    "id": "892611",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as ingredients in heat transfer media",
+    "harm": {
+      "id": "0025933",
+      "title": "892611 - Chemical substances for use as ingredients in heat transfer media",
+      "conceptLink": "/ec2/concept/5975201"
+    }
+  },
+  {
+    "uri": "en/1/892583",
+    "id": "892583",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as fat replacements",
+    "harm": {
+      "id": "0031734",
+      "title": "892583 - Chemical substances for use as fat replacements",
+      "conceptLink": "/ec2/concept/5980500"
+    }
+  },
+  {
+    "uri": "en/1/892638",
+    "id": "892638",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the production of forming powder",
+    "harm": {
+      "id": "0031735",
+      "title": "892638 - Chemical substances for use in the production of forming powder",
+      "conceptLink": "/ec2/concept/5980501"
+    }
+  },
+  {
+    "uri": "en/1/892625",
+    "id": "892625",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as soil coverings",
+    "harm": {
+      "id": "0043308",
+      "title": "892625 - Chemical substances for use as soil coverings",
+      "conceptLink": "/ec2/concept/5991044"
+    }
+  },
+  {
+    "uri": "en/1/624550",
+    "id": "624550",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in dissolving malodorous gases",
+    "harm": {
+      "id": "0043883",
+      "title": "624550 - Chemical substances for use in dissolving malodorous gases",
+      "conceptLink": "/ec2/concept/5991573"
+    }
+  },
+  {
+    "uri": "en/1/624524",
+    "id": "624524",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as silage additives",
+    "harm": {
+      "id": "0043881",
+      "title": "624524 - Chemical substances for use as silage additives",
+      "conceptLink": "/ec2/concept/5991571"
+    }
+  },
+  {
+    "uri": "en/1/624537",
+    "id": "624537",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in bioluminescent processes",
+    "harm": {
+      "id": "0043882",
+      "title": "624537 - Chemical substances for use in bioluminescent processes",
+      "conceptLink": "/ec2/concept/5991572"
+    }
+  },
+  {
+    "uri": "en/1/624734",
+    "id": "624734",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the biochemical industry",
+    "harm": {
+      "id": "0043885",
+      "title": "624734 - Chemical substances for use in the biochemical industry",
+      "conceptLink": "/ec2/concept/5991574"
+    }
+  },
+  {
+    "uri": "en/1/624933",
+    "id": "624933",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances of vegetable origin and containing phospholipids",
+    "harm": {
+      "id": "0007790",
+      "title": "624933 - Chemical substances of vegetable origin and containing phospholipids",
+      "conceptLink": "/ec2/concept/5958585"
+    }
+  },
+  {
+    "uri": "en/1/624825",
+    "id": "624825",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances used in the preparation of halogenated chemical derivatives",
+    "harm": {
+      "id": "0013635",
+      "title": "624825 - Chemical substances used in the preparation of halogenated chemical derivatives",
+      "conceptLink": "/ec2/concept/5963928"
+    }
+  },
+  {
+    "uri": "en/1/892650",
+    "id": "892650",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances used in copying and photocopying",
+    "harm": {
+      "id": "0002874",
+      "title": "892650 - Chemical substances used in copying and photocopying",
+      "conceptLink": "/ec2/concept/5954074"
+    }
+  },
+  {
+    "uri": "en/1/624945",
+    "id": "624945",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical supplements for use in the manufacture of vitamins",
+    "harm": {
+      "id": "0025206",
+      "title": "624945 - Chemical supplements for use in the manufacture of vitamins",
+      "conceptLink": "/ec2/concept/5974536"
+    }
+  },
+  {
+    "uri": "en/1/624961",
+    "id": "624961",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical synergists",
+    "harm": {
+      "id": "0036786",
+      "title": "624961 - Chemical synergists",
+      "conceptLink": "/ec2/concept/5985101"
+    }
+  },
+  {
+    "uri": "en/1/10563",
+    "id": "10563",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical test paper",
+    "harm": {
+      "id": "0012691",
+      "title": "10563 - Chemical test paper",
+      "conceptLink": "/ec2/concept/5963078"
+    }
+  },
+  {
+    "uri": "en/1/624973",
+    "id": "624973",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical test paper [sensitised]",
+    "harm": {
+      "id": "0036787",
+      "title": "624973 - Chemical test paper [sensitised]",
+      "conceptLink": "/ec2/concept/5985102"
+    }
+  },
+  {
+    "uri": "en/1/625018",
+    "id": "625018",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical test reagents in tablet form for testing for nitrites [other than medical or veterinary]",
+    "harm": {
+      "id": "0036789",
+      "title": "625018 - Chemical test reagents in tablet form for testing for nitrites [other than medical or veterinary]",
+      "conceptLink": "/ec2/concept/5985104"
+    }
+  },
+  {
+    "uri": "en/1/625003",
+    "id": "625003",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical test reagents in tablet form for testing for copper [other than medical or veterinary]",
+    "harm": {
+      "id": "0042515",
+      "title": "625003 - Chemical test reagents in tablet form for testing for copper [other than medical or veterinary]",
+      "conceptLink": "/ec2/concept/5990329"
+    }
+  },
+  {
+    "uri": "en/1/624987",
+    "id": "624987",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical test reagents [other than medical or veterinary]",
+    "harm": {
+      "id": "0036788",
+      "title": "624987 - Chemical test reagents [other than medical or veterinary]",
+      "conceptLink": "/ec2/concept/5985103"
+    }
+  },
+  {
+    "uri": "en/1/233157518",
+    "id": "233157518",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical testing kits for determining water properties",
+    "harm": {
+      "id": "0072871",
+      "title": "233157518 - Chemical testing kits for determining water properties",
+      "conceptLink": "/ec2/concept/6009046"
+    }
+  },
+  {
+    "uri": "en/1/377102",
+    "id": "377102",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical vehicles used in the manufacture of paints",
+    "harm": {
+      "id": "0038710",
+      "title": "377102 - Chemical vehicles used in the manufacture of paints",
+      "conceptLink": "/ec2/concept/5986852"
+    }
+  },
+  {
+    "uri": "en/1/309873",
+    "id": "309873",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically converted compound fertilizers",
+    "harm": {
+      "id": "0035814",
+      "title": "309873 - Chemically converted compound fertilizers",
+      "conceptLink": "/ec2/concept/5984218"
+    }
+  },
+  {
+    "uri": "en/1/625034",
+    "id": "625034",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically sensitized paper for use in thermal imaging",
+    "harm": {
+      "id": "0025207",
+      "title": "625034 - Chemically sensitized paper for use in thermal imaging",
+      "conceptLink": "/ec2/concept/5974537"
+    }
+  },
+  {
+    "uri": "en/1/625052",
+    "id": "625052",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically treated peat for use in agriculture",
+    "harm": {
+      "id": "0006557",
+      "title": "625052 - Chemically treated peat for use in agriculture",
+      "conceptLink": "/ec2/concept/5957458"
+    }
+  },
+  {
+    "uri": "en/1/625069",
+    "id": "625069",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically treated peat for use in horticulture",
+    "harm": {
+      "id": "0006558",
+      "title": "625069 - Chemically treated peat for use in horticulture",
+      "conceptLink": "/ec2/concept/5957459"
+    }
+  },
+  {
+    "uri": "en/1/625068",
+    "id": "625068",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically treated peat for use in gardening",
+    "harm": {
+      "id": "0006558",
+      "title": "625068 - Chemically treated peat for use in gardening",
+      "conceptLink": "/ec2/concept/5957459"
+    }
+  },
+  {
+    "uri": "en/1/137794820",
+    "id": "137794820",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically treated test strips for calibration of laboratory apparatus",
+    "harm": {
+      "id": "0073578",
+      "title": "137794820 - Chemically treated test strips for calibration of laboratory apparatus",
+      "conceptLink": "/ec2/concept/6009750"
+    }
+  },
+  {
+    "uri": "en/1/137794822",
+    "id": "137794822",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemically treated test strips, other than for medical purposes",
+    "harm": {
+      "id": "0073586",
+      "title": "137794822 - Chemically treated test strips, other than for medical purposes",
+      "conceptLink": "/ec2/concept/6009758"
+    }
+  },
+  {
+    "uri": "en/1/1419",
+    "id": "1419",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals (Agricultural -), except fungicides, weedkillers, herbicides, insecticides and parasiticides",
+    "harm": {
+      "id": "0023388",
+      "title": "1419 - Chemicals (Agricultural -), except fungicides, weedkillers, herbicides, insecticides and parasiticides",
+      "conceptLink": "/ec2/concept/5972862"
+    }
+  },
+  {
+    "uri": "en/1/625101",
+    "id": "625101",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals containing additives having fire extinguishing properties",
+    "harm": {
+      "id": "0035507",
+      "title": "625101 - Chemicals containing additives having fire extinguishing properties",
+      "conceptLink": "/ec2/concept/5983938"
+    }
+  },
+  {
+    "uri": "en/1/623527",
+    "id": "623527",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals derived from petroleum",
+    "harm": {
+      "id": "0041064",
+      "title": "623527 - Chemicals derived from petroleum",
+      "conceptLink": "/ec2/concept/5989004"
+    }
+  },
+  {
+    "uri": "en/1/136443032",
+    "id": "136443032",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals, except pigments, for the manufacture of enamel",
+    "harm": {
+      "id": "0012700",
+      "title": "136443032 - Chemicals, except pigments, for the manufacture of enamel",
+      "conceptLink": "/ec2/concept/5963085"
+    }
+  },
+  {
+    "uri": "en/1/119520595",
+    "id": "119520595",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for absorbing oxygen",
+    "harm": {
+      "id": "0065025",
+      "title": "119520595 - Chemicals for absorbing oxygen",
+      "conceptLink": "/ec2/concept/6001228"
+    }
+  },
+  {
+    "uri": "en/1/625114",
+    "id": "625114",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for dissolving oxygen from water",
+    "harm": {
+      "id": "0023965",
+      "title": "625114 - Chemicals for dissolving oxygen from water",
+      "conceptLink": "/ec2/concept/5973392"
+    }
+  },
+  {
+    "uri": "en/1/625127",
+    "id": "625127",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for electrostatic use",
+    "harm": {
+      "id": "0029708",
+      "title": "625127 - Chemicals for electrostatic use",
+      "conceptLink": "/ec2/concept/5978660"
+    }
+  },
+  {
+    "uri": "en/1/625140",
+    "id": "625140",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for etching enamels",
+    "harm": {
+      "id": "0012349",
+      "title": "625140 - Chemicals for etching enamels",
+      "conceptLink": "/ec2/concept/5962767"
+    }
+  },
+  {
+    "uri": "en/1/901700",
+    "id": "901700",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for fermenting wine",
+    "harm": {
+      "id": "0000418",
+      "title": "901700 - Chemicals for fermenting wine",
+      "conceptLink": "/ec2/concept/5951864"
+    }
+  },
+  {
+    "uri": "en/1/17394",
+    "id": "17394",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for forestry, except fungicides, herbicides, insecticides and parasiticides",
+    "harm": {
+      "id": "0024286",
+      "title": "17394 - Chemicals for forestry, except fungicides, herbicides, insecticides and parasiticides",
+      "conceptLink": "/ec2/concept/5973694"
+    }
+  },
+  {
+    "uri": "en/1/17395",
+    "id": "17395",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for forestry, other than fungicides, herbicides, insecticides and parasiticides",
+    "harm": {
+      "id": "0024286",
+      "title": "17395 - Chemicals for forestry, other than fungicides, herbicides, insecticides and parasiticides",
+      "conceptLink": "/ec2/concept/5973694"
+    }
+  },
+  {
+    "uri": "en/1/12694",
+    "id": "12694",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for horticulture, other than fungicides, herbicides, insecticides and parasiticides",
+    "harm": {
+      "id": "0000519",
+      "title": "12694 - Chemicals for horticulture, other than fungicides, herbicides, insecticides and parasiticides",
+      "conceptLink": "/ec2/concept/5951955"
+    }
+  },
+  {
+    "uri": "en/1/13255",
+    "id": "13255",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for impregnating textiles",
+    "harm": {
+      "id": "0026305",
+      "title": "13255 - Chemicals for impregnating textiles",
+      "conceptLink": "/ec2/concept/5975545"
+    }
+  },
+  {
+    "uri": "en/1/625153",
+    "id": "625153",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for impregnating textile fabrics",
+    "harm": {
+      "id": "0026305",
+      "title": "625153 - Chemicals for impregnating textile fabrics",
+      "conceptLink": "/ec2/concept/5975545"
+    }
+  },
+  {
+    "uri": "en/1/6589",
+    "id": "6589",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for industrial purposes",
+    "harm": {
+      "id": "0041196",
+      "title": "6589 - Chemicals for industrial purposes",
+      "conceptLink": "/ec2/concept/5989124"
+    }
+  },
+  {
+    "uri": "en/1/625164",
+    "id": "625164",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for off-set presses",
+    "harm": {
+      "id": "0041272",
+      "title": "625164 - Chemicals for off-set presses",
+      "conceptLink": "/ec2/concept/5989196"
+    }
+  },
+  {
+    "uri": "en/1/1955",
+    "id": "1955",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for preserving foodstuffs",
+    "harm": {
+      "id": "0006086",
+      "title": "1955 - Chemicals for preserving foodstuffs",
+      "conceptLink": "/ec2/concept/5957030"
+    }
+  },
+  {
+    "uri": "en/1/625175",
+    "id": "625175",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for preventing corrosion",
+    "harm": {
+      "id": "0023966",
+      "title": "625175 - Chemicals for preventing corrosion",
+      "conceptLink": "/ec2/concept/5973393"
+    }
+  },
+  {
+    "uri": "en/1/625191",
+    "id": "625191",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for processing sensitized unexposed x-ray films",
+    "harm": {
+      "id": "0018162",
+      "title": "625191 - Chemicals for processing sensitized unexposed x-ray films",
+      "conceptLink": "/ec2/concept/5968080"
+    }
+  },
+  {
+    "uri": "en/1/892671",
+    "id": "892671",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for reprographic use",
+    "harm": {
+      "id": "0020274",
+      "title": "892671 - Chemicals for reprographic use",
+      "conceptLink": "/ec2/concept/5970011"
+    }
+  },
+  {
+    "uri": "en/1/625204",
+    "id": "625204",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for testing solutions of spent photoresist developers",
+    "harm": {
+      "id": "0023967",
+      "title": "625204 - Chemicals for testing solutions of spent photoresist developers",
+      "conceptLink": "/ec2/concept/5973394"
+    }
+  },
+  {
+    "uri": "en/1/625217",
+    "id": "625217",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the conservation of polythene cables",
+    "harm": {
+      "id": "0043497",
+      "title": "625217 - Chemicals for the conservation of polythene cables",
+      "conceptLink": "/ec2/concept/5991219"
+    }
+  },
+  {
+    "uri": "en/1/625229",
+    "id": "625229",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the control of environmental pollution",
+    "harm": {
+      "id": "0043498",
+      "title": "625229 - Chemicals for the control of environmental pollution",
+      "conceptLink": "/ec2/concept/5991220"
+    }
+  },
+  {
+    "uri": "en/1/2341",
+    "id": "2341",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the correction of soils",
+    "harm": {
+      "id": "0031287",
+      "title": "2341 - Chemicals for the correction of soils",
+      "conceptLink": "/ec2/concept/5980109"
+    }
+  },
+  {
+    "uri": "en/1/2980305",
+    "id": "2980305",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the manufacture of pigments",
+    "harm": {
+      "id": "0060708",
+      "title": "2980305 - Chemicals for the manufacture of pigments",
+      "conceptLink": "/ec2/concept/6001028"
+    }
+  },
+  {
+    "uri": "en/1/22937489",
+    "id": "22937489",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the manufacture of paints",
+    "harm": {
+      "id": "0057045",
+      "title": "22937489 - Chemicals for the manufacture of paints",
+      "conceptLink": "/ec2/concept/5998676"
+    }
+  },
+  {
+    "uri": "en/1/625244",
+    "id": "625244",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the protection of plants [other than fungicides, weedkillers, herbicides, insecticides, parasiticides]",
+    "harm": {
+      "id": "0014643",
+      "title": "625244 - Chemicals for the protection of plants [other than fungicides, weedkillers, herbicides, insecticides, parasiticides]",
+      "conceptLink": "/ec2/concept/5964870"
+    }
+  },
+  {
+    "uri": "en/1/20296",
+    "id": "20296",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the purification of water",
+    "harm": {
+      "id": "0007526",
+      "title": "20296 - Chemicals for the purification of water",
+      "conceptLink": "/ec2/concept/5958347"
+    }
+  },
+  {
+    "uri": "en/1/625259",
+    "id": "625259",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the purification of water used in swimming pools",
+    "harm": {
+      "id": "0026137",
+      "title": "625259 - Chemicals for the purification of water used in swimming pools",
+      "conceptLink": "/ec2/concept/5975388"
+    }
+  },
+  {
+    "uri": "en/1/625275",
+    "id": "625275",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the suppression of the odour of water",
+    "harm": {
+      "id": "0026138",
+      "title": "625275 - Chemicals for the suppression of the odour of water",
+      "conceptLink": "/ec2/concept/5975389"
+    }
+  },
+  {
+    "uri": "en/1/892691",
+    "id": "892691",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the suppression of the taste of water",
+    "harm": {
+      "id": "0041548",
+      "title": "892691 - Chemicals for the suppression of the taste of water",
+      "conceptLink": "/ec2/concept/5989448"
+    }
+  },
+  {
+    "uri": "en/1/625325",
+    "id": "625325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the treatment to improve corrosion resistance",
+    "harm": {
+      "id": "0008790",
+      "title": "625325 - Chemicals for the treatment to improve corrosion resistance",
+      "conceptLink": "/ec2/concept/5959492"
+    }
+  },
+  {
+    "uri": "en/1/625313",
+    "id": "625313",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the treatment of polythene cables",
+    "harm": {
+      "id": "0037717",
+      "title": "625313 - Chemicals for the treatment of polythene cables",
+      "conceptLink": "/ec2/concept/5985940"
+    }
+  },
+  {
+    "uri": "en/1/625290",
+    "id": "625290",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the treatment of fabrics",
+    "harm": {
+      "id": "0031918",
+      "title": "625290 - Chemicals for the treatment of fabrics",
+      "conceptLink": "/ec2/concept/5980666"
+    }
+  },
+  {
+    "uri": "en/1/233114420",
+    "id": "233114420",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the treatment of irrigation water",
+    "harm": {
+      "id": "0073028",
+      "title": "233114420 - Chemicals for the treatment of irrigation water",
+      "conceptLink": "/ec2/concept/6009203"
+    }
+  },
+  {
+    "uri": "en/1/136633612",
+    "id": "136633612",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for the treatment of hot water systems",
+    "harm": {
+      "id": "0060119",
+      "title": "136633612 - Chemicals for the treatment of hot water systems",
+      "conceptLink": "/ec2/concept/5996381"
+    }
+  },
+  {
+    "uri": "en/1/901705",
+    "id": "901705",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating hazardous waste",
+    "harm": {
+      "id": "0040899",
+      "title": "901705 - Chemicals for treating hazardous waste",
+      "conceptLink": "/ec2/concept/5988847"
+    }
+  },
+  {
+    "uri": "en/1/625338",
+    "id": "625338",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating spent chemicals used in manufacture",
+    "harm": {
+      "id": "0026139",
+      "title": "625338 - Chemicals for treating spent chemicals used in manufacture",
+      "conceptLink": "/ec2/concept/5975390"
+    }
+  },
+  {
+    "uri": "en/1/625291",
+    "id": "625291",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating textile fabrics",
+    "harm": {
+      "id": "0031918",
+      "title": "625291 - Chemicals for treating textile fabrics",
+      "conceptLink": "/ec2/concept/5980666"
+    }
+  },
+  {
+    "uri": "en/1/626948",
+    "id": "626948",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating threads",
+    "harm": {
+      "id": "0031919",
+      "title": "626948 - Chemicals for treating threads",
+      "conceptLink": "/ec2/concept/5980667"
+    }
+  },
+  {
+    "uri": "en/1/622961",
+    "id": "622961",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating water",
+    "harm": {
+      "id": "0007526",
+      "title": "622961 - Chemicals for treating water",
+      "conceptLink": "/ec2/concept/5958347"
+    }
+  },
+  {
+    "uri": "en/1/625351",
+    "id": "625351",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating wearing apparel",
+    "harm": {
+      "id": "0020487",
+      "title": "625351 - Chemicals for treating wearing apparel",
+      "conceptLink": "/ec2/concept/5970202"
+    }
+  },
+  {
+    "uri": "en/1/625364",
+    "id": "625364",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for treating yarns",
+    "harm": {
+      "id": "0031919",
+      "title": "625364 - Chemicals for treating yarns",
+      "conceptLink": "/ec2/concept/5980667"
+    }
+  },
+  {
+    "uri": "en/1/625376",
+    "id": "625376",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as auxiliaries in electroplating",
+    "harm": {
+      "id": "0027241",
+      "title": "625376 - Chemicals for use as auxiliaries in electroplating",
+      "conceptLink": "/ec2/concept/5976378"
+    }
+  },
+  {
+    "uri": "en/1/625415",
+    "id": "625415",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as aversion agents by virtue of their taste",
+    "harm": {
+      "id": "0038789",
+      "title": "625415 - Chemicals for use as aversion agents by virtue of their taste",
+      "conceptLink": "/ec2/concept/5986924"
+    }
+  },
+  {
+    "uri": "en/1/625392",
+    "id": "625392",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as aversion agents by virtue of their odour",
+    "harm": {
+      "id": "0032981",
+      "title": "625392 - Chemicals for use as aversion agents by virtue of their odour",
+      "conceptLink": "/ec2/concept/5981637"
+    }
+  },
+  {
+    "uri": "en/1/625449",
+    "id": "625449",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as deterrents by virtue of their taste",
+    "harm": {
+      "id": "0038789",
+      "title": "625449 - Chemicals for use as deterrents by virtue of their taste",
+      "conceptLink": "/ec2/concept/5986924"
+    }
+  },
+  {
+    "uri": "en/1/625436",
+    "id": "625436",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as deterrents by virtue of their odour",
+    "harm": {
+      "id": "0032981",
+      "title": "625436 - Chemicals for use as deterrents by virtue of their odour",
+      "conceptLink": "/ec2/concept/5981637"
+    }
+  },
+  {
+    "uri": "en/1/625460",
+    "id": "625460",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as flame retardants for textiles",
+    "harm": {
+      "id": "0004164",
+      "title": "625460 - Chemicals for use as flame retardants for textiles",
+      "conceptLink": "/ec2/concept/5955256"
+    }
+  },
+  {
+    "uri": "en/1/625475",
+    "id": "625475",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as fluorescent substrates",
+    "harm": {
+      "id": "0015707",
+      "title": "625475 - Chemicals for use as fluorescent substrates",
+      "conceptLink": "/ec2/concept/5965840"
+    }
+  },
+  {
+    "uri": "en/1/625490",
+    "id": "625490",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as ingredients in the course of manufacture",
+    "harm": {
+      "id": "0027242",
+      "title": "625490 - Chemicals for use as ingredients in the course of manufacture",
+      "conceptLink": "/ec2/concept/5976379"
+    }
+  },
+  {
+    "uri": "en/1/625504",
+    "id": "625504",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as intermediates in the manufacture of pesticides",
+    "harm": {
+      "id": "0004165",
+      "title": "625504 - Chemicals for use as intermediates in the manufacture of pesticides",
+      "conceptLink": "/ec2/concept/5955257"
+    }
+  },
+  {
+    "uri": "en/1/625516",
+    "id": "625516",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as processing additives in the petrochemicals industry",
+    "harm": {
+      "id": "0032982",
+      "title": "625516 - Chemicals for use as processing additives in the petrochemicals industry",
+      "conceptLink": "/ec2/concept/5981638"
+    }
+  },
+  {
+    "uri": "en/1/625416",
+    "id": "625416",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as repellents by virtue of their taste",
+    "harm": {
+      "id": "0038789",
+      "title": "625416 - Chemicals for use as repellents by virtue of their taste",
+      "conceptLink": "/ec2/concept/5986924"
+    }
+  },
+  {
+    "uri": "en/1/625393",
+    "id": "625393",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use as repellents by virtue of their odour",
+    "harm": {
+      "id": "0032981",
+      "title": "625393 - Chemicals for use as repellents by virtue of their odour",
+      "conceptLink": "/ec2/concept/5981637"
+    }
+  },
+  {
+    "uri": "en/1/4108263",
+    "id": "4108263",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in agriculture",
+    "harm": {
+      "id": "0057077",
+      "title": "4108263 - Chemicals for use in agriculture",
+      "conceptLink": "/ec2/concept/5998702"
+    }
+  },
+  {
+    "uri": "en/1/625532",
+    "id": "625532",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in analysis [other than medical and veterinary]",
+    "harm": {
+      "id": "0009884",
+      "title": "625532 - Chemicals for use in analysis [other than medical and veterinary]",
+      "conceptLink": "/ec2/concept/5960501"
+    }
+  },
+  {
+    "uri": "en/1/901714",
+    "id": "901714",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in aquariums",
+    "harm": {
+      "id": "0023598",
+      "title": "901714 - Chemicals for use in aquariums",
+      "conceptLink": "/ec2/concept/5973055"
+    }
+  },
+  {
+    "uri": "en/1/625547",
+    "id": "625547",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in aquariums [other than pharmaceuticals]",
+    "harm": {
+      "id": "0032983",
+      "title": "625547 - Chemicals for use in aquariums [other than pharmaceuticals]",
+      "conceptLink": "/ec2/concept/5981639"
+    }
+  },
+  {
+    "uri": "en/1/119520619",
+    "id": "119520619",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in aquaculture",
+    "harm": {
+      "id": "0065007",
+      "title": "119520619 - Chemicals for use in aquaculture",
+      "conceptLink": "/ec2/concept/6001210"
+    }
+  },
+  {
+    "uri": "en/1/119520613",
+    "id": "119520613",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in biotechnological manufacturing processes",
+    "harm": {
+      "id": "0065031",
+      "title": "119520613 - Chemicals for use in biotechnological manufacturing processes",
+      "conceptLink": "/ec2/concept/6001234"
+    }
+  },
+  {
+    "uri": "en/1/119520612",
+    "id": "119520612",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in biotechnological product development",
+    "harm": {
+      "id": "0065032",
+      "title": "119520612 - Chemicals for use in biotechnological product development",
+      "conceptLink": "/ec2/concept/6001235"
+    }
+  },
+  {
+    "uri": "en/1/625561",
+    "id": "625561",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in brewing",
+    "harm": {
+      "id": "0010612",
+      "title": "625561 - Chemicals for use in brewing",
+      "conceptLink": "/ec2/concept/5961170"
+    }
+  },
+  {
+    "uri": "en/1/625573",
+    "id": "625573",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in chromatography [other than medical and veterinary]",
+    "harm": {
+      "id": "0004890",
+      "title": "625573 - Chemicals for use in chromatography [other than medical and veterinary]",
+      "conceptLink": "/ec2/concept/5955936"
+    }
+  },
+  {
+    "uri": "en/1/14408303",
+    "id": "14408303",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in chromatography",
+    "harm": {
+      "id": "0029317",
+      "title": "14408303 - Chemicals for use in chromatography",
+      "conceptLink": "/ec2/concept/5978298"
+    }
+  },
+  {
+    "uri": "en/1/625592",
+    "id": "625592",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemicals for use in clarifying water",
+    "harm": {
+      "id": "0010613",
+      "title": "625592 - Chemicals for use in clarifying water",
+      "conceptLink": "/ec2/concept/5961171"
+    }
+  }
+]

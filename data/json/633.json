@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/32588",
+    "id": "32588",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of guarantees",
+    "harm": {
+      "id": "0009958",
+      "title": "32588 - Issuing of guarantees",
+      "conceptLink": "/ec2/concept/5960570"
+    }
+  },
+  {
+    "uri": "en/36/802577",
+    "id": "802577",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of letters of credit",
+    "harm": {
+      "id": "0029823",
+      "title": "802577 - Issuing of letters of credit",
+      "conceptLink": "/ec2/concept/5978766"
+    }
+  },
+  {
+    "uri": "en/36/807488",
+    "id": "807488",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of luncheon vouchers",
+    "harm": {
+      "id": "0009029",
+      "title": "807488 - Issuing of luncheon vouchers",
+      "conceptLink": "/ec2/concept/5959720"
+    }
+  },
+  {
+    "uri": "en/36/807512",
+    "id": "807512",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of mortgage bonds",
+    "harm": {
+      "id": "0033059",
+      "title": "807512 - Issuing of mortgage bonds",
+      "conceptLink": "/ec2/concept/5981710"
+    }
+  },
+  {
+    "uri": "en/36/807528",
+    "id": "807528",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of negotiable instruments",
+    "harm": {
+      "id": "0021676",
+      "title": "807528 - Issuing of negotiable instruments",
+      "conceptLink": "/ec2/concept/5971289"
+    }
+  },
+  {
+    "uri": "en/36/233252622",
+    "id": "233252622",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of payment gift cards",
+    "harm": {
+      "id": "0073305",
+      "title": "233252622 - Issuing of payment gift cards",
+      "conceptLink": "/ec2/concept/6009478"
+    }
+  },
+  {
+    "uri": "en/36/233252624",
+    "id": "233252624",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of payment gift vouchers",
+    "harm": {
+      "id": "0073306",
+      "title": "233252624 - Issuing of payment gift vouchers",
+      "conceptLink": "/ec2/concept/6009479"
+    }
+  },
+  {
+    "uri": "en/36/807540",
+    "id": "807540",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of promissory notes",
+    "harm": {
+      "id": "0038862",
+      "title": "807540 - Issuing of promissory notes",
+      "conceptLink": "/ec2/concept/5986986"
+    }
+  },
+  {
+    "uri": "en/36/807441",
+    "id": "807441",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of statements of accounts",
+    "harm": {
+      "id": "0004233",
+      "title": "807441 - Issuing of statements of accounts",
+      "conceptLink": "/ec2/concept/5955321"
+    }
+  },
+  {
+    "uri": "en/36/807552",
+    "id": "807552",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of tokens of value in relation to customer loyalty schemes",
+    "harm": {
+      "id": "0015781",
+      "title": "807552 - Issuing of tokens of value in relation to customer loyalty schemes",
+      "conceptLink": "/ec2/concept/5965911"
+    }
+  },
+  {
+    "uri": "en/36/35710",
+    "id": "35710",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of tokens of value",
+    "harm": {
+      "id": "0042898",
+      "title": "35710 - Issuing of tokens of value",
+      "conceptLink": "/ec2/concept/5990671"
+    }
+  },
+  {
+    "uri": "en/36/807567",
+    "id": "807567",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of tokens of value in relation to incentive schemes",
+    "harm": {
+      "id": "0038863",
+      "title": "807567 - Issuing of tokens of value in relation to incentive schemes",
+      "conceptLink": "/ec2/concept/5986987"
+    }
+  },
+  {
+    "uri": "en/36/807583",
+    "id": "807583",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travel vouchers",
+    "harm": {
+      "id": "0019225",
+      "title": "807583 - Issuing of travel vouchers",
+      "conceptLink": "/ec2/concept/5969066"
+    }
+  },
+  {
+    "uri": "en/36/904626",
+    "id": "904626",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travelers' cheques",
+    "harm": {
+      "id": "0001018",
+      "title": "904626 - Issuing of travelers' cheques",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/886665",
+    "id": "886665",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travellers' cheques and letters of credit",
+    "harm": {
+      "id": "0019857",
+      "title": "886665 - Issuing of travellers' cheques and letters of credit",
+      "conceptLink": "/ec2/concept/5969630"
+    }
+  },
+  {
+    "uri": "en/36/32911",
+    "id": "32911",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travellers' cheques",
+    "harm": {
+      "id": "0001018",
+      "title": "32911 - Issuing of travellers' cheques",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/904627",
+    "id": "904627",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travellers' checks",
+    "harm": {
+      "id": "0001018",
+      "title": "904627 - Issuing of travellers' checks",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/450097",
+    "id": "450097",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of travellers' cheques and currency vouchers",
+    "harm": {
+      "id": "0044298",
+      "title": "450097 - Issuing of travellers' cheques and currency vouchers",
+      "conceptLink": "/ec2/concept/5991955"
+    }
+  },
+  {
+    "uri": "en/36/35713",
+    "id": "35713",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of vouchers",
+    "harm": {
+      "id": "0042898",
+      "title": "35713 - Issuing of vouchers",
+      "conceptLink": "/ec2/concept/5990671"
+    }
+  },
+  {
+    "uri": "en/36/807489",
+    "id": "807489",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of vouchers for meals",
+    "harm": {
+      "id": "0009029",
+      "title": "807489 - Issuing of vouchers for meals",
+      "conceptLink": "/ec2/concept/5959720"
+    }
+  },
+  {
+    "uri": "en/36/807600",
+    "id": "807600",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing of vouchers for use as money",
+    "harm": {
+      "id": "0021677",
+      "title": "807600 - Issuing of vouchers for use as money",
+      "conceptLink": "/ec2/concept/5971290"
+    }
+  },
+  {
+    "uri": "en/36/450116",
+    "id": "450116",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing stored value cards",
+    "harm": {
+      "id": "0009624",
+      "title": "450116 - Issuing stored value cards",
+      "conceptLink": "/ec2/concept/5960268"
+    }
+  },
+  {
+    "uri": "en/36/119550254",
+    "id": "119550254",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing stored value cards for use as electronic travel tickets",
+    "harm": {
+      "id": "0067790",
+      "title": "119550254 - Issuing stored value cards for use as electronic travel tickets",
+      "conceptLink": "/ec2/concept/6003993"
+    }
+  },
+  {
+    "uri": "en/36/35709",
+    "id": "35709",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing tokens of value",
+    "harm": {
+      "id": "0042898",
+      "title": "35709 - Issuing tokens of value",
+      "conceptLink": "/ec2/concept/5990671"
+    }
+  },
+  {
+    "uri": "en/36/120881620",
+    "id": "120881620",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing tokens of value as part of a customer membership scheme",
+    "harm": {
+      "id": "0067828",
+      "title": "120881620 - Issuing tokens of value as part of a customer membership scheme",
+      "conceptLink": "/ec2/concept/6004031"
+    }
+  },
+  {
+    "uri": "en/36/120880795",
+    "id": "120880795",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing tokens of value as a reward for customer loyalty",
+    "harm": {
+      "id": "0067911",
+      "title": "120880795 - Issuing tokens of value as a reward for customer loyalty",
+      "conceptLink": "/ec2/concept/6004114"
+    }
+  },
+  {
+    "uri": "en/36/120881971",
+    "id": "120881971",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing tokens of value in the nature of gift vouchers",
+    "harm": {
+      "id": "0067796",
+      "title": "120881971 - Issuing tokens of value in the nature of gift vouchers",
+      "conceptLink": "/ec2/concept/6003999"
+    }
+  },
+  {
+    "uri": "en/36/904632",
+    "id": "904632",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Issuing traveler's checks by travel agencies",
+    "harm": {
+      "id": "0040421",
+      "title": "904632 - Issuing traveler's checks by travel agencies",
+      "conceptLink": "/ec2/concept/5988414"
+    }
+  },
+  {
+    "uri": "en/36/35471",
+    "id": "35471",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Jewellery appraisal",
+    "harm": {
+      "id": "0012041",
+      "title": "35471 - Jewellery appraisal",
+      "conceptLink": "/ec2/concept/5962485"
+    }
+  },
+  {
+    "uri": "en/36/35472",
+    "id": "35472",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Jewellery appraisal [valuation]",
+    "harm": {
+      "id": "0012041",
+      "title": "35472 - Jewellery appraisal [valuation]",
+      "conceptLink": "/ec2/concept/5962485"
+    }
+  },
+  {
+    "uri": "en/36/129604231",
+    "id": "129604231",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Jewellery [jewelry (Am.)] appraisal",
+    "harm": {
+      "id": "0012041",
+      "title": "129604231 - Jewellery [jewelry (Am.)] appraisal",
+      "conceptLink": "/ec2/concept/5962485"
+    }
+  },
+  {
+    "uri": "en/36/35470",
+    "id": "35470",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Jewelry appraisal",
+    "harm": {
+      "id": "0012041",
+      "title": "35470 - Jewelry appraisal",
+      "conceptLink": "/ec2/concept/5962485"
+    }
+  },
+  {
+    "uri": "en/36/450131",
+    "id": "450131",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Land acquisition services",
+    "harm": {
+      "id": "0003876",
+      "title": "450131 - Land acquisition services",
+      "conceptLink": "/ec2/concept/5954999"
+    }
+  },
+  {
+    "uri": "en/36/807615",
+    "id": "807615",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Land acquisition services [on behalf of others]",
+    "harm": {
+      "id": "0026411",
+      "title": "807615 - Land acquisition services [on behalf of others]",
+      "conceptLink": "/ec2/concept/5975639"
+    }
+  },
+  {
+    "uri": "en/36/366929",
+    "id": "366929",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Land leasing",
+    "harm": {
+      "id": "0041765",
+      "title": "366929 - Land leasing",
+      "conceptLink": "/ec2/concept/5989642"
+    }
+  },
+  {
+    "uri": "en/36/366931",
+    "id": "366931",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Land leasing services",
+    "harm": {
+      "id": "0041765",
+      "title": "366931 - Land leasing services",
+      "conceptLink": "/ec2/concept/5989642"
+    }
+  },
+  {
+    "uri": "en/36/30673",
+    "id": "30673",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease of real estate",
+    "harm": {
+      "id": "0010619",
+      "title": "30673 - Lease of real estate",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/34049",
+    "id": "34049",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease purchase finance",
+    "harm": {
+      "id": "0038637",
+      "title": "34049 - Lease purchase finance",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/34052",
+    "id": "34052",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease-purchase financing",
+    "harm": {
+      "id": "0038637",
+      "title": "34052 - Lease-purchase financing",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/807629",
+    "id": "807629",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease purchase financing of vehicles",
+    "harm": {
+      "id": "0009068",
+      "title": "807629 - Lease purchase financing of vehicles",
+      "conceptLink": "/ec2/concept/5959756"
+    }
+  },
+  {
+    "uri": "en/36/34055",
+    "id": "34055",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease-purchase financing services",
+    "harm": {
+      "id": "0038637",
+      "title": "34055 - Lease-purchase financing services",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/450158",
+    "id": "450158",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease-purchase loans",
+    "harm": {
+      "id": "0009625",
+      "title": "450158 - Lease-purchase loans",
+      "conceptLink": "/ec2/concept/5960269"
+    }
+  },
+  {
+    "uri": "en/36/450146",
+    "id": "450146",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lease securitization",
+    "harm": {
+      "id": "0015450",
+      "title": "450146 - Lease securitization",
+      "conceptLink": "/ec2/concept/5965604"
+    }
+  },
+  {
+    "uri": "en/36/807646",
+    "id": "807646",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leases (arranging of -) [real estate property only]",
+    "harm": {
+      "id": "0026412",
+      "title": "807646 - Leases (arranging of -) [real estate property only]",
+      "conceptLink": "/ec2/concept/5975640"
+    }
+  },
+  {
+    "uri": "en/36/447177",
+    "id": "447177",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing and rental of commercial premises",
+    "harm": {
+      "id": "0000815",
+      "title": "447177 - Leasing and rental of commercial premises",
+      "conceptLink": "/ec2/concept/5952224"
+    }
+  },
+  {
+    "uri": "en/36/807659",
+    "id": "807659",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of accommodation in a retail outlet",
+    "harm": {
+      "id": "0003299",
+      "title": "807659 - Leasing of accommodation in a retail outlet",
+      "conceptLink": "/ec2/concept/5954468"
+    }
+  },
+  {
+    "uri": "en/36/33739",
+    "id": "33739",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of apartments",
+    "harm": {
+      "id": "0035500",
+      "title": "33739 - Leasing of apartments",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/366520",
+    "id": "366520",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of buildings",
+    "harm": {
+      "id": "0057130",
+      "title": "366520 - Leasing of buildings",
+      "conceptLink": "/ec2/concept/5998768"
+    }
+  },
+  {
+    "uri": "en/36/33842",
+    "id": "33842",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of farms",
+    "harm": {
+      "id": "0017757",
+      "title": "33842 - Leasing of farms",
+      "conceptLink": "/ec2/concept/5967710"
+    }
+  },
+  {
+    "uri": "en/36/33732",
+    "id": "33732",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of flats",
+    "harm": {
+      "id": "0035500",
+      "title": "33732 - Leasing of flats",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/807671",
+    "id": "807671",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of freehold property",
+    "harm": {
+      "id": "0009069",
+      "title": "807671 - Leasing of freehold property",
+      "conceptLink": "/ec2/concept/5959757"
+    }
+  },
+  {
+    "uri": "en/36/366522",
+    "id": "366522",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of houses",
+    "harm": {
+      "id": "0035500",
+      "title": "366522 - Leasing of houses",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/366930",
+    "id": "366930",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of land",
+    "harm": {
+      "id": "0041765",
+      "title": "366930 - Leasing of land",
+      "conceptLink": "/ec2/concept/5989642"
+    }
+  },
+  {
+    "uri": "en/36/904789",
+    "id": "904789",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of office space",
+    "harm": {
+      "id": "0058147",
+      "title": "904789 - Leasing of office space",
+      "conceptLink": "/ec2/concept/5999648"
+    }
+  },
+  {
+    "uri": "en/36/30676",
+    "id": "30676",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of property",
+    "harm": {
+      "id": "0010619",
+      "title": "30676 - Leasing of property",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/30675",
+    "id": "30675",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of real estate",
+    "harm": {
+      "id": "0010619",
+      "title": "30675 - Leasing of real estate",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/30677",
+    "id": "30677",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of real estate property",
+    "harm": {
+      "id": "0010619",
+      "title": "30677 - Leasing of real estate property",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/904806",
+    "id": "904806",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of shopping mall space",
+    "harm": {
+      "id": "0018410",
+      "title": "904806 - Leasing of shopping mall space",
+      "conceptLink": "/ec2/concept/5968308"
+    }
+  },
+  {
+    "uri": "en/36/807686",
+    "id": "807686",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing of shopping premises",
+    "harm": {
+      "id": "0038002",
+      "title": "807686 - Leasing of shopping premises",
+      "conceptLink": "/ec2/concept/5986201"
+    }
+  },
+  {
+    "uri": "en/36/23226056",
+    "id": "23226056",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing or rental of buildings",
+    "harm": {
+      "id": "0057130",
+      "title": "23226056 - Leasing or rental of buildings",
+      "conceptLink": "/ec2/concept/5998768"
+    }
+  },
+  {
+    "uri": "en/36/366963",
+    "id": "366963",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Leasing or renting of buildings",
+    "harm": {
+      "id": "0057130",
+      "title": "366963 - Leasing or renting of buildings",
+      "conceptLink": "/ec2/concept/5998768"
+    }
+  },
+  {
+    "uri": "en/36/806545",
+    "id": "806545",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Legal expenses insurance",
+    "harm": {
+      "id": "0032180",
+      "title": "806545 - Legal expenses insurance",
+      "conceptLink": "/ec2/concept/5980906"
+    }
+  },
+  {
+    "uri": "en/36/487026",
+    "id": "487026",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending against securities",
+    "harm": {
+      "id": "0072802",
+      "title": "487026 - Lending against securities",
+      "conceptLink": "/ec2/concept/6008977"
+    }
+  },
+  {
+    "uri": "en/36/807722",
+    "id": "807722",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending against security",
+    "harm": {
+      "id": "0072801",
+      "title": "807722 - Lending against security",
+      "conceptLink": "/ec2/concept/6008976"
+    }
+  },
+  {
+    "uri": "en/36/450180",
+    "id": "450180",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending and loans services",
+    "harm": {
+      "id": "0038523",
+      "title": "450180 - Lending and loans services",
+      "conceptLink": "/ec2/concept/5986684"
+    }
+  },
+  {
+    "uri": "en/36/450585",
+    "id": "450585",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending on mortgage",
+    "harm": {
+      "id": "0004789",
+      "title": "450585 - Lending on mortgage",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/450586",
+    "id": "450586",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending on mortgages",
+    "harm": {
+      "id": "0004789",
+      "title": "450586 - Lending on mortgages",
+      "conceptLink": "/ec2/concept/5955839"
+    }
+  },
+  {
+    "uri": "en/36/807699",
+    "id": "807699",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending services to merchants for the purpose of financing store inventories of vehicles",
+    "harm": {
+      "id": "0006671",
+      "title": "807699 - Lending services to merchants for the purpose of financing store inventories of vehicles",
+      "conceptLink": "/ec2/concept/5957563"
+    }
+  },
+  {
+    "uri": "en/36/807724",
+    "id": "807724",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Lending services to merchants secured by accounts receivable",
+    "harm": {
+      "id": "0035607",
+      "title": "807724 - Lending services to merchants secured by accounts receivable",
+      "conceptLink": "/ec2/concept/5984028"
+    }
+  },
+  {
+    "uri": "en/36/125027386",
+    "id": "125027386",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letters of credit (Issuing -)",
+    "harm": {
+      "id": "0029823",
+      "title": "125027386 - Letters of credit (Issuing -)",
+      "conceptLink": "/ec2/concept/5978766"
+    }
+  },
+  {
+    "uri": "en/36/807772",
+    "id": "807772",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting agency for sheltered accommodation",
+    "harm": {
+      "id": "0018279",
+      "title": "807772 - Letting agency for sheltered accommodation",
+      "conceptLink": "/ec2/concept/5968189"
+    }
+  },
+  {
+    "uri": "en/36/450225",
+    "id": "450225",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting and rental of permanent accommodation",
+    "harm": {
+      "id": "0009626",
+      "title": "450225 - Letting and rental of permanent accommodation",
+      "conceptLink": "/ec2/concept/5960270"
+    }
+  },
+  {
+    "uri": "en/36/33734",
+    "id": "33734",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of apartments",
+    "harm": {
+      "id": "0035500",
+      "title": "33734 - Letting of apartments",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/33735",
+    "id": "33735",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of flats",
+    "harm": {
+      "id": "0035500",
+      "title": "33735 - Letting of flats",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/807788",
+    "id": "807788",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of houses for hire",
+    "harm": {
+      "id": "0035500",
+      "title": "807788 - Letting of houses for hire",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/451393",
+    "id": "451393",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of office accommodation",
+    "harm": {
+      "id": "0058147",
+      "title": "451393 - Letting of office accommodation",
+      "conceptLink": "/ec2/concept/5999648"
+    }
+  },
+  {
+    "uri": "en/36/9021571",
+    "id": "9021571",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of office space",
+    "harm": {
+      "id": "0058147",
+      "title": "9021571 - Letting of office space",
+      "conceptLink": "/ec2/concept/5999648"
+    }
+  },
+  {
+    "uri": "en/36/807813",
+    "id": "807813",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of showrooms",
+    "harm": {
+      "id": "0006672",
+      "title": "807813 - Letting of showrooms",
+      "conceptLink": "/ec2/concept/5957564"
+    }
+  },
+  {
+    "uri": "en/36/807826",
+    "id": "807826",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Letting of trade centres",
+    "harm": {
+      "id": "0035608",
+      "title": "807826 - Letting of trade centres",
+      "conceptLink": "/ec2/concept/5984029"
+    }
+  },
+  {
+    "uri": "en/36/14833027",
+    "id": "14833027",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Liability guarantee",
+    "harm": {
+      "id": "0050337",
+      "title": "14833027 - Liability guarantee",
+      "conceptLink": "/ec2/concept/5995537"
+    }
+  },
+  {
+    "uri": "en/36/30111708",
+    "id": "30111708",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Liability guarantee services",
+    "harm": {
+      "id": "0009168",
+      "title": "30111708 - Liability guarantee services",
+      "conceptLink": "/ec2/concept/5959851"
+    }
+  },
+  {
+    "uri": "en/36/34425",
+    "id": "34425",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life assurance",
+    "harm": {
+      "id": "0037944",
+      "title": "34425 - Life assurance",
+      "conceptLink": "/ec2/concept/5986146"
+    }
+  },
+  {
+    "uri": "en/36/366981",
+    "id": "366981",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life assurance brokerage",
+    "harm": {
+      "id": "0018282",
+      "title": "366981 - Life assurance brokerage",
+      "conceptLink": "/ec2/concept/5968191"
+    }
+  },
+  {
+    "uri": "en/36/807839",
+    "id": "807839",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life assurance consultancy",
+    "harm": {
+      "id": "0003297",
+      "title": "807839 - Life assurance consultancy",
+      "conceptLink": "/ec2/concept/5954466"
+    }
+  },
+  {
+    "uri": "en/36/34421",
+    "id": "34421",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life assurance services",
+    "harm": {
+      "id": "0003297",
+      "title": "34421 - Life assurance services",
+      "conceptLink": "/ec2/concept/5954466"
+    }
+  },
+  {
+    "uri": "en/36/34423",
+    "id": "34423",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life insurance",
+    "harm": {
+      "id": "0037944",
+      "title": "34423 - Life insurance",
+      "conceptLink": "/ec2/concept/5986146"
+    }
+  },
+  {
+    "uri": "en/36/449598",
+    "id": "449598",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life insurance agencies",
+    "harm": {
+      "id": "0028779",
+      "title": "449598 - Life insurance agencies",
+      "conceptLink": "/ec2/concept/5977812"
+    }
+  },
+  {
+    "uri": "en/36/366980",
+    "id": "366980",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life insurance brokerage",
+    "harm": {
+      "id": "0018282",
+      "title": "366980 - Life insurance brokerage",
+      "conceptLink": "/ec2/concept/5968191"
+    }
+  },
+  {
+    "uri": "en/36/34420",
+    "id": "34420",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Life insurance underwriting",
+    "harm": {
+      "id": "0011991",
+      "title": "34420 - Life insurance underwriting",
+      "conceptLink": "/ec2/concept/5962438"
+    }
+  },
+  {
+    "uri": "en/36/9110686",
+    "id": "9110686",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan advice",
+    "harm": {
+      "id": "0071326",
+      "title": "9110686 - Loan advice",
+      "conceptLink": "/ec2/concept/6007517"
+    }
+  },
+  {
+    "uri": "en/36/450241",
+    "id": "450241",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan advice and loan procurement services",
+    "harm": {
+      "id": "0044299",
+      "title": "450241 - Loan advice and loan procurement services",
+      "conceptLink": "/ec2/concept/5991956"
+    }
+  },
+  {
+    "uri": "en/36/131139603",
+    "id": "131139603",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan and credit, and lease-finance services",
+    "harm": {
+      "id": "0047992",
+      "title": "131139603 - Loan and credit, and lease-finance services",
+      "conceptLink": "/ec2/concept/5995253"
+    }
+  },
+  {
+    "uri": "en/36/483417",
+    "id": "483417",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan and credit services",
+    "harm": {
+      "id": "0007287",
+      "title": "483417 - Loan and credit services",
+      "conceptLink": "/ec2/concept/5958128"
+    }
+  },
+  {
+    "uri": "en/36/450282",
+    "id": "450282",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan financing",
+    "harm": {
+      "id": "0000493",
+      "title": "450282 - Loan financing",
+      "conceptLink": "/ec2/concept/5951930"
+    }
+  },
+  {
+    "uri": "en/36/32590",
+    "id": "32590",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan guarantees",
+    "harm": {
+      "id": "0032022",
+      "title": "32590 - Loan guarantees",
+      "conceptLink": "/ec2/concept/5980761"
+    }
+  },
+  {
+    "uri": "en/36/450179",
+    "id": "450179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan services",
+    "harm": {
+      "id": "0004145",
+      "title": "450179 - Loan services",
+      "conceptLink": "/ec2/concept/5955237"
+    }
+  },
+  {
+    "uri": "en/36/807850",
+    "id": "807850",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loan services for property investment",
+    "harm": {
+      "id": "0009028",
+      "title": "807850 - Loan services for property investment",
+      "conceptLink": "/ec2/concept/5959719"
+    }
+  },
+  {
+    "uri": "en/36/807865",
+    "id": "807865",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loans against securities",
+    "harm": {
+      "id": "0032022",
+      "title": "807865 - Loans against securities",
+      "conceptLink": "/ec2/concept/5980761"
+    }
+  },
+  {
+    "uri": "en/36/125025023",
+    "id": "125025023",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loans against security (Arranging -)",
+    "harm": {
+      "id": "0058557",
+      "title": "125025023 - Loans against security (Arranging -)",
+      "conceptLink": "/ec2/concept/6000050"
+    }
+  },
+  {
+    "uri": "en/36/125025024",
+    "id": "125025024",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Loans against security (Provision of -)",
+    "harm": {
+      "id": "0058558",
+      "title": "125025024 - Loans against security (Provision of -)",
+      "conceptLink": "/ec2/concept/6000051"
+    }
+  }
+]

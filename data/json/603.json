@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/35/120875630",
+    "id": "120875630",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy services relating to the administration and management of hotels",
+    "harm": {
+      "id": "0067752",
+      "title": "120875630 - Consultancy services relating to the administration and management of hotels",
+      "conceptLink": "/ec2/concept/6003955"
+    }
+  },
+  {
+    "uri": "en/35/137794850",
+    "id": "137794850",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy services relating to the management of telephone call centers",
+    "harm": {
+      "id": "0051664",
+      "title": "137794850 - Consultancy services relating to the management of telephone call centers",
+      "conceptLink": "/ec2/concept/6010650"
+    }
+  },
+  {
+    "uri": "en/35/45512574",
+    "id": "45512574",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy services relating to the procurement of goods and services",
+    "harm": {
+      "id": "0051677",
+      "title": "45512574 - Consultancy services relating to the procurement of goods and services",
+      "conceptLink": "/ec2/concept/6010663"
+    }
+  },
+  {
+    "uri": "en/35/363476",
+    "id": "363476",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultation in the field of business acquisitions",
+    "harm": {
+      "id": "0006540",
+      "title": "363476 - Consultation in the field of business acquisitions",
+      "conceptLink": "/ec2/concept/5957444"
+    }
+  },
+  {
+    "uri": "en/35/794393",
+    "id": "794393",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to business disposals",
+    "harm": {
+      "id": "0008547",
+      "title": "794393 - Consultations relating to business disposals",
+      "conceptLink": "/ec2/concept/5959274"
+    }
+  },
+  {
+    "uri": "en/35/794405",
+    "id": "794405",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to business promotion",
+    "harm": {
+      "id": "0014409",
+      "title": "794405 - Consultations relating to business promotion",
+      "conceptLink": "/ec2/concept/5964653"
+    }
+  },
+  {
+    "uri": "en/35/363483",
+    "id": "363483",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to business acquisitions",
+    "harm": {
+      "id": "0006540",
+      "title": "363483 - Consultations relating to business acquisitions",
+      "conceptLink": "/ec2/concept/5957444"
+    }
+  },
+  {
+    "uri": "en/35/792238",
+    "id": "792238",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to business advertising",
+    "harm": {
+      "id": "0035309",
+      "title": "792238 - Consultations relating to business advertising",
+      "conceptLink": "/ec2/concept/5983759"
+    }
+  },
+  {
+    "uri": "en/35/363796",
+    "id": "363796",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to business mergers",
+    "harm": {
+      "id": "0018558",
+      "title": "363796 - Consultations relating to business mergers",
+      "conceptLink": "/ec2/concept/5968447"
+    }
+  },
+  {
+    "uri": "en/35/794201",
+    "id": "794201",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultations relating to advertising",
+    "harm": {
+      "id": "0046776",
+      "title": "794201 - Consultations relating to advertising",
+      "conceptLink": "/ec2/concept/5994182"
+    }
+  },
+  {
+    "uri": "en/35/890934",
+    "id": "890934",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting and information concerning accounting",
+    "harm": {
+      "id": "0041133",
+      "title": "890934 - Consulting and information concerning accounting",
+      "conceptLink": "/ec2/concept/5989065"
+    }
+  },
+  {
+    "uri": "en/35/902297",
+    "id": "902297",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting in sales techniques and sales programmes",
+    "harm": {
+      "id": "0023540",
+      "title": "902297 - Consulting in sales techniques and sales programmes",
+      "conceptLink": "/ec2/concept/5973002"
+    }
+  },
+  {
+    "uri": "en/35/26151",
+    "id": "26151",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting services in business organization and management",
+    "harm": {
+      "id": "0057000",
+      "title": "26151 - Consulting services in business organization and management",
+      "conceptLink": "/ec2/concept/5998629"
+    }
+  },
+  {
+    "uri": "en/35/137738607",
+    "id": "137738607",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting services in the field of Internet marketing",
+    "harm": {
+      "id": "0051431",
+      "title": "137738607 - Consulting services in the field of Internet marketing",
+      "conceptLink": "/ec2/concept/6010417"
+    }
+  },
+  {
+    "uri": "en/35/480194",
+    "id": "480194",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting services relating to marketing",
+    "harm": {
+      "id": "0057398",
+      "title": "480194 - Consulting services relating to marketing",
+      "conceptLink": "/ec2/concept/5998905"
+    }
+  },
+  {
+    "uri": "en/35/364492",
+    "id": "364492",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consulting services relating to publicity",
+    "harm": {
+      "id": "0046776",
+      "title": "364492 - Consulting services relating to publicity",
+      "conceptLink": "/ec2/concept/5994182"
+    }
+  },
+  {
+    "uri": "en/35/794419",
+    "id": "794419",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consumer market information services",
+    "harm": {
+      "id": "0018954",
+      "title": "794419 - Consumer market information services",
+      "conceptLink": "/ec2/concept/5968818"
+    }
+  },
+  {
+    "uri": "en/35/364533",
+    "id": "364533",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consumer research",
+    "harm": {
+      "id": "0016631",
+      "title": "364533 - Consumer research",
+      "conceptLink": "/ec2/concept/5966695"
+    }
+  },
+  {
+    "uri": "en/35/481366",
+    "id": "481366",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consumer response analysis",
+    "harm": {
+      "id": "0040955",
+      "title": "481366 - Consumer response analysis",
+      "conceptLink": "/ec2/concept/5988901"
+    }
+  },
+  {
+    "uri": "en/35/495145",
+    "id": "495145",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consumers (Commercial information and advice for -) [consumer advice shop]",
+    "harm": {
+      "id": "0019074",
+      "title": "495145 - Consumers (Commercial information and advice for -) [consumer advice shop]",
+      "conceptLink": "/ec2/concept/5968926"
+    }
+  },
+  {
+    "uri": "en/35/27015",
+    "id": "27015",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Copying of documents",
+    "harm": {
+      "id": "0041144",
+      "title": "27015 - Copying of documents",
+      "conceptLink": "/ec2/concept/5989074"
+    }
+  },
+  {
+    "uri": "en/35/364552",
+    "id": "364552",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Copying of documents for others",
+    "harm": {
+      "id": "0045444",
+      "title": "364552 - Copying of documents for others",
+      "conceptLink": "/ec2/concept/5993009"
+    }
+  },
+  {
+    "uri": "en/35/481394",
+    "id": "481394",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Copying services",
+    "harm": {
+      "id": "0029371",
+      "title": "481394 - Copying services",
+      "conceptLink": "/ec2/concept/5978346"
+    }
+  },
+  {
+    "uri": "en/35/616260",
+    "id": "616260",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Copywriting",
+    "harm": {
+      "id": "0058129",
+      "title": "616260 - Copywriting",
+      "conceptLink": "/ec2/concept/5999630"
+    }
+  },
+  {
+    "uri": "en/35/137894413",
+    "id": "137894413",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Copywriting for advertising and promotional purposes",
+    "harm": {
+      "id": "0051553",
+      "title": "137894413 - Copywriting for advertising and promotional purposes",
+      "conceptLink": "/ec2/concept/6010539"
+    }
+  },
+  {
+    "uri": "en/35/478112",
+    "id": "478112",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate identity services",
+    "harm": {
+      "id": "0028585",
+      "title": "478112 - Corporate identity services",
+      "conceptLink": "/ec2/concept/5977627"
+    }
+  },
+  {
+    "uri": "en/35/136071949",
+    "id": "136071949",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate image development consultation",
+    "harm": {
+      "id": "0060871",
+      "title": "136071949 - Corporate image development consultation",
+      "conceptLink": "/ec2/concept/6001191"
+    }
+  },
+  {
+    "uri": "en/35/794433",
+    "id": "794433",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate image studies",
+    "harm": {
+      "id": "0007305",
+      "title": "794433 - Corporate image studies",
+      "conceptLink": "/ec2/concept/5958146"
+    }
+  },
+  {
+    "uri": "en/35/24890",
+    "id": "24890",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate management assistance",
+    "harm": {
+      "id": "0028169",
+      "title": "24890 - Corporate management assistance",
+      "conceptLink": "/ec2/concept/5977237"
+    }
+  },
+  {
+    "uri": "en/35/479977",
+    "id": "479977",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate management consultancy",
+    "harm": {
+      "id": "0058801",
+      "title": "479977 - Corporate management consultancy",
+      "conceptLink": "/ec2/concept/6000292"
+    }
+  },
+  {
+    "uri": "en/35/363912",
+    "id": "363912",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Corporate planning",
+    "harm": {
+      "id": "0013115",
+      "title": "363912 - Corporate planning",
+      "conceptLink": "/ec2/concept/5963461"
+    }
+  },
+  {
+    "uri": "en/35/25884",
+    "id": "25884",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost accounting",
+    "harm": {
+      "id": "0039699",
+      "title": "25884 - Cost accounting",
+      "conceptLink": "/ec2/concept/5987752"
+    }
+  },
+  {
+    "uri": "en/35/25470",
+    "id": "25470",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost analyses",
+    "harm": {
+      "id": "0042005",
+      "title": "25470 - Cost analyses",
+      "conceptLink": "/ec2/concept/5989862"
+    }
+  },
+  {
+    "uri": "en/35/25469",
+    "id": "25469",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost analysis",
+    "harm": {
+      "id": "0042005",
+      "title": "25469 - Cost analysis",
+      "conceptLink": "/ec2/concept/5989862"
+    }
+  },
+  {
+    "uri": "en/35/364566",
+    "id": "364566",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost assessment services",
+    "harm": {
+      "id": "0028170",
+      "title": "364566 - Cost assessment services",
+      "conceptLink": "/ec2/concept/5977238"
+    }
+  },
+  {
+    "uri": "en/35/132841816",
+    "id": "132841816",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost benefit analysis",
+    "harm": {
+      "id": "0067770",
+      "title": "132841816 - Cost benefit analysis",
+      "conceptLink": "/ec2/concept/6003973"
+    }
+  },
+  {
+    "uri": "en/35/794447",
+    "id": "794447",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost management accounting",
+    "harm": {
+      "id": "0013116",
+      "title": "794447 - Cost management accounting",
+      "conceptLink": "/ec2/concept/5963462"
+    }
+  },
+  {
+    "uri": "en/35/25468",
+    "id": "25468",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost price analysis",
+    "harm": {
+      "id": "0042005",
+      "title": "25468 - Cost price analysis",
+      "conceptLink": "/ec2/concept/5989862"
+    }
+  },
+  {
+    "uri": "en/35/5060583",
+    "id": "5060583",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Cost price analysis regarding waste disposal, removal, handling and recycling",
+    "harm": {
+      "id": "0051676",
+      "title": "5060583 - Cost price analysis regarding waste disposal, removal, handling and recycling",
+      "conceptLink": "/ec2/concept/6010662"
+    }
+  },
+  {
+    "uri": "en/35/794461",
+    "id": "794461",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Counselling on business matters",
+    "harm": {
+      "id": "0036241",
+      "title": "794461 - Counselling on business matters",
+      "conceptLink": "/ec2/concept/5984600"
+    }
+  },
+  {
+    "uri": "en/35/136180244",
+    "id": "136180244",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Coupon procurement services for others",
+    "harm": {
+      "id": "0056832",
+      "title": "136180244 - Coupon procurement services for others",
+      "conceptLink": "/ec2/concept/5998109"
+    }
+  },
+  {
+    "uri": "en/35/902368",
+    "id": "902368",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Creating advertising material",
+    "harm": {
+      "id": "0007924",
+      "title": "902368 - Creating advertising material",
+      "conceptLink": "/ec2/concept/5958712"
+    }
+  },
+  {
+    "uri": "en/35/1135308",
+    "id": "1135308",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Credit card registration services",
+    "harm": {
+      "id": "0056625",
+      "title": "1135308 - Credit card registration services",
+      "conceptLink": "/ec2/concept/5997922"
+    }
+  },
+  {
+    "uri": "en/35/902480",
+    "id": "902480",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Customer club services, for commercial, promotional and/or advertising purposes",
+    "harm": {
+      "id": "0030477",
+      "title": "902480 - Customer club services, for commercial, promotional and/or advertising purposes",
+      "conceptLink": "/ec2/concept/5979366"
+    }
+  },
+  {
+    "uri": "en/35/902479",
+    "id": "902479",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Customer loyalty services for commercial, promotional and/or advertising purposes",
+    "harm": {
+      "id": "0007326",
+      "title": "902479 - Customer loyalty services for commercial, promotional and/or advertising purposes",
+      "conceptLink": "/ec2/concept/5958164"
+    }
+  },
+  {
+    "uri": "en/35/125145949",
+    "id": "125145949",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data-base management (Computerised -)",
+    "harm": {
+      "id": "0028989",
+      "title": "125145949 - Data-base management (Computerised -)",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/794575",
+    "id": "794575",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data-based stock control",
+    "harm": {
+      "id": "0031701",
+      "title": "794575 - Data-based stock control",
+      "conceptLink": "/ec2/concept/5980472"
+    }
+  },
+  {
+    "uri": "en/35/794589",
+    "id": "794589",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data-based stock location services",
+    "harm": {
+      "id": "0008548",
+      "title": "794589 - Data-based stock location services",
+      "conceptLink": "/ec2/concept/5959275"
+    }
+  },
+  {
+    "uri": "en/35/794479",
+    "id": "794479",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data collection [for others]",
+    "harm": {
+      "id": "0023224",
+      "title": "794479 - Data collection [for others]",
+      "conceptLink": "/ec2/concept/5972704"
+    }
+  },
+  {
+    "uri": "en/35/794478",
+    "id": "794478",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data compilation for others",
+    "harm": {
+      "id": "0023224",
+      "title": "794478 - Data compilation for others",
+      "conceptLink": "/ec2/concept/5972704"
+    }
+  },
+  {
+    "uri": "en/35/481574",
+    "id": "481574",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data entry and data processing",
+    "harm": {
+      "id": "0015893",
+      "title": "481574 - Data entry and data processing",
+      "conceptLink": "/ec2/concept/5966018"
+    }
+  },
+  {
+    "uri": "en/35/31009524",
+    "id": "31009524",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data inputting services",
+    "harm": {
+      "id": "0074013",
+      "title": "31009524 - Data inputting services",
+      "conceptLink": "/ec2/concept/6011249"
+    }
+  },
+  {
+    "uri": "en/35/481590",
+    "id": "481590",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data management services",
+    "harm": {
+      "id": "0004355",
+      "title": "481590 - Data management services",
+      "conceptLink": "/ec2/concept/5955436"
+    }
+  },
+  {
+    "uri": "en/35/481610",
+    "id": "481610",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing",
+    "harm": {
+      "id": "0038987",
+      "title": "481610 - Data processing",
+      "conceptLink": "/ec2/concept/5987102"
+    }
+  },
+  {
+    "uri": "en/35/794503",
+    "id": "794503",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing for businesses",
+    "harm": {
+      "id": "0018955",
+      "title": "794503 - Data processing for businesses",
+      "conceptLink": "/ec2/concept/5968819"
+    }
+  },
+  {
+    "uri": "en/35/794517",
+    "id": "794517",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing for the collection of data for business purposes",
+    "harm": {
+      "id": "0018956",
+      "title": "794517 - Data processing for the collection of data for business purposes",
+      "conceptLink": "/ec2/concept/5968820"
+    }
+  },
+  {
+    "uri": "en/35/446414",
+    "id": "446414",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing management",
+    "harm": {
+      "id": "0038987",
+      "title": "446414 - Data processing management",
+      "conceptLink": "/ec2/concept/5987102"
+    }
+  },
+  {
+    "uri": "en/35/446416",
+    "id": "446416",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing services",
+    "harm": {
+      "id": "0038987",
+      "title": "446416 - Data processing services",
+      "conceptLink": "/ec2/concept/5987102"
+    }
+  },
+  {
+    "uri": "en/35/137875526",
+    "id": "137875526",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing services in the field of healthcare",
+    "harm": {
+      "id": "0070709",
+      "title": "137875526 - Data processing services in the field of healthcare",
+      "conceptLink": "/ec2/concept/6006901"
+    }
+  },
+  {
+    "uri": "en/35/137875525",
+    "id": "137875525",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing services in the field of transportation",
+    "harm": {
+      "id": "0070711",
+      "title": "137875525 - Data processing services in the field of transportation",
+      "conceptLink": "/ec2/concept/6006903"
+    }
+  },
+  {
+    "uri": "en/35/137875513",
+    "id": "137875513",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing services in the field of payroll",
+    "harm": {
+      "id": "0070710",
+      "title": "137875513 - Data processing services in the field of payroll",
+      "conceptLink": "/ec2/concept/6006902"
+    }
+  },
+  {
+    "uri": "en/35/794531",
+    "id": "794531",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data processing verification",
+    "harm": {
+      "id": "0024700",
+      "title": "794531 - Data processing verification",
+      "conceptLink": "/ec2/concept/5974075"
+    }
+  },
+  {
+    "uri": "en/35/481625",
+    "id": "481625",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data retrieval services",
+    "harm": {
+      "id": "0067734",
+      "title": "481625 - Data retrieval services",
+      "conceptLink": "/ec2/concept/6003937"
+    }
+  },
+  {
+    "uri": "en/35/30282",
+    "id": "30282",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data search in computer files for others",
+    "harm": {
+      "id": "0031729",
+      "title": "30282 - Data search in computer files for others",
+      "conceptLink": "/ec2/concept/5980495"
+    }
+  },
+  {
+    "uri": "en/35/30281",
+    "id": "30281",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data searches in computerised files for others",
+    "harm": {
+      "id": "0031729",
+      "title": "30281 - Data searches in computerised files for others",
+      "conceptLink": "/ec2/concept/5980495"
+    }
+  },
+  {
+    "uri": "en/35/896764",
+    "id": "896764",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Data transcription",
+    "harm": {
+      "id": "0040499",
+      "title": "896764 - Data transcription",
+      "conceptLink": "/ec2/concept/5988485"
+    }
+  },
+  {
+    "uri": "en/35/28571",
+    "id": "28571",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Database management",
+    "harm": {
+      "id": "0028989",
+      "title": "28571 - Database management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/28576",
+    "id": "28576",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Database management services",
+    "harm": {
+      "id": "0028989",
+      "title": "28576 - Database management services",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/2858341",
+    "id": "2858341",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Database marketing",
+    "harm": {
+      "id": "0071486",
+      "title": "2858341 - Database marketing",
+      "conceptLink": "/ec2/concept/6007677"
+    }
+  },
+  {
+    "uri": "en/35/794603",
+    "id": "794603",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration [for promotional/advertising purposes]",
+    "harm": {
+      "id": "0028871",
+      "title": "794603 - Demonstration [for promotional/advertising purposes]",
+      "conceptLink": "/ec2/concept/5977896"
+    }
+  },
+  {
+    "uri": "en/35/26807",
+    "id": "26807",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of goods",
+    "harm": {
+      "id": "0045401",
+      "title": "26807 - Demonstration of goods",
+      "conceptLink": "/ec2/concept/5992968"
+    }
+  },
+  {
+    "uri": "en/35/504063",
+    "id": "504063",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of goods and services by electronic means, also for the benefit of the so-called teleshopping and homeshopping services",
+    "harm": {
+      "id": "0003425",
+      "title": "504063 - Demonstration of goods and services by electronic means, also for the benefit of the so-called teleshopping and homeshopping services",
+      "conceptLink": "/ec2/concept/5954583"
+    }
+  },
+  {
+    "uri": "en/35/794620",
+    "id": "794620",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of goods for promotional purposes",
+    "harm": {
+      "id": "0031702",
+      "title": "794620 - Demonstration of goods for promotional purposes",
+      "conceptLink": "/ec2/concept/5980473"
+    }
+  },
+  {
+    "uri": "en/35/794619",
+    "id": "794619",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of goods for advertising purposes",
+    "harm": {
+      "id": "0031702",
+      "title": "794619 - Demonstration of goods for advertising purposes",
+      "conceptLink": "/ec2/concept/5980473"
+    }
+  },
+  {
+    "uri": "en/35/896792",
+    "id": "896792",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of photographic equipment [for advertising purposes]",
+    "harm": {
+      "id": "0040500",
+      "title": "896792 - Demonstration of photographic equipment [for advertising purposes]",
+      "conceptLink": "/ec2/concept/5988486"
+    }
+  },
+  {
+    "uri": "en/35/26808",
+    "id": "26808",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Demonstration of products",
+    "harm": {
+      "id": "0045401",
+      "title": "26808 - Demonstration of products",
+      "conceptLink": "/ec2/concept/5992968"
+    }
+  },
+  {
+    "uri": "en/35/794644",
+    "id": "794644",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Department store retail services connected with the sale of beauty products, toiletries, machines for household use, hand tools, optical goods, domestic electrical and electronic equipment",
+    "harm": {
+      "id": "0031703",
+      "title": "794644 - Department store retail services connected with the sale of beauty products, toiletries, machines for household use, hand tools, optical goods, domestic electrical and electronic equipment",
+      "conceptLink": "/ec2/concept/5980474"
+    }
+  },
+  {
+    "uri": "en/35/137927694",
+    "id": "137927694",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of advertising brochures",
+    "harm": {
+      "id": "0070712",
+      "title": "137927694 - Design of advertising brochures",
+      "conceptLink": "/ec2/concept/6006904"
+    }
+  },
+  {
+    "uri": "en/35/137927677",
+    "id": "137927677",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of advertising flyers",
+    "harm": {
+      "id": "0070713",
+      "title": "137927677 - Design of advertising flyers",
+      "conceptLink": "/ec2/concept/6006905"
+    }
+  },
+  {
+    "uri": "en/35/137927631",
+    "id": "137927631",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of advertising logos",
+    "harm": {
+      "id": "0070716",
+      "title": "137927631 - Design of advertising logos",
+      "conceptLink": "/ec2/concept/6006908"
+    }
+  },
+  {
+    "uri": "en/35/8329038",
+    "id": "8329038",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of advertising materials",
+    "harm": {
+      "id": "0060078",
+      "title": "8329038 - Design of advertising materials",
+      "conceptLink": "/ec2/concept/5996341"
+    }
+  },
+  {
+    "uri": "en/35/132952466",
+    "id": "132952466",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of marketing surveys",
+    "harm": {
+      "id": "0069801",
+      "title": "132952466 - Design of marketing surveys",
+      "conceptLink": "/ec2/concept/6006004"
+    }
+  },
+  {
+    "uri": "en/35/132952467",
+    "id": "132952467",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Design of public opinion surveys",
+    "harm": {
+      "id": "0069802",
+      "title": "132952467 - Design of public opinion surveys",
+      "conceptLink": "/ec2/concept/6006005"
+    }
+  },
+  {
+    "uri": "en/35/137923030",
+    "id": "137923030",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Developing and coordinating volunteer projects for charitable organisations",
+    "harm": {
+      "id": "0051763",
+      "title": "137923030 - Developing and coordinating volunteer projects for charitable organisations",
+      "conceptLink": "/ec2/concept/6010749"
+    }
+  },
+  {
+    "uri": "en/35/364581",
+    "id": "364581",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Developing promotional campaigns for business",
+    "harm": {
+      "id": "0001713",
+      "title": "364581 - Developing promotional campaigns for business",
+      "conceptLink": "/ec2/concept/5953024"
+    }
+  },
+  {
+    "uri": "en/35/32981638",
+    "id": "32981638",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Developing promotional campaigns for businesses",
+    "harm": {
+      "id": "0001713",
+      "title": "32981638 - Developing promotional campaigns for businesses",
+      "conceptLink": "/ec2/concept/5953024"
+    }
+  },
+  {
+    "uri": "en/35/120875124",
+    "id": "120875124",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Development and implementation of marketing strategies for others",
+    "harm": {
+      "id": "0067751",
+      "title": "120875124 - Development and implementation of marketing strategies for others",
+      "conceptLink": "/ec2/concept/6003954"
+    }
+  },
+  {
+    "uri": "en/35/9448387",
+    "id": "9448387",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Development of concepts for business economy",
+    "harm": {
+      "id": "0056626",
+      "title": "9448387 - Development of concepts for business economy",
+      "conceptLink": "/ec2/concept/5997923"
+    }
+  },
+  {
+    "uri": "en/35/364595",
+    "id": "364595",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Development of hospital management systems",
+    "harm": {
+      "id": "0036401",
+      "title": "364595 - Development of hospital management systems",
+      "conceptLink": "/ec2/concept/5984748"
+    }
+  },
+  {
+    "uri": "en/35/364609",
+    "id": "364609",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Development of marketing strategies and concepts",
+    "harm": {
+      "id": "0001714",
+      "title": "364609 - Development of marketing strategies and concepts",
+      "conceptLink": "/ec2/concept/5953025"
+    }
+  },
+  {
+    "uri": "en/35/41167486",
+    "id": "41167486",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Development of promotional campaigns",
+    "harm": {
+      "id": "0051240",
+      "title": "41167486 - Development of promotional campaigns",
+      "conceptLink": "/ec2/concept/6010226"
+    }
+  },
+  {
+    "uri": "en/35/136041603",
+    "id": "136041603",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Digital advertising services",
+    "harm": {
+      "id": "0056833",
+      "title": "136041603 - Digital advertising services",
+      "conceptLink": "/ec2/concept/5998110"
+    }
+  },
+  {
+    "uri": "en/35/26851",
+    "id": "26851",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct mail advertising",
+    "harm": {
+      "id": "0029740",
+      "title": "26851 - Direct mail advertising",
+      "conceptLink": "/ec2/concept/5978690"
+    }
+  },
+  {
+    "uri": "en/35/26853",
+    "id": "26853",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct mail advertising services",
+    "harm": {
+      "id": "0029740",
+      "title": "26853 - Direct mail advertising services",
+      "conceptLink": "/ec2/concept/5978690"
+    }
+  },
+  {
+    "uri": "en/35/137738372",
+    "id": "137738372",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct mail advertising services provided by lettershops",
+    "harm": {
+      "id": "0051428",
+      "title": "137738372 - Direct mail advertising services provided by lettershops",
+      "conceptLink": "/ec2/concept/6010414"
+    }
+  },
+  {
+    "uri": "en/35/137891081",
+    "id": "137891081",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct mail advertising to attract new customers and to maintain the existing customer base",
+    "harm": {
+      "id": "0051698",
+      "title": "137891081 - Direct mail advertising to attract new customers and to maintain the existing customer base",
+      "conceptLink": "/ec2/concept/6010684"
+    }
+  },
+  {
+    "uri": "en/35/794658",
+    "id": "794658",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct market advertising",
+    "harm": {
+      "id": "0046286",
+      "title": "794658 - Direct market advertising",
+      "conceptLink": "/ec2/concept/5993747"
+    }
+  },
+  {
+    "uri": "en/35/903016",
+    "id": "903016",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct marketing",
+    "harm": {
+      "id": "0046286",
+      "title": "903016 - Direct marketing",
+      "conceptLink": "/ec2/concept/5993747"
+    }
+  },
+  {
+    "uri": "en/35/45501420",
+    "id": "45501420",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct marketing consulting",
+    "harm": {
+      "id": "0051303",
+      "title": "45501420 - Direct marketing consulting",
+      "conceptLink": "/ec2/concept/6010289"
+    }
+  },
+  {
+    "uri": "en/35/26852",
+    "id": "26852",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Direct marketing services",
+    "harm": {
+      "id": "0046286",
+      "title": "26852 - Direct marketing services",
+      "conceptLink": "/ec2/concept/5993747"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/886512",
+    "id": "886512",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy and insurance consultancy",
+    "harm": {
+      "id": "0034768",
+      "title": "886512 - Financial consultancy and insurance consultancy",
+      "conceptLink": "/ec2/concept/5983266"
+    }
+  },
+  {
+    "uri": "en/36/448592",
+    "id": "448592",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy and advisory services",
+    "harm": {
+      "id": "0057315",
+      "title": "448592 - Financial consultancy and advisory services",
+      "conceptLink": "/ec2/concept/5998824"
+    }
+  },
+  {
+    "uri": "en/36/120880986",
+    "id": "120880986",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy and information services",
+    "harm": {
+      "id": "0071332",
+      "title": "120880986 - Financial consultancy and information services",
+      "conceptLink": "/ec2/concept/6007523"
+    }
+  },
+  {
+    "uri": "en/36/120881888",
+    "id": "120881888",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy for lottery winners",
+    "harm": {
+      "id": "0067799",
+      "title": "120881888 - Financial consultancy for lottery winners",
+      "conceptLink": "/ec2/concept/6004002"
+    }
+  },
+  {
+    "uri": "en/36/448611",
+    "id": "448611",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy in relation to the buying and selling of businesses",
+    "harm": {
+      "id": "0001211",
+      "title": "448611 - Financial consultancy in relation to the buying and selling of businesses",
+      "conceptLink": "/ec2/concept/5952582"
+    }
+  },
+  {
+    "uri": "en/36/448625",
+    "id": "448625",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy in the energy sector",
+    "harm": {
+      "id": "0006976",
+      "title": "448625 - Financial consultancy in the energy sector",
+      "conceptLink": "/ec2/concept/5957840"
+    }
+  },
+  {
+    "uri": "en/36/120880913",
+    "id": "120880913",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy in the field of risk management",
+    "harm": {
+      "id": "0067919",
+      "title": "120880913 - Financial consultancy in the field of risk management",
+      "conceptLink": "/ec2/concept/6004122"
+    }
+  },
+  {
+    "uri": "en/36/120883526",
+    "id": "120883526",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy relating to loans",
+    "harm": {
+      "id": "0067980",
+      "title": "120883526 - Financial consultancy relating to loans",
+      "conceptLink": "/ec2/concept/6004183"
+    }
+  },
+  {
+    "uri": "en/36/120880840",
+    "id": "120880840",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy relating to real estate investment",
+    "harm": {
+      "id": "0067914",
+      "title": "120880840 - Financial consultancy relating to real estate investment",
+      "conceptLink": "/ec2/concept/6004117"
+    }
+  },
+  {
+    "uri": "en/36/120881165",
+    "id": "120881165",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy relating to the execution of cashless payment transactions",
+    "harm": {
+      "id": "0067869",
+      "title": "120881165 - Financial consultancy relating to the execution of cashless payment transactions",
+      "conceptLink": "/ec2/concept/6004072"
+    }
+  },
+  {
+    "uri": "en/36/120881168",
+    "id": "120881168",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy relating to credit services",
+    "harm": {
+      "id": "0067868",
+      "title": "120881168 - Financial consultancy relating to credit services",
+      "conceptLink": "/ec2/concept/6004071"
+    }
+  },
+  {
+    "uri": "en/36/120880606",
+    "id": "120880606",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy relating to student loan services",
+    "harm": {
+      "id": "0067935",
+      "title": "120880606 - Financial consultancy relating to student loan services",
+      "conceptLink": "/ec2/concept/6004138"
+    }
+  },
+  {
+    "uri": "en/36/120880646",
+    "id": "120880646",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy services relating to investments",
+    "harm": {
+      "id": "0018490",
+      "title": "120880646 - Financial consultancy services relating to investments",
+      "conceptLink": "/ec2/concept/5968385"
+    }
+  },
+  {
+    "uri": "en/36/34869",
+    "id": "34869",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy services",
+    "harm": {
+      "id": "0057317",
+      "title": "34869 - Financial consultancy services",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/120881109",
+    "id": "120881109",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultancy services relating to infrastructure investment",
+    "harm": {
+      "id": "0067894",
+      "title": "120881109 - Financial consultancy services relating to infrastructure investment",
+      "conceptLink": "/ec2/concept/6004097"
+    }
+  },
+  {
+    "uri": "en/36/903660",
+    "id": "903660",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultation",
+    "harm": {
+      "id": "0057317",
+      "title": "903660 - Financial consultation",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/34870",
+    "id": "34870",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consultation services",
+    "harm": {
+      "id": "0057317",
+      "title": "34870 - Financial consultation services",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/3118212",
+    "id": "3118212",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consulting",
+    "harm": {
+      "id": "0057317",
+      "title": "3118212 - Financial consulting",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/1325890",
+    "id": "1325890",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consulting and advisory services",
+    "harm": {
+      "id": "0057315",
+      "title": "1325890 - Financial consulting and advisory services",
+      "conceptLink": "/ec2/concept/5998824"
+    }
+  },
+  {
+    "uri": "en/36/34868",
+    "id": "34868",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial consulting services",
+    "harm": {
+      "id": "0057317",
+      "title": "34868 - Financial consulting services",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/903661",
+    "id": "903661",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial credit scoring services",
+    "harm": {
+      "id": "0012079",
+      "title": "903661 - Financial credit scoring services",
+      "conceptLink": "/ec2/concept/5962519"
+    }
+  },
+  {
+    "uri": "en/36/803916",
+    "id": "803916",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial credit services for exporters",
+    "harm": {
+      "id": "0043193",
+      "title": "803916 - Financial credit services for exporters",
+      "conceptLink": "/ec2/concept/5990938"
+    }
+  },
+  {
+    "uri": "en/36/483419",
+    "id": "483419",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial credit services",
+    "harm": {
+      "id": "0007287",
+      "title": "483419 - Financial credit services",
+      "conceptLink": "/ec2/concept/5958128"
+    }
+  },
+  {
+    "uri": "en/36/138267878",
+    "id": "138267878",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial customs brokerage services",
+    "harm": {
+      "id": "0070167",
+      "title": "138267878 - Financial customs brokerage services",
+      "conceptLink": "/ec2/concept/6006361"
+    }
+  },
+  {
+    "uri": "en/36/803931",
+    "id": "803931",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial data base services",
+    "harm": {
+      "id": "0002752",
+      "title": "803931 - Financial data base services",
+      "conceptLink": "/ec2/concept/5953964"
+    }
+  },
+  {
+    "uri": "en/36/803974",
+    "id": "803974",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial database services relating to foreign exchange",
+    "harm": {
+      "id": "0003774",
+      "title": "803974 - Financial database services relating to foreign exchange",
+      "conceptLink": "/ec2/concept/5954904"
+    }
+  },
+  {
+    "uri": "en/36/803991",
+    "id": "803991",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial database services relating to stocks",
+    "harm": {
+      "id": "0009501",
+      "title": "803991 - Financial database services relating to stocks",
+      "conceptLink": "/ec2/concept/5960155"
+    }
+  },
+  {
+    "uri": "en/36/803990",
+    "id": "803990",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial database services relating to shares",
+    "harm": {
+      "id": "0009501",
+      "title": "803990 - Financial database services relating to shares",
+      "conceptLink": "/ec2/concept/5960155"
+    }
+  },
+  {
+    "uri": "en/36/803946",
+    "id": "803946",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial database services relating to commodities",
+    "harm": {
+      "id": "0025817",
+      "title": "803946 - Financial database services relating to commodities",
+      "conceptLink": "/ec2/concept/5975094"
+    }
+  },
+  {
+    "uri": "en/36/804008",
+    "id": "804008",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial economic advisory services",
+    "harm": {
+      "id": "0044179",
+      "title": "804008 - Financial economic advisory services",
+      "conceptLink": "/ec2/concept/5991846"
+    }
+  },
+  {
+    "uri": "en/36/804023",
+    "id": "804023",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial economic analysis",
+    "harm": {
+      "id": "0015361",
+      "title": "804023 - Financial economic analysis",
+      "conceptLink": "/ec2/concept/5965518"
+    }
+  },
+  {
+    "uri": "en/36/482358",
+    "id": "482358",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation",
+    "harm": {
+      "id": "0023513",
+      "title": "482358 - Financial evaluation",
+      "conceptLink": "/ec2/concept/5972978"
+    }
+  },
+  {
+    "uri": "en/36/10213276",
+    "id": "10213276",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation and analysis",
+    "harm": {
+      "id": "0067993",
+      "title": "10213276 - Financial evaluation and analysis",
+      "conceptLink": "/ec2/concept/6004196"
+    }
+  },
+  {
+    "uri": "en/36/366684",
+    "id": "366684",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation for insurance purposes",
+    "harm": {
+      "id": "0010391",
+      "title": "366684 - Financial evaluation for insurance purposes",
+      "conceptLink": "/ec2/concept/5960964"
+    }
+  },
+  {
+    "uri": "en/36/120883505",
+    "id": "120883505",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation for reinsurance purposes",
+    "harm": {
+      "id": "0067974",
+      "title": "120883505 - Financial evaluation for reinsurance purposes",
+      "conceptLink": "/ec2/concept/6004177"
+    }
+  },
+  {
+    "uri": "en/36/33274",
+    "id": "33274",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation [insurance, banking, real estate]",
+    "harm": {
+      "id": "0022413",
+      "title": "33274 - Financial evaluation [insurance, banking, real estate]",
+      "conceptLink": "/ec2/concept/5971969"
+    }
+  },
+  {
+    "uri": "en/36/119550029",
+    "id": "119550029",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation of standing timber",
+    "harm": {
+      "id": "0037328",
+      "title": "119550029 - Financial evaluation of standing timber",
+      "conceptLink": "/ec2/concept/5985590"
+    }
+  },
+  {
+    "uri": "en/36/119550030",
+    "id": "119550030",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation of wool",
+    "harm": {
+      "id": "0020036",
+      "title": "119550030 - Financial evaluation of wool",
+      "conceptLink": "/ec2/concept/5969792"
+    }
+  },
+  {
+    "uri": "en/36/137884305",
+    "id": "137884305",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluation services relating to insurance",
+    "harm": {
+      "id": "0010391",
+      "title": "137884305 - Financial evaluation services relating to insurance",
+      "conceptLink": "/ec2/concept/5960964"
+    }
+  },
+  {
+    "uri": "en/36/482359",
+    "id": "482359",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluations",
+    "harm": {
+      "id": "0023513",
+      "title": "482359 - Financial evaluations",
+      "conceptLink": "/ec2/concept/5972978"
+    }
+  },
+  {
+    "uri": "en/36/804038",
+    "id": "804038",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluations [banking]",
+    "harm": {
+      "id": "0032616",
+      "title": "804038 - Financial evaluations [banking]",
+      "conceptLink": "/ec2/concept/5981300"
+    }
+  },
+  {
+    "uri": "en/36/804065",
+    "id": "804065",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial evaluations [real estate]",
+    "harm": {
+      "id": "0035003",
+      "title": "804065 - Financial evaluations [real estate]",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/448643",
+    "id": "448643",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial exchange",
+    "harm": {
+      "id": "0012805",
+      "title": "448643 - Financial exchange",
+      "conceptLink": "/ec2/concept/5963182"
+    }
+  },
+  {
+    "uri": "en/36/32756",
+    "id": "32756",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial exchange services",
+    "harm": {
+      "id": "0012805",
+      "title": "32756 - Financial exchange services",
+      "conceptLink": "/ec2/concept/5963182"
+    }
+  },
+  {
+    "uri": "en/36/903666",
+    "id": "903666",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial forecasting",
+    "harm": {
+      "id": "0012080",
+      "title": "903666 - Financial forecasting",
+      "conceptLink": "/ec2/concept/5962520"
+    }
+  },
+  {
+    "uri": "en/36/366703",
+    "id": "366703",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial fund management",
+    "harm": {
+      "id": "0018941",
+      "title": "366703 - Financial fund management",
+      "conceptLink": "/ec2/concept/5968805"
+    }
+  },
+  {
+    "uri": "en/36/804111",
+    "id": "804111",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial grant services",
+    "harm": {
+      "id": "0044180",
+      "title": "804111 - Financial grant services",
+      "conceptLink": "/ec2/concept/5991847"
+    }
+  },
+  {
+    "uri": "en/36/448658",
+    "id": "448658",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee and surety",
+    "harm": {
+      "id": "0005903",
+      "title": "448658 - Financial guarantee and surety",
+      "conceptLink": "/ec2/concept/5956857"
+    }
+  },
+  {
+    "uri": "en/36/804126",
+    "id": "804126",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee assessment services",
+    "harm": {
+      "id": "0026856",
+      "title": "804126 - Financial guarantee assessment services",
+      "conceptLink": "/ec2/concept/5976037"
+    }
+  },
+  {
+    "uri": "en/36/804142",
+    "id": "804142",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle accident",
+    "harm": {
+      "id": "0003775",
+      "title": "804142 - Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle accident",
+      "conceptLink": "/ec2/concept/5954905"
+    }
+  },
+  {
+    "uri": "en/36/804155",
+    "id": "804155",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle breakdown",
+    "harm": {
+      "id": "0009502",
+      "title": "804155 - Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle breakdown",
+      "conceptLink": "/ec2/concept/5960156"
+    }
+  },
+  {
+    "uri": "en/36/451308",
+    "id": "451308",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee services",
+    "harm": {
+      "id": "0044181",
+      "title": "451308 - Financial guarantee services",
+      "conceptLink": "/ec2/concept/5991848"
+    }
+  },
+  {
+    "uri": "en/36/8548510",
+    "id": "8548510",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle accident or breakdown",
+    "harm": {
+      "id": "0067847",
+      "title": "8548510 - Financial guarantee services for the reimbursement of expenses incurred as a result of vehicle accident or breakdown",
+      "conceptLink": "/ec2/concept/6004050"
+    }
+  },
+  {
+    "uri": "en/36/124688506",
+    "id": "124688506",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantees (Provision of -)",
+    "harm": {
+      "id": "0044181",
+      "title": "124688506 - Financial guarantees (Provision of -)",
+      "conceptLink": "/ec2/concept/5991848"
+    }
+  },
+  {
+    "uri": "en/36/886528",
+    "id": "886528",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guarantees [surety services]",
+    "harm": {
+      "id": "0005903",
+      "title": "886528 - Financial guarantees [surety services]",
+      "conceptLink": "/ec2/concept/5956857"
+    }
+  },
+  {
+    "uri": "en/36/499655",
+    "id": "499655",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial guardianship",
+    "harm": {
+      "id": "0026631",
+      "title": "499655 - Financial guardianship",
+      "conceptLink": "/ec2/concept/5975837"
+    }
+  },
+  {
+    "uri": "en/36/35301",
+    "id": "35301",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information",
+    "harm": {
+      "id": "0058006",
+      "title": "35301 - Financial information",
+      "conceptLink": "/ec2/concept/5999510"
+    }
+  },
+  {
+    "uri": "en/36/886557",
+    "id": "886557",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information and evaluations",
+    "harm": {
+      "id": "0011655",
+      "title": "886557 - Financial information and evaluations",
+      "conceptLink": "/ec2/concept/5962121"
+    }
+  },
+  {
+    "uri": "en/36/886542",
+    "id": "886542",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information and advisory services",
+    "harm": {
+      "id": "0056642",
+      "title": "886542 - Financial information and advisory services",
+      "conceptLink": "/ec2/concept/5997938"
+    }
+  },
+  {
+    "uri": "en/36/131139695",
+    "id": "131139695",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information, data, advice and consultancy services",
+    "harm": {
+      "id": "0047988",
+      "title": "131139695 - Financial information, data, advice and consultancy services",
+      "conceptLink": "/ec2/concept/5995249"
+    }
+  },
+  {
+    "uri": "en/36/448674",
+    "id": "448674",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information for investors",
+    "harm": {
+      "id": "0041690",
+      "title": "448674 - Financial information for investors",
+      "conceptLink": "/ec2/concept/5989574"
+    }
+  },
+  {
+    "uri": "en/36/448693",
+    "id": "448693",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information in the nature of rates of exchange",
+    "harm": {
+      "id": "0012806",
+      "title": "448693 - Financial information in the nature of rates of exchange",
+      "conceptLink": "/ec2/concept/5963183"
+    }
+  },
+  {
+    "uri": "en/36/448710",
+    "id": "448710",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information management and analysis services",
+    "harm": {
+      "id": "0006977",
+      "title": "448710 - Financial information management and analysis services",
+      "conceptLink": "/ec2/concept/5957841"
+    }
+  },
+  {
+    "uri": "en/36/903680",
+    "id": "903680",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information processing",
+    "harm": {
+      "id": "0029383",
+      "title": "903680 - Financial information processing",
+      "conceptLink": "/ec2/concept/5978357"
+    }
+  },
+  {
+    "uri": "en/36/448731",
+    "id": "448731",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information provided by electronic means",
+    "harm": {
+      "id": "0030112",
+      "title": "448731 - Financial information provided by electronic means",
+      "conceptLink": "/ec2/concept/5979027"
+    }
+  },
+  {
+    "uri": "en/36/120880509",
+    "id": "120880509",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information provided by means of a computer database",
+    "harm": {
+      "id": "0067957",
+      "title": "120880509 - Financial information provided by means of a computer database",
+      "conceptLink": "/ec2/concept/6004160"
+    }
+  },
+  {
+    "uri": "en/36/804167",
+    "id": "804167",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information retrieval services",
+    "harm": {
+      "id": "0009503",
+      "title": "804167 - Financial information retrieval services",
+      "conceptLink": "/ec2/concept/5960157"
+    }
+  },
+  {
+    "uri": "en/36/804182",
+    "id": "804182",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services for banks provided via computer networks and satellite transmissions",
+    "harm": {
+      "id": "0014446",
+      "title": "804182 - Financial information services for banks provided via computer networks and satellite transmissions",
+      "conceptLink": "/ec2/concept/5964687"
+    }
+  },
+  {
+    "uri": "en/36/804252",
+    "id": "804252",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to financial stock markets",
+    "harm": {
+      "id": "0014447",
+      "title": "804252 - Financial information services relating to financial stock markets",
+      "conceptLink": "/ec2/concept/5964688"
+    }
+  },
+  {
+    "uri": "en/36/448752",
+    "id": "448752",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services",
+    "harm": {
+      "id": "0058006",
+      "title": "448752 - Financial information services",
+      "conceptLink": "/ec2/concept/5999510"
+    }
+  },
+  {
+    "uri": "en/36/804195",
+    "id": "804195",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services for financial institutions provided via computer networks and satellite transmissions",
+    "harm": {
+      "id": "0020283",
+      "title": "804195 - Financial information services for financial institutions provided via computer networks and satellite transmissions",
+      "conceptLink": "/ec2/concept/5970017"
+    }
+  },
+  {
+    "uri": "en/36/804283",
+    "id": "804283",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to lost credit cards",
+    "harm": {
+      "id": "0020284",
+      "title": "804283 - Financial information services relating to lost credit cards",
+      "conceptLink": "/ec2/concept/5970018"
+    }
+  },
+  {
+    "uri": "en/36/804210",
+    "id": "804210",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services provided by access to a computer database",
+    "harm": {
+      "id": "0002879",
+      "title": "804210 - Financial information services provided by access to a computer database",
+      "conceptLink": "/ec2/concept/5954078"
+    }
+  },
+  {
+    "uri": "en/36/804241",
+    "id": "804241",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to financial bond markets",
+    "harm": {
+      "id": "0002880",
+      "title": "804241 - Financial information services relating to financial bond markets",
+      "conceptLink": "/ec2/concept/5954079"
+    }
+  },
+  {
+    "uri": "en/36/804225",
+    "id": "804225",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to currencies",
+    "harm": {
+      "id": "0025943",
+      "title": "804225 - Financial information services relating to currencies",
+      "conceptLink": "/ec2/concept/5975209"
+    }
+  },
+  {
+    "uri": "en/36/804268",
+    "id": "804268",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to individuals",
+    "harm": {
+      "id": "0031740",
+      "title": "804268 - Financial information services relating to individuals",
+      "conceptLink": "/ec2/concept/5980505"
+    }
+  },
+  {
+    "uri": "en/36/804299",
+    "id": "804299",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial information services relating to stolen credit cards",
+    "harm": {
+      "id": "0043315",
+      "title": "804299 - Financial information services relating to stolen credit cards",
+      "conceptLink": "/ec2/concept/5991050"
+    }
+  },
+  {
+    "uri": "en/36/804311",
+    "id": "804311",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial intermediary services",
+    "harm": {
+      "id": "0031741",
+      "title": "804311 - Financial intermediary services",
+      "conceptLink": "/ec2/concept/5980506"
+    }
+  },
+  {
+    "uri": "en/36/448933",
+    "id": "448933",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investigation services",
+    "harm": {
+      "id": "0017417",
+      "title": "448933 - Financial investigation services",
+      "conceptLink": "/ec2/concept/5967400"
+    }
+  },
+  {
+    "uri": "en/36/448831",
+    "id": "448831",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment",
+    "harm": {
+      "id": "0059495",
+      "title": "448831 - Financial investment",
+      "conceptLink": "/ec2/concept/6000971"
+    }
+  },
+  {
+    "uri": "en/36/449775",
+    "id": "449775",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment advisory services",
+    "harm": {
+      "id": "0057360",
+      "title": "449775 - Financial investment advisory services",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/903681",
+    "id": "903681",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment analysis and stock research",
+    "harm": {
+      "id": "0023660",
+      "title": "903681 - Financial investment analysis and stock research",
+      "conceptLink": "/ec2/concept/5973109"
+    }
+  },
+  {
+    "uri": "en/36/886572",
+    "id": "886572",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment brokerage",
+    "harm": {
+      "id": "0017431",
+      "title": "886572 - Financial investment brokerage",
+      "conceptLink": "/ec2/concept/5967414"
+    }
+  },
+  {
+    "uri": "en/36/804330",
+    "id": "804330",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment fund services",
+    "harm": {
+      "id": "0025944",
+      "title": "804330 - Financial investment fund services",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/448784",
+    "id": "448784",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment in the field of securities",
+    "harm": {
+      "id": "0041691",
+      "title": "448784 - Financial investment in the field of securities",
+      "conceptLink": "/ec2/concept/5989575"
+    }
+  },
+  {
+    "uri": "en/36/804355",
+    "id": "804355",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment management services",
+    "harm": {
+      "id": "0031742",
+      "title": "804355 - Financial investment management services",
+      "conceptLink": "/ec2/concept/5980507"
+    }
+  },
+  {
+    "uri": "en/36/448801",
+    "id": "448801",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment research services",
+    "harm": {
+      "id": "0024387",
+      "title": "448801 - Financial investment research services",
+      "conceptLink": "/ec2/concept/5973781"
+    }
+  },
+  {
+    "uri": "en/36/120883718",
+    "id": "120883718",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment services in relation to the printing industry",
+    "harm": {
+      "id": "0068007",
+      "title": "120883718 - Financial investment services in relation to the printing industry",
+      "conceptLink": "/ec2/concept/6004210"
+    }
+  },
+  {
+    "uri": "en/36/448833",
+    "id": "448833",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investment services",
+    "harm": {
+      "id": "0059495",
+      "title": "448833 - Financial investment services",
+      "conceptLink": "/ec2/concept/6000971"
+    }
+  },
+  {
+    "uri": "en/36/448832",
+    "id": "448832",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial investments",
+    "harm": {
+      "id": "0059495",
+      "title": "448832 - Financial investments",
+      "conceptLink": "/ec2/concept/6000971"
+    }
+  },
+  {
+    "uri": "en/36/34058",
+    "id": "34058",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial leasing",
+    "harm": {
+      "id": "0038637",
+      "title": "34058 - Financial leasing",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/34053",
+    "id": "34053",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial leasing [hire purchase]",
+    "harm": {
+      "id": "0038637",
+      "title": "34053 - Financial leasing [hire purchase]",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/450288",
+    "id": "450288",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial lending",
+    "harm": {
+      "id": "0007287",
+      "title": "450288 - Financial lending",
+      "conceptLink": "/ec2/concept/5958128"
+    }
+  },
+  {
+    "uri": "en/36/804371",
+    "id": "804371",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial lending against security",
+    "harm": {
+      "id": "0001529",
+      "title": "804371 - Financial lending against security",
+      "conceptLink": "/ec2/concept/5952862"
+    }
+  },
+  {
+    "uri": "en/36/804383",
+    "id": "804383",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial lending for home improvement",
+    "harm": {
+      "id": "0018940",
+      "title": "804383 - Financial lending for home improvement",
+      "conceptLink": "/ec2/concept/5968804"
+    }
+  },
+  {
+    "uri": "en/36/804397",
+    "id": "804397",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial lending services for personal purposes",
+    "harm": {
+      "id": "0041995",
+      "title": "804397 - Financial lending services for personal purposes",
+      "conceptLink": "/ec2/concept/5989853"
+    }
+  },
+  {
+    "uri": "en/36/137891992",
+    "id": "137891992",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial loan consultancy",
+    "harm": {
+      "id": "0067980",
+      "title": "137891992 - Financial loan consultancy",
+      "conceptLink": "/ec2/concept/6004183"
+    }
+  },
+  {
+    "uri": "en/36/804410",
+    "id": "804410",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial loan services",
+    "harm": {
+      "id": "0007287",
+      "title": "804410 - Financial loan services",
+      "conceptLink": "/ec2/concept/5958128"
+    }
+  },
+  {
+    "uri": "en/36/804424",
+    "id": "804424",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial loans to commerce",
+    "harm": {
+      "id": "0013098",
+      "title": "804424 - Financial loans to commerce",
+      "conceptLink": "/ec2/concept/5963445"
+    }
+  },
+  {
+    "uri": "en/36/804436",
+    "id": "804436",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial loss management",
+    "harm": {
+      "id": "0024681",
+      "title": "804436 - Financial loss management",
+      "conceptLink": "/ec2/concept/5974056"
+    }
+  }
+]

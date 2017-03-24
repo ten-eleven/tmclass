@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/119968",
+    "id": "119968",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for materials handling",
+    "harm": {
+      "id": "0011885",
+      "title": "119968 - Machines for materials handling",
+      "conceptLink": "/ec2/concept/5962337"
+    }
+  },
+  {
+    "uri": "en/7/685495",
+    "id": "685495",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for metal processing",
+    "harm": {
+      "id": "0058041",
+      "title": "685495 - Machines for metal processing",
+      "conceptLink": "/ec2/concept/5999544"
+    }
+  },
+  {
+    "uri": "en/7/77232728",
+    "id": "77232728",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for metal working",
+    "harm": {
+      "id": "0058041",
+      "title": "77232728 - Machines for metal working",
+      "conceptLink": "/ec2/concept/5999544"
+    }
+  },
+  {
+    "uri": "en/7/685521",
+    "id": "685521",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for mineral processing",
+    "harm": {
+      "id": "0039121",
+      "title": "685521 - Machines for mineral processing",
+      "conceptLink": "/ec2/concept/5987222"
+    }
+  },
+  {
+    "uri": "en/7/685536",
+    "id": "685536",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for mixing asphalt",
+    "harm": {
+      "id": "0016003",
+      "title": "685536 - Machines for mixing asphalt",
+      "conceptLink": "/ec2/concept/5966122"
+    }
+  },
+  {
+    "uri": "en/7/685548",
+    "id": "685548",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for mixing foodstuffs",
+    "harm": {
+      "id": "0004485",
+      "title": "685548 - Machines for mixing foodstuffs",
+      "conceptLink": "/ec2/concept/5955558"
+    }
+  },
+  {
+    "uri": "en/7/117968",
+    "id": "117968",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for moulding",
+    "harm": {
+      "id": "0008921",
+      "title": "117968 - Machines for moulding",
+      "conceptLink": "/ec2/concept/5959617"
+    }
+  },
+  {
+    "uri": "en/7/117774",
+    "id": "117774",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for packaging",
+    "harm": {
+      "id": "0059463",
+      "title": "117774 - Machines for packaging",
+      "conceptLink": "/ec2/concept/6000939"
+    }
+  },
+  {
+    "uri": "en/7/122239",
+    "id": "122239",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for painting",
+    "harm": {
+      "id": "0003091",
+      "title": "122239 - Machines for painting",
+      "conceptLink": "/ec2/concept/5954278"
+    }
+  },
+  {
+    "uri": "en/7/685560",
+    "id": "685560",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for peeling vegetables",
+    "harm": {
+      "id": "0040002",
+      "title": "685560 - Machines for peeling vegetables",
+      "conceptLink": "/ec2/concept/5988036"
+    }
+  },
+  {
+    "uri": "en/7/119526398",
+    "id": "119526398",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for plastics working",
+    "harm": {
+      "id": "0055675",
+      "title": "119526398 - Machines for plastics working",
+      "conceptLink": "/ec2/concept/5997066"
+    }
+  },
+  {
+    "uri": "en/7/893433",
+    "id": "893433",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for preparing beverages [industrial]",
+    "harm": {
+      "id": "0025511",
+      "title": "893433 - Machines for preparing beverages [industrial]",
+      "conceptLink": "/ec2/concept/5974818"
+    }
+  },
+  {
+    "uri": "en/7/893466",
+    "id": "893466",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for preparing food [industrial]",
+    "harm": {
+      "id": "0037098",
+      "title": "893466 - Machines for preparing food [industrial]",
+      "conceptLink": "/ec2/concept/5985380"
+    }
+  },
+  {
+    "uri": "en/7/129555",
+    "id": "129555",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for pressure washing",
+    "harm": {
+      "id": "0059194",
+      "title": "129555 - Machines for pressure washing",
+      "conceptLink": "/ec2/concept/6000683"
+    }
+  },
+  {
+    "uri": "en/7/685576",
+    "id": "685576",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for printing labels",
+    "harm": {
+      "id": "0045754",
+      "title": "685576 - Machines for printing labels",
+      "conceptLink": "/ec2/concept/5993290"
+    }
+  },
+  {
+    "uri": "en/7/685591",
+    "id": "685591",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for printing textile materials",
+    "harm": {
+      "id": "0034263",
+      "title": "685591 - Machines for printing textile materials",
+      "conceptLink": "/ec2/concept/5982810"
+    }
+  },
+  {
+    "uri": "en/7/137613741",
+    "id": "137613741",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing condensed milk",
+    "harm": {
+      "id": "0055653",
+      "title": "137613741 - Machines for processing condensed milk",
+      "conceptLink": "/ec2/concept/5997046"
+    }
+  },
+  {
+    "uri": "en/7/685603",
+    "id": "685603",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing foodstuffs",
+    "harm": {
+      "id": "0058231",
+      "title": "685603 - Machines for processing foodstuffs",
+      "conceptLink": "/ec2/concept/5999732"
+    }
+  },
+  {
+    "uri": "en/7/128764",
+    "id": "128764",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing foods",
+    "harm": {
+      "id": "0058231",
+      "title": "128764 - Machines for processing foods",
+      "conceptLink": "/ec2/concept/5999732"
+    }
+  },
+  {
+    "uri": "en/7/138283400",
+    "id": "138283400",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing fruits",
+    "harm": {
+      "id": "0071767",
+      "title": "138283400 - Machines for processing fruits",
+      "conceptLink": "/ec2/concept/6007954"
+    }
+  },
+  {
+    "uri": "en/7/125600",
+    "id": "125600",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing glass",
+    "harm": {
+      "id": "0020126",
+      "title": "125600 - Machines for processing glass",
+      "conceptLink": "/ec2/concept/5969878"
+    }
+  },
+  {
+    "uri": "en/7/120862564",
+    "id": "120862564",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing plastics",
+    "harm": {
+      "id": "0046219",
+      "title": "120862564 - Machines for processing plastics",
+      "conceptLink": "/ec2/concept/5993703"
+    }
+  },
+  {
+    "uri": "en/7/138283399",
+    "id": "138283399",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for processing vegetables",
+    "harm": {
+      "id": "0071768",
+      "title": "138283399 - Machines for processing vegetables",
+      "conceptLink": "/ec2/concept/6007955"
+    }
+  },
+  {
+    "uri": "en/7/685338",
+    "id": "685338",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for producing bags",
+    "harm": {
+      "id": "0026478",
+      "title": "685338 - Machines for producing bags",
+      "conceptLink": "/ec2/concept/5975696"
+    }
+  },
+  {
+    "uri": "en/7/685411",
+    "id": "685411",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for producing containers",
+    "harm": {
+      "id": "0039120",
+      "title": "685411 - Machines for producing containers",
+      "conceptLink": "/ec2/concept/5987221"
+    }
+  },
+  {
+    "uri": "en/7/123371",
+    "id": "123371",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for raking",
+    "harm": {
+      "id": "0019136",
+      "title": "123371 - Machines for raking",
+      "conceptLink": "/ec2/concept/5968981"
+    }
+  },
+  {
+    "uri": "en/7/123650",
+    "id": "123650",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for rivetting",
+    "harm": {
+      "id": "0058001",
+      "title": "123650 - Machines for rivetting",
+      "conceptLink": "/ec2/concept/5999505"
+    }
+  },
+  {
+    "uri": "en/7/685616",
+    "id": "685616",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for sanding floors",
+    "harm": {
+      "id": "0022808",
+      "title": "685616 - Machines for sanding floors",
+      "conceptLink": "/ec2/concept/5972334"
+    }
+  },
+  {
+    "uri": "en/7/685636",
+    "id": "685636",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for scouring",
+    "harm": {
+      "id": "0033897",
+      "title": "685636 - Machines for scouring",
+      "conceptLink": "/ec2/concept/5982478"
+    }
+  },
+  {
+    "uri": "en/7/388626",
+    "id": "388626",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for scraping earth",
+    "harm": {
+      "id": "0058931",
+      "title": "388626 - Machines for scraping earth",
+      "conceptLink": "/ec2/concept/6000422"
+    }
+  },
+  {
+    "uri": "en/7/685668",
+    "id": "685668",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for sealing bags after filling",
+    "harm": {
+      "id": "0018361",
+      "title": "685668 - Machines for sealing bags after filling",
+      "conceptLink": "/ec2/concept/5968266"
+    }
+  },
+  {
+    "uri": "en/7/685679",
+    "id": "685679",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for sealing containers",
+    "harm": {
+      "id": "0029879",
+      "title": "685679 - Machines for sealing containers",
+      "conceptLink": "/ec2/concept/5978813"
+    }
+  },
+  {
+    "uri": "en/7/685693",
+    "id": "685693",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for sealing packaging containers",
+    "harm": {
+      "id": "0035674",
+      "title": "685693 - Machines for sealing packaging containers",
+      "conceptLink": "/ec2/concept/5984089"
+    }
+  },
+  {
+    "uri": "en/7/904980",
+    "id": "904980",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for separating recyclable materials",
+    "harm": {
+      "id": "0029252",
+      "title": "904980 - Machines for separating recyclable materials",
+      "conceptLink": "/ec2/concept/5978241"
+    }
+  },
+  {
+    "uri": "en/7/120190",
+    "id": "120190",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping",
+    "harm": {
+      "id": "0041450",
+      "title": "120190 - Machines for shaping",
+      "conceptLink": "/ec2/concept/5989354"
+    }
+  },
+  {
+    "uri": "en/7/137613743",
+    "id": "137613743",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping geta [Japanese-style wooden clogs]",
+    "harm": {
+      "id": "0055671",
+      "title": "137613743 - Machines for shaping geta [Japanese-style wooden clogs]",
+      "conceptLink": "/ec2/concept/5997062"
+    }
+  },
+  {
+    "uri": "en/7/232619965",
+    "id": "232619965",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping glass",
+    "harm": {
+      "id": "0071745",
+      "title": "232619965 - Machines for shaping glass",
+      "conceptLink": "/ec2/concept/6007932"
+    }
+  },
+  {
+    "uri": "en/7/685706",
+    "id": "685706",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping metal",
+    "harm": {
+      "id": "0043400",
+      "title": "685706 - Machines for shaping metal",
+      "conceptLink": "/ec2/concept/5991129"
+    }
+  },
+  {
+    "uri": "en/7/232619966",
+    "id": "232619966",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping plastic material",
+    "harm": {
+      "id": "0071746",
+      "title": "232619966 - Machines for shaping plastic material",
+      "conceptLink": "/ec2/concept/6007933"
+    }
+  },
+  {
+    "uri": "en/7/232619962",
+    "id": "232619962",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shaping wood",
+    "harm": {
+      "id": "0071744",
+      "title": "232619962 - Machines for shaping wood",
+      "conceptLink": "/ec2/concept/6007931"
+    }
+  },
+  {
+    "uri": "en/7/102755250",
+    "id": "102755250",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shredding horticultural waste",
+    "harm": {
+      "id": "0065558",
+      "title": "102755250 - Machines for shredding horticultural waste",
+      "conceptLink": "/ec2/concept/6001761"
+    }
+  },
+  {
+    "uri": "en/7/325069",
+    "id": "325069",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for shredding scrap",
+    "harm": {
+      "id": "0029880",
+      "title": "325069 - Machines for shredding scrap",
+      "conceptLink": "/ec2/concept/5978814"
+    }
+  },
+  {
+    "uri": "en/7/685735",
+    "id": "685735",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for slicing food [industrial]",
+    "harm": {
+      "id": "0018362",
+      "title": "685735 - Machines for slicing food [industrial]",
+      "conceptLink": "/ec2/concept/5968267"
+    }
+  },
+  {
+    "uri": "en/7/685721",
+    "id": "685721",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for slicing food [electric, kitchen]",
+    "harm": {
+      "id": "0000970",
+      "title": "685721 - Machines for slicing food [electric, kitchen]",
+      "conceptLink": "/ec2/concept/5952361"
+    }
+  },
+  {
+    "uri": "en/7/124305",
+    "id": "124305",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for sowing",
+    "harm": {
+      "id": "0040709",
+      "title": "124305 - Machines for sowing",
+      "conceptLink": "/ec2/concept/5988685"
+    }
+  },
+  {
+    "uri": "en/7/685751",
+    "id": "685751",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for stripping wallcoverings",
+    "harm": {
+      "id": "0035676",
+      "title": "685751 - Machines for stripping wallcoverings",
+      "conceptLink": "/ec2/concept/5984090"
+    }
+  },
+  {
+    "uri": "en/7/233392266",
+    "id": "233392266",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for surface deposition",
+    "harm": {
+      "id": "0073416",
+      "title": "233392266 - Machines for surface deposition",
+      "conceptLink": "/ec2/concept/6009589"
+    }
+  },
+  {
+    "uri": "en/7/113517",
+    "id": "113517",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for tapping threads",
+    "harm": {
+      "id": "0029881",
+      "title": "113517 - Machines for tapping threads",
+      "conceptLink": "/ec2/concept/5978815"
+    }
+  },
+  {
+    "uri": "en/7/685764",
+    "id": "685764",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the assembly of semiconductor components",
+    "harm": {
+      "id": "0012535",
+      "title": "685764 - Machines for the assembly of semiconductor components",
+      "conceptLink": "/ec2/concept/5962932"
+    }
+  },
+  {
+    "uri": "en/7/685775",
+    "id": "685775",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the binding of books [industrial]",
+    "harm": {
+      "id": "0022928",
+      "title": "685775 - Machines for the binding of books [industrial]",
+      "conceptLink": "/ec2/concept/5972439"
+    }
+  },
+  {
+    "uri": "en/7/126782",
+    "id": "126782",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the compacting of waste",
+    "harm": {
+      "id": "0046817",
+      "title": "126782 - Machines for the compacting of waste",
+      "conceptLink": "/ec2/concept/5994216"
+    }
+  },
+  {
+    "uri": "en/7/125187",
+    "id": "125187",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the handling of materials",
+    "harm": {
+      "id": "0011885",
+      "title": "125187 - Machines for the handling of materials",
+      "conceptLink": "/ec2/concept/5962337"
+    }
+  },
+  {
+    "uri": "en/7/681649",
+    "id": "681649",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the making of hay",
+    "harm": {
+      "id": "0058617",
+      "title": "681649 - Machines for the making of hay",
+      "conceptLink": "/ec2/concept/6000110"
+    }
+  },
+  {
+    "uri": "en/7/685335",
+    "id": "685335",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the making of bags",
+    "harm": {
+      "id": "0026478",
+      "title": "685335 - Machines for the making of bags",
+      "conceptLink": "/ec2/concept/5975696"
+    }
+  },
+  {
+    "uri": "en/7/122064",
+    "id": "122064",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of paper",
+    "harm": {
+      "id": "0058352",
+      "title": "122064 - Machines for the manufacture of paper",
+      "conceptLink": "/ec2/concept/5999851"
+    }
+  },
+  {
+    "uri": "en/7/685791",
+    "id": "685791",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of moulds",
+    "harm": {
+      "id": "0017051",
+      "title": "685791 - Machines for the manufacture of moulds",
+      "conceptLink": "/ec2/concept/5967070"
+    }
+  },
+  {
+    "uri": "en/7/685805",
+    "id": "685805",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of textiles",
+    "harm": {
+      "id": "0005524",
+      "title": "685805 - Machines for the manufacture of textiles",
+      "conceptLink": "/ec2/concept/5956519"
+    }
+  },
+  {
+    "uri": "en/7/685337",
+    "id": "685337",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of sachets",
+    "harm": {
+      "id": "0026478",
+      "title": "685337 - Machines for the manufacture of sachets",
+      "conceptLink": "/ec2/concept/5975696"
+    }
+  },
+  {
+    "uri": "en/7/321028",
+    "id": "321028",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of packing",
+    "harm": {
+      "id": "0039120",
+      "title": "321028 - Machines for the manufacture of packing",
+      "conceptLink": "/ec2/concept/5987221"
+    }
+  },
+  {
+    "uri": "en/7/321029",
+    "id": "321029",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the manufacture of packaging",
+    "harm": {
+      "id": "0039120",
+      "title": "321029 - Machines for the manufacture of packaging",
+      "conceptLink": "/ec2/concept/5987221"
+    }
+  },
+  {
+    "uri": "en/7/685816",
+    "id": "685816",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the mechanical handling of items of post [industrial]",
+    "harm": {
+      "id": "0040128",
+      "title": "685816 - Machines for the mechanical handling of items of post [industrial]",
+      "conceptLink": "/ec2/concept/5988150"
+    }
+  },
+  {
+    "uri": "en/7/122065",
+    "id": "122065",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the paper making industry",
+    "harm": {
+      "id": "0058353",
+      "title": "122065 - Machines for the paper making industry",
+      "conceptLink": "/ec2/concept/5999852"
+    }
+  },
+  {
+    "uri": "en/7/893491",
+    "id": "893491",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the preparation of foodstuffs [electric, kitchen], other than cooking",
+    "harm": {
+      "id": "0015121",
+      "title": "893491 - Machines for the preparation of foodstuffs [electric, kitchen], other than cooking",
+      "conceptLink": "/ec2/concept/5965299"
+    }
+  },
+  {
+    "uri": "en/7/893467",
+    "id": "893467",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the preparation of foodstuffs [industrial]",
+    "harm": {
+      "id": "0037098",
+      "title": "893467 - Machines for the preparation of foodstuffs [industrial]",
+      "conceptLink": "/ec2/concept/5985380"
+    }
+  },
+  {
+    "uri": "en/7/233392267",
+    "id": "233392267",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the preparation of surfaces for electrical and electronic components",
+    "harm": {
+      "id": "0073417",
+      "title": "233392267 - Machines for the preparation of surfaces for electrical and electronic components",
+      "conceptLink": "/ec2/concept/6009590"
+    }
+  },
+  {
+    "uri": "en/7/122066",
+    "id": "122066",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the production of paper",
+    "harm": {
+      "id": "0058353",
+      "title": "122066 - Machines for the production of paper",
+      "conceptLink": "/ec2/concept/5999852"
+    }
+  },
+  {
+    "uri": "en/7/391532",
+    "id": "391532",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the production of semiconductors",
+    "harm": {
+      "id": "0029251",
+      "title": "391532 - Machines for the production of semiconductors",
+      "conceptLink": "/ec2/concept/5978240"
+    }
+  },
+  {
+    "uri": "en/7/136493707",
+    "id": "136493707",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the production of sugar",
+    "harm": {
+      "id": "0023424",
+      "title": "136493707 - Machines for the production of sugar",
+      "conceptLink": "/ec2/concept/5972897"
+    }
+  },
+  {
+    "uri": "en/7/136489325",
+    "id": "136489325",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the production of mineral water",
+    "harm": {
+      "id": "0032595",
+      "title": "136489325 - Machines for the production of mineral water",
+      "conceptLink": "/ec2/concept/5981282"
+    }
+  },
+  {
+    "uri": "en/7/129610",
+    "id": "129610",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the textile industry",
+    "harm": {
+      "id": "0014964",
+      "title": "129610 - Machines for the textile industry",
+      "conceptLink": "/ec2/concept/5965155"
+    }
+  },
+  {
+    "uri": "en/7/77232750",
+    "id": "77232750",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for the working of metals",
+    "harm": {
+      "id": "0058041",
+      "title": "77232750 - Machines for the working of metals",
+      "conceptLink": "/ec2/concept/5999544"
+    }
+  },
+  {
+    "uri": "en/7/115022",
+    "id": "115022",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for turning",
+    "harm": {
+      "id": "0011910",
+      "title": "115022 - Machines for turning",
+      "conceptLink": "/ec2/concept/5962361"
+    }
+  },
+  {
+    "uri": "en/7/111409",
+    "id": "111409",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in agriculture",
+    "harm": {
+      "id": "0027359",
+      "title": "111409 - Machines for use in agriculture",
+      "conceptLink": "/ec2/concept/5976488"
+    }
+  },
+  {
+    "uri": "en/7/670943",
+    "id": "670943",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in assembly",
+    "harm": {
+      "id": "0004273",
+      "title": "670943 - Machines for use in assembly",
+      "conceptLink": "/ec2/concept/5955360"
+    }
+  },
+  {
+    "uri": "en/7/685829",
+    "id": "685829",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in making whipped cream [electric, kitchen]",
+    "harm": {
+      "id": "0004274",
+      "title": "685829 - Machines for use in making whipped cream [electric, kitchen]",
+      "conceptLink": "/ec2/concept/5955361"
+    }
+  },
+  {
+    "uri": "en/7/893518",
+    "id": "893518",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in making ice cream [industrial]",
+    "harm": {
+      "id": "0002399",
+      "title": "893518 - Machines for use in making ice cream [industrial]",
+      "conceptLink": "/ec2/concept/5953646"
+    }
+  },
+  {
+    "uri": "en/7/685843",
+    "id": "685843",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in the manufacture of paper",
+    "harm": {
+      "id": "0058352",
+      "title": "685843 - Machines for use in the manufacture of paper",
+      "conceptLink": "/ec2/concept/5999851"
+    }
+  },
+  {
+    "uri": "en/7/233392265",
+    "id": "233392265",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in the manufacture of electrical and electronic circuitry",
+    "harm": {
+      "id": "0073415",
+      "title": "233392265 - Machines for use in the manufacture of electrical and electronic circuitry",
+      "conceptLink": "/ec2/concept/6009588"
+    }
+  },
+  {
+    "uri": "en/7/893533",
+    "id": "893533",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in the processing of water",
+    "harm": {
+      "id": "0002400",
+      "title": "893533 - Machines for use in the processing of water",
+      "conceptLink": "/ec2/concept/5953647"
+    }
+  },
+  {
+    "uri": "en/7/685869",
+    "id": "685869",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in the sealing of cartons filled with food",
+    "harm": {
+      "id": "0038902",
+      "title": "685869 - Machines for use in the sealing of cartons filled with food",
+      "conceptLink": "/ec2/concept/5987024"
+    }
+  },
+  {
+    "uri": "en/7/232620084",
+    "id": "232620084",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for use in viticulture",
+    "harm": {
+      "id": "0071766",
+      "title": "232620084 - Machines for use in viticulture",
+      "conceptLink": "/ec2/concept/6007953"
+    }
+  },
+  {
+    "uri": "en/7/113636",
+    "id": "113636",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing bottles",
+    "harm": {
+      "id": "0015819",
+      "title": "113636 - Machines for washing bottles",
+      "conceptLink": "/ec2/concept/5965947"
+    }
+  },
+  {
+    "uri": "en/7/685926",
+    "id": "685926",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing clothing [electric]",
+    "harm": {
+      "id": "0004275",
+      "title": "685926 - Machines for washing clothing [electric]",
+      "conceptLink": "/ec2/concept/5955362"
+    }
+  },
+  {
+    "uri": "en/7/685900",
+    "id": "685900",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing clothing [coin-operated]",
+    "harm": {
+      "id": "0010002",
+      "title": "685900 - Machines for washing clothing [coin-operated]",
+      "conceptLink": "/ec2/concept/5960614"
+    }
+  },
+  {
+    "uri": "en/7/392413",
+    "id": "392413",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing fabrics",
+    "harm": {
+      "id": "0057841",
+      "title": "392413 - Machines for washing fabrics",
+      "conceptLink": "/ec2/concept/5999345"
+    }
+  },
+  {
+    "uri": "en/7/685951",
+    "id": "685951",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing food [electric]",
+    "harm": {
+      "id": "0022619",
+      "title": "685951 - Machines for washing food [electric]",
+      "conceptLink": "/ec2/concept/5972155"
+    }
+  },
+  {
+    "uri": "en/7/685966",
+    "id": "685966",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing golf balls",
+    "harm": {
+      "id": "0010946",
+      "title": "685966 - Machines for washing golf balls",
+      "conceptLink": "/ec2/concept/5961474"
+    }
+  },
+  {
+    "uri": "en/7/685980",
+    "id": "685980",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing laboratory apparatus",
+    "harm": {
+      "id": "0034037",
+      "title": "685980 - Machines for washing laboratory apparatus",
+      "conceptLink": "/ec2/concept/5982606"
+    }
+  },
+  {
+    "uri": "en/7/685927",
+    "id": "685927",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing laundry [electric]",
+    "harm": {
+      "id": "0004275",
+      "title": "685927 - Machines for washing laundry [electric]",
+      "conceptLink": "/ec2/concept/5955362"
+    }
+  },
+  {
+    "uri": "en/7/685901",
+    "id": "685901",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing laundry [coin-operated]",
+    "harm": {
+      "id": "0010002",
+      "title": "685901 - Machines for washing laundry [coin-operated]",
+      "conceptLink": "/ec2/concept/5960614"
+    }
+  },
+  {
+    "uri": "en/7/119696753",
+    "id": "119696753",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for washing laundry",
+    "harm": {
+      "id": "0057840",
+      "title": "119696753 - Machines for washing laundry",
+      "conceptLink": "/ec2/concept/5999344"
+    }
+  },
+  {
+    "uri": "en/7/124399",
+    "id": "124399",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for welding [electric]",
+    "harm": {
+      "id": "0057583",
+      "title": "124399 - Machines for welding [electric]",
+      "conceptLink": "/ec2/concept/5999088"
+    }
+  },
+  {
+    "uri": "en/7/129826",
+    "id": "129826",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for welding [gas]",
+    "harm": {
+      "id": "0057334",
+      "title": "129826 - Machines for welding [gas]",
+      "conceptLink": "/ec2/concept/5998841"
+    }
+  },
+  {
+    "uri": "en/7/321697",
+    "id": "321697",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for whipping foods [electric, household]",
+    "harm": {
+      "id": "0057541",
+      "title": "321697 - Machines for whipping foods [electric, household]",
+      "conceptLink": "/ec2/concept/5999046"
+    }
+  },
+  {
+    "uri": "en/7/119696740",
+    "id": "119696740",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for working metals",
+    "harm": {
+      "id": "0058041",
+      "title": "119696740 - Machines for working metals",
+      "conceptLink": "/ec2/concept/5999544"
+    }
+  },
+  {
+    "uri": "en/7/232209941",
+    "id": "232209941",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines for working wood",
+    "harm": {
+      "id": "0014226",
+      "title": "232209941 - Machines for working wood",
+      "conceptLink": "/ec2/concept/5964480"
+    }
+  },
+  {
+    "uri": "en/7/138391186",
+    "id": "138391186",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines, tools and apparatus for fastening and joining",
+    "harm": {
+      "id": "0070169",
+      "title": "138391186 - Machines, tools and apparatus for fastening and joining",
+      "conceptLink": "/ec2/concept/6006363"
+    }
+  },
+  {
+    "uri": "en/7/232209965",
+    "id": "232209965",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines used in processing cereals",
+    "harm": {
+      "id": "0055650",
+      "title": "232209965 - Machines used in processing cereals",
+      "conceptLink": "/ec2/concept/5997043"
+    }
+  },
+  {
+    "uri": "en/7/232210062",
+    "id": "232210062",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines used in processing food",
+    "harm": {
+      "id": "0058231",
+      "title": "232210062 - Machines used in processing food",
+      "conceptLink": "/ec2/concept/5999732"
+    }
+  },
+  {
+    "uri": "en/7/670490",
+    "id": "670490",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Machines utilising compressed air",
+    "harm": {
+      "id": "0059180",
+      "title": "670490 - Machines utilising compressed air",
+      "conceptLink": "/ec2/concept/6000669"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/16/21134337",
+    "id": "21134337",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed stationery",
+    "harm": {
+      "id": "0072196",
+      "title": "21134337 - Printed stationery",
+      "conceptLink": "/ec2/concept/6008379"
+    }
+  },
+  {
+    "uri": "en/16/94366404",
+    "id": "94366404",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed stories in illustrated form",
+    "harm": {
+      "id": "0066507",
+      "title": "94366404 - Printed stories in illustrated form",
+      "conceptLink": "/ec2/concept/6002710"
+    }
+  },
+  {
+    "uri": "en/16/119536662",
+    "id": "119536662",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed survey answer sheets",
+    "harm": {
+      "id": "0066525",
+      "title": "119536662 - Printed survey answer sheets",
+      "conceptLink": "/ec2/concept/6002728"
+    }
+  },
+  {
+    "uri": "en/16/79914269",
+    "id": "79914269",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed tables",
+    "harm": {
+      "id": "0071029",
+      "title": "79914269 - Printed tables",
+      "conceptLink": "/ec2/concept/6007221"
+    }
+  },
+  {
+    "uri": "en/16/120908200",
+    "id": "120908200",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed teaching activity guides",
+    "harm": {
+      "id": "0066524",
+      "title": "120908200 - Printed teaching activity guides",
+      "conceptLink": "/ec2/concept/6002727"
+    }
+  },
+  {
+    "uri": "en/16/6630887",
+    "id": "6630887",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed teaching materials",
+    "harm": {
+      "id": "0066523",
+      "title": "6630887 - Printed teaching materials",
+      "conceptLink": "/ec2/concept/6002726"
+    }
+  },
+  {
+    "uri": "en/16/420053",
+    "id": "420053",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed tickets",
+    "harm": {
+      "id": "0033122",
+      "title": "420053 - Printed tickets",
+      "conceptLink": "/ec2/concept/5981768"
+    }
+  },
+  {
+    "uri": "en/16/210506",
+    "id": "210506",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed timetables",
+    "harm": {
+      "id": "0026526",
+      "title": "210506 - Printed timetables",
+      "conceptLink": "/ec2/concept/5975743"
+    }
+  },
+  {
+    "uri": "en/16/65607670",
+    "id": "65607670",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed training materials",
+    "harm": {
+      "id": "0066442",
+      "title": "65607670 - Printed training materials",
+      "conceptLink": "/ec2/concept/6002645"
+    }
+  },
+  {
+    "uri": "en/16/120908191",
+    "id": "120908191",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed visuals",
+    "harm": {
+      "id": "0066522",
+      "title": "120908191 - Printed visuals",
+      "conceptLink": "/ec2/concept/6002725"
+    }
+  },
+  {
+    "uri": "en/16/4291955",
+    "id": "4291955",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printed vouchers",
+    "harm": {
+      "id": "0071018",
+      "title": "4291955 - Printed vouchers",
+      "conceptLink": "/ec2/concept/6007210"
+    }
+  },
+  {
+    "uri": "en/16/2031420",
+    "id": "2031420",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printer's type",
+    "harm": {
+      "id": "0058059",
+      "title": "2031420 - Printer's type",
+      "conceptLink": "/ec2/concept/5999560"
+    }
+  },
+  {
+    "uri": "en/16/210633",
+    "id": "210633",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' blankets, not of textile",
+    "harm": {
+      "id": "0021473",
+      "title": "210633 - Printers' blankets, not of textile",
+      "conceptLink": "/ec2/concept/5971104"
+    }
+  },
+  {
+    "uri": "en/16/210183",
+    "id": "210183",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' galley racks",
+    "harm": {
+      "id": "0024563",
+      "title": "210183 - Printers' galley racks",
+      "conceptLink": "/ec2/concept/5973942"
+    }
+  },
+  {
+    "uri": "en/16/563342",
+    "id": "563342",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' letters [type]",
+    "harm": {
+      "id": "0058059",
+      "title": "563342 - Printers' letters [type]",
+      "conceptLink": "/ec2/concept/5999560"
+    }
+  },
+  {
+    "uri": "en/16/212656",
+    "id": "212656",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' reglets",
+    "harm": {
+      "id": "0000151",
+      "title": "212656 - Printers' reglets",
+      "conceptLink": "/ec2/concept/5951626"
+    }
+  },
+  {
+    "uri": "en/16/212655",
+    "id": "212655",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' reglets [interline leads]",
+    "harm": {
+      "id": "0000151",
+      "title": "212655 - Printers' reglets [interline leads]",
+      "conceptLink": "/ec2/concept/5951626"
+    }
+  },
+  {
+    "uri": "en/16/206455",
+    "id": "206455",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printers' type",
+    "harm": {
+      "id": "0058059",
+      "title": "206455 - Printers' type",
+      "conceptLink": "/ec2/concept/5999560"
+    }
+  },
+  {
+    "uri": "en/16/120919001",
+    "id": "120919001",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing and bookbinding equipment",
+    "harm": {
+      "id": "0047836",
+      "title": "120919001 - Printing and bookbinding equipment",
+      "conceptLink": "/ec2/concept/5995110"
+    }
+  },
+  {
+    "uri": "en/16/205265",
+    "id": "205265",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing blocks",
+    "harm": {
+      "id": "0014417",
+      "title": "205265 - Printing blocks",
+      "conceptLink": "/ec2/concept/5964661"
+    }
+  },
+  {
+    "uri": "en/16/206462",
+    "id": "206462",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing characters",
+    "harm": {
+      "id": "0058062",
+      "title": "206462 - Printing characters",
+      "conceptLink": "/ec2/concept/5999563"
+    }
+  },
+  {
+    "uri": "en/16/206460",
+    "id": "206460",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing fonts",
+    "harm": {
+      "id": "0058060",
+      "title": "206460 - Printing fonts",
+      "conceptLink": "/ec2/concept/5999561"
+    }
+  },
+  {
+    "uri": "en/16/343843",
+    "id": "343843",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing paper",
+    "harm": {
+      "id": "0059315",
+      "title": "343843 - Printing paper",
+      "conceptLink": "/ec2/concept/6000797"
+    }
+  },
+  {
+    "uri": "en/16/94366426",
+    "id": "94366426",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing papers",
+    "harm": {
+      "id": "0059315",
+      "title": "94366426 - Printing papers",
+      "conceptLink": "/ec2/concept/6000797"
+    }
+  },
+  {
+    "uri": "en/16/204055",
+    "id": "204055",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing sets",
+    "harm": {
+      "id": "0034583",
+      "title": "204055 - Printing sets",
+      "conceptLink": "/ec2/concept/5983102"
+    }
+  },
+  {
+    "uri": "en/16/210666",
+    "id": "210666",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing sets, portable [office requisites]",
+    "harm": {
+      "id": "0025861",
+      "title": "210666 - Printing sets, portable [office requisites]",
+      "conceptLink": "/ec2/concept/5975135"
+    }
+  },
+  {
+    "uri": "en/16/206456",
+    "id": "206456",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printing type",
+    "harm": {
+      "id": "0058059",
+      "title": "206456 - Printing type",
+      "conceptLink": "/ec2/concept/5999560"
+    }
+  },
+  {
+    "uri": "en/16/204056",
+    "id": "204056",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Prints",
+    "harm": {
+      "id": "0015554",
+      "title": "204056 - Prints",
+      "conceptLink": "/ec2/concept/5965696"
+    }
+  },
+  {
+    "uri": "en/16/204131",
+    "id": "204131",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Prints [engravings]",
+    "harm": {
+      "id": "0008234",
+      "title": "204131 - Prints [engravings]",
+      "conceptLink": "/ec2/concept/5958989"
+    }
+  },
+  {
+    "uri": "en/16/120867049",
+    "id": "120867049",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Prints in the nature of pictures",
+    "harm": {
+      "id": "0066468",
+      "title": "120867049 - Prints in the nature of pictures",
+      "conceptLink": "/ec2/concept/6002671"
+    }
+  },
+  {
+    "uri": "en/16/420472",
+    "id": "420472",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Printwheels for typewriters",
+    "harm": {
+      "id": "0017342",
+      "title": "420472 - Printwheels for typewriters",
+      "conceptLink": "/ec2/concept/5967332"
+    }
+  },
+  {
+    "uri": "en/16/560073",
+    "id": "560073",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Promotional publications",
+    "harm": {
+      "id": "0017343",
+      "title": "560073 - Promotional publications",
+      "conceptLink": "/ec2/concept/5967333"
+    }
+  },
+  {
+    "uri": "en/16/420071",
+    "id": "420071",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Proofing paper",
+    "harm": {
+      "id": "0038939",
+      "title": "420071 - Proofing paper",
+      "conceptLink": "/ec2/concept/5987058"
+    }
+  },
+  {
+    "uri": "en/16/344048",
+    "id": "344048",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Propelling pencils",
+    "harm": {
+      "id": "0059338",
+      "title": "344048 - Propelling pencils",
+      "conceptLink": "/ec2/concept/6000820"
+    }
+  },
+  {
+    "uri": "en/16/913737",
+    "id": "913737",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Prospectuses",
+    "harm": {
+      "id": "0023921",
+      "title": "913737 - Prospectuses",
+      "conceptLink": "/ec2/concept/5973350"
+    }
+  },
+  {
+    "uri": "en/16/343880",
+    "id": "343880",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Protective covers for books",
+    "harm": {
+      "id": "0014733",
+      "title": "343880 - Protective covers for books",
+      "conceptLink": "/ec2/concept/5964943"
+    }
+  },
+  {
+    "uri": "en/16/120834667",
+    "id": "120834667",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Protractors as drawing instruments",
+    "harm": {
+      "id": "0056788",
+      "title": "120834667 - Protractors as drawing instruments",
+      "conceptLink": "/ec2/concept/5998067"
+    }
+  },
+  {
+    "uri": "en/16/343896",
+    "id": "343896",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Protractors [for stationery and office use]",
+    "harm": {
+      "id": "0014734",
+      "title": "343896 - Protractors [for stationery and office use]",
+      "conceptLink": "/ec2/concept/5964944"
+    }
+  },
+  {
+    "uri": "en/16/14614178",
+    "id": "14614178",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Publication paper",
+    "harm": {
+      "id": "0066521",
+      "title": "14614178 - Publication paper",
+      "conceptLink": "/ec2/concept/6002724"
+    }
+  },
+  {
+    "uri": "en/16/913075",
+    "id": "913075",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Publications (Printed -)",
+    "harm": {
+      "id": "0004654",
+      "title": "913075 - Publications (Printed -)",
+      "conceptLink": "/ec2/concept/5955715"
+    }
+  },
+  {
+    "uri": "en/16/563358",
+    "id": "563358",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Punched cards for the recordal of computer programmes",
+    "harm": {
+      "id": "0005817",
+      "title": "563358 - Punched cards for the recordal of computer programmes",
+      "conceptLink": "/ec2/concept/5956781"
+    }
+  },
+  {
+    "uri": "en/16/207728",
+    "id": "207728",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Punches [office requisites]",
+    "harm": {
+      "id": "0058782",
+      "title": "207728 - Punches [office requisites]",
+      "conceptLink": "/ec2/concept/6000273"
+    }
+  },
+  {
+    "uri": "en/16/37486400",
+    "id": "37486400",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Push pins",
+    "harm": {
+      "id": "0057771",
+      "title": "37486400 - Push pins",
+      "conceptLink": "/ec2/concept/5999275"
+    }
+  },
+  {
+    "uri": "en/16/120867057",
+    "id": "120867057",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Quick reference pocket guides",
+    "harm": {
+      "id": "0066469",
+      "title": "120867057 - Quick reference pocket guides",
+      "conceptLink": "/ec2/concept/6002672"
+    }
+  },
+  {
+    "uri": "en/16/212547",
+    "id": "212547",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Radiograms (Paper for -)",
+    "harm": {
+      "id": "0035461",
+      "title": "212547 - Radiograms (Paper for -)",
+      "conceptLink": "/ec2/concept/5983895"
+    }
+  },
+  {
+    "uri": "en/16/137965906",
+    "id": "137965906",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Recipe binders",
+    "harm": {
+      "id": "0072197",
+      "title": "137965906 - Recipe binders",
+      "conceptLink": "/ec2/concept/6008380"
+    }
+  },
+  {
+    "uri": "en/16/417716",
+    "id": "417716",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Recipe books",
+    "harm": {
+      "id": "0014392",
+      "title": "417716 - Recipe books",
+      "conceptLink": "/ec2/concept/5964636"
+    }
+  },
+  {
+    "uri": "en/16/343914",
+    "id": "343914",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Record cards",
+    "harm": {
+      "id": "0057868",
+      "title": "343914 - Record cards",
+      "conceptLink": "/ec2/concept/5999372"
+    }
+  },
+  {
+    "uri": "en/16/119536704",
+    "id": "119536704",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Recycled bond paper",
+    "harm": {
+      "id": "0071063",
+      "title": "119536704 - Recycled bond paper",
+      "conceptLink": "/ec2/concept/6007255"
+    }
+  },
+  {
+    "uri": "en/16/420095",
+    "id": "420095",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Recycled paper",
+    "harm": {
+      "id": "0034212",
+      "title": "420095 - Recycled paper",
+      "conceptLink": "/ec2/concept/5982767"
+    }
+  },
+  {
+    "uri": "en/16/502035",
+    "id": "502035",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Red algae gelatine glue, for stationery or household purposes (funori)",
+    "harm": {
+      "id": "0073990",
+      "title": "502035 - Red algae gelatine glue, for stationery or household purposes (funori)",
+      "conceptLink": "/ec2/concept/6011226"
+    }
+  },
+  {
+    "uri": "en/16/129843861",
+    "id": "129843861",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Red algae gelatine glue, for stationery or household purposes [funori]",
+    "harm": {
+      "id": "0073990",
+      "title": "129843861 - Red algae gelatine glue, for stationery or household purposes [funori]",
+      "conceptLink": "/ec2/concept/6011226"
+    }
+  },
+  {
+    "uri": "en/16/343935",
+    "id": "343935",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Red ink paste used for seals",
+    "harm": {
+      "id": "0032015",
+      "title": "343935 - Red ink paste used for seals",
+      "conceptLink": "/ec2/concept/5980755"
+    }
+  },
+  {
+    "uri": "en/16/343947",
+    "id": "343947",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reel paper for printers",
+    "harm": {
+      "id": "0032016",
+      "title": "343947 - Reel paper for printers",
+      "conceptLink": "/ec2/concept/5980756"
+    }
+  },
+  {
+    "uri": "en/16/210718",
+    "id": "210718",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reference books",
+    "harm": {
+      "id": "0000027",
+      "title": "210718 - Reference books",
+      "conceptLink": "/ec2/concept/5951509"
+    }
+  },
+  {
+    "uri": "en/16/563370",
+    "id": "563370",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reference cards",
+    "harm": {
+      "id": "0034663",
+      "title": "563370 - Reference cards",
+      "conceptLink": "/ec2/concept/5983169"
+    }
+  },
+  {
+    "uri": "en/16/343973",
+    "id": "343973",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Refills for ballpoint pens",
+    "harm": {
+      "id": "0008888",
+      "title": "343973 - Refills for ballpoint pens",
+      "conceptLink": "/ec2/concept/5959585"
+    }
+  },
+  {
+    "uri": "en/16/560471",
+    "id": "560471",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Refuse bags of paper",
+    "harm": {
+      "id": "0000028",
+      "title": "560471 - Refuse bags of paper",
+      "conceptLink": "/ec2/concept/5951510"
+    }
+  },
+  {
+    "uri": "en/16/563385",
+    "id": "563385",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Register files",
+    "harm": {
+      "id": "0022163",
+      "title": "563385 - Register files",
+      "conceptLink": "/ec2/concept/5971742"
+    }
+  },
+  {
+    "uri": "en/16/420112",
+    "id": "420112",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reinforced stationery tabs",
+    "harm": {
+      "id": "0039948",
+      "title": "420112 - Reinforced stationery tabs",
+      "conceptLink": "/ec2/concept/5987986"
+    }
+  },
+  {
+    "uri": "en/16/35917095",
+    "id": "35917095",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Religious books",
+    "harm": {
+      "id": "0066519",
+      "title": "35917095 - Religious books",
+      "conceptLink": "/ec2/concept/6002722"
+    }
+  },
+  {
+    "uri": "en/16/40267746",
+    "id": "40267746",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Religious circular letters",
+    "harm": {
+      "id": "0066518",
+      "title": "40267746 - Religious circular letters",
+      "conceptLink": "/ec2/concept/6002721"
+    }
+  },
+  {
+    "uri": "en/16/563400",
+    "id": "563400",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Removable self-stick notes",
+    "harm": {
+      "id": "0045096",
+      "title": "563400 - Removable self-stick notes",
+      "conceptLink": "/ec2/concept/5992685"
+    }
+  },
+  {
+    "uri": "en/16/891946",
+    "id": "891946",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Removable tattoos [decalcomania]",
+    "harm": {
+      "id": "0042906",
+      "title": "891946 - Removable tattoos [decalcomania]",
+      "conceptLink": "/ec2/concept/5990677"
+    }
+  },
+  {
+    "uri": "en/16/32267604",
+    "id": "32267604",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reporters' notebooks",
+    "harm": {
+      "id": "0071062",
+      "title": "32267604 - Reporters' notebooks",
+      "conceptLink": "/ec2/concept/6007254"
+    }
+  },
+  {
+    "uri": "en/16/94366624",
+    "id": "94366624",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reproduction paper",
+    "harm": {
+      "id": "0071061",
+      "title": "94366624 - Reproduction paper",
+      "conceptLink": "/ec2/concept/6007253"
+    }
+  },
+  {
+    "uri": "en/16/210377",
+    "id": "210377",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reproductions (Graphic -)",
+    "harm": {
+      "id": "0058822",
+      "title": "210377 - Reproductions (Graphic -)",
+      "conceptLink": "/ec2/concept/6000313"
+    }
+  },
+  {
+    "uri": "en/16/120898199",
+    "id": "120898199",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Reproductions of paintings",
+    "harm": {
+      "id": "0060601",
+      "title": "120898199 - Reproductions of paintings",
+      "conceptLink": "/ec2/concept/5998566"
+    }
+  },
+  {
+    "uri": "en/16/120861949",
+    "id": "120861949",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Resource books",
+    "harm": {
+      "id": "0000027",
+      "title": "120861949 - Resource books",
+      "conceptLink": "/ec2/concept/5951509"
+    }
+  },
+  {
+    "uri": "en/16/344047",
+    "id": "344047",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Retractable pencils",
+    "harm": {
+      "id": "0059337",
+      "title": "344047 - Retractable pencils",
+      "conceptLink": "/ec2/concept/6000819"
+    }
+  },
+  {
+    "uri": "en/16/120908126",
+    "id": "120908126",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Revolving circular charts",
+    "harm": {
+      "id": "0066516",
+      "title": "120908126 - Revolving circular charts",
+      "conceptLink": "/ec2/concept/6002719"
+    }
+  },
+  {
+    "uri": "en/16/120898173",
+    "id": "120898173",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ribbons for handheld label printers [office requisites]",
+    "harm": {
+      "id": "0066423",
+      "title": "120898173 - Ribbons for handheld label printers [office requisites]",
+      "conceptLink": "/ec2/concept/6002626"
+    }
+  },
+  {
+    "uri": "en/16/212947",
+    "id": "212947",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ribbons for typewriters",
+    "harm": {
+      "id": "0059162",
+      "title": "212947 - Ribbons for typewriters",
+      "conceptLink": "/ec2/concept/6000651"
+    }
+  },
+  {
+    "uri": "en/16/212898",
+    "id": "212898",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ribbons of paper",
+    "harm": {
+      "id": "0046628",
+      "title": "212898 - Ribbons of paper",
+      "conceptLink": "/ec2/concept/5994054"
+    }
+  },
+  {
+    "uri": "en/16/212899",
+    "id": "212899",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ribbons (Paper -)",
+    "harm": {
+      "id": "0046628",
+      "title": "212899 - Ribbons (Paper -)",
+      "conceptLink": "/ec2/concept/5994054"
+    }
+  },
+  {
+    "uri": "en/16/344070",
+    "id": "344070",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rice paper",
+    "harm": {
+      "id": "0037807",
+      "title": "344070 - Rice paper",
+      "conceptLink": "/ec2/concept/5986024"
+    }
+  },
+  {
+    "uri": "en/16/563419",
+    "id": "563419",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ring binders",
+    "harm": {
+      "id": "0010448",
+      "title": "563419 - Ring binders",
+      "conceptLink": "/ec2/concept/5961018"
+    }
+  },
+  {
+    "uri": "en/16/563420",
+    "id": "563420",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Ring files",
+    "harm": {
+      "id": "0010448",
+      "title": "563420 - Ring files",
+      "conceptLink": "/ec2/concept/5961018"
+    }
+  },
+  {
+    "uri": "en/16/344094",
+    "id": "344094",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Road maps",
+    "harm": {
+      "id": "0043573",
+      "title": "344094 - Road maps",
+      "conceptLink": "/ec2/concept/5991291"
+    }
+  },
+  {
+    "uri": "en/16/120813992",
+    "id": "120813992",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Role playing game equipment in the nature of manuals",
+    "harm": {
+      "id": "0066491",
+      "title": "120813992 - Role playing game equipment in the nature of manuals",
+      "conceptLink": "/ec2/concept/6002694"
+    }
+  },
+  {
+    "uri": "en/16/213205",
+    "id": "213205",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Roller ball pens",
+    "harm": {
+      "id": "0057726",
+      "title": "213205 - Roller ball pens",
+      "conceptLink": "/ec2/concept/5999230"
+    }
+  },
+  {
+    "uri": "en/16/213206",
+    "id": "213206",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rollerball pens",
+    "harm": {
+      "id": "0057726",
+      "title": "213206 - Rollerball pens",
+      "conceptLink": "/ec2/concept/5999230"
+    }
+  },
+  {
+    "uri": "en/16/419093",
+    "id": "419093",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rollers for applying paint",
+    "harm": {
+      "id": "0059332",
+      "title": "419093 - Rollers for applying paint",
+      "conceptLink": "/ec2/concept/6000814"
+    }
+  },
+  {
+    "uri": "en/16/208409",
+    "id": "208409",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rollers for typewriters",
+    "harm": {
+      "id": "0004525",
+      "title": "208409 - Rollers for typewriters",
+      "conceptLink": "/ec2/concept/5955594"
+    }
+  },
+  {
+    "uri": "en/16/211883",
+    "id": "211883",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rollers (House painters' -)",
+    "harm": {
+      "id": "0016370",
+      "title": "211883 - Rollers (House painters' -)",
+      "conceptLink": "/ec2/concept/5966460"
+    }
+  },
+  {
+    "uri": "en/16/563447",
+    "id": "563447",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rolls of plastic film for packaging",
+    "harm": {
+      "id": "0022164",
+      "title": "563447 - Rolls of plastic film for packaging",
+      "conceptLink": "/ec2/concept/5971743"
+    }
+  },
+  {
+    "uri": "en/16/119536727",
+    "id": "119536727",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Romance novels",
+    "harm": {
+      "id": "0071067",
+      "title": "119536727 - Romance novels",
+      "conceptLink": "/ec2/concept/6007259"
+    }
+  },
+  {
+    "uri": "en/16/216572",
+    "id": "216572",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rosettes of paper",
+    "harm": {
+      "id": "0039366",
+      "title": "216572 - Rosettes of paper",
+      "conceptLink": "/ec2/concept/5987448"
+    }
+  },
+  {
+    "uri": "en/16/208732",
+    "id": "208732",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rotary duplicators",
+    "harm": {
+      "id": "0043574",
+      "title": "208732 - Rotary duplicators",
+      "conceptLink": "/ec2/concept/5991292"
+    }
+  },
+  {
+    "uri": "en/16/344095",
+    "id": "344095",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Route maps",
+    "harm": {
+      "id": "0043573",
+      "title": "344095 - Route maps",
+      "conceptLink": "/ec2/concept/5991291"
+    }
+  },
+  {
+    "uri": "en/16/420148",
+    "id": "420148",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rub down transfers",
+    "harm": {
+      "id": "0011088",
+      "title": "420148 - Rub down transfers",
+      "conceptLink": "/ec2/concept/5961607"
+    }
+  },
+  {
+    "uri": "en/16/119536730",
+    "id": "119536730",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber bands [office requisites]",
+    "harm": {
+      "id": "0000440",
+      "title": "119536730 - Rubber bands [office requisites]",
+      "conceptLink": "/ec2/concept/5951881"
+    }
+  },
+  {
+    "uri": "en/16/214077",
+    "id": "214077",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber bands [stationery]",
+    "harm": {
+      "id": "0000440",
+      "title": "214077 - Rubber bands [stationery]",
+      "conceptLink": "/ec2/concept/5951881"
+    }
+  },
+  {
+    "uri": "en/16/131042883",
+    "id": "131042883",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber cements for stationery",
+    "harm": {
+      "id": "0056087",
+      "title": "131042883 - Rubber cements for stationery",
+      "conceptLink": "/ec2/concept/5997439"
+    }
+  },
+  {
+    "uri": "en/16/48708091",
+    "id": "48708091",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber document stamps",
+    "harm": {
+      "id": "0066515",
+      "title": "48708091 - Rubber document stamps",
+      "conceptLink": "/ec2/concept/6002718"
+    }
+  },
+  {
+    "uri": "en/16/209416",
+    "id": "209416",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber erasers",
+    "harm": {
+      "id": "0029441",
+      "title": "209416 - Rubber erasers",
+      "conceptLink": "/ec2/concept/5978407"
+    }
+  },
+  {
+    "uri": "en/16/420167",
+    "id": "420167",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber finger tips",
+    "harm": {
+      "id": "0011089",
+      "title": "420167 - Rubber finger tips",
+      "conceptLink": "/ec2/concept/5961608"
+    }
+  },
+  {
+    "uri": "en/16/94366712",
+    "id": "94366712",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber stamp",
+    "harm": {
+      "id": "0014735",
+      "title": "94366712 - Rubber stamp",
+      "conceptLink": "/ec2/concept/5964945"
+    }
+  },
+  {
+    "uri": "en/16/344125",
+    "id": "344125",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubber stamps",
+    "harm": {
+      "id": "0014735",
+      "title": "344125 - Rubber stamps",
+      "conceptLink": "/ec2/concept/5964945"
+    }
+  },
+  {
+    "uri": "en/16/563462",
+    "id": "563462",
+    "lang": "en",
+    "classNumber": "16",
+    "term": "Rubbers for erasing written text",
+    "harm": {
+      "id": "0039367",
+      "title": "563462 - Rubbers for erasing written text",
+      "conceptLink": "/ec2/concept/5987449"
+    }
+  }
+]

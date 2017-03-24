@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/30/782643",
+    "id": "782643",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh pasties",
+    "harm": {
+      "id": "0041112",
+      "title": "782643 - Fresh pasties",
+      "conceptLink": "/ec2/concept/5989045"
+    }
+  },
+  {
+    "uri": "en/30/782659",
+    "id": "782659",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh pies",
+    "harm": {
+      "id": "0035303",
+      "title": "782659 - Fresh pies",
+      "conceptLink": "/ec2/concept/5983754"
+    }
+  },
+  {
+    "uri": "en/30/360136",
+    "id": "360136",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh pizza",
+    "harm": {
+      "id": "0014728",
+      "title": "360136 - Fresh pizza",
+      "conceptLink": "/ec2/concept/5964939"
+    }
+  },
+  {
+    "uri": "en/30/120814656",
+    "id": "120814656",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh pizzas",
+    "harm": {
+      "id": "0014728",
+      "title": "120814656 - Fresh pizzas",
+      "conceptLink": "/ec2/concept/5964939"
+    }
+  },
+  {
+    "uri": "en/30/782673",
+    "id": "782673",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh sausage rolls",
+    "harm": {
+      "id": "0029525",
+      "title": "782673 - Fresh sausage rolls",
+      "conceptLink": "/ec2/concept/5978487"
+    }
+  },
+  {
+    "uri": "en/30/782688",
+    "id": "782688",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried corn",
+    "harm": {
+      "id": "0029526",
+      "title": "782688 - Fried corn",
+      "conceptLink": "/ec2/concept/5978488"
+    }
+  },
+  {
+    "uri": "en/30/120896332",
+    "id": "120896332",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried dough cookies",
+    "harm": {
+      "id": "0067592",
+      "title": "120896332 - Fried dough cookies",
+      "conceptLink": "/ec2/concept/6003795"
+    }
+  },
+  {
+    "uri": "en/30/503531",
+    "id": "503531",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried dough cookies (karintoh)",
+    "harm": {
+      "id": "0010848",
+      "title": "503531 - Fried dough cookies (karintoh)",
+      "conceptLink": "/ec2/concept/5961388"
+    }
+  },
+  {
+    "uri": "en/30/136010307",
+    "id": "136010307",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried dough twists",
+    "harm": {
+      "id": "0060140",
+      "title": "136010307 - Fried dough twists",
+      "conceptLink": "/ec2/concept/5996402"
+    }
+  },
+  {
+    "uri": "en/30/68385627",
+    "id": "68385627",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried noodles",
+    "harm": {
+      "id": "0072644",
+      "title": "68385627 - Fried noodles",
+      "conceptLink": "/ec2/concept/6008821"
+    }
+  },
+  {
+    "uri": "en/30/782699",
+    "id": "782699",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fried rice",
+    "harm": {
+      "id": "0023791",
+      "title": "782699 - Fried rice",
+      "conceptLink": "/ec2/concept/5973230"
+    }
+  },
+  {
+    "uri": "en/30/779356",
+    "id": "779356",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frosting [icing] (Cake -)",
+    "harm": {
+      "id": "0057017",
+      "title": "779356 - Frosting [icing] (Cake -)",
+      "conceptLink": "/ec2/concept/5998645"
+    }
+  },
+  {
+    "uri": "en/30/441253",
+    "id": "441253",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frosting mixes",
+    "harm": {
+      "id": "0038135",
+      "title": "441253 - Frosting mixes",
+      "conceptLink": "/ec2/concept/5986322"
+    }
+  },
+  {
+    "uri": "en/30/441291",
+    "id": "441291",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frostings",
+    "harm": {
+      "id": "0046485",
+      "title": "441291 - Frostings",
+      "conceptLink": "/ec2/concept/5993926"
+    }
+  },
+  {
+    "uri": "en/30/120897080",
+    "id": "120897080",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen biscotti dough",
+    "harm": {
+      "id": "0071291",
+      "title": "120897080 - Frozen biscotti dough",
+      "conceptLink": "/ec2/concept/6007483"
+    }
+  },
+  {
+    "uri": "en/30/119546359",
+    "id": "119546359",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen brownie dough",
+    "harm": {
+      "id": "0067596",
+      "title": "119546359 - Frozen brownie dough",
+      "conceptLink": "/ec2/concept/6003799"
+    }
+  },
+  {
+    "uri": "en/30/782714",
+    "id": "782714",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen cakes",
+    "harm": {
+      "id": "0035304",
+      "title": "782714 - Frozen cakes",
+      "conceptLink": "/ec2/concept/5983755"
+    }
+  },
+  {
+    "uri": "en/30/780889",
+    "id": "780889",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen confectionery",
+    "harm": {
+      "id": "0024776",
+      "title": "780889 - Frozen confectionery",
+      "conceptLink": "/ec2/concept/5974144"
+    }
+  },
+  {
+    "uri": "en/30/782730",
+    "id": "782730",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen confectionery containing ice cream",
+    "harm": {
+      "id": "0000604",
+      "title": "782730 - Frozen confectionery containing ice cream",
+      "conceptLink": "/ec2/concept/5952031"
+    }
+  },
+  {
+    "uri": "en/30/782746",
+    "id": "782746",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen confections on a stick",
+    "harm": {
+      "id": "0017985",
+      "title": "782746 - Frozen confections on a stick",
+      "conceptLink": "/ec2/concept/5967917"
+    }
+  },
+  {
+    "uri": "en/30/891414",
+    "id": "891414",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen cookie dough",
+    "harm": {
+      "id": "0001297",
+      "title": "891414 - Frozen cookie dough",
+      "conceptLink": "/ec2/concept/5952653"
+    }
+  },
+  {
+    "uri": "en/30/441330",
+    "id": "441330",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen custards",
+    "harm": {
+      "id": "0023056",
+      "title": "441330 - Frozen custards",
+      "conceptLink": "/ec2/concept/5972552"
+    }
+  },
+  {
+    "uri": "en/30/782760",
+    "id": "782760",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen dairy confections",
+    "harm": {
+      "id": "0023792",
+      "title": "782760 - Frozen dairy confections",
+      "conceptLink": "/ec2/concept/5973231"
+    }
+  },
+  {
+    "uri": "en/30/782772",
+    "id": "782772",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen dough",
+    "harm": {
+      "id": "0029527",
+      "title": "782772 - Frozen dough",
+      "conceptLink": "/ec2/concept/5978489"
+    }
+  },
+  {
+    "uri": "en/30/294392",
+    "id": "294392",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen ices",
+    "harm": {
+      "id": "0057795",
+      "title": "294392 - Frozen ices",
+      "conceptLink": "/ec2/concept/5999299"
+    }
+  },
+  {
+    "uri": "en/30/782802",
+    "id": "782802",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen lollipops",
+    "harm": {
+      "id": "0035305",
+      "title": "782802 - Frozen lollipops",
+      "conceptLink": "/ec2/concept/5983756"
+    }
+  },
+  {
+    "uri": "en/30/782818",
+    "id": "782818",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastries",
+    "harm": {
+      "id": "0035306",
+      "title": "782818 - Frozen pastries",
+      "conceptLink": "/ec2/concept/5983757"
+    }
+  },
+  {
+    "uri": "en/30/782817",
+    "id": "782817",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastry",
+    "harm": {
+      "id": "0035306",
+      "title": "782817 - Frozen pastry",
+      "conceptLink": "/ec2/concept/5983757"
+    }
+  },
+  {
+    "uri": "en/30/782839",
+    "id": "782839",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastry sheets",
+    "harm": {
+      "id": "0041113",
+      "title": "782839 - Frozen pastry sheets",
+      "conceptLink": "/ec2/concept/5989046"
+    }
+  },
+  {
+    "uri": "en/30/782882",
+    "id": "782882",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastry stuffed with vegetables",
+    "harm": {
+      "id": "0013916",
+      "title": "782882 - Frozen pastry stuffed with vegetables",
+      "conceptLink": "/ec2/concept/5964191"
+    }
+  },
+  {
+    "uri": "en/30/782866",
+    "id": "782866",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastry stuffed with meat and vegetables",
+    "harm": {
+      "id": "0019776",
+      "title": "782866 - Frozen pastry stuffed with meat and vegetables",
+      "conceptLink": "/ec2/concept/5969557"
+    }
+  },
+  {
+    "uri": "en/30/782851",
+    "id": "782851",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pastry stuffed with meat",
+    "harm": {
+      "id": "0041114",
+      "title": "782851 - Frozen pastry stuffed with meat",
+      "conceptLink": "/ec2/concept/5989047"
+    }
+  },
+  {
+    "uri": "en/30/782898",
+    "id": "782898",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen pizzas",
+    "harm": {
+      "id": "0042794",
+      "title": "782898 - Frozen pizzas",
+      "conceptLink": "/ec2/concept/5990574"
+    }
+  },
+  {
+    "uri": "en/30/782915",
+    "id": "782915",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen prepared rice",
+    "harm": {
+      "id": "0025460",
+      "title": "782915 - Frozen prepared rice",
+      "conceptLink": "/ec2/concept/5974771"
+    }
+  },
+  {
+    "uri": "en/30/782931",
+    "id": "782931",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen prepared rice with seasonings",
+    "harm": {
+      "id": "0025461",
+      "title": "782931 - Frozen prepared rice with seasonings",
+      "conceptLink": "/ec2/concept/5974772"
+    }
+  },
+  {
+    "uri": "en/30/782946",
+    "id": "782946",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen prepared rice with seasonings and vegetables",
+    "harm": {
+      "id": "0042795",
+      "title": "782946 - Frozen prepared rice with seasonings and vegetables",
+      "conceptLink": "/ec2/concept/5990575"
+    }
+  },
+  {
+    "uri": "en/30/299461",
+    "id": "299461",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen yoghurt [confectionery ices]",
+    "harm": {
+      "id": "0029970",
+      "title": "299461 - Frozen yoghurt [confectionery ices]",
+      "conceptLink": "/ec2/concept/5978896"
+    }
+  },
+  {
+    "uri": "en/30/137107845",
+    "id": "137107845",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen yogurt cakes",
+    "harm": {
+      "id": "0069810",
+      "title": "137107845 - Frozen yogurt cakes",
+      "conceptLink": "/ec2/concept/6006013"
+    }
+  },
+  {
+    "uri": "en/30/299460",
+    "id": "299460",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen yogurt [confectionery ices]",
+    "harm": {
+      "id": "0029970",
+      "title": "299460 - Frozen yogurt [confectionery ices]",
+      "conceptLink": "/ec2/concept/5978896"
+    }
+  },
+  {
+    "uri": "en/30/903927",
+    "id": "903927",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen yogurt confections",
+    "harm": {
+      "id": "0021513",
+      "title": "903927 - Frozen yogurt confections",
+      "conceptLink": "/ec2/concept/5971143"
+    }
+  },
+  {
+    "uri": "en/30/137107846",
+    "id": "137107846",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frozen yogurt pies",
+    "harm": {
+      "id": "0069809",
+      "title": "137107846 - Frozen yogurt pies",
+      "conceptLink": "/ec2/concept/6006012"
+    }
+  },
+  {
+    "uri": "en/30/12415527",
+    "id": "12415527",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fructose for food",
+    "harm": {
+      "id": "0056479",
+      "title": "12415527 - Fructose for food",
+      "conceptLink": "/ec2/concept/5997790"
+    }
+  },
+  {
+    "uri": "en/30/782961",
+    "id": "782961",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fructose syrup for use in the manufacture of foods",
+    "harm": {
+      "id": "0002360",
+      "title": "782961 - Fructose syrup for use in the manufacture of foods",
+      "conceptLink": "/ec2/concept/5953613"
+    }
+  },
+  {
+    "uri": "en/30/100115513",
+    "id": "100115513",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit bread",
+    "harm": {
+      "id": "0027741",
+      "title": "100115513 - Fruit bread",
+      "conceptLink": "/ec2/concept/5976849"
+    }
+  },
+  {
+    "uri": "en/30/903928",
+    "id": "903928",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit breads",
+    "harm": {
+      "id": "0027741",
+      "title": "903928 - Fruit breads",
+      "conceptLink": "/ec2/concept/5976849"
+    }
+  },
+  {
+    "uri": "en/30/782976",
+    "id": "782976",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit cake snacks",
+    "harm": {
+      "id": "0013917",
+      "title": "782976 - Fruit cake snacks",
+      "conceptLink": "/ec2/concept/5964192"
+    }
+  },
+  {
+    "uri": "en/30/360172",
+    "id": "360172",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit cakes",
+    "harm": {
+      "id": "0003130",
+      "title": "360172 - Fruit cakes",
+      "conceptLink": "/ec2/concept/5954316"
+    }
+  },
+  {
+    "uri": "en/30/120899256",
+    "id": "120899256",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit coulis [sauces]",
+    "harm": {
+      "id": "0030118",
+      "title": "120899256 - Fruit coulis [sauces]",
+      "conceptLink": "/ec2/concept/5979033"
+    }
+  },
+  {
+    "uri": "en/30/782991",
+    "id": "782991",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit drops [confectionery]",
+    "harm": {
+      "id": "0025462",
+      "title": "782991 - Fruit drops [confectionery]",
+      "conceptLink": "/ec2/concept/5974773"
+    }
+  },
+  {
+    "uri": "en/30/783012",
+    "id": "783012",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit filled pastry products",
+    "harm": {
+      "id": "0040496",
+      "title": "783012 - Fruit filled pastry products",
+      "conceptLink": "/ec2/concept/5988483"
+    }
+  },
+  {
+    "uri": "en/30/120862831",
+    "id": "120862831",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit flavorings, other than essential oils",
+    "harm": {
+      "id": "0067615",
+      "title": "120862831 - Fruit flavorings, other than essential oils",
+      "conceptLink": "/ec2/concept/6003818"
+    }
+  },
+  {
+    "uri": "en/30/783033",
+    "id": "783033",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit flavoured tea [other than medicinal]",
+    "harm": {
+      "id": "0025463",
+      "title": "783033 - Fruit flavoured tea [other than medicinal]",
+      "conceptLink": "/ec2/concept/5974774"
+    }
+  },
+  {
+    "uri": "en/30/783049",
+    "id": "783049",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit flavoured water ices in the form of lollipops",
+    "harm": {
+      "id": "0019777",
+      "title": "783049 - Fruit flavoured water ices in the form of lollipops",
+      "conceptLink": "/ec2/concept/5969558"
+    }
+  },
+  {
+    "uri": "en/30/503544",
+    "id": "503544",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit flavourings, except essences",
+    "harm": {
+      "id": "0033934",
+      "title": "503544 - Fruit flavourings, except essences",
+      "conceptLink": "/ec2/concept/5982511"
+    }
+  },
+  {
+    "uri": "en/30/137173630",
+    "id": "137173630",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit flavourings for food or beverages, except essences",
+    "harm": {
+      "id": "0033934",
+      "title": "137173630 - Fruit flavourings for food or beverages, except essences",
+      "conceptLink": "/ec2/concept/5982511"
+    }
+  },
+  {
+    "uri": "en/30/783063",
+    "id": "783063",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit gums [other than for medical use]",
+    "harm": {
+      "id": "0008053",
+      "title": "783063 - Fruit gums [other than for medical use]",
+      "conceptLink": "/ec2/concept/5958828"
+    }
+  },
+  {
+    "uri": "en/30/297563",
+    "id": "297563",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit ice",
+    "harm": {
+      "id": "0037803",
+      "title": "297563 - Fruit ice",
+      "conceptLink": "/ec2/concept/5986020"
+    }
+  },
+  {
+    "uri": "en/30/69488592",
+    "id": "69488592",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit ice bars",
+    "harm": {
+      "id": "0071763",
+      "title": "69488592 - Fruit ice bars",
+      "conceptLink": "/ec2/concept/6007950"
+    }
+  },
+  {
+    "uri": "en/30/359888",
+    "id": "359888",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit ice cream",
+    "harm": {
+      "id": "0025464",
+      "title": "359888 - Fruit ice cream",
+      "conceptLink": "/ec2/concept/5974775"
+    }
+  },
+  {
+    "uri": "en/30/22857210",
+    "id": "22857210",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit ice creams",
+    "harm": {
+      "id": "0025464",
+      "title": "22857210 - Fruit ice creams",
+      "conceptLink": "/ec2/concept/5974775"
+    }
+  },
+  {
+    "uri": "en/30/359887",
+    "id": "359887",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit ices",
+    "harm": {
+      "id": "0037803",
+      "title": "359887 - Fruit ices",
+      "conceptLink": "/ec2/concept/5986020"
+    }
+  },
+  {
+    "uri": "en/30/299277",
+    "id": "299277",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit jellies [confectionery]",
+    "harm": {
+      "id": "0003277",
+      "title": "299277 - Fruit jellies [confectionery]",
+      "conceptLink": "/ec2/concept/5954446"
+    }
+  },
+  {
+    "uri": "en/30/119546393",
+    "id": "119546393",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit jelly candy",
+    "harm": {
+      "id": "0046627",
+      "title": "119546393 - Fruit jelly candy",
+      "conceptLink": "/ec2/concept/5994053"
+    }
+  },
+  {
+    "uri": "en/30/783078",
+    "id": "783078",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit pastries",
+    "harm": {
+      "id": "0023223",
+      "title": "783078 - Fruit pastries",
+      "conceptLink": "/ec2/concept/5972703"
+    }
+  },
+  {
+    "uri": "en/30/360173",
+    "id": "360173",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit pies",
+    "harm": {
+      "id": "0003130",
+      "title": "360173 - Fruit pies",
+      "conceptLink": "/ec2/concept/5954316"
+    }
+  },
+  {
+    "uri": "en/30/443148",
+    "id": "443148",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit sauces",
+    "harm": {
+      "id": "0030118",
+      "title": "443148 - Fruit sauces",
+      "conceptLink": "/ec2/concept/5979033"
+    }
+  },
+  {
+    "uri": "en/30/783111",
+    "id": "783111",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit sugar",
+    "harm": {
+      "id": "0013918",
+      "title": "783111 - Fruit sugar",
+      "conceptLink": "/ec2/concept/5964193"
+    }
+  },
+  {
+    "uri": "en/30/783125",
+    "id": "783125",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit tea [other than for medical purposes]",
+    "harm": {
+      "id": "0044495",
+      "title": "783125 - Fruit tea [other than for medical purposes]",
+      "conceptLink": "/ec2/concept/5992136"
+    }
+  },
+  {
+    "uri": "en/30/360220",
+    "id": "360220",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit teas",
+    "harm": {
+      "id": "0044495",
+      "title": "360220 - Fruit teas",
+      "conceptLink": "/ec2/concept/5992136"
+    }
+  },
+  {
+    "uri": "en/30/783141",
+    "id": "783141",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruit vinegar",
+    "harm": {
+      "id": "0001134",
+      "title": "783141 - Fruit vinegar",
+      "conceptLink": "/ec2/concept/5952508"
+    }
+  },
+  {
+    "uri": "en/30/783157",
+    "id": "783157",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruited malt loaf",
+    "harm": {
+      "id": "0030022",
+      "title": "783157 - Fruited malt loaf",
+      "conceptLink": "/ec2/concept/5978943"
+    }
+  },
+  {
+    "uri": "en/30/783169",
+    "id": "783169",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fruited scones",
+    "harm": {
+      "id": "0035841",
+      "title": "783169 - Fruited scones",
+      "conceptLink": "/ec2/concept/5984243"
+    }
+  },
+  {
+    "uri": "en/30/783181",
+    "id": "783181",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fudge",
+    "harm": {
+      "id": "0046494",
+      "title": "783181 - Fudge",
+      "conceptLink": "/ec2/concept/5993935"
+    }
+  },
+  {
+    "uri": "en/30/494986",
+    "id": "494986",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Garden herbs, preserved [seasonings]",
+    "harm": {
+      "id": "0013239",
+      "title": "494986 - Garden herbs, preserved [seasonings]",
+      "conceptLink": "/ec2/concept/5963574"
+    }
+  },
+  {
+    "uri": "en/30/783210",
+    "id": "783210",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Garlic bread",
+    "harm": {
+      "id": "0035842",
+      "title": "783210 - Garlic bread",
+      "conceptLink": "/ec2/concept/5984244"
+    }
+  },
+  {
+    "uri": "en/30/68188622",
+    "id": "68188622",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Garlic powder",
+    "harm": {
+      "id": "0021108",
+      "title": "68188622 - Garlic powder",
+      "conceptLink": "/ec2/concept/5970778"
+    }
+  },
+  {
+    "uri": "en/30/783225",
+    "id": "783225",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Garlic puree",
+    "harm": {
+      "id": "0012727",
+      "title": "783225 - Garlic puree",
+      "conceptLink": "/ec2/concept/5963107"
+    }
+  },
+  {
+    "uri": "en/30/293636",
+    "id": "293636",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gateaux",
+    "harm": {
+      "id": "0059484",
+      "title": "293636 - Gateaux",
+      "conceptLink": "/ec2/concept/6000960"
+    }
+  },
+  {
+    "uri": "en/30/132819186",
+    "id": "132819186",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gâteaux",
+    "harm": {
+      "id": "0059484",
+      "title": "132819186 - Gâteaux",
+      "conceptLink": "/ec2/concept/6000960"
+    }
+  },
+  {
+    "uri": "en/30/232622959",
+    "id": "232622959",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gelatin-based chewy candies",
+    "harm": {
+      "id": "0072030",
+      "title": "232622959 - Gelatin-based chewy candies",
+      "conceptLink": "/ec2/concept/6008214"
+    }
+  },
+  {
+    "uri": "en/30/233110697",
+    "id": "233110697",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "German ravioli [Maultaschen]",
+    "harm": {
+      "id": "0072638",
+      "title": "233110697 - German ravioli [Maultaschen]",
+      "conceptLink": "/ec2/concept/6008815"
+    }
+  },
+  {
+    "uri": "en/30/137911800",
+    "id": "137911800",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gimbap [Korean dish consisting of cooked rice wrapped in dried seaweed]",
+    "harm": {
+      "id": "0010192",
+      "title": "137911800 - Gimbap [Korean dish consisting of cooked rice wrapped in dried seaweed]",
+      "conceptLink": "/ec2/concept/5960781"
+    }
+  },
+  {
+    "uri": "en/30/137728970",
+    "id": "137728970",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gimbap [Korean rice dish]",
+    "harm": {
+      "id": "0010192",
+      "title": "137728970 - Gimbap [Korean rice dish]",
+      "conceptLink": "/ec2/concept/5960781"
+    }
+  },
+  {
+    "uri": "en/30/294850",
+    "id": "294850",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginger bread",
+    "harm": {
+      "id": "0012268",
+      "title": "294850 - Ginger bread",
+      "conceptLink": "/ec2/concept/5962689"
+    }
+  },
+  {
+    "uri": "en/30/441380",
+    "id": "441380",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginger [powdered spice]",
+    "harm": {
+      "id": "0014470",
+      "title": "441380 - Ginger [powdered spice]",
+      "conceptLink": "/ec2/concept/5964708"
+    }
+  },
+  {
+    "uri": "en/30/783239",
+    "id": "783239",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginger puree",
+    "harm": {
+      "id": "0030023",
+      "title": "783239 - Ginger puree",
+      "conceptLink": "/ec2/concept/5978944"
+    }
+  },
+  {
+    "uri": "en/30/295779",
+    "id": "295779",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginger [spice]",
+    "harm": {
+      "id": "0014470",
+      "title": "295779 - Ginger [spice]",
+      "conceptLink": "/ec2/concept/5964708"
+    }
+  },
+  {
+    "uri": "en/30/56250060",
+    "id": "56250060",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginger tea",
+    "harm": {
+      "id": "0056481",
+      "title": "56250060 - Ginger tea",
+      "conceptLink": "/ec2/concept/5997791"
+    }
+  },
+  {
+    "uri": "en/30/294848",
+    "id": "294848",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gingerbread",
+    "harm": {
+      "id": "0012268",
+      "title": "294848 - Gingerbread",
+      "conceptLink": "/ec2/concept/5962689"
+    }
+  },
+  {
+    "uri": "en/30/783252",
+    "id": "783252",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gingerbread nuts",
+    "harm": {
+      "id": "0030024",
+      "title": "783252 - Gingerbread nuts",
+      "conceptLink": "/ec2/concept/5978945"
+    }
+  },
+  {
+    "uri": "en/30/137875509",
+    "id": "137875509",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Gingersnaps",
+    "harm": {
+      "id": "0030024",
+      "title": "137875509 - Gingersnaps",
+      "conceptLink": "/ec2/concept/5978945"
+    }
+  },
+  {
+    "uri": "en/30/138394309",
+    "id": "138394309",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginseng confectionery",
+    "harm": {
+      "id": "0070295",
+      "title": "138394309 - Ginseng confectionery",
+      "conceptLink": "/ec2/concept/6006488"
+    }
+  },
+  {
+    "uri": "en/30/499323",
+    "id": "499323",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginseng tea",
+    "harm": {
+      "id": "0001447",
+      "title": "499323 - Ginseng tea",
+      "conceptLink": "/ec2/concept/5952791"
+    }
+  },
+  {
+    "uri": "en/30/908280",
+    "id": "908280",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ginseng tea [insamcha]",
+    "harm": {
+      "id": "0021933",
+      "title": "908280 - Ginseng tea [insamcha]",
+      "conceptLink": "/ec2/concept/5971530"
+    }
+  },
+  {
+    "uri": "en/30/441395",
+    "id": "441395",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glazed popcorn",
+    "harm": {
+      "id": "0044851",
+      "title": "441395 - Glazed popcorn",
+      "conceptLink": "/ec2/concept/5992461"
+    }
+  },
+  {
+    "uri": "en/30/295930",
+    "id": "295930",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glucose for culinary purposes",
+    "harm": {
+      "id": "0035467",
+      "title": "295930 - Glucose for culinary purposes",
+      "conceptLink": "/ec2/concept/5983901"
+    }
+  },
+  {
+    "uri": "en/30/3149102",
+    "id": "3149102",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glucose for food",
+    "harm": {
+      "id": "0018514",
+      "title": "3149102 - Glucose for food",
+      "conceptLink": "/ec2/concept/5968408"
+    }
+  },
+  {
+    "uri": "en/30/783265",
+    "id": "783265",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glucose powder for food",
+    "harm": {
+      "id": "0018513",
+      "title": "783265 - Glucose powder for food",
+      "conceptLink": "/ec2/concept/5968407"
+    }
+  },
+  {
+    "uri": "en/30/783277",
+    "id": "783277",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glucose preparations for food",
+    "harm": {
+      "id": "0018514",
+      "title": "783277 - Glucose preparations for food",
+      "conceptLink": "/ec2/concept/5968408"
+    }
+  },
+  {
+    "uri": "en/30/783319",
+    "id": "783319",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Glucose syrup for use as a preservative for food",
+    "harm": {
+      "id": "0006892",
+      "title": "783319 - Glucose syrup for use as a preservative for food",
+      "conceptLink": "/ec2/concept/5957762"
+    }
+  }
+]

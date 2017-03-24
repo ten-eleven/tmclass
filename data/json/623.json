@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/480493",
+    "id": "480493",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collateral agency services",
+    "harm": {
+      "id": "0004651",
+      "title": "480493 - Collateral agency services",
+      "conceptLink": "/ec2/concept/5955712"
+    }
+  },
+  {
+    "uri": "en/36/119549865",
+    "id": "119549865",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection agencies",
+    "harm": {
+      "id": "0059365",
+      "title": "119549865 - Collection agencies",
+      "conceptLink": "/ec2/concept/6000847"
+    }
+  },
+  {
+    "uri": "en/36/801848",
+    "id": "801848",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of community charge monies",
+    "harm": {
+      "id": "0005579",
+      "title": "801848 - Collection of community charge monies",
+      "conceptLink": "/ec2/concept/5956571"
+    }
+  },
+  {
+    "uri": "en/36/801860",
+    "id": "801860",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of credit sales",
+    "harm": {
+      "id": "0011309",
+      "title": "801860 - Collection of credit sales",
+      "conceptLink": "/ec2/concept/5961807"
+    }
+  },
+  {
+    "uri": "en/36/801871",
+    "id": "801871",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of debt on real estate rental",
+    "harm": {
+      "id": "0022972",
+      "title": "801871 - Collection of debt on real estate rental",
+      "conceptLink": "/ec2/concept/5972476"
+    }
+  },
+  {
+    "uri": "en/36/366593",
+    "id": "366593",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of debts",
+    "harm": {
+      "id": "0059366",
+      "title": "366593 - Collection of debts",
+      "conceptLink": "/ec2/concept/6000848"
+    }
+  },
+  {
+    "uri": "en/36/35306",
+    "id": "35306",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of financial information",
+    "harm": {
+      "id": "0022973",
+      "title": "35306 - Collection of financial information",
+      "conceptLink": "/ec2/concept/5972477"
+    }
+  },
+  {
+    "uri": "en/36/801887",
+    "id": "801887",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of non-domestic rates",
+    "harm": {
+      "id": "0017107",
+      "title": "801887 - Collection of non-domestic rates",
+      "conceptLink": "/ec2/concept/5967120"
+    }
+  },
+  {
+    "uri": "en/36/801903",
+    "id": "801903",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of payments",
+    "harm": {
+      "id": "0046381",
+      "title": "801903 - Collection of payments",
+      "conceptLink": "/ec2/concept/5993835"
+    }
+  },
+  {
+    "uri": "en/36/120883859",
+    "id": "120883859",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of payments for goods and services",
+    "harm": {
+      "id": "0068017",
+      "title": "120883859 - Collection of payments for goods and services",
+      "conceptLink": "/ec2/concept/6004220"
+    }
+  },
+  {
+    "uri": "en/36/35585",
+    "id": "35585",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of rent",
+    "harm": {
+      "id": "0035330",
+      "title": "35585 - Collection of rent",
+      "conceptLink": "/ec2/concept/5983776"
+    }
+  },
+  {
+    "uri": "en/36/35586",
+    "id": "35586",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection of rents",
+    "harm": {
+      "id": "0035330",
+      "title": "35586 - Collection of rents",
+      "conceptLink": "/ec2/concept/5983776"
+    }
+  },
+  {
+    "uri": "en/36/35587",
+    "id": "35587",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collection (Rent -)",
+    "harm": {
+      "id": "0035330",
+      "title": "35587 - Collection (Rent -)",
+      "conceptLink": "/ec2/concept/5983776"
+    }
+  },
+  {
+    "uri": "en/36/125195790",
+    "id": "125195790",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collections (Charitable -)",
+    "harm": {
+      "id": "0023749",
+      "title": "125195790 - Collections (Charitable -)",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/125195893",
+    "id": "125195893",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collections (Organisation of -)",
+    "harm": {
+      "id": "0059267",
+      "title": "125195893 - Collections (Organisation of -)",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/125195894",
+    "id": "125195894",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collections (Organising financial -)",
+    "harm": {
+      "id": "0059267",
+      "title": "125195894 - Collections (Organising financial -)",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/33128",
+    "id": "33128",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Collections (Organization of -)",
+    "harm": {
+      "id": "0059267",
+      "title": "33128 - Collections (Organization of -)",
+      "conceptLink": "/ec2/concept/6000751"
+    }
+  },
+  {
+    "uri": "en/36/447515",
+    "id": "447515",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commercial lending",
+    "harm": {
+      "id": "0035021",
+      "title": "447515 - Commercial lending",
+      "conceptLink": "/ec2/concept/5983495"
+    }
+  },
+  {
+    "uri": "en/36/447513",
+    "id": "447513",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commercial lending services",
+    "harm": {
+      "id": "0035021",
+      "title": "447513 - Commercial lending services",
+      "conceptLink": "/ec2/concept/5983495"
+    }
+  },
+  {
+    "uri": "en/36/801963",
+    "id": "801963",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commercial mortgage brokerage",
+    "harm": {
+      "id": "0011310",
+      "title": "801963 - Commercial mortgage brokerage",
+      "conceptLink": "/ec2/concept/5961808"
+    }
+  },
+  {
+    "uri": "en/36/801975",
+    "id": "801975",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commercial property investment services",
+    "harm": {
+      "id": "0040179",
+      "title": "801975 - Commercial property investment services",
+      "conceptLink": "/ec2/concept/5988196"
+    }
+  },
+  {
+    "uri": "en/36/31151",
+    "id": "31151",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commercial real estate agency services",
+    "harm": {
+      "id": "0047391",
+      "title": "31151 - Commercial real estate agency services",
+      "conceptLink": "/ec2/concept/5994721"
+    }
+  },
+  {
+    "uri": "en/36/447563",
+    "id": "447563",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodities brokerage",
+    "harm": {
+      "id": "0024967",
+      "title": "447563 - Commodities brokerage",
+      "conceptLink": "/ec2/concept/5974319"
+    }
+  },
+  {
+    "uri": "en/36/447547",
+    "id": "447547",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodities exchange services",
+    "harm": {
+      "id": "0020302",
+      "title": "447547 - Commodities exchange services",
+      "conceptLink": "/ec2/concept/5970034"
+    }
+  },
+  {
+    "uri": "en/36/801990",
+    "id": "801990",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodities financing",
+    "harm": {
+      "id": "0030693",
+      "title": "801990 - Commodities financing",
+      "conceptLink": "/ec2/concept/5979568"
+    }
+  },
+  {
+    "uri": "en/36/802005",
+    "id": "802005",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodities insurance",
+    "harm": {
+      "id": "0019202",
+      "title": "802005 - Commodities insurance",
+      "conceptLink": "/ec2/concept/5969043"
+    }
+  },
+  {
+    "uri": "en/36/447562",
+    "id": "447562",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodity brokerage",
+    "harm": {
+      "id": "0024967",
+      "title": "447562 - Commodity brokerage",
+      "conceptLink": "/ec2/concept/5974319"
+    }
+  },
+  {
+    "uri": "en/36/447581",
+    "id": "447581",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodity exchange",
+    "harm": {
+      "id": "0020302",
+      "title": "447581 - Commodity exchange",
+      "conceptLink": "/ec2/concept/5970034"
+    }
+  },
+  {
+    "uri": "en/36/447607",
+    "id": "447607",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodity quotations",
+    "harm": {
+      "id": "0041950",
+      "title": "447607 - Commodity quotations",
+      "conceptLink": "/ec2/concept/5989811"
+    }
+  },
+  {
+    "uri": "en/36/802035",
+    "id": "802035",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodity trading [financial services]",
+    "harm": {
+      "id": "0036490",
+      "title": "802035 - Commodity trading [financial services]",
+      "conceptLink": "/ec2/concept/5984827"
+    }
+  },
+  {
+    "uri": "en/36/447621",
+    "id": "447621",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Commodity trading for others",
+    "harm": {
+      "id": "0013056",
+      "title": "447621 - Commodity trading for others",
+      "conceptLink": "/ec2/concept/5963405"
+    }
+  },
+  {
+    "uri": "en/36/802064",
+    "id": "802064",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Comparison of performance of securities",
+    "harm": {
+      "id": "0013375",
+      "title": "802064 - Comparison of performance of securities",
+      "conceptLink": "/ec2/concept/5963699"
+    }
+  },
+  {
+    "uri": "en/36/802051",
+    "id": "802051",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Comparison of performance of portfolios of securities",
+    "harm": {
+      "id": "0019203",
+      "title": "802051 - Comparison of performance of portfolios of securities",
+      "conceptLink": "/ec2/concept/5969044"
+    }
+  },
+  {
+    "uri": "en/36/901982",
+    "id": "901982",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computer analyses of stock exchange information",
+    "harm": {
+      "id": "0006778",
+      "title": "901982 - Computer analyses of stock exchange information",
+      "conceptLink": "/ec2/concept/5957658"
+    }
+  },
+  {
+    "uri": "en/36/802075",
+    "id": "802075",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computer information services relating to financial management",
+    "harm": {
+      "id": "0007543",
+      "title": "802075 - Computer information services relating to financial management",
+      "conceptLink": "/ec2/concept/5958361"
+    }
+  },
+  {
+    "uri": "en/36/447638",
+    "id": "447638",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised banking services",
+    "harm": {
+      "id": "0024631",
+      "title": "447638 - Computerised banking services",
+      "conceptLink": "/ec2/concept/5974008"
+    }
+  },
+  {
+    "uri": "en/36/447658",
+    "id": "447658",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial advisory services",
+    "harm": {
+      "id": "0041951",
+      "title": "447658 - Computerised financial advisory services",
+      "conceptLink": "/ec2/concept/5989812"
+    }
+  },
+  {
+    "uri": "en/36/802090",
+    "id": "802090",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial analysis",
+    "harm": {
+      "id": "0013376",
+      "title": "802090 - Computerised financial analysis",
+      "conceptLink": "/ec2/concept/5963700"
+    }
+  },
+  {
+    "uri": "en/36/802103",
+    "id": "802103",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial data services",
+    "harm": {
+      "id": "0013377",
+      "title": "802103 - Computerised financial data services",
+      "conceptLink": "/ec2/concept/5963701"
+    }
+  },
+  {
+    "uri": "en/36/447679",
+    "id": "447679",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial information services",
+    "harm": {
+      "id": "0030399",
+      "title": "447679 - Computerised financial information services",
+      "conceptLink": "/ec2/concept/5979293"
+    }
+  },
+  {
+    "uri": "en/36/802132",
+    "id": "802132",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial services relating to foreign currency dealings",
+    "harm": {
+      "id": "0024968",
+      "title": "802132 - Computerised financial services relating to foreign currency dealings",
+      "conceptLink": "/ec2/concept/5974320"
+    }
+  },
+  {
+    "uri": "en/36/802117",
+    "id": "802117",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial services for retail businesses",
+    "harm": {
+      "id": "0001800",
+      "title": "802117 - Computerised financial services for retail businesses",
+      "conceptLink": "/ec2/concept/5953105"
+    }
+  },
+  {
+    "uri": "en/36/481316",
+    "id": "481316",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised financial services",
+    "harm": {
+      "id": "0038963",
+      "title": "481316 - Computerised financial services",
+      "conceptLink": "/ec2/concept/5987078"
+    }
+  },
+  {
+    "uri": "en/36/802162",
+    "id": "802162",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to banking matters",
+    "harm": {
+      "id": "0009106",
+      "title": "802162 - Computerised information services relating to banking matters",
+      "conceptLink": "/ec2/concept/5959792"
+    }
+  },
+  {
+    "uri": "en/36/802202",
+    "id": "802202",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to investments",
+    "harm": {
+      "id": "0020802",
+      "title": "802202 - Computerised information services relating to investments",
+      "conceptLink": "/ec2/concept/5970499"
+    }
+  },
+  {
+    "uri": "en/36/802215",
+    "id": "802215",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to real estate",
+    "harm": {
+      "id": "0014950",
+      "title": "802215 - Computerised information services relating to real estate",
+      "conceptLink": "/ec2/concept/5965143"
+    }
+  },
+  {
+    "uri": "en/36/802187",
+    "id": "802187",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to insurance",
+    "harm": {
+      "id": "0026461",
+      "title": "802187 - Computerised information services relating to insurance",
+      "conceptLink": "/ec2/concept/5975682"
+    }
+  },
+  {
+    "uri": "en/36/802173",
+    "id": "802173",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to financial business",
+    "harm": {
+      "id": "0038045",
+      "title": "802173 - Computerised information services relating to financial business",
+      "conceptLink": "/ec2/concept/5986239"
+    }
+  },
+  {
+    "uri": "en/36/802146",
+    "id": "802146",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services for stocks",
+    "harm": {
+      "id": "0013378",
+      "title": "802146 - Computerised information services for stocks",
+      "conceptLink": "/ec2/concept/5963702"
+    }
+  },
+  {
+    "uri": "en/36/802231",
+    "id": "802231",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised information services relating to shares",
+    "harm": {
+      "id": "0013378",
+      "title": "802231 - Computerised information services relating to shares",
+      "conceptLink": "/ec2/concept/5963702"
+    }
+  },
+  {
+    "uri": "en/36/802244",
+    "id": "802244",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised legal debt collection services",
+    "harm": {
+      "id": "0038046",
+      "title": "802244 - Computerised legal debt collection services",
+      "conceptLink": "/ec2/concept/5986240"
+    }
+  },
+  {
+    "uri": "en/36/802258",
+    "id": "802258",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised processing of insurance claims",
+    "harm": {
+      "id": "0014951",
+      "title": "802258 - Computerised processing of insurance claims",
+      "conceptLink": "/ec2/concept/5965144"
+    }
+  },
+  {
+    "uri": "en/36/802273",
+    "id": "802273",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised securities brokerage services",
+    "harm": {
+      "id": "0026463",
+      "title": "802273 - Computerised securities brokerage services",
+      "conceptLink": "/ec2/concept/5975683"
+    }
+  },
+  {
+    "uri": "en/36/802288",
+    "id": "802288",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Computerised transfer of funds",
+    "harm": {
+      "id": "0023220",
+      "title": "802288 - Computerised transfer of funds",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/22851634",
+    "id": "22851634",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting cashless payment transactions",
+    "harm": {
+      "id": "0067819",
+      "title": "22851634 - Conducting cashless payment transactions",
+      "conceptLink": "/ec2/concept/6004022"
+    }
+  },
+  {
+    "uri": "en/36/902208",
+    "id": "902208",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting financial feasibility studies",
+    "harm": {
+      "id": "0031005",
+      "title": "902208 - Conducting financial feasibility studies",
+      "conceptLink": "/ec2/concept/5979850"
+    }
+  },
+  {
+    "uri": "en/36/120880578",
+    "id": "120880578",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting foreign exchange transactions for others",
+    "harm": {
+      "id": "0067930",
+      "title": "120880578 - Conducting foreign exchange transactions for others",
+      "conceptLink": "/ec2/concept/6004133"
+    }
+  },
+  {
+    "uri": "en/36/120883592",
+    "id": "120883592",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting of capital market transactions",
+    "harm": {
+      "id": "0067987",
+      "title": "120883592 - Conducting of capital market transactions",
+      "conceptLink": "/ec2/concept/6004190"
+    }
+  },
+  {
+    "uri": "en/36/120880967",
+    "id": "120880967",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting of financial affairs on-line",
+    "harm": {
+      "id": "0067899",
+      "title": "120880967 - Conducting of financial affairs on-line",
+      "conceptLink": "/ec2/concept/6004102"
+    }
+  },
+  {
+    "uri": "en/36/120880883",
+    "id": "120880883",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting of financial transactions on-line",
+    "harm": {
+      "id": "0067916",
+      "title": "120880883 - Conducting of financial transactions on-line",
+      "conceptLink": "/ec2/concept/6004119"
+    }
+  },
+  {
+    "uri": "en/36/31761",
+    "id": "31761",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Conducting of financial transactions",
+    "harm": {
+      "id": "0009027",
+      "title": "31761 - Conducting of financial transactions",
+      "conceptLink": "/ec2/concept/5959718"
+    }
+  },
+  {
+    "uri": "en/36/125027111",
+    "id": "125027111",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consolidation of monies (Services for the -)",
+    "harm": {
+      "id": "0009107",
+      "title": "125027111 - Consolidation of monies (Services for the -)",
+      "conceptLink": "/ec2/concept/5959793"
+    }
+  },
+  {
+    "uri": "en/36/120883856",
+    "id": "120883856",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to travel insurance",
+    "harm": {
+      "id": "0068018",
+      "title": "120883856 - Consultancy and brokerage services relating to travel insurance",
+      "conceptLink": "/ec2/concept/6004221"
+    }
+  },
+  {
+    "uri": "en/36/120883862",
+    "id": "120883862",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to home insurance",
+    "harm": {
+      "id": "0068020",
+      "title": "120883862 - Consultancy and brokerage services relating to home insurance",
+      "conceptLink": "/ec2/concept/6004223"
+    }
+  },
+  {
+    "uri": "en/36/120883866",
+    "id": "120883866",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to health insurance",
+    "harm": {
+      "id": "0068019",
+      "title": "120883866 - Consultancy and brokerage services relating to health insurance",
+      "conceptLink": "/ec2/concept/6004222"
+    }
+  },
+  {
+    "uri": "en/36/120883842",
+    "id": "120883842",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to life insurance",
+    "harm": {
+      "id": "0068022",
+      "title": "120883842 - Consultancy and brokerage services relating to life insurance",
+      "conceptLink": "/ec2/concept/6004225"
+    }
+  },
+  {
+    "uri": "en/36/120883846",
+    "id": "120883846",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to accident insurance",
+    "harm": {
+      "id": "0068021",
+      "title": "120883846 - Consultancy and brokerage services relating to accident insurance",
+      "conceptLink": "/ec2/concept/6004224"
+    }
+  },
+  {
+    "uri": "en/36/120883852",
+    "id": "120883852",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy and brokerage services relating to vehicle insurance",
+    "harm": {
+      "id": "0068023",
+      "title": "120883852 - Consultancy and brokerage services relating to vehicle insurance",
+      "conceptLink": "/ec2/concept/6004226"
+    }
+  },
+  {
+    "uri": "en/36/366608",
+    "id": "366608",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy concerning financing of energy projects",
+    "harm": {
+      "id": "0016204",
+      "title": "366608 - Consultancy concerning financing of energy projects",
+      "conceptLink": "/ec2/concept/5966304"
+    }
+  },
+  {
+    "uri": "en/36/34866",
+    "id": "34866",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy (Financial -)",
+    "harm": {
+      "id": "0057317",
+      "title": "34866 - Consultancy (Financial -)",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/448012",
+    "id": "448012",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy for clients with regard to the organisation of debt recovery",
+    "harm": {
+      "id": "0037353",
+      "title": "448012 - Consultancy for clients with regard to the organisation of debt recovery",
+      "conceptLink": "/ec2/concept/5985612"
+    }
+  },
+  {
+    "uri": "en/36/447713",
+    "id": "447713",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy in relation to the granting of loans",
+    "harm": {
+      "id": "0041953",
+      "title": "447713 - Consultancy in relation to the granting of loans",
+      "conceptLink": "/ec2/concept/5989813"
+    }
+  },
+  {
+    "uri": "en/36/447733",
+    "id": "447733",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy in the purchasing of real estate",
+    "harm": {
+      "id": "0041954",
+      "title": "447733 - Consultancy in the purchasing of real estate",
+      "conceptLink": "/ec2/concept/5989814"
+    }
+  },
+  {
+    "uri": "en/36/902279",
+    "id": "902279",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy of capital investment",
+    "harm": {
+      "id": "0012389",
+      "title": "902279 - Consultancy of capital investment",
+      "conceptLink": "/ec2/concept/5962804"
+    }
+  },
+  {
+    "uri": "en/36/120880596",
+    "id": "120880596",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy relating to educational financial assistance",
+    "harm": {
+      "id": "0067934",
+      "title": "120880596 - Consultancy relating to educational financial assistance",
+      "conceptLink": "/ec2/concept/6004137"
+    }
+  },
+  {
+    "uri": "en/36/802342",
+    "id": "802342",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to personal finance",
+    "harm": {
+      "id": "0029534",
+      "title": "802342 - Consultancy services relating to personal finance",
+      "conceptLink": "/ec2/concept/5978496"
+    }
+  },
+  {
+    "uri": "en/36/799908",
+    "id": "799908",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to insurance",
+    "harm": {
+      "id": "0058671",
+      "title": "799908 - Consultancy services relating to insurance",
+      "conceptLink": "/ec2/concept/6000164"
+    }
+  },
+  {
+    "uri": "en/36/446698",
+    "id": "446698",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to corporate finance",
+    "harm": {
+      "id": "0000617",
+      "title": "446698 - Consultancy services relating to corporate finance",
+      "conceptLink": "/ec2/concept/5952043"
+    }
+  },
+  {
+    "uri": "en/36/366339",
+    "id": "366339",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to investment",
+    "harm": {
+      "id": "0057361",
+      "title": "366339 - Consultancy services relating to investment",
+      "conceptLink": "/ec2/concept/5998868"
+    }
+  },
+  {
+    "uri": "en/36/34878",
+    "id": "34878",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to finance",
+    "harm": {
+      "id": "0057317",
+      "title": "34878 - Consultancy services relating to finance",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/799846",
+    "id": "799846",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to financial investment",
+    "harm": {
+      "id": "0057361",
+      "title": "799846 - Consultancy services relating to financial investment",
+      "conceptLink": "/ec2/concept/5998868"
+    }
+  },
+  {
+    "uri": "en/36/120883714",
+    "id": "120883714",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to the financing of civil works and infrastructure projects",
+    "harm": {
+      "id": "0067985",
+      "title": "120883714 - Consultancy services relating to the financing of civil works and infrastructure projects",
+      "conceptLink": "/ec2/concept/6004188"
+    }
+  },
+  {
+    "uri": "en/36/447881",
+    "id": "447881",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to credit",
+    "harm": {
+      "id": "0029533",
+      "title": "447881 - Consultancy services relating to credit",
+      "conceptLink": "/ec2/concept/5978495"
+    }
+  },
+  {
+    "uri": "en/36/7477130",
+    "id": "7477130",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultancy services relating to real estate",
+    "harm": {
+      "id": "0057121",
+      "title": "7477130 - Consultancy services relating to real estate",
+      "conceptLink": "/ec2/concept/5998755"
+    }
+  },
+  {
+    "uri": "en/36/125027151",
+    "id": "125027151",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultation on the provision of shipping finance (Services for the -)",
+    "harm": {
+      "id": "0035315",
+      "title": "125027151 - Consultation on the provision of shipping finance (Services for the -)",
+      "conceptLink": "/ec2/concept/5983763"
+    }
+  },
+  {
+    "uri": "en/36/799791",
+    "id": "799791",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultation services relating to financial matters",
+    "harm": {
+      "id": "0057317",
+      "title": "799791 - Consultation services relating to financial matters",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/802378",
+    "id": "802378",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultation services relating to real estate",
+    "harm": {
+      "id": "0057121",
+      "title": "802378 - Consultation services relating to real estate",
+      "conceptLink": "/ec2/concept/5998755"
+    }
+  },
+  {
+    "uri": "en/36/34865",
+    "id": "34865",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations [financial]",
+    "harm": {
+      "id": "0057317",
+      "title": "34865 - Consultations [financial]",
+      "conceptLink": "/ec2/concept/5998826"
+    }
+  },
+  {
+    "uri": "en/36/35001",
+    "id": "35001",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations [insurance]",
+    "harm": {
+      "id": "0058670",
+      "title": "35001 - Consultations [insurance]",
+      "conceptLink": "/ec2/concept/6000163"
+    }
+  },
+  {
+    "uri": "en/36/799792",
+    "id": "799792",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations relating to banking",
+    "harm": {
+      "id": "0034488",
+      "title": "799792 - Consultations relating to banking",
+      "conceptLink": "/ec2/concept/5983016"
+    }
+  },
+  {
+    "uri": "en/36/446699",
+    "id": "446699",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations relating to corporate finance",
+    "harm": {
+      "id": "0000617",
+      "title": "446699 - Consultations relating to corporate finance",
+      "conceptLink": "/ec2/concept/5952043"
+    }
+  },
+  {
+    "uri": "en/36/366340",
+    "id": "366340",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations relating to investment",
+    "harm": {
+      "id": "0057361",
+      "title": "366340 - Consultations relating to investment",
+      "conceptLink": "/ec2/concept/5998868"
+    }
+  },
+  {
+    "uri": "en/36/447882",
+    "id": "447882",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consultations relating to credit",
+    "harm": {
+      "id": "0029533",
+      "title": "447882 - Consultations relating to credit",
+      "conceptLink": "/ec2/concept/5978495"
+    }
+  },
+  {
+    "uri": "en/36/886638",
+    "id": "886638",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consulting and information concerning insurance",
+    "harm": {
+      "id": "0018018",
+      "title": "886638 - Consulting and information concerning insurance",
+      "conceptLink": "/ec2/concept/5967947"
+    }
+  },
+  {
+    "uri": "en/36/446697",
+    "id": "446697",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consulting services relating to corporate finance",
+    "harm": {
+      "id": "0000617",
+      "title": "446697 - Consulting services relating to corporate finance",
+      "conceptLink": "/ec2/concept/5952043"
+    }
+  },
+  {
+    "uri": "en/36/802405",
+    "id": "802405",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consumer credit services",
+    "harm": {
+      "id": "0017675",
+      "title": "802405 - Consumer credit services",
+      "conceptLink": "/ec2/concept/5967633"
+    }
+  },
+  {
+    "uri": "en/36/447747",
+    "id": "447747",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Consumer lending services",
+    "harm": {
+      "id": "0018898",
+      "title": "447747 - Consumer lending services",
+      "conceptLink": "/ec2/concept/5968767"
+    }
+  },
+  {
+    "uri": "en/36/802427",
+    "id": "802427",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Contract guarantee services",
+    "harm": {
+      "id": "0034489",
+      "title": "802427 - Contract guarantee services",
+      "conceptLink": "/ec2/concept/5983017"
+    }
+  },
+  {
+    "uri": "en/36/802443",
+    "id": "802443",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Contributory benefit scheme services",
+    "harm": {
+      "id": "0034490",
+      "title": "802443 - Contributory benefit scheme services",
+      "conceptLink": "/ec2/concept/5983018"
+    }
+  },
+  {
+    "uri": "en/36/447762",
+    "id": "447762",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cooperative credit organizations",
+    "harm": {
+      "id": "0024632",
+      "title": "447762 - Cooperative credit organizations",
+      "conceptLink": "/ec2/concept/5974009"
+    }
+  }
+]

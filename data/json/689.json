@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/120890462",
+    "id": "120890462",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing tourist travel information, via the Internet",
+    "harm": {
+      "id": "0068610",
+      "title": "120890462 - Providing tourist travel information, via the Internet",
+      "conceptLink": "/ec2/concept/6004813"
+    }
+  },
+  {
+    "uri": "en/39/120889416",
+    "id": "120889416",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing transport and travel information via mobile telecommunications apparatus and devices",
+    "harm": {
+      "id": "0068700",
+      "title": "120889416 - Providing transport and travel information via mobile telecommunications apparatus and devices",
+      "conceptLink": "/ec2/concept/6004903"
+    }
+  },
+  {
+    "uri": "en/39/120889422",
+    "id": "120889422",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing transport and travel information",
+    "harm": {
+      "id": "0068701",
+      "title": "120889422 - Providing transport and travel information",
+      "conceptLink": "/ec2/concept/6004904"
+    }
+  },
+  {
+    "uri": "en/39/120821242",
+    "id": "120821242",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing transportation to the elderly or handicapped persons [charitable services]",
+    "harm": {
+      "id": "0068790",
+      "title": "120821242 - Providing transportation to the elderly or handicapped persons [charitable services]",
+      "conceptLink": "/ec2/concept/6004993"
+    }
+  },
+  {
+    "uri": "en/39/120890355",
+    "id": "120890355",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing travel information via global computer networks",
+    "harm": {
+      "id": "0068600",
+      "title": "120890355 - Providing travel information via global computer networks",
+      "conceptLink": "/ec2/concept/6004803"
+    }
+  },
+  {
+    "uri": "en/39/120891036",
+    "id": "120891036",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing vehicles for tours and excursions",
+    "harm": {
+      "id": "0068656",
+      "title": "120891036 - Providing vehicles for tours and excursions",
+      "conceptLink": "/ec2/concept/6004859"
+    }
+  },
+  {
+    "uri": "en/39/371017",
+    "id": "371017",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing vessel mooring facilities",
+    "harm": {
+      "id": "0012005",
+      "title": "371017 - Providing vessel mooring facilities",
+      "conceptLink": "/ec2/concept/5962451"
+    }
+  },
+  {
+    "uri": "en/39/120890733",
+    "id": "120890733",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of airport facilities for aviation",
+    "harm": {
+      "id": "0068628",
+      "title": "120890733 - Provision of airport facilities for aviation",
+      "conceptLink": "/ec2/concept/6004831"
+    }
+  },
+  {
+    "uri": "en/39/835431",
+    "id": "835431",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of airport information services relating to aviation",
+    "harm": {
+      "id": "0011102",
+      "title": "835431 - Provision of airport information services relating to aviation",
+      "conceptLink": "/ec2/concept/5961619"
+    }
+  },
+  {
+    "uri": "en/39/906428",
+    "id": "906428",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of berthing facilities",
+    "harm": {
+      "id": "0012005",
+      "title": "906428 - Provision of berthing facilities",
+      "conceptLink": "/ec2/concept/5962451"
+    }
+  },
+  {
+    "uri": "en/39/831839",
+    "id": "831839",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of car parking facilities",
+    "harm": {
+      "id": "0058656",
+      "title": "831839 - Provision of car parking facilities",
+      "conceptLink": "/ec2/concept/6000149"
+    }
+  },
+  {
+    "uri": "en/39/459546",
+    "id": "459546",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of car parks and car parking services",
+    "harm": {
+      "id": "0010762",
+      "title": "459546 - Provision of car parks and car parking services",
+      "conceptLink": "/ec2/concept/5961309"
+    }
+  },
+  {
+    "uri": "en/39/835445",
+    "id": "835445",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of cold store facilities",
+    "harm": {
+      "id": "0045710",
+      "title": "835445 - Provision of cold store facilities",
+      "conceptLink": "/ec2/concept/5993248"
+    }
+  },
+  {
+    "uri": "en/39/835459",
+    "id": "835459",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of computerised travel information",
+    "harm": {
+      "id": "0025126",
+      "title": "835459 - Provision of computerised travel information",
+      "conceptLink": "/ec2/concept/5974465"
+    }
+  },
+  {
+    "uri": "en/39/835495",
+    "id": "835495",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of cruises in yachts",
+    "harm": {
+      "id": "0039953",
+      "title": "835495 - Provision of cruises in yachts",
+      "conceptLink": "/ec2/concept/5987990"
+    }
+  },
+  {
+    "uri": "en/39/835524",
+    "id": "835524",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of data relating to timetables",
+    "harm": {
+      "id": "0035199",
+      "title": "835524 - Provision of data relating to timetables",
+      "conceptLink": "/ec2/concept/5983655"
+    }
+  },
+  {
+    "uri": "en/39/835510",
+    "id": "835510",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of data relating to the transportation of passengers",
+    "harm": {
+      "id": "0017890",
+      "title": "835510 - Provision of data relating to the transportation of passengers",
+      "conceptLink": "/ec2/concept/5967832"
+    }
+  },
+  {
+    "uri": "en/39/49212",
+    "id": "49212",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of data relating to methods of transport",
+    "harm": {
+      "id": "0011104",
+      "title": "49212 - Provision of data relating to methods of transport",
+      "conceptLink": "/ec2/concept/5961620"
+    }
+  },
+  {
+    "uri": "en/39/835537",
+    "id": "835537",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of dry dock facilities",
+    "harm": {
+      "id": "0029417",
+      "title": "835537 - Provision of dry dock facilities",
+      "conceptLink": "/ec2/concept/5978385"
+    }
+  },
+  {
+    "uri": "en/39/835550",
+    "id": "835550",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of flight information",
+    "harm": {
+      "id": "0029418",
+      "title": "835550 - Provision of flight information",
+      "conceptLink": "/ec2/concept/5978386"
+    }
+  },
+  {
+    "uri": "en/39/835565",
+    "id": "835565",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of flight plans",
+    "harm": {
+      "id": "0035200",
+      "title": "835565 - Provision of flight plans",
+      "conceptLink": "/ec2/concept/5983656"
+    }
+  },
+  {
+    "uri": "en/39/833673",
+    "id": "833673",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of frozen storage facilities",
+    "harm": {
+      "id": "0029419",
+      "title": "833673 - Provision of frozen storage facilities",
+      "conceptLink": "/ec2/concept/5978387"
+    }
+  },
+  {
+    "uri": "en/39/44568",
+    "id": "44568",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of hired vehicles",
+    "harm": {
+      "id": "0012111",
+      "title": "44568 - Provision of hired vehicles",
+      "conceptLink": "/ec2/concept/5962549"
+    }
+  },
+  {
+    "uri": "en/39/835578",
+    "id": "835578",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of hired vehicles for the transport of passengers",
+    "harm": {
+      "id": "0035201",
+      "title": "835578 - Provision of hired vehicles for the transport of passengers",
+      "conceptLink": "/ec2/concept/5983657"
+    }
+  },
+  {
+    "uri": "en/39/835690",
+    "id": "835690",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to motoring routes",
+    "harm": {
+      "id": "0005761",
+      "title": "835690 - Provision of information relating to motoring routes",
+      "conceptLink": "/ec2/concept/5956732"
+    }
+  },
+  {
+    "uri": "en/39/835730",
+    "id": "835730",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to road transport",
+    "harm": {
+      "id": "0005762",
+      "title": "835730 - Provision of information relating to road transport",
+      "conceptLink": "/ec2/concept/5956733"
+    }
+  },
+  {
+    "uri": "en/39/835664",
+    "id": "835664",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to marinas",
+    "harm": {
+      "id": "0034597",
+      "title": "835664 - Provision of information relating to marinas",
+      "conceptLink": "/ec2/concept/5983115"
+    }
+  },
+  {
+    "uri": "en/39/835677",
+    "id": "835677",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to moorings",
+    "harm": {
+      "id": "0034598",
+      "title": "835677 - Provision of information relating to moorings",
+      "conceptLink": "/ec2/concept/5983116"
+    }
+  },
+  {
+    "uri": "en/39/835646",
+    "id": "835646",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to ports",
+    "harm": {
+      "id": "0034596",
+      "title": "835646 - Provision of information relating to ports",
+      "conceptLink": "/ec2/concept/5983114"
+    }
+  },
+  {
+    "uri": "en/39/835645",
+    "id": "835645",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to harbours",
+    "harm": {
+      "id": "0034596",
+      "title": "835645 - Provision of information relating to harbours",
+      "conceptLink": "/ec2/concept/5983114"
+    }
+  },
+  {
+    "uri": "en/39/835742",
+    "id": "835742",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to the transport of freight",
+    "harm": {
+      "id": "0034599",
+      "title": "835742 - Provision of information relating to the transport of freight",
+      "conceptLink": "/ec2/concept/5983117"
+    }
+  },
+  {
+    "uri": "en/39/835755",
+    "id": "835755",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to the transportation of passengers",
+    "harm": {
+      "id": "0017267",
+      "title": "835755 - Provision of information relating to the transportation of passengers",
+      "conceptLink": "/ec2/concept/5967267"
+    }
+  },
+  {
+    "uri": "en/39/835703",
+    "id": "835703",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to road conditions",
+    "harm": {
+      "id": "0023138",
+      "title": "835703 - Provision of information relating to road conditions",
+      "conceptLink": "/ec2/concept/5972627"
+    }
+  },
+  {
+    "uri": "en/39/835605",
+    "id": "835605",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to airline departures",
+    "harm": {
+      "id": "0029420",
+      "title": "835605 - Provision of information relating to airline departures",
+      "conceptLink": "/ec2/concept/5978388"
+    }
+  },
+  {
+    "uri": "en/39/835617",
+    "id": "835617",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to airline scheduling",
+    "harm": {
+      "id": "0029421",
+      "title": "835617 - Provision of information relating to airline scheduling",
+      "conceptLink": "/ec2/concept/5978389"
+    }
+  },
+  {
+    "uri": "en/39/835632",
+    "id": "835632",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to anchorages",
+    "harm": {
+      "id": "0029422",
+      "title": "835632 - Provision of information relating to anchorages",
+      "conceptLink": "/ec2/concept/5978390"
+    }
+  },
+  {
+    "uri": "en/39/835592",
+    "id": "835592",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to airline arrivals",
+    "harm": {
+      "id": "0006313",
+      "title": "835592 - Provision of information relating to airline arrivals",
+      "conceptLink": "/ec2/concept/5957239"
+    }
+  },
+  {
+    "uri": "en/39/835715",
+    "id": "835715",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to road traffic conditions",
+    "harm": {
+      "id": "0046108",
+      "title": "835715 - Provision of information relating to road traffic conditions",
+      "conceptLink": "/ec2/concept/5993619"
+    }
+  },
+  {
+    "uri": "en/39/135988719",
+    "id": "135988719",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to postal codes",
+    "harm": {
+      "id": "0050223",
+      "title": "135988719 - Provision of information relating to postal codes",
+      "conceptLink": "/ec2/concept/5995481"
+    }
+  },
+  {
+    "uri": "en/39/459572",
+    "id": "459572",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to travel",
+    "harm": {
+      "id": "0006214",
+      "title": "459572 - Provision of information relating to travel",
+      "conceptLink": "/ec2/concept/5957146"
+    }
+  },
+  {
+    "uri": "en/39/459573",
+    "id": "459573",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information on matters relating to travel",
+    "harm": {
+      "id": "0006214",
+      "title": "459573 - Provision of information on matters relating to travel",
+      "conceptLink": "/ec2/concept/5957146"
+    }
+  },
+  {
+    "uri": "en/39/835782",
+    "id": "835782",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to travel routes",
+    "harm": {
+      "id": "0019380",
+      "title": "835782 - Provision of information relating to travel routes",
+      "conceptLink": "/ec2/concept/5969200"
+    }
+  },
+  {
+    "uri": "en/39/49213",
+    "id": "49213",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of information relating to transport",
+    "harm": {
+      "id": "0047059",
+      "title": "49213 - Provision of information relating to transport",
+      "conceptLink": "/ec2/concept/5994436"
+    }
+  },
+  {
+    "uri": "en/39/835805",
+    "id": "835805",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of moorings",
+    "harm": {
+      "id": "0019381",
+      "title": "835805 - Provision of moorings",
+      "conceptLink": "/ec2/concept/5969201"
+    }
+  },
+  {
+    "uri": "en/39/835819",
+    "id": "835819",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of navigational information relating to the aviation",
+    "harm": {
+      "id": "0001957",
+      "title": "835819 - Provision of navigational information relating to the aviation",
+      "conceptLink": "/ec2/concept/5953248"
+    }
+  },
+  {
+    "uri": "en/39/831836",
+    "id": "831836",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of parking facilities",
+    "harm": {
+      "id": "0058656",
+      "title": "831836 - Provision of parking facilities",
+      "conceptLink": "/ec2/concept/6000149"
+    }
+  },
+  {
+    "uri": "en/39/835831",
+    "id": "835831",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of refrigerated storage facilities",
+    "harm": {
+      "id": "0042422",
+      "title": "835831 - Provision of refrigerated storage facilities",
+      "conceptLink": "/ec2/concept/5990246"
+    }
+  },
+  {
+    "uri": "en/39/47517",
+    "id": "47517",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of shipborne storage services",
+    "harm": {
+      "id": "0001958",
+      "title": "47517 - Provision of shipborne storage services",
+      "conceptLink": "/ec2/concept/5953249"
+    }
+  },
+  {
+    "uri": "en/39/835843",
+    "id": "835843",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of sightseeing tours [transport]",
+    "harm": {
+      "id": "0001959",
+      "title": "835843 - Provision of sightseeing tours [transport]",
+      "conceptLink": "/ec2/concept/5953250"
+    }
+  },
+  {
+    "uri": "en/39/835857",
+    "id": "835857",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of tourist travel information",
+    "harm": {
+      "id": "0013533",
+      "title": "835857 - Provision of tourist travel information",
+      "conceptLink": "/ec2/concept/5963839"
+    }
+  },
+  {
+    "uri": "en/39/835872",
+    "id": "835872",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of tours",
+    "harm": {
+      "id": "0019382",
+      "title": "835872 - Provision of tours",
+      "conceptLink": "/ec2/concept/5969202"
+    }
+  },
+  {
+    "uri": "en/39/835887",
+    "id": "835887",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of transport for passengers by air",
+    "harm": {
+      "id": "0001960",
+      "title": "835887 - Provision of transport for passengers by air",
+      "conceptLink": "/ec2/concept/5953251"
+    }
+  },
+  {
+    "uri": "en/39/835925",
+    "id": "835925",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of transport for the elderly by road",
+    "harm": {
+      "id": "0036681",
+      "title": "835925 - Provision of transport for the elderly by road",
+      "conceptLink": "/ec2/concept/5985006"
+    }
+  },
+  {
+    "uri": "en/39/835900",
+    "id": "835900",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of transport for passengers by land",
+    "harm": {
+      "id": "0019383",
+      "title": "835900 - Provision of transport for passengers by land",
+      "conceptLink": "/ec2/concept/5969203"
+    }
+  },
+  {
+    "uri": "en/39/835912",
+    "id": "835912",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of transport for passengers by water",
+    "harm": {
+      "id": "0030835",
+      "title": "835912 - Provision of transport for passengers by water",
+      "conceptLink": "/ec2/concept/5979701"
+    }
+  },
+  {
+    "uri": "en/39/835460",
+    "id": "835460",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of travel information by computer",
+    "harm": {
+      "id": "0025126",
+      "title": "835460 - Provision of travel information by computer",
+      "conceptLink": "/ec2/concept/5974465"
+    }
+  },
+  {
+    "uri": "en/39/459574",
+    "id": "459574",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of travel information",
+    "harm": {
+      "id": "0006214",
+      "title": "459574 - Provision of travel information",
+      "conceptLink": "/ec2/concept/5957146"
+    }
+  },
+  {
+    "uri": "en/39/831837",
+    "id": "831837",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of vehicle parking facilities",
+    "harm": {
+      "id": "0058657",
+      "title": "831837 - Provision of vehicle parking facilities",
+      "conceptLink": "/ec2/concept/6000150"
+    }
+  },
+  {
+    "uri": "en/39/120890781",
+    "id": "120890781",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Provision of warehousing services and facilities",
+    "harm": {
+      "id": "0068633",
+      "title": "120890781 - Provision of warehousing services and facilities",
+      "conceptLink": "/ec2/concept/6004836"
+    }
+  },
+  {
+    "uri": "en/39/459612",
+    "id": "459612",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Public utilities in the nature of supplying water",
+    "harm": {
+      "id": "0016556",
+      "title": "459612 - Public utilities in the nature of supplying water",
+      "conceptLink": "/ec2/concept/5966623"
+    }
+  },
+  {
+    "uri": "en/39/459638",
+    "id": "459638",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Public utility services in the nature of natural gas distribution",
+    "harm": {
+      "id": "0033846",
+      "title": "459638 - Public utility services in the nature of natural gas distribution",
+      "conceptLink": "/ec2/concept/5982432"
+    }
+  },
+  {
+    "uri": "en/39/120821750",
+    "id": "120821750",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Public utility services in the nature of supplying water",
+    "harm": {
+      "id": "0016556",
+      "title": "120821750 - Public utility services in the nature of supplying water",
+      "conceptLink": "/ec2/concept/5966623"
+    }
+  },
+  {
+    "uri": "en/39/459651",
+    "id": "459651",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Public utility services in the nature of water distribution",
+    "harm": {
+      "id": "0016556",
+      "title": "459651 - Public utility services in the nature of water distribution",
+      "conceptLink": "/ec2/concept/5966623"
+    }
+  },
+  {
+    "uri": "en/39/459625",
+    "id": "459625",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Public utility services in the nature of electricity distribution",
+    "harm": {
+      "id": "0045381",
+      "title": "459625 - Public utility services in the nature of electricity distribution",
+      "conceptLink": "/ec2/concept/5992950"
+    }
+  },
+  {
+    "uri": "en/39/371034",
+    "id": "371034",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Push-chair rental",
+    "harm": {
+      "id": "0000185",
+      "title": "371034 - Push-chair rental",
+      "conceptLink": "/ec2/concept/5951660"
+    }
+  },
+  {
+    "uri": "en/39/835937",
+    "id": "835937",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rail freight distribution services",
+    "harm": {
+      "id": "0034394",
+      "title": "835937 - Rail freight distribution services",
+      "conceptLink": "/ec2/concept/5982931"
+    }
+  },
+  {
+    "uri": "en/39/835952",
+    "id": "835952",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rail freight services",
+    "harm": {
+      "id": "0008045",
+      "title": "835952 - Rail freight services",
+      "conceptLink": "/ec2/concept/5958821"
+    }
+  },
+  {
+    "uri": "en/39/45451",
+    "id": "45451",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rail transport services",
+    "harm": {
+      "id": "0046495",
+      "title": "45451 - Rail transport services",
+      "conceptLink": "/ec2/concept/5993936"
+    }
+  },
+  {
+    "uri": "en/39/119552275",
+    "id": "119552275",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Railway coach rental",
+    "harm": {
+      "id": "0059152",
+      "title": "119552275 - Railway coach rental",
+      "conceptLink": "/ec2/concept/6000641"
+    }
+  },
+  {
+    "uri": "en/39/835966",
+    "id": "835966",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Railway passenger transport",
+    "harm": {
+      "id": "0057329",
+      "title": "835966 - Railway passenger transport",
+      "conceptLink": "/ec2/concept/5998838"
+    }
+  },
+  {
+    "uri": "en/39/45450",
+    "id": "45450",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Railway transport",
+    "harm": {
+      "id": "0046495",
+      "title": "45450 - Railway transport",
+      "conceptLink": "/ec2/concept/5993936"
+    }
+  },
+  {
+    "uri": "en/39/45452",
+    "id": "45452",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Railway transport services",
+    "harm": {
+      "id": "0046495",
+      "title": "45452 - Railway transport services",
+      "conceptLink": "/ec2/concept/5993936"
+    }
+  },
+  {
+    "uri": "en/39/120856909",
+    "id": "120856909",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Railway truck rental",
+    "harm": {
+      "id": "0032207",
+      "title": "120856909 - Railway truck rental",
+      "conceptLink": "/ec2/concept/5980931"
+    }
+  },
+  {
+    "uri": "en/39/897890",
+    "id": "897890",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Re-filling of containers",
+    "harm": {
+      "id": "0005540",
+      "title": "897890 - Re-filling of containers",
+      "conceptLink": "/ec2/concept/5956534"
+    }
+  },
+  {
+    "uri": "en/39/45307",
+    "id": "45307",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Re-floating of ships",
+    "harm": {
+      "id": "0057731",
+      "title": "45307 - Re-floating of ships",
+      "conceptLink": "/ec2/concept/5999235"
+    }
+  },
+  {
+    "uri": "en/39/835979",
+    "id": "835979",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Recovery of commercial motor land vehicles",
+    "harm": {
+      "id": "0034395",
+      "title": "835979 - Recovery of commercial motor land vehicles",
+      "conceptLink": "/ec2/concept/5982932"
+    }
+  },
+  {
+    "uri": "en/39/460615",
+    "id": "460615",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Recovery of vehicles",
+    "harm": {
+      "id": "0003423",
+      "title": "460615 - Recovery of vehicles",
+      "conceptLink": "/ec2/concept/5954582"
+    }
+  },
+  {
+    "uri": "en/39/460617",
+    "id": "460617",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Recovery services for vehicles",
+    "harm": {
+      "id": "0003423",
+      "title": "460617 - Recovery services for vehicles",
+      "conceptLink": "/ec2/concept/5954582"
+    }
+  },
+  {
+    "uri": "en/39/125192664",
+    "id": "125192664",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Recovery (Vehicle -)",
+    "harm": {
+      "id": "0003423",
+      "title": "125192664 - Recovery (Vehicle -)",
+      "conceptLink": "/ec2/concept/5954582"
+    }
+  },
+  {
+    "uri": "en/39/2499618",
+    "id": "2499618",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refilling of vending machines",
+    "harm": {
+      "id": "0045878",
+      "title": "2499618 - Refilling of vending machines",
+      "conceptLink": "/ec2/concept/5993403"
+    }
+  },
+  {
+    "uri": "en/39/48208",
+    "id": "48208",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refloating of ships",
+    "harm": {
+      "id": "0057731",
+      "title": "48208 - Refloating of ships",
+      "conceptLink": "/ec2/concept/5999235"
+    }
+  },
+  {
+    "uri": "en/39/120821740",
+    "id": "120821740",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated storage",
+    "harm": {
+      "id": "0057476",
+      "title": "120821740 - Refrigerated storage",
+      "conceptLink": "/ec2/concept/5998982"
+    }
+  },
+  {
+    "uri": "en/39/835991",
+    "id": "835991",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated storage of goods",
+    "harm": {
+      "id": "0040141",
+      "title": "835991 - Refrigerated storage of goods",
+      "conceptLink": "/ec2/concept/5988160"
+    }
+  },
+  {
+    "uri": "en/39/120889235",
+    "id": "120889235",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated storage of seafood",
+    "harm": {
+      "id": "0068691",
+      "title": "120889235 - Refrigerated storage of seafood",
+      "conceptLink": "/ec2/concept/6004894"
+    }
+  },
+  {
+    "uri": "en/39/459666",
+    "id": "459666",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated storage services",
+    "harm": {
+      "id": "0057475",
+      "title": "459666 - Refrigerated storage services",
+      "conceptLink": "/ec2/concept/5998981"
+    }
+  },
+  {
+    "uri": "en/39/836017",
+    "id": "836017",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated transport of frozen goods",
+    "harm": {
+      "id": "0021450",
+      "title": "836017 - Refrigerated transport of frozen goods",
+      "conceptLink": "/ec2/concept/5971085"
+    }
+  },
+  {
+    "uri": "en/39/120892358",
+    "id": "120892358",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated transport of food",
+    "harm": {
+      "id": "0068764",
+      "title": "120892358 - Refrigerated transport of food",
+      "conceptLink": "/ec2/concept/6004967"
+    }
+  },
+  {
+    "uri": "en/39/836004",
+    "id": "836004",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated transport of cold goods",
+    "harm": {
+      "id": "0045864",
+      "title": "836004 - Refrigerated transport of cold goods",
+      "conceptLink": "/ec2/concept/5993393"
+    }
+  },
+  {
+    "uri": "en/39/119665476",
+    "id": "119665476",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerated warehousing",
+    "harm": {
+      "id": "0057475",
+      "title": "119665476 - Refrigerated warehousing",
+      "conceptLink": "/ec2/concept/5998981"
+    }
+  },
+  {
+    "uri": "en/39/459665",
+    "id": "459665",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigeration storage",
+    "harm": {
+      "id": "0057476",
+      "title": "459665 - Refrigeration storage",
+      "conceptLink": "/ec2/concept/5998982"
+    }
+  },
+  {
+    "uri": "en/39/47160",
+    "id": "47160",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refrigerator rental",
+    "harm": {
+      "id": "0058380",
+      "title": "47160 - Refrigerator rental",
+      "conceptLink": "/ec2/concept/5999879"
+    }
+  },
+  {
+    "uri": "en/39/832223",
+    "id": "832223",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Refuse collection services",
+    "harm": {
+      "id": "0009653",
+      "title": "832223 - Refuse collection services",
+      "conceptLink": "/ec2/concept/5960295"
+    }
+  },
+  {
+    "uri": "en/39/832294",
+    "id": "832294",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of commercial furniture",
+    "harm": {
+      "id": "0044413",
+      "title": "832294 - Removal of commercial furniture",
+      "conceptLink": "/ec2/concept/5992059"
+    }
+  },
+  {
+    "uri": "en/39/836029",
+    "id": "836029",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of domestic furniture",
+    "harm": {
+      "id": "0009735",
+      "title": "836029 - Removal of domestic furniture",
+      "conceptLink": "/ec2/concept/5960368"
+    }
+  },
+  {
+    "uri": "en/39/836043",
+    "id": "836043",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of domestic goods",
+    "harm": {
+      "id": "0038632",
+      "title": "836043 - Removal of domestic goods",
+      "conceptLink": "/ec2/concept/5986783"
+    }
+  },
+  {
+    "uri": "en/39/836057",
+    "id": "836057",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of household goods",
+    "harm": {
+      "id": "0044414",
+      "title": "836057 - Removal of household goods",
+      "conceptLink": "/ec2/concept/5992060"
+    }
+  },
+  {
+    "uri": "en/39/836071",
+    "id": "836071",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of office equipment",
+    "harm": {
+      "id": "0003982",
+      "title": "836071 - Removal of office equipment",
+      "conceptLink": "/ec2/concept/5955089"
+    }
+  },
+  {
+    "uri": "en/39/836085",
+    "id": "836085",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of personal effects",
+    "harm": {
+      "id": "0044415",
+      "title": "836085 - Removal of personal effects",
+      "conceptLink": "/ec2/concept/5992061"
+    }
+  },
+  {
+    "uri": "en/39/460756",
+    "id": "460756",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal of waste",
+    "harm": {
+      "id": "0021451",
+      "title": "460756 - Removal of waste",
+      "conceptLink": "/ec2/concept/5971086"
+    }
+  },
+  {
+    "uri": "en/39/48597",
+    "id": "48597",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Removal services",
+    "harm": {
+      "id": "0005479",
+      "title": "48597 - Removal services",
+      "conceptLink": "/ec2/concept/5956477"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/830818",
+    "id": "830818",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation of passengers by trains",
+    "harm": {
+      "id": "0023903",
+      "title": "830818 - Arrangement of transportation of passengers by trains",
+      "conceptLink": "/ec2/concept/5973333"
+    }
+  },
+  {
+    "uri": "en/39/47388",
+    "id": "47388",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation",
+    "harm": {
+      "id": "0000714",
+      "title": "47388 - Arrangement of transportation",
+      "conceptLink": "/ec2/concept/5952130"
+    }
+  },
+  {
+    "uri": "en/39/830784",
+    "id": "830784",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation of passengers by helicopters",
+    "harm": {
+      "id": "0000715",
+      "title": "830784 - Arrangement of transportation of passengers by helicopters",
+      "conceptLink": "/ec2/concept/5952131"
+    }
+  },
+  {
+    "uri": "en/39/48781",
+    "id": "48781",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation of travellers",
+    "harm": {
+      "id": "0072826",
+      "title": "48781 - Arrangement of transportation of travellers",
+      "conceptLink": "/ec2/concept/6009001"
+    }
+  },
+  {
+    "uri": "en/39/830843",
+    "id": "830843",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation of people",
+    "harm": {
+      "id": "0072827",
+      "title": "830843 - Arrangement of transportation of people",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/830630",
+    "id": "830630",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of transportation of passengers by aircraft",
+    "harm": {
+      "id": "0006493",
+      "title": "830630 - Arrangement of transportation of passengers by aircraft",
+      "conceptLink": "/ec2/concept/5957400"
+    }
+  },
+  {
+    "uri": "en/39/47738",
+    "id": "47738",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of travel",
+    "harm": {
+      "id": "0058632",
+      "title": "47738 - Arrangement of travel",
+      "conceptLink": "/ec2/concept/6000125"
+    }
+  },
+  {
+    "uri": "en/39/830860",
+    "id": "830860",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of travel to and from hotels",
+    "harm": {
+      "id": "0041219",
+      "title": "830860 - Arrangement of travel to and from hotels",
+      "conceptLink": "/ec2/concept/5989145"
+    }
+  },
+  {
+    "uri": "en/39/830874",
+    "id": "830874",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of vehicle recovery",
+    "harm": {
+      "id": "0029639",
+      "title": "830874 - Arrangement of vehicle recovery",
+      "conceptLink": "/ec2/concept/5978597"
+    }
+  },
+  {
+    "uri": "en/39/830894",
+    "id": "830894",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangement of vehicle rental",
+    "harm": {
+      "id": "0058583",
+      "title": "830894 - Arrangement of vehicle rental",
+      "conceptLink": "/ec2/concept/6000076"
+    }
+  },
+  {
+    "uri": "en/39/830936",
+    "id": "830936",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arrangements for transportation by land, sea and air",
+    "harm": {
+      "id": "0014264",
+      "title": "830936 - Arrangements for transportation by land, sea and air",
+      "conceptLink": "/ec2/concept/5964517"
+    }
+  },
+  {
+    "uri": "en/39/458180",
+    "id": "458180",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging airline tickets, cruise tickets and train tickets",
+    "harm": {
+      "id": "0027425",
+      "title": "458180 - Arranging airline tickets, cruise tickets and train tickets",
+      "conceptLink": "/ec2/concept/5976550"
+    }
+  },
+  {
+    "uri": "en/39/120892398",
+    "id": "120892398",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of cruises",
+    "harm": {
+      "id": "0068767",
+      "title": "120892398 - Arranging and booking of cruises",
+      "conceptLink": "/ec2/concept/6004970"
+    }
+  },
+  {
+    "uri": "en/39/120892404",
+    "id": "120892404",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of travel",
+    "harm": {
+      "id": "0068768",
+      "title": "120892404 - Arranging and booking of travel",
+      "conceptLink": "/ec2/concept/6004971"
+    }
+  },
+  {
+    "uri": "en/39/120891012",
+    "id": "120891012",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of travel for package holidays",
+    "harm": {
+      "id": "0068642",
+      "title": "120891012 - Arranging and booking of travel for package holidays",
+      "conceptLink": "/ec2/concept/6004845"
+    }
+  },
+  {
+    "uri": "en/39/120890995",
+    "id": "120890995",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of excursions and sightseeing tours",
+    "harm": {
+      "id": "0068643",
+      "title": "120890995 - Arranging and booking of excursions and sightseeing tours",
+      "conceptLink": "/ec2/concept/6004846"
+    }
+  },
+  {
+    "uri": "en/39/120890885",
+    "id": "120890885",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of excursions",
+    "harm": {
+      "id": "0068641",
+      "title": "120890885 - Arranging and booking of excursions",
+      "conceptLink": "/ec2/concept/6004844"
+    }
+  },
+  {
+    "uri": "en/39/120890891",
+    "id": "120890891",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of day trips",
+    "harm": {
+      "id": "0068640",
+      "title": "120890891 - Arranging and booking of day trips",
+      "conceptLink": "/ec2/concept/6004843"
+    }
+  },
+  {
+    "uri": "en/39/120890897",
+    "id": "120890897",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of sightseeing tours",
+    "harm": {
+      "id": "0068639",
+      "title": "120890897 - Arranging and booking of sightseeing tours",
+      "conceptLink": "/ec2/concept/6004842"
+    }
+  },
+  {
+    "uri": "en/39/120889125",
+    "id": "120889125",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of city sightseeing tours",
+    "harm": {
+      "id": "0068670",
+      "title": "120889125 - Arranging and booking of city sightseeing tours",
+      "conceptLink": "/ec2/concept/6004873"
+    }
+  },
+  {
+    "uri": "en/39/120889133",
+    "id": "120889133",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and booking of tours",
+    "harm": {
+      "id": "0068671",
+      "title": "120889133 - Arranging and booking of tours",
+      "conceptLink": "/ec2/concept/6004874"
+    }
+  },
+  {
+    "uri": "en/39/458199",
+    "id": "458199",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and conducting canoe expeditions",
+    "harm": {
+      "id": "0015880",
+      "title": "458199 - Arranging and conducting canoe expeditions",
+      "conceptLink": "/ec2/concept/5966005"
+    }
+  },
+  {
+    "uri": "en/39/458213",
+    "id": "458213",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and conducting horseback expeditions",
+    "harm": {
+      "id": "0015881",
+      "title": "458213 - Arranging and conducting horseback expeditions",
+      "conceptLink": "/ec2/concept/5966006"
+    }
+  },
+  {
+    "uri": "en/39/458227",
+    "id": "458227",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and conducting jungle and safari expeditions",
+    "harm": {
+      "id": "0033168",
+      "title": "458227 - Arranging and conducting jungle and safari expeditions",
+      "conceptLink": "/ec2/concept/5981812"
+    }
+  },
+  {
+    "uri": "en/39/458262",
+    "id": "458262",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and conducting of tours and sightseeing",
+    "harm": {
+      "id": "0004343",
+      "title": "458262 - Arranging and conducting of tours and sightseeing",
+      "conceptLink": "/ec2/concept/5955425"
+    }
+  },
+  {
+    "uri": "en/39/458241",
+    "id": "458241",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and conducting of mail order delivery services",
+    "harm": {
+      "id": "0044709",
+      "title": "458241 - Arranging and conducting of mail order delivery services",
+      "conceptLink": "/ec2/concept/5992333"
+    }
+  },
+  {
+    "uri": "en/39/479338",
+    "id": "479338",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging and providing transport by land, sea and air",
+    "harm": {
+      "id": "0044532",
+      "title": "479338 - Arranging and providing transport by land, sea and air",
+      "conceptLink": "/ec2/concept/5992169"
+    }
+  },
+  {
+    "uri": "en/39/120889338",
+    "id": "120889338",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging car hire as part of package holidays",
+    "harm": {
+      "id": "0068704",
+      "title": "120889338 - Arranging car hire as part of package holidays",
+      "conceptLink": "/ec2/concept/6004907"
+    }
+  },
+  {
+    "uri": "en/39/830950",
+    "id": "830950",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging escorts for travellers",
+    "harm": {
+      "id": "0024459",
+      "title": "830950 - Arranging escorts for travellers",
+      "conceptLink": "/ec2/concept/5973844"
+    }
+  },
+  {
+    "uri": "en/39/458284",
+    "id": "458284",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging excursions for tourists",
+    "harm": {
+      "id": "0016848",
+      "title": "458284 - Arranging excursions for tourists",
+      "conceptLink": "/ec2/concept/5966890"
+    }
+  },
+  {
+    "uri": "en/39/46874",
+    "id": "46874",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging ferry transportation",
+    "harm": {
+      "id": "0046801",
+      "title": "46874 - Arranging ferry transportation",
+      "conceptLink": "/ec2/concept/5994202"
+    }
+  },
+  {
+    "uri": "en/39/120890521",
+    "id": "120890521",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging for the shipping of cargo",
+    "harm": {
+      "id": "0031563",
+      "title": "120890521 - Arranging for the shipping of cargo",
+      "conceptLink": "/ec2/concept/5980349"
+    }
+  },
+  {
+    "uri": "en/39/458317",
+    "id": "458317",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging for the transportation of passengers",
+    "harm": {
+      "id": "0011634",
+      "title": "458317 - Arranging for the transportation of passengers",
+      "conceptLink": "/ec2/concept/5962102"
+    }
+  },
+  {
+    "uri": "en/39/120890978",
+    "id": "120890978",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging for the transport of air freight",
+    "harm": {
+      "id": "0068645",
+      "title": "120890978 - Arranging for the transport of air freight",
+      "conceptLink": "/ec2/concept/6004848"
+    }
+  },
+  {
+    "uri": "en/39/120890488",
+    "id": "120890488",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging for the transport of goods by sea",
+    "harm": {
+      "id": "0068608",
+      "title": "120890488 - Arranging for the transport of goods by sea",
+      "conceptLink": "/ec2/concept/6004811"
+    }
+  },
+  {
+    "uri": "en/39/900612",
+    "id": "900612",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging for travel visas, passports and travel documents for persons traveling abroad",
+    "harm": {
+      "id": "0019000",
+      "title": "900612 - Arranging for travel visas, passports and travel documents for persons traveling abroad",
+      "conceptLink": "/ec2/concept/5968858"
+    }
+  },
+  {
+    "uri": "en/39/830970",
+    "id": "830970",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of air transport",
+    "harm": {
+      "id": "0002740",
+      "title": "830970 - Arranging of air transport",
+      "conceptLink": "/ec2/concept/5953954"
+    }
+  },
+  {
+    "uri": "en/39/830981",
+    "id": "830981",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of air travel",
+    "harm": {
+      "id": "0020148",
+      "title": "830981 - Arranging of air travel",
+      "conceptLink": "/ec2/concept/5969896"
+    }
+  },
+  {
+    "uri": "en/39/830995",
+    "id": "830995",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of baggage transfer",
+    "harm": {
+      "id": "0008439",
+      "title": "830995 - Arranging of baggage transfer",
+      "conceptLink": "/ec2/concept/5959177"
+    }
+  },
+  {
+    "uri": "en/39/831009",
+    "id": "831009",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of business travel",
+    "harm": {
+      "id": "0020149",
+      "title": "831009 - Arranging of business travel",
+      "conceptLink": "/ec2/concept/5969897"
+    }
+  },
+  {
+    "uri": "en/39/44573",
+    "id": "44573",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of car hire",
+    "harm": {
+      "id": "0037431",
+      "title": "44573 - Arranging of car hire",
+      "conceptLink": "/ec2/concept/5985685"
+    }
+  },
+  {
+    "uri": "en/39/831025",
+    "id": "831025",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of city sight-seeing tours",
+    "harm": {
+      "id": "0025806",
+      "title": "831025 - Arranging of city sight-seeing tours",
+      "conceptLink": "/ec2/concept/5975084"
+    }
+  },
+  {
+    "uri": "en/39/831043",
+    "id": "831043",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of coach tours",
+    "harm": {
+      "id": "0012895",
+      "title": "831043 - Arranging of coach tours",
+      "conceptLink": "/ec2/concept/5963263"
+    }
+  },
+  {
+    "uri": "en/39/831045",
+    "id": "831045",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of coach travel",
+    "harm": {
+      "id": "0012895",
+      "title": "831045 - Arranging of coach travel",
+      "conceptLink": "/ec2/concept/5963263"
+    }
+  },
+  {
+    "uri": "en/39/45894",
+    "id": "45894",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of cruises",
+    "harm": {
+      "id": "0042060",
+      "title": "45894 - Arranging of cruises",
+      "conceptLink": "/ec2/concept/5989910"
+    }
+  },
+  {
+    "uri": "en/39/120889427",
+    "id": "120889427",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of day trips",
+    "harm": {
+      "id": "0068698",
+      "title": "120889427 - Arranging of day trips",
+      "conceptLink": "/ec2/concept/6004901"
+    }
+  },
+  {
+    "uri": "en/39/47740",
+    "id": "47740",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of excursions",
+    "harm": {
+      "id": "0058813",
+      "title": "47740 - Arranging of excursions",
+      "conceptLink": "/ec2/concept/6000304"
+    }
+  },
+  {
+    "uri": "en/39/120889404",
+    "id": "120889404",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of excursions as part of package holidays",
+    "harm": {
+      "id": "0068703",
+      "title": "120889404 - Arranging of excursions as part of package holidays",
+      "conceptLink": "/ec2/concept/6004906"
+    }
+  },
+  {
+    "uri": "en/39/120889433",
+    "id": "120889433",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of excursions, day trips and sightseeing tours",
+    "harm": {
+      "id": "0068699",
+      "title": "120889433 - Arranging of excursions, day trips and sightseeing tours",
+      "conceptLink": "/ec2/concept/6004902"
+    }
+  },
+  {
+    "uri": "en/39/47743",
+    "id": "47743",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of expeditions",
+    "harm": {
+      "id": "0031589",
+      "title": "47743 - Arranging of expeditions",
+      "conceptLink": "/ec2/concept/5980368"
+    }
+  },
+  {
+    "uri": "en/39/831073",
+    "id": "831073",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of flights",
+    "harm": {
+      "id": "0008440",
+      "title": "831073 - Arranging of flights",
+      "conceptLink": "/ec2/concept/5959178"
+    }
+  },
+  {
+    "uri": "en/39/831088",
+    "id": "831088",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of holiday transport",
+    "harm": {
+      "id": "0020150",
+      "title": "831088 - Arranging of holiday transport",
+      "conceptLink": "/ec2/concept/5969898"
+    }
+  },
+  {
+    "uri": "en/39/831103",
+    "id": "831103",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of overseas travel for cultural purposes",
+    "harm": {
+      "id": "0014299",
+      "title": "831103 - Arranging of overseas travel for cultural purposes",
+      "conceptLink": "/ec2/concept/5964550"
+    }
+  },
+  {
+    "uri": "en/39/458313",
+    "id": "458313",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of passenger transport",
+    "harm": {
+      "id": "0011634",
+      "title": "458313 - Arranging of passenger transport",
+      "conceptLink": "/ec2/concept/5962102"
+    }
+  },
+  {
+    "uri": "en/39/120889915",
+    "id": "120889915",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of sightseeing tours and excursions",
+    "harm": {
+      "id": "0068755",
+      "title": "120889915 - Arranging of sightseeing tours and excursions",
+      "conceptLink": "/ec2/concept/6004958"
+    }
+  },
+  {
+    "uri": "en/39/120889401",
+    "id": "120889401",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of sightseeing tours as part of package holidays",
+    "harm": {
+      "id": "0068702",
+      "title": "120889401 - Arranging of sightseeing tours as part of package holidays",
+      "conceptLink": "/ec2/concept/6004905"
+    }
+  },
+  {
+    "uri": "en/39/47731",
+    "id": "47731",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of sightseeing tours",
+    "harm": {
+      "id": "0000182",
+      "title": "47731 - Arranging of sightseeing tours",
+      "conceptLink": "/ec2/concept/5951657"
+    }
+  },
+  {
+    "uri": "en/39/120889841",
+    "id": "120889841",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of tour guides",
+    "harm": {
+      "id": "0068730",
+      "title": "120889841 - Arranging of tour guides",
+      "conceptLink": "/ec2/concept/6004933"
+    }
+  },
+  {
+    "uri": "en/39/45976",
+    "id": "45976",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of tours",
+    "harm": {
+      "id": "0058812",
+      "title": "45976 - Arranging of tours",
+      "conceptLink": "/ec2/concept/6000303"
+    }
+  },
+  {
+    "uri": "en/39/887014",
+    "id": "887014",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of tours and cruises",
+    "harm": {
+      "id": "0015538",
+      "title": "887014 - Arranging of tours and cruises",
+      "conceptLink": "/ec2/concept/5965681"
+    }
+  },
+  {
+    "uri": "en/39/831119",
+    "id": "831119",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of tours by bus",
+    "harm": {
+      "id": "0018686",
+      "title": "831119 - Arranging of tours by bus",
+      "conceptLink": "/ec2/concept/5968568"
+    }
+  },
+  {
+    "uri": "en/39/831044",
+    "id": "831044",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of tours by coach",
+    "harm": {
+      "id": "0012895",
+      "title": "831044 - Arranging of tours by coach",
+      "conceptLink": "/ec2/concept/5963263"
+    }
+  },
+  {
+    "uri": "en/39/2868901",
+    "id": "2868901",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of transport",
+    "harm": {
+      "id": "0000714",
+      "title": "2868901 - Arranging of transport",
+      "conceptLink": "/ec2/concept/5952130"
+    }
+  },
+  {
+    "uri": "en/39/53690857",
+    "id": "53690857",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of transport and travel",
+    "harm": {
+      "id": "0068632",
+      "title": "53690857 - Arranging of transport and travel",
+      "conceptLink": "/ec2/concept/6004835"
+    }
+  },
+  {
+    "uri": "en/39/47737",
+    "id": "47737",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of travel",
+    "harm": {
+      "id": "0058632",
+      "title": "47737 - Arranging of travel",
+      "conceptLink": "/ec2/concept/6000125"
+    }
+  },
+  {
+    "uri": "en/39/831047",
+    "id": "831047",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of travel by bus",
+    "harm": {
+      "id": "0012895",
+      "title": "831047 - Arranging of travel by bus",
+      "conceptLink": "/ec2/concept/5963263"
+    }
+  },
+  {
+    "uri": "en/39/831046",
+    "id": "831046",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of travel by coach",
+    "harm": {
+      "id": "0012895",
+      "title": "831046 - Arranging of travel by coach",
+      "conceptLink": "/ec2/concept/5963263"
+    }
+  },
+  {
+    "uri": "en/39/120821388",
+    "id": "120821388",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of travel tours",
+    "harm": {
+      "id": "0058814",
+      "title": "120821388 - Arranging of travel tours",
+      "conceptLink": "/ec2/concept/6000305"
+    }
+  },
+  {
+    "uri": "en/39/830897",
+    "id": "830897",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of vehicle hire",
+    "harm": {
+      "id": "0017666",
+      "title": "830897 - Arranging of vehicle hire",
+      "conceptLink": "/ec2/concept/5967625"
+    }
+  },
+  {
+    "uri": "en/39/830895",
+    "id": "830895",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging of vehicle rental",
+    "harm": {
+      "id": "0017666",
+      "title": "830895 - Arranging of vehicle rental",
+      "conceptLink": "/ec2/concept/5967625"
+    }
+  },
+  {
+    "uri": "en/39/831148",
+    "id": "831148",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the collection of packets",
+    "harm": {
+      "id": "0035999",
+      "title": "831148 - Arranging the collection of packets",
+      "conceptLink": "/ec2/concept/5984381"
+    }
+  },
+  {
+    "uri": "en/39/831149",
+    "id": "831149",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the collection of packages",
+    "harm": {
+      "id": "0035999",
+      "title": "831149 - Arranging the collection of packages",
+      "conceptLink": "/ec2/concept/5984381"
+    }
+  },
+  {
+    "uri": "en/39/831150",
+    "id": "831150",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the collection of parcels",
+    "harm": {
+      "id": "0035999",
+      "title": "831150 - Arranging the collection of parcels",
+      "conceptLink": "/ec2/concept/5984381"
+    }
+  },
+  {
+    "uri": "en/39/831130",
+    "id": "831130",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the collection of goods",
+    "harm": {
+      "id": "0018687",
+      "title": "831130 - Arranging the collection of goods",
+      "conceptLink": "/ec2/concept/5968569"
+    }
+  },
+  {
+    "uri": "en/39/831182",
+    "id": "831182",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the delivery of gifts",
+    "harm": {
+      "id": "0012896",
+      "title": "831182 - Arranging the delivery of gifts",
+      "conceptLink": "/ec2/concept/5963264"
+    }
+  },
+  {
+    "uri": "en/39/46196",
+    "id": "46196",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the delivery of goods",
+    "harm": {
+      "id": "0000331",
+      "title": "46196 - Arranging the delivery of goods",
+      "conceptLink": "/ec2/concept/5951788"
+    }
+  },
+  {
+    "uri": "en/39/831207",
+    "id": "831207",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the delivery of goods by post",
+    "harm": {
+      "id": "0018688",
+      "title": "831207 - Arranging the delivery of goods by post",
+      "conceptLink": "/ec2/concept/5968570"
+    }
+  },
+  {
+    "uri": "en/39/831222",
+    "id": "831222",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the emergency replacement of airline tickets",
+    "harm": {
+      "id": "0030198",
+      "title": "831222 - Arranging the emergency replacement of airline tickets",
+      "conceptLink": "/ec2/concept/5979110"
+    }
+  },
+  {
+    "uri": "en/39/830951",
+    "id": "830951",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the escorting of travellers",
+    "harm": {
+      "id": "0024459",
+      "title": "830951 - Arranging the escorting of travellers",
+      "conceptLink": "/ec2/concept/5973844"
+    }
+  },
+  {
+    "uri": "en/39/831234",
+    "id": "831234",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the hire of all means of transport",
+    "harm": {
+      "id": "0012897",
+      "title": "831234 - Arranging the hire of all means of transport",
+      "conceptLink": "/ec2/concept/5963265"
+    }
+  },
+  {
+    "uri": "en/39/831260",
+    "id": "831260",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the shipping of goods",
+    "harm": {
+      "id": "0031563",
+      "title": "831260 - Arranging the shipping of goods",
+      "conceptLink": "/ec2/concept/5980349"
+    }
+  },
+  {
+    "uri": "en/39/46361",
+    "id": "46361",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the storage of goods",
+    "harm": {
+      "id": "0057424",
+      "title": "46361 - Arranging the storage of goods",
+      "conceptLink": "/ec2/concept/5998931"
+    }
+  },
+  {
+    "uri": "en/39/831316",
+    "id": "831316",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the storage of luggage",
+    "harm": {
+      "id": "0029850",
+      "title": "831316 - Arranging the storage of luggage",
+      "conceptLink": "/ec2/concept/5978788"
+    }
+  },
+  {
+    "uri": "en/39/831360",
+    "id": "831360",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of parcels by land",
+    "harm": {
+      "id": "0008400",
+      "title": "831360 - Arranging the transportation of parcels by land",
+      "conceptLink": "/ec2/concept/5959141"
+    }
+  },
+  {
+    "uri": "en/39/831374",
+    "id": "831374",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of parcels by sea",
+    "harm": {
+      "id": "0008401",
+      "title": "831374 - Arranging the transportation of parcels by sea",
+      "conceptLink": "/ec2/concept/5959142"
+    }
+  },
+  {
+    "uri": "en/39/458316",
+    "id": "458316",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of passengers",
+    "harm": {
+      "id": "0011634",
+      "title": "458316 - Arranging the transportation of passengers",
+      "conceptLink": "/ec2/concept/5962102"
+    }
+  },
+  {
+    "uri": "en/39/831347",
+    "id": "831347",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of parcels by air",
+    "harm": {
+      "id": "0043144",
+      "title": "831347 - Arranging the transportation of parcels by air",
+      "conceptLink": "/ec2/concept/5990892"
+    }
+  },
+  {
+    "uri": "en/39/458112",
+    "id": "458112",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of parcels",
+    "harm": {
+      "id": "0031565",
+      "title": "458112 - Arranging the transportation of parcels",
+      "conceptLink": "/ec2/concept/5980350"
+    }
+  },
+  {
+    "uri": "en/39/830628",
+    "id": "830628",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of passengers by air",
+    "harm": {
+      "id": "0006493",
+      "title": "830628 - Arranging the transportation of passengers by air",
+      "conceptLink": "/ec2/concept/5957400"
+    }
+  },
+  {
+    "uri": "en/39/831261",
+    "id": "831261",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of cargo",
+    "harm": {
+      "id": "0000331",
+      "title": "831261 - Arranging the transportation of cargo",
+      "conceptLink": "/ec2/concept/5951788"
+    }
+  },
+  {
+    "uri": "en/39/831387",
+    "id": "831387",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the transportation of passengers by sea",
+    "harm": {
+      "id": "0006493",
+      "title": "831387 - Arranging the transportation of passengers by sea",
+      "conceptLink": "/ec2/concept/5957400"
+    }
+  },
+  {
+    "uri": "en/39/46066",
+    "id": "46066",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging the unloading of cargo",
+    "harm": {
+      "id": "0043145",
+      "title": "46066 - Arranging the unloading of cargo",
+      "conceptLink": "/ec2/concept/5990893"
+    }
+  },
+  {
+    "uri": "en/39/47705",
+    "id": "47705",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging tours",
+    "harm": {
+      "id": "0058812",
+      "title": "47705 - Arranging tours",
+      "conceptLink": "/ec2/concept/6000303"
+    }
+  },
+  {
+    "uri": "en/39/831400",
+    "id": "831400",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transport for business users",
+    "harm": {
+      "id": "0037390",
+      "title": "831400 - Arranging transport for business users",
+      "conceptLink": "/ec2/concept/5985646"
+    }
+  },
+  {
+    "uri": "en/39/232612048",
+    "id": "232612048",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transport for travelers",
+    "harm": {
+      "id": "0006455",
+      "title": "232612048 - Arranging transport for travelers",
+      "conceptLink": "/ec2/concept/5957365"
+    }
+  },
+  {
+    "uri": "en/39/830819",
+    "id": "830819",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transport of passengers by rail",
+    "harm": {
+      "id": "0023903",
+      "title": "830819 - Arranging transport of passengers by rail",
+      "conceptLink": "/ec2/concept/5973333"
+    }
+  },
+  {
+    "uri": "en/39/831411",
+    "id": "831411",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transport of passengers by air, rail and sea",
+    "harm": {
+      "id": "0037391",
+      "title": "831411 - Arranging transport of passengers by air, rail and sea",
+      "conceptLink": "/ec2/concept/5985647"
+    }
+  },
+  {
+    "uri": "en/39/831425",
+    "id": "831425",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transport services by land, sea and air",
+    "harm": {
+      "id": "0014264",
+      "title": "831425 - Arranging transport services by land, sea and air",
+      "conceptLink": "/ec2/concept/5964517"
+    }
+  },
+  {
+    "uri": "en/39/458315",
+    "id": "458315",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transportation of passengers",
+    "harm": {
+      "id": "0011634",
+      "title": "458315 - Arranging transportation of passengers",
+      "conceptLink": "/ec2/concept/5962102"
+    }
+  },
+  {
+    "uri": "en/39/831469",
+    "id": "831469",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Arranging transportation of passengers by road, rail, air and sea",
+    "harm": {
+      "id": "0000333",
+      "title": "831469 - Arranging transportation of passengers by road, rail, air and sea",
+      "conceptLink": "/ec2/concept/5951789"
+    }
+  }
+]

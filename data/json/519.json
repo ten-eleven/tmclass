@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/27/233004029",
+    "id": "233004029",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Rugs for animals",
+    "harm": {
+      "id": "0072266",
+      "title": "233004029 - Rugs for animals",
+      "conceptLink": "/ec2/concept/6008449"
+    }
+  },
+  {
+    "uri": "en/27/279159",
+    "id": "279159",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Rugs [mats]",
+    "harm": {
+      "id": "0072816",
+      "title": "279159 - Rugs [mats]",
+      "conceptLink": "/ec2/concept/6008991"
+    }
+  },
+  {
+    "uri": "en/27/601325",
+    "id": "601325",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Runners [mats]",
+    "harm": {
+      "id": "0039400",
+      "title": "601325 - Runners [mats]",
+      "conceptLink": "/ec2/concept/5987479"
+    }
+  },
+  {
+    "uri": "en/27/503121",
+    "id": "503121",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Rush mats with floral patterns (hana-mushiro)",
+    "harm": {
+      "id": "0003223",
+      "title": "503121 - Rush mats with floral patterns (hana-mushiro)",
+      "conceptLink": "/ec2/concept/5954399"
+    }
+  },
+  {
+    "uri": "en/27/601341",
+    "id": "601341",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Showermats",
+    "harm": {
+      "id": "0010487",
+      "title": "601341 - Showermats",
+      "conceptLink": "/ec2/concept/5961055"
+    }
+  },
+  {
+    "uri": "en/27/279705",
+    "id": "279705",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Ski slopes (Mats of woven rope for -)",
+    "harm": {
+      "id": "0057163",
+      "title": "279705 - Ski slopes (Mats of woven rope for -)",
+      "conceptLink": "/ec2/concept/5998797"
+    }
+  },
+  {
+    "uri": "en/27/433612",
+    "id": "433612",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Straw mats",
+    "harm": {
+      "id": "0018591",
+      "title": "433612 - Straw mats",
+      "conceptLink": "/ec2/concept/5968478"
+    }
+  },
+  {
+    "uri": "en/27/120815366",
+    "id": "120815366",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Straw mats [mushiro]",
+    "harm": {
+      "id": "0067318",
+      "title": "120815366 - Straw mats [mushiro]",
+      "conceptLink": "/ec2/concept/6003521"
+    }
+  },
+  {
+    "uri": "en/27/119543498",
+    "id": "119543498",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tapestry-style wall hangings, not of textile",
+    "harm": {
+      "id": "0057643",
+      "title": "119543498 - Tapestry-style wall hangings, not of textile",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/279468",
+    "id": "279468",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tapestry [wall hangings], not of textile",
+    "harm": {
+      "id": "0057643",
+      "title": "279468 - Tapestry [wall hangings], not of textile",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/433571",
+    "id": "433571",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Textile bath mats",
+    "harm": {
+      "id": "0002484",
+      "title": "433571 - Textile bath mats",
+      "conceptLink": "/ec2/concept/5953724"
+    }
+  },
+  {
+    "uri": "en/27/19575019",
+    "id": "19575019",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Textile floor mats for use in the home",
+    "harm": {
+      "id": "0067306",
+      "title": "19575019 - Textile floor mats for use in the home",
+      "conceptLink": "/ec2/concept/6003509"
+    }
+  },
+  {
+    "uri": "en/27/433626",
+    "id": "433626",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Textile lined wallpaper",
+    "harm": {
+      "id": "0036137",
+      "title": "433626 - Textile lined wallpaper",
+      "conceptLink": "/ec2/concept/5984506"
+    }
+  },
+  {
+    "uri": "en/27/120882874",
+    "id": "120882874",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Textile wall coverings",
+    "harm": {
+      "id": "0057644",
+      "title": "120882874 - Textile wall coverings",
+      "conceptLink": "/ec2/concept/5999148"
+    }
+  },
+  {
+    "uri": "en/27/910795",
+    "id": "910795",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Textile wallpaper",
+    "harm": {
+      "id": "0036137",
+      "title": "910795 - Textile wallpaper",
+      "conceptLink": "/ec2/concept/5984506"
+    }
+  },
+  {
+    "uri": "en/27/124598683",
+    "id": "124598683",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tiles (Carpet -)",
+    "harm": {
+      "id": "0059158",
+      "title": "124598683 - Tiles (Carpet -)",
+      "conceptLink": "/ec2/concept/6000647"
+    }
+  },
+  {
+    "uri": "en/27/601353",
+    "id": "601353",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tiles made of linoleum",
+    "harm": {
+      "id": "0022202",
+      "title": "601353 - Tiles made of linoleum",
+      "conceptLink": "/ec2/concept/5971779"
+    }
+  },
+  {
+    "uri": "en/27/601366",
+    "id": "601366",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tiles made of linoleum for fixing to existing floors",
+    "harm": {
+      "id": "0016289",
+      "title": "601366 - Tiles made of linoleum for fixing to existing floors",
+      "conceptLink": "/ec2/concept/5966387"
+    }
+  },
+  {
+    "uri": "en/27/601379",
+    "id": "601379",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Tiles made of linoleum for fixing to existing walls",
+    "harm": {
+      "id": "0016290",
+      "title": "601379 - Tiles made of linoleum for fixing to existing walls",
+      "conceptLink": "/ec2/concept/5966388"
+    }
+  },
+  {
+    "uri": "en/27/279012",
+    "id": "279012",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Turf (Artificial -)",
+    "harm": {
+      "id": "0029977",
+      "title": "279012 - Turf (Artificial -)",
+      "conceptLink": "/ec2/concept/5978902"
+    }
+  },
+  {
+    "uri": "en/27/279618",
+    "id": "279618",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Underlay for carpets",
+    "harm": {
+      "id": "0029273",
+      "title": "279618 - Underlay for carpets",
+      "conceptLink": "/ec2/concept/5978259"
+    }
+  },
+  {
+    "uri": "en/27/279620",
+    "id": "279620",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Underlay for mats",
+    "harm": {
+      "id": "0029273",
+      "title": "279620 - Underlay for mats",
+      "conceptLink": "/ec2/concept/5978259"
+    }
+  },
+  {
+    "uri": "en/27/915229",
+    "id": "915229",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Underlays for carpeting",
+    "harm": {
+      "id": "0029273",
+      "title": "915229 - Underlays for carpeting",
+      "conceptLink": "/ec2/concept/5978259"
+    }
+  },
+  {
+    "uri": "en/27/279621",
+    "id": "279621",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Underlays for rugs",
+    "harm": {
+      "id": "0029273",
+      "title": "279621 - Underlays for rugs",
+      "conceptLink": "/ec2/concept/5978259"
+    }
+  },
+  {
+    "uri": "en/27/903777",
+    "id": "903777",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vehicle carpets",
+    "harm": {
+      "id": "0012663",
+      "title": "903777 - Vehicle carpets",
+      "conceptLink": "/ec2/concept/5963052"
+    }
+  },
+  {
+    "uri": "en/27/233656056",
+    "id": "233656056",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vehicle mats and carpets",
+    "harm": {
+      "id": "0059533",
+      "title": "233656056 - Vehicle mats and carpets",
+      "conceptLink": "/ec2/concept/5998625"
+    }
+  },
+  {
+    "uri": "en/27/131137073",
+    "id": "131137073",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vehicles mats and carpets",
+    "harm": {
+      "id": "0059533",
+      "title": "131137073 - Vehicles mats and carpets",
+      "conceptLink": "/ec2/concept/5998625"
+    }
+  },
+  {
+    "uri": "en/27/279678",
+    "id": "279678",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vinyl floor coverings",
+    "harm": {
+      "id": "0013168",
+      "title": "279678 - Vinyl floor coverings",
+      "conceptLink": "/ec2/concept/5963512"
+    }
+  },
+  {
+    "uri": "en/27/601391",
+    "id": "601391",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vinyl floor coverings for existing floors",
+    "harm": {
+      "id": "0023563",
+      "title": "601391 - Vinyl floor coverings for existing floors",
+      "conceptLink": "/ec2/concept/5973023"
+    }
+  },
+  {
+    "uri": "en/27/433638",
+    "id": "433638",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vinyl wall coverings",
+    "harm": {
+      "id": "0018592",
+      "title": "433638 - Vinyl wall coverings",
+      "conceptLink": "/ec2/concept/5968479"
+    }
+  },
+  {
+    "uri": "en/27/232210983",
+    "id": "232210983",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Vinyl wallpaper",
+    "harm": {
+      "id": "0005592",
+      "title": "232210983 - Vinyl wallpaper",
+      "conceptLink": "/ec2/concept/5956582"
+    }
+  },
+  {
+    "uri": "en/27/20519209",
+    "id": "20519209",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall and ceiling coverings",
+    "harm": {
+      "id": "0047937",
+      "title": "20519209 - Wall and ceiling coverings",
+      "conceptLink": "/ec2/concept/5995199"
+    }
+  },
+  {
+    "uri": "en/27/129846795",
+    "id": "129846795",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall coverings, not of textile",
+    "harm": {
+      "id": "0057642",
+      "title": "129846795 - Wall coverings, not of textile",
+      "conceptLink": "/ec2/concept/5999146"
+    }
+  },
+  {
+    "uri": "en/27/907985",
+    "id": "907985",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall coverings of cork",
+    "harm": {
+      "id": "0007345",
+      "title": "907985 - Wall coverings of cork",
+      "conceptLink": "/ec2/concept/5958183"
+    }
+  },
+  {
+    "uri": "en/27/907997",
+    "id": "907997",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall coverings of paper",
+    "harm": {
+      "id": "0024752",
+      "title": "907997 - Wall coverings of paper",
+      "conceptLink": "/ec2/concept/5974123"
+    }
+  },
+  {
+    "uri": "en/27/906046",
+    "id": "906046",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall coverings of plastic",
+    "harm": {
+      "id": "0036287",
+      "title": "906046 - Wall coverings of plastic",
+      "conceptLink": "/ec2/concept/5984642"
+    }
+  },
+  {
+    "uri": "en/27/908009",
+    "id": "908009",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall coverings of textile",
+    "harm": {
+      "id": "0057644",
+      "title": "908009 - Wall coverings of textile",
+      "conceptLink": "/ec2/concept/5999148"
+    }
+  },
+  {
+    "uri": "en/27/279469",
+    "id": "279469",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall hangings (non-textile)",
+    "harm": {
+      "id": "0057643",
+      "title": "279469 - Wall hangings (non-textile)",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/132816765",
+    "id": "132816765",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall hangings [non-textile]",
+    "harm": {
+      "id": "0057643",
+      "title": "132816765 - Wall hangings [non-textile]",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/132816766",
+    "id": "132816766",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall hangings, not made of textile",
+    "harm": {
+      "id": "0057643",
+      "title": "132816766 - Wall hangings, not made of textile",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/279472",
+    "id": "279472",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall hangings, not of textile",
+    "harm": {
+      "id": "0057643",
+      "title": "279472 - Wall hangings, not of textile",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/279271",
+    "id": "279271",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall paper",
+    "harm": {
+      "id": "0035782",
+      "title": "279271 - Wall paper",
+      "conceptLink": "/ec2/concept/5984187"
+    }
+  },
+  {
+    "uri": "en/27/889213",
+    "id": "889213",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wall paper of vinyl",
+    "harm": {
+      "id": "0005592",
+      "title": "889213 - Wall paper of vinyl",
+      "conceptLink": "/ec2/concept/5956582"
+    }
+  },
+  {
+    "uri": "en/27/10235076",
+    "id": "10235076",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallcoverings",
+    "harm": {
+      "id": "0056316",
+      "title": "10235076 - Wallcoverings",
+      "conceptLink": "/ec2/concept/5997644"
+    }
+  },
+  {
+    "uri": "en/27/279476",
+    "id": "279476",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallhangings, not of textile",
+    "harm": {
+      "id": "0057643",
+      "title": "279476 - Wallhangings, not of textile",
+      "conceptLink": "/ec2/concept/5999147"
+    }
+  },
+  {
+    "uri": "en/27/279270",
+    "id": "279270",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpaper",
+    "harm": {
+      "id": "0035782",
+      "title": "279270 - Wallpaper",
+      "conceptLink": "/ec2/concept/5984187"
+    }
+  },
+  {
+    "uri": "en/27/119543513",
+    "id": "119543513",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpaper in the nature of roomsize decorative adhesive wall coverings",
+    "harm": {
+      "id": "0067305",
+      "title": "119543513 - Wallpaper in the nature of roomsize decorative adhesive wall coverings",
+      "conceptLink": "/ec2/concept/6003508"
+    }
+  },
+  {
+    "uri": "en/27/232211420",
+    "id": "232211420",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpaper of cork",
+    "harm": {
+      "id": "0071631",
+      "title": "232211420 - Wallpaper of cork",
+      "conceptLink": "/ec2/concept/6007820"
+    }
+  },
+  {
+    "uri": "en/27/232520016",
+    "id": "232520016",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpaper of plastic",
+    "harm": {
+      "id": "0071630",
+      "title": "232520016 - Wallpaper of plastic",
+      "conceptLink": "/ec2/concept/6007819"
+    }
+  },
+  {
+    "uri": "en/27/908014",
+    "id": "908014",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpaper with a textile covering",
+    "harm": {
+      "id": "0030508",
+      "title": "908014 - Wallpaper with a textile covering",
+      "conceptLink": "/ec2/concept/5979396"
+    }
+  },
+  {
+    "uri": "en/27/279269",
+    "id": "279269",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wallpapers",
+    "harm": {
+      "id": "0035782",
+      "title": "279269 - Wallpapers",
+      "conceptLink": "/ec2/concept/5984187"
+    }
+  },
+  {
+    "uri": "en/27/98238504",
+    "id": "98238504",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wooden door mats",
+    "harm": {
+      "id": "0067304",
+      "title": "98238504 - Wooden door mats",
+      "conceptLink": "/ec2/concept/6003507"
+    }
+  },
+  {
+    "uri": "en/27/433653",
+    "id": "433653",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Wrestling mats",
+    "harm": {
+      "id": "0041683",
+      "title": "433653 - Wrestling mats",
+      "conceptLink": "/ec2/concept/5989569"
+    }
+  },
+  {
+    "uri": "en/27/16674355",
+    "id": "16674355",
+    "lang": "en",
+    "classNumber": "27",
+    "term": "Yoga mats",
+    "harm": {
+      "id": "0067303",
+      "title": "16674355 - Yoga mats",
+      "conceptLink": "/ec2/concept/6003506"
+    }
+  },
+  {
+    "uri": "en/28/233421717",
+    "id": "233421717",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Abdomen protectors for athletic use",
+    "harm": {
+      "id": "0073869",
+      "title": "233421717 - Abdomen protectors for athletic use",
+      "conceptLink": "/ec2/concept/6010826"
+    }
+  },
+  {
+    "uri": "en/28/136271604",
+    "id": "136271604",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Abdomen protectors for Taekwondo",
+    "harm": {
+      "id": "0056868",
+      "title": "136271604 - Abdomen protectors for Taekwondo",
+      "conceptLink": "/ec2/concept/5998142"
+    }
+  },
+  {
+    "uri": "en/28/358264",
+    "id": "358264",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Action figure toys",
+    "harm": {
+      "id": "0012291",
+      "title": "358264 - Action figure toys",
+      "conceptLink": "/ec2/concept/5962712"
+    }
+  },
+  {
+    "uri": "en/28/601403",
+    "id": "601403",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Action figures [toys or playthings]",
+    "harm": {
+      "id": "0040850",
+      "title": "601403 - Action figures [toys or playthings]",
+      "conceptLink": "/ec2/concept/5988803"
+    }
+  },
+  {
+    "uri": "en/28/436273",
+    "id": "436273",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Action skill games",
+    "harm": {
+      "id": "0020178",
+      "title": "436273 - Action skill games",
+      "conceptLink": "/ec2/concept/5969923"
+    }
+  },
+  {
+    "uri": "en/28/601416",
+    "id": "601416",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Action toys",
+    "harm": {
+      "id": "0006163",
+      "title": "601416 - Action toys",
+      "conceptLink": "/ec2/concept/5957101"
+    }
+  },
+  {
+    "uri": "en/28/17260824",
+    "id": "17260824",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Aerobic step machines",
+    "harm": {
+      "id": "0067425",
+      "title": "17260824 - Aerobic step machines",
+      "conceptLink": "/ec2/concept/6003628"
+    }
+  },
+  {
+    "uri": "en/28/15126356",
+    "id": "15126356",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Aerobic steps",
+    "harm": {
+      "id": "0067424",
+      "title": "15126356 - Aerobic steps",
+      "conceptLink": "/ec2/concept/6003627"
+    }
+  },
+  {
+    "uri": "en/28/601430",
+    "id": "601430",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Aerosol actuator guns [playthings]",
+    "harm": {
+      "id": "0029274",
+      "title": "601430 - Aerosol actuator guns [playthings]",
+      "conceptLink": "/ec2/concept/5978260"
+    }
+  },
+  {
+    "uri": "en/28/434472",
+    "id": "434472",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Air mattresses for recreational use",
+    "harm": {
+      "id": "0000560",
+      "title": "434472 - Air mattresses for recreational use",
+      "conceptLink": "/ec2/concept/5951992"
+    }
+  },
+  {
+    "uri": "en/28/284610",
+    "id": "284610",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Air pistols [toys]",
+    "harm": {
+      "id": "0002559",
+      "title": "284610 - Air pistols [toys]",
+      "conceptLink": "/ec2/concept/5953792"
+    }
+  },
+  {
+    "uri": "en/28/29858524",
+    "id": "29858524",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "American footballs",
+    "harm": {
+      "id": "0071197",
+      "title": "29858524 - American footballs",
+      "conceptLink": "/ec2/concept/6007389"
+    }
+  },
+  {
+    "uri": "en/28/119698272",
+    "id": "119698272",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Ammunition for paintball guns [sports apparatus]",
+    "harm": {
+      "id": "0057086",
+      "title": "119698272 - Ammunition for paintball guns [sports apparatus]",
+      "conceptLink": "/ec2/concept/5998712"
+    }
+  },
+  {
+    "uri": "en/28/435316",
+    "id": "435316",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Ammunition for paintball guns",
+    "harm": {
+      "id": "0057086",
+      "title": "435316 - Ammunition for paintball guns",
+      "conceptLink": "/ec2/concept/5998712"
+    }
+  },
+  {
+    "uri": "en/28/119543534",
+    "id": "119543534",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement apparatus adapted for use with television receivers only",
+    "harm": {
+      "id": "0056317",
+      "title": "119543534 - Amusement apparatus adapted for use with television receivers only",
+      "conceptLink": "/ec2/concept/5997645"
+    }
+  },
+  {
+    "uri": "en/28/356744",
+    "id": "356744",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement apparatus being coin-operated",
+    "harm": {
+      "id": "0059131",
+      "title": "356744 - Amusement apparatus being coin-operated",
+      "conceptLink": "/ec2/concept/6000622"
+    }
+  },
+  {
+    "uri": "en/28/601443",
+    "id": "601443",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement apparatus for use in arcades",
+    "harm": {
+      "id": "0000374",
+      "title": "601443 - Amusement apparatus for use in arcades",
+      "conceptLink": "/ec2/concept/5951825"
+    }
+  },
+  {
+    "uri": "en/28/3900739",
+    "id": "3900739",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement game machines",
+    "harm": {
+      "id": "0071201",
+      "title": "3900739 - Amusement game machines",
+      "conceptLink": "/ec2/concept/6007393"
+    }
+  },
+  {
+    "uri": "en/28/287153",
+    "id": "287153",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement machines, automatic and coin-operated",
+    "harm": {
+      "id": "0008372",
+      "title": "287153 - Amusement machines, automatic and coin-operated",
+      "conceptLink": "/ec2/concept/5959115"
+    }
+  },
+  {
+    "uri": "en/28/889225",
+    "id": "889225",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Amusement park rides",
+    "harm": {
+      "id": "0045927",
+      "title": "889225 - Amusement park rides",
+      "conceptLink": "/ec2/concept/5993450"
+    }
+  },
+  {
+    "uri": "en/28/601459",
+    "id": "601459",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Angling bank stick supports",
+    "harm": {
+      "id": "0035053",
+      "title": "601459 - Angling bank stick supports",
+      "conceptLink": "/ec2/concept/5983524"
+    }
+  },
+  {
+    "uri": "en/28/601470",
+    "id": "601470",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Angling nets",
+    "harm": {
+      "id": "0029275",
+      "title": "601470 - Angling nets",
+      "conceptLink": "/ec2/concept/5978261"
+    }
+  },
+  {
+    "uri": "en/28/889456",
+    "id": "889456",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Animal replicas as playthings",
+    "harm": {
+      "id": "0016608",
+      "title": "889456 - Animal replicas as playthings",
+      "conceptLink": "/ec2/concept/5966673"
+    }
+  },
+  {
+    "uri": "en/28/438099",
+    "id": "438099",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Ankle and wrist weights for exercise",
+    "harm": {
+      "id": "0014326",
+      "title": "438099 - Ankle and wrist weights for exercise",
+      "conceptLink": "/ec2/concept/5964573"
+    }
+  },
+  {
+    "uri": "en/28/280095",
+    "id": "280095",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for archery",
+    "harm": {
+      "id": "0029276",
+      "title": "280095 - Apparatus for archery",
+      "conceptLink": "/ec2/concept/5978262"
+    }
+  },
+  {
+    "uri": "en/28/601481",
+    "id": "601481",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for corinthian games",
+    "harm": {
+      "id": "0040851",
+      "title": "601481 - Apparatus for corinthian games",
+      "conceptLink": "/ec2/concept/5988804"
+    }
+  },
+  {
+    "uri": "en/28/285076",
+    "id": "285076",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for games",
+    "harm": {
+      "id": "0009466",
+      "title": "285076 - Apparatus for games",
+      "conceptLink": "/ec2/concept/5960124"
+    }
+  },
+  {
+    "uri": "en/28/136832028",
+    "id": "136832028",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for games adapted for use with television receivers",
+    "harm": {
+      "id": "0073086",
+      "title": "136832028 - Apparatus for games adapted for use with television receivers",
+      "conceptLink": "/ec2/concept/6009259"
+    }
+  },
+  {
+    "uri": "en/28/283036",
+    "id": "283036",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for launching clay plates",
+    "harm": {
+      "id": "0011942",
+      "title": "283036 - Apparatus for launching clay plates",
+      "conceptLink": "/ec2/concept/5962392"
+    }
+  },
+  {
+    "uri": "en/28/283035",
+    "id": "283035",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for launching clay pigeons",
+    "harm": {
+      "id": "0011942",
+      "title": "283035 - Apparatus for launching clay pigeons",
+      "conceptLink": "/ec2/concept/5962392"
+    }
+  },
+  {
+    "uri": "en/28/601493",
+    "id": "601493",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Apparatus for use in training for the game of rugby [sporting equipment]",
+    "harm": {
+      "id": "0033618",
+      "title": "601493 - Apparatus for use in training for the game of rugby [sporting equipment]",
+      "conceptLink": "/ec2/concept/5982220"
+    }
+  },
+  {
+    "uri": "en/28/2406297",
+    "id": "2406297",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Appliances for gymnastics",
+    "harm": {
+      "id": "0040756",
+      "title": "2406297 - Appliances for gymnastics",
+      "conceptLink": "/ec2/concept/5988724"
+    }
+  },
+  {
+    "uri": "en/28/132798411",
+    "id": "132798411",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Aquarium fish nets",
+    "harm": {
+      "id": "0067328",
+      "title": "132798411 - Aquarium fish nets",
+      "conceptLink": "/ec2/concept/6003531"
+    }
+  },
+  {
+    "uri": "en/28/2279360",
+    "id": "2279360",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Arcade game machines",
+    "harm": {
+      "id": "0071207",
+      "title": "2279360 - Arcade game machines",
+      "conceptLink": "/ec2/concept/6007399"
+    }
+  },
+  {
+    "uri": "en/28/477905",
+    "id": "477905",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Arcade games",
+    "harm": {
+      "id": "0009919",
+      "title": "477905 - Arcade games",
+      "conceptLink": "/ec2/concept/5960533"
+    }
+  },
+  {
+    "uri": "en/28/124831370",
+    "id": "124831370",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Arcade games (electronic -) [coin or counter operated apparatus]",
+    "harm": {
+      "id": "0004802",
+      "title": "124831370 - Arcade games (electronic -) [coin or counter operated apparatus]",
+      "conceptLink": "/ec2/concept/5955851"
+    }
+  },
+  {
+    "uri": "en/28/232006729",
+    "id": "232006729",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Arcade video game machines with multi-terminals",
+    "harm": {
+      "id": "0027691",
+      "title": "232006729 - Arcade video game machines with multi-terminals",
+      "conceptLink": "/ec2/concept/5976804"
+    }
+  },
+  {
+    "uri": "en/28/911042",
+    "id": "911042",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Arcade video game machines",
+    "harm": {
+      "id": "0027691",
+      "title": "911042 - Arcade video game machines",
+      "conceptLink": "/ec2/concept/5976804"
+    }
+  },
+  {
+    "uri": "en/28/280094",
+    "id": "280094",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery apparatus",
+    "harm": {
+      "id": "0029276",
+      "title": "280094 - Archery apparatus",
+      "conceptLink": "/ec2/concept/5978262"
+    }
+  },
+  {
+    "uri": "en/28/119543555",
+    "id": "119543555",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery arm guards",
+    "harm": {
+      "id": "0067423",
+      "title": "119543555 - Archery arm guards",
+      "conceptLink": "/ec2/concept/6003626"
+    }
+  },
+  {
+    "uri": "en/28/119543557",
+    "id": "119543557",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery arrow points",
+    "harm": {
+      "id": "0067422",
+      "title": "119543557 - Archery arrow points",
+      "conceptLink": "/ec2/concept/6003625"
+    }
+  },
+  {
+    "uri": "en/28/119543560",
+    "id": "119543560",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery bow cases",
+    "harm": {
+      "id": "0067421",
+      "title": "119543560 - Archery bow cases",
+      "conceptLink": "/ec2/concept/6003624"
+    }
+  },
+  {
+    "uri": "en/28/132787666",
+    "id": "132787666",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery bow stringers",
+    "harm": {
+      "id": "0067419",
+      "title": "132787666 - Archery bow stringers",
+      "conceptLink": "/ec2/concept/6003622"
+    }
+  },
+  {
+    "uri": "en/28/280047",
+    "id": "280047",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery bows",
+    "harm": {
+      "id": "0018397",
+      "title": "280047 - Archery bows",
+      "conceptLink": "/ec2/concept/5968295"
+    }
+  },
+  {
+    "uri": "en/28/132787628",
+    "id": "132787628",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery bowstrings",
+    "harm": {
+      "id": "0071271",
+      "title": "132787628 - Archery bowstrings",
+      "conceptLink": "/ec2/concept/6007463"
+    }
+  },
+  {
+    "uri": "en/28/119543568",
+    "id": "119543568",
+    "lang": "en",
+    "classNumber": "28",
+    "term": "Archery finger tabs",
+    "harm": {
+      "id": "0067420",
+      "title": "119543568 - Archery finger tabs",
+      "conceptLink": "/ec2/concept/6003623"
+    }
+  }
+]

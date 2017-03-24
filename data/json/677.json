@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/41953",
+    "id": "41953",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television broadcasting",
+    "harm": {
+      "id": "0059114",
+      "title": "41953 - Television broadcasting",
+      "conceptLink": "/ec2/concept/6000605"
+    }
+  },
+  {
+    "uri": "en/38/120867824",
+    "id": "120867824",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television broadcasting services for mobile phones",
+    "harm": {
+      "id": "0068574",
+      "title": "120867824 - Television broadcasting services for mobile phones",
+      "conceptLink": "/ec2/concept/6004777"
+    }
+  },
+  {
+    "uri": "en/38/41954",
+    "id": "41954",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television broadcasting services",
+    "harm": {
+      "id": "0059114",
+      "title": "41954 - Television broadcasting services",
+      "conceptLink": "/ec2/concept/6000605"
+    }
+  },
+  {
+    "uri": "en/38/369612",
+    "id": "369612",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television programme broadcasting via cable",
+    "harm": {
+      "id": "0014341",
+      "title": "369612 - Television programme broadcasting via cable",
+      "conceptLink": "/ec2/concept/5964587"
+    }
+  },
+  {
+    "uri": "en/38/41956",
+    "id": "41956",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television programme broadcasting",
+    "harm": {
+      "id": "0059114",
+      "title": "41956 - Television programme broadcasting",
+      "conceptLink": "/ec2/concept/6000605"
+    }
+  },
+  {
+    "uri": "en/38/829269",
+    "id": "829269",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television screen based text transmission services",
+    "harm": {
+      "id": "0016543",
+      "title": "829269 - Television screen based text transmission services",
+      "conceptLink": "/ec2/concept/5966612"
+    }
+  },
+  {
+    "uri": "en/38/41955",
+    "id": "41955",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Television transmission services",
+    "harm": {
+      "id": "0059112",
+      "title": "41955 - Television transmission services",
+      "conceptLink": "/ec2/concept/6000603"
+    }
+  },
+  {
+    "uri": "en/38/829282",
+    "id": "829282",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Televisual communication services",
+    "harm": {
+      "id": "0028093",
+      "title": "829282 - Televisual communication services",
+      "conceptLink": "/ec2/concept/5977167"
+    }
+  },
+  {
+    "uri": "en/38/829295",
+    "id": "829295",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Telex bureau services",
+    "harm": {
+      "id": "0005009",
+      "title": "829295 - Telex bureau services",
+      "conceptLink": "/ec2/concept/5956044"
+    }
+  },
+  {
+    "uri": "en/38/829308",
+    "id": "829308",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Telex message communication services",
+    "harm": {
+      "id": "0021431",
+      "title": "829308 - Telex message communication services",
+      "conceptLink": "/ec2/concept/5971068"
+    }
+  },
+  {
+    "uri": "en/38/42411",
+    "id": "42411",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Telex services",
+    "harm": {
+      "id": "0014443",
+      "title": "42411 - Telex services",
+      "conceptLink": "/ec2/concept/5964686"
+    }
+  },
+  {
+    "uri": "en/38/829323",
+    "id": "829323",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Telex transmission",
+    "harm": {
+      "id": "0011552",
+      "title": "829323 - Telex transmission",
+      "conceptLink": "/ec2/concept/5962028"
+    }
+  },
+  {
+    "uri": "en/38/5070223",
+    "id": "5070223",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Text messaging services",
+    "harm": {
+      "id": "0050290",
+      "title": "5070223 - Text messaging services",
+      "conceptLink": "/ec2/concept/5995511"
+    }
+  },
+  {
+    "uri": "en/38/42144",
+    "id": "42144",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Ticker tape services",
+    "harm": {
+      "id": "0025853",
+      "title": "42144 - Ticker tape services",
+      "conceptLink": "/ec2/concept/5975127"
+    }
+  },
+  {
+    "uri": "en/38/829339",
+    "id": "829339",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Tickertape services",
+    "harm": {
+      "id": "0025853",
+      "title": "829339 - Tickertape services",
+      "conceptLink": "/ec2/concept/5975127"
+    }
+  },
+  {
+    "uri": "en/38/829350",
+    "id": "829350",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Time sharing services for communications apparatus",
+    "harm": {
+      "id": "0038617",
+      "title": "829350 - Time sharing services for communications apparatus",
+      "conceptLink": "/ec2/concept/5986771"
+    }
+  },
+  {
+    "uri": "en/38/826460",
+    "id": "826460",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of data by radio",
+    "harm": {
+      "id": "0026398",
+      "title": "826460 - Transfer of data by radio",
+      "conceptLink": "/ec2/concept/5975626"
+    }
+  },
+  {
+    "uri": "en/38/370357",
+    "id": "370357",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of data by telecommunication",
+    "harm": {
+      "id": "0037470",
+      "title": "370357 - Transfer of data by telecommunication",
+      "conceptLink": "/ec2/concept/5985721"
+    }
+  },
+  {
+    "uri": "en/38/370358",
+    "id": "370358",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of data by telecommunications",
+    "harm": {
+      "id": "0037470",
+      "title": "370358 - Transfer of data by telecommunications",
+      "conceptLink": "/ec2/concept/5985721"
+    }
+  },
+  {
+    "uri": "en/38/829365",
+    "id": "829365",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of data by telephone",
+    "harm": {
+      "id": "0032820",
+      "title": "829365 - Transfer of data by telephone",
+      "conceptLink": "/ec2/concept/5981490"
+    }
+  },
+  {
+    "uri": "en/38/120867782",
+    "id": "120867782",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of information and data via online services and the Internet",
+    "harm": {
+      "id": "0068583",
+      "title": "120867782 - Transfer of information and data via online services and the Internet",
+      "conceptLink": "/ec2/concept/6004786"
+    }
+  },
+  {
+    "uri": "en/38/829376",
+    "id": "829376",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of information by radio",
+    "harm": {
+      "id": "0026398",
+      "title": "829376 - Transfer of information by radio",
+      "conceptLink": "/ec2/concept/5975626"
+    }
+  },
+  {
+    "uri": "en/38/829394",
+    "id": "829394",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of information by telephone",
+    "harm": {
+      "id": "0027062",
+      "title": "829394 - Transfer of information by telephone",
+      "conceptLink": "/ec2/concept/5976220"
+    }
+  },
+  {
+    "uri": "en/38/457385",
+    "id": "457385",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transfer of telephone or telecommunications calls",
+    "harm": {
+      "id": "0037479",
+      "title": "457385 - Transfer of telephone or telecommunications calls",
+      "conceptLink": "/ec2/concept/5985728"
+    }
+  },
+  {
+    "uri": "en/38/959704",
+    "id": "959704",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transferring and disseminating information and data via computer networks and the Internet",
+    "harm": {
+      "id": "0068582",
+      "title": "959704 - Transferring and disseminating information and data via computer networks and the Internet",
+      "conceptLink": "/ec2/concept/6004785"
+    }
+  },
+  {
+    "uri": "en/38/120870363",
+    "id": "120870363",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transferring information and data via computer networks and the Internet",
+    "harm": {
+      "id": "0068481",
+      "title": "120870363 - Transferring information and data via computer networks and the Internet",
+      "conceptLink": "/ec2/concept/6004684"
+    }
+  },
+  {
+    "uri": "en/38/120892237",
+    "id": "120892237",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission and distribution of data or audiovisual images via a global computer network or the Internet",
+    "harm": {
+      "id": "0068469",
+      "title": "120892237 - Transmission and distribution of data or audiovisual images via a global computer network or the Internet",
+      "conceptLink": "/ec2/concept/6004672"
+    }
+  },
+  {
+    "uri": "en/38/886942",
+    "id": "886942",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission and receiving by radio",
+    "harm": {
+      "id": "0044392",
+      "title": "886942 - Transmission and receiving by radio",
+      "conceptLink": "/ec2/concept/5992039"
+    }
+  },
+  {
+    "uri": "en/38/504545",
+    "id": "504545",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission and reception [transmission] of database information via the telecommunication network",
+    "harm": {
+      "id": "0001498",
+      "title": "504545 - Transmission and reception [transmission] of database information via the telecommunication network",
+      "conceptLink": "/ec2/concept/5952834"
+    }
+  },
+  {
+    "uri": "en/38/103001770",
+    "id": "103001770",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission and reception of database information via telecommunication networks",
+    "harm": {
+      "id": "0001498",
+      "title": "103001770 - Transmission and reception of database information via telecommunication networks",
+      "conceptLink": "/ec2/concept/5952834"
+    }
+  },
+  {
+    "uri": "en/38/457406",
+    "id": "457406",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission and reception of messages by means of worldwide computer networks",
+    "harm": {
+      "id": "0014350",
+      "title": "457406 - Transmission and reception of messages by means of worldwide computer networks",
+      "conceptLink": "/ec2/concept/5964596"
+    }
+  },
+  {
+    "uri": "en/38/125053219",
+    "id": "125053219",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission (Computer aided -) of images",
+    "harm": {
+      "id": "0012590",
+      "title": "125053219 - Transmission (Computer aided -) of images",
+      "conceptLink": "/ec2/concept/5962985"
+    }
+  },
+  {
+    "uri": "en/38/125053239",
+    "id": "125053239",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission (Computer aided -) of messages",
+    "harm": {
+      "id": "0041502",
+      "title": "125053239 - Transmission (Computer aided -) of messages",
+      "conceptLink": "/ec2/concept/5989403"
+    }
+  },
+  {
+    "uri": "en/38/43105",
+    "id": "43105",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission (Facsimile -)",
+    "harm": {
+      "id": "0023298",
+      "title": "43105 - Transmission (Facsimile -)",
+      "conceptLink": "/ec2/concept/5972775"
+    }
+  },
+  {
+    "uri": "en/38/120870176",
+    "id": "120870176",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of audio and video content via computer networks",
+    "harm": {
+      "id": "0068485",
+      "title": "120870176 - Transmission of audio and video content via computer networks",
+      "conceptLink": "/ec2/concept/6004688"
+    }
+  },
+  {
+    "uri": "en/38/120870183",
+    "id": "120870183",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of audio and video content via satellite",
+    "harm": {
+      "id": "0068487",
+      "title": "120870183 - Transmission of audio and video content via satellite",
+      "conceptLink": "/ec2/concept/6004690"
+    }
+  },
+  {
+    "uri": "en/38/120870350",
+    "id": "120870350",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of audio and video content via ISDN lines",
+    "harm": {
+      "id": "0068484",
+      "title": "120870350 - Transmission of audio and video content via ISDN lines",
+      "conceptLink": "/ec2/concept/6004687"
+    }
+  },
+  {
+    "uri": "en/38/120867830",
+    "id": "120867830",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of audio data via the Internet",
+    "harm": {
+      "id": "0068576",
+      "title": "120867830 - Transmission of audio data via the Internet",
+      "conceptLink": "/ec2/concept/6004779"
+    }
+  },
+  {
+    "uri": "en/38/457427",
+    "id": "457427",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of coded messages and images",
+    "harm": {
+      "id": "0002790",
+      "title": "457427 - Transmission of coded messages and images",
+      "conceptLink": "/ec2/concept/5953998"
+    }
+  },
+  {
+    "uri": "en/38/829482",
+    "id": "829482",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of computerised data by means of radio",
+    "harm": {
+      "id": "0003961",
+      "title": "829482 - Transmission of computerised data by means of radio",
+      "conceptLink": "/ec2/concept/5955073"
+    }
+  },
+  {
+    "uri": "en/38/829494",
+    "id": "829494",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of computerised data by means of television",
+    "harm": {
+      "id": "0038618",
+      "title": "829494 - Transmission of computerised data by means of television",
+      "conceptLink": "/ec2/concept/5986772"
+    }
+  },
+  {
+    "uri": "en/38/455668",
+    "id": "455668",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of computerised documents",
+    "harm": {
+      "id": "0040326",
+      "title": "455668 - Transmission of computerised documents",
+      "conceptLink": "/ec2/concept/5988330"
+    }
+  },
+  {
+    "uri": "en/38/829467",
+    "id": "829467",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of computerised data by means of cable",
+    "harm": {
+      "id": "0044394",
+      "title": "829467 - Transmission of computerised data by means of cable",
+      "conceptLink": "/ec2/concept/5992041"
+    }
+  },
+  {
+    "uri": "en/38/481645",
+    "id": "481645",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data",
+    "harm": {
+      "id": "0025630",
+      "title": "481645 - Transmission of data",
+      "conceptLink": "/ec2/concept/5974922"
+    }
+  },
+  {
+    "uri": "en/38/120867571",
+    "id": "120867571",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data and information by computer and electronic communication means",
+    "harm": {
+      "id": "0068557",
+      "title": "120867571 - Transmission of data and information by computer and electronic communication means",
+      "conceptLink": "/ec2/concept/6004760"
+    }
+  },
+  {
+    "uri": "en/38/120868069",
+    "id": "120868069",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data, audio, video and multimedia files",
+    "harm": {
+      "id": "0068517",
+      "title": "120868069 - Transmission of data, audio, video and multimedia files",
+      "conceptLink": "/ec2/concept/6004720"
+    }
+  },
+  {
+    "uri": "en/38/120868063",
+    "id": "120868063",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data, audio, video and multimedia files, including downloadable files and files streamed over a global computer network",
+    "harm": {
+      "id": "0068518",
+      "title": "120868063 - Transmission of data, audio, video and multimedia files, including downloadable files and files streamed over a global computer network",
+      "conceptLink": "/ec2/concept/6004721"
+    }
+  },
+  {
+    "uri": "en/38/829508",
+    "id": "829508",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by audio-visual apparatus",
+    "harm": {
+      "id": "0044395",
+      "title": "829508 - Transmission of data by audio-visual apparatus",
+      "conceptLink": "/ec2/concept/5992042"
+    }
+  },
+  {
+    "uri": "en/38/829536",
+    "id": "829536",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by communications satellite",
+    "harm": {
+      "id": "0015542",
+      "title": "829536 - Transmission of data by communications satellite",
+      "conceptLink": "/ec2/concept/5965685"
+    }
+  },
+  {
+    "uri": "en/38/481180",
+    "id": "481180",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by computer",
+    "harm": {
+      "id": "0059033",
+      "title": "481180 - Transmission of data by computer",
+      "conceptLink": "/ec2/concept/6000524"
+    }
+  },
+  {
+    "uri": "en/38/829522",
+    "id": "829522",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by cable",
+    "harm": {
+      "id": "0044396",
+      "title": "829522 - Transmission of data by cable",
+      "conceptLink": "/ec2/concept/5992043"
+    }
+  },
+  {
+    "uri": "en/38/829550",
+    "id": "829550",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by electronic means",
+    "harm": {
+      "id": "0015543",
+      "title": "829550 - Transmission of data by electronic means",
+      "conceptLink": "/ec2/concept/5965686"
+    }
+  },
+  {
+    "uri": "en/38/829564",
+    "id": "829564",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by laser beam",
+    "harm": {
+      "id": "0038619",
+      "title": "829564 - Transmission of data by laser beam",
+      "conceptLink": "/ec2/concept/5986773"
+    }
+  },
+  {
+    "uri": "en/38/829577",
+    "id": "829577",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by microwave",
+    "harm": {
+      "id": "0032821",
+      "title": "829577 - Transmission of data by microwave",
+      "conceptLink": "/ec2/concept/5981491"
+    }
+  },
+  {
+    "uri": "en/38/829616",
+    "id": "829616",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by radiopaging",
+    "harm": {
+      "id": "0003962",
+      "title": "829616 - Transmission of data by radiopaging",
+      "conceptLink": "/ec2/concept/5955074"
+    }
+  },
+  {
+    "uri": "en/38/829592",
+    "id": "829592",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by radio",
+    "harm": {
+      "id": "0026398",
+      "title": "829592 - Transmission of data by radio",
+      "conceptLink": "/ec2/concept/5975626"
+    }
+  },
+  {
+    "uri": "en/38/829629",
+    "id": "829629",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by telefacsimile",
+    "harm": {
+      "id": "0027568",
+      "title": "829629 - Transmission of data by telefacsimile",
+      "conceptLink": "/ec2/concept/5976687"
+    }
+  },
+  {
+    "uri": "en/38/370383",
+    "id": "370383",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data by teletypewriter",
+    "harm": {
+      "id": "0020193",
+      "title": "370383 - Transmission of data by teletypewriter",
+      "conceptLink": "/ec2/concept/5969938"
+    }
+  },
+  {
+    "uri": "en/38/120868000",
+    "id": "120868000",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data, messages and information",
+    "harm": {
+      "id": "0068512",
+      "title": "120868000 - Transmission of data, messages and information",
+      "conceptLink": "/ec2/concept/6004715"
+    }
+  },
+  {
+    "uri": "en/38/908272",
+    "id": "908272",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data or audio visual images via a global computer network or the internet",
+    "harm": {
+      "id": "0033310",
+      "title": "908272 - Transmission of data or audio visual images via a global computer network or the internet",
+      "conceptLink": "/ec2/concept/5981940"
+    }
+  },
+  {
+    "uri": "en/38/456940",
+    "id": "456940",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data, sound and images via satellites",
+    "harm": {
+      "id": "0018907",
+      "title": "456940 - Transmission of data, sound and images via satellites",
+      "conceptLink": "/ec2/concept/5968775"
+    }
+  },
+  {
+    "uri": "en/38/456939",
+    "id": "456939",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data, sound and images by satellite",
+    "harm": {
+      "id": "0018907",
+      "title": "456939 - Transmission of data, sound and images by satellite",
+      "conceptLink": "/ec2/concept/5968775"
+    }
+  },
+  {
+    "uri": "en/38/457448",
+    "id": "457448",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data through the use of electronic image processing by telephone link",
+    "harm": {
+      "id": "0020199",
+      "title": "457448 - Transmission of data through the use of electronic image processing by telephone link",
+      "conceptLink": "/ec2/concept/5969944"
+    }
+  },
+  {
+    "uri": "en/38/120870179",
+    "id": "120870179",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data via satellite",
+    "harm": {
+      "id": "0068486",
+      "title": "120870179 - Transmission of data via satellite",
+      "conceptLink": "/ec2/concept/6004689"
+    }
+  },
+  {
+    "uri": "en/38/7973530",
+    "id": "7973530",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data via the Internet",
+    "harm": {
+      "id": "0068577",
+      "title": "7973530 - Transmission of data via the Internet",
+      "conceptLink": "/ec2/concept/6004780"
+    }
+  },
+  {
+    "uri": "en/38/120870353",
+    "id": "120870353",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of data via ISDN lines",
+    "harm": {
+      "id": "0068483",
+      "title": "120870353 - Transmission of data via ISDN lines",
+      "conceptLink": "/ec2/concept/6004686"
+    }
+  },
+  {
+    "uri": "en/38/370394",
+    "id": "370394",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of database information via telecommunications networks",
+    "harm": {
+      "id": "0002786",
+      "title": "370394 - Transmission of database information via telecommunications networks",
+      "conceptLink": "/ec2/concept/5953995"
+    }
+  },
+  {
+    "uri": "en/38/829642",
+    "id": "829642",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of despatches by electronic means",
+    "harm": {
+      "id": "0004499",
+      "title": "829642 - Transmission of despatches by electronic means",
+      "conceptLink": "/ec2/concept/5955571"
+    }
+  },
+  {
+    "uri": "en/38/120868686",
+    "id": "120868686",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of digital audio and video broadcasts over a global computer network",
+    "harm": {
+      "id": "0068588",
+      "title": "120868686 - Transmission of digital audio and video broadcasts over a global computer network",
+      "conceptLink": "/ec2/concept/6004791"
+    }
+  },
+  {
+    "uri": "en/38/911843",
+    "id": "911843",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of digital files",
+    "harm": {
+      "id": "0043128",
+      "title": "911843 - Transmission of digital files",
+      "conceptLink": "/ec2/concept/5990878"
+    }
+  },
+  {
+    "uri": "en/38/487651",
+    "id": "487651",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of digital information",
+    "harm": {
+      "id": "0019934",
+      "title": "487651 - Transmission of digital information",
+      "conceptLink": "/ec2/concept/5969698"
+    }
+  },
+  {
+    "uri": "en/38/829653",
+    "id": "829653",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of documents by facsimile",
+    "harm": {
+      "id": "0033331",
+      "title": "829653 - Transmission of documents by facsimile",
+      "conceptLink": "/ec2/concept/5981959"
+    }
+  },
+  {
+    "uri": "en/38/457468",
+    "id": "457468",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of electronic mail [e-mail data services]",
+    "harm": {
+      "id": "0014351",
+      "title": "457468 - Transmission of electronic mail [e-mail data services]",
+      "conceptLink": "/ec2/concept/5964597"
+    }
+  },
+  {
+    "uri": "en/38/137914974",
+    "id": "137914974",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of electronic mail",
+    "harm": {
+      "id": "0058342",
+      "title": "137914974 - Transmission of electronic mail",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/120868060",
+    "id": "120868060",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of encrypted communications",
+    "harm": {
+      "id": "0068520",
+      "title": "120868060 - Transmission of encrypted communications",
+      "conceptLink": "/ec2/concept/6004723"
+    }
+  },
+  {
+    "uri": "en/38/907760",
+    "id": "907760",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of greeting cards online",
+    "harm": {
+      "id": "0043127",
+      "title": "907760 - Transmission of greeting cards online",
+      "conceptLink": "/ec2/concept/5990877"
+    }
+  },
+  {
+    "uri": "en/38/370481",
+    "id": "370481",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via national and international networks",
+    "harm": {
+      "id": "0024496",
+      "title": "370481 - Transmission of information via national and international networks",
+      "conceptLink": "/ec2/concept/5973879"
+    }
+  },
+  {
+    "uri": "en/38/370451",
+    "id": "370451",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information through video communication systems",
+    "harm": {
+      "id": "0024495",
+      "title": "370451 - Transmission of information through video communication systems",
+      "conceptLink": "/ec2/concept/5973878"
+    }
+  },
+  {
+    "uri": "en/38/829682",
+    "id": "829682",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information for business purposes",
+    "harm": {
+      "id": "0016031",
+      "title": "829682 - Transmission of information for business purposes",
+      "conceptLink": "/ec2/concept/5966149"
+    }
+  },
+  {
+    "uri": "en/38/504559",
+    "id": "504559",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by teletypewriter, by satellite",
+    "harm": {
+      "id": "0013065",
+      "title": "504559 - Transmission of information by teletypewriter, by satellite",
+      "conceptLink": "/ec2/concept/5963413"
+    }
+  },
+  {
+    "uri": "en/38/370422",
+    "id": "370422",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information in the audiovisual field",
+    "harm": {
+      "id": "0012933",
+      "title": "370422 - Transmission of information in the audiovisual field",
+      "conceptLink": "/ec2/concept/5963297"
+    }
+  },
+  {
+    "uri": "en/38/829667",
+    "id": "829667",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information between computers and workstations",
+    "harm": {
+      "id": "0027569",
+      "title": "829667 - Transmission of information between computers and workstations",
+      "conceptLink": "/ec2/concept/5976688"
+    }
+  },
+  {
+    "uri": "en/38/369887",
+    "id": "369887",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via a teleprinter",
+    "harm": {
+      "id": "0036040",
+      "title": "369887 - Transmission of information via a teleprinter",
+      "conceptLink": "/ec2/concept/5984419"
+    }
+  },
+  {
+    "uri": "en/38/369888",
+    "id": "369888",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via teletypewriter",
+    "harm": {
+      "id": "0036040",
+      "title": "369888 - Transmission of information via teletypewriter",
+      "conceptLink": "/ec2/concept/5984419"
+    }
+  },
+  {
+    "uri": "en/38/826501",
+    "id": "826501",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by computer",
+    "harm": {
+      "id": "0059033",
+      "title": "826501 - Transmission of information by computer",
+      "conceptLink": "/ec2/concept/6000524"
+    }
+  },
+  {
+    "uri": "en/38/369931",
+    "id": "369931",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by electronic communications networks",
+    "harm": {
+      "id": "0018733",
+      "title": "369931 - Transmission of information by electronic communications networks",
+      "conceptLink": "/ec2/concept/5968613"
+    }
+  },
+  {
+    "uri": "en/38/370437",
+    "id": "370437",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information on optical telecommunication networks",
+    "harm": {
+      "id": "0018734",
+      "title": "370437 - Transmission of information on optical telecommunication networks",
+      "conceptLink": "/ec2/concept/5968614"
+    }
+  },
+  {
+    "uri": "en/38/827024",
+    "id": "827024",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by electronic mail means",
+    "harm": {
+      "id": "0010211",
+      "title": "827024 - Transmission of information by electronic mail means",
+      "conceptLink": "/ec2/concept/5960798"
+    }
+  },
+  {
+    "uri": "en/38/370465",
+    "id": "370465",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via computers connected to the same telematic network",
+    "harm": {
+      "id": "0030241",
+      "title": "370465 - Transmission of information via computers connected to the same telematic network",
+      "conceptLink": "/ec2/concept/5979149"
+    }
+  },
+  {
+    "uri": "en/38/908274",
+    "id": "908274",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information relating to pharmaceuticals, medicine and hygiene",
+    "harm": {
+      "id": "0033311",
+      "title": "908274 - Transmission of information relating to pharmaceuticals, medicine and hygiene",
+      "conceptLink": "/ec2/concept/5981941"
+    }
+  },
+  {
+    "uri": "en/38/829593",
+    "id": "829593",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by radio",
+    "harm": {
+      "id": "0026398",
+      "title": "829593 - Transmission of information by radio",
+      "conceptLink": "/ec2/concept/5975626"
+    }
+  },
+  {
+    "uri": "en/38/829393",
+    "id": "829393",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by telephone",
+    "harm": {
+      "id": "0027062",
+      "title": "829393 - Transmission of information by telephone",
+      "conceptLink": "/ec2/concept/5976220"
+    }
+  },
+  {
+    "uri": "en/38/487691",
+    "id": "487691",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information on-line",
+    "harm": {
+      "id": "0025631",
+      "title": "487691 - Transmission of information on-line",
+      "conceptLink": "/ec2/concept/5974923"
+    }
+  },
+  {
+    "uri": "en/38/370408",
+    "id": "370408",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by data communications for assisting decision making",
+    "harm": {
+      "id": "0025850",
+      "title": "370408 - Transmission of information by data communications for assisting decision making",
+      "conceptLink": "/ec2/concept/5975125"
+    }
+  },
+  {
+    "uri": "en/38/829696",
+    "id": "829696",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information for domestic purposes",
+    "harm": {
+      "id": "0039146",
+      "title": "829696 - Transmission of information for domestic purposes",
+      "conceptLink": "/ec2/concept/5987242"
+    }
+  },
+  {
+    "uri": "en/38/32469519",
+    "id": "32469519",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via wireless or cable networks",
+    "harm": {
+      "id": "0068581",
+      "title": "32469519 - Transmission of information via wireless or cable networks",
+      "conceptLink": "/ec2/concept/6004784"
+    }
+  },
+  {
+    "uri": "en/38/81027701",
+    "id": "81027701",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information via computer networks",
+    "harm": {
+      "id": "0068480",
+      "title": "81027701 - Transmission of information via computer networks",
+      "conceptLink": "/ec2/concept/6004683"
+    }
+  },
+  {
+    "uri": "en/38/65942127",
+    "id": "65942127",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information and images relating to pharmaceuticals, medicine and hygiene",
+    "harm": {
+      "id": "0056667",
+      "title": "65942127 - Transmission of information and images relating to pharmaceuticals, medicine and hygiene",
+      "conceptLink": "/ec2/concept/5997959"
+    }
+  },
+  {
+    "uri": "en/38/487668",
+    "id": "487668",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of information by electronic means",
+    "harm": {
+      "id": "0046844",
+      "title": "487668 - Transmission of information by electronic means",
+      "conceptLink": "/ec2/concept/5994240"
+    }
+  },
+  {
+    "uri": "en/38/478224",
+    "id": "478224",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Transmission of interactive entertainment software",
+    "harm": {
+      "id": "0000929",
+      "title": "478224 - Transmission of interactive entertainment software",
+      "conceptLink": "/ec2/concept/5952323"
+    }
+  }
+]

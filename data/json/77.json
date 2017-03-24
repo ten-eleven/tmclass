@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/3/233405152",
+    "id": "233405152",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Powder laundry detergents",
+    "harm": {
+      "id": "0047461",
+      "title": "233405152 - Powder laundry detergents",
+      "conceptLink": "/ec2/concept/5994769"
+    }
+  },
+  {
+    "uri": "en/3/76894",
+    "id": "76894",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Powder (Make-up -)",
+    "harm": {
+      "id": "0057776",
+      "title": "76894 - Powder (Make-up -)",
+      "conceptLink": "/ec2/concept/5999280"
+    }
+  },
+  {
+    "uri": "en/3/381264",
+    "id": "381264",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-moistened cosmetic tissues",
+    "harm": {
+      "id": "0040682",
+      "title": "381264 - Pre-moistened cosmetic tissues",
+      "conceptLink": "/ec2/concept/5988659"
+    }
+  },
+  {
+    "uri": "en/3/381265",
+    "id": "381265",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-moistened cosmetic towelettes",
+    "harm": {
+      "id": "0040682",
+      "title": "381265 - Pre-moistened cosmetic towelettes",
+      "conceptLink": "/ec2/concept/5988659"
+    }
+  },
+  {
+    "uri": "en/3/381266",
+    "id": "381266",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-moistened cosmetic wipes",
+    "harm": {
+      "id": "0040682",
+      "title": "381266 - Pre-moistened cosmetic wipes",
+      "conceptLink": "/ec2/concept/5988659"
+    }
+  },
+  {
+    "uri": "en/3/119522786",
+    "id": "119522786",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-moistened towelettes impregnated with dishwashing detergent",
+    "harm": {
+      "id": "0055372",
+      "title": "119522786 - Pre-moistened towelettes impregnated with dishwashing detergent",
+      "conceptLink": "/ec2/concept/5996783"
+    }
+  },
+  {
+    "uri": "en/3/132868609",
+    "id": "132868609",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-moistened towelettes impregnated with a detergent for cleaning",
+    "harm": {
+      "id": "0065064",
+      "title": "132868609 - Pre-moistened towelettes impregnated with a detergent for cleaning",
+      "conceptLink": "/ec2/concept/6001267"
+    }
+  },
+  {
+    "uri": "en/3/913967",
+    "id": "913967",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-shave creams",
+    "harm": {
+      "id": "0026741",
+      "title": "913967 - Pre-shave creams",
+      "conceptLink": "/ec2/concept/5975935"
+    }
+  },
+  {
+    "uri": "en/3/316889",
+    "id": "316889",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-shave foams",
+    "harm": {
+      "id": "0058918",
+      "title": "316889 - Pre-shave foams",
+      "conceptLink": "/ec2/concept/6000409"
+    }
+  },
+  {
+    "uri": "en/3/316935",
+    "id": "316935",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-shave gels",
+    "harm": {
+      "id": "0058394",
+      "title": "316935 - Pre-shave gels",
+      "conceptLink": "/ec2/concept/5999893"
+    }
+  },
+  {
+    "uri": "en/3/662235",
+    "id": "662235",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pre-shaving preparations",
+    "harm": {
+      "id": "0000011",
+      "title": "662235 - Pre-shaving preparations",
+      "conceptLink": "/ec2/concept/5951494"
+    }
+  },
+  {
+    "uri": "en/3/119522776",
+    "id": "119522776",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparation for cleaning dentures",
+    "harm": {
+      "id": "0034644",
+      "title": "119522776 - Preparation for cleaning dentures",
+      "conceptLink": "/ec2/concept/5983153"
+    }
+  },
+  {
+    "uri": "en/3/233157544",
+    "id": "233157544",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations and products for fur care",
+    "harm": {
+      "id": "0072878",
+      "title": "233157544 - Preparations and products for fur care",
+      "conceptLink": "/ec2/concept/6009053"
+    }
+  },
+  {
+    "uri": "en/3/3023491",
+    "id": "3023491",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for cleaning teeth",
+    "harm": {
+      "id": "0058194",
+      "title": "3023491 - Preparations for cleaning teeth",
+      "conceptLink": "/ec2/concept/5999695"
+    }
+  },
+  {
+    "uri": "en/3/4905646",
+    "id": "4905646",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for cleaning the teeth",
+    "harm": {
+      "id": "0058194",
+      "title": "4905646 - Preparations for cleaning the teeth",
+      "conceptLink": "/ec2/concept/5999695"
+    }
+  },
+  {
+    "uri": "en/3/78222",
+    "id": "78222",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for cleaning dentures",
+    "harm": {
+      "id": "0034644",
+      "title": "78222 - Preparations for cleaning dentures",
+      "conceptLink": "/ec2/concept/5983153"
+    }
+  },
+  {
+    "uri": "en/3/73197",
+    "id": "73197",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for permanent hair waves",
+    "harm": {
+      "id": "0035641",
+      "title": "73197 - Preparations for permanent hair waves",
+      "conceptLink": "/ec2/concept/5984060"
+    }
+  },
+  {
+    "uri": "en/3/233158225",
+    "id": "233158225",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for protecting coloured hair",
+    "harm": {
+      "id": "0072913",
+      "title": "233158225 - Preparations for protecting coloured hair",
+      "conceptLink": "/ec2/concept/6009088"
+    }
+  },
+  {
+    "uri": "en/3/120872960",
+    "id": "120872960",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for protecting the hair from the sun",
+    "harm": {
+      "id": "0065072",
+      "title": "120872960 - Preparations for protecting the hair from the sun",
+      "conceptLink": "/ec2/concept/6001275"
+    }
+  },
+  {
+    "uri": "en/3/662240",
+    "id": "662240",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for reinforcing the nails",
+    "harm": {
+      "id": "0017321",
+      "title": "662240 - Preparations for reinforcing the nails",
+      "conceptLink": "/ec2/concept/5967315"
+    }
+  },
+  {
+    "uri": "en/3/380770",
+    "id": "380770",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for setting hair",
+    "harm": {
+      "id": "0008344",
+      "title": "380770 - Preparations for setting hair",
+      "conceptLink": "/ec2/concept/5959089"
+    }
+  },
+  {
+    "uri": "en/3/119622703",
+    "id": "119622703",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for soaking laundry",
+    "harm": {
+      "id": "0011714",
+      "title": "119622703 - Preparations for soaking laundry",
+      "conceptLink": "/ec2/concept/5962177"
+    }
+  },
+  {
+    "uri": "en/3/120911080",
+    "id": "120911080",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for stripping wax from floors",
+    "harm": {
+      "id": "0070833",
+      "title": "120911080 - Preparations for stripping wax from floors",
+      "conceptLink": "/ec2/concept/6007025"
+    }
+  },
+  {
+    "uri": "en/3/19670435",
+    "id": "19670435",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for the care of the body",
+    "harm": {
+      "id": "0060360",
+      "title": "19670435 - Preparations for the care of the body",
+      "conceptLink": "/ec2/concept/5998336"
+    }
+  },
+  {
+    "uri": "en/3/233111630",
+    "id": "233111630",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for the conditioning of the body",
+    "harm": {
+      "id": "0065101",
+      "title": "233111630 - Preparations for the conditioning of the body",
+      "conceptLink": "/ec2/concept/6001304"
+    }
+  },
+  {
+    "uri": "en/3/137788967",
+    "id": "137788967",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for unblocking sinks",
+    "harm": {
+      "id": "0073957",
+      "title": "137788967 - Preparations for unblocking sinks",
+      "conceptLink": "/ec2/concept/6011193"
+    }
+  },
+  {
+    "uri": "en/3/129426265",
+    "id": "129426265",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations for unblocking drain pipes",
+    "harm": {
+      "id": "0021049",
+      "title": "129426265 - Preparations for unblocking drain pipes",
+      "conceptLink": "/ec2/concept/5970722"
+    }
+  },
+  {
+    "uri": "en/3/34205092",
+    "id": "34205092",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations to make shiny the leaves of plants",
+    "harm": {
+      "id": "0019047",
+      "title": "34205092 - Preparations to make shiny the leaves of plants",
+      "conceptLink": "/ec2/concept/5968902"
+    }
+  },
+  {
+    "uri": "en/3/66790117",
+    "id": "66790117",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preparations to make the leaves of plants shiny",
+    "harm": {
+      "id": "0019047",
+      "title": "66790117 - Preparations to make the leaves of plants shiny",
+      "conceptLink": "/ec2/concept/5968902"
+    }
+  },
+  {
+    "uri": "en/3/662251",
+    "id": "662251",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Prepared wax for polishing",
+    "harm": {
+      "id": "0017322",
+      "title": "662251 - Prepared wax for polishing",
+      "conceptLink": "/ec2/concept/5967316"
+    }
+  },
+  {
+    "uri": "en/3/906173",
+    "id": "906173",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preservative creams for leather",
+    "harm": {
+      "id": "0027096",
+      "title": "906173 - Preservative creams for leather",
+      "conceptLink": "/ec2/concept/5976246"
+    }
+  },
+  {
+    "uri": "en/3/10191505",
+    "id": "10191505",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preservatives for leather",
+    "harm": {
+      "id": "0057175",
+      "title": "10191505 - Preservatives for leather",
+      "conceptLink": "/ec2/concept/5998793"
+    }
+  },
+  {
+    "uri": "en/3/74033",
+    "id": "74033",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Preservatives for leather [polishes]",
+    "harm": {
+      "id": "0057175",
+      "title": "74033 - Preservatives for leather [polishes]",
+      "conceptLink": "/ec2/concept/5998793"
+    }
+  },
+  {
+    "uri": "en/3/316843",
+    "id": "316843",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pressed face powder",
+    "harm": {
+      "id": "0009409",
+      "title": "316843 - Pressed face powder",
+      "conceptLink": "/ec2/concept/5960073"
+    }
+  },
+  {
+    "uri": "en/3/233158161",
+    "id": "233158161",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Products for protecting coloured hair",
+    "harm": {
+      "id": "0072900",
+      "title": "233158161 - Products for protecting coloured hair",
+      "conceptLink": "/ec2/concept/6009075"
+    }
+  },
+  {
+    "uri": "en/3/76817",
+    "id": "76817",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pumice stone",
+    "harm": {
+      "id": "0006470",
+      "title": "76817 - Pumice stone",
+      "conceptLink": "/ec2/concept/5957380"
+    }
+  },
+  {
+    "uri": "en/3/906519",
+    "id": "906519",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pumice stones for personal use",
+    "harm": {
+      "id": "0029334",
+      "title": "906519 - Pumice stones for personal use",
+      "conceptLink": "/ec2/concept/5978313"
+    }
+  },
+  {
+    "uri": "en/3/662265",
+    "id": "662265",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Pumice stones for use on the body",
+    "harm": {
+      "id": "0016118",
+      "title": "662265 - Pumice stones for use on the body",
+      "conceptLink": "/ec2/concept/5966229"
+    }
+  },
+  {
+    "uri": "en/3/75372",
+    "id": "75372",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Quillaia bark for washing",
+    "harm": {
+      "id": "0005953",
+      "title": "75372 - Quillaia bark for washing",
+      "conceptLink": "/ec2/concept/5956904"
+    }
+  },
+  {
+    "uri": "en/3/74429",
+    "id": "74429",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Razor strops (Pastes for -)",
+    "harm": {
+      "id": "0033807",
+      "title": "74429 - Razor strops (Pastes for -)",
+      "conceptLink": "/ec2/concept/5982399"
+    }
+  },
+  {
+    "uri": "en/3/137609697",
+    "id": "137609697",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Reed diffusers",
+    "harm": {
+      "id": "0072477",
+      "title": "137609697 - Reed diffusers",
+      "conceptLink": "/ec2/concept/6008654"
+    }
+  },
+  {
+    "uri": "en/3/233107864",
+    "id": "233107864",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for body cleansing product dispensers",
+    "harm": {
+      "id": "0072451",
+      "title": "233107864 - Refill packs for body cleansing product dispensers",
+      "conceptLink": "/ec2/concept/6008630"
+    }
+  },
+  {
+    "uri": "en/3/233107877",
+    "id": "233107877",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for cosmetics dispensers",
+    "harm": {
+      "id": "0072455",
+      "title": "233107877 - Refill packs for cosmetics dispensers",
+      "conceptLink": "/ec2/concept/6008634"
+    }
+  },
+  {
+    "uri": "en/3/233107875",
+    "id": "233107875",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for hair fixer dispensers",
+    "harm": {
+      "id": "0072454",
+      "title": "233107875 - Refill packs for hair fixer dispensers",
+      "conceptLink": "/ec2/concept/6008633"
+    }
+  },
+  {
+    "uri": "en/3/233107873",
+    "id": "233107873",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for hand soap dispensers",
+    "harm": {
+      "id": "0072453",
+      "title": "233107873 - Refill packs for hand soap dispensers",
+      "conceptLink": "/ec2/concept/6008632"
+    }
+  },
+  {
+    "uri": "en/3/233107862",
+    "id": "233107862",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for shampoo dispensers",
+    "harm": {
+      "id": "0072450",
+      "title": "233107862 - Refill packs for shampoo dispensers",
+      "conceptLink": "/ec2/concept/6008629"
+    }
+  },
+  {
+    "uri": "en/3/233107871",
+    "id": "233107871",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for shower gel dispensers",
+    "harm": {
+      "id": "0072452",
+      "title": "233107871 - Refill packs for shower gel dispensers",
+      "conceptLink": "/ec2/concept/6008631"
+    }
+  },
+  {
+    "uri": "en/3/233107860",
+    "id": "233107860",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refill packs for skin care cream dispensers",
+    "harm": {
+      "id": "0072449",
+      "title": "233107860 - Refill packs for skin care cream dispensers",
+      "conceptLink": "/ec2/concept/6008628"
+    }
+  },
+  {
+    "uri": "en/3/119522794",
+    "id": "119522794",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Refills for electric room fragrance dispensers",
+    "harm": {
+      "id": "0065120",
+      "title": "119522794 - Refills for electric room fragrance dispensers",
+      "conceptLink": "/ec2/concept/6001323"
+    }
+  },
+  {
+    "uri": "en/3/137613587",
+    "id": "137613587",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Removable tattoos for cosmetic purposes",
+    "harm": {
+      "id": "0024692",
+      "title": "137613587 - Removable tattoos for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5974067"
+    }
+  },
+  {
+    "uri": "en/3/78788",
+    "id": "78788",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Removers (Floor wax -) [scouring preparations]",
+    "harm": {
+      "id": "0043459",
+      "title": "78788 - Removers (Floor wax -) [scouring preparations]",
+      "conceptLink": "/ec2/concept/5991183"
+    }
+  },
+  {
+    "uri": "en/3/79890971",
+    "id": "79890971",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Retinol cream for cosmetic purposes",
+    "harm": {
+      "id": "0055373",
+      "title": "79890971 - Retinol cream for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5996784"
+    }
+  },
+  {
+    "uri": "en/3/662277",
+    "id": "662277",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rinse aids",
+    "harm": {
+      "id": "0022052",
+      "title": "662277 - Rinse aids",
+      "conceptLink": "/ec2/concept/5971641"
+    }
+  },
+  {
+    "uri": "en/3/120872260",
+    "id": "120872260",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rinsing agents for laundry",
+    "harm": {
+      "id": "0070823",
+      "title": "120872260 - Rinsing agents for laundry",
+      "conceptLink": "/ec2/concept/6007015"
+    }
+  },
+  {
+    "uri": "en/3/662293",
+    "id": "662293",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rinsing aids for use when washing clothes",
+    "harm": {
+      "id": "0039227",
+      "title": "662293 - Rinsing aids for use when washing clothes",
+      "conceptLink": "/ec2/concept/5987322"
+    }
+  },
+  {
+    "uri": "en/3/662305",
+    "id": "662305",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Roll-on deodorants [toiletries]",
+    "harm": {
+      "id": "0033418",
+      "title": "662305 - Roll-on deodorants [toiletries]",
+      "conceptLink": "/ec2/concept/5982042"
+    }
+  },
+  {
+    "uri": "en/3/381301",
+    "id": "381301",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room fragrances",
+    "harm": {
+      "id": "0002018",
+      "title": "381301 - Room fragrances",
+      "conceptLink": "/ec2/concept/5953305"
+    }
+  },
+  {
+    "uri": "en/3/662319",
+    "id": "662319",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room fragrancing preparations",
+    "harm": {
+      "id": "0033419",
+      "title": "662319 - Room fragrancing preparations",
+      "conceptLink": "/ec2/concept/5982043"
+    }
+  },
+  {
+    "uri": "en/3/381302",
+    "id": "381302",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room fragrancing products",
+    "harm": {
+      "id": "0002018",
+      "title": "381302 - Room fragrancing products",
+      "conceptLink": "/ec2/concept/5953305"
+    }
+  },
+  {
+    "uri": "en/3/477526",
+    "id": "477526",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room perfume sprays",
+    "harm": {
+      "id": "0003442",
+      "title": "477526 - Room perfume sprays",
+      "conceptLink": "/ec2/concept/5954598"
+    }
+  },
+  {
+    "uri": "en/3/662334",
+    "id": "662334",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room perfumes in spray form",
+    "harm": {
+      "id": "0027654",
+      "title": "662334 - Room perfumes in spray form",
+      "conceptLink": "/ec2/concept/5976769"
+    }
+  },
+  {
+    "uri": "en/3/477525",
+    "id": "477525",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Room scenting sprays",
+    "harm": {
+      "id": "0003442",
+      "title": "477525 - Room scenting sprays",
+      "conceptLink": "/ec2/concept/5954598"
+    }
+  },
+  {
+    "uri": "en/3/76113",
+    "id": "76113",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rose oil",
+    "harm": {
+      "id": "0042064",
+      "title": "76113 - Rose oil",
+      "conceptLink": "/ec2/concept/5989914"
+    }
+  },
+  {
+    "uri": "en/3/316859",
+    "id": "316859",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rose oil for cosmetic purposes",
+    "harm": {
+      "id": "0032519",
+      "title": "316859 - Rose oil for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5981216"
+    }
+  },
+  {
+    "uri": "en/3/1081015",
+    "id": "1081015",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rouge",
+    "harm": {
+      "id": "0026742",
+      "title": "1081015 - Rouge",
+      "conceptLink": "/ec2/concept/5975936"
+    }
+  },
+  {
+    "uri": "en/3/71601",
+    "id": "71601",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rouge (Jewellers' -)",
+    "harm": {
+      "id": "0011440",
+      "title": "71601 - Rouge (Jewellers' -)",
+      "conceptLink": "/ec2/concept/5961923"
+    }
+  },
+  {
+    "uri": "en/3/71943",
+    "id": "71943",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rouges",
+    "harm": {
+      "id": "0026742",
+      "title": "71943 - Rouges",
+      "conceptLink": "/ec2/concept/5975936"
+    }
+  },
+  {
+    "uri": "en/3/77666",
+    "id": "77666",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rust removers",
+    "harm": {
+      "id": "0023654",
+      "title": "77666 - Rust removers",
+      "conceptLink": "/ec2/concept/5973103"
+    }
+  },
+  {
+    "uri": "en/3/77665",
+    "id": "77665",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Rust removing preparations",
+    "harm": {
+      "id": "0023654",
+      "title": "77665 - Rust removing preparations",
+      "conceptLink": "/ec2/concept/5973103"
+    }
+  },
+  {
+    "uri": "en/3/77057",
+    "id": "77057",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sachets for perfuming linen",
+    "harm": {
+      "id": "0025524",
+      "title": "77057 - Sachets for perfuming linen",
+      "conceptLink": "/ec2/concept/5974829"
+    }
+  },
+  {
+    "uri": "en/3/381329",
+    "id": "381329",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Saddle soap",
+    "harm": {
+      "id": "0017545",
+      "title": "381329 - Saddle soap",
+      "conceptLink": "/ec2/concept/5967517"
+    }
+  },
+  {
+    "uri": "en/3/77093",
+    "id": "77093",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Safrol",
+    "harm": {
+      "id": "0016085",
+      "title": "77093 - Safrol",
+      "conceptLink": "/ec2/concept/5966198"
+    }
+  },
+  {
+    "uri": "en/3/662346",
+    "id": "662346",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Salt crystal removers",
+    "harm": {
+      "id": "0022053",
+      "title": "662346 - Salt crystal removers",
+      "conceptLink": "/ec2/concept/5971642"
+    }
+  },
+  {
+    "uri": "en/3/662360",
+    "id": "662360",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Salves [non-medicated]",
+    "harm": {
+      "id": "0016119",
+      "title": "662360 - Salves [non-medicated]",
+      "conceptLink": "/ec2/concept/5966230"
+    }
+  },
+  {
+    "uri": "en/3/77403",
+    "id": "77403",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sandcloth",
+    "harm": {
+      "id": "0071821",
+      "title": "77403 - Sandcloth",
+      "conceptLink": "/ec2/concept/6008008"
+    }
+  },
+  {
+    "uri": "en/3/120911071",
+    "id": "120911071",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sanding gloves",
+    "harm": {
+      "id": "0065140",
+      "title": "120911071 - Sanding gloves",
+      "conceptLink": "/ec2/concept/6001343"
+    }
+  },
+  {
+    "uri": "en/3/74882",
+    "id": "74882",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sandpaper",
+    "harm": {
+      "id": "0058391",
+      "title": "74882 - Sandpaper",
+      "conceptLink": "/ec2/concept/5999890"
+    }
+  },
+  {
+    "uri": "en/3/120834664",
+    "id": "120834664",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sandpaper for sharpening drawing pencils",
+    "harm": {
+      "id": "0065127",
+      "title": "120834664 - Sandpaper for sharpening drawing pencils",
+      "conceptLink": "/ec2/concept/6001330"
+    }
+  },
+  {
+    "uri": "en/3/120834661",
+    "id": "120834661",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sandpaper pads for sharpening drawing pencils",
+    "harm": {
+      "id": "0065126",
+      "title": "120834661 - Sandpaper pads for sharpening drawing pencils",
+      "conceptLink": "/ec2/concept/6001329"
+    }
+  },
+  {
+    "uri": "en/3/5623453",
+    "id": "5623453",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sanitary preparations being toiletries",
+    "harm": {
+      "id": "0065065",
+      "title": "5623453 - Sanitary preparations being toiletries",
+      "conceptLink": "/ec2/concept/6001268"
+    }
+  },
+  {
+    "uri": "en/3/74783",
+    "id": "74783",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scale removing preparations for household purposes",
+    "harm": {
+      "id": "0019392",
+      "title": "74783 - Scale removing preparations for household purposes",
+      "conceptLink": "/ec2/concept/5969212"
+    }
+  },
+  {
+    "uri": "en/3/124891174",
+    "id": "124891174",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scalp treatments (Non-medicated -)",
+    "harm": {
+      "id": "0033420",
+      "title": "124891174 - Scalp treatments (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5982044"
+    }
+  },
+  {
+    "uri": "en/3/119522815",
+    "id": "119522815",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented bathing salts",
+    "harm": {
+      "id": "0055374",
+      "title": "119522815 - Scented bathing salts",
+      "conceptLink": "/ec2/concept/5996785"
+    }
+  },
+  {
+    "uri": "en/3/137737330",
+    "id": "137737330",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented body creams",
+    "harm": {
+      "id": "0070626",
+      "title": "137737330 - Scented body creams",
+      "conceptLink": "/ec2/concept/6006818"
+    }
+  },
+  {
+    "uri": "en/3/43637596",
+    "id": "43637596",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented body lotions",
+    "harm": {
+      "id": "0070627",
+      "title": "43637596 - Scented body lotions",
+      "conceptLink": "/ec2/concept/6006819"
+    }
+  },
+  {
+    "uri": "en/3/26408491",
+    "id": "26408491",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented body lotions and creams",
+    "harm": {
+      "id": "0065110",
+      "title": "26408491 - Scented body lotions and creams",
+      "conceptLink": "/ec2/concept/6001313"
+    }
+  },
+  {
+    "uri": "en/3/381344",
+    "id": "381344",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented body spray",
+    "harm": {
+      "id": "0006015",
+      "title": "381344 - Scented body spray",
+      "conceptLink": "/ec2/concept/5956964"
+    }
+  },
+  {
+    "uri": "en/3/907111",
+    "id": "907111",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented ceramic stones",
+    "harm": {
+      "id": "0021436",
+      "title": "907111 - Scented ceramic stones",
+      "conceptLink": "/ec2/concept/5971072"
+    }
+  },
+  {
+    "uri": "en/3/120867012",
+    "id": "120867012",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented fabric refresher sprays",
+    "harm": {
+      "id": "0065109",
+      "title": "120867012 - Scented fabric refresher sprays",
+      "conceptLink": "/ec2/concept/6001312"
+    }
+  },
+  {
+    "uri": "en/3/381366",
+    "id": "381366",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented linen sprays",
+    "harm": {
+      "id": "0011789",
+      "title": "381366 - Scented linen sprays",
+      "conceptLink": "/ec2/concept/5962248"
+    }
+  },
+  {
+    "uri": "en/3/119522821",
+    "id": "119522821",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented linen water",
+    "harm": {
+      "id": "0065108",
+      "title": "119522821 - Scented linen water",
+      "conceptLink": "/ec2/concept/6001311"
+    }
+  },
+  {
+    "uri": "en/3/381383",
+    "id": "381383",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented oils",
+    "harm": {
+      "id": "0057875",
+      "title": "381383 - Scented oils",
+      "conceptLink": "/ec2/concept/5999379"
+    }
+  },
+  {
+    "uri": "en/3/381402",
+    "id": "381402",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented oils used to produce aromas when heated",
+    "harm": {
+      "id": "0023389",
+      "title": "381402 - Scented oils used to produce aromas when heated",
+      "conceptLink": "/ec2/concept/5972863"
+    }
+  },
+  {
+    "uri": "en/3/381415",
+    "id": "381415",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented pine cones",
+    "harm": {
+      "id": "0027725",
+      "title": "381415 - Scented pine cones",
+      "conceptLink": "/ec2/concept/5976834"
+    }
+  },
+  {
+    "uri": "en/3/3947639",
+    "id": "3947639",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented room sprays",
+    "harm": {
+      "id": "0003442",
+      "title": "3947639 - Scented room sprays",
+      "conceptLink": "/ec2/concept/5954598"
+    }
+  },
+  {
+    "uri": "en/3/380573",
+    "id": "380573",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented sachets",
+    "harm": {
+      "id": "0018939",
+      "title": "380573 - Scented sachets",
+      "conceptLink": "/ec2/concept/5968803"
+    }
+  },
+  {
+    "uri": "en/3/30234249",
+    "id": "30234249",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented soaps",
+    "harm": {
+      "id": "0070628",
+      "title": "30234249 - Scented soaps",
+      "conceptLink": "/ec2/concept/6006820"
+    }
+  },
+  {
+    "uri": "en/3/662092",
+    "id": "662092",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented toilet waters",
+    "harm": {
+      "id": "0014566",
+      "title": "662092 - Scented toilet waters",
+      "conceptLink": "/ec2/concept/5964796"
+    }
+  },
+  {
+    "uri": "en/3/75252",
+    "id": "75252",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented water",
+    "harm": {
+      "id": "0046716",
+      "title": "75252 - Scented water",
+      "conceptLink": "/ec2/concept/5994126"
+    }
+  },
+  {
+    "uri": "en/3/72497",
+    "id": "72497",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scented wood",
+    "harm": {
+      "id": "0029373",
+      "title": "72497 - Scented wood",
+      "conceptLink": "/ec2/concept/5978348"
+    }
+  }
+]

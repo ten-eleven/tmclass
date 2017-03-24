@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/6/105083",
+    "id": "105083",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal foil",
+    "harm": {
+      "id": "0057899",
+      "title": "105083 - Metal foil",
+      "conceptLink": "/ec2/concept/5999403"
+    }
+  },
+  {
+    "uri": "en/6/516324",
+    "id": "516324",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal foil for cooking",
+    "harm": {
+      "id": "0001453",
+      "title": "516324 - Metal foil for cooking",
+      "conceptLink": "/ec2/concept/5952796"
+    }
+  },
+  {
+    "uri": "en/6/518168",
+    "id": "518168",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal foil for wrapping purposes",
+    "harm": {
+      "id": "0030355",
+      "title": "518168 - Metal foil for wrapping purposes",
+      "conceptLink": "/ec2/concept/5979253"
+    }
+  },
+  {
+    "uri": "en/6/119525016",
+    "id": "119525016",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal folding doors",
+    "harm": {
+      "id": "0060378",
+      "title": "119525016 - Metal folding doors",
+      "conceptLink": "/ec2/concept/5998354"
+    }
+  },
+  {
+    "uri": "en/6/385283",
+    "id": "385283",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal forgings",
+    "harm": {
+      "id": "0004136",
+      "title": "385283 - Metal forgings",
+      "conceptLink": "/ec2/concept/5955229"
+    }
+  },
+  {
+    "uri": "en/6/96546",
+    "id": "96546",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal framed buildings",
+    "harm": {
+      "id": "0036963",
+      "title": "96546 - Metal framed buildings",
+      "conceptLink": "/ec2/concept/5985262"
+    }
+  },
+  {
+    "uri": "en/6/107169",
+    "id": "107169",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal framed greenhouses",
+    "harm": {
+      "id": "0031104",
+      "title": "107169 - Metal framed greenhouses",
+      "conceptLink": "/ec2/concept/5979941"
+    }
+  },
+  {
+    "uri": "en/6/518200",
+    "id": "518200",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal framed suspended ceilings",
+    "harm": {
+      "id": "0036964",
+      "title": "518200 - Metal framed suspended ceilings",
+      "conceptLink": "/ec2/concept/5985263"
+    }
+  },
+  {
+    "uri": "en/6/516418",
+    "id": "516418",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal frames",
+    "harm": {
+      "id": "0034938",
+      "title": "516418 - Metal frames",
+      "conceptLink": "/ec2/concept/5983421"
+    }
+  },
+  {
+    "uri": "en/6/107843",
+    "id": "107843",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal frameworks",
+    "harm": {
+      "id": "0034938",
+      "title": "107843 - Metal frameworks",
+      "conceptLink": "/ec2/concept/5983421"
+    }
+  },
+  {
+    "uri": "en/6/385298",
+    "id": "385298",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal fuel oil hoses",
+    "harm": {
+      "id": "0038750",
+      "title": "385298 - Metal fuel oil hoses",
+      "conceptLink": "/ec2/concept/5986889"
+    }
+  },
+  {
+    "uri": "en/6/385310",
+    "id": "385310",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal garage door rollers",
+    "harm": {
+      "id": "0027205",
+      "title": "385310 - Metal garage door rollers",
+      "conceptLink": "/ec2/concept/5976345"
+    }
+  },
+  {
+    "uri": "en/6/385329",
+    "id": "385329",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal garage doors",
+    "harm": {
+      "id": "0044073",
+      "title": "385329 - Metal garage doors",
+      "conceptLink": "/ec2/concept/5991749"
+    }
+  },
+  {
+    "uri": "en/6/385357",
+    "id": "385357",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal garden stakes",
+    "harm": {
+      "id": "0004137",
+      "title": "385357 - Metal garden stakes",
+      "conceptLink": "/ec2/concept/5955230"
+    }
+  },
+  {
+    "uri": "en/6/101976",
+    "id": "101976",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal garment hooks",
+    "harm": {
+      "id": "0059137",
+      "title": "101976 - Metal garment hooks",
+      "conceptLink": "/ec2/concept/6000628"
+    }
+  },
+  {
+    "uri": "en/6/518215",
+    "id": "518215",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gas pipe parts",
+    "harm": {
+      "id": "0000275",
+      "title": "518215 - Metal gas pipe parts",
+      "conceptLink": "/ec2/concept/5951740"
+    }
+  },
+  {
+    "uri": "en/6/119525032",
+    "id": "119525032",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gate hooks and eyes",
+    "harm": {
+      "id": "0065498",
+      "title": "119525032 - Metal gate hooks and eyes",
+      "conceptLink": "/ec2/concept/6001701"
+    }
+  },
+  {
+    "uri": "en/6/120861684",
+    "id": "120861684",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gate latches",
+    "harm": {
+      "id": "0070867",
+      "title": "120861684 - Metal gate latches",
+      "conceptLink": "/ec2/concept/6007059"
+    }
+  },
+  {
+    "uri": "en/6/97896",
+    "id": "97896",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gates",
+    "harm": {
+      "id": "0008563",
+      "title": "97896 - Metal gates",
+      "conceptLink": "/ec2/concept/5959288"
+    }
+  },
+  {
+    "uri": "en/6/38026953",
+    "id": "38026953",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gazebos",
+    "harm": {
+      "id": "0070862",
+      "title": "38026953 - Metal gazebos",
+      "conceptLink": "/ec2/concept/6007054"
+    }
+  },
+  {
+    "uri": "en/6/106225",
+    "id": "106225",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal goods for use in building",
+    "harm": {
+      "id": "0029157",
+      "title": "106225 - Metal goods for use in building",
+      "conceptLink": "/ec2/concept/5978158"
+    }
+  },
+  {
+    "uri": "en/6/518230",
+    "id": "518230",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal goods for use in construction",
+    "harm": {
+      "id": "0011833",
+      "title": "518230 - Metal goods for use in construction",
+      "conceptLink": "/ec2/concept/5962286"
+    }
+  },
+  {
+    "uri": "en/6/102685",
+    "id": "102685",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gratings",
+    "harm": {
+      "id": "0023447",
+      "title": "102685 - Metal gratings",
+      "conceptLink": "/ec2/concept/5972915"
+    }
+  },
+  {
+    "uri": "en/6/107168",
+    "id": "107168",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal greenhouse frames",
+    "harm": {
+      "id": "0031104",
+      "title": "107168 - Metal greenhouse frames",
+      "conceptLink": "/ec2/concept/5979941"
+    }
+  },
+  {
+    "uri": "en/6/319391",
+    "id": "319391",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal greenhouses",
+    "harm": {
+      "id": "0034224",
+      "title": "319391 - Metal greenhouses",
+      "conceptLink": "/ec2/concept/5982776"
+    }
+  },
+  {
+    "uri": "en/6/102683",
+    "id": "102683",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal grids",
+    "harm": {
+      "id": "0023447",
+      "title": "102683 - Metal grids",
+      "conceptLink": "/ec2/concept/5972915"
+    }
+  },
+  {
+    "uri": "en/6/97488",
+    "id": "97488",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal guard rails",
+    "harm": {
+      "id": "0030871",
+      "title": "97488 - Metal guard rails",
+      "conceptLink": "/ec2/concept/5979734"
+    }
+  },
+  {
+    "uri": "en/6/233393169",
+    "id": "233393169",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal guardrails",
+    "harm": {
+      "id": "0030871",
+      "title": "233393169 - Metal guardrails",
+      "conceptLink": "/ec2/concept/5979734"
+    }
+  },
+  {
+    "uri": "en/6/385059",
+    "id": "385059",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal gutter pipes",
+    "harm": {
+      "id": "0014221",
+      "title": "385059 - Metal gutter pipes",
+      "conceptLink": "/ec2/concept/5964476"
+    }
+  },
+  {
+    "uri": "en/6/385378",
+    "id": "385378",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal handles",
+    "harm": {
+      "id": "0027699",
+      "title": "385378 - Metal handles",
+      "conceptLink": "/ec2/concept/5976812"
+    }
+  },
+  {
+    "uri": "en/6/1128675",
+    "id": "1128675",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hardware",
+    "harm": {
+      "id": "0018703",
+      "title": "1128675 - Metal hardware",
+      "conceptLink": "/ec2/concept/5968584"
+    }
+  },
+  {
+    "uri": "en/6/517441",
+    "id": "517441",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hardware for buildings",
+    "harm": {
+      "id": "0006061",
+      "title": "517441 - Metal hardware for buildings",
+      "conceptLink": "/ec2/concept/5957005"
+    }
+  },
+  {
+    "uri": "en/6/14621488",
+    "id": "14621488",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal heating ducts",
+    "harm": {
+      "id": "0065527",
+      "title": "14621488 - Metal heating ducts",
+      "conceptLink": "/ec2/concept/6001730"
+    }
+  },
+  {
+    "uri": "en/6/233996744",
+    "id": "233996744",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hexagon head bolts",
+    "harm": {
+      "id": "0074121",
+      "title": "233996744 - Metal hexagon head bolts",
+      "conceptLink": "/ec2/concept/6011357"
+    }
+  },
+  {
+    "uri": "en/6/905249",
+    "id": "905249",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hinges",
+    "harm": {
+      "id": "0018304",
+      "title": "905249 - Metal hinges",
+      "conceptLink": "/ec2/concept/5968211"
+    }
+  },
+  {
+    "uri": "en/6/385454",
+    "id": "385454",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal holders for signboards",
+    "harm": {
+      "id": "0026292",
+      "title": "385454 - Metal holders for signboards",
+      "conceptLink": "/ec2/concept/5975532"
+    }
+  },
+  {
+    "uri": "en/6/98064",
+    "id": "98064",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hooks",
+    "harm": {
+      "id": "0059075",
+      "title": "98064 - Metal hooks",
+      "conceptLink": "/ec2/concept/6000566"
+    }
+  },
+  {
+    "uri": "en/6/319405",
+    "id": "319405",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hose clamps",
+    "harm": {
+      "id": "0028433",
+      "title": "319405 - Metal hose clamps",
+      "conceptLink": "/ec2/concept/5977486"
+    }
+  },
+  {
+    "uri": "en/6/70065959",
+    "id": "70065959",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hose fittings",
+    "harm": {
+      "id": "0065526",
+      "title": "70065959 - Metal hose fittings",
+      "conceptLink": "/ec2/concept/6001729"
+    }
+  },
+  {
+    "uri": "en/6/385478",
+    "id": "385478",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hoses for agricultural use",
+    "harm": {
+      "id": "0010348",
+      "title": "385478 - Metal hoses for agricultural use",
+      "conceptLink": "/ec2/concept/5960924"
+    }
+  },
+  {
+    "uri": "en/6/385490",
+    "id": "385490",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hoses for plumbing use",
+    "harm": {
+      "id": "0004637",
+      "title": "385490 - Metal hoses for plumbing use",
+      "conceptLink": "/ec2/concept/5955698"
+    }
+  },
+  {
+    "uri": "en/6/385503",
+    "id": "385503",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal hoses for swimming pools",
+    "harm": {
+      "id": "0016171",
+      "title": "385503 - Metal hoses for swimming pools",
+      "conceptLink": "/ec2/concept/5966277"
+    }
+  },
+  {
+    "uri": "en/6/385515",
+    "id": "385515",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal house numbers",
+    "harm": {
+      "id": "0039278",
+      "title": "385515 - Metal house numbers",
+      "conceptLink": "/ec2/concept/5987368"
+    }
+  },
+  {
+    "uri": "en/6/385531",
+    "id": "385531",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal identification bands for blood collection systems",
+    "harm": {
+      "id": "0033465",
+      "title": "385531 - Metal identification bands for blood collection systems",
+      "conceptLink": "/ec2/concept/5982083"
+    }
+  },
+  {
+    "uri": "en/6/385543",
+    "id": "385543",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal identification bracelets",
+    "harm": {
+      "id": "0027700",
+      "title": "385543 - Metal identification bracelets",
+      "conceptLink": "/ec2/concept/5976813"
+    }
+  },
+  {
+    "uri": "en/6/493099",
+    "id": "493099",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal in powdered form",
+    "harm": {
+      "id": "0034790",
+      "title": "493099 - Metal in powdered form",
+      "conceptLink": "/ec2/concept/5983287"
+    }
+  },
+  {
+    "uri": "en/6/103103",
+    "id": "103103",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal ironmongery",
+    "harm": {
+      "id": "0018703",
+      "title": "103103 - Metal ironmongery",
+      "conceptLink": "/ec2/concept/5968584"
+    }
+  },
+  {
+    "uri": "en/6/319418",
+    "id": "319418",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal joinery fittings",
+    "harm": {
+      "id": "0022756",
+      "title": "319418 - Metal joinery fittings",
+      "conceptLink": "/ec2/concept/5972285"
+    }
+  },
+  {
+    "uri": "en/6/102999",
+    "id": "102999",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal joists",
+    "harm": {
+      "id": "0058700",
+      "title": "102999 - Metal joists",
+      "conceptLink": "/ec2/concept/6000193"
+    }
+  },
+  {
+    "uri": "en/6/100789",
+    "id": "100789",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal junctions for pipes",
+    "harm": {
+      "id": "0018704",
+      "title": "100789 - Metal junctions for pipes",
+      "conceptLink": "/ec2/concept/5968585"
+    }
+  },
+  {
+    "uri": "en/6/905265",
+    "id": "905265",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal karabiners",
+    "harm": {
+      "id": "0018305",
+      "title": "905265 - Metal karabiners",
+      "conceptLink": "/ec2/concept/5968212"
+    }
+  },
+  {
+    "uri": "en/6/119525082",
+    "id": "119525082",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal kegs",
+    "harm": {
+      "id": "0059217",
+      "title": "119525082 - Metal kegs",
+      "conceptLink": "/ec2/concept/6000706"
+    }
+  },
+  {
+    "uri": "en/6/517478",
+    "id": "517478",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal key blanks",
+    "harm": {
+      "id": "0018306",
+      "title": "517478 - Metal key blanks",
+      "conceptLink": "/ec2/concept/5968213"
+    }
+  },
+  {
+    "uri": "en/6/385560",
+    "id": "385560",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal keys for locks",
+    "harm": {
+      "id": "0023998",
+      "title": "385560 - Metal keys for locks",
+      "conceptLink": "/ec2/concept/5973423"
+    }
+  },
+  {
+    "uri": "en/6/106657",
+    "id": "106657",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal knobs",
+    "harm": {
+      "id": "0024104",
+      "title": "106657 - Metal knobs",
+      "conceptLink": "/ec2/concept/5973523"
+    }
+  },
+  {
+    "uri": "en/6/385025",
+    "id": "385025",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal knockers",
+    "harm": {
+      "id": "0058395",
+      "title": "385025 - Metal knockers",
+      "conceptLink": "/ec2/concept/5999894"
+    }
+  },
+  {
+    "uri": "en/6/98760",
+    "id": "98760",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal ladders",
+    "harm": {
+      "id": "0046858",
+      "title": "98760 - Metal ladders",
+      "conceptLink": "/ec2/concept/5994253"
+    }
+  },
+  {
+    "uri": "en/6/136010976",
+    "id": "136010976",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal ladders for libraries",
+    "harm": {
+      "id": "0055158",
+      "title": "136010976 - Metal ladders for libraries",
+      "conceptLink": "/ec2/concept/5996595"
+    }
+  },
+  {
+    "uri": "en/6/132664569",
+    "id": "132664569",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal laminated leaf-springs [not machine elements]",
+    "harm": {
+      "id": "0055632",
+      "title": "132664569 - Metal laminated leaf-springs [not machine elements]",
+      "conceptLink": "/ec2/concept/5997026"
+    }
+  },
+  {
+    "uri": "en/6/385577",
+    "id": "385577",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal landscape edgings",
+    "harm": {
+      "id": "0018190",
+      "title": "385577 - Metal landscape edgings",
+      "conceptLink": "/ec2/concept/5968107"
+    }
+  },
+  {
+    "uri": "en/6/94093",
+    "id": "94093",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal latch bars",
+    "harm": {
+      "id": "0041305",
+      "title": "94093 - Metal latch bars",
+      "conceptLink": "/ec2/concept/5989228"
+    }
+  },
+  {
+    "uri": "en/6/100181",
+    "id": "100181",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal laths",
+    "harm": {
+      "id": "0041306",
+      "title": "100181 - Metal laths",
+      "conceptLink": "/ec2/concept/5989229"
+    }
+  },
+  {
+    "uri": "en/6/104412",
+    "id": "104412",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lattices",
+    "harm": {
+      "id": "0057063",
+      "title": "104412 - Metal lattices",
+      "conceptLink": "/ec2/concept/5998689"
+    }
+  },
+  {
+    "uri": "en/6/385590",
+    "id": "385590",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lawn edging",
+    "harm": {
+      "id": "0018190",
+      "title": "385590 - Metal lawn edging",
+      "conceptLink": "/ec2/concept/5968107"
+    }
+  },
+  {
+    "uri": "en/6/98585",
+    "id": "98585",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal letter boxes",
+    "harm": {
+      "id": "0035525",
+      "title": "98585 - Metal letter boxes",
+      "conceptLink": "/ec2/concept/5983955"
+    }
+  },
+  {
+    "uri": "en/6/110034",
+    "id": "110034",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal license plates",
+    "harm": {
+      "id": "0000755",
+      "title": "110034 - Metal license plates",
+      "conceptLink": "/ec2/concept/5952167"
+    }
+  },
+  {
+    "uri": "en/6/385602",
+    "id": "385602",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lids",
+    "harm": {
+      "id": "0045759",
+      "title": "385602 - Metal lids",
+      "conceptLink": "/ec2/concept/5993295"
+    }
+  },
+  {
+    "uri": "en/6/385617",
+    "id": "385617",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lids for cans",
+    "harm": {
+      "id": "0016949",
+      "title": "385617 - Metal lids for cans",
+      "conceptLink": "/ec2/concept/5966980"
+    }
+  },
+  {
+    "uri": "en/6/100343",
+    "id": "100343",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lintels",
+    "harm": {
+      "id": "0039389",
+      "title": "100343 - Metal lintels",
+      "conceptLink": "/ec2/concept/5987470"
+    }
+  },
+  {
+    "uri": "en/6/385632",
+    "id": "385632",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal lock boxes",
+    "harm": {
+      "id": "0059381",
+      "title": "385632 - Metal lock boxes",
+      "conceptLink": "/ec2/concept/6000863"
+    }
+  },
+  {
+    "uri": "en/6/385661",
+    "id": "385661",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal locking mechanisms",
+    "harm": {
+      "id": "0005419",
+      "title": "385661 - Metal locking mechanisms",
+      "conceptLink": "/ec2/concept/5956419"
+    }
+  },
+  {
+    "uri": "en/6/71748844",
+    "id": "71748844",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal locks for doors",
+    "harm": {
+      "id": "0070866",
+      "title": "71748844 - Metal locks for doors",
+      "conceptLink": "/ec2/concept/6007058"
+    }
+  },
+  {
+    "uri": "en/6/120861603",
+    "id": "120861603",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal locks for windows",
+    "harm": {
+      "id": "0065497",
+      "title": "120861603 - Metal locks for windows",
+      "conceptLink": "/ec2/concept/6001700"
+    }
+  },
+  {
+    "uri": "en/6/99599",
+    "id": "99599",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal locks [non electric]",
+    "harm": {
+      "id": "0017597",
+      "title": "99599 - Metal locks [non electric]",
+      "conceptLink": "/ec2/concept/5967560"
+    }
+  },
+  {
+    "uri": "en/6/385677",
+    "id": "385677",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal locksets",
+    "harm": {
+      "id": "0045760",
+      "title": "385677 - Metal locksets",
+      "conceptLink": "/ec2/concept/5993296"
+    }
+  },
+  {
+    "uri": "en/6/98587",
+    "id": "98587",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mail boxes",
+    "harm": {
+      "id": "0035525",
+      "title": "98587 - Metal mail boxes",
+      "conceptLink": "/ec2/concept/5983955"
+    }
+  },
+  {
+    "uri": "en/6/385688",
+    "id": "385688",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mail plates",
+    "harm": {
+      "id": "0016950",
+      "title": "385688 - Metal mail plates",
+      "conceptLink": "/ec2/concept/5966981"
+    }
+  },
+  {
+    "uri": "en/6/385701",
+    "id": "385701",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mail slots",
+    "harm": {
+      "id": "0019335",
+      "title": "385701 - Metal mail slots",
+      "conceptLink": "/ec2/concept/5969158"
+    }
+  },
+  {
+    "uri": "en/6/108213",
+    "id": "108213",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal manhole covers",
+    "harm": {
+      "id": "0034818",
+      "title": "108213 - Metal manhole covers",
+      "conceptLink": "/ec2/concept/5983313"
+    }
+  },
+  {
+    "uri": "en/6/518245",
+    "id": "518245",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal masts [other than aerials or for watercraft]",
+    "harm": {
+      "id": "0040730",
+      "title": "518245 - Metal masts [other than aerials or for watercraft]",
+      "conceptLink": "/ec2/concept/5988701"
+    }
+  },
+  {
+    "uri": "en/6/97172",
+    "id": "97172",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal materials for railways",
+    "harm": {
+      "id": "0011834",
+      "title": "97172 - Metal materials for railways",
+      "conceptLink": "/ec2/concept/5962287"
+    }
+  },
+  {
+    "uri": "en/6/385729",
+    "id": "385729",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mirror hangers",
+    "harm": {
+      "id": "0021732",
+      "title": "385729 - Metal mirror hangers",
+      "conceptLink": "/ec2/concept/5971342"
+    }
+  },
+  {
+    "uri": "en/6/385749",
+    "id": "385749",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal moldings",
+    "harm": {
+      "id": "0038925",
+      "title": "385749 - Metal moldings",
+      "conceptLink": "/ec2/concept/5987045"
+    }
+  },
+  {
+    "uri": "en/6/120913404",
+    "id": "120913404",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal moldings [building]",
+    "harm": {
+      "id": "0014342",
+      "title": "120913404 - Metal moldings [building]",
+      "conceptLink": "/ec2/concept/5964588"
+    }
+  },
+  {
+    "uri": "en/6/110266",
+    "id": "110266",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mooring buoys",
+    "harm": {
+      "id": "0003189",
+      "title": "110266 - Metal mooring buoys",
+      "conceptLink": "/ec2/concept/5954370"
+    }
+  },
+  {
+    "uri": "en/6/385803",
+    "id": "385803",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal mouldings",
+    "harm": {
+      "id": "0038925",
+      "title": "385803 - Metal mouldings",
+      "conceptLink": "/ec2/concept/5987045"
+    }
+  },
+  {
+    "uri": "en/6/319433",
+    "id": "319433",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal moulds for forming cement products",
+    "harm": {
+      "id": "0039961",
+      "title": "319433 - Metal moulds for forming cement products",
+      "conceptLink": "/ec2/concept/5987998"
+    }
+  },
+  {
+    "uri": "en/6/109944",
+    "id": "109944",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal name plates",
+    "harm": {
+      "id": "0046758",
+      "title": "109944 - Metal name plates",
+      "conceptLink": "/ec2/concept/5994164"
+    }
+  },
+  {
+    "uri": "en/6/319449",
+    "id": "319449",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal nameplates and door nameplates",
+    "harm": {
+      "id": "0021762",
+      "title": "319449 - Metal nameplates and door nameplates",
+      "conceptLink": "/ec2/concept/5971369"
+    }
+  },
+  {
+    "uri": "en/6/106950",
+    "id": "106950",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal non-electric cables",
+    "harm": {
+      "id": "0058110",
+      "title": "106950 - Metal non-electric cables",
+      "conceptLink": "/ec2/concept/5999611"
+    }
+  },
+  {
+    "uri": "en/6/108793",
+    "id": "108793",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal nuts",
+    "harm": {
+      "id": "0032960",
+      "title": "108793 - Metal nuts",
+      "conceptLink": "/ec2/concept/5981617"
+    }
+  },
+  {
+    "uri": "en/6/385840",
+    "id": "385840",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal oil cans [empty]",
+    "harm": {
+      "id": "0027371",
+      "title": "385840 - Metal oil cans [empty]",
+      "conceptLink": "/ec2/concept/5976499"
+    }
+  },
+  {
+    "uri": "en/6/101164",
+    "id": "101164",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal ores",
+    "harm": {
+      "id": "0041397",
+      "title": "101164 - Metal ores",
+      "conceptLink": "/ec2/concept/5989304"
+    }
+  },
+  {
+    "uri": "en/6/385861",
+    "id": "385861",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal padlocks",
+    "harm": {
+      "id": "0037404",
+      "title": "385861 - Metal padlocks",
+      "conceptLink": "/ec2/concept/5985660"
+    }
+  },
+  {
+    "uri": "en/6/101829",
+    "id": "101829",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal palings",
+    "harm": {
+      "id": "0057030",
+      "title": "101829 - Metal palings",
+      "conceptLink": "/ec2/concept/5998660"
+    }
+  },
+  {
+    "uri": "en/6/101830",
+    "id": "101830",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal palisades",
+    "harm": {
+      "id": "0057030",
+      "title": "101830 - Metal palisades",
+      "conceptLink": "/ec2/concept/5998660"
+    }
+  },
+  {
+    "uri": "en/6/107414",
+    "id": "107414",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal pallets",
+    "harm": {
+      "id": "0004300",
+      "title": "107414 - Metal pallets",
+      "conceptLink": "/ec2/concept/5955385"
+    }
+  },
+  {
+    "uri": "en/6/105324",
+    "id": "105324",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal panels",
+    "harm": {
+      "id": "0029158",
+      "title": "105324 - Metal panels",
+      "conceptLink": "/ec2/concept/5978159"
+    }
+  },
+  {
+    "uri": "en/6/102728",
+    "id": "102728",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal panels for doors",
+    "harm": {
+      "id": "0000277",
+      "title": "102728 - Metal panels for doors",
+      "conceptLink": "/ec2/concept/5951742"
+    }
+  },
+  {
+    "uri": "en/6/387322",
+    "id": "387322",
+    "lang": "en",
+    "classNumber": "6",
+    "term": "Metal panels for walls",
+    "harm": {
+      "id": "0025465",
+      "title": "387322 - Metal panels for walls",
+      "conceptLink": "/ec2/concept/5974776"
+    }
+  }
+]

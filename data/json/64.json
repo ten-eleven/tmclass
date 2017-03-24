@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/3/379787",
+    "id": "379787",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Baby shampoo",
+    "harm": {
+      "id": "0041912",
+      "title": "379787 - Baby shampoo",
+      "conceptLink": "/ec2/concept/5989776"
+    }
+  },
+  {
+    "uri": "en/3/658182",
+    "id": "658182",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Baby shampoo mousse",
+    "harm": {
+      "id": "0034567",
+      "title": "658182 - Baby shampoo mousse",
+      "conceptLink": "/ec2/concept/5983090"
+    }
+  },
+  {
+    "uri": "en/3/233403580",
+    "id": "233403580",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Baby suncreams",
+    "harm": {
+      "id": "0073582",
+      "title": "233403580 - Baby suncreams",
+      "conceptLink": "/ec2/concept/6009754"
+    }
+  },
+  {
+    "uri": "en/3/379809",
+    "id": "379809",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Baby wipes",
+    "harm": {
+      "id": "0022013",
+      "title": "379809 - Baby wipes",
+      "conceptLink": "/ec2/concept/5971604"
+    }
+  },
+  {
+    "uri": "en/3/71858",
+    "id": "71858",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Badian essence",
+    "harm": {
+      "id": "0019770",
+      "title": "71858 - Badian essence",
+      "conceptLink": "/ec2/concept/5969553"
+    }
+  },
+  {
+    "uri": "en/3/124887049",
+    "id": "124887049",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Balms (Non-medicated -)",
+    "harm": {
+      "id": "0020538",
+      "title": "124887049 - Balms (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5970250"
+    }
+  },
+  {
+    "uri": "en/3/233474835",
+    "id": "233474835",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Balms, other than for medical purposes",
+    "harm": {
+      "id": "0020538",
+      "title": "233474835 - Balms, other than for medical purposes",
+      "conceptLink": "/ec2/concept/5970250"
+    }
+  },
+  {
+    "uri": "en/3/909010",
+    "id": "909010",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Balms other than for medical purposes",
+    "harm": {
+      "id": "0020538",
+      "title": "909010 - Balms other than for medical purposes",
+      "conceptLink": "/ec2/concept/5970250"
+    }
+  },
+  {
+    "uri": "en/3/15266223",
+    "id": "15266223",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bar soap",
+    "harm": {
+      "id": "0059169",
+      "title": "15266223 - Bar soap",
+      "conceptLink": "/ec2/concept/6000658"
+    }
+  },
+  {
+    "uri": "en/3/75371",
+    "id": "75371",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bark (Quillaia -) for washing",
+    "harm": {
+      "id": "0005953",
+      "title": "75371 - Bark (Quillaia -) for washing",
+      "conceptLink": "/ec2/concept/5956904"
+    }
+  },
+  {
+    "uri": "en/3/379828",
+    "id": "379828",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Barrier creams",
+    "harm": {
+      "id": "0033379",
+      "title": "379828 - Barrier creams",
+      "conceptLink": "/ec2/concept/5982004"
+    }
+  },
+  {
+    "uri": "en/3/1218931",
+    "id": "1218931",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bars of soap",
+    "harm": {
+      "id": "0059169",
+      "title": "1218931 - Bars of soap",
+      "conceptLink": "/ec2/concept/6000658"
+    }
+  },
+  {
+    "uri": "en/3/658226",
+    "id": "658226",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Base cream",
+    "harm": {
+      "id": "0005723",
+      "title": "658226 - Base cream",
+      "conceptLink": "/ec2/concept/5956698"
+    }
+  },
+  {
+    "uri": "en/3/1141652",
+    "id": "1141652",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bases for flower perfumes",
+    "harm": {
+      "id": "0020442",
+      "title": "1141652 - Bases for flower perfumes",
+      "conceptLink": "/ec2/concept/5970165"
+    }
+  },
+  {
+    "uri": "en/3/120910694",
+    "id": "120910694",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath and shower foam",
+    "harm": {
+      "id": "0060365",
+      "title": "120910694 - Bath and shower foam",
+      "conceptLink": "/ec2/concept/5998341"
+    }
+  },
+  {
+    "uri": "en/3/28117433",
+    "id": "28117433",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath and shower gels, not for medical purposes",
+    "harm": {
+      "id": "0065096",
+      "title": "28117433 - Bath and shower gels, not for medical purposes",
+      "conceptLink": "/ec2/concept/6001299"
+    }
+  },
+  {
+    "uri": "en/3/14716818",
+    "id": "14716818",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath beads",
+    "harm": {
+      "id": "0010259",
+      "title": "14716818 - Bath beads",
+      "conceptLink": "/ec2/concept/5960840"
+    }
+  },
+  {
+    "uri": "en/3/892997",
+    "id": "892997",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath bombs",
+    "harm": {
+      "id": "0002632",
+      "title": "892997 - Bath bombs",
+      "conceptLink": "/ec2/concept/5953856"
+    }
+  },
+  {
+    "uri": "en/3/124887092",
+    "id": "124887092",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath concentrates (Non-medicated -)",
+    "harm": {
+      "id": "0012746",
+      "title": "124887092 - Bath concentrates (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5963126"
+    }
+  },
+  {
+    "uri": "en/3/117582281",
+    "id": "117582281",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath cream",
+    "harm": {
+      "id": "0012747",
+      "title": "117582281 - Bath cream",
+      "conceptLink": "/ec2/concept/5963127"
+    }
+  },
+  {
+    "uri": "en/3/2884902",
+    "id": "2884902",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath creams",
+    "harm": {
+      "id": "0012747",
+      "title": "2884902 - Bath creams",
+      "conceptLink": "/ec2/concept/5963127"
+    }
+  },
+  {
+    "uri": "en/3/124887105",
+    "id": "124887105",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath creams (Non-medicated -)",
+    "harm": {
+      "id": "0012747",
+      "title": "124887105 - Bath creams (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5963127"
+    }
+  },
+  {
+    "uri": "en/3/315099",
+    "id": "315099",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath crystals",
+    "harm": {
+      "id": "0029114",
+      "title": "315099 - Bath crystals",
+      "conceptLink": "/ec2/concept/5978120"
+    }
+  },
+  {
+    "uri": "en/3/124887123",
+    "id": "124887123",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath crystals (Non-medicated -)",
+    "harm": {
+      "id": "0030055",
+      "title": "124887123 - Bath crystals (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5978974"
+    }
+  },
+  {
+    "uri": "en/3/137543747",
+    "id": "137543747",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath crystals, not for medical use",
+    "harm": {
+      "id": "0030055",
+      "title": "137543747 - Bath crystals, not for medical use",
+      "conceptLink": "/ec2/concept/5978974"
+    }
+  },
+  {
+    "uri": "en/3/119521997",
+    "id": "119521997",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath flakes",
+    "harm": {
+      "id": "0073728",
+      "title": "119521997 - Bath flakes",
+      "conceptLink": "/ec2/concept/6009898"
+    }
+  },
+  {
+    "uri": "en/3/315013",
+    "id": "315013",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath foam",
+    "harm": {
+      "id": "0057881",
+      "title": "315013 - Bath foam",
+      "conceptLink": "/ec2/concept/5999385"
+    }
+  },
+  {
+    "uri": "en/3/10356405",
+    "id": "10356405",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath foams",
+    "harm": {
+      "id": "0057881",
+      "title": "10356405 - Bath foams",
+      "conceptLink": "/ec2/concept/5999385"
+    }
+  },
+  {
+    "uri": "en/3/124887151",
+    "id": "124887151",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath foams (Non-medicated -)",
+    "harm": {
+      "id": "0006920",
+      "title": "124887151 - Bath foams (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5957787"
+    }
+  },
+  {
+    "uri": "en/3/379848",
+    "id": "379848",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath gel",
+    "harm": {
+      "id": "0039190",
+      "title": "379848 - Bath gel",
+      "conceptLink": "/ec2/concept/5987286"
+    }
+  },
+  {
+    "uri": "en/3/2360964",
+    "id": "2360964",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath gels",
+    "harm": {
+      "id": "0039190",
+      "title": "2360964 - Bath gels",
+      "conceptLink": "/ec2/concept/5987286"
+    }
+  },
+  {
+    "uri": "en/3/124887165",
+    "id": "124887165",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath gels (Non-medicated -)",
+    "harm": {
+      "id": "0039190",
+      "title": "124887165 - Bath gels (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5987286"
+    }
+  },
+  {
+    "uri": "en/3/884283",
+    "id": "884283",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath herbs",
+    "harm": {
+      "id": "0028861",
+      "title": "884283 - Bath herbs",
+      "conceptLink": "/ec2/concept/5977887"
+    }
+  },
+  {
+    "uri": "en/3/379868",
+    "id": "379868",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath lotion",
+    "harm": {
+      "id": "0004553",
+      "title": "379868 - Bath lotion",
+      "conceptLink": "/ec2/concept/5955617"
+    }
+  },
+  {
+    "uri": "en/3/124887180",
+    "id": "124887180",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath lotions (Non-medicated -)",
+    "harm": {
+      "id": "0001155",
+      "title": "124887180 - Bath lotions (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5952528"
+    }
+  },
+  {
+    "uri": "en/3/9272541",
+    "id": "9272541",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath milk",
+    "harm": {
+      "id": "0070831",
+      "title": "9272541 - Bath milk",
+      "conceptLink": "/ec2/concept/6007023"
+    }
+  },
+  {
+    "uri": "en/3/315070",
+    "id": "315070",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath oil",
+    "harm": {
+      "id": "0006029",
+      "title": "315070 - Bath oil",
+      "conceptLink": "/ec2/concept/5956977"
+    }
+  },
+  {
+    "uri": "en/3/137543746",
+    "id": "137543746",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath oil, not for medical use",
+    "harm": {
+      "id": "0030056",
+      "title": "137543746 - Bath oil, not for medical use",
+      "conceptLink": "/ec2/concept/5978975"
+    }
+  },
+  {
+    "uri": "en/3/1263651",
+    "id": "1263651",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath oils",
+    "harm": {
+      "id": "0030056",
+      "title": "1263651 - Bath oils",
+      "conceptLink": "/ec2/concept/5978975"
+    }
+  },
+  {
+    "uri": "en/3/96398587",
+    "id": "96398587",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath oils for cosmetic purposes",
+    "harm": {
+      "id": "0055281",
+      "title": "96398587 - Bath oils for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5996705"
+    }
+  },
+  {
+    "uri": "en/3/124887197",
+    "id": "124887197",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath oils (Non-medicated -)",
+    "harm": {
+      "id": "0030056",
+      "title": "124887197 - Bath oils (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5978975"
+    }
+  },
+  {
+    "uri": "en/3/379884",
+    "id": "379884",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath pearls",
+    "harm": {
+      "id": "0010259",
+      "title": "379884 - Bath pearls",
+      "conceptLink": "/ec2/concept/5960840"
+    }
+  },
+  {
+    "uri": "en/3/124887216",
+    "id": "124887216",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath pearls (Non-medicated -)",
+    "harm": {
+      "id": "0001156",
+      "title": "124887216 - Bath pearls (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5952529"
+    }
+  },
+  {
+    "uri": "en/3/315100",
+    "id": "315100",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath powder",
+    "harm": {
+      "id": "0029114",
+      "title": "315100 - Bath powder",
+      "conceptLink": "/ec2/concept/5978120"
+    }
+  },
+  {
+    "uri": "en/3/119522010",
+    "id": "119522010",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath powder [cosmetics]",
+    "harm": {
+      "id": "0030057",
+      "title": "119522010 - Bath powder [cosmetics]",
+      "conceptLink": "/ec2/concept/5978976"
+    }
+  },
+  {
+    "uri": "en/3/124887231",
+    "id": "124887231",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath powders (Non-medicated -)",
+    "harm": {
+      "id": "0030057",
+      "title": "124887231 - Bath powders (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5978976"
+    }
+  },
+  {
+    "uri": "en/3/2306415",
+    "id": "2306415",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath preparations",
+    "harm": {
+      "id": "0047655",
+      "title": "2306415 - Bath preparations",
+      "conceptLink": "/ec2/concept/5994930"
+    }
+  },
+  {
+    "uri": "en/3/233157536",
+    "id": "233157536",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath preparations for animals",
+    "harm": {
+      "id": "0072874",
+      "title": "233157536 - Bath preparations for animals",
+      "conceptLink": "/ec2/concept/6009049"
+    }
+  },
+  {
+    "uri": "en/3/124887253",
+    "id": "124887253",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath preparations (Non-medicated -)",
+    "harm": {
+      "id": "0041629",
+      "title": "124887253 - Bath preparations (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5989523"
+    }
+  },
+  {
+    "uri": "en/3/9182300",
+    "id": "9182300",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath preparations, not for medical purposes",
+    "harm": {
+      "id": "0041629",
+      "title": "9182300 - Bath preparations, not for medical purposes",
+      "conceptLink": "/ec2/concept/5989523"
+    }
+  },
+  {
+    "uri": "en/3/658253",
+    "id": "658253",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath preparations, not medicated",
+    "harm": {
+      "id": "0041629",
+      "title": "658253 - Bath preparations, not medicated",
+      "conceptLink": "/ec2/concept/5989523"
+    }
+  },
+  {
+    "uri": "en/3/315098",
+    "id": "315098",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath salts",
+    "harm": {
+      "id": "0029114",
+      "title": "315098 - Bath salts",
+      "conceptLink": "/ec2/concept/5978120"
+    }
+  },
+  {
+    "uri": "en/3/77823",
+    "id": "77823",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath salts, not for medical purposes",
+    "harm": {
+      "id": "0010268",
+      "title": "77823 - Bath salts, not for medical purposes",
+      "conceptLink": "/ec2/concept/5960848"
+    }
+  },
+  {
+    "uri": "en/3/658443",
+    "id": "658443",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath soap",
+    "harm": {
+      "id": "0018545",
+      "title": "658443 - Bath soap",
+      "conceptLink": "/ec2/concept/5968435"
+    }
+  },
+  {
+    "uri": "en/3/13250884",
+    "id": "13250884",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bath soaps",
+    "harm": {
+      "id": "0018545",
+      "title": "13250884 - Bath soaps",
+      "conceptLink": "/ec2/concept/5968435"
+    }
+  },
+  {
+    "uri": "en/3/44195997",
+    "id": "44195997",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bathing lotions",
+    "harm": {
+      "id": "0004553",
+      "title": "44195997 - Bathing lotions",
+      "conceptLink": "/ec2/concept/5955617"
+    }
+  },
+  {
+    "uri": "en/3/71880",
+    "id": "71880",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Baths (Cosmetic preparations for -)",
+    "harm": {
+      "id": "0025453",
+      "title": "71880 - Baths (Cosmetic preparations for -)",
+      "conceptLink": "/ec2/concept/5974764"
+    }
+  },
+  {
+    "uri": "en/3/3343883",
+    "id": "3343883",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bay rums",
+    "harm": {
+      "id": "0055283",
+      "title": "3343883 - Bay rums",
+      "conceptLink": "/ec2/concept/5996706"
+    }
+  },
+  {
+    "uri": "en/3/77848",
+    "id": "77848",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beard dyes",
+    "harm": {
+      "id": "0001535",
+      "title": "77848 - Beard dyes",
+      "conceptLink": "/ec2/concept/5952868"
+    }
+  },
+  {
+    "uri": "en/3/131051539",
+    "id": "131051539",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty balm creams",
+    "harm": {
+      "id": "0055284",
+      "title": "131051539 - Beauty balm creams",
+      "conceptLink": "/ec2/concept/5996707"
+    }
+  },
+  {
+    "uri": "en/3/60524828",
+    "id": "60524828",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty care cosmetics",
+    "harm": {
+      "id": "0060360",
+      "title": "60524828 - Beauty care cosmetics",
+      "conceptLink": "/ec2/concept/5998336"
+    }
+  },
+  {
+    "uri": "en/3/1091047",
+    "id": "1091047",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty care preparations",
+    "harm": {
+      "id": "0060360",
+      "title": "1091047 - Beauty care preparations",
+      "conceptLink": "/ec2/concept/5998336"
+    }
+  },
+  {
+    "uri": "en/3/4679416",
+    "id": "4679416",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty creams",
+    "harm": {
+      "id": "0037946",
+      "title": "4679416 - Beauty creams",
+      "conceptLink": "/ec2/concept/5986147"
+    }
+  },
+  {
+    "uri": "en/3/17942541",
+    "id": "17942541",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty creams for body care",
+    "harm": {
+      "id": "0004554",
+      "title": "17942541 - Beauty creams for body care",
+      "conceptLink": "/ec2/concept/5955618"
+    }
+  },
+  {
+    "uri": "en/3/40331370",
+    "id": "40331370",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty gels",
+    "harm": {
+      "id": "0026364",
+      "title": "40331370 - Beauty gels",
+      "conceptLink": "/ec2/concept/5975596"
+    }
+  },
+  {
+    "uri": "en/3/23936890",
+    "id": "23936890",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty lotions",
+    "harm": {
+      "id": "0055288",
+      "title": "23936890 - Beauty lotions",
+      "conceptLink": "/ec2/concept/5996708"
+    }
+  },
+  {
+    "uri": "en/3/308302",
+    "id": "308302",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty masks",
+    "harm": {
+      "id": "0015444",
+      "title": "308302 - Beauty masks",
+      "conceptLink": "/ec2/concept/5965598"
+    }
+  },
+  {
+    "uri": "en/3/120899623",
+    "id": "120899623",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty milk",
+    "harm": {
+      "id": "0070830",
+      "title": "120899623 - Beauty milk",
+      "conceptLink": "/ec2/concept/6007022"
+    }
+  },
+  {
+    "uri": "en/3/16162138",
+    "id": "16162138",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty milks",
+    "harm": {
+      "id": "0020720",
+      "title": "16162138 - Beauty milks",
+      "conceptLink": "/ec2/concept/5970419"
+    }
+  },
+  {
+    "uri": "en/3/1176272",
+    "id": "1176272",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty serums",
+    "harm": {
+      "id": "0055290",
+      "title": "1176272 - Beauty serums",
+      "conceptLink": "/ec2/concept/5996709"
+    }
+  },
+  {
+    "uri": "en/3/77243839",
+    "id": "77243839",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty soap",
+    "harm": {
+      "id": "0055291",
+      "title": "77243839 - Beauty soap",
+      "conceptLink": "/ec2/concept/5996710"
+    }
+  },
+  {
+    "uri": "en/3/658471",
+    "id": "658471",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty tonics for application to the face",
+    "harm": {
+      "id": "0018546",
+      "title": "658471 - Beauty tonics for application to the face",
+      "conceptLink": "/ec2/concept/5968436"
+    }
+  },
+  {
+    "uri": "en/3/658458",
+    "id": "658458",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beauty tonics for application to the body",
+    "harm": {
+      "id": "0006921",
+      "title": "658458 - Beauty tonics for application to the body",
+      "conceptLink": "/ec2/concept/5957788"
+    }
+  },
+  {
+    "uri": "en/3/72067",
+    "id": "72067",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bergamot oil",
+    "harm": {
+      "id": "0043714",
+      "title": "72067 - Bergamot oil",
+      "conceptLink": "/ec2/concept/5991415"
+    }
+  },
+  {
+    "uri": "en/3/126364115",
+    "id": "126364115",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Beverages (Flavorings [flavourings] for -) essential oils",
+    "harm": {
+      "id": "0004559",
+      "title": "126364115 - Beverages (Flavorings [flavourings] for -) essential oils",
+      "conceptLink": "/ec2/concept/5955623"
+    }
+  },
+  {
+    "uri": "en/3/72325",
+    "id": "72325",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Biological laundry detergents",
+    "harm": {
+      "id": "0018547",
+      "title": "72325 - Biological laundry detergents",
+      "conceptLink": "/ec2/concept/5968437"
+    }
+  },
+  {
+    "uri": "en/3/72326",
+    "id": "72326",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleach",
+    "harm": {
+      "id": "0035861",
+      "title": "72326 - Bleach",
+      "conceptLink": "/ec2/concept/5984261"
+    }
+  },
+  {
+    "uri": "en/3/315764",
+    "id": "315764",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaches for use on the hair",
+    "harm": {
+      "id": "0057075",
+      "title": "315764 - Bleaches for use on the hair",
+      "conceptLink": "/ec2/concept/5998708"
+    }
+  },
+  {
+    "uri": "en/3/72185",
+    "id": "72185",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching (Leather -) preparations",
+    "harm": {
+      "id": "0034600",
+      "title": "72185 - Bleaching (Leather -) preparations",
+      "conceptLink": "/ec2/concept/5983118"
+    }
+  },
+  {
+    "uri": "en/3/379898",
+    "id": "379898",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations",
+    "harm": {
+      "id": "0035861",
+      "title": "379898 - Bleaching preparations",
+      "conceptLink": "/ec2/concept/5984261"
+    }
+  },
+  {
+    "uri": "en/3/78090",
+    "id": "78090",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations [decolorants] for cosmetic purposes",
+    "harm": {
+      "id": "0021048",
+      "title": "78090 - Bleaching preparations [decolorants] for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5970721"
+    }
+  },
+  {
+    "uri": "en/3/3344343",
+    "id": "3344343",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations for cosmetic purposes",
+    "harm": {
+      "id": "0021048",
+      "title": "3344343 - Bleaching preparations for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5970721"
+    }
+  },
+  {
+    "uri": "en/3/315766",
+    "id": "315766",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations for the hair",
+    "harm": {
+      "id": "0057075",
+      "title": "315766 - Bleaching preparations for the hair",
+      "conceptLink": "/ec2/concept/5998708"
+    }
+  },
+  {
+    "uri": "en/3/40334252",
+    "id": "40334252",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations for laundry use",
+    "harm": {
+      "id": "0047533",
+      "title": "40334252 - Bleaching preparations for laundry use",
+      "conceptLink": "/ec2/concept/5994832"
+    }
+  },
+  {
+    "uri": "en/3/119522030",
+    "id": "119522030",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations for household use",
+    "harm": {
+      "id": "0065062",
+      "title": "119522030 - Bleaching preparations for household use",
+      "conceptLink": "/ec2/concept/6001265"
+    }
+  },
+  {
+    "uri": "en/3/72322",
+    "id": "72322",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching preparations [laundry]",
+    "harm": {
+      "id": "0047533",
+      "title": "72322 - Bleaching preparations [laundry]",
+      "conceptLink": "/ec2/concept/5994832"
+    }
+  },
+  {
+    "uri": "en/3/72217",
+    "id": "72217",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching salts",
+    "harm": {
+      "id": "0028862",
+      "title": "72217 - Bleaching salts",
+      "conceptLink": "/ec2/concept/5977888"
+    }
+  },
+  {
+    "uri": "en/3/72251",
+    "id": "72251",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bleaching soda",
+    "harm": {
+      "id": "0009338",
+      "title": "72251 - Bleaching soda",
+      "conceptLink": "/ec2/concept/5960007"
+    }
+  },
+  {
+    "uri": "en/3/131116033",
+    "id": "131116033",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blemish balm creams",
+    "harm": {
+      "id": "0073581",
+      "title": "131116033 - Blemish balm creams",
+      "conceptLink": "/ec2/concept/6009753"
+    }
+  },
+  {
+    "uri": "en/3/658484",
+    "id": "658484",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blended essential oils",
+    "harm": {
+      "id": "0012748",
+      "title": "658484 - Blended essential oils",
+      "conceptLink": "/ec2/concept/5963128"
+    }
+  },
+  {
+    "uri": "en/3/71782",
+    "id": "71782",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blueing for laundry",
+    "harm": {
+      "id": "0023179",
+      "title": "71782 - Blueing for laundry",
+      "conceptLink": "/ec2/concept/5972665"
+    }
+  },
+  {
+    "uri": "en/3/71779",
+    "id": "71779",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blueing (Laundry -)",
+    "harm": {
+      "id": "0023179",
+      "title": "71779 - Blueing (Laundry -)",
+      "conceptLink": "/ec2/concept/5972665"
+    }
+  },
+  {
+    "uri": "en/3/71781",
+    "id": "71781",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Bluing for laundry",
+    "harm": {
+      "id": "0023179",
+      "title": "71781 - Bluing for laundry",
+      "conceptLink": "/ec2/concept/5972665"
+    }
+  },
+  {
+    "uri": "en/3/5411700",
+    "id": "5411700",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blush",
+    "harm": {
+      "id": "0000238",
+      "title": "5411700 - Blush",
+      "conceptLink": "/ec2/concept/5951709"
+    }
+  },
+  {
+    "uri": "en/3/16162238",
+    "id": "16162238",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blush pencils",
+    "harm": {
+      "id": "0055292",
+      "title": "16162238 - Blush pencils",
+      "conceptLink": "/ec2/concept/5996711"
+    }
+  },
+  {
+    "uri": "en/3/1760534",
+    "id": "1760534",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blusher",
+    "harm": {
+      "id": "0000238",
+      "title": "1760534 - Blusher",
+      "conceptLink": "/ec2/concept/5951709"
+    }
+  },
+  {
+    "uri": "en/3/72687",
+    "id": "72687",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Blushers",
+    "harm": {
+      "id": "0000238",
+      "title": "72687 - Blushers",
+      "conceptLink": "/ec2/concept/5951709"
+    }
+  },
+  {
+    "uri": "en/3/132924434",
+    "id": "132924434",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Body art stickers",
+    "harm": {
+      "id": "0055293",
+      "title": "132924434 - Body art stickers",
+      "conceptLink": "/ec2/concept/5996712"
+    }
+  },
+  {
+    "uri": "en/3/379985",
+    "id": "379985",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Body butter",
+    "harm": {
+      "id": "0070287",
+      "title": "379985 - Body butter",
+      "conceptLink": "/ec2/concept/6006480"
+    }
+  },
+  {
+    "uri": "en/3/131127919",
+    "id": "131127919",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Body cleaning and beauty care preparations",
+    "harm": {
+      "id": "0047650",
+      "title": "131127919 - Body cleaning and beauty care preparations",
+      "conceptLink": "/ec2/concept/5994925"
+    }
+  }
+]

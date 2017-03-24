@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/12/188327",
+    "id": "188327",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle bells",
+    "harm": {
+      "id": "0072749",
+      "title": "188327 - Bicycle bells",
+      "conceptLink": "/ec2/concept/6008925"
+    }
+  },
+  {
+    "uri": "en/12/137399423",
+    "id": "137399423",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle brake lever grips",
+    "harm": {
+      "id": "0060694",
+      "title": "137399423 - Bicycle brake lever grips",
+      "conceptLink": "/ec2/concept/6001015"
+    }
+  },
+  {
+    "uri": "en/12/187764",
+    "id": "187764",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle brakes",
+    "harm": {
+      "id": "0042020",
+      "title": "187764 - Bicycle brakes",
+      "conceptLink": "/ec2/concept/5989874"
+    }
+  },
+  {
+    "uri": "en/12/189328",
+    "id": "189328",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle carriers",
+    "harm": {
+      "id": "0043653",
+      "title": "189328 - Bicycle carriers",
+      "conceptLink": "/ec2/concept/5991364"
+    }
+  },
+  {
+    "uri": "en/12/186720",
+    "id": "186720",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle chains",
+    "harm": {
+      "id": "0019141",
+      "title": "186720 - Bicycle chains",
+      "conceptLink": "/ec2/concept/5968986"
+    }
+  },
+  {
+    "uri": "en/12/3356324",
+    "id": "3356324",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle cranks",
+    "harm": {
+      "id": "0028187",
+      "title": "3356324 - Bicycle cranks",
+      "conceptLink": "/ec2/concept/5977254"
+    }
+  },
+  {
+    "uri": "en/12/193434",
+    "id": "193434",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle frames",
+    "harm": {
+      "id": "0043491",
+      "title": "193434 - Bicycle frames",
+      "conceptLink": "/ec2/concept/5991214"
+    }
+  },
+  {
+    "uri": "en/12/4889324",
+    "id": "4889324",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle gears",
+    "harm": {
+      "id": "0059257",
+      "title": "4889324 - Bicycle gears",
+      "conceptLink": "/ec2/concept/6000741"
+    }
+  },
+  {
+    "uri": "en/12/187444",
+    "id": "187444",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle handle bars",
+    "harm": {
+      "id": "0017344",
+      "title": "187444 - Bicycle handle bars",
+      "conceptLink": "/ec2/concept/5967334"
+    }
+  },
+  {
+    "uri": "en/12/900998",
+    "id": "900998",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle handlebar grips",
+    "harm": {
+      "id": "0014932",
+      "title": "900998 - Bicycle handlebar grips",
+      "conceptLink": "/ec2/concept/5965128"
+    }
+  },
+  {
+    "uri": "en/12/3256642",
+    "id": "3256642",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle handlebars",
+    "harm": {
+      "id": "0017344",
+      "title": "3256642 - Bicycle handlebars",
+      "conceptLink": "/ec2/concept/5967334"
+    }
+  },
+  {
+    "uri": "en/12/410383",
+    "id": "410383",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle horns",
+    "harm": {
+      "id": "0042159",
+      "title": "410383 - Bicycle horns",
+      "conceptLink": "/ec2/concept/5990003"
+    }
+  },
+  {
+    "uri": "en/12/188008",
+    "id": "188008",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle hubs",
+    "harm": {
+      "id": "0002130",
+      "title": "188008 - Bicycle hubs",
+      "conceptLink": "/ec2/concept/5953403"
+    }
+  },
+  {
+    "uri": "en/12/410398",
+    "id": "410398",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle kickstands",
+    "harm": {
+      "id": "0058735",
+      "title": "410398 - Bicycle kickstands",
+      "conceptLink": "/ec2/concept/6000226"
+    }
+  },
+  {
+    "uri": "en/12/38940897",
+    "id": "38940897",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle motors",
+    "harm": {
+      "id": "0046449",
+      "title": "38940897 - Bicycle motors",
+      "conceptLink": "/ec2/concept/5993900"
+    }
+  },
+  {
+    "uri": "en/12/87453494",
+    "id": "87453494",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle mudguards",
+    "harm": {
+      "id": "0001982",
+      "title": "87453494 - Bicycle mudguards",
+      "conceptLink": "/ec2/concept/5953273"
+    }
+  },
+  {
+    "uri": "en/12/901032",
+    "id": "901032",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle pedals",
+    "harm": {
+      "id": "0002131",
+      "title": "901032 - Bicycle pedals",
+      "conceptLink": "/ec2/concept/5953404"
+    }
+  },
+  {
+    "uri": "en/12/188101",
+    "id": "188101",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle pumps",
+    "harm": {
+      "id": "0030991",
+      "title": "188101 - Bicycle pumps",
+      "conceptLink": "/ec2/concept/5979837"
+    }
+  },
+  {
+    "uri": "en/12/740748",
+    "id": "740748",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle racks [carriers]",
+    "harm": {
+      "id": "0043653",
+      "title": "740748 - Bicycle racks [carriers]",
+      "conceptLink": "/ec2/concept/5991364"
+    }
+  },
+  {
+    "uri": "en/12/410609",
+    "id": "410609",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle racks for vehicles",
+    "harm": {
+      "id": "0047069",
+      "title": "410609 - Bicycle racks for vehicles",
+      "conceptLink": "/ec2/concept/5994446"
+    }
+  },
+  {
+    "uri": "en/12/187851",
+    "id": "187851",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle rims",
+    "harm": {
+      "id": "0026234",
+      "title": "187851 - Bicycle rims",
+      "conceptLink": "/ec2/concept/5975478"
+    }
+  },
+  {
+    "uri": "en/12/410644",
+    "id": "410644",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle saddle covers",
+    "harm": {
+      "id": "0024073",
+      "title": "410644 - Bicycle saddle covers",
+      "conceptLink": "/ec2/concept/5973494"
+    }
+  },
+  {
+    "uri": "en/12/188252",
+    "id": "188252",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle saddles",
+    "harm": {
+      "id": "0057540",
+      "title": "188252 - Bicycle saddles",
+      "conceptLink": "/ec2/concept/5999045"
+    }
+  },
+  {
+    "uri": "en/12/410683",
+    "id": "410683",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle seat posts",
+    "harm": {
+      "id": "0022513",
+      "title": "410683 - Bicycle seat posts",
+      "conceptLink": "/ec2/concept/5972060"
+    }
+  },
+  {
+    "uri": "en/12/901033",
+    "id": "901033",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle seats",
+    "harm": {
+      "id": "0057540",
+      "title": "901033 - Bicycle seats",
+      "conceptLink": "/ec2/concept/5999045"
+    }
+  },
+  {
+    "uri": "en/12/188157",
+    "id": "188157",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle spokes",
+    "harm": {
+      "id": "0012296",
+      "title": "188157 - Bicycle spokes",
+      "conceptLink": "/ec2/concept/5962717"
+    }
+  },
+  {
+    "uri": "en/12/38940699",
+    "id": "38940699",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle sprockets",
+    "harm": {
+      "id": "0022512",
+      "title": "38940699 - Bicycle sprockets",
+      "conceptLink": "/ec2/concept/5972059"
+    }
+  },
+  {
+    "uri": "en/12/740767",
+    "id": "740767",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle stabilisers",
+    "harm": {
+      "id": "0024069",
+      "title": "740767 - Bicycle stabilisers",
+      "conceptLink": "/ec2/concept/5973490"
+    }
+  },
+  {
+    "uri": "en/12/185864",
+    "id": "185864",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle stands",
+    "harm": {
+      "id": "0058735",
+      "title": "185864 - Bicycle stands",
+      "conceptLink": "/ec2/concept/6000226"
+    }
+  },
+  {
+    "uri": "en/12/119533654",
+    "id": "119533654",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle stands [kickstands]",
+    "harm": {
+      "id": "0058735",
+      "title": "119533654 - Bicycle stands [kickstands]",
+      "conceptLink": "/ec2/concept/6000226"
+    }
+  },
+  {
+    "uri": "en/12/901034",
+    "id": "901034",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle structural parts",
+    "harm": {
+      "id": "0008554",
+      "title": "901034 - Bicycle structural parts",
+      "conceptLink": "/ec2/concept/5959280"
+    }
+  },
+  {
+    "uri": "en/12/4851323",
+    "id": "4851323",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle tires",
+    "harm": {
+      "id": "0042019",
+      "title": "4851323 - Bicycle tires",
+      "conceptLink": "/ec2/concept/5989873"
+    }
+  },
+  {
+    "uri": "en/12/187596",
+    "id": "187596",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle tires [tyres]",
+    "harm": {
+      "id": "0042019",
+      "title": "187596 - Bicycle tires [tyres]",
+      "conceptLink": "/ec2/concept/5989873"
+    }
+  },
+  {
+    "uri": "en/12/3256842",
+    "id": "3256842",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle trailers",
+    "harm": {
+      "id": "0030367",
+      "title": "3256842 - Bicycle trailers",
+      "conceptLink": "/ec2/concept/5979264"
+    }
+  },
+  {
+    "uri": "en/12/501693",
+    "id": "501693",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle trailers (riyakah)",
+    "harm": {
+      "id": "0030367",
+      "title": "501693 - Bicycle trailers (riyakah)",
+      "conceptLink": "/ec2/concept/5979264"
+    }
+  },
+  {
+    "uri": "en/12/410698",
+    "id": "410698",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle training wheels",
+    "harm": {
+      "id": "0022514",
+      "title": "410698 - Bicycle training wheels",
+      "conceptLink": "/ec2/concept/5972061"
+    }
+  },
+  {
+    "uri": "en/12/187602",
+    "id": "187602",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle tyres",
+    "harm": {
+      "id": "0042019",
+      "title": "187602 - Bicycle tyres",
+      "conceptLink": "/ec2/concept/5989873"
+    }
+  },
+  {
+    "uri": "en/12/410718",
+    "id": "410718",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle water bottle cages",
+    "harm": {
+      "id": "0025844",
+      "title": "410718 - Bicycle water bottle cages",
+      "conceptLink": "/ec2/concept/5975120"
+    }
+  },
+  {
+    "uri": "en/12/18801751",
+    "id": "18801751",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle wheel hubs",
+    "harm": {
+      "id": "0002130",
+      "title": "18801751 - Bicycle wheel hubs",
+      "conceptLink": "/ec2/concept/5953403"
+    }
+  },
+  {
+    "uri": "en/12/18801619",
+    "id": "18801619",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle wheel rims",
+    "harm": {
+      "id": "0026234",
+      "title": "18801619 - Bicycle wheel rims",
+      "conceptLink": "/ec2/concept/5975478"
+    }
+  },
+  {
+    "uri": "en/12/138274684",
+    "id": "138274684",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle wheel spokes",
+    "harm": {
+      "id": "0012296",
+      "title": "138274684 - Bicycle wheel spokes",
+      "conceptLink": "/ec2/concept/5962717"
+    }
+  },
+  {
+    "uri": "en/12/187600",
+    "id": "187600",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycle wheels",
+    "harm": {
+      "id": "0042570",
+      "title": "187600 - Bicycle wheels",
+      "conceptLink": "/ec2/concept/5990378"
+    }
+  },
+  {
+    "uri": "en/12/185700",
+    "id": "185700",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bicycles",
+    "harm": {
+      "id": "0012289",
+      "title": "185700 - Bicycles",
+      "conceptLink": "/ec2/concept/5962710"
+    }
+  },
+  {
+    "uri": "en/12/410767",
+    "id": "410767",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bike bags",
+    "harm": {
+      "id": "0015030",
+      "title": "410767 - Bike bags",
+      "conceptLink": "/ec2/concept/5965215"
+    }
+  },
+  {
+    "uri": "en/12/740791",
+    "id": "740791",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Blinds adapted for vehicles",
+    "harm": {
+      "id": "0038344",
+      "title": "740791 - Blinds adapted for vehicles",
+      "conceptLink": "/ec2/concept/5986519"
+    }
+  },
+  {
+    "uri": "en/12/410865",
+    "id": "410865",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Block brakes for land vehicles",
+    "harm": {
+      "id": "0013035",
+      "title": "410865 - Block brakes for land vehicles",
+      "conceptLink": "/ec2/concept/5963386"
+    }
+  },
+  {
+    "uri": "en/12/410805",
+    "id": "410805",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat bumpers",
+    "harm": {
+      "id": "0015031",
+      "title": "410805 - Boat bumpers",
+      "conceptLink": "/ec2/concept/5965216"
+    }
+  },
+  {
+    "uri": "en/12/410820",
+    "id": "410820",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat chafe guards",
+    "harm": {
+      "id": "0032296",
+      "title": "410820 - Boat chafe guards",
+      "conceptLink": "/ec2/concept/5981011"
+    }
+  },
+  {
+    "uri": "en/12/337155",
+    "id": "337155",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat chocks",
+    "harm": {
+      "id": "0007886",
+      "title": "337155 - Boat chocks",
+      "conceptLink": "/ec2/concept/5958676"
+    }
+  },
+  {
+    "uri": "en/12/410832",
+    "id": "410832",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat cleats",
+    "harm": {
+      "id": "0020874",
+      "title": "410832 - Boat cleats",
+      "conceptLink": "/ec2/concept/5970566"
+    }
+  },
+  {
+    "uri": "en/12/194429",
+    "id": "194429",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat fenders",
+    "harm": {
+      "id": "0035321",
+      "title": "194429 - Boat fenders",
+      "conceptLink": "/ec2/concept/5983768"
+    }
+  },
+  {
+    "uri": "en/12/185187",
+    "id": "185187",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat-hooks",
+    "harm": {
+      "id": "0023276",
+      "title": "185187 - Boat-hooks",
+      "conceptLink": "/ec2/concept/5972753"
+    }
+  },
+  {
+    "uri": "en/12/185189",
+    "id": "185189",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat hooks",
+    "harm": {
+      "id": "0023276",
+      "title": "185189 - Boat hooks",
+      "conceptLink": "/ec2/concept/5972753"
+    }
+  },
+  {
+    "uri": "en/12/185113",
+    "id": "185113",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat hulls",
+    "harm": {
+      "id": "0031725",
+      "title": "185113 - Boat hulls",
+      "conceptLink": "/ec2/concept/5980491"
+    }
+  },
+  {
+    "uri": "en/12/894006",
+    "id": "894006",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat launching trolleys",
+    "harm": {
+      "id": "0004504",
+      "title": "894006 - Boat launching trolleys",
+      "conceptLink": "/ec2/concept/5955574"
+    }
+  },
+  {
+    "uri": "en/12/338369",
+    "id": "338369",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat rudders",
+    "harm": {
+      "id": "0041898",
+      "title": "338369 - Boat rudders",
+      "conceptLink": "/ec2/concept/5989762"
+    }
+  },
+  {
+    "uri": "en/12/915594",
+    "id": "915594",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat shells",
+    "harm": {
+      "id": "0044104",
+      "title": "915594 - Boat shells",
+      "conceptLink": "/ec2/concept/5991776"
+    }
+  },
+  {
+    "uri": "en/12/410845",
+    "id": "410845",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boat tillers",
+    "harm": {
+      "id": "0015032",
+      "title": "410845 - Boat tillers",
+      "conceptLink": "/ec2/concept/5965217"
+    }
+  },
+  {
+    "uri": "en/12/184088",
+    "id": "184088",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boats",
+    "harm": {
+      "id": "0072245",
+      "title": "184088 - Boats",
+      "conceptLink": "/ec2/concept/6008428"
+    }
+  },
+  {
+    "uri": "en/12/740803",
+    "id": "740803",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boats for sale in kit form",
+    "harm": {
+      "id": "0026756",
+      "title": "740803 - Boats for sale in kit form",
+      "conceptLink": "/ec2/concept/5975949"
+    }
+  },
+  {
+    "uri": "en/12/493727",
+    "id": "493727",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boats (Masts for -)",
+    "harm": {
+      "id": "0025972",
+      "title": "493727 - Boats (Masts for -)",
+      "conceptLink": "/ec2/concept/5975237"
+    }
+  },
+  {
+    "uri": "en/12/740815",
+    "id": "740815",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for aircraft",
+    "harm": {
+      "id": "0038345",
+      "title": "740815 - Bodies for aircraft",
+      "conceptLink": "/ec2/concept/5986520"
+    }
+  },
+  {
+    "uri": "en/12/185114",
+    "id": "185114",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for boats",
+    "harm": {
+      "id": "0031725",
+      "title": "185114 - Bodies for boats",
+      "conceptLink": "/ec2/concept/5980491"
+    }
+  },
+  {
+    "uri": "en/12/740828",
+    "id": "740828",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for land vehicles",
+    "harm": {
+      "id": "0021131",
+      "title": "740828 - Bodies for land vehicles",
+      "conceptLink": "/ec2/concept/5970801"
+    }
+  },
+  {
+    "uri": "en/12/184400",
+    "id": "184400",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for motor vehicles",
+    "harm": {
+      "id": "0036735",
+      "title": "184400 - Bodies for motor vehicles",
+      "conceptLink": "/ec2/concept/5985055"
+    }
+  },
+  {
+    "uri": "en/12/59163739",
+    "id": "59163739",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for railway cars",
+    "harm": {
+      "id": "0055990",
+      "title": "59163739 - Bodies for railway cars",
+      "conceptLink": "/ec2/concept/5997356"
+    }
+  },
+  {
+    "uri": "en/12/740843",
+    "id": "740843",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for railway wagons",
+    "harm": {
+      "id": "0044105",
+      "title": "740843 - Bodies for railway wagons",
+      "conceptLink": "/ec2/concept/5991777"
+    }
+  },
+  {
+    "uri": "en/12/185115",
+    "id": "185115",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for seacraft",
+    "harm": {
+      "id": "0031725",
+      "title": "185115 - Bodies for seacraft",
+      "conceptLink": "/ec2/concept/5980491"
+    }
+  },
+  {
+    "uri": "en/12/740855",
+    "id": "740855",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for trailers",
+    "harm": {
+      "id": "0028515",
+      "title": "740855 - Bodies for trailers",
+      "conceptLink": "/ec2/concept/5977563"
+    }
+  },
+  {
+    "uri": "en/12/193488",
+    "id": "193488",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for vehicles",
+    "harm": {
+      "id": "0040554",
+      "title": "193488 - Bodies for vehicles",
+      "conceptLink": "/ec2/concept/5988537"
+    }
+  },
+  {
+    "uri": "en/12/185116",
+    "id": "185116",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodies for watercraft",
+    "harm": {
+      "id": "0031725",
+      "title": "185116 - Bodies for watercraft",
+      "conceptLink": "/ec2/concept/5980491"
+    }
+  },
+  {
+    "uri": "en/12/740870",
+    "id": "740870",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Body panels for vehicles",
+    "harm": {
+      "id": "0016991",
+      "title": "740870 - Body panels for vehicles",
+      "conceptLink": "/ec2/concept/5967018"
+    }
+  },
+  {
+    "uri": "en/12/740882",
+    "id": "740882",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodywork parts for vehicles",
+    "harm": {
+      "id": "0034311",
+      "title": "740882 - Bodywork parts for vehicles",
+      "conceptLink": "/ec2/concept/5982854"
+    }
+  },
+  {
+    "uri": "en/12/124967577",
+    "id": "124967577",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodywork (Vehicle -)",
+    "harm": {
+      "id": "0040554",
+      "title": "124967577 - Bodywork (Vehicle -)",
+      "conceptLink": "/ec2/concept/5988537"
+    }
+  },
+  {
+    "uri": "en/12/901127",
+    "id": "901127",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bodyworks for motor vehicles",
+    "harm": {
+      "id": "0036735",
+      "title": "901127 - Bodyworks for motor vehicles",
+      "conceptLink": "/ec2/concept/5985055"
+    }
+  },
+  {
+    "uri": "en/12/185954",
+    "id": "185954",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bogies for railway cars",
+    "harm": {
+      "id": "0058680",
+      "title": "185954 - Bogies for railway cars",
+      "conceptLink": "/ec2/concept/6000173"
+    }
+  },
+  {
+    "uri": "en/12/740898",
+    "id": "740898",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Booms for boats",
+    "harm": {
+      "id": "0005462",
+      "title": "740898 - Booms for boats",
+      "conceptLink": "/ec2/concept/5956460"
+    }
+  },
+  {
+    "uri": "en/12/740912",
+    "id": "740912",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boot tidies",
+    "harm": {
+      "id": "0040061",
+      "title": "740912 - Boot tidies",
+      "conceptLink": "/ec2/concept/5988086"
+    }
+  },
+  {
+    "uri": "en/12/740911",
+    "id": "740911",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Boot tidys",
+    "harm": {
+      "id": "0040061",
+      "title": "740911 - Boot tidys",
+      "conceptLink": "/ec2/concept/5988086"
+    }
+  },
+  {
+    "uri": "en/12/410721",
+    "id": "410721",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Bottle cages for bicycles",
+    "harm": {
+      "id": "0025844",
+      "title": "410721 - Bottle cages for bicycles",
+      "conceptLink": "/ec2/concept/5975120"
+    }
+  },
+  {
+    "uri": "en/12/410864",
+    "id": "410864",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake blocks for land vehicles",
+    "harm": {
+      "id": "0009191",
+      "title": "410864 - Brake blocks for land vehicles",
+      "conceptLink": "/ec2/concept/5959871"
+    }
+  },
+  {
+    "uri": "en/12/193310",
+    "id": "193310",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake blocks for vehicles",
+    "harm": {
+      "id": "0011195",
+      "title": "193310 - Brake blocks for vehicles",
+      "conceptLink": "/ec2/concept/5961702"
+    }
+  },
+  {
+    "uri": "en/12/120895085",
+    "id": "120895085",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cables for bicycles",
+    "harm": {
+      "id": "0066324",
+      "title": "120895085 - Brake cables for bicycles",
+      "conceptLink": "/ec2/concept/6002527"
+    }
+  },
+  {
+    "uri": "en/12/740927",
+    "id": "740927",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cables for vehicles",
+    "harm": {
+      "id": "0034312",
+      "title": "740927 - Brake cables for vehicles",
+      "conceptLink": "/ec2/concept/5982855"
+    }
+  },
+  {
+    "uri": "en/12/412553",
+    "id": "412553",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cables [parts of motorcycles]",
+    "harm": {
+      "id": "0040889",
+      "title": "412553 - Brake cables [parts of motorcycles]",
+      "conceptLink": "/ec2/concept/5988839"
+    }
+  },
+  {
+    "uri": "en/12/410899",
+    "id": "410899",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake calipers for land vehicles",
+    "harm": {
+      "id": "0009192",
+      "title": "410899 - Brake calipers for land vehicles",
+      "conceptLink": "/ec2/concept/5959872"
+    }
+  },
+  {
+    "uri": "en/12/18466751",
+    "id": "18466751",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake calipers for vehicles",
+    "harm": {
+      "id": "0070991",
+      "title": "18466751 - Brake calipers for vehicles",
+      "conceptLink": "/ec2/concept/6007183"
+    }
+  },
+  {
+    "uri": "en/12/412568",
+    "id": "412568",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake calipers [parts of motorcycles]",
+    "harm": {
+      "id": "0005083",
+      "title": "412568 - Brake calipers [parts of motorcycles]",
+      "conceptLink": "/ec2/concept/5956112"
+    }
+  },
+  {
+    "uri": "en/12/740942",
+    "id": "740942",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake components for vehicles",
+    "harm": {
+      "id": "0022173",
+      "title": "740942 - Brake components for vehicles",
+      "conceptLink": "/ec2/concept/5971751"
+    }
+  },
+  {
+    "uri": "en/12/337174",
+    "id": "337174",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cylinders",
+    "harm": {
+      "id": "0029614",
+      "title": "337174 - Brake cylinders",
+      "conceptLink": "/ec2/concept/5978573"
+    }
+  },
+  {
+    "uri": "en/12/120894544",
+    "id": "120894544",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cylinders for land vehicles",
+    "harm": {
+      "id": "0066341",
+      "title": "120894544 - Brake cylinders for land vehicles",
+      "conceptLink": "/ec2/concept/6002544"
+    }
+  },
+  {
+    "uri": "en/12/740958",
+    "id": "740958",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake cylinders for vehicles",
+    "harm": {
+      "id": "0004270",
+      "title": "740958 - Brake cylinders for vehicles",
+      "conceptLink": "/ec2/concept/5955357"
+    }
+  },
+  {
+    "uri": "en/12/20081575",
+    "id": "20081575",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake discs for motorcycles",
+    "harm": {
+      "id": "0066322",
+      "title": "20081575 - Brake discs for motorcycles",
+      "conceptLink": "/ec2/concept/6002525"
+    }
+  },
+  {
+    "uri": "en/12/740971",
+    "id": "740971",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake discs for vehicles",
+    "harm": {
+      "id": "0019066",
+      "title": "740971 - Brake discs for vehicles",
+      "conceptLink": "/ec2/concept/5968918"
+    }
+  },
+  {
+    "uri": "en/12/337204",
+    "id": "337204",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake disks",
+    "harm": {
+      "id": "0018745",
+      "title": "337204 - Brake disks",
+      "conceptLink": "/ec2/concept/5968625"
+    }
+  },
+  {
+    "uri": "en/12/337238",
+    "id": "337238",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake drums",
+    "harm": {
+      "id": "0036880",
+      "title": "337238 - Brake drums",
+      "conceptLink": "/ec2/concept/5985186"
+    }
+  },
+  {
+    "uri": "en/12/410913",
+    "id": "410913",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake drums for land vehicles",
+    "harm": {
+      "id": "0003438",
+      "title": "410913 - Brake drums for land vehicles",
+      "conceptLink": "/ec2/concept/5954594"
+    }
+  },
+  {
+    "uri": "en/12/740994",
+    "id": "740994",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake drums for vehicles",
+    "harm": {
+      "id": "0027355",
+      "title": "740994 - Brake drums for vehicles",
+      "conceptLink": "/ec2/concept/5976484"
+    }
+  },
+  {
+    "uri": "en/12/193204",
+    "id": "193204",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake facings",
+    "harm": {
+      "id": "0007887",
+      "title": "193204 - Brake facings",
+      "conceptLink": "/ec2/concept/5958677"
+    }
+  },
+  {
+    "uri": "en/12/193205",
+    "id": "193205",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Brake facings for vehicles",
+    "harm": {
+      "id": "0025293",
+      "title": "193205 - Brake facings for vehicles",
+      "conceptLink": "/ec2/concept/5974612"
+    }
+  }
+]

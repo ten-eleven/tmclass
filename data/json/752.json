@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/902764",
+    "id": "902764",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer machine and computer software for commercial analysis and reporting",
+    "harm": {
+      "id": "0035456",
+      "title": "902764 - Design of computer machine and computer software for commercial analysis and reporting",
+      "conceptLink": "/ec2/concept/5983890"
+    }
+  },
+  {
+    "uri": "en/42/865758",
+    "id": "865758",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer microchips",
+    "harm": {
+      "id": "0034318",
+      "title": "865758 - Design of computer microchips",
+      "conceptLink": "/ec2/concept/5982861"
+    }
+  },
+  {
+    "uri": "en/42/120875249",
+    "id": "120875249",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer peripherals",
+    "harm": {
+      "id": "0069398",
+      "title": "120875249 - Design of computer peripherals",
+      "conceptLink": "/ec2/concept/6005601"
+    }
+  },
+  {
+    "uri": "en/42/374557",
+    "id": "374557",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer programs and software relating to aircraft",
+    "harm": {
+      "id": "0032403",
+      "title": "374557 - Design of computer programs and software relating to aircraft",
+      "conceptLink": "/ec2/concept/5981108"
+    }
+  },
+  {
+    "uri": "en/42/63414",
+    "id": "63414",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer programs",
+    "harm": {
+      "id": "0057033",
+      "title": "63414 - Design of computer programs",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/63397",
+    "id": "63397",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computer software",
+    "harm": {
+      "id": "0057033",
+      "title": "63397 - Design of computer software",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/864278",
+    "id": "864278",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computers",
+    "harm": {
+      "id": "0006779",
+      "title": "864278 - Design of computers",
+      "conceptLink": "/ec2/concept/5957659"
+    }
+  },
+  {
+    "uri": "en/42/902770",
+    "id": "902770",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of computers for others",
+    "harm": {
+      "id": "0000731",
+      "title": "902770 - Design of computers for others",
+      "conceptLink": "/ec2/concept/5952145"
+    }
+  },
+  {
+    "uri": "en/42/865773",
+    "id": "865773",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of controlled environmental buildings",
+    "harm": {
+      "id": "0005466",
+      "title": "865773 - Design of controlled environmental buildings",
+      "conceptLink": "/ec2/concept/5956464"
+    }
+  },
+  {
+    "uri": "en/42/865789",
+    "id": "865789",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of curtains",
+    "harm": {
+      "id": "0022865",
+      "title": "865789 - Design of curtains",
+      "conceptLink": "/ec2/concept/5972385"
+    }
+  },
+  {
+    "uri": "en/42/137892474",
+    "id": "137892474",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of data processing apparatus",
+    "harm": {
+      "id": "0051522",
+      "title": "137892474 - Design of data processing apparatus",
+      "conceptLink": "/ec2/concept/6010508"
+    }
+  },
+  {
+    "uri": "en/42/83225810",
+    "id": "83225810",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of data storage systems",
+    "harm": {
+      "id": "0051524",
+      "title": "83225810 - Design of data storage systems",
+      "conceptLink": "/ec2/concept/6010510"
+    }
+  },
+  {
+    "uri": "en/42/137892260",
+    "id": "137892260",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of diagnostic apparatus",
+    "harm": {
+      "id": "0051526",
+      "title": "137892260 - Design of diagnostic apparatus",
+      "conceptLink": "/ec2/concept/6010512"
+    }
+  },
+  {
+    "uri": "en/42/120877375",
+    "id": "120877375",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of diagnostic apparatus and equipment",
+    "harm": {
+      "id": "0069227",
+      "title": "120877375 - Design of diagnostic apparatus and equipment",
+      "conceptLink": "/ec2/concept/6005430"
+    }
+  },
+  {
+    "uri": "en/42/137742932",
+    "id": "137742932",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of driver software",
+    "harm": {
+      "id": "0051378",
+      "title": "137742932 - Design of driver software",
+      "conceptLink": "/ec2/concept/6010364"
+    }
+  },
+  {
+    "uri": "en/42/865801",
+    "id": "865801",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of electric circuit boards",
+    "harm": {
+      "id": "0011202",
+      "title": "865801 - Design of electric circuit boards",
+      "conceptLink": "/ec2/concept/5961708"
+    }
+  },
+  {
+    "uri": "en/42/865813",
+    "id": "865813",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of engineered building systems",
+    "harm": {
+      "id": "0034319",
+      "title": "865813 - Design of engineered building systems",
+      "conceptLink": "/ec2/concept/5982862"
+    }
+  },
+  {
+    "uri": "en/42/75461753",
+    "id": "75461753",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of engineering products",
+    "harm": {
+      "id": "0051460",
+      "title": "75461753 - Design of engineering products",
+      "conceptLink": "/ec2/concept/6010446"
+    }
+  },
+  {
+    "uri": "en/42/865856",
+    "id": "865856",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of engineering works for the prevention of inundation of land by flood water",
+    "harm": {
+      "id": "0028520",
+      "title": "865856 - Design of engineering works for the prevention of inundation of land by flood water",
+      "conceptLink": "/ec2/concept/5977568"
+    }
+  },
+  {
+    "uri": "en/42/865827",
+    "id": "865827",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of engineering works for flood prevention",
+    "harm": {
+      "id": "0040067",
+      "title": "865827 - Design of engineering works for flood prevention",
+      "conceptLink": "/ec2/concept/5988092"
+    }
+  },
+  {
+    "uri": "en/42/865841",
+    "id": "865841",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of engineering works for the prevention of inundation of buildings by flood water",
+    "harm": {
+      "id": "0045799",
+      "title": "865841 - Design of engineering works for the prevention of inundation of buildings by flood water",
+      "conceptLink": "/ec2/concept/5993331"
+    }
+  },
+  {
+    "uri": "en/42/865872",
+    "id": "865872",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of equipment for the transportation of freight",
+    "harm": {
+      "id": "0011203",
+      "title": "865872 - Design of equipment for the transportation of freight",
+      "conceptLink": "/ec2/concept/5961709"
+    }
+  },
+  {
+    "uri": "en/42/865888",
+    "id": "865888",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of equipment for the transportation of waste",
+    "harm": {
+      "id": "0040068",
+      "title": "865888 - Design of equipment for the transportation of waste",
+      "conceptLink": "/ec2/concept/5988093"
+    }
+  },
+  {
+    "uri": "en/42/865903",
+    "id": "865903",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of exhibition stands",
+    "harm": {
+      "id": "0024990",
+      "title": "865903 - Design of exhibition stands",
+      "conceptLink": "/ec2/concept/5974340"
+    }
+  },
+  {
+    "uri": "en/42/865923",
+    "id": "865923",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of fashion accessories",
+    "harm": {
+      "id": "0036524",
+      "title": "865923 - Design of fashion accessories",
+      "conceptLink": "/ec2/concept/5984858"
+    }
+  },
+  {
+    "uri": "en/42/865939",
+    "id": "865939",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of floor coverings",
+    "harm": {
+      "id": "0019236",
+      "title": "865939 - Design of floor coverings",
+      "conceptLink": "/ec2/concept/5969075"
+    }
+  },
+  {
+    "uri": "en/42/865962",
+    "id": "865962",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of furnishings",
+    "harm": {
+      "id": "0006012",
+      "title": "865962 - Design of furnishings",
+      "conceptLink": "/ec2/concept/5956961"
+    }
+  },
+  {
+    "uri": "en/42/865961",
+    "id": "865961",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of furniture",
+    "harm": {
+      "id": "0006012",
+      "title": "865961 - Design of furniture",
+      "conceptLink": "/ec2/concept/5956961"
+    }
+  },
+  {
+    "uri": "en/42/899499",
+    "id": "899499",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of games",
+    "harm": {
+      "id": "0008593",
+      "title": "899499 - Design of games",
+      "conceptLink": "/ec2/concept/5959313"
+    }
+  },
+  {
+    "uri": "en/42/132958908",
+    "id": "132958908",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of geological surveys",
+    "harm": {
+      "id": "0069803",
+      "title": "132958908 - Design of geological surveys",
+      "conceptLink": "/ec2/concept/6006006"
+    }
+  },
+  {
+    "uri": "en/42/866009",
+    "id": "866009",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of glass and of glass products",
+    "harm": {
+      "id": "0001829",
+      "title": "866009 - Design of glass and of glass products",
+      "conceptLink": "/ec2/concept/5953132"
+    }
+  },
+  {
+    "uri": "en/42/866024",
+    "id": "866024",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of graphic software systems",
+    "harm": {
+      "id": "0024991",
+      "title": "866024 - Design of graphic software systems",
+      "conceptLink": "/ec2/concept/5974341"
+    }
+  },
+  {
+    "uri": "en/42/866039",
+    "id": "866039",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of graphics and of livery for corporate identity",
+    "harm": {
+      "id": "0030728",
+      "title": "866039 - Design of graphics and of livery for corporate identity",
+      "conceptLink": "/ec2/concept/5979601"
+    }
+  },
+  {
+    "uri": "en/42/902738",
+    "id": "902738",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for audio and video operators",
+    "harm": {
+      "id": "0035450",
+      "title": "902738 - Design of hardware for audio and video operators",
+      "conceptLink": "/ec2/concept/5983884"
+    }
+  },
+  {
+    "uri": "en/42/902742",
+    "id": "902742",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for compression and decompression of multimedia contents",
+    "harm": {
+      "id": "0035452",
+      "title": "902742 - Design of hardware for compression and decompression of multimedia contents",
+      "conceptLink": "/ec2/concept/5983886"
+    }
+  },
+  {
+    "uri": "en/42/902746",
+    "id": "902746",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for data and multimedia content conversion from and to different protocols",
+    "harm": {
+      "id": "0029649",
+      "title": "902746 - Design of hardware for data and multimedia content conversion from and to different protocols",
+      "conceptLink": "/ec2/concept/5978606"
+    }
+  },
+  {
+    "uri": "en/42/902750",
+    "id": "902750",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for digital signal processing",
+    "harm": {
+      "id": "0006505",
+      "title": "902750 - Design of hardware for digital signal processing",
+      "conceptLink": "/ec2/concept/5957411"
+    }
+  },
+  {
+    "uri": "en/42/902754",
+    "id": "902754",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for multimedia data storing and recalling",
+    "harm": {
+      "id": "0035454",
+      "title": "902754 - Design of hardware for multimedia data storing and recalling",
+      "conceptLink": "/ec2/concept/5983888"
+    }
+  },
+  {
+    "uri": "en/42/902758",
+    "id": "902758",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hardware for processing and distribution of multimedia contents",
+    "harm": {
+      "id": "0029653",
+      "title": "902758 - Design of hardware for processing and distribution of multimedia contents",
+      "conceptLink": "/ec2/concept/5978610"
+    }
+  },
+  {
+    "uri": "en/42/137760346",
+    "id": "137760346",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of headgear",
+    "harm": {
+      "id": "0070771",
+      "title": "137760346 - Design of headgear",
+      "conceptLink": "/ec2/concept/6006963"
+    }
+  },
+  {
+    "uri": "en/42/866055",
+    "id": "866055",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of health care buildings",
+    "harm": {
+      "id": "0013419",
+      "title": "866055 - Design of health care buildings",
+      "conceptLink": "/ec2/concept/5963736"
+    }
+  },
+  {
+    "uri": "en/42/866068",
+    "id": "866068",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of heating",
+    "harm": {
+      "id": "0036525",
+      "title": "866068 - Design of heating",
+      "conceptLink": "/ec2/concept/5984859"
+    }
+  },
+  {
+    "uri": "en/42/374572",
+    "id": "374572",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of home pages",
+    "harm": {
+      "id": "0020996",
+      "title": "374572 - Design of home pages",
+      "conceptLink": "/ec2/concept/5970674"
+    }
+  },
+  {
+    "uri": "en/42/902786",
+    "id": "902786",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of home pages and web sites",
+    "harm": {
+      "id": "0011066",
+      "title": "902786 - Design of home pages and web sites",
+      "conceptLink": "/ec2/concept/5961586"
+    }
+  },
+  {
+    "uri": "en/42/6151574",
+    "id": "6151574",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of homepages and Internet pages",
+    "harm": {
+      "id": "0006721",
+      "title": "6151574 - Design of homepages and Internet pages",
+      "conceptLink": "/ec2/concept/5957609"
+    }
+  },
+  {
+    "uri": "en/42/374588",
+    "id": "374588",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of homepages and websites",
+    "harm": {
+      "id": "0011066",
+      "title": "374588 - Design of homepages and websites",
+      "conceptLink": "/ec2/concept/5961586"
+    }
+  },
+  {
+    "uri": "en/42/866081",
+    "id": "866081",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of hotels",
+    "harm": {
+      "id": "0001830",
+      "title": "866081 - Design of hotels",
+      "conceptLink": "/ec2/concept/5953133"
+    }
+  },
+  {
+    "uri": "en/42/232624761",
+    "id": "232624761",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of ice sculptures",
+    "harm": {
+      "id": "0072160",
+      "title": "232624761 - Design of ice sculptures",
+      "conceptLink": "/ec2/concept/6008343"
+    }
+  },
+  {
+    "uri": "en/42/866095",
+    "id": "866095",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of industrial buildings",
+    "harm": {
+      "id": "0036526",
+      "title": "866095 - Design of industrial buildings",
+      "conceptLink": "/ec2/concept/5984860"
+    }
+  },
+  {
+    "uri": "en/42/866107",
+    "id": "866107",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of industrial machinery",
+    "harm": {
+      "id": "0007572",
+      "title": "866107 - Design of industrial machinery",
+      "conceptLink": "/ec2/concept/5958389"
+    }
+  },
+  {
+    "uri": "en/42/62030",
+    "id": "62030",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of industrial plant",
+    "harm": {
+      "id": "0042294",
+      "title": "62030 - Design of industrial plant",
+      "conceptLink": "/ec2/concept/5990126"
+    }
+  },
+  {
+    "uri": "en/42/866119",
+    "id": "866119",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of industrial products",
+    "harm": {
+      "id": "0033712",
+      "title": "866119 - Design of industrial products",
+      "conceptLink": "/ec2/concept/5982307"
+    }
+  },
+  {
+    "uri": "en/42/899529",
+    "id": "899529",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of information systems relating to finance",
+    "harm": {
+      "id": "0008594",
+      "title": "899529 - Design of information systems relating to finance",
+      "conceptLink": "/ec2/concept/5959314"
+    }
+  },
+  {
+    "uri": "en/42/899515",
+    "id": "899515",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of information systems",
+    "harm": {
+      "id": "0037558",
+      "title": "899515 - Design of information systems",
+      "conceptLink": "/ec2/concept/5985796"
+    }
+  },
+  {
+    "uri": "en/42/899543",
+    "id": "899543",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of information systems relating to management",
+    "harm": {
+      "id": "0025956",
+      "title": "899543 - Design of information systems relating to management",
+      "conceptLink": "/ec2/concept/5975221"
+    }
+  },
+  {
+    "uri": "en/42/375438",
+    "id": "375438",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of instruments",
+    "harm": {
+      "id": "0001965",
+      "title": "375438 - Design of instruments",
+      "conceptLink": "/ec2/concept/5953256"
+    }
+  },
+  {
+    "uri": "en/42/866135",
+    "id": "866135",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of integrated circuits",
+    "harm": {
+      "id": "0007574",
+      "title": "866135 - Design of integrated circuits",
+      "conceptLink": "/ec2/concept/5958391"
+    }
+  },
+  {
+    "uri": "en/42/61917",
+    "id": "61917",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of interior decor",
+    "harm": {
+      "id": "0072744",
+      "title": "61917 - Design of interior decor",
+      "conceptLink": "/ec2/concept/6008921"
+    }
+  },
+  {
+    "uri": "en/42/137742422",
+    "id": "137742422",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of interior decor for shops",
+    "harm": {
+      "id": "0051385",
+      "title": "137742422 - Design of interior decor for shops",
+      "conceptLink": "/ec2/concept/6010371"
+    }
+  },
+  {
+    "uri": "en/42/61915",
+    "id": "61915",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of interior decoration",
+    "harm": {
+      "id": "0072744",
+      "title": "61915 - Design of interior decoration",
+      "conceptLink": "/ec2/concept/6008921"
+    }
+  },
+  {
+    "uri": "en/42/65105093",
+    "id": "65105093",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of Internet pages",
+    "harm": {
+      "id": "0057338",
+      "title": "65105093 - Design of Internet pages",
+      "conceptLink": "/ec2/concept/5998845"
+    }
+  },
+  {
+    "uri": "en/42/866166",
+    "id": "866166",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of jewellery",
+    "harm": {
+      "id": "0034888",
+      "title": "866166 - Design of jewellery",
+      "conceptLink": "/ec2/concept/5983377"
+    }
+  },
+  {
+    "uri": "en/42/866213",
+    "id": "866213",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of kitchens",
+    "harm": {
+      "id": "0016435",
+      "title": "866213 - Design of kitchens",
+      "conceptLink": "/ec2/concept/5966523"
+    }
+  },
+  {
+    "uri": "en/42/866244",
+    "id": "866244",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of laboratory animal housing systems",
+    "harm": {
+      "id": "0033713",
+      "title": "866244 - Design of laboratory animal housing systems",
+      "conceptLink": "/ec2/concept/5982308"
+    }
+  },
+  {
+    "uri": "en/42/132958915",
+    "id": "132958915",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of land surveys",
+    "harm": {
+      "id": "0070772",
+      "title": "132958915 - Design of land surveys",
+      "conceptLink": "/ec2/concept/6006964"
+    }
+  },
+  {
+    "uri": "en/42/866257",
+    "id": "866257",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of land vehicle parts",
+    "harm": {
+      "id": "0045257",
+      "title": "866257 - Design of land vehicle parts",
+      "conceptLink": "/ec2/concept/5992837"
+    }
+  },
+  {
+    "uri": "en/42/866270",
+    "id": "866270",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of land vehicles",
+    "harm": {
+      "id": "0045258",
+      "title": "866270 - Design of land vehicles",
+      "conceptLink": "/ec2/concept/5992838"
+    }
+  },
+  {
+    "uri": "en/42/866297",
+    "id": "866297",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of layouts for offices",
+    "harm": {
+      "id": "0010624",
+      "title": "866297 - Design of layouts for offices",
+      "conceptLink": "/ec2/concept/5961181"
+    }
+  },
+  {
+    "uri": "en/42/866283",
+    "id": "866283",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of layouts for office furniture",
+    "harm": {
+      "id": "0039518",
+      "title": "866283 - Design of layouts for office furniture",
+      "conceptLink": "/ec2/concept/5987585"
+    }
+  },
+  {
+    "uri": "en/42/866311",
+    "id": "866311",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of lighting systems",
+    "harm": {
+      "id": "0033714",
+      "title": "866311 - Design of lighting systems",
+      "conceptLink": "/ec2/concept/5982309"
+    }
+  },
+  {
+    "uri": "en/42/899586",
+    "id": "899586",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of logos for corporate identity",
+    "harm": {
+      "id": "0031751",
+      "title": "899586 - Design of logos for corporate identity",
+      "conceptLink": "/ec2/concept/5980515"
+    }
+  },
+  {
+    "uri": "en/42/866327",
+    "id": "866327",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of logos for t-shirts",
+    "harm": {
+      "id": "0000463",
+      "title": "866327 - Design of logos for t-shirts",
+      "conceptLink": "/ec2/concept/5951902"
+    }
+  },
+  {
+    "uri": "en/42/866339",
+    "id": "866339",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of manufacturing methods",
+    "harm": {
+      "id": "0012044",
+      "title": "866339 - Design of manufacturing methods",
+      "conceptLink": "/ec2/concept/5962488"
+    }
+  },
+  {
+    "uri": "en/42/866355",
+    "id": "866355",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of mathematical models",
+    "harm": {
+      "id": "0035141",
+      "title": "866355 - Design of mathematical models",
+      "conceptLink": "/ec2/concept/5983600"
+    }
+  },
+  {
+    "uri": "en/42/471768",
+    "id": "471768",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of measurement systems",
+    "harm": {
+      "id": "0042486",
+      "title": "471768 - Design of measurement systems",
+      "conceptLink": "/ec2/concept/5990305"
+    }
+  },
+  {
+    "uri": "en/42/374608",
+    "id": "374608",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of mechanical and micromechanical components",
+    "harm": {
+      "id": "0034183",
+      "title": "374608 - Design of mechanical and micromechanical components",
+      "conceptLink": "/ec2/concept/5982742"
+    }
+  },
+  {
+    "uri": "en/42/504758",
+    "id": "504758",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of mechanical, electromechanical and optoelectronic apparatus and instruments",
+    "harm": {
+      "id": "0026011",
+      "title": "504758 - Design of mechanical, electromechanical and optoelectronic apparatus and instruments",
+      "conceptLink": "/ec2/concept/5975274"
+    }
+  },
+  {
+    "uri": "en/42/891087",
+    "id": "891087",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of mobile telephones",
+    "harm": {
+      "id": "0008581",
+      "title": "891087 - Design of mobile telephones",
+      "conceptLink": "/ec2/concept/5959302"
+    }
+  },
+  {
+    "uri": "en/42/866369",
+    "id": "866369",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of models",
+    "harm": {
+      "id": "0000464",
+      "title": "866369 - Design of models",
+      "conceptLink": "/ec2/concept/5951903"
+    }
+  },
+  {
+    "uri": "en/42/866384",
+    "id": "866384",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of monumental masonry",
+    "harm": {
+      "id": "0012045",
+      "title": "866384 - Design of monumental masonry",
+      "conceptLink": "/ec2/concept/5962489"
+    }
+  },
+  {
+    "uri": "en/42/866397",
+    "id": "866397",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of motor racing cars",
+    "harm": {
+      "id": "0035142",
+      "title": "866397 - Design of motor racing cars",
+      "conceptLink": "/ec2/concept/5983601"
+    }
+  },
+  {
+    "uri": "en/42/866410",
+    "id": "866410",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of motor vehicle parts",
+    "harm": {
+      "id": "0029360",
+      "title": "866410 - Design of motor vehicle parts",
+      "conceptLink": "/ec2/concept/5978335"
+    }
+  },
+  {
+    "uri": "en/42/866421",
+    "id": "866421",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of motor vehicles",
+    "harm": {
+      "id": "0000465",
+      "title": "866421 - Design of motor vehicles",
+      "conceptLink": "/ec2/concept/5951904"
+    }
+  },
+  {
+    "uri": "en/42/866434",
+    "id": "866434",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of moulds",
+    "harm": {
+      "id": "0000466",
+      "title": "866434 - Design of moulds",
+      "conceptLink": "/ec2/concept/5951905"
+    }
+  },
+  {
+    "uri": "en/42/866449",
+    "id": "866449",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of office automation equipment",
+    "harm": {
+      "id": "0029361",
+      "title": "866449 - Design of office automation equipment",
+      "conceptLink": "/ec2/concept/5978336"
+    }
+  },
+  {
+    "uri": "en/42/866461",
+    "id": "866461",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of office space",
+    "harm": {
+      "id": "0006251",
+      "title": "866461 - Design of office space",
+      "conceptLink": "/ec2/concept/5957181"
+    }
+  },
+  {
+    "uri": "en/42/132958921",
+    "id": "132958921",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of oil-field surveys",
+    "harm": {
+      "id": "0070773",
+      "title": "132958921 - Design of oil-field surveys",
+      "conceptLink": "/ec2/concept/6006965"
+    }
+  },
+  {
+    "uri": "en/42/137742857",
+    "id": "137742857",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of operating system software",
+    "harm": {
+      "id": "0051375",
+      "title": "137742857 - Design of operating system software",
+      "conceptLink": "/ec2/concept/6010361"
+    }
+  },
+  {
+    "uri": "en/42/902787",
+    "id": "902787",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of optical and microoptical components",
+    "harm": {
+      "id": "0041229",
+      "title": "902787 - Design of optical and microoptical components",
+      "conceptLink": "/ec2/concept/5989154"
+    }
+  },
+  {
+    "uri": "en/42/866475",
+    "id": "866475",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of ornamental layouts",
+    "harm": {
+      "id": "0023641",
+      "title": "866475 - Design of ornamental layouts",
+      "conceptLink": "/ec2/concept/5973092"
+    }
+  },
+  {
+    "uri": "en/42/866488",
+    "id": "866488",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of ornamental structures",
+    "harm": {
+      "id": "0006252",
+      "title": "866488 - Design of ornamental structures",
+      "conceptLink": "/ec2/concept/5957182"
+    }
+  },
+  {
+    "uri": "en/42/62131",
+    "id": "62131",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of packaging",
+    "harm": {
+      "id": "0005939",
+      "title": "62131 - Design of packaging",
+      "conceptLink": "/ec2/concept/5956891"
+    }
+  },
+  {
+    "uri": "en/42/866502",
+    "id": "866502",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of pipelines",
+    "harm": {
+      "id": "0035143",
+      "title": "866502 - Design of pipelines",
+      "conceptLink": "/ec2/concept/5983602"
+    }
+  },
+  {
+    "uri": "en/42/866516",
+    "id": "866516",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of post card cartoon characters",
+    "harm": {
+      "id": "0006253",
+      "title": "866516 - Design of post card cartoon characters",
+      "conceptLink": "/ec2/concept/5957183"
+    }
+  },
+  {
+    "uri": "en/42/866531",
+    "id": "866531",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of printed material",
+    "harm": {
+      "id": "0029362",
+      "title": "866531 - Design of printed material",
+      "conceptLink": "/ec2/concept/5978337"
+    }
+  },
+  {
+    "uri": "en/42/866530",
+    "id": "866530",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of printed matter",
+    "harm": {
+      "id": "0029362",
+      "title": "866530 - Design of printed matter",
+      "conceptLink": "/ec2/concept/5978337"
+    }
+  },
+  {
+    "uri": "en/42/473866",
+    "id": "473866",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of products",
+    "harm": {
+      "id": "0057091",
+      "title": "473866 - Design of products",
+      "conceptLink": "/ec2/concept/5998723"
+    }
+  },
+  {
+    "uri": "en/42/902733",
+    "id": "902733",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of programs for computers",
+    "harm": {
+      "id": "0057033",
+      "title": "902733 - Design of programs for computers",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/120877070",
+    "id": "120877070",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of prostheses",
+    "harm": {
+      "id": "0069264",
+      "title": "120877070 - Design of prostheses",
+      "conceptLink": "/ec2/concept/6005467"
+    }
+  },
+  {
+    "uri": "en/42/866564",
+    "id": "866564",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Design of protective clothing",
+    "harm": {
+      "id": "0012046",
+      "title": "866564 - Design of protective clothing",
+      "conceptLink": "/ec2/concept/5962490"
+    }
+  }
+]

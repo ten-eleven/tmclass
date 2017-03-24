@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/623801",
+    "id": "623801",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of perfumery compositions",
+    "harm": {
+      "id": "0013923",
+      "title": "623801 - Chemical products for the manufacture of perfumery compositions",
+      "conceptLink": "/ec2/concept/5964198"
+    }
+  },
+  {
+    "uri": "en/1/488364",
+    "id": "488364",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of adhesives",
+    "harm": {
+      "id": "0005726",
+      "title": "488364 - Chemical products for the manufacture of adhesives",
+      "conceptLink": "/ec2/concept/5956701"
+    }
+  },
+  {
+    "uri": "en/1/1953",
+    "id": "1953",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the fresh-keeping and preserving of food",
+    "harm": {
+      "id": "0006086",
+      "title": "1953 - Chemical products for the fresh-keeping and preserving of food",
+      "conceptLink": "/ec2/concept/5957030"
+    }
+  },
+  {
+    "uri": "en/1/309815",
+    "id": "309815",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the preparation of enamels",
+    "harm": {
+      "id": "0012689",
+      "title": "309815 - Chemical products for the preparation of enamels",
+      "conceptLink": "/ec2/concept/5963076"
+    }
+  },
+  {
+    "uri": "en/1/623736",
+    "id": "623736",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the treatment of sewage",
+    "harm": {
+      "id": "0012168",
+      "title": "623736 - Chemical products for the treatment of sewage",
+      "conceptLink": "/ec2/concept/5962601"
+    }
+  },
+  {
+    "uri": "en/1/623789",
+    "id": "623789",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of cosmetics",
+    "harm": {
+      "id": "0037067",
+      "title": "623789 - Chemical products for the manufacture of cosmetics",
+      "conceptLink": "/ec2/concept/5985354"
+    }
+  },
+  {
+    "uri": "en/1/623869",
+    "id": "623869",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the preparation of odorous products",
+    "harm": {
+      "id": "0025467",
+      "title": "623869 - Chemical products for the preparation of odorous products",
+      "conceptLink": "/ec2/concept/5974778"
+    }
+  },
+  {
+    "uri": "en/1/892494",
+    "id": "892494",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the treatment of plant diseases",
+    "harm": {
+      "id": "0002871",
+      "title": "892494 - Chemical products for the treatment of plant diseases",
+      "conceptLink": "/ec2/concept/5954071"
+    }
+  },
+  {
+    "uri": "en/1/892481",
+    "id": "892481",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of binders",
+    "harm": {
+      "id": "0002870",
+      "title": "892481 - Chemical products for the manufacture of binders",
+      "conceptLink": "/ec2/concept/5954070"
+    }
+  },
+  {
+    "uri": "en/1/623813",
+    "id": "623813",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of photographic products",
+    "harm": {
+      "id": "0031195",
+      "title": "623813 - Chemical products for the manufacture of photographic products",
+      "conceptLink": "/ec2/concept/5980024"
+    }
+  },
+  {
+    "uri": "en/1/623841",
+    "id": "623841",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the manufacture of toilet preparations",
+    "harm": {
+      "id": "0031196",
+      "title": "623841 - Chemical products for the manufacture of toilet preparations",
+      "conceptLink": "/ec2/concept/5980025"
+    }
+  },
+  {
+    "uri": "en/1/623882",
+    "id": "623882",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the preparation of perfumes",
+    "harm": {
+      "id": "0042801",
+      "title": "623882 - Chemical products for the preparation of perfumes",
+      "conceptLink": "/ec2/concept/5990579"
+    }
+  },
+  {
+    "uri": "en/1/623895",
+    "id": "623895",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the treatment of drinking water",
+    "harm": {
+      "id": "0042802",
+      "title": "623895 - Chemical products for the treatment of drinking water",
+      "conceptLink": "/ec2/concept/5990580"
+    }
+  },
+  {
+    "uri": "en/1/623853",
+    "id": "623853",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for the preparation of flavourings",
+    "harm": {
+      "id": "0042800",
+      "title": "623853 - Chemical products for the preparation of flavourings",
+      "conceptLink": "/ec2/concept/5990578"
+    }
+  },
+  {
+    "uri": "en/1/6673",
+    "id": "6673",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical products for use in science [other than medical or veterinary]",
+    "harm": {
+      "id": "0018082",
+      "title": "6673 - Chemical products for use in science [other than medical or veterinary]",
+      "conceptLink": "/ec2/concept/5968007"
+    }
+  },
+  {
+    "uri": "en/1/623906",
+    "id": "623906",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagent mixtures in kit form, other than for medical or veterinary use",
+    "harm": {
+      "id": "0002365",
+      "title": "623906 - Chemical reagent mixtures in kit form, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5953617"
+    }
+  },
+  {
+    "uri": "en/1/623933",
+    "id": "623933",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagent mixtures, other than for medical or veterinary use",
+    "harm": {
+      "id": "0008055",
+      "title": "623933 - Chemical reagent mixtures, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5958829"
+    }
+  },
+  {
+    "uri": "en/1/623919",
+    "id": "623919",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagent mixtures in tablet form for testing water [other than for medical or veterinary use]",
+    "harm": {
+      "id": "0042803",
+      "title": "623919 - Chemical reagent mixtures in tablet form for testing water [other than for medical or veterinary use]",
+      "conceptLink": "/ec2/concept/5990581"
+    }
+  },
+  {
+    "uri": "en/1/623952",
+    "id": "623952",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for cleansing gases",
+    "harm": {
+      "id": "0041717",
+      "title": "623952 - Chemical reagents for cleansing gases",
+      "conceptLink": "/ec2/concept/5989600"
+    }
+  },
+  {
+    "uri": "en/1/623953",
+    "id": "623953",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for decontaminating gases",
+    "harm": {
+      "id": "0041717",
+      "title": "623953 - Chemical reagents for decontaminating gases",
+      "conceptLink": "/ec2/concept/5989600"
+    }
+  },
+  {
+    "uri": "en/1/137543694",
+    "id": "137543694",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for genetic identity testing",
+    "harm": {
+      "id": "0032889",
+      "title": "137543694 - Chemical reagents for genetic identity testing",
+      "conceptLink": "/ec2/concept/5981550"
+    }
+  },
+  {
+    "uri": "en/1/623973",
+    "id": "623973",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for identification of microorganisms, other than for medical or veterinary use",
+    "harm": {
+      "id": "0007014",
+      "title": "623973 - Chemical reagents for identification of microorganisms, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5957873"
+    }
+  },
+  {
+    "uri": "en/1/623988",
+    "id": "623988",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for laboratory use, other than for medical or veterinary use",
+    "harm": {
+      "id": "0041718",
+      "title": "623988 - Chemical reagents for laboratory use, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5989601"
+    }
+  },
+  {
+    "uri": "en/1/624004",
+    "id": "624004",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for molecular biology, other than for medical or veterinary use",
+    "harm": {
+      "id": "0041719",
+      "title": "624004 - Chemical reagents for molecular biology, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5989602"
+    }
+  },
+  {
+    "uri": "en/1/309830",
+    "id": "309830",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for non-medical purposes",
+    "harm": {
+      "id": "0012690",
+      "title": "309830 - Chemical reagents for non-medical purposes",
+      "conceptLink": "/ec2/concept/5963077"
+    }
+  },
+  {
+    "uri": "en/1/2710655",
+    "id": "2710655",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for scientific purposes",
+    "harm": {
+      "id": "0035951",
+      "title": "2710655 - Chemical reagents for scientific purposes",
+      "conceptLink": "/ec2/concept/5984335"
+    }
+  },
+  {
+    "uri": "en/1/624019",
+    "id": "624019",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for susceptibility determinations, other than for medical or veterinary use",
+    "harm": {
+      "id": "0035950",
+      "title": "624019 - Chemical reagents for susceptibility determinations, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5984334"
+    }
+  },
+  {
+    "uri": "en/1/624031",
+    "id": "624031",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for testing for chlorine",
+    "harm": {
+      "id": "0001241",
+      "title": "624031 - Chemical reagents for testing for chlorine",
+      "conceptLink": "/ec2/concept/5952604"
+    }
+  },
+  {
+    "uri": "en/1/624061",
+    "id": "624061",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in biotechnology, other than for medical or veterinary use",
+    "harm": {
+      "id": "0007015",
+      "title": "624061 - Chemical reagents for use in biotechnology, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5957874"
+    }
+  },
+  {
+    "uri": "en/1/624129",
+    "id": "624129",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in science, other than for medical or veterinary use",
+    "harm": {
+      "id": "0035951",
+      "title": "624129 - Chemical reagents for use in science, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5984335"
+    }
+  },
+  {
+    "uri": "en/1/624046",
+    "id": "624046",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in analytical tests, other than for medical or veterinary use",
+    "harm": {
+      "id": "0024419",
+      "title": "624046 - Chemical reagents for use in analytical tests, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5973810"
+    }
+  },
+  {
+    "uri": "en/1/624142",
+    "id": "624142",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use with immunoassay analyzers, other than for medical or veterinary use",
+    "harm": {
+      "id": "0001243",
+      "title": "624142 - Chemical reagents for use with immunoassay analyzers, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5952606"
+    }
+  },
+  {
+    "uri": "en/1/624090",
+    "id": "624090",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in diagnostic tests, other than for medical or veterinary use",
+    "harm": {
+      "id": "0001242",
+      "title": "624090 - Chemical reagents for use in diagnostic tests, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5952605"
+    }
+  },
+  {
+    "uri": "en/1/624075",
+    "id": "624075",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in diagnosis, other than for medical or veterinary use",
+    "harm": {
+      "id": "0030139",
+      "title": "624075 - Chemical reagents for use in diagnosis, other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5979052"
+    }
+  },
+  {
+    "uri": "en/1/137871460",
+    "id": "137871460",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in genetic research",
+    "harm": {
+      "id": "0073622",
+      "title": "137871460 - Chemical reagents for use in genetic research",
+      "conceptLink": "/ec2/concept/6009794"
+    }
+  },
+  {
+    "uri": "en/1/624104",
+    "id": "624104",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in identification of yeast using sugars assimilation",
+    "harm": {
+      "id": "0041720",
+      "title": "624104 - Chemical reagents for use in identification of yeast using sugars assimilation",
+      "conceptLink": "/ec2/concept/5989603"
+    }
+  },
+  {
+    "uri": "en/1/624116",
+    "id": "624116",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents for use in industry",
+    "harm": {
+      "id": "0041721",
+      "title": "624116 - Chemical reagents for use in industry",
+      "conceptLink": "/ec2/concept/5989604"
+    }
+  },
+  {
+    "uri": "en/1/6722",
+    "id": "6722",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents, other than for medical or veterinary purpose",
+    "harm": {
+      "id": "0000388",
+      "title": "6722 - Chemical reagents, other than for medical or veterinary purpose",
+      "conceptLink": "/ec2/concept/5951836"
+    }
+  },
+  {
+    "uri": "en/1/6724",
+    "id": "6724",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical reagents, other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0000388",
+      "title": "6724 - Chemical reagents, other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5951836"
+    }
+  },
+  {
+    "uri": "en/1/624174",
+    "id": "624174",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sealing grout for use in the building industry",
+    "harm": {
+      "id": "0012838",
+      "title": "624174 - Chemical sealing grout for use in the building industry",
+      "conceptLink": "/ec2/concept/5963210"
+    }
+  },
+  {
+    "uri": "en/1/624175",
+    "id": "624175",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sealing grout for use in the construction industry",
+    "harm": {
+      "id": "0012838",
+      "title": "624175 - Chemical sealing grout for use in the construction industry",
+      "conceptLink": "/ec2/concept/5963210"
+    }
+  },
+  {
+    "uri": "en/1/892506",
+    "id": "892506",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical seasonings [for food manufacture]",
+    "harm": {
+      "id": "0037551",
+      "title": "892506 - Chemical seasonings [for food manufacture]",
+      "conceptLink": "/ec2/concept/5985791"
+    }
+  },
+  {
+    "uri": "en/1/624260",
+    "id": "624260",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for use in the manufacture of yarns",
+    "harm": {
+      "id": "0013842",
+      "title": "624260 - Chemical sizing compositions for use in the manufacture of yarns",
+      "conceptLink": "/ec2/concept/5964123"
+    }
+  },
+  {
+    "uri": "en/1/624247",
+    "id": "624247",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for use in the manufacture of threads",
+    "harm": {
+      "id": "0036978",
+      "title": "624247 - Chemical sizing compositions for use in the manufacture of threads",
+      "conceptLink": "/ec2/concept/5985276"
+    }
+  },
+  {
+    "uri": "en/1/624221",
+    "id": "624221",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for use in the manufacture of pulp",
+    "harm": {
+      "id": "0019678",
+      "title": "624221 - Chemical sizing compositions for use in the manufacture of pulp",
+      "conceptLink": "/ec2/concept/5969471"
+    }
+  },
+  {
+    "uri": "en/1/624234",
+    "id": "624234",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for use in the manufacture of textiles",
+    "harm": {
+      "id": "0025381",
+      "title": "624234 - Chemical sizing compositions for use in the manufacture of textiles",
+      "conceptLink": "/ec2/concept/5974693"
+    }
+  },
+  {
+    "uri": "en/1/624195",
+    "id": "624195",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for the manufacture of paper",
+    "harm": {
+      "id": "0001244",
+      "title": "624195 - Chemical sizing compositions for the manufacture of paper",
+      "conceptLink": "/ec2/concept/5952607"
+    }
+  },
+  {
+    "uri": "en/1/624208",
+    "id": "624208",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sizing compositions for use in the manufacture of paperboard",
+    "harm": {
+      "id": "0030140",
+      "title": "624208 - Chemical sizing compositions for use in the manufacture of paperboard",
+      "conceptLink": "/ec2/concept/5979053"
+    }
+  },
+  {
+    "uri": "en/1/309845",
+    "id": "309845",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical soil conditioners",
+    "harm": {
+      "id": "0031287",
+      "title": "309845 - Chemical soil conditioners",
+      "conceptLink": "/ec2/concept/5980109"
+    }
+  },
+  {
+    "uri": "en/1/132870711",
+    "id": "132870711",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sorbents",
+    "harm": {
+      "id": "0011992",
+      "title": "132870711 - Chemical sorbents",
+      "conceptLink": "/ec2/concept/5962439"
+    }
+  },
+  {
+    "uri": "en/1/309859",
+    "id": "309859",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical source material for the deposition of thin films upon semiconductor wafers for the manufacture of semiconductors",
+    "harm": {
+      "id": "0024279",
+      "title": "309859 - Chemical source material for the deposition of thin films upon semiconductor wafers for the manufacture of semiconductors",
+      "conceptLink": "/ec2/concept/5973687"
+    }
+  },
+  {
+    "uri": "en/1/901693",
+    "id": "901693",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical sprays for stretching shoes",
+    "harm": {
+      "id": "0017763",
+      "title": "901693 - Chemical sprays for stretching shoes",
+      "conceptLink": "/ec2/concept/5967716"
+    }
+  },
+  {
+    "uri": "en/1/624298",
+    "id": "624298",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical stabilisers for use on wall coverings",
+    "harm": {
+      "id": "0013843",
+      "title": "624298 - Chemical stabilisers for use on wall coverings",
+      "conceptLink": "/ec2/concept/5964124"
+    }
+  },
+  {
+    "uri": "en/1/624285",
+    "id": "624285",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical stabilisers for use on upholstery",
+    "harm": {
+      "id": "0031122",
+      "title": "624285 - Chemical stabilisers for use on upholstery",
+      "conceptLink": "/ec2/concept/5979957"
+    }
+  },
+  {
+    "uri": "en/1/624272",
+    "id": "624272",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical stabilisers for use on floor coverings",
+    "harm": {
+      "id": "0042714",
+      "title": "624272 - Chemical stabilisers for use on floor coverings",
+      "conceptLink": "/ec2/concept/5990505"
+    }
+  },
+  {
+    "uri": "en/1/892522",
+    "id": "892522",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances absorbed on carriers for use as food preservatives",
+    "harm": {
+      "id": "0002872",
+      "title": "892522 - Chemical substances absorbed on carriers for use as food preservatives",
+      "conceptLink": "/ec2/concept/5954072"
+    }
+  },
+  {
+    "uri": "en/1/131116683",
+    "id": "131116683",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances, chemical materials and chemical preparations, and natural elements",
+    "harm": {
+      "id": "0047630",
+      "title": "131116683 - Chemical substances, chemical materials and chemical preparations, and natural elements",
+      "conceptLink": "/ec2/concept/5994905"
+    }
+  },
+  {
+    "uri": "en/1/6860",
+    "id": "6860",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for analysis in laboratories [other than for medical or veterinary purposes]",
+    "harm": {
+      "id": "0007979",
+      "title": "6860 - Chemical substances for analysis in laboratories [other than for medical or veterinary purposes]",
+      "conceptLink": "/ec2/concept/5958760"
+    }
+  },
+  {
+    "uri": "en/1/892536",
+    "id": "892536",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for analysis in laboratories",
+    "harm": {
+      "id": "0025932",
+      "title": "892536 - Chemical substances for analysis in laboratories",
+      "conceptLink": "/ec2/concept/5975200"
+    }
+  },
+  {
+    "uri": "en/1/6861",
+    "id": "6861",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for analyses in laboratories, other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0007979",
+      "title": "6861 - Chemical substances for analyses in laboratories, other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5958760"
+    }
+  },
+  {
+    "uri": "en/1/624310",
+    "id": "624310",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for generating foam",
+    "harm": {
+      "id": "0025382",
+      "title": "624310 - Chemical substances for generating foam",
+      "conceptLink": "/ec2/concept/5974694"
+    }
+  },
+  {
+    "uri": "en/1/624327",
+    "id": "624327",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for impregnation into membranes to separate proteins from liquids",
+    "harm": {
+      "id": "0019679",
+      "title": "624327 - Chemical substances for impregnation into membranes to separate proteins from liquids",
+      "conceptLink": "/ec2/concept/5969472"
+    }
+  },
+  {
+    "uri": "en/1/624339",
+    "id": "624339",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for making adhesives",
+    "harm": {
+      "id": "0002270",
+      "title": "624339 - Chemical substances for making adhesives",
+      "conceptLink": "/ec2/concept/5953529"
+    }
+  },
+  {
+    "uri": "en/1/624352",
+    "id": "624352",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for modifying the properties of polymers",
+    "harm": {
+      "id": "0031123",
+      "title": "624352 - Chemical substances for modifying the properties of polymers",
+      "conceptLink": "/ec2/concept/5979958"
+    }
+  },
+  {
+    "uri": "en/1/624365",
+    "id": "624365",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for preserving and emulsifying foodstuffs",
+    "harm": {
+      "id": "0007980",
+      "title": "624365 - Chemical substances for preserving and emulsifying foodstuffs",
+      "conceptLink": "/ec2/concept/5958761"
+    }
+  },
+  {
+    "uri": "en/1/624382",
+    "id": "624382",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for purifying water",
+    "harm": {
+      "id": "0007526",
+      "title": "624382 - Chemical substances for purifying water",
+      "conceptLink": "/ec2/concept/5958347"
+    }
+  },
+  {
+    "uri": "en/1/1959",
+    "id": "1959",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for preserving foodstuffs",
+    "harm": {
+      "id": "0006086",
+      "title": "1959 - Chemical substances for preserving foodstuffs",
+      "conceptLink": "/ec2/concept/5957030"
+    }
+  },
+  {
+    "uri": "en/1/624404",
+    "id": "624404",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for removing contaminants from gas-treating solvents",
+    "harm": {
+      "id": "0025383",
+      "title": "624404 - Chemical substances for removing contaminants from gas-treating solvents",
+      "conceptLink": "/ec2/concept/5974695"
+    }
+  },
+  {
+    "uri": "en/1/137543461",
+    "id": "137543461",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for stabilising foodstuffs",
+    "harm": {
+      "id": "0013922",
+      "title": "137543461 - Chemical substances for stabilising foodstuffs",
+      "conceptLink": "/ec2/concept/5964197"
+    }
+  },
+  {
+    "uri": "en/1/624417",
+    "id": "624417",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for stabilizing foam",
+    "harm": {
+      "id": "0031124",
+      "title": "624417 - Chemical substances for stabilizing foam",
+      "conceptLink": "/ec2/concept/5979959"
+    }
+  },
+  {
+    "uri": "en/1/624429",
+    "id": "624429",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for the manufacture of insect repellents",
+    "harm": {
+      "id": "0025384",
+      "title": "624429 - Chemical substances for the manufacture of insect repellents",
+      "conceptLink": "/ec2/concept/5974696"
+    }
+  },
+  {
+    "uri": "en/1/892552",
+    "id": "892552",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for the enhancement of the environment",
+    "harm": {
+      "id": "0031733",
+      "title": "892552 - Chemical substances for the enhancement of the environment",
+      "conceptLink": "/ec2/concept/5980499"
+    }
+  },
+  {
+    "uri": "en/1/892567",
+    "id": "892567",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for the protection of the environment",
+    "harm": {
+      "id": "0043307",
+      "title": "892567 - Chemical substances for the protection of the environment",
+      "conceptLink": "/ec2/concept/5991043"
+    }
+  },
+  {
+    "uri": "en/1/624484",
+    "id": "624484",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as additives to industrial lubricating oils",
+    "harm": {
+      "id": "0003478",
+      "title": "624484 - Chemical substances for use as additives to industrial lubricating oils",
+      "conceptLink": "/ec2/concept/5954633"
+    }
+  },
+  {
+    "uri": "en/1/624472",
+    "id": "624472",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as additives to industrial lubricating greases",
+    "harm": {
+      "id": "0003477",
+      "title": "624472 - Chemical substances for use as additives to industrial lubricating greases",
+      "conceptLink": "/ec2/concept/5954632"
+    }
+  },
+  {
+    "uri": "en/1/624908",
+    "id": "624908",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in treating poisonous gases",
+    "harm": {
+      "id": "0002072",
+      "title": "624908 - Chemical substances for use in treating poisonous gases",
+      "conceptLink": "/ec2/concept/5953350"
+    }
+  },
+  {
+    "uri": "en/1/624845",
+    "id": "624845",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the production of drugs",
+    "harm": {
+      "id": "0002070",
+      "title": "624845 - Chemical substances for use in the production of drugs",
+      "conceptLink": "/ec2/concept/5953348"
+    }
+  },
+  {
+    "uri": "en/1/624858",
+    "id": "624858",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the production of printed circuit boards",
+    "harm": {
+      "id": "0002071",
+      "title": "624858 - Chemical substances for use in the production of printed circuit boards",
+      "conceptLink": "/ec2/concept/5953349"
+    }
+  },
+  {
+    "uri": "en/1/624772",
+    "id": "624772",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the manufacture of scented cosmetics",
+    "harm": {
+      "id": "0007788",
+      "title": "624772 - Chemical substances for use in the manufacture of scented cosmetics",
+      "conceptLink": "/ec2/concept/5958583"
+    }
+  },
+  {
+    "uri": "en/1/624798",
+    "id": "624798",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the manufacture of scented toiletries",
+    "harm": {
+      "id": "0007789",
+      "title": "624798 - Chemical substances for use in the manufacture of scented toiletries",
+      "conceptLink": "/ec2/concept/5958584"
+    }
+  },
+  {
+    "uri": "en/1/624460",
+    "id": "624460",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as additives to bitumen",
+    "harm": {
+      "id": "0009212",
+      "title": "624460 - Chemical substances for use as additives to bitumen",
+      "conceptLink": "/ec2/concept/5959891"
+    }
+  },
+  {
+    "uri": "en/1/624588",
+    "id": "624588",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in electroplating processes",
+    "harm": {
+      "id": "0020907",
+      "title": "624588 - Chemical substances for use in electroplating processes",
+      "conceptLink": "/ec2/concept/5970595"
+    }
+  },
+  {
+    "uri": "en/1/624642",
+    "id": "624642",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in metallurgy",
+    "harm": {
+      "id": "0020908",
+      "title": "624642 - Chemical substances for use in metallurgy",
+      "conceptLink": "/ec2/concept/5970596"
+    }
+  },
+  {
+    "uri": "en/1/624693",
+    "id": "624693",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in preventing the coagulation of albumin in blood",
+    "harm": {
+      "id": "0020909",
+      "title": "624693 - Chemical substances for use in preventing the coagulation of albumin in blood",
+      "conceptLink": "/ec2/concept/5970597"
+    }
+  },
+  {
+    "uri": "en/1/624718",
+    "id": "624718",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in separation [other than medical or veterinary use]",
+    "harm": {
+      "id": "0020910",
+      "title": "624718 - Chemical substances for use in separation [other than medical or veterinary use]",
+      "conceptLink": "/ec2/concept/5970598"
+    }
+  },
+  {
+    "uri": "en/1/624563",
+    "id": "624563",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in dissolving poisonous gases",
+    "harm": {
+      "id": "0015074",
+      "title": "624563 - Chemical substances for use in dissolving poisonous gases",
+      "conceptLink": "/ec2/concept/5965256"
+    }
+  },
+  {
+    "uri": "en/1/624511",
+    "id": "624511",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as heat transfer media",
+    "harm": {
+      "id": "0015073",
+      "title": "624511 - Chemical substances for use as heat transfer media",
+      "conceptLink": "/ec2/concept/5965255"
+    }
+  },
+  {
+    "uri": "en/1/624920",
+    "id": "624920",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in treating toxic gases",
+    "harm": {
+      "id": "0013637",
+      "title": "624920 - Chemical substances for use in treating toxic gases",
+      "conceptLink": "/ec2/concept/5963930"
+    }
+  },
+  {
+    "uri": "en/1/624747",
+    "id": "624747",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the biotechnological industry",
+    "harm": {
+      "id": "0013634",
+      "title": "624747 - Chemical substances for use in the biotechnological industry",
+      "conceptLink": "/ec2/concept/5963927"
+    }
+  },
+  {
+    "uri": "en/1/624826",
+    "id": "624826",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the preparation of halogenated chemical derivatives",
+    "harm": {
+      "id": "0013635",
+      "title": "624826 - Chemical substances for use in the preparation of halogenated chemical derivatives",
+      "conceptLink": "/ec2/concept/5963928"
+    }
+  },
+  {
+    "uri": "en/1/624895",
+    "id": "624895",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in treating malodorous gases",
+    "harm": {
+      "id": "0013636",
+      "title": "624895 - Chemical substances for use in treating malodorous gases",
+      "conceptLink": "/ec2/concept/5963929"
+    }
+  },
+  {
+    "uri": "en/1/624614",
+    "id": "624614",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in manufacture",
+    "harm": {
+      "id": "0038155",
+      "title": "624614 - Chemical substances for use in manufacture",
+      "conceptLink": "/ec2/concept/5986341"
+    }
+  },
+  {
+    "uri": "en/1/624626",
+    "id": "624626",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in metal finishing and metal treatment",
+    "harm": {
+      "id": "0038156",
+      "title": "624626 - Chemical substances for use in metal finishing and metal treatment",
+      "conceptLink": "/ec2/concept/5986342"
+    }
+  },
+  {
+    "uri": "en/1/624706",
+    "id": "624706",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in preventing the coagulation of albumin in milk",
+    "harm": {
+      "id": "0003479",
+      "title": "624706 - Chemical substances for use in preventing the coagulation of albumin in milk",
+      "conceptLink": "/ec2/concept/5954634"
+    }
+  },
+  {
+    "uri": "en/1/624760",
+    "id": "624760",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the manufacture of perfumes",
+    "harm": {
+      "id": "0019495",
+      "title": "624760 - Chemical substances for use in the manufacture of perfumes",
+      "conceptLink": "/ec2/concept/5969305"
+    }
+  },
+  {
+    "uri": "en/1/624870",
+    "id": "624870",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the production of printed circuits",
+    "harm": {
+      "id": "0019496",
+      "title": "624870 - Chemical substances for use in the production of printed circuits",
+      "conceptLink": "/ec2/concept/5969306"
+    }
+  },
+  {
+    "uri": "en/1/624444",
+    "id": "624444",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use as additives to asphalt",
+    "harm": {
+      "id": "0019680",
+      "title": "624444 - Chemical substances for use as additives to asphalt",
+      "conceptLink": "/ec2/concept/5969473"
+    }
+  },
+  {
+    "uri": "en/1/624785",
+    "id": "624785",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the manufacture of scented detergents",
+    "harm": {
+      "id": "0030940",
+      "title": "624785 - Chemical substances for use in the manufacture of scented detergents",
+      "conceptLink": "/ec2/concept/5979793"
+    }
+  },
+  {
+    "uri": "en/1/624811",
+    "id": "624811",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the manufacture of shock-absorbing backings",
+    "harm": {
+      "id": "0030941",
+      "title": "624811 - Chemical substances for use in the manufacture of shock-absorbing backings",
+      "conceptLink": "/ec2/concept/5979794"
+    }
+  },
+  {
+    "uri": "en/1/624882",
+    "id": "624882",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical substances for use in the production of synthetic rubber",
+    "harm": {
+      "id": "0025205",
+      "title": "624882 - Chemical substances for use in the production of synthetic rubber",
+      "conceptLink": "/ec2/concept/5974535"
+    }
+  }
+]

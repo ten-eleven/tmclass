@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/2/23132",
+    "id": "23132",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Carbon black as pigment",
+    "harm": {
+      "id": "0057959",
+      "title": "23132 - Carbon black as pigment",
+      "conceptLink": "/ec2/concept/5999463"
+    }
+  },
+  {
+    "uri": "en/2/23133",
+    "id": "23133",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Carbon black [pigment]",
+    "harm": {
+      "id": "0057959",
+      "title": "23133 - Carbon black [pigment]",
+      "conceptLink": "/ec2/concept/5999463"
+    }
+  },
+  {
+    "uri": "en/2/71001",
+    "id": "71001",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Carbonyl [wood preservative]",
+    "harm": {
+      "id": "0023136",
+      "title": "71001 - Carbonyl [wood preservative]",
+      "conceptLink": "/ec2/concept/5972625"
+    }
+  },
+  {
+    "uri": "en/2/23568",
+    "id": "23568",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Carmine (Cochineal -)",
+    "harm": {
+      "id": "0037059",
+      "title": "23568 - Carmine (Cochineal -)",
+      "conceptLink": "/ec2/concept/5985349"
+    }
+  },
+  {
+    "uri": "en/2/649925",
+    "id": "649925",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cartridges filled with toner",
+    "harm": {
+      "id": "0028059",
+      "title": "649925 - Cartridges filled with toner",
+      "conceptLink": "/ec2/concept/5977138"
+    }
+  },
+  {
+    "uri": "en/2/649946",
+    "id": "649946",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cartridges filled with toner for computer print-out apparatus",
+    "harm": {
+      "id": "0028060",
+      "title": "649946 - Cartridges filled with toner for computer print-out apparatus",
+      "conceptLink": "/ec2/concept/5977139"
+    }
+  },
+  {
+    "uri": "en/2/649962",
+    "id": "649962",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cartridges of toner for use with computers",
+    "harm": {
+      "id": "0039580",
+      "title": "649962 - Cartridges of toner for use with computers",
+      "conceptLink": "/ec2/concept/5987642"
+    }
+  },
+  {
+    "uri": "en/2/649992",
+    "id": "649992",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cement preservatives [oils]",
+    "harm": {
+      "id": "0039581",
+      "title": "649992 - Cement preservatives [oils]",
+      "conceptLink": "/ec2/concept/5987643"
+    }
+  },
+  {
+    "uri": "en/2/23054",
+    "id": "23054",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Ceramic paints",
+    "harm": {
+      "id": "0057436",
+      "title": "23054 - Ceramic paints",
+      "conceptLink": "/ec2/concept/5998943"
+    }
+  },
+  {
+    "uri": "en/2/23214",
+    "id": "23214",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Chassis of vehicles (Undercoating for -)",
+    "harm": {
+      "id": "0009578",
+      "title": "23214 - Chassis of vehicles (Undercoating for -)",
+      "conceptLink": "/ec2/concept/5960226"
+    }
+  },
+  {
+    "uri": "en/2/23215",
+    "id": "23215",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Chassis of vehicles (Undersealing for -)",
+    "harm": {
+      "id": "0009578",
+      "title": "23215 - Chassis of vehicles (Undersealing for -)",
+      "conceptLink": "/ec2/concept/5960226"
+    }
+  },
+  {
+    "uri": "en/2/901699",
+    "id": "901699",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Chemicalproof paints",
+    "harm": {
+      "id": "0000417",
+      "title": "901699 - Chemicalproof paints",
+      "conceptLink": "/ec2/concept/5951863"
+    }
+  },
+  {
+    "uri": "en/2/119521598",
+    "id": "119521598",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Clear coating protectant for vehicles",
+    "harm": {
+      "id": "0060328",
+      "title": "119521598 - Clear coating protectant for vehicles",
+      "conceptLink": "/ec2/concept/5998304"
+    }
+  },
+  {
+    "uri": "en/2/137173701",
+    "id": "137173701",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Clear coatings used as paints",
+    "harm": {
+      "id": "0060326",
+      "title": "137173701 - Clear coatings used as paints",
+      "conceptLink": "/ec2/concept/5998302"
+    }
+  },
+  {
+    "uri": "en/2/120900488",
+    "id": "120900488",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Clear protective coatings for vehicles",
+    "harm": {
+      "id": "0060328",
+      "title": "120900488 - Clear protective coatings for vehicles",
+      "conceptLink": "/ec2/concept/5998304"
+    }
+  },
+  {
+    "uri": "en/2/650102",
+    "id": "650102",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for preserving concrete [paints or oils]",
+    "harm": {
+      "id": "0029006",
+      "title": "650102 - Coating compositions for preserving concrete [paints or oils]",
+      "conceptLink": "/ec2/concept/5978021"
+    }
+  },
+  {
+    "uri": "en/2/650086",
+    "id": "650086",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for application to stonework [paints]",
+    "harm": {
+      "id": "0029005",
+      "title": "650086 - Coating compositions for application to stonework [paints]",
+      "conceptLink": "/ec2/concept/5978020"
+    }
+  },
+  {
+    "uri": "en/2/650053",
+    "id": "650053",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for application to brickwork [paints or oils]",
+    "harm": {
+      "id": "0029004",
+      "title": "650053 - Coating compositions for application to brickwork [paints or oils]",
+      "conceptLink": "/ec2/concept/5978019"
+    }
+  },
+  {
+    "uri": "en/2/650130",
+    "id": "650130",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for preserving stonework [paints or oils]",
+    "harm": {
+      "id": "0000135",
+      "title": "650130 - Coating compositions for preserving stonework [paints or oils]",
+      "conceptLink": "/ec2/concept/5951611"
+    }
+  },
+  {
+    "uri": "en/2/650067",
+    "id": "650067",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for application to concrete [paints or oils]",
+    "harm": {
+      "id": "0000134",
+      "title": "650067 - Coating compositions for application to concrete [paints or oils]",
+      "conceptLink": "/ec2/concept/5951610"
+    }
+  },
+  {
+    "uri": "en/2/650116",
+    "id": "650116",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions for preserving masonry [paints or oils]",
+    "harm": {
+      "id": "0040579",
+      "title": "650116 - Coating compositions for preserving masonry [paints or oils]",
+      "conceptLink": "/ec2/concept/5988559"
+    }
+  },
+  {
+    "uri": "en/2/650144",
+    "id": "650144",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions having waterproofing properties [paints or oils]",
+    "harm": {
+      "id": "0040580",
+      "title": "650144 - Coating compositions having waterproofing properties [paints or oils]",
+      "conceptLink": "/ec2/concept/5988560"
+    }
+  },
+  {
+    "uri": "en/2/650179",
+    "id": "650179",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions in the nature of paint",
+    "harm": {
+      "id": "0000137",
+      "title": "650179 - Coating compositions in the nature of paint",
+      "conceptLink": "/ec2/concept/5951613"
+    }
+  },
+  {
+    "uri": "en/2/650162",
+    "id": "650162",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions in the nature of oils",
+    "harm": {
+      "id": "0000136",
+      "title": "650162 - Coating compositions in the nature of oils",
+      "conceptLink": "/ec2/concept/5951612"
+    }
+  },
+  {
+    "uri": "en/2/650161",
+    "id": "650161",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions in the form of oils",
+    "harm": {
+      "id": "0000136",
+      "title": "650161 - Coating compositions in the form of oils",
+      "conceptLink": "/ec2/concept/5951612"
+    }
+  },
+  {
+    "uri": "en/2/650178",
+    "id": "650178",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions in the form of paint",
+    "harm": {
+      "id": "0046767",
+      "title": "650178 - Coating compositions in the form of paint",
+      "conceptLink": "/ec2/concept/5994173"
+    }
+  },
+  {
+    "uri": "en/2/650197",
+    "id": "650197",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating compositions in the nature of lacquers",
+    "harm": {
+      "id": "0040581",
+      "title": "650197 - Coating compositions in the nature of lacquers",
+      "conceptLink": "/ec2/concept/5988561"
+    }
+  },
+  {
+    "uri": "en/2/650212",
+    "id": "650212",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating materials for protection of surfaces exposed to galvanic corrosion",
+    "harm": {
+      "id": "0010509",
+      "title": "650212 - Coating materials for protection of surfaces exposed to galvanic corrosion",
+      "conceptLink": "/ec2/concept/5961075"
+    }
+  },
+  {
+    "uri": "en/2/650244",
+    "id": "650244",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating materials in the nature of paints",
+    "harm": {
+      "id": "0000137",
+      "title": "650244 - Coating materials in the nature of paints",
+      "conceptLink": "/ec2/concept/5951613"
+    }
+  },
+  {
+    "uri": "en/2/650229",
+    "id": "650229",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating materials in the nature of oils",
+    "harm": {
+      "id": "0010510",
+      "title": "650229 - Coating materials in the nature of oils",
+      "conceptLink": "/ec2/concept/5961076"
+    }
+  },
+  {
+    "uri": "en/2/650024",
+    "id": "650024",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating of plastics to protect metal against damp [paints]",
+    "harm": {
+      "id": "0039582",
+      "title": "650024 - Coating of plastics to protect metal against damp [paints]",
+      "conceptLink": "/ec2/concept/5987644"
+    }
+  },
+  {
+    "uri": "en/2/650040",
+    "id": "650040",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating of plastics to protect wood against damp [paints]",
+    "harm": {
+      "id": "0040578",
+      "title": "650040 - Coating of plastics to protect wood against damp [paints]",
+      "conceptLink": "/ec2/concept/5988558"
+    }
+  },
+  {
+    "uri": "en/2/650271",
+    "id": "650271",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating preparations for protection against friction",
+    "harm": {
+      "id": "0016311",
+      "title": "650271 - Coating preparations for protection against friction",
+      "conceptLink": "/ec2/concept/5966405"
+    }
+  },
+  {
+    "uri": "en/2/650298",
+    "id": "650298",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating preparations for protection against wear",
+    "harm": {
+      "id": "0016312",
+      "title": "650298 - Coating preparations for protection against wear",
+      "conceptLink": "/ec2/concept/5966406"
+    }
+  },
+  {
+    "uri": "en/2/650283",
+    "id": "650283",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating preparations for protection against rust",
+    "harm": {
+      "id": "0010511",
+      "title": "650283 - Coating preparations for protection against rust",
+      "conceptLink": "/ec2/concept/5961077"
+    }
+  },
+  {
+    "uri": "en/2/650310",
+    "id": "650310",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating preparations having water repellant properties [paints or oils]",
+    "harm": {
+      "id": "0010512",
+      "title": "650310 - Coating preparations having water repellant properties [paints or oils]",
+      "conceptLink": "/ec2/concept/5961078"
+    }
+  },
+  {
+    "uri": "en/2/901812",
+    "id": "901812",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating preparations having water repellent properties [paint]",
+    "harm": {
+      "id": "0042463",
+      "title": "901812 - Coating preparations having water repellent properties [paint]",
+      "conceptLink": "/ec2/concept/5990284"
+    }
+  },
+  {
+    "uri": "en/2/650324",
+    "id": "650324",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coating substances made from bitumen [paint]",
+    "harm": {
+      "id": "0016313",
+      "title": "650324 - Coating substances made from bitumen [paint]",
+      "conceptLink": "/ec2/concept/5966407"
+    }
+  },
+  {
+    "uri": "en/2/2264160",
+    "id": "2264160",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings",
+    "harm": {
+      "id": "0045910",
+      "title": "2264160 - Coatings",
+      "conceptLink": "/ec2/concept/5993434"
+    }
+  },
+  {
+    "uri": "en/2/650339",
+    "id": "650339",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings being inorganic [paints or oils, other than building materials]",
+    "harm": {
+      "id": "0033609",
+      "title": "650339 - Coatings being inorganic [paints or oils, other than building materials]",
+      "conceptLink": "/ec2/concept/5982213"
+    }
+  },
+  {
+    "uri": "en/2/650357",
+    "id": "650357",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings being intumescent [paints or oils, other than building materials]",
+    "harm": {
+      "id": "0039416",
+      "title": "650357 - Coatings being intumescent [paints or oils, other than building materials]",
+      "conceptLink": "/ec2/concept/5987493"
+    }
+  },
+  {
+    "uri": "en/2/650374",
+    "id": "650374",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings containing reflective beads",
+    "harm": {
+      "id": "0016314",
+      "title": "650374 - Coatings containing reflective beads",
+      "conceptLink": "/ec2/concept/5966408"
+    }
+  },
+  {
+    "uri": "en/2/650385",
+    "id": "650385",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for forms [paints or oils]",
+    "harm": {
+      "id": "0022221",
+      "title": "650385 - Coatings for forms [paints or oils]",
+      "conceptLink": "/ec2/concept/5971794"
+    }
+  },
+  {
+    "uri": "en/2/650401",
+    "id": "650401",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for preserving against rust",
+    "harm": {
+      "id": "0045142",
+      "title": "650401 - Coatings for preserving against rust",
+      "conceptLink": "/ec2/concept/5992728"
+    }
+  },
+  {
+    "uri": "en/2/650415",
+    "id": "650415",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for preventing staining [other than chemicals]",
+    "harm": {
+      "id": "0033610",
+      "title": "650415 - Coatings for preventing staining [other than chemicals]",
+      "conceptLink": "/ec2/concept/5982214"
+    }
+  },
+  {
+    "uri": "en/2/650430",
+    "id": "650430",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for protection against the corrosive effect of acids",
+    "harm": {
+      "id": "0001528",
+      "title": "650430 - Coatings for protection against the corrosive effect of acids",
+      "conceptLink": "/ec2/concept/5952861"
+    }
+  },
+  {
+    "uri": "en/2/23018",
+    "id": "23018",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for roofing felt [paints]",
+    "harm": {
+      "id": "0041551",
+      "title": "23018 - Coatings for roofing felt [paints]",
+      "conceptLink": "/ec2/concept/5989451"
+    }
+  },
+  {
+    "uri": "en/2/129418704",
+    "id": "129418704",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for tarred felt [paints]",
+    "harm": {
+      "id": "0041551",
+      "title": "129418704 - Coatings for tarred felt [paints]",
+      "conceptLink": "/ec2/concept/5989451"
+    }
+  },
+  {
+    "uri": "en/2/650457",
+    "id": "650457",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for the finishing of concrete",
+    "harm": {
+      "id": "0013096",
+      "title": "650457 - Coatings for the finishing of concrete",
+      "conceptLink": "/ec2/concept/5963443"
+    }
+  },
+  {
+    "uri": "en/2/650441",
+    "id": "650441",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for the finishing masonry [paints or oils]",
+    "harm": {
+      "id": "0036222",
+      "title": "650441 - Coatings for the finishing masonry [paints or oils]",
+      "conceptLink": "/ec2/concept/5984583"
+    }
+  },
+  {
+    "uri": "en/2/650472",
+    "id": "650472",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for the finishing of surfaces [paints or oils]",
+    "harm": {
+      "id": "0041992",
+      "title": "650472 - Coatings for the finishing of surfaces [paints or oils]",
+      "conceptLink": "/ec2/concept/5989850"
+    }
+  },
+  {
+    "uri": "en/2/650487",
+    "id": "650487",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for use as primers",
+    "harm": {
+      "id": "0036223",
+      "title": "650487 - Coatings for use as primers",
+      "conceptLink": "/ec2/concept/5984584"
+    }
+  },
+  {
+    "uri": "en/2/908252",
+    "id": "908252",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for use in the graphic arts industry",
+    "harm": {
+      "id": "0021927",
+      "title": "908252 - Coatings for use in the graphic arts industry",
+      "conceptLink": "/ec2/concept/5971525"
+    }
+  },
+  {
+    "uri": "en/2/650503",
+    "id": "650503",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for use on walls",
+    "harm": {
+      "id": "0041993",
+      "title": "650503 - Coatings for use on walls",
+      "conceptLink": "/ec2/concept/5989851"
+    }
+  },
+  {
+    "uri": "en/2/650515",
+    "id": "650515",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for waterproofing [except chemicals]",
+    "harm": {
+      "id": "0030434",
+      "title": "650515 - Coatings for waterproofing [except chemicals]",
+      "conceptLink": "/ec2/concept/5979326"
+    }
+  },
+  {
+    "uri": "en/2/22645",
+    "id": "22645",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings for wood as paints",
+    "harm": {
+      "id": "0030897",
+      "title": "22645 - Coatings for wood as paints",
+      "conceptLink": "/ec2/concept/5979756"
+    }
+  },
+  {
+    "uri": "en/2/650618",
+    "id": "650618",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of paints for use on vehicles",
+    "harm": {
+      "id": "0020402",
+      "title": "650618 - Coatings in the nature of paints for use on vehicles",
+      "conceptLink": "/ec2/concept/5970128"
+    }
+  },
+  {
+    "uri": "en/2/650592",
+    "id": "650592",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of paint for use on wood",
+    "harm": {
+      "id": "0024680",
+      "title": "650592 - Coatings in the nature of paint for use on wood",
+      "conceptLink": "/ec2/concept/5974055"
+    }
+  },
+  {
+    "uri": "en/2/650566",
+    "id": "650566",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of electrophoretic materials [paints]",
+    "harm": {
+      "id": "0013097",
+      "title": "650566 - Coatings in the nature of electrophoretic materials [paints]",
+      "conceptLink": "/ec2/concept/5963444"
+    }
+  },
+  {
+    "uri": "en/2/650580",
+    "id": "650580",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of paint for use on the bottom of ships",
+    "harm": {
+      "id": "0036224",
+      "title": "650580 - Coatings in the nature of paint for use on the bottom of ships",
+      "conceptLink": "/ec2/concept/5984585"
+    }
+  },
+  {
+    "uri": "en/2/650245",
+    "id": "650245",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of paints",
+    "harm": {
+      "id": "0000137",
+      "title": "650245 - Coatings in the nature of paints",
+      "conceptLink": "/ec2/concept/5951613"
+    }
+  },
+  {
+    "uri": "en/2/650632",
+    "id": "650632",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of sprays [paints]",
+    "harm": {
+      "id": "0037658",
+      "title": "650632 - Coatings in the nature of sprays [paints]",
+      "conceptLink": "/ec2/concept/5985885"
+    }
+  },
+  {
+    "uri": "en/2/650605",
+    "id": "650605",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of paints for use in the automotive industry",
+    "harm": {
+      "id": "0031861",
+      "title": "650605 - Coatings in the nature of paints for use in the automotive industry",
+      "conceptLink": "/ec2/concept/5980616"
+    }
+  },
+  {
+    "uri": "en/2/650548",
+    "id": "650548",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings in the nature of electrolytic materials [paints]",
+    "harm": {
+      "id": "0041994",
+      "title": "650548 - Coatings in the nature of electrolytic materials [paints]",
+      "conceptLink": "/ec2/concept/5989852"
+    }
+  },
+  {
+    "uri": "en/2/24672",
+    "id": "24672",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings [paints]",
+    "harm": {
+      "id": "0045910",
+      "title": "24672 - Coatings [paints]",
+      "conceptLink": "/ec2/concept/5993434"
+    }
+  },
+  {
+    "uri": "en/2/650644",
+    "id": "650644",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings to protect concrete from water [paints or oils]",
+    "harm": {
+      "id": "0031862",
+      "title": "650644 - Coatings to protect concrete from water [paints or oils]",
+      "conceptLink": "/ec2/concept/5980617"
+    }
+  },
+  {
+    "uri": "en/2/650658",
+    "id": "650658",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings to protect masonry building walls from water [paints or oils]",
+    "harm": {
+      "id": "0031863",
+      "title": "650658 - Coatings to protect masonry building walls from water [paints or oils]",
+      "conceptLink": "/ec2/concept/5980618"
+    }
+  },
+  {
+    "uri": "en/2/650673",
+    "id": "650673",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings to protect stone from water [paints or oils]",
+    "harm": {
+      "id": "0020403",
+      "title": "650673 - Coatings to protect stone from water [paints or oils]",
+      "conceptLink": "/ec2/concept/5970129"
+    }
+  },
+  {
+    "uri": "en/2/901817",
+    "id": "901817",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Coatings used for furniture finishing",
+    "harm": {
+      "id": "0019442",
+      "title": "901817 - Coatings used for furniture finishing",
+      "conceptLink": "/ec2/concept/5969255"
+    }
+  },
+  {
+    "uri": "en/2/23542",
+    "id": "23542",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cobalt oxide as colorant",
+    "harm": {
+      "id": "0025166",
+      "title": "23542 - Cobalt oxide as colorant",
+      "conceptLink": "/ec2/concept/5974499"
+    }
+  },
+  {
+    "uri": "en/2/23543",
+    "id": "23543",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cobalt oxide [colorant]",
+    "harm": {
+      "id": "0025166",
+      "title": "23543 - Cobalt oxide [colorant]",
+      "conceptLink": "/ec2/concept/5974499"
+    }
+  },
+  {
+    "uri": "en/2/23569",
+    "id": "23569",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Cochineal carmine",
+    "harm": {
+      "id": "0037059",
+      "title": "23569 - Cochineal carmine",
+      "conceptLink": "/ec2/concept/5985349"
+    }
+  },
+  {
+    "uri": "en/2/23608",
+    "id": "23608",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colophony",
+    "harm": {
+      "id": "0042789",
+      "title": "23608 - Colophony",
+      "conceptLink": "/ec2/concept/5990570"
+    }
+  },
+  {
+    "uri": "en/2/650949",
+    "id": "650949",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Color pigments",
+    "harm": {
+      "id": "0046000",
+      "title": "650949 - Color pigments",
+      "conceptLink": "/ec2/concept/5993517"
+    }
+  },
+  {
+    "uri": "en/2/21507",
+    "id": "21507",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants",
+    "harm": {
+      "id": "0058660",
+      "title": "21507 - Colorants",
+      "conceptLink": "/ec2/concept/6000153"
+    }
+  },
+  {
+    "uri": "en/2/21811",
+    "id": "21811",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants (Food -)",
+    "harm": {
+      "id": "0000802",
+      "title": "21811 - Colorants (Food -)",
+      "conceptLink": "/ec2/concept/5952211"
+    }
+  },
+  {
+    "uri": "en/2/650689",
+    "id": "650689",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for application to wood",
+    "harm": {
+      "id": "0020404",
+      "title": "650689 - Colorants for application to wood",
+      "conceptLink": "/ec2/concept/5970130"
+    }
+  },
+  {
+    "uri": "en/2/22593",
+    "id": "22593",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for beer",
+    "harm": {
+      "id": "0025272",
+      "title": "22593 - Colorants for beer",
+      "conceptLink": "/ec2/concept/5974594"
+    }
+  },
+  {
+    "uri": "en/2/21760",
+    "id": "21760",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for beverages",
+    "harm": {
+      "id": "0029918",
+      "title": "21760 - Colorants for beverages",
+      "conceptLink": "/ec2/concept/5978848"
+    }
+  },
+  {
+    "uri": "en/2/22558",
+    "id": "22558",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for butter",
+    "harm": {
+      "id": "0019570",
+      "title": "22558 - Colorants for butter",
+      "conceptLink": "/ec2/concept/5969375"
+    }
+  },
+  {
+    "uri": "en/2/650702",
+    "id": "650702",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for cellulosic materials",
+    "harm": {
+      "id": "0043423",
+      "title": "650702 - Colorants for cellulosic materials",
+      "conceptLink": "/ec2/concept/5991151"
+    }
+  },
+  {
+    "uri": "en/2/650715",
+    "id": "650715",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for ceramic paints",
+    "harm": {
+      "id": "0043424",
+      "title": "650715 - Colorants for ceramic paints",
+      "conceptLink": "/ec2/concept/5991152"
+    }
+  },
+  {
+    "uri": "en/2/650727",
+    "id": "650727",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for concrete",
+    "harm": {
+      "id": "0002989",
+      "title": "650727 - Colorants for concrete",
+      "conceptLink": "/ec2/concept/5954183"
+    }
+  },
+  {
+    "uri": "en/2/650743",
+    "id": "650743",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for fibrous materials",
+    "harm": {
+      "id": "0014568",
+      "title": "650743 - Colorants for fibrous materials",
+      "conceptLink": "/ec2/concept/5964798"
+    }
+  },
+  {
+    "uri": "en/2/21810",
+    "id": "21810",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for food",
+    "harm": {
+      "id": "0000802",
+      "title": "21810 - Colorants for food",
+      "conceptLink": "/ec2/concept/5952211"
+    }
+  },
+  {
+    "uri": "en/2/650759",
+    "id": "650759",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for grouts",
+    "harm": {
+      "id": "0023676",
+      "title": "650759 - Colorants for grouts",
+      "conceptLink": "/ec2/concept/5973123"
+    }
+  },
+  {
+    "uri": "en/2/650782",
+    "id": "650782",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for imparting permanent colour",
+    "harm": {
+      "id": "0000500",
+      "title": "650782 - Colorants for imparting permanent colour",
+      "conceptLink": "/ec2/concept/5951937"
+    }
+  },
+  {
+    "uri": "en/2/24171",
+    "id": "24171",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for leather",
+    "harm": {
+      "id": "0017658",
+      "title": "24171 - Colorants for leather",
+      "conceptLink": "/ec2/concept/5967617"
+    }
+  },
+  {
+    "uri": "en/2/70400",
+    "id": "70400",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for liqueurs",
+    "harm": {
+      "id": "0026598",
+      "title": "70400 - Colorants for liqueurs",
+      "conceptLink": "/ec2/concept/5975808"
+    }
+  },
+  {
+    "uri": "en/2/650760",
+    "id": "650760",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for mortars",
+    "harm": {
+      "id": "0023676",
+      "title": "650760 - Colorants for mortars",
+      "conceptLink": "/ec2/concept/5973123"
+    }
+  },
+  {
+    "uri": "en/2/650797",
+    "id": "650797",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for textiles",
+    "harm": {
+      "id": "0000501",
+      "title": "650797 - Colorants for textiles",
+      "conceptLink": "/ec2/concept/5951938"
+    }
+  },
+  {
+    "uri": "en/2/650826",
+    "id": "650826",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for the production of printing inks",
+    "harm": {
+      "id": "0006288",
+      "title": "650826 - Colorants for the production of printing inks",
+      "conceptLink": "/ec2/concept/5957215"
+    }
+  },
+  {
+    "uri": "en/2/650840",
+    "id": "650840",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use as auxiliaries for the printing trade",
+    "harm": {
+      "id": "0012089",
+      "title": "650840 - Colorants for use as auxiliaries for the printing trade",
+      "conceptLink": "/ec2/concept/5962528"
+    }
+  },
+  {
+    "uri": "en/2/650853",
+    "id": "650853",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in formulating paints",
+    "harm": {
+      "id": "0023677",
+      "title": "650853 - Colorants for use in formulating paints",
+      "conceptLink": "/ec2/concept/5973124"
+    }
+  },
+  {
+    "uri": "en/2/650868",
+    "id": "650868",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in graphical reproduction",
+    "harm": {
+      "id": "0000502",
+      "title": "650868 - Colorants for use in graphical reproduction",
+      "conceptLink": "/ec2/concept/5951939"
+    }
+  },
+  {
+    "uri": "en/2/650884",
+    "id": "650884",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in industry",
+    "harm": {
+      "id": "0000503",
+      "title": "650884 - Colorants for use in industry",
+      "conceptLink": "/ec2/concept/5951940"
+    }
+  },
+  {
+    "uri": "en/2/378898",
+    "id": "378898",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in the manufacture of paint",
+    "harm": {
+      "id": "0020837",
+      "title": "378898 - Colorants for use in the manufacture of paint",
+      "conceptLink": "/ec2/concept/5970533"
+    }
+  },
+  {
+    "uri": "en/2/378923",
+    "id": "378923",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in the manufacture of pharmaceuticals",
+    "harm": {
+      "id": "0003381",
+      "title": "378923 - Colorants for use in the manufacture of pharmaceuticals",
+      "conceptLink": "/ec2/concept/5954544"
+    }
+  },
+  {
+    "uri": "en/2/378952",
+    "id": "378952",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in the manufacture of printing ink",
+    "harm": {
+      "id": "0014973",
+      "title": "378952 - Colorants for use in the manufacture of printing ink",
+      "conceptLink": "/ec2/concept/5965163"
+    }
+  },
+  {
+    "uri": "en/2/378911",
+    "id": "378911",
+    "lang": "en",
+    "classNumber": "2",
+    "term": "Colorants for use in the manufacture of paper",
+    "harm": {
+      "id": "0014972",
+      "title": "378911 - Colorants for use in the manufacture of paper",
+      "conceptLink": "/ec2/concept/5965162"
+    }
+  }
+]

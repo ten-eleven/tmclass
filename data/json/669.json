@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/901631",
+    "id": "901631",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Chat room services for social networking",
+    "harm": {
+      "id": "0038039",
+      "title": "901631 - Chat room services for social networking",
+      "conceptLink": "/ec2/concept/5986233"
+    }
+  },
+  {
+    "uri": "en/38/897518",
+    "id": "897518",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Chatroom services",
+    "harm": {
+      "id": "0009100",
+      "title": "897518 - Chatroom services",
+      "conceptLink": "/ec2/concept/5959786"
+    }
+  },
+  {
+    "uri": "en/38/882738",
+    "id": "882738",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Chatroom services for social networking",
+    "harm": {
+      "id": "0038039",
+      "title": "882738 - Chatroom services for social networking",
+      "conceptLink": "/ec2/concept/5986233"
+    }
+  },
+  {
+    "uri": "en/38/128335104",
+    "id": "128335104",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Chatrooms [Providing internet -]",
+    "harm": {
+      "id": "0009100",
+      "title": "128335104 - Chatrooms [Providing internet -]",
+      "conceptLink": "/ec2/concept/5959786"
+    }
+  },
+  {
+    "uri": "en/38/455228",
+    "id": "455228",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Collection and delivery of messages by electronic mail",
+    "harm": {
+      "id": "0046038",
+      "title": "455228 - Collection and delivery of messages by electronic mail",
+      "conceptLink": "/ec2/concept/5993553"
+    }
+  },
+  {
+    "uri": "en/38/480538",
+    "id": "480538",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication between computers",
+    "harm": {
+      "id": "0058508",
+      "title": "480538 - Communication between computers",
+      "conceptLink": "/ec2/concept/6000007"
+    }
+  },
+  {
+    "uri": "en/38/480534",
+    "id": "480534",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by computer",
+    "harm": {
+      "id": "0058510",
+      "title": "480534 - Communication by computer",
+      "conceptLink": "/ec2/concept/6000009"
+    }
+  },
+  {
+    "uri": "en/38/42778",
+    "id": "42778",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by computer terminals",
+    "harm": {
+      "id": "0005941",
+      "title": "42778 - Communication by computer terminals",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/42776",
+    "id": "42776",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by electronic computer terminals",
+    "harm": {
+      "id": "0005941",
+      "title": "42776 - Communication by electronic computer terminals",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/826403",
+    "id": "826403",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by electronic means",
+    "harm": {
+      "id": "0044446",
+      "title": "826403 - Communication by electronic means",
+      "conceptLink": "/ec2/concept/5992090"
+    }
+  },
+  {
+    "uri": "en/38/826389",
+    "id": "826389",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by electronic mail systems",
+    "harm": {
+      "id": "0044445",
+      "title": "826389 - Communication by electronic mail systems",
+      "conceptLink": "/ec2/concept/5992089"
+    }
+  },
+  {
+    "uri": "en/38/826420",
+    "id": "826420",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by hertzian wave",
+    "harm": {
+      "id": "0021493",
+      "title": "826420 - Communication by hertzian wave",
+      "conceptLink": "/ec2/concept/5971123"
+    }
+  },
+  {
+    "uri": "en/38/42644",
+    "id": "42644",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by mobile telephone",
+    "harm": {
+      "id": "0058621",
+      "title": "42644 - Communication by mobile telephone",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/137532000",
+    "id": "137532000",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by online blogs",
+    "harm": {
+      "id": "0060785",
+      "title": "137532000 - Communication by online blogs",
+      "conceptLink": "/ec2/concept/6001105"
+    }
+  },
+  {
+    "uri": "en/38/41757",
+    "id": "41757",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by radio",
+    "harm": {
+      "id": "0044447",
+      "title": "41757 - Communication by radio",
+      "conceptLink": "/ec2/concept/5992091"
+    }
+  },
+  {
+    "uri": "en/38/42201",
+    "id": "42201",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by telegram",
+    "harm": {
+      "id": "0057569",
+      "title": "42201 - Communication by telegram",
+      "conceptLink": "/ec2/concept/5999074"
+    }
+  },
+  {
+    "uri": "en/38/42202",
+    "id": "42202",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by telegraph",
+    "harm": {
+      "id": "0057570",
+      "title": "42202 - Communication by telegraph",
+      "conceptLink": "/ec2/concept/5999075"
+    }
+  },
+  {
+    "uri": "en/38/42334",
+    "id": "42334",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by telephone",
+    "harm": {
+      "id": "0072812",
+      "title": "42334 - Communication by telephone",
+      "conceptLink": "/ec2/concept/6008987"
+    }
+  },
+  {
+    "uri": "en/38/826432",
+    "id": "826432",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication by teleprinter",
+    "harm": {
+      "id": "0032171",
+      "title": "826432 - Communication by teleprinter",
+      "conceptLink": "/ec2/concept/5980898"
+    }
+  },
+  {
+    "uri": "en/38/826443",
+    "id": "826443",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication network consultancy",
+    "harm": {
+      "id": "0014900",
+      "title": "826443 - Communication network consultancy",
+      "conceptLink": "/ec2/concept/5965098"
+    }
+  },
+  {
+    "uri": "en/38/826459",
+    "id": "826459",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of data by means of radio",
+    "harm": {
+      "id": "0026398",
+      "title": "826459 - Communication of data by means of radio",
+      "conceptLink": "/ec2/concept/5975626"
+    }
+  },
+  {
+    "uri": "en/38/826484",
+    "id": "826484",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of data by means of telecommunications",
+    "harm": {
+      "id": "0037990",
+      "title": "826484 - Communication of data by means of telecommunications",
+      "conceptLink": "/ec2/concept/5986190"
+    }
+  },
+  {
+    "uri": "en/38/487669",
+    "id": "487669",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of information by electronic means",
+    "harm": {
+      "id": "0014107",
+      "title": "487669 - Communication of information by electronic means",
+      "conceptLink": "/ec2/concept/5964367"
+    }
+  },
+  {
+    "uri": "en/38/826500",
+    "id": "826500",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of information by computer",
+    "harm": {
+      "id": "0059032",
+      "title": "826500 - Communication of information by computer",
+      "conceptLink": "/ec2/concept/6000523"
+    }
+  },
+  {
+    "uri": "en/38/826542",
+    "id": "826542",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of information by television",
+    "harm": {
+      "id": "0026399",
+      "title": "826542 - Communication of information by television",
+      "conceptLink": "/ec2/concept/5975627"
+    }
+  },
+  {
+    "uri": "en/38/826528",
+    "id": "826528",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication of information by satellite",
+    "harm": {
+      "id": "0037991",
+      "title": "826528 - Communication of information by satellite",
+      "conceptLink": "/ec2/concept/5986191"
+    }
+  },
+  {
+    "uri": "en/38/1083327",
+    "id": "1083327",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services",
+    "harm": {
+      "id": "0071485",
+      "title": "1083327 - Communication services",
+      "conceptLink": "/ec2/concept/6007676"
+    }
+  },
+  {
+    "uri": "en/38/826557",
+    "id": "826557",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services between computers for the brewing industry",
+    "harm": {
+      "id": "0003291",
+      "title": "826557 - Communication services between computers for the brewing industry",
+      "conceptLink": "/ec2/concept/5954460"
+    }
+  },
+  {
+    "uri": "en/38/480537",
+    "id": "480537",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services between computers",
+    "harm": {
+      "id": "0058508",
+      "title": "480537 - Communication services between computers",
+      "conceptLink": "/ec2/concept/6000007"
+    }
+  },
+  {
+    "uri": "en/38/826569",
+    "id": "826569",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services between data banks",
+    "harm": {
+      "id": "0044209",
+      "title": "826569 - Communication services between data banks",
+      "conceptLink": "/ec2/concept/5991872"
+    }
+  },
+  {
+    "uri": "en/38/42337",
+    "id": "42337",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by means of telephone",
+    "harm": {
+      "id": "0072812",
+      "title": "42337 - Communication services by means of telephone",
+      "conceptLink": "/ec2/concept/6008987"
+    }
+  },
+  {
+    "uri": "en/38/487094",
+    "id": "487094",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by electronic means",
+    "harm": {
+      "id": "0005168",
+      "title": "487094 - Communication services by electronic means",
+      "conceptLink": "/ec2/concept/5956188"
+    }
+  },
+  {
+    "uri": "en/38/826583",
+    "id": "826583",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by cable",
+    "harm": {
+      "id": "0038440",
+      "title": "826583 - Communication services by cable",
+      "conceptLink": "/ec2/concept/5986610"
+    }
+  },
+  {
+    "uri": "en/38/42338",
+    "id": "42338",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by telephone",
+    "harm": {
+      "id": "0072812",
+      "title": "42338 - Communication services by telephone",
+      "conceptLink": "/ec2/concept/6008987"
+    }
+  },
+  {
+    "uri": "en/38/486609",
+    "id": "486609",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by radio",
+    "harm": {
+      "id": "0032288",
+      "title": "486609 - Communication services by radio",
+      "conceptLink": "/ec2/concept/5981003"
+    }
+  },
+  {
+    "uri": "en/38/486923",
+    "id": "486923",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services by satellite",
+    "harm": {
+      "id": "0041634",
+      "title": "486923 - Communication services by satellite",
+      "conceptLink": "/ec2/concept/5989527"
+    }
+  },
+  {
+    "uri": "en/38/125151945",
+    "id": "125151945",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services (Cellular telephone -)",
+    "harm": {
+      "id": "0058620",
+      "title": "125151945 - Communication services (Cellular telephone -)",
+      "conceptLink": "/ec2/concept/6000113"
+    }
+  },
+  {
+    "uri": "en/38/124715796",
+    "id": "124715796",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services (Electronic -)",
+    "harm": {
+      "id": "0030649",
+      "title": "124715796 - Communication services (Electronic -)",
+      "conceptLink": "/ec2/concept/5979526"
+    }
+  },
+  {
+    "uri": "en/38/826635",
+    "id": "826635",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the electronic transmission of images",
+    "harm": {
+      "id": "0003794",
+      "title": "826635 - Communication services for the electronic transmission of images",
+      "conceptLink": "/ec2/concept/5954922"
+    }
+  },
+  {
+    "uri": "en/38/826597",
+    "id": "826597",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the delivery of emergency messages",
+    "harm": {
+      "id": "0015381",
+      "title": "826597 - Communication services for the delivery of emergency messages",
+      "conceptLink": "/ec2/concept/5965537"
+    }
+  },
+  {
+    "uri": "en/38/826649",
+    "id": "826649",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the electronic transmission of voices",
+    "harm": {
+      "id": "0038441",
+      "title": "826649 - Communication services for the electronic transmission of voices",
+      "conceptLink": "/ec2/concept/5986611"
+    }
+  },
+  {
+    "uri": "en/38/826616",
+    "id": "826616",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the electronic transmission of data",
+    "harm": {
+      "id": "0018050",
+      "title": "826616 - Communication services for the electronic transmission of data",
+      "conceptLink": "/ec2/concept/5967977"
+    }
+  },
+  {
+    "uri": "en/38/826677",
+    "id": "826677",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the transmission of information by electronic means",
+    "harm": {
+      "id": "0022585",
+      "title": "826677 - Communication services for the transmission of information by electronic means",
+      "conceptLink": "/ec2/concept/5972127"
+    }
+  },
+  {
+    "uri": "en/38/826691",
+    "id": "826691",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for video conferencing purposes",
+    "harm": {
+      "id": "0010918",
+      "title": "826691 - Communication services for video conferencing purposes",
+      "conceptLink": "/ec2/concept/5961449"
+    }
+  },
+  {
+    "uri": "en/38/826663",
+    "id": "826663",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services for the transmission of information",
+    "harm": {
+      "id": "0039774",
+      "title": "826663 - Communication services for the transmission of information",
+      "conceptLink": "/ec2/concept/5987824"
+    }
+  },
+  {
+    "uri": "en/38/455248",
+    "id": "455248",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services, namely, electronic transmission of data and documents among users of computers",
+    "harm": {
+      "id": "0040322",
+      "title": "455248 - Communication services, namely, electronic transmission of data and documents among users of computers",
+      "conceptLink": "/ec2/concept/5988327"
+    }
+  },
+  {
+    "uri": "en/38/481134",
+    "id": "481134",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services over computer networks",
+    "harm": {
+      "id": "0010039",
+      "title": "481134 - Communication services over computer networks",
+      "conceptLink": "/ec2/concept/5960646"
+    }
+  },
+  {
+    "uri": "en/38/826710",
+    "id": "826710",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services provided by facsimile",
+    "harm": {
+      "id": "0007571",
+      "title": "826710 - Communication services provided by facsimile",
+      "conceptLink": "/ec2/concept/5958388"
+    }
+  },
+  {
+    "uri": "en/38/826733",
+    "id": "826733",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services provided electronically",
+    "harm": {
+      "id": "0005168",
+      "title": "826733 - Communication services provided electronically",
+      "conceptLink": "/ec2/concept/5956188"
+    }
+  },
+  {
+    "uri": "en/38/125151686",
+    "id": "125151686",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services (Telegram -)",
+    "harm": {
+      "id": "0057569",
+      "title": "125151686 - Communication services (Telegram -)",
+      "conceptLink": "/ec2/concept/5999074"
+    }
+  },
+  {
+    "uri": "en/38/125151813",
+    "id": "125151813",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication services (Telephone -)",
+    "harm": {
+      "id": "0072812",
+      "title": "125151813 - Communication services (Telephone -)",
+      "conceptLink": "/ec2/concept/6008987"
+    }
+  },
+  {
+    "uri": "en/38/369645",
+    "id": "369645",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via analogue and digital computer terminals",
+    "harm": {
+      "id": "0037746",
+      "title": "369645 - Communication via analogue and digital computer terminals",
+      "conceptLink": "/ec2/concept/5985968"
+    }
+  },
+  {
+    "uri": "en/38/42779",
+    "id": "42779",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via computer terminals",
+    "harm": {
+      "id": "0005941",
+      "title": "42779 - Communication via computer terminals",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/504529",
+    "id": "504529",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via computer terminals, by digital transmission or by satellite",
+    "harm": {
+      "id": "0041962",
+      "title": "504529 - Communication via computer terminals, by digital transmission or by satellite",
+      "conceptLink": "/ec2/concept/5989820"
+    }
+  },
+  {
+    "uri": "en/38/43392",
+    "id": "43392",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via fibre optical networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43392 - Communication via fibre optical networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/43388",
+    "id": "43388",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via fibre-optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43388 - Communication via fibre-optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/120868209",
+    "id": "120868209",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via interactive voice response",
+    "harm": {
+      "id": "0068523",
+      "title": "120868209 - Communication via interactive voice response",
+      "conceptLink": "/ec2/concept/6004726"
+    }
+  },
+  {
+    "uri": "en/38/43393",
+    "id": "43393",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via optical fibre networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43393 - Communication via optical fibre networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/137144878",
+    "id": "137144878",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via radio",
+    "harm": {
+      "id": "0012587",
+      "title": "137144878 - Communication via radio",
+      "conceptLink": "/ec2/concept/5962982"
+    }
+  },
+  {
+    "uri": "en/38/137144879",
+    "id": "137144879",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via television transmissions",
+    "harm": {
+      "id": "0012588",
+      "title": "137144879 - Communication via television transmissions",
+      "conceptLink": "/ec2/concept/5962983"
+    }
+  },
+  {
+    "uri": "en/38/120868226",
+    "id": "120868226",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communication via virtual private networks",
+    "harm": {
+      "id": "0068524",
+      "title": "120868226 - Communication via virtual private networks",
+      "conceptLink": "/ec2/concept/6004727"
+    }
+  },
+  {
+    "uri": "en/38/125050675",
+    "id": "125050675",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications apparatus (Rental of -)",
+    "harm": {
+      "id": "0024040",
+      "title": "125050675 - Communications apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5973464"
+    }
+  },
+  {
+    "uri": "en/38/44955421",
+    "id": "44955421",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by cellular phones",
+    "harm": {
+      "id": "0058620",
+      "title": "44955421 - Communications by cellular phones",
+      "conceptLink": "/ec2/concept/6000113"
+    }
+  },
+  {
+    "uri": "en/38/480535",
+    "id": "480535",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by computer",
+    "harm": {
+      "id": "0058510",
+      "title": "480535 - Communications by computer",
+      "conceptLink": "/ec2/concept/6000009"
+    }
+  },
+  {
+    "uri": "en/38/42781",
+    "id": "42781",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by computer terminals",
+    "harm": {
+      "id": "0005941",
+      "title": "42781 - Communications by computer terminals",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/826711",
+    "id": "826711",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by facsimile",
+    "harm": {
+      "id": "0007571",
+      "title": "826711 - Communications by facsimile",
+      "conceptLink": "/ec2/concept/5958388"
+    }
+  },
+  {
+    "uri": "en/38/1376157",
+    "id": "1376157",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by fiber optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "1376157 - Communications by fiber optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/901978",
+    "id": "901978",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by fibre-optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "901978 - Communications by fibre-optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/43389",
+    "id": "43389",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by fibre optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43389 - Communications by fibre optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/42646",
+    "id": "42646",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by means of mobile phones",
+    "harm": {
+      "id": "0058621",
+      "title": "42646 - Communications by means of mobile phones",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/42647",
+    "id": "42647",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by mobile phones",
+    "harm": {
+      "id": "0058621",
+      "title": "42647 - Communications by mobile phones",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/42645",
+    "id": "42645",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by mobile telephones",
+    "harm": {
+      "id": "0058621",
+      "title": "42645 - Communications by mobile telephones",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/42203",
+    "id": "42203",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by telegraph",
+    "harm": {
+      "id": "0057570",
+      "title": "42203 - Communications by telegraph",
+      "conceptLink": "/ec2/concept/5999075"
+    }
+  },
+  {
+    "uri": "en/38/42205",
+    "id": "42205",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by telegrams",
+    "harm": {
+      "id": "0057569",
+      "title": "42205 - Communications by telegrams",
+      "conceptLink": "/ec2/concept/5999074"
+    }
+  },
+  {
+    "uri": "en/38/42336",
+    "id": "42336",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by telephone",
+    "harm": {
+      "id": "0072812",
+      "title": "42336 - Communications by telephone",
+      "conceptLink": "/ec2/concept/6008987"
+    }
+  },
+  {
+    "uri": "en/38/369665",
+    "id": "369665",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications by television for meeting",
+    "harm": {
+      "id": "0015594",
+      "title": "369665 - Communications by television for meeting",
+      "conceptLink": "/ec2/concept/5965735"
+    }
+  },
+  {
+    "uri": "en/38/826106",
+    "id": "826106",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications consultancy",
+    "harm": {
+      "id": "0057970",
+      "title": "826106 - Communications consultancy",
+      "conceptLink": "/ec2/concept/5999474"
+    }
+  },
+  {
+    "uri": "en/38/125152305",
+    "id": "125152305",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications information (Provision of -)",
+    "harm": {
+      "id": "0006594",
+      "title": "125152305 - Communications information (Provision of -)",
+      "conceptLink": "/ec2/concept/5957493"
+    }
+  },
+  {
+    "uri": "en/38/1447701",
+    "id": "1447701",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services",
+    "harm": {
+      "id": "0071485",
+      "title": "1447701 - Communications services",
+      "conceptLink": "/ec2/concept/6007676"
+    }
+  },
+  {
+    "uri": "en/38/1578391",
+    "id": "1578391",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services for accessing a database",
+    "harm": {
+      "id": "0028242",
+      "title": "1578391 - Communications services for accessing a database",
+      "conceptLink": "/ec2/concept/5977306"
+    }
+  },
+  {
+    "uri": "en/38/826796",
+    "id": "826796",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services for accessing a data-base",
+    "harm": {
+      "id": "0028242",
+      "title": "826796 - Communications services for accessing a data-base",
+      "conceptLink": "/ec2/concept/5977306"
+    }
+  },
+  {
+    "uri": "en/38/826813",
+    "id": "826813",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services for telegrams",
+    "harm": {
+      "id": "0057569",
+      "title": "826813 - Communications services for telegrams",
+      "conceptLink": "/ec2/concept/5999074"
+    }
+  },
+  {
+    "uri": "en/38/826839",
+    "id": "826839",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services for the exchange of data in electronic form",
+    "harm": {
+      "id": "0045542",
+      "title": "826839 - Communications services for the exchange of data in electronic form",
+      "conceptLink": "/ec2/concept/5993094"
+    }
+  },
+  {
+    "uri": "en/38/1271531",
+    "id": "1271531",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications services provided over the Internet",
+    "harm": {
+      "id": "0068521",
+      "title": "1271531 - Communications services provided over the Internet",
+      "conceptLink": "/ec2/concept/6004724"
+    }
+  },
+  {
+    "uri": "en/38/480606",
+    "id": "480606",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications via a global computer network or the internet",
+    "harm": {
+      "id": "0023999",
+      "title": "480606 - Communications via a global computer network or the internet",
+      "conceptLink": "/ec2/concept/5973424"
+    }
+  },
+  {
+    "uri": "en/38/369646",
+    "id": "369646",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications via analogue and digital computer terminals",
+    "harm": {
+      "id": "0037746",
+      "title": "369646 - Communications via analogue and digital computer terminals",
+      "conceptLink": "/ec2/concept/5985968"
+    }
+  },
+  {
+    "uri": "en/38/43390",
+    "id": "43390",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications via fiber-optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43390 - Communications via fiber-optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/43391",
+    "id": "43391",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications via fibre-optic networks",
+    "harm": {
+      "id": "0041307",
+      "title": "43391 - Communications via fibre-optic networks",
+      "conceptLink": "/ec2/concept/5989230"
+    }
+  },
+  {
+    "uri": "en/38/369681",
+    "id": "369681",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Communications via multinational telecommunication networks",
+    "harm": {
+      "id": "0027118",
+      "title": "369681 - Communications via multinational telecommunication networks",
+      "conceptLink": "/ec2/concept/5976263"
+    }
+  },
+  {
+    "uri": "en/38/369695",
+    "id": "369695",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of information and images",
+    "harm": {
+      "id": "0021490",
+      "title": "369695 - Computer aided transmission of information and images",
+      "conceptLink": "/ec2/concept/5971120"
+    }
+  },
+  {
+    "uri": "en/38/829417",
+    "id": "829417",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of images",
+    "harm": {
+      "id": "0012590",
+      "title": "829417 - Computer aided transmission of images",
+      "conceptLink": "/ec2/concept/5962985"
+    }
+  },
+  {
+    "uri": "en/38/481178",
+    "id": "481178",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer-aided transmission of data",
+    "harm": {
+      "id": "0059033",
+      "title": "481178 - Computer-aided transmission of data",
+      "conceptLink": "/ec2/concept/6000524"
+    }
+  },
+  {
+    "uri": "en/38/480914",
+    "id": "480914",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of messages, data and images",
+    "harm": {
+      "id": "0000814",
+      "title": "480914 - Computer aided transmission of messages, data and images",
+      "conceptLink": "/ec2/concept/5952223"
+    }
+  },
+  {
+    "uri": "en/38/480915",
+    "id": "480915",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of messages, information and images",
+    "harm": {
+      "id": "0000814",
+      "title": "480915 - Computer aided transmission of messages, information and images",
+      "conceptLink": "/ec2/concept/5952223"
+    }
+  },
+  {
+    "uri": "en/38/829438",
+    "id": "829438",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of messages",
+    "harm": {
+      "id": "0041502",
+      "title": "829438 - Computer aided transmission of messages",
+      "conceptLink": "/ec2/concept/5989403"
+    }
+  },
+  {
+    "uri": "en/38/829437",
+    "id": "829437",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer-aided transmission of messages",
+    "harm": {
+      "id": "0041502",
+      "title": "829437 - Computer-aided transmission of messages",
+      "conceptLink": "/ec2/concept/5989403"
+    }
+  },
+  {
+    "uri": "en/38/42858",
+    "id": "42858",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer aided transmission of messages and images",
+    "harm": {
+      "id": "0011686",
+      "title": "42858 - Computer aided transmission of messages and images",
+      "conceptLink": "/ec2/concept/5962151"
+    }
+  },
+  {
+    "uri": "en/38/481002",
+    "id": "481002",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer bulletin board services",
+    "harm": {
+      "id": "0029738",
+      "title": "481002 - Computer bulletin board services",
+      "conceptLink": "/ec2/concept/5978688"
+    }
+  },
+  {
+    "uri": "en/38/826852",
+    "id": "826852",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer bulletin boards",
+    "harm": {
+      "id": "0042264",
+      "title": "826852 - Computer bulletin boards",
+      "conceptLink": "/ec2/concept/5990098"
+    }
+  },
+  {
+    "uri": "en/38/131140431",
+    "id": "131140431",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer communication and Internet access",
+    "harm": {
+      "id": "0048048",
+      "title": "131140431 - Computer communication and Internet access",
+      "conceptLink": "/ec2/concept/5995307"
+    }
+  }
+]

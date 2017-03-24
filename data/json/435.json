@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/20/754000",
+    "id": "754000",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom fittings in the nature of furniture",
+    "harm": {
+      "id": "0028063",
+      "title": "754000 - Bathroom fittings in the nature of furniture",
+      "conceptLink": "/ec2/concept/5977142"
+    }
+  },
+  {
+    "uri": "en/20/491214",
+    "id": "491214",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom furniture",
+    "harm": {
+      "id": "0021441",
+      "title": "491214 - Bathroom furniture",
+      "conceptLink": "/ec2/concept/5971076"
+    }
+  },
+  {
+    "uri": "en/20/754015",
+    "id": "754015",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom mirrors",
+    "harm": {
+      "id": "0016505",
+      "title": "754015 - Bathroom mirrors",
+      "conceptLink": "/ec2/concept/5966579"
+    }
+  },
+  {
+    "uri": "en/20/25705044",
+    "id": "25705044",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom stools",
+    "harm": {
+      "id": "0066826",
+      "title": "25705044 - Bathroom stools",
+      "conceptLink": "/ec2/concept/6003029"
+    }
+  },
+  {
+    "uri": "en/20/348542",
+    "id": "348542",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom vanities",
+    "harm": {
+      "id": "0057596",
+      "title": "348542 - Bathroom vanities",
+      "conceptLink": "/ec2/concept/5999101"
+    }
+  },
+  {
+    "uri": "en/20/120818295",
+    "id": "120818295",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom vanities [furniture]",
+    "harm": {
+      "id": "0057596",
+      "title": "120818295 - Bathroom vanities [furniture]",
+      "conceptLink": "/ec2/concept/5999101"
+    }
+  },
+  {
+    "uri": "en/20/490197",
+    "id": "490197",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathroom vanity units incorporating basins",
+    "harm": {
+      "id": "0017036",
+      "title": "490197 - Bathroom vanity units incorporating basins",
+      "conceptLink": "/ec2/concept/5967059"
+    }
+  },
+  {
+    "uri": "en/20/136569401",
+    "id": "136569401",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bathtub grab bars, not of metal",
+    "harm": {
+      "id": "0060038",
+      "title": "136569401 - Bathtub grab bars, not of metal",
+      "conceptLink": "/ec2/concept/5996307"
+    }
+  },
+  {
+    "uri": "en/20/754029",
+    "id": "754029",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beach beds",
+    "harm": {
+      "id": "0016506",
+      "title": "754029 - Beach beds",
+      "conceptLink": "/ec2/concept/5966580"
+    }
+  },
+  {
+    "uri": "en/20/754043",
+    "id": "754043",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beach beds incorporating wind shields",
+    "harm": {
+      "id": "0039588",
+      "title": "754043 - Beach beds incorporating wind shields",
+      "conceptLink": "/ec2/concept/5987649"
+    }
+  },
+  {
+    "uri": "en/20/424821",
+    "id": "424821",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bead curtains",
+    "harm": {
+      "id": "0018880",
+      "title": "424821 - Bead curtains",
+      "conceptLink": "/ec2/concept/5968750"
+    }
+  },
+  {
+    "uri": "en/20/241726",
+    "id": "241726",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bead curtains for decoration",
+    "harm": {
+      "id": "0012976",
+      "title": "241726 - Bead curtains for decoration",
+      "conceptLink": "/ec2/concept/5963333"
+    }
+  },
+  {
+    "uri": "en/20/754056",
+    "id": "754056",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beam supported seating",
+    "harm": {
+      "id": "0022395",
+      "title": "754056 - Beam supported seating",
+      "conceptLink": "/ec2/concept/5971951"
+    }
+  },
+  {
+    "uri": "en/20/754070",
+    "id": "754070",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beams for display fittings",
+    "harm": {
+      "id": "0004979",
+      "title": "754070 - Beams for display fittings",
+      "conceptLink": "/ec2/concept/5956020"
+    }
+  },
+  {
+    "uri": "en/20/119538937",
+    "id": "119538937",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bean bag beds",
+    "harm": {
+      "id": "0073094",
+      "title": "119538937 - Bean bag beds",
+      "conceptLink": "/ec2/concept/6009267"
+    }
+  },
+  {
+    "uri": "en/20/56652624",
+    "id": "56652624",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bean bag chairs",
+    "harm": {
+      "id": "0073095",
+      "title": "56652624 - Bean bag chairs",
+      "conceptLink": "/ec2/concept/6009268"
+    }
+  },
+  {
+    "uri": "en/20/137965964",
+    "id": "137965964",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bean bag cushions",
+    "harm": {
+      "id": "0073096",
+      "title": "137965964 - Bean bag cushions",
+      "conceptLink": "/ec2/concept/6009269"
+    }
+  },
+  {
+    "uri": "en/20/56652646",
+    "id": "56652646",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bean bag pillows",
+    "harm": {
+      "id": "0073097",
+      "title": "56652646 - Bean bag pillows",
+      "conceptLink": "/ec2/concept/6009270"
+    }
+  },
+  {
+    "uri": "en/20/424842",
+    "id": "424842",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bean bags",
+    "harm": {
+      "id": "0024610",
+      "title": "424842 - Bean bags",
+      "conceptLink": "/ec2/concept/5973988"
+    }
+  },
+  {
+    "uri": "en/20/242363",
+    "id": "242363",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed bases",
+    "harm": {
+      "id": "0045331",
+      "title": "242363 - Bed bases",
+      "conceptLink": "/ec2/concept/5992907"
+    }
+  },
+  {
+    "uri": "en/20/240699",
+    "id": "240699",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed casters, not of metal",
+    "harm": {
+      "id": "0038308",
+      "title": "240699 - Bed casters, not of metal",
+      "conceptLink": "/ec2/concept/5986485"
+    }
+  },
+  {
+    "uri": "en/20/348232",
+    "id": "348232",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed chairs",
+    "harm": {
+      "id": "0038894",
+      "title": "348232 - Bed chairs",
+      "conceptLink": "/ec2/concept/5987016"
+    }
+  },
+  {
+    "uri": "en/20/240101",
+    "id": "240101",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed fittings, not of metal",
+    "harm": {
+      "id": "0031501",
+      "title": "240101 - Bed fittings, not of metal",
+      "conceptLink": "/ec2/concept/5980295"
+    }
+  },
+  {
+    "uri": "en/20/424861",
+    "id": "424861",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed frames",
+    "harm": {
+      "id": "0059218",
+      "title": "424861 - Bed frames",
+      "conceptLink": "/ec2/concept/6000707"
+    }
+  },
+  {
+    "uri": "en/20/49593152",
+    "id": "49593152",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed frames of metal",
+    "harm": {
+      "id": "0066841",
+      "title": "49593152 - Bed frames of metal",
+      "conceptLink": "/ec2/concept/6003044"
+    }
+  },
+  {
+    "uri": "en/20/497796",
+    "id": "497796",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed heads",
+    "harm": {
+      "id": "0009992",
+      "title": "497796 - Bed heads",
+      "conceptLink": "/ec2/concept/5960604"
+    }
+  },
+  {
+    "uri": "en/20/754086",
+    "id": "754086",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed mattresses",
+    "harm": {
+      "id": "0014120",
+      "title": "754086 - Bed mattresses",
+      "conceptLink": "/ec2/concept/5964380"
+    }
+  },
+  {
+    "uri": "en/20/900925",
+    "id": "900925",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed rails",
+    "harm": {
+      "id": "0033124",
+      "title": "900925 - Bed rails",
+      "conceptLink": "/ec2/concept/5981770"
+    }
+  },
+  {
+    "uri": "en/20/348234",
+    "id": "348234",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed-settees",
+    "harm": {
+      "id": "0022124",
+      "title": "348234 - Bed-settees",
+      "conceptLink": "/ec2/concept/5971707"
+    }
+  },
+  {
+    "uri": "en/20/424882",
+    "id": "424882",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed slats",
+    "harm": {
+      "id": "0010048",
+      "title": "424882 - Bed slats",
+      "conceptLink": "/ec2/concept/5960655"
+    }
+  },
+  {
+    "uri": "en/20/754102",
+    "id": "754102",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bed springs of non-metallic materials",
+    "harm": {
+      "id": "0004264",
+      "title": "754102 - Bed springs of non-metallic materials",
+      "conceptLink": "/ec2/concept/5955351"
+    }
+  },
+  {
+    "uri": "en/20/238044",
+    "id": "238044",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedding, except linen",
+    "harm": {
+      "id": "0025639",
+      "title": "238044 - Bedding, except linen",
+      "conceptLink": "/ec2/concept/5974931"
+    }
+  },
+  {
+    "uri": "en/20/754118",
+    "id": "754118",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedding for cots [other than bed linen]",
+    "harm": {
+      "id": "0044637",
+      "title": "754118 - Bedding for cots [other than bed linen]",
+      "conceptLink": "/ec2/concept/5992269"
+    }
+  },
+  {
+    "uri": "en/20/754119",
+    "id": "754119",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedding for nursery cots [other than bed linen]",
+    "harm": {
+      "id": "0044637",
+      "title": "754119 - Bedding for nursery cots [other than bed linen]",
+      "conceptLink": "/ec2/concept/5992269"
+    }
+  },
+  {
+    "uri": "en/20/424914",
+    "id": "424914",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedroom furniture",
+    "harm": {
+      "id": "0018881",
+      "title": "424914 - Bedroom furniture",
+      "conceptLink": "/ec2/concept/5968751"
+    }
+  },
+  {
+    "uri": "en/20/235777",
+    "id": "235777",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds",
+    "harm": {
+      "id": "0013808",
+      "title": "235777 - Beds",
+      "conceptLink": "/ec2/concept/5964090"
+    }
+  },
+  {
+    "uri": "en/20/477878",
+    "id": "477878",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds adapted for use by those with mobility difficulties",
+    "harm": {
+      "id": "0033017",
+      "title": "477878 - Beds adapted for use by those with mobility difficulties",
+      "conceptLink": "/ec2/concept/5981671"
+    }
+  },
+  {
+    "uri": "en/20/131135693",
+    "id": "131135693",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds, bedding, mattresses, pillows and cushions",
+    "harm": {
+      "id": "0047890",
+      "title": "131135693 - Beds, bedding, mattresses, pillows and cushions",
+      "conceptLink": "/ec2/concept/5995157"
+    }
+  },
+  {
+    "uri": "en/20/754144",
+    "id": "754144",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds for animals",
+    "harm": {
+      "id": "0021704",
+      "title": "754144 - Beds for animals",
+      "conceptLink": "/ec2/concept/5971314"
+    }
+  },
+  {
+    "uri": "en/20/754160",
+    "id": "754160",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds for birds",
+    "harm": {
+      "id": "0027348",
+      "title": "754160 - Beds for birds",
+      "conceptLink": "/ec2/concept/5976478"
+    }
+  },
+  {
+    "uri": "en/20/235061",
+    "id": "235061",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds for household pets",
+    "harm": {
+      "id": "0021705",
+      "title": "235061 - Beds for household pets",
+      "conceptLink": "/ec2/concept/5971315"
+    }
+  },
+  {
+    "uri": "en/20/235062",
+    "id": "235062",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds for pets",
+    "harm": {
+      "id": "0021705",
+      "title": "235062 - Beds for pets",
+      "conceptLink": "/ec2/concept/5971315"
+    }
+  },
+  {
+    "uri": "en/20/240665",
+    "id": "240665",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds (Hospital -)",
+    "harm": {
+      "id": "0003638",
+      "title": "240665 - Beds (Hospital -)",
+      "conceptLink": "/ec2/concept/5954782"
+    }
+  },
+  {
+    "uri": "en/20/244165",
+    "id": "244165",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds (Hydrostatic [water] -), not for medical purposes",
+    "harm": {
+      "id": "0026709",
+      "title": "244165 - Beds (Hydrostatic [water] -), not for medical purposes",
+      "conceptLink": "/ec2/concept/5975907"
+    }
+  },
+  {
+    "uri": "en/20/754172",
+    "id": "754172",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds incorporating divan bases",
+    "harm": {
+      "id": "0015814",
+      "title": "754172 - Beds incorporating divan bases",
+      "conceptLink": "/ec2/concept/5965942"
+    }
+  },
+  {
+    "uri": "en/20/754188",
+    "id": "754188",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds incorporating inner sprung mattresses",
+    "harm": {
+      "id": "0004265",
+      "title": "754188 - Beds incorporating inner sprung mattresses",
+      "conceptLink": "/ec2/concept/5955352"
+    }
+  },
+  {
+    "uri": "en/20/120818253",
+    "id": "120818253",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds made of wood",
+    "harm": {
+      "id": "0059220",
+      "title": "120818253 - Beds made of wood",
+      "conceptLink": "/ec2/concept/6000709"
+    }
+  },
+  {
+    "uri": "en/20/120818252",
+    "id": "120818252",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beds of wood",
+    "harm": {
+      "id": "0059220",
+      "title": "120818252 - Beds of wood",
+      "conceptLink": "/ec2/concept/6000709"
+    }
+  },
+  {
+    "uri": "en/20/426057",
+    "id": "426057",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedside cabinets",
+    "harm": {
+      "id": "0037783",
+      "title": "426057 - Bedside cabinets",
+      "conceptLink": "/ec2/concept/5986002"
+    }
+  },
+  {
+    "uri": "en/20/426058",
+    "id": "426058",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedside lockers",
+    "harm": {
+      "id": "0037783",
+      "title": "426058 - Bedside lockers",
+      "conceptLink": "/ec2/concept/5986002"
+    }
+  },
+  {
+    "uri": "en/20/242357",
+    "id": "242357",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedsprings",
+    "harm": {
+      "id": "0045234",
+      "title": "242357 - Bedsprings",
+      "conceptLink": "/ec2/concept/5992815"
+    }
+  },
+  {
+    "uri": "en/20/235999",
+    "id": "235999",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedsteads",
+    "harm": {
+      "id": "0059218",
+      "title": "235999 - Bedsteads",
+      "conceptLink": "/ec2/concept/6000707"
+    }
+  },
+  {
+    "uri": "en/20/119695083",
+    "id": "119695083",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedsteads made of wood",
+    "harm": {
+      "id": "0059219",
+      "title": "119695083 - Bedsteads made of wood",
+      "conceptLink": "/ec2/concept/6000708"
+    }
+  },
+  {
+    "uri": "en/20/235998",
+    "id": "235998",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedsteads of wood",
+    "harm": {
+      "id": "0059219",
+      "title": "235998 - Bedsteads of wood",
+      "conceptLink": "/ec2/concept/6000708"
+    }
+  },
+  {
+    "uri": "en/20/235996",
+    "id": "235996",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bedsteads [wood]",
+    "harm": {
+      "id": "0059219",
+      "title": "235996 - Bedsteads [wood]",
+      "conceptLink": "/ec2/concept/6000708"
+    }
+  },
+  {
+    "uri": "en/20/234777",
+    "id": "234777",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beehives",
+    "harm": {
+      "id": "0023183",
+      "title": "234777 - Beehives",
+      "conceptLink": "/ec2/concept/5972669"
+    }
+  },
+  {
+    "uri": "en/20/234895",
+    "id": "234895",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beehives (Comb foundations for -)",
+    "harm": {
+      "id": "0028870",
+      "title": "234895 - Beehives (Comb foundations for -)",
+      "conceptLink": "/ec2/concept/5977895"
+    }
+  },
+  {
+    "uri": "en/20/236512",
+    "id": "236512",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Beehives (Sections of wood for -)",
+    "harm": {
+      "id": "0025783",
+      "title": "236512 - Beehives (Sections of wood for -)",
+      "conceptLink": "/ec2/concept/5975062"
+    }
+  },
+  {
+    "uri": "en/20/754202",
+    "id": "754202",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bench seating",
+    "harm": {
+      "id": "0012999",
+      "title": "754202 - Bench seating",
+      "conceptLink": "/ec2/concept/5963355"
+    }
+  },
+  {
+    "uri": "en/20/754218",
+    "id": "754218",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bench tables",
+    "harm": {
+      "id": "0028008",
+      "title": "754218 - Bench tables",
+      "conceptLink": "/ec2/concept/5977091"
+    }
+  },
+  {
+    "uri": "en/20/235652",
+    "id": "235652",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches",
+    "harm": {
+      "id": "0012999",
+      "title": "235652 - Benches",
+      "conceptLink": "/ec2/concept/5963355"
+    }
+  },
+  {
+    "uri": "en/20/119538957",
+    "id": "119538957",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches for sports fields",
+    "harm": {
+      "id": "0066856",
+      "title": "119538957 - Benches for sports fields",
+      "conceptLink": "/ec2/concept/6003059"
+    }
+  },
+  {
+    "uri": "en/20/235651",
+    "id": "235651",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches [furniture]",
+    "harm": {
+      "id": "0012999",
+      "title": "235651 - Benches [furniture]",
+      "conceptLink": "/ec2/concept/5963355"
+    }
+  },
+  {
+    "uri": "en/20/243258",
+    "id": "243258",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches (Vice -) not of metal",
+    "harm": {
+      "id": "0002562",
+      "title": "243258 - Benches (Vice -) not of metal",
+      "conceptLink": "/ec2/concept/5953795"
+    }
+  },
+  {
+    "uri": "en/20/754234",
+    "id": "754234",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches with shelves",
+    "harm": {
+      "id": "0039532",
+      "title": "754234 - Benches with shelves",
+      "conceptLink": "/ec2/concept/5987599"
+    }
+  },
+  {
+    "uri": "en/20/239246",
+    "id": "239246",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Benches (Work -)",
+    "harm": {
+      "id": "0057827",
+      "title": "239246 - Benches (Work -)",
+      "conceptLink": "/ec2/concept/5999331"
+    }
+  },
+  {
+    "uri": "en/20/138348898",
+    "id": "138348898",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bentwood furniture",
+    "harm": {
+      "id": "0070063",
+      "title": "138348898 - Bentwood furniture",
+      "conceptLink": "/ec2/concept/6006265"
+    }
+  },
+  {
+    "uri": "en/20/120866196",
+    "id": "120866196",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bicycle racing number plates, not of metal",
+    "harm": {
+      "id": "0066860",
+      "title": "120866196 - Bicycle racing number plates, not of metal",
+      "conceptLink": "/ec2/concept/6003063"
+    }
+  },
+  {
+    "uri": "en/20/243945",
+    "id": "243945",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Binding screws, not of metal, for cables",
+    "harm": {
+      "id": "0060247",
+      "title": "243945 - Binding screws, not of metal, for cables",
+      "conceptLink": "/ec2/concept/5998227"
+    }
+  },
+  {
+    "uri": "en/20/754247",
+    "id": "754247",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bins adapted to facilitate accelerated breakdown of organic matter [non-metallic]",
+    "harm": {
+      "id": "0033731",
+      "title": "754247 - Bins adapted to facilitate accelerated breakdown of organic matter [non-metallic]",
+      "conceptLink": "/ec2/concept/5982326"
+    }
+  },
+  {
+    "uri": "en/20/754258",
+    "id": "754258",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bins designed to facilitate accelerated breakdown of organic matter [non-metallic]",
+    "harm": {
+      "id": "0033731",
+      "title": "754258 - Bins designed to facilitate accelerated breakdown of organic matter [non-metallic]",
+      "conceptLink": "/ec2/concept/5982326"
+    }
+  },
+  {
+    "uri": "en/20/243147",
+    "id": "243147",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bins, not of metal",
+    "harm": {
+      "id": "0042999",
+      "title": "243147 - Bins, not of metal",
+      "conceptLink": "/ec2/concept/5990762"
+    }
+  },
+  {
+    "uri": "en/20/754271",
+    "id": "754271",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bins of plastics for making compost",
+    "harm": {
+      "id": "0016458",
+      "title": "754271 - Bins of plastics for making compost",
+      "conceptLink": "/ec2/concept/5966540"
+    }
+  },
+  {
+    "uri": "en/20/76715062",
+    "id": "76715062",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bird houses",
+    "harm": {
+      "id": "0052252",
+      "title": "76715062 - Bird houses",
+      "conceptLink": "/ec2/concept/6011152"
+    }
+  },
+  {
+    "uri": "en/20/233587040",
+    "id": "233587040",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Birdhouses",
+    "harm": {
+      "id": "0052110",
+      "title": "233587040 - Birdhouses",
+      "conceptLink": "/ec2/concept/6011010"
+    }
+  },
+  {
+    "uri": "en/20/241395",
+    "id": "241395",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Birds (Stuffed -)",
+    "harm": {
+      "id": "0042759",
+      "title": "241395 - Birds (Stuffed -)",
+      "conceptLink": "/ec2/concept/5990543"
+    }
+  },
+  {
+    "uri": "en/20/754286",
+    "id": "754286",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blackout blinds [indoor]",
+    "harm": {
+      "id": "0033732",
+      "title": "754286 - Blackout blinds [indoor]",
+      "conceptLink": "/ec2/concept/5982327"
+    }
+  },
+  {
+    "uri": "en/20/754301",
+    "id": "754301",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blackout blinds [slatted, indoor]",
+    "harm": {
+      "id": "0028009",
+      "title": "754301 - Blackout blinds [slatted, indoor]",
+      "conceptLink": "/ec2/concept/5977092"
+    }
+  },
+  {
+    "uri": "en/20/754316",
+    "id": "754316",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blanking plugs",
+    "harm": {
+      "id": "0010641",
+      "title": "754316 - Blanking plugs",
+      "conceptLink": "/ec2/concept/5961197"
+    }
+  },
+  {
+    "uri": "en/20/754333",
+    "id": "754333",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blind bolt fasteners of non-metallic materials",
+    "harm": {
+      "id": "0012454",
+      "title": "754333 - Blind bolt fasteners of non-metallic materials",
+      "conceptLink": "/ec2/concept/5962860"
+    }
+  },
+  {
+    "uri": "en/20/754346",
+    "id": "754346",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blind pulls of non-metallic materials",
+    "harm": {
+      "id": "0000878",
+      "title": "754346 - Blind pulls of non-metallic materials",
+      "conceptLink": "/ec2/concept/5952277"
+    }
+  },
+  {
+    "uri": "en/20/126492054",
+    "id": "126492054",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blinds (Indoor window -) [shades] furniture",
+    "harm": {
+      "id": "0057164",
+      "title": "126492054 - Blinds (Indoor window -) [shades] furniture",
+      "conceptLink": "/ec2/concept/5998804"
+    }
+  },
+  {
+    "uri": "en/20/502222",
+    "id": "502222",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blinds of reed, rattan or bamboo (sudare)",
+    "harm": {
+      "id": "0007056",
+      "title": "502222 - Blinds of reed, rattan or bamboo (sudare)",
+      "conceptLink": "/ec2/concept/5957912"
+    }
+  },
+  {
+    "uri": "en/20/240521",
+    "id": "240521",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blinds (Slatted indoor -)",
+    "harm": {
+      "id": "0057934",
+      "title": "240521 - Blinds (Slatted indoor -)",
+      "conceptLink": "/ec2/concept/5999438"
+    }
+  },
+  {
+    "uri": "en/20/124980646",
+    "id": "124980646",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Blinds (Slatted indoor -) for protection against light",
+    "harm": {
+      "id": "0012455",
+      "title": "124980646 - Blinds (Slatted indoor -) for protection against light",
+      "conceptLink": "/ec2/concept/5962861"
+    }
+  },
+  {
+    "uri": "en/20/129270214",
+    "id": "129270214",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boarding stairs (Mobile -), not of metal, for passengers",
+    "harm": {
+      "id": "0040619",
+      "title": "129270214 - Boarding stairs (Mobile -), not of metal, for passengers",
+      "conceptLink": "/ec2/concept/5988599"
+    }
+  },
+  {
+    "uri": "en/20/238775",
+    "id": "238775",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boarding stairs, not of metal, mobile, for passengers",
+    "harm": {
+      "id": "0040619",
+      "title": "238775 - Boarding stairs, not of metal, mobile, for passengers",
+      "conceptLink": "/ec2/concept/5988599"
+    }
+  },
+  {
+    "uri": "en/20/234805",
+    "id": "234805",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards (Display -)",
+    "harm": {
+      "id": "0000015",
+      "title": "234805 - Boards (Display -)",
+      "conceptLink": "/ec2/concept/5951498"
+    }
+  },
+  {
+    "uri": "en/20/754384",
+    "id": "754384",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards for the display of modelling materials",
+    "harm": {
+      "id": "0012456",
+      "title": "754384 - Boards for the display of modelling materials",
+      "conceptLink": "/ec2/concept/5962862"
+    }
+  },
+  {
+    "uri": "en/20/754410",
+    "id": "754410",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards for the display of printing materials",
+    "harm": {
+      "id": "0018255",
+      "title": "754410 - Boards for the display of printing materials",
+      "conceptLink": "/ec2/concept/5968168"
+    }
+  },
+  {
+    "uri": "en/20/754397",
+    "id": "754397",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards for the display of pictorial materials",
+    "harm": {
+      "id": "0000879",
+      "title": "754397 - Boards for the display of pictorial materials",
+      "conceptLink": "/ec2/concept/5952278"
+    }
+  },
+  {
+    "uri": "en/20/754370",
+    "id": "754370",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards for the display of graphic materials",
+    "harm": {
+      "id": "0029801",
+      "title": "754370 - Boards for the display of graphic materials",
+      "conceptLink": "/ec2/concept/5978746"
+    }
+  },
+  {
+    "uri": "en/20/754422",
+    "id": "754422",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards in the nature of furniture",
+    "harm": {
+      "id": "0035591",
+      "title": "754422 - Boards in the nature of furniture",
+      "conceptLink": "/ec2/concept/5984014"
+    }
+  },
+  {
+    "uri": "en/20/754435",
+    "id": "754435",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards of plastics materials for advertising purposes [non-luminous]",
+    "harm": {
+      "id": "0038954",
+      "title": "754435 - Boards of plastics materials for advertising purposes [non-luminous]",
+      "conceptLink": "/ec2/concept/5987072"
+    }
+  },
+  {
+    "uri": "en/20/754450",
+    "id": "754450",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Boards of wood for advertising purposes [non-luminous]",
+    "harm": {
+      "id": "0038955",
+      "title": "754450 - Boards of wood for advertising purposes [non-luminous]",
+      "conceptLink": "/ec2/concept/5987073"
+    }
+  },
+  {
+    "uri": "en/20/241423",
+    "id": "241423",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bolsters",
+    "harm": {
+      "id": "0034826",
+      "title": "241423 - Bolsters",
+      "conceptLink": "/ec2/concept/5983321"
+    }
+  },
+  {
+    "uri": "en/20/910573",
+    "id": "910573",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bolts (Door -) not of metal",
+    "harm": {
+      "id": "0057525",
+      "title": "910573 - Bolts (Door -) not of metal",
+      "conceptLink": "/ec2/concept/5999030"
+    }
+  },
+  {
+    "uri": "en/20/243616",
+    "id": "243616",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bolts, not of metal",
+    "harm": {
+      "id": "0024582",
+      "title": "243616 - Bolts, not of metal",
+      "conceptLink": "/ec2/concept/5973961"
+    }
+  },
+  {
+    "uri": "en/20/424934",
+    "id": "424934",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Bone carvings",
+    "harm": {
+      "id": "0024611",
+      "title": "424934 - Bone carvings",
+      "conceptLink": "/ec2/concept/5973989"
+    }
+  },
+  {
+    "uri": "en/20/119694835",
+    "id": "119694835",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Book holders",
+    "harm": {
+      "id": "0057147",
+      "title": "119694835 - Book holders",
+      "conceptLink": "/ec2/concept/5998784"
+    }
+  }
+]

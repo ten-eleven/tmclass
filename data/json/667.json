@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/233392577",
+    "id": "233392577",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Updating of computer networking and telecommunications hardware",
+    "harm": {
+      "id": "0073446",
+      "title": "233392577 - Updating of computer networking and telecommunications hardware",
+      "conceptLink": "/ec2/concept/6009619"
+    }
+  },
+  {
+    "uri": "en/37/907872",
+    "id": "907872",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Upgrading of computer hardware",
+    "harm": {
+      "id": "0008906",
+      "title": "907872 - Upgrading of computer hardware",
+      "conceptLink": "/ec2/concept/5959603"
+    }
+  },
+  {
+    "uri": "en/37/39396",
+    "id": "39396",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Upholstering",
+    "harm": {
+      "id": "0000904",
+      "title": "39396 - Upholstering",
+      "conceptLink": "/ec2/concept/5952302"
+    }
+  },
+  {
+    "uri": "en/37/120882344",
+    "id": "120882344",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Upholstering of vehicle seats",
+    "harm": {
+      "id": "0068414",
+      "title": "120882344 - Upholstering of vehicle seats",
+      "conceptLink": "/ec2/concept/6004617"
+    }
+  },
+  {
+    "uri": "en/37/37063",
+    "id": "37063",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Upholstery repair",
+    "harm": {
+      "id": "0019379",
+      "title": "37063 - Upholstery repair",
+      "conceptLink": "/ec2/concept/5969199"
+    }
+  },
+  {
+    "uri": "en/37/454673",
+    "id": "454673",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vacuum cleaner repair",
+    "harm": {
+      "id": "0034529",
+      "title": "454673 - Vacuum cleaner repair",
+      "conceptLink": "/ec2/concept/5983055"
+    }
+  },
+  {
+    "uri": "en/37/825739",
+    "id": "825739",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Valeting services relating to household cleaning",
+    "harm": {
+      "id": "0015504",
+      "title": "825739 - Valeting services relating to household cleaning",
+      "conceptLink": "/ec2/concept/5965649"
+    }
+  },
+  {
+    "uri": "en/37/825768",
+    "id": "825768",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Valeting services relating to office cleaning",
+    "harm": {
+      "id": "0027023",
+      "title": "825768 - Valeting services relating to office cleaning",
+      "conceptLink": "/ec2/concept/5976187"
+    }
+  },
+  {
+    "uri": "en/37/825753",
+    "id": "825753",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Valeting services relating to industrial cleaning",
+    "harm": {
+      "id": "0027022",
+      "title": "825753 - Valeting services relating to industrial cleaning",
+      "conceptLink": "/ec2/concept/5976186"
+    }
+  },
+  {
+    "uri": "en/37/40227",
+    "id": "40227",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Varnishing",
+    "harm": {
+      "id": "0012101",
+      "title": "40227 - Varnishing",
+      "conceptLink": "/ec2/concept/5962540"
+    }
+  },
+  {
+    "uri": "en/37/825780",
+    "id": "825780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Varnishing of board materials",
+    "harm": {
+      "id": "0021384",
+      "title": "825780 - Varnishing of board materials",
+      "conceptLink": "/ec2/concept/5971026"
+    }
+  },
+  {
+    "uri": "en/37/825792",
+    "id": "825792",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Varnishing of card materials",
+    "harm": {
+      "id": "0027024",
+      "title": "825792 - Varnishing of card materials",
+      "conceptLink": "/ec2/concept/5976188"
+    }
+  },
+  {
+    "uri": "en/37/135623467",
+    "id": "135623467",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle battery charging",
+    "harm": {
+      "id": "0050038",
+      "title": "135623467 - Vehicle battery charging",
+      "conceptLink": "/ec2/concept/5995448"
+    }
+  },
+  {
+    "uri": "en/37/40339",
+    "id": "40339",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle breakdown assistance [repair]",
+    "harm": {
+      "id": "0059356",
+      "title": "40339 - Vehicle breakdown assistance [repair]",
+      "conceptLink": "/ec2/concept/6000838"
+    }
+  },
+  {
+    "uri": "en/37/454703",
+    "id": "454703",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle breakdown repair services",
+    "harm": {
+      "id": "0059356",
+      "title": "454703 - Vehicle breakdown repair services",
+      "conceptLink": "/ec2/concept/6000838"
+    }
+  },
+  {
+    "uri": "en/37/40267",
+    "id": "40267",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle cleaning",
+    "harm": {
+      "id": "0058644",
+      "title": "40267 - Vehicle cleaning",
+      "conceptLink": "/ec2/concept/6000137"
+    }
+  },
+  {
+    "uri": "en/37/825831",
+    "id": "825831",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle conversions [engine]",
+    "harm": {
+      "id": "0034554",
+      "title": "825831 - Vehicle conversions [engine]",
+      "conceptLink": "/ec2/concept/5983078"
+    }
+  },
+  {
+    "uri": "en/37/454685",
+    "id": "454685",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle detailing",
+    "harm": {
+      "id": "0011422",
+      "title": "454685 - Vehicle detailing",
+      "conceptLink": "/ec2/concept/5961908"
+    }
+  },
+  {
+    "uri": "en/37/907901",
+    "id": "907901",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle fueling services",
+    "harm": {
+      "id": "0032048",
+      "title": "907901 - Vehicle fueling services",
+      "conceptLink": "/ec2/concept/5980786"
+    }
+  },
+  {
+    "uri": "en/37/38569",
+    "id": "38569",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle greasing",
+    "harm": {
+      "id": "0057862",
+      "title": "38569 - Vehicle greasing",
+      "conceptLink": "/ec2/concept/5999366"
+    }
+  },
+  {
+    "uri": "en/37/38572",
+    "id": "38572",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle lubrication",
+    "harm": {
+      "id": "0057862",
+      "title": "38572 - Vehicle lubrication",
+      "conceptLink": "/ec2/concept/5999366"
+    }
+  },
+  {
+    "uri": "en/37/38567",
+    "id": "38567",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle lubrication [greasing]",
+    "harm": {
+      "id": "0057862",
+      "title": "38567 - Vehicle lubrication [greasing]",
+      "conceptLink": "/ec2/concept/5999366"
+    }
+  },
+  {
+    "uri": "en/37/40123",
+    "id": "40123",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle maintenance",
+    "harm": {
+      "id": "0057377",
+      "title": "40123 - Vehicle maintenance",
+      "conceptLink": "/ec2/concept/5998884"
+    }
+  },
+  {
+    "uri": "en/37/36406",
+    "id": "36406",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle maintenance and repair",
+    "harm": {
+      "id": "0059355",
+      "title": "36406 - Vehicle maintenance and repair",
+      "conceptLink": "/ec2/concept/6000837"
+    }
+  },
+  {
+    "uri": "en/37/125047550",
+    "id": "125047550",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle maintenance equipment (Rental of -)",
+    "harm": {
+      "id": "0010414",
+      "title": "125047550 - Vehicle maintenance equipment (Rental of -)",
+      "conceptLink": "/ec2/concept/5960985"
+    }
+  },
+  {
+    "uri": "en/37/452185",
+    "id": "452185",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle painting",
+    "harm": {
+      "id": "0040861",
+      "title": "452185 - Vehicle painting",
+      "conceptLink": "/ec2/concept/5988814"
+    }
+  },
+  {
+    "uri": "en/37/39594",
+    "id": "39594",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle polishing",
+    "harm": {
+      "id": "0058649",
+      "title": "39594 - Vehicle polishing",
+      "conceptLink": "/ec2/concept/6000142"
+    }
+  },
+  {
+    "uri": "en/37/36402",
+    "id": "36402",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair and maintenance",
+    "harm": {
+      "id": "0059355",
+      "title": "36402 - Vehicle repair and maintenance",
+      "conceptLink": "/ec2/concept/6000837"
+    }
+  },
+  {
+    "uri": "en/37/120879831",
+    "id": "120879831",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair as part of vehicle breakdown services",
+    "harm": {
+      "id": "0068253",
+      "title": "120879831 - Vehicle repair as part of vehicle breakdown services",
+      "conceptLink": "/ec2/concept/6004456"
+    }
+  },
+  {
+    "uri": "en/37/120891368",
+    "id": "120891368",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair consultancy",
+    "harm": {
+      "id": "0068099",
+      "title": "120891368 - Vehicle repair consultancy",
+      "conceptLink": "/ec2/concept/6004302"
+    }
+  },
+  {
+    "uri": "en/37/454702",
+    "id": "454702",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair, in particular breakdown services",
+    "harm": {
+      "id": "0059356",
+      "title": "454702 - Vehicle repair, in particular breakdown services",
+      "conceptLink": "/ec2/concept/6000838"
+    }
+  },
+  {
+    "uri": "en/37/233656230",
+    "id": "233656230",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair, maintenance and refuelling",
+    "harm": {
+      "id": "0073890",
+      "title": "233656230 - Vehicle repair, maintenance and refuelling",
+      "conceptLink": "/ec2/concept/6010842"
+    }
+  },
+  {
+    "uri": "en/37/40343",
+    "id": "40343",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle repair services",
+    "harm": {
+      "id": "0059355",
+      "title": "40343 - Vehicle repair services",
+      "conceptLink": "/ec2/concept/6000837"
+    }
+  },
+  {
+    "uri": "en/37/131140201",
+    "id": "131140201",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle service, repair, maintenance and refuelling",
+    "harm": {
+      "id": "0048003",
+      "title": "131140201 - Vehicle service, repair, maintenance and refuelling",
+      "conceptLink": "/ec2/concept/5995264"
+    }
+  },
+  {
+    "uri": "en/37/40018",
+    "id": "40018",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle service station services [refuelling and maintenance]",
+    "harm": {
+      "id": "0011949",
+      "title": "40018 - Vehicle service station services [refuelling and maintenance]",
+      "conceptLink": "/ec2/concept/5962399"
+    }
+  },
+  {
+    "uri": "en/37/40019",
+    "id": "40019",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle service stations",
+    "harm": {
+      "id": "0011949",
+      "title": "40019 - Vehicle service stations",
+      "conceptLink": "/ec2/concept/5962399"
+    }
+  },
+  {
+    "uri": "en/37/40016",
+    "id": "40016",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle service stations [refuelling and maintenance]",
+    "harm": {
+      "id": "0011949",
+      "title": "40016 - Vehicle service stations [refuelling and maintenance]",
+      "conceptLink": "/ec2/concept/5962399"
+    }
+  },
+  {
+    "uri": "en/37/40127",
+    "id": "40127",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle servicing",
+    "harm": {
+      "id": "0057377",
+      "title": "40127 - Vehicle servicing",
+      "conceptLink": "/ec2/concept/5998884"
+    }
+  },
+  {
+    "uri": "en/37/825845",
+    "id": "825845",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle tuning",
+    "harm": {
+      "id": "0046059",
+      "title": "825845 - Vehicle tuning",
+      "conceptLink": "/ec2/concept/5993573"
+    }
+  },
+  {
+    "uri": "en/37/454734",
+    "id": "454734",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle tyre fitting and repair",
+    "harm": {
+      "id": "0025073",
+      "title": "454734 - Vehicle tyre fitting and repair",
+      "conceptLink": "/ec2/concept/5974415"
+    }
+  },
+  {
+    "uri": "en/37/452242",
+    "id": "452242",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle undercoating services",
+    "harm": {
+      "id": "0011950",
+      "title": "452242 - Vehicle undercoating services",
+      "conceptLink": "/ec2/concept/5962400"
+    }
+  },
+  {
+    "uri": "en/37/454755",
+    "id": "454755",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle upholstery and repair services",
+    "harm": {
+      "id": "0042368",
+      "title": "454755 - Vehicle upholstery and repair services",
+      "conceptLink": "/ec2/concept/5990193"
+    }
+  },
+  {
+    "uri": "en/37/36574",
+    "id": "36574",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle wash",
+    "harm": {
+      "id": "0047541",
+      "title": "36574 - Vehicle wash",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/36576",
+    "id": "36576",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle wash services",
+    "harm": {
+      "id": "0047541",
+      "title": "36576 - Vehicle wash services",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/36571",
+    "id": "36571",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle washing",
+    "harm": {
+      "id": "0047541",
+      "title": "36571 - Vehicle washing",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/454776",
+    "id": "454776",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle washing services",
+    "harm": {
+      "id": "0047541",
+      "title": "454776 - Vehicle washing services",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/825872",
+    "id": "825872",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle window replacement services",
+    "harm": {
+      "id": "0034555",
+      "title": "825872 - Vehicle window replacement services",
+      "conceptLink": "/ec2/concept/5983079"
+    }
+  },
+  {
+    "uri": "en/37/825885",
+    "id": "825885",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicle windscreen replacement services",
+    "harm": {
+      "id": "0023106",
+      "title": "825885 - Vehicle windscreen replacement services",
+      "conceptLink": "/ec2/concept/5972597"
+    }
+  },
+  {
+    "uri": "en/37/36404",
+    "id": "36404",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vehicles maintenance and repair",
+    "harm": {
+      "id": "0059355",
+      "title": "36404 - Vehicles maintenance and repair",
+      "conceptLink": "/ec2/concept/6000837"
+    }
+  },
+  {
+    "uri": "en/37/454797",
+    "id": "454797",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Venetian blind installation and repair",
+    "harm": {
+      "id": "0030794",
+      "title": "454797 - Venetian blind installation and repair",
+      "conceptLink": "/ec2/concept/5979664"
+    }
+  },
+  {
+    "uri": "en/37/40485",
+    "id": "40485",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin eradication [other than in agriculture]",
+    "harm": {
+      "id": "0006300",
+      "title": "40485 - Vermin eradication [other than in agriculture]",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/817780",
+    "id": "817780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin exterminating",
+    "harm": {
+      "id": "0003359",
+      "title": "817780 - Vermin exterminating",
+      "conceptLink": "/ec2/concept/5954523"
+    }
+  },
+  {
+    "uri": "en/37/138209752",
+    "id": "138209752",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin exterminating other than for agriculture, forestry and horticulture",
+    "harm": {
+      "id": "0013064",
+      "title": "138209752 - Vermin exterminating other than for agriculture, forestry and horticulture",
+      "conceptLink": "/ec2/concept/5963412"
+    }
+  },
+  {
+    "uri": "en/37/504501",
+    "id": "504501",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin exterminating [other than for agriculture, forestry or horticulture]",
+    "harm": {
+      "id": "0013064",
+      "title": "504501 - Vermin exterminating [other than for agriculture, forestry or horticulture]",
+      "conceptLink": "/ec2/concept/5963412"
+    }
+  },
+  {
+    "uri": "en/37/40484",
+    "id": "40484",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin exterminating, other than for agriculture",
+    "harm": {
+      "id": "0006300",
+      "title": "40484 - Vermin exterminating, other than for agriculture",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/233638564",
+    "id": "233638564",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin exterminating, other than for agriculture, aquaculture, horticulture and forestry",
+    "harm": {
+      "id": "0006300",
+      "title": "233638564 - Vermin exterminating, other than for agriculture, aquaculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/40482",
+    "id": "40482",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin extermination other than for agriculture",
+    "harm": {
+      "id": "0006300",
+      "title": "40482 - Vermin extermination other than for agriculture",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/40486",
+    "id": "40486",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vermin killing [other than in agriculture]",
+    "harm": {
+      "id": "0006300",
+      "title": "40486 - Vermin killing [other than in agriculture]",
+      "conceptLink": "/ec2/concept/5957226"
+    }
+  },
+  {
+    "uri": "en/37/59166951",
+    "id": "59166951",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vulcanization of tires [repair]",
+    "harm": {
+      "id": "0057761",
+      "title": "59166951 - Vulcanization of tires [repair]",
+      "conceptLink": "/ec2/concept/5999265"
+    }
+  },
+  {
+    "uri": "en/37/41229",
+    "id": "41229",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vulcanization of tires [tyres] [repair]",
+    "harm": {
+      "id": "0057761",
+      "title": "41229 - Vulcanization of tires [tyres] [repair]",
+      "conceptLink": "/ec2/concept/5999265"
+    }
+  },
+  {
+    "uri": "en/37/129607628",
+    "id": "129607628",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vulcanization of tyres [repair]",
+    "harm": {
+      "id": "0057761",
+      "title": "129607628 - Vulcanization of tyres [repair]",
+      "conceptLink": "/ec2/concept/5999265"
+    }
+  },
+  {
+    "uri": "en/37/504515",
+    "id": "504515",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vulcanizing of automobile tires [repair]",
+    "harm": {
+      "id": "0057762",
+      "title": "504515 - Vulcanizing of automobile tires [repair]",
+      "conceptLink": "/ec2/concept/5999266"
+    }
+  },
+  {
+    "uri": "en/37/120823293",
+    "id": "120823293",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Vulcanizing of automobile tyres [repair]",
+    "harm": {
+      "id": "0057762",
+      "title": "120823293 - Vulcanizing of automobile tyres [repair]",
+      "conceptLink": "/ec2/concept/5999266"
+    }
+  },
+  {
+    "uri": "en/37/825897",
+    "id": "825897",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wall texturing",
+    "harm": {
+      "id": "0025123",
+      "title": "825897 - Wall texturing",
+      "conceptLink": "/ec2/concept/5974462"
+    }
+  },
+  {
+    "uri": "en/37/39298",
+    "id": "39298",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wallpaper hanging",
+    "harm": {
+      "id": "0001575",
+      "title": "39298 - Wallpaper hanging",
+      "conceptLink": "/ec2/concept/5952903"
+    }
+  },
+  {
+    "uri": "en/37/39297",
+    "id": "39297",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wallpapering",
+    "harm": {
+      "id": "0001575",
+      "title": "39297 - Wallpapering",
+      "conceptLink": "/ec2/concept/5952903"
+    }
+  },
+  {
+    "uri": "en/37/119551505",
+    "id": "119551505",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wallpapering services",
+    "harm": {
+      "id": "0001575",
+      "title": "119551505 - Wallpapering services",
+      "conceptLink": "/ec2/concept/5952903"
+    }
+  },
+  {
+    "uri": "en/37/38231",
+    "id": "38231",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Warehouse construction and repair",
+    "harm": {
+      "id": "0023317",
+      "title": "38231 - Warehouse construction and repair",
+      "conceptLink": "/ec2/concept/5972794"
+    }
+  },
+  {
+    "uri": "en/37/125049948",
+    "id": "125049948",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Warning lanterns (Rental of -)",
+    "harm": {
+      "id": "0025124",
+      "title": "125049948 - Warning lanterns (Rental of -)",
+      "conceptLink": "/ec2/concept/5974463"
+    }
+  },
+  {
+    "uri": "en/37/36573",
+    "id": "36573",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wash (Vehicle -)",
+    "harm": {
+      "id": "0047541",
+      "title": "36573 - Wash (Vehicle -)",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/38966",
+    "id": "38966",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing",
+    "harm": {
+      "id": "0026124",
+      "title": "38966 - Washing",
+      "conceptLink": "/ec2/concept/5975376"
+    }
+  },
+  {
+    "uri": "en/37/120879592",
+    "id": "120879592",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of airplanes",
+    "harm": {
+      "id": "0068310",
+      "title": "120879592 - Washing of airplanes",
+      "conceptLink": "/ec2/concept/6004513"
+    }
+  },
+  {
+    "uri": "en/37/825923",
+    "id": "825923",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of cashmere woollens",
+    "harm": {
+      "id": "0007690",
+      "title": "825923 - Washing of cashmere woollens",
+      "conceptLink": "/ec2/concept/5958494"
+    }
+  },
+  {
+    "uri": "en/37/452805",
+    "id": "452805",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of fabric",
+    "harm": {
+      "id": "0046169",
+      "title": "452805 - Washing of fabric",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/825935",
+    "id": "825935",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of fish boxes",
+    "harm": {
+      "id": "0030834",
+      "title": "825935 - Washing of fish boxes",
+      "conceptLink": "/ec2/concept/5979700"
+    }
+  },
+  {
+    "uri": "en/37/825948",
+    "id": "825948",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of knitwear",
+    "harm": {
+      "id": "0036678",
+      "title": "825948 - Washing of knitwear",
+      "conceptLink": "/ec2/concept/5985004"
+    }
+  },
+  {
+    "uri": "en/37/36775",
+    "id": "36775",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of linen",
+    "harm": {
+      "id": "0046169",
+      "title": "36775 - Washing of linen",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/825961",
+    "id": "825961",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of textile piece goods",
+    "harm": {
+      "id": "0036679",
+      "title": "825961 - Washing of textile piece goods",
+      "conceptLink": "/ec2/concept/5985005"
+    }
+  },
+  {
+    "uri": "en/37/452806",
+    "id": "452806",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of tissues",
+    "harm": {
+      "id": "0046169",
+      "title": "452806 - Washing of tissues",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/36572",
+    "id": "36572",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Washing of vehicles",
+    "harm": {
+      "id": "0047541",
+      "title": "36572 - Washing of vehicles",
+      "conceptLink": "/ec2/concept/5994837"
+    }
+  },
+  {
+    "uri": "en/37/454821",
+    "id": "454821",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Waste disposal [cleaning service]",
+    "harm": {
+      "id": "0019378",
+      "title": "454821 - Waste disposal [cleaning service]",
+      "conceptLink": "/ec2/concept/5969198"
+    }
+  },
+  {
+    "uri": "en/37/119551509",
+    "id": "119551509",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Waste disposal for others [cleaning service]",
+    "harm": {
+      "id": "0019378",
+      "title": "119551509 - Waste disposal for others [cleaning service]",
+      "conceptLink": "/ec2/concept/5969198"
+    }
+  },
+  {
+    "uri": "en/37/825973",
+    "id": "825973",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Waste removal [cleaning]",
+    "harm": {
+      "id": "0019378",
+      "title": "825973 - Waste removal [cleaning]",
+      "conceptLink": "/ec2/concept/5969198"
+    }
+  },
+  {
+    "uri": "en/37/125150571",
+    "id": "125150571",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Watch mending (Clock and -)",
+    "harm": {
+      "id": "0012479",
+      "title": "125150571 - Watch mending (Clock and -)",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/38773",
+    "id": "38773",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Watch repair",
+    "harm": {
+      "id": "0012479",
+      "title": "38773 - Watch repair",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/38770",
+    "id": "38770",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Watch repair (Clock and -)",
+    "harm": {
+      "id": "0012479",
+      "title": "38770 - Watch repair (Clock and -)",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/137140654",
+    "id": "137140654",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Watch repair or maintenance",
+    "harm": {
+      "id": "0032230",
+      "title": "137140654 - Watch repair or maintenance",
+      "conceptLink": "/ec2/concept/5980950"
+    }
+  },
+  {
+    "uri": "en/37/454835",
+    "id": "454835",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Water and oil well boring",
+    "harm": {
+      "id": "0019324",
+      "title": "454835 - Water and oil well boring",
+      "conceptLink": "/ec2/concept/5969149"
+    }
+  },
+  {
+    "uri": "en/37/41276",
+    "id": "41276",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Water well drilling",
+    "harm": {
+      "id": "0046855",
+      "title": "41276 - Water well drilling",
+      "conceptLink": "/ec2/concept/5994250"
+    }
+  },
+  {
+    "uri": "en/37/452273",
+    "id": "452273",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Waterproofing of basements",
+    "harm": {
+      "id": "0000384",
+      "title": "452273 - Waterproofing of basements",
+      "conceptLink": "/ec2/concept/5951834"
+    }
+  },
+  {
+    "uri": "en/37/825987",
+    "id": "825987",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Welding for repair purposes",
+    "harm": {
+      "id": "0045840",
+      "title": "825987 - Welding for repair purposes",
+      "conceptLink": "/ec2/concept/5993371"
+    }
+  },
+  {
+    "uri": "en/37/41271",
+    "id": "41271",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Well drilling",
+    "harm": {
+      "id": "0007082",
+      "title": "41271 - Well drilling",
+      "conceptLink": "/ec2/concept/5957936"
+    }
+  },
+  {
+    "uri": "en/37/454851",
+    "id": "454851",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Well sinking",
+    "harm": {
+      "id": "0011120",
+      "title": "454851 - Well sinking",
+      "conceptLink": "/ec2/concept/5961635"
+    }
+  },
+  {
+    "uri": "en/37/124332724",
+    "id": "124332724",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wells (Boring of -)",
+    "harm": {
+      "id": "0007082",
+      "title": "124332724 - Wells (Boring of -)",
+      "conceptLink": "/ec2/concept/5957936"
+    }
+  },
+  {
+    "uri": "en/37/41272",
+    "id": "41272",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wells (Drilling of -)",
+    "harm": {
+      "id": "0007082",
+      "title": "41272 - Wells (Drilling of -)",
+      "conceptLink": "/ec2/concept/5957936"
+    }
+  },
+  {
+    "uri": "en/37/826002",
+    "id": "826002",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wheel alignment adjustment",
+    "harm": {
+      "id": "0011249",
+      "title": "826002 - Wheel alignment adjustment",
+      "conceptLink": "/ec2/concept/5961753"
+    }
+  },
+  {
+    "uri": "en/37/826013",
+    "id": "826013",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wheel balancing",
+    "harm": {
+      "id": "0028554",
+      "title": "826013 - Wheel balancing",
+      "conceptLink": "/ec2/concept/5977599"
+    }
+  },
+  {
+    "uri": "en/37/826025",
+    "id": "826025",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Wheel repair",
+    "harm": {
+      "id": "0045841",
+      "title": "826025 - Wheel repair",
+      "conceptLink": "/ec2/concept/5993372"
+    }
+  },
+  {
+    "uri": "en/37/454798",
+    "id": "454798",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Window blind installation and repair",
+    "harm": {
+      "id": "0030794",
+      "title": "454798 - Window blind installation and repair",
+      "conceptLink": "/ec2/concept/5979664"
+    }
+  },
+  {
+    "uri": "en/37/38430",
+    "id": "38430",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Window cleaning",
+    "harm": {
+      "id": "0000164",
+      "title": "38430 - Window cleaning",
+      "conceptLink": "/ec2/concept/5951639"
+    }
+  }
+]

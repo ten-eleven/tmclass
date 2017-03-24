@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/40/120890023",
+    "id": "120890023",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of gas-operated welding apparatus",
+    "harm": {
+      "id": "0068888",
+      "title": "120890023 - Rental of gas-operated welding apparatus",
+      "conceptLink": "/ec2/concept/6005091"
+    }
+  },
+  {
+    "uri": "en/40/54153",
+    "id": "54153",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of generators",
+    "harm": {
+      "id": "0005749",
+      "title": "54153 - Rental of generators",
+      "conceptLink": "/ec2/concept/5956721"
+    }
+  },
+  {
+    "uri": "en/40/125062920",
+    "id": "125062920",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of generators (Electric -)",
+    "harm": {
+      "id": "0030231",
+      "title": "125062920 - Rental of generators (Electric -)",
+      "conceptLink": "/ec2/concept/5979140"
+    }
+  },
+  {
+    "uri": "en/40/2555955",
+    "id": "2555955",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of glassware manufacturing machines and apparatus",
+    "harm": {
+      "id": "0068825",
+      "title": "2555955 - Rental of glassware manufacturing machines and apparatus",
+      "conceptLink": "/ec2/concept/6005028"
+    }
+  },
+  {
+    "uri": "en/40/16241201",
+    "id": "16241201",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of glassware manufacturing machines",
+    "harm": {
+      "id": "0056684",
+      "title": "16241201 - Rental of glassware manufacturing machines",
+      "conceptLink": "/ec2/concept/5997974"
+    }
+  },
+  {
+    "uri": "en/40/74544651",
+    "id": "74544651",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of heating apparatus",
+    "harm": {
+      "id": "0071302",
+      "title": "74544651 - Rental of heating apparatus",
+      "conceptLink": "/ec2/concept/6007493"
+    }
+  },
+  {
+    "uri": "en/40/119552918",
+    "id": "119552918",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of heating boilers",
+    "harm": {
+      "id": "0018325",
+      "title": "119552918 - Rental of heating boilers",
+      "conceptLink": "/ec2/concept/5968231"
+    }
+  },
+  {
+    "uri": "en/40/898699",
+    "id": "898699",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of heating installations",
+    "harm": {
+      "id": "0026390",
+      "title": "898699 - Rental of heating installations",
+      "conceptLink": "/ec2/concept/5975618"
+    }
+  },
+  {
+    "uri": "en/40/54469",
+    "id": "54469",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of knitting machines",
+    "harm": {
+      "id": "0024553",
+      "title": "54469 - Rental of knitting machines",
+      "conceptLink": "/ec2/concept/5973932"
+    }
+  },
+  {
+    "uri": "en/40/906763",
+    "id": "906763",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for plywood making",
+    "harm": {
+      "id": "0002405",
+      "title": "906763 - Rental of machines and apparatus for plywood making",
+      "conceptLink": "/ec2/concept/5953652"
+    }
+  },
+  {
+    "uri": "en/40/906756",
+    "id": "906756",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for film development",
+    "harm": {
+      "id": "0013962",
+      "title": "906756 - Rental of machines and apparatus for film development",
+      "conceptLink": "/ec2/concept/5964233"
+    }
+  },
+  {
+    "uri": "en/40/906768",
+    "id": "906768",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for paper-working",
+    "harm": {
+      "id": "0008094",
+      "title": "906768 - Rental of machines and apparatus for paper-working",
+      "conceptLink": "/ec2/concept/5958866"
+    }
+  },
+  {
+    "uri": "en/40/906764",
+    "id": "906764",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for processing foods",
+    "harm": {
+      "id": "0008092",
+      "title": "906764 - Rental of machines and apparatus for processing foods",
+      "conceptLink": "/ec2/concept/5958864"
+    }
+  },
+  {
+    "uri": "en/40/906767",
+    "id": "906767",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for papermaking",
+    "harm": {
+      "id": "0008093",
+      "title": "906767 - Rental of machines and apparatus for papermaking",
+      "conceptLink": "/ec2/concept/5958865"
+    }
+  },
+  {
+    "uri": "en/40/906759",
+    "id": "906759",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for photograph finishing",
+    "harm": {
+      "id": "0008091",
+      "title": "906759 - Rental of machines and apparatus for photograph finishing",
+      "conceptLink": "/ec2/concept/5958863"
+    }
+  },
+  {
+    "uri": "en/40/906766",
+    "id": "906766",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for pulp-making",
+    "harm": {
+      "id": "0037100",
+      "title": "906766 - Rental of machines and apparatus for pulp-making",
+      "conceptLink": "/ec2/concept/5985382"
+    }
+  },
+  {
+    "uri": "en/40/906757",
+    "id": "906757",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for photograph printing",
+    "harm": {
+      "id": "0019818",
+      "title": "906757 - Rental of machines and apparatus for photograph printing",
+      "conceptLink": "/ec2/concept/5969594"
+    }
+  },
+  {
+    "uri": "en/40/906758",
+    "id": "906758",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for photograph enlargement",
+    "harm": {
+      "id": "0019819",
+      "title": "906758 - Rental of machines and apparatus for photograph enlargement",
+      "conceptLink": "/ec2/concept/5969595"
+    }
+  },
+  {
+    "uri": "en/40/906765",
+    "id": "906765",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for processing beverages",
+    "harm": {
+      "id": "0031242",
+      "title": "906765 - Rental of machines and apparatus for processing beverages",
+      "conceptLink": "/ec2/concept/5980068"
+    }
+  },
+  {
+    "uri": "en/40/906760",
+    "id": "906760",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for lumbering",
+    "harm": {
+      "id": "0031240",
+      "title": "906760 - Rental of machines and apparatus for lumbering",
+      "conceptLink": "/ec2/concept/5980066"
+    }
+  },
+  {
+    "uri": "en/40/906762",
+    "id": "906762",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for veneering",
+    "harm": {
+      "id": "0031241",
+      "title": "906762 - Rental of machines and apparatus for veneering",
+      "conceptLink": "/ec2/concept/5980067"
+    }
+  },
+  {
+    "uri": "en/40/906761",
+    "id": "906761",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for wood-working",
+    "harm": {
+      "id": "0042841",
+      "title": "906761 - Rental of machines and apparatus for wood-working",
+      "conceptLink": "/ec2/concept/5990615"
+    }
+  },
+  {
+    "uri": "en/40/120887703",
+    "id": "120887703",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for mothproofing textiles",
+    "harm": {
+      "id": "0068840",
+      "title": "120887703 - Rental of machines and apparatus for mothproofing textiles",
+      "conceptLink": "/ec2/concept/6005043"
+    }
+  },
+  {
+    "uri": "en/40/120887707",
+    "id": "120887707",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines and apparatus for fireproofing textiles",
+    "harm": {
+      "id": "0068841",
+      "title": "120887707 - Rental of machines and apparatus for fireproofing textiles",
+      "conceptLink": "/ec2/concept/6005044"
+    }
+  },
+  {
+    "uri": "en/40/120890296",
+    "id": "120890296",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of machines for the manufacture of corrugated board",
+    "harm": {
+      "id": "0068918",
+      "title": "120890296 - Rental of machines for the manufacture of corrugated board",
+      "conceptLink": "/ec2/concept/6005121"
+    }
+  },
+  {
+    "uri": "en/40/119552925",
+    "id": "119552925",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of misting systems for outdoor cooling",
+    "harm": {
+      "id": "0056686",
+      "title": "119552925 - Rental of misting systems for outdoor cooling",
+      "conceptLink": "/ec2/concept/5997975"
+    }
+  },
+  {
+    "uri": "en/40/842370",
+    "id": "842370",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of photographic enlargers",
+    "harm": {
+      "id": "0026628",
+      "title": "842370 - Rental of photographic enlargers",
+      "conceptLink": "/ec2/concept/5975834"
+    }
+  },
+  {
+    "uri": "en/40/842383",
+    "id": "842383",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of photographic lenses for developing",
+    "harm": {
+      "id": "0009279",
+      "title": "842383 - Rental of photographic lenses for developing",
+      "conceptLink": "/ec2/concept/5959952"
+    }
+  },
+  {
+    "uri": "en/40/841815",
+    "id": "841815",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of photographic processing apparatus",
+    "harm": {
+      "id": "0003552",
+      "title": "841815 - Rental of photographic processing apparatus",
+      "conceptLink": "/ec2/concept/5954701"
+    }
+  },
+  {
+    "uri": "en/40/841816",
+    "id": "841816",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of photographic processing equipment",
+    "harm": {
+      "id": "0003552",
+      "title": "841816 - Rental of photographic processing equipment",
+      "conceptLink": "/ec2/concept/5954701"
+    }
+  },
+  {
+    "uri": "en/40/841796",
+    "id": "841796",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of photographic printing apparatus",
+    "harm": {
+      "id": "0003551",
+      "title": "841796 - Rental of photographic printing apparatus",
+      "conceptLink": "/ec2/concept/5954700"
+    }
+  },
+  {
+    "uri": "en/40/461875",
+    "id": "461875",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of power-generating equipment",
+    "harm": {
+      "id": "0040050",
+      "title": "461875 - Rental of power-generating equipment",
+      "conceptLink": "/ec2/concept/5988077"
+    }
+  },
+  {
+    "uri": "en/40/371831",
+    "id": "371831",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of printing machines and apparatus",
+    "harm": {
+      "id": "0000678",
+      "title": "371831 - Rental of printing machines and apparatus",
+      "conceptLink": "/ec2/concept/5952100"
+    }
+  },
+  {
+    "uri": "en/40/898711",
+    "id": "898711",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of refrigerating apparatus",
+    "harm": {
+      "id": "0009054",
+      "title": "898711 - Rental of refrigerating apparatus",
+      "conceptLink": "/ec2/concept/5959743"
+    }
+  },
+  {
+    "uri": "en/40/906787",
+    "id": "906787",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of sewing machines",
+    "harm": {
+      "id": "0025519",
+      "title": "906787 - Rental of sewing machines",
+      "conceptLink": "/ec2/concept/5974824"
+    }
+  },
+  {
+    "uri": "en/40/371845",
+    "id": "371845",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of shoe making machines",
+    "harm": {
+      "id": "0035392",
+      "title": "371845 - Rental of shoe making machines",
+      "conceptLink": "/ec2/concept/5983833"
+    }
+  },
+  {
+    "uri": "en/40/120887754",
+    "id": "120887754",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of space cooling apparatus for industrial use",
+    "harm": {
+      "id": "0068824",
+      "title": "120887754 - Rental of space cooling apparatus for industrial use",
+      "conceptLink": "/ec2/concept/6005027"
+    }
+  },
+  {
+    "uri": "en/40/120887750",
+    "id": "120887750",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of space cooling apparatus for household use",
+    "harm": {
+      "id": "0056687",
+      "title": "120887750 - Rental of space cooling apparatus for household use",
+      "conceptLink": "/ec2/concept/5997976"
+    }
+  },
+  {
+    "uri": "en/40/119552931",
+    "id": "119552931",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of space cooling apparatus for household purposes",
+    "harm": {
+      "id": "0056687",
+      "title": "119552931 - Rental of space cooling apparatus for household purposes",
+      "conceptLink": "/ec2/concept/5997976"
+    }
+  },
+  {
+    "uri": "en/40/506318",
+    "id": "506318",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of space heating apparatus",
+    "harm": {
+      "id": "0018811",
+      "title": "506318 - Rental of space heating apparatus",
+      "conceptLink": "/ec2/concept/5968686"
+    }
+  },
+  {
+    "uri": "en/40/120887694",
+    "id": "120887694",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of textile dyeing machines and apparatus",
+    "harm": {
+      "id": "0068842",
+      "title": "120887694 - Rental of textile dyeing machines and apparatus",
+      "conceptLink": "/ec2/concept/6005045"
+    }
+  },
+  {
+    "uri": "en/40/120887699",
+    "id": "120887699",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of textile treating machines and apparatus",
+    "harm": {
+      "id": "0068843",
+      "title": "120887699 - Rental of textile treating machines and apparatus",
+      "conceptLink": "/ec2/concept/6005046"
+    }
+  },
+  {
+    "uri": "en/40/371859",
+    "id": "371859",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of tobacco processing machines",
+    "harm": {
+      "id": "0035393",
+      "title": "371859 - Rental of tobacco processing machines",
+      "conceptLink": "/ec2/concept/5983834"
+    }
+  },
+  {
+    "uri": "en/40/371874",
+    "id": "371874",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of typographic presses",
+    "harm": {
+      "id": "0006456",
+      "title": "371874 - Rental of typographic presses",
+      "conceptLink": "/ec2/concept/5957366"
+    }
+  },
+  {
+    "uri": "en/40/16241141",
+    "id": "16241141",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of waste compacting machines and apparatus",
+    "harm": {
+      "id": "0068826",
+      "title": "16241141 - Rental of waste compacting machines and apparatus",
+      "conceptLink": "/ec2/concept/6005029"
+    }
+  },
+  {
+    "uri": "en/40/119552935",
+    "id": "119552935",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of waste compacting machines",
+    "harm": {
+      "id": "0056688",
+      "title": "119552935 - Rental of waste compacting machines",
+      "conceptLink": "/ec2/concept/5997977"
+    }
+  },
+  {
+    "uri": "en/40/16241161",
+    "id": "16241161",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of waste crushing machines and apparatus",
+    "harm": {
+      "id": "0068854",
+      "title": "16241161 - Rental of waste crushing machines and apparatus",
+      "conceptLink": "/ec2/concept/6005057"
+    }
+  },
+  {
+    "uri": "en/40/119552936",
+    "id": "119552936",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of waste crushing machines",
+    "harm": {
+      "id": "0056689",
+      "title": "119552936 - Rental of waste crushing machines",
+      "conceptLink": "/ec2/concept/5997978"
+    }
+  },
+  {
+    "uri": "en/40/119552937",
+    "id": "119552937",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of water and air purification equipment",
+    "harm": {
+      "id": "0068925",
+      "title": "119552937 - Rental of water and air purification equipment",
+      "conceptLink": "/ec2/concept/6005128"
+    }
+  },
+  {
+    "uri": "en/40/906855",
+    "id": "906855",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of water filters",
+    "harm": {
+      "id": "0015179",
+      "title": "906855 - Rental of water filters",
+      "conceptLink": "/ec2/concept/5965355"
+    }
+  },
+  {
+    "uri": "en/40/906860",
+    "id": "906860",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of water filtration units for commercial use",
+    "harm": {
+      "id": "0043994",
+      "title": "906860 - Rental of water filtration units for commercial use",
+      "conceptLink": "/ec2/concept/5991676"
+    }
+  },
+  {
+    "uri": "en/40/371886",
+    "id": "371886",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of water purifying apparatus",
+    "harm": {
+      "id": "0035735",
+      "title": "371886 - Rental of water purifying apparatus",
+      "conceptLink": "/ec2/concept/5984145"
+    }
+  },
+  {
+    "uri": "en/40/906872",
+    "id": "906872",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of water treatment equipment",
+    "harm": {
+      "id": "0026662",
+      "title": "906872 - Rental of water treatment equipment",
+      "conceptLink": "/ec2/concept/5975863"
+    }
+  },
+  {
+    "uri": "en/40/120890046",
+    "id": "120890046",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rental of welding apparatus",
+    "harm": {
+      "id": "0068890",
+      "title": "120890046 - Rental of welding apparatus",
+      "conceptLink": "/ec2/concept/6005093"
+    }
+  },
+  {
+    "uri": "en/40/842395",
+    "id": "842395",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reprocessing lubrication oils",
+    "harm": {
+      "id": "0022855",
+      "title": "842395 - Reprocessing lubrication oils",
+      "conceptLink": "/ec2/concept/5972375"
+    }
+  },
+  {
+    "uri": "en/40/371688",
+    "id": "371688",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reprocessing of nuclear fuels",
+    "harm": {
+      "id": "0023868",
+      "title": "371688 - Reprocessing of nuclear fuels",
+      "conceptLink": "/ec2/concept/5973302"
+    }
+  },
+  {
+    "uri": "en/40/839922",
+    "id": "839922",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reproduction of cinematographic film",
+    "harm": {
+      "id": "0032031",
+      "title": "839922 - Reproduction of cinematographic film",
+      "conceptLink": "/ec2/concept/5980769"
+    }
+  },
+  {
+    "uri": "en/40/461888",
+    "id": "461888",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reproduction of museum artwork",
+    "harm": {
+      "id": "0011187",
+      "title": "461888 - Reproduction of museum artwork",
+      "conceptLink": "/ec2/concept/5961696"
+    }
+  },
+  {
+    "uri": "en/40/842423",
+    "id": "842423",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reproduction of photographic transparencies",
+    "harm": {
+      "id": "0022857",
+      "title": "842423 - Reproduction of photographic transparencies",
+      "conceptLink": "/ec2/concept/5972377"
+    }
+  },
+  {
+    "uri": "en/40/842408",
+    "id": "842408",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Reproduction of photographic prints",
+    "harm": {
+      "id": "0022856",
+      "title": "842408 - Reproduction of photographic prints",
+      "conceptLink": "/ec2/concept/5972376"
+    }
+  },
+  {
+    "uri": "en/40/51843",
+    "id": "51843",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rolling",
+    "harm": {
+      "id": "0024463",
+      "title": "51843 - Rolling",
+      "conceptLink": "/ec2/concept/5973848"
+    }
+  },
+  {
+    "uri": "en/40/898726",
+    "id": "898726",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rot prevention treatment of buildings",
+    "harm": {
+      "id": "0014897",
+      "title": "898726 - Rot prevention treatment of buildings",
+      "conceptLink": "/ec2/concept/5965096"
+    }
+  },
+  {
+    "uri": "en/40/892039",
+    "id": "892039",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Rotogravure",
+    "harm": {
+      "id": "0041537",
+      "title": "892039 - Rotogravure",
+      "conceptLink": "/ec2/concept/5989437"
+    }
+  },
+  {
+    "uri": "en/40/52233",
+    "id": "52233",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Saddlery working",
+    "harm": {
+      "id": "0034383",
+      "title": "52233 - Saddlery working",
+      "conceptLink": "/ec2/concept/5982921"
+    }
+  },
+  {
+    "uri": "en/40/461904",
+    "id": "461904",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sand blasting",
+    "harm": {
+      "id": "0017548",
+      "title": "461904 - Sand blasting",
+      "conceptLink": "/ec2/concept/5967520"
+    }
+  },
+  {
+    "uri": "en/40/461903",
+    "id": "461903",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sandblasting services",
+    "harm": {
+      "id": "0017548",
+      "title": "461903 - Sandblasting services",
+      "conceptLink": "/ec2/concept/5967520"
+    }
+  },
+  {
+    "uri": "en/40/53052",
+    "id": "53052",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Satining (Fur -)",
+    "harm": {
+      "id": "0005460",
+      "title": "53052 - Satining (Fur -)",
+      "conceptLink": "/ec2/concept/5956458"
+    }
+  },
+  {
+    "uri": "en/40/233644382",
+    "id": "233644382",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawing of materials",
+    "harm": {
+      "id": "0028568",
+      "title": "233644382 - Sawing of materials",
+      "conceptLink": "/ec2/concept/5977612"
+    }
+  },
+  {
+    "uri": "en/40/842435",
+    "id": "842435",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawing of timber",
+    "harm": {
+      "id": "0028513",
+      "title": "842435 - Sawing of timber",
+      "conceptLink": "/ec2/concept/5977561"
+    }
+  },
+  {
+    "uri": "en/40/52255",
+    "id": "52255",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawing [saw mill]",
+    "harm": {
+      "id": "0028568",
+      "title": "52255 - Sawing [saw mill]",
+      "conceptLink": "/ec2/concept/5977612"
+    }
+  },
+  {
+    "uri": "en/40/52205",
+    "id": "52205",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawmill planing",
+    "harm": {
+      "id": "0006835",
+      "title": "52205 - Sawmill planing",
+      "conceptLink": "/ec2/concept/5957709"
+    }
+  },
+  {
+    "uri": "en/40/119552952",
+    "id": "119552952",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawmill services",
+    "harm": {
+      "id": "0071295",
+      "title": "119552952 - Sawmill services",
+      "conceptLink": "/ec2/concept/6007486"
+    }
+  },
+  {
+    "uri": "en/40/461933",
+    "id": "461933",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sawmills, planing [sawmill]",
+    "harm": {
+      "id": "0032784",
+      "title": "461933 - Sawmills, planing [sawmill]",
+      "conceptLink": "/ec2/concept/5981457"
+    }
+  },
+  {
+    "uri": "en/40/137173527",
+    "id": "137173527",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Scrapping of vehicles",
+    "harm": {
+      "id": "0060215",
+      "title": "137173527 - Scrapping of vehicles",
+      "conceptLink": "/ec2/concept/5998213"
+    }
+  },
+  {
+    "uri": "en/40/54591",
+    "id": "54591",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Screen printing",
+    "harm": {
+      "id": "0011924",
+      "title": "54591 - Screen printing",
+      "conceptLink": "/ec2/concept/5962375"
+    }
+  },
+  {
+    "uri": "en/40/53300",
+    "id": "53300",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Scribing (Laser -)",
+    "harm": {
+      "id": "0040859",
+      "title": "53300 - Scribing (Laser -)",
+      "conceptLink": "/ec2/concept/5988812"
+    }
+  },
+  {
+    "uri": "en/40/52119",
+    "id": "52119",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for burnishing by abrasion",
+    "harm": {
+      "id": "0024251",
+      "title": "52119 - Services for burnishing by abrasion",
+      "conceptLink": "/ec2/concept/5973660"
+    }
+  },
+  {
+    "uri": "en/40/842462",
+    "id": "842462",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the custom manufacturing of loose covers",
+    "harm": {
+      "id": "0011191",
+      "title": "842462 - Services for the custom manufacturing of loose covers",
+      "conceptLink": "/ec2/concept/5961699"
+    }
+  },
+  {
+    "uri": "en/40/842475",
+    "id": "842475",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the custom manufacturing of roller blinds",
+    "harm": {
+      "id": "0028514",
+      "title": "842475 - Services for the custom manufacturing of roller blinds",
+      "conceptLink": "/ec2/concept/5977562"
+    }
+  },
+  {
+    "uri": "en/40/842449",
+    "id": "842449",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the custom manufacturing of curtains",
+    "harm": {
+      "id": "0040053",
+      "title": "842449 - Services for the custom manufacturing of curtains",
+      "conceptLink": "/ec2/concept/5988080"
+    }
+  },
+  {
+    "uri": "en/40/232621515",
+    "id": "232621515",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the dyeing of fabrics",
+    "harm": {
+      "id": "0059232",
+      "title": "232621515 - Services for the dyeing of fabrics",
+      "conceptLink": "/ec2/concept/6000721"
+    }
+  },
+  {
+    "uri": "en/40/898738",
+    "id": "898738",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the enrichment of uranium isotope 235",
+    "harm": {
+      "id": "0003285",
+      "title": "898738 - Services for the enrichment of uranium isotope 235",
+      "conceptLink": "/ec2/concept/5954454"
+    }
+  },
+  {
+    "uri": "en/40/842486",
+    "id": "842486",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the transfer of photographic prints onto video tapes",
+    "harm": {
+      "id": "0022858",
+      "title": "842486 - Services for the transfer of photographic prints onto video tapes",
+      "conceptLink": "/ec2/concept/5972378"
+    }
+  },
+  {
+    "uri": "en/40/371963",
+    "id": "371963",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services for the treatment of sewage",
+    "harm": {
+      "id": "0011712",
+      "title": "371963 - Services for the treatment of sewage",
+      "conceptLink": "/ec2/concept/5962175"
+    }
+  },
+  {
+    "uri": "en/40/54035",
+    "id": "54035",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Services of a dental technician",
+    "harm": {
+      "id": "0058276",
+      "title": "54035 - Services of a dental technician",
+      "conceptLink": "/ec2/concept/5999775"
+    }
+  },
+  {
+    "uri": "en/40/371962",
+    "id": "371962",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sewage treatment services",
+    "harm": {
+      "id": "0011712",
+      "title": "371962 - Sewage treatment services",
+      "conceptLink": "/ec2/concept/5962175"
+    }
+  },
+  {
+    "uri": "en/40/907167",
+    "id": "907167",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sewing",
+    "harm": {
+      "id": "0032785",
+      "title": "907167 - Sewing",
+      "conceptLink": "/ec2/concept/5981458"
+    }
+  },
+  {
+    "uri": "en/40/842509",
+    "id": "842509",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sewing (custom manufacture)",
+    "harm": {
+      "id": "0036671",
+      "title": "842509 - Sewing (custom manufacture)",
+      "conceptLink": "/ec2/concept/5984998"
+    }
+  },
+  {
+    "uri": "en/40/120890264",
+    "id": "120890264",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sewing of curtains",
+    "harm": {
+      "id": "0071296",
+      "title": "120890264 - Sewing of curtains",
+      "conceptLink": "/ec2/concept/6007487"
+    }
+  },
+  {
+    "uri": "en/40/50584",
+    "id": "50584",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sewing services",
+    "harm": {
+      "id": "0032785",
+      "title": "50584 - Sewing services",
+      "conceptLink": "/ec2/concept/5981458"
+    }
+  },
+  {
+    "uri": "en/40/120887404",
+    "id": "120887404",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Shaping of metal components",
+    "harm": {
+      "id": "0068877",
+      "title": "120887404 - Shaping of metal components",
+      "conceptLink": "/ec2/concept/6005080"
+    }
+  },
+  {
+    "uri": "en/40/842522",
+    "id": "842522",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Shearing of carpets",
+    "harm": {
+      "id": "0019372",
+      "title": "842522 - Shearing of carpets",
+      "conceptLink": "/ec2/concept/5969193"
+    }
+  },
+  {
+    "uri": "en/40/842596",
+    "id": "842596",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sheet material encapsulating services for pictures",
+    "harm": {
+      "id": "0013529",
+      "title": "842596 - Sheet material encapsulating services for pictures",
+      "conceptLink": "/ec2/concept/5963835"
+    }
+  },
+  {
+    "uri": "en/40/842573",
+    "id": "842573",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sheet material encapsulating services for maps",
+    "harm": {
+      "id": "0030832",
+      "title": "842573 - Sheet material encapsulating services for maps",
+      "conceptLink": "/ec2/concept/5979698"
+    }
+  },
+  {
+    "uri": "en/40/842548",
+    "id": "842548",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sheet material encapsulating services",
+    "harm": {
+      "id": "0030831",
+      "title": "842548 - Sheet material encapsulating services",
+      "conceptLink": "/ec2/concept/5979697"
+    }
+  },
+  {
+    "uri": "en/40/842561",
+    "id": "842561",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sheet material encapsulating services for documents",
+    "harm": {
+      "id": "0042415",
+      "title": "842561 - Sheet material encapsulating services for documents",
+      "conceptLink": "/ec2/concept/5990239"
+    }
+  },
+  {
+    "uri": "en/40/842585",
+    "id": "842585",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Sheet material encapsulating services for photographs",
+    "harm": {
+      "id": "0042416",
+      "title": "842585 - Sheet material encapsulating services for photographs",
+      "conceptLink": "/ec2/concept/5990240"
+    }
+  },
+  {
+    "uri": "en/40/50763",
+    "id": "50763",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Shoe staining",
+    "harm": {
+      "id": "0057804",
+      "title": "50763 - Shoe staining",
+      "conceptLink": "/ec2/concept/5999308"
+    }
+  },
+  {
+    "uri": "en/40/50764",
+    "id": "50764",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Shoe staining and dyeing",
+    "harm": {
+      "id": "0057803",
+      "title": "50764 - Shoe staining and dyeing",
+      "conceptLink": "/ec2/concept/5999307"
+    }
+  },
+  {
+    "uri": "en/40/842608",
+    "id": "842608",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Shoemaking",
+    "harm": {
+      "id": "0036673",
+      "title": "842608 - Shoemaking",
+      "conceptLink": "/ec2/concept/5984999"
+    }
+  }
+]

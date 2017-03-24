@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/835165",
+    "id": "835165",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger coach services",
+    "harm": {
+      "id": "0001978",
+      "title": "835165 - Passenger coach services",
+      "conceptLink": "/ec2/concept/5953269"
+    }
+  },
+  {
+    "uri": "en/39/835177",
+    "id": "835177",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger escort services",
+    "harm": {
+      "id": "0001715",
+      "title": "835177 - Passenger escort services",
+      "conceptLink": "/ec2/concept/5953026"
+    }
+  },
+  {
+    "uri": "en/39/835197",
+    "id": "835197",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger road transport services",
+    "harm": {
+      "id": "0001979",
+      "title": "835197 - Passenger road transport services",
+      "conceptLink": "/ec2/concept/5953270"
+    }
+  },
+  {
+    "uri": "en/39/370924",
+    "id": "370924",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger ship transport",
+    "harm": {
+      "id": "0005974",
+      "title": "370924 - Passenger ship transport",
+      "conceptLink": "/ec2/concept/5956923"
+    }
+  },
+  {
+    "uri": "en/39/370962",
+    "id": "370962",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger train transport",
+    "harm": {
+      "id": "0057330",
+      "title": "370962 - Passenger train transport",
+      "conceptLink": "/ec2/concept/5998839"
+    }
+  },
+  {
+    "uri": "en/39/48021",
+    "id": "48021",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transport",
+    "harm": {
+      "id": "0072827",
+      "title": "48021 - Passenger transport",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/459435",
+    "id": "459435",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transport services",
+    "harm": {
+      "id": "0072827",
+      "title": "459435 - Passenger transport services",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/830365",
+    "id": "830365",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transportation services by air",
+    "harm": {
+      "id": "0035650",
+      "title": "830365 - Passenger transportation services by air",
+      "conceptLink": "/ec2/concept/5984067"
+    }
+  },
+  {
+    "uri": "en/39/835280",
+    "id": "835280",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transportation services by sea",
+    "harm": {
+      "id": "0019396",
+      "title": "835280 - Passenger transportation services by sea",
+      "conceptLink": "/ec2/concept/5969215"
+    }
+  },
+  {
+    "uri": "en/39/835253",
+    "id": "835253",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transportation services by rail",
+    "harm": {
+      "id": "0057329",
+      "title": "835253 - Passenger transportation services by rail",
+      "conceptLink": "/ec2/concept/5998838"
+    }
+  },
+  {
+    "uri": "en/39/48022",
+    "id": "48022",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transportation services",
+    "harm": {
+      "id": "0072827",
+      "title": "48022 - Passenger transportation services",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/835227",
+    "id": "835227",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger transportation services by land",
+    "harm": {
+      "id": "0013548",
+      "title": "835227 - Passenger transportation services by land",
+      "conceptLink": "/ec2/concept/5963853"
+    }
+  },
+  {
+    "uri": "en/39/835293",
+    "id": "835293",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passenger vehicle hire",
+    "harm": {
+      "id": "0007702",
+      "title": "835293 - Passenger vehicle hire",
+      "conceptLink": "/ec2/concept/5958505"
+    }
+  },
+  {
+    "uri": "en/39/125153450",
+    "id": "125153450",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Passengers (Transportation of -)",
+    "harm": {
+      "id": "0072827",
+      "title": "125153450 - Passengers (Transportation of -)",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/905924",
+    "id": "905924",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Personal tour guide services",
+    "harm": {
+      "id": "0000007",
+      "title": "905924 - Personal tour guide services",
+      "conceptLink": "/ec2/concept/5951490"
+    }
+  },
+  {
+    "uri": "en/39/459458",
+    "id": "459458",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pet rescue services",
+    "harm": {
+      "id": "0038931",
+      "title": "459458 - Pet rescue services",
+      "conceptLink": "/ec2/concept/5987050"
+    }
+  },
+  {
+    "uri": "en/39/137745411",
+    "id": "137745411",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored files and documents",
+    "harm": {
+      "id": "0024246",
+      "title": "137745411 - Physical storage of electronically stored files and documents",
+      "conceptLink": "/ec2/concept/5973655"
+    }
+  },
+  {
+    "uri": "en/39/132860710",
+    "id": "132860710",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored computer games",
+    "harm": {
+      "id": "0068744",
+      "title": "132860710 - Physical storage of electronically stored computer games",
+      "conceptLink": "/ec2/concept/6004947"
+    }
+  },
+  {
+    "uri": "en/39/132860706",
+    "id": "132860706",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored digital video files",
+    "harm": {
+      "id": "0068745",
+      "title": "132860706 - Physical storage of electronically stored digital video files",
+      "conceptLink": "/ec2/concept/6004948"
+    }
+  },
+  {
+    "uri": "en/39/132860702",
+    "id": "132860702",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored digital images",
+    "harm": {
+      "id": "0068746",
+      "title": "132860702 - Physical storage of electronically stored digital images",
+      "conceptLink": "/ec2/concept/6004949"
+    }
+  },
+  {
+    "uri": "en/39/132860698",
+    "id": "132860698",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored digital music",
+    "harm": {
+      "id": "0068747",
+      "title": "132860698 - Physical storage of electronically stored digital music",
+      "conceptLink": "/ec2/concept/6004950"
+    }
+  },
+  {
+    "uri": "en/39/132860693",
+    "id": "132860693",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored digital photographs",
+    "harm": {
+      "id": "0068748",
+      "title": "132860693 - Physical storage of electronically stored digital photographs",
+      "conceptLink": "/ec2/concept/6004951"
+    }
+  },
+  {
+    "uri": "en/39/132860689",
+    "id": "132860689",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored data, documents, digital photographs, music, images, video, and computer games",
+    "harm": {
+      "id": "0068749",
+      "title": "132860689 - Physical storage of electronically stored data, documents, digital photographs, music, images, video, and computer games",
+      "conceptLink": "/ec2/concept/6004952"
+    }
+  },
+  {
+    "uri": "en/39/132860129",
+    "id": "132860129",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored digital data, photographs, audio and image files",
+    "harm": {
+      "id": "0068719",
+      "title": "132860129 - Physical storage of electronically stored digital data, photographs, audio and image files",
+      "conceptLink": "/ec2/concept/6004922"
+    }
+  },
+  {
+    "uri": "en/39/49992",
+    "id": "49992",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically-stored data or documents",
+    "harm": {
+      "id": "0024246",
+      "title": "49992 - Physical storage of electronically-stored data or documents",
+      "conceptLink": "/ec2/concept/5973655"
+    }
+  },
+  {
+    "uri": "en/39/132827555",
+    "id": "132827555",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Physical storage of electronically stored data or documents",
+    "harm": {
+      "id": "0024246",
+      "title": "132827555 - Physical storage of electronically stored data or documents",
+      "conceptLink": "/ec2/concept/5973655"
+    }
+  },
+  {
+    "uri": "en/39/120889665",
+    "id": "120889665",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pick-up and delivery of letters",
+    "harm": {
+      "id": "0068725",
+      "title": "120889665 - Pick-up and delivery of letters",
+      "conceptLink": "/ec2/concept/6004928"
+    }
+  },
+  {
+    "uri": "en/39/120891117",
+    "id": "120891117",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pick-up and delivery of textile goods",
+    "harm": {
+      "id": "0068660",
+      "title": "120891117 - Pick-up and delivery of textile goods",
+      "conceptLink": "/ec2/concept/6004863"
+    }
+  },
+  {
+    "uri": "en/39/120889797",
+    "id": "120889797",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pickup and delivery of parcels and goods",
+    "harm": {
+      "id": "0068735",
+      "title": "120889797 - Pickup and delivery of parcels and goods",
+      "conceptLink": "/ec2/concept/6004938"
+    }
+  },
+  {
+    "uri": "en/39/48123",
+    "id": "48123",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Piloting",
+    "harm": {
+      "id": "0017783",
+      "title": "48123 - Piloting",
+      "conceptLink": "/ec2/concept/5967734"
+    }
+  },
+  {
+    "uri": "en/39/484914",
+    "id": "484914",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Piloting of ships",
+    "harm": {
+      "id": "0008107",
+      "title": "484914 - Piloting of ships",
+      "conceptLink": "/ec2/concept/5958876"
+    }
+  },
+  {
+    "uri": "en/39/47053",
+    "id": "47053",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pipeline (Transport by -)",
+    "harm": {
+      "id": "0021961",
+      "title": "47053 - Pipeline (Transport by -)",
+      "conceptLink": "/ec2/concept/5971556"
+    }
+  },
+  {
+    "uri": "en/39/835323",
+    "id": "835323",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pipeline transport of gases",
+    "harm": {
+      "id": "0036497",
+      "title": "835323 - Pipeline transport of gases",
+      "conceptLink": "/ec2/concept/5984833"
+    }
+  },
+  {
+    "uri": "en/39/835340",
+    "id": "835340",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pipeline transport of liquids",
+    "harm": {
+      "id": "0012906",
+      "title": "835340 - Pipeline transport of liquids",
+      "conceptLink": "/ec2/concept/5963273"
+    }
+  },
+  {
+    "uri": "en/39/125058254",
+    "id": "125058254",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pipeline (Transport of oil by -)",
+    "harm": {
+      "id": "0010405",
+      "title": "125058254 - Pipeline (Transport of oil by -)",
+      "conceptLink": "/ec2/concept/5960977"
+    }
+  },
+  {
+    "uri": "en/39/459472",
+    "id": "459472",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pizza delivery",
+    "harm": {
+      "id": "0004305",
+      "title": "459472 - Pizza delivery",
+      "conceptLink": "/ec2/concept/5955389"
+    }
+  },
+  {
+    "uri": "en/39/371096",
+    "id": "371096",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Plane chartering",
+    "harm": {
+      "id": "0059148",
+      "title": "371096 - Plane chartering",
+      "conceptLink": "/ec2/concept/6000637"
+    }
+  },
+  {
+    "uri": "en/39/120890585",
+    "id": "120890585",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning and arranging of sightseeing tours and day trips",
+    "harm": {
+      "id": "0068616",
+      "title": "120890585 - Planning and arranging of sightseeing tours and day trips",
+      "conceptLink": "/ec2/concept/6004819"
+    }
+  },
+  {
+    "uri": "en/39/120892256",
+    "id": "120892256",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning and booking of airline travel, via electronic means",
+    "harm": {
+      "id": "0068777",
+      "title": "120892256 - Planning and booking of airline travel, via electronic means",
+      "conceptLink": "/ec2/concept/6004980"
+    }
+  },
+  {
+    "uri": "en/39/120892259",
+    "id": "120892259",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning and booking of travel and transport, via electronic means",
+    "harm": {
+      "id": "0068778",
+      "title": "120892259 - Planning and booking of travel and transport, via electronic means",
+      "conceptLink": "/ec2/concept/6004981"
+    }
+  },
+  {
+    "uri": "en/39/120892409",
+    "id": "120892409",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning, arranging and booking of travel by electronic means",
+    "harm": {
+      "id": "0068766",
+      "title": "120892409 - Planning, arranging and booking of travel by electronic means",
+      "conceptLink": "/ec2/concept/6004969"
+    }
+  },
+  {
+    "uri": "en/39/120890944",
+    "id": "120890944",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning, arranging and booking of travel",
+    "harm": {
+      "id": "0068652",
+      "title": "120890944 - Planning, arranging and booking of travel",
+      "conceptLink": "/ec2/concept/6004855"
+    }
+  },
+  {
+    "uri": "en/39/835365",
+    "id": "835365",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Planning of journeys",
+    "harm": {
+      "id": "0039952",
+      "title": "835365 - Planning of journeys",
+      "conceptLink": "/ec2/concept/5987989"
+    }
+  },
+  {
+    "uri": "en/39/459485",
+    "id": "459485",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pleasure boat cruises",
+    "harm": {
+      "id": "0027376",
+      "title": "459485 - Pleasure boat cruises",
+      "conceptLink": "/ec2/concept/5976504"
+    }
+  },
+  {
+    "uri": "en/39/45074",
+    "id": "45074",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pleasure boat transport",
+    "harm": {
+      "id": "0057534",
+      "title": "45074 - Pleasure boat transport",
+      "conceptLink": "/ec2/concept/5999039"
+    }
+  },
+  {
+    "uri": "en/39/45076",
+    "id": "45076",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pleasure boat transport services",
+    "harm": {
+      "id": "0057534",
+      "title": "45076 - Pleasure boat transport services",
+      "conceptLink": "/ec2/concept/5999039"
+    }
+  },
+  {
+    "uri": "en/39/484943",
+    "id": "484943",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Port services [docking services]",
+    "harm": {
+      "id": "0016437",
+      "title": "484943 - Port services [docking services]",
+      "conceptLink": "/ec2/concept/5966525"
+    }
+  },
+  {
+    "uri": "en/39/45663",
+    "id": "45663",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Porter services",
+    "harm": {
+      "id": "0011281",
+      "title": "45663 - Porter services",
+      "conceptLink": "/ec2/concept/5961781"
+    }
+  },
+  {
+    "uri": "en/39/459496",
+    "id": "459496",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Porter services [transportation]",
+    "harm": {
+      "id": "0021739",
+      "title": "459496 - Porter services [transportation]",
+      "conceptLink": "/ec2/concept/5971347"
+    }
+  },
+  {
+    "uri": "en/39/45660",
+    "id": "45660",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Porterage",
+    "harm": {
+      "id": "0044175",
+      "title": "45660 - Porterage",
+      "conceptLink": "/ec2/concept/5991843"
+    }
+  },
+  {
+    "uri": "en/39/45664",
+    "id": "45664",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Porterage services",
+    "harm": {
+      "id": "0044175",
+      "title": "45664 - Porterage services",
+      "conceptLink": "/ec2/concept/5991843"
+    }
+  },
+  {
+    "uri": "en/39/484958",
+    "id": "484958",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Post restante services",
+    "harm": {
+      "id": "0027991",
+      "title": "484958 - Post restante services",
+      "conceptLink": "/ec2/concept/5977075"
+    }
+  },
+  {
+    "uri": "en/39/906130",
+    "id": "906130",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Postal services",
+    "harm": {
+      "id": "0002166",
+      "title": "906130 - Postal services",
+      "conceptLink": "/ec2/concept/5953434"
+    }
+  },
+  {
+    "uri": "en/39/458832",
+    "id": "458832",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Power supply and distribution",
+    "harm": {
+      "id": "0015842",
+      "title": "458832 - Power supply and distribution",
+      "conceptLink": "/ec2/concept/5965968"
+    }
+  },
+  {
+    "uri": "en/39/835381",
+    "id": "835381",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Pre-transit storage of cargo",
+    "harm": {
+      "id": "0058148",
+      "title": "835381 - Pre-transit storage of cargo",
+      "conceptLink": "/ec2/concept/5999649"
+    }
+  },
+  {
+    "uri": "en/39/897864",
+    "id": "897864",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Preferential passenger check-in services",
+    "harm": {
+      "id": "0045879",
+      "title": "897864 - Preferential passenger check-in services",
+      "conceptLink": "/ec2/concept/5993404"
+    }
+  },
+  {
+    "uri": "en/39/897878",
+    "id": "897878",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Priority air line check-in services",
+    "harm": {
+      "id": "0000432",
+      "title": "897878 - Priority air line check-in services",
+      "conceptLink": "/ec2/concept/5951875"
+    }
+  },
+  {
+    "uri": "en/39/120892470",
+    "id": "120892470",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Priority boarding, check-in, seating and reservation services for frequent air travelers",
+    "harm": {
+      "id": "0068771",
+      "title": "120892470 - Priority boarding, check-in, seating and reservation services for frequent air travelers",
+      "conceptLink": "/ec2/concept/6004974"
+    }
+  },
+  {
+    "uri": "en/39/835416",
+    "id": "835416",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Professional consultancy relating to transport",
+    "harm": {
+      "id": "0028425",
+      "title": "835416 - Professional consultancy relating to transport",
+      "conceptLink": "/ec2/concept/5977480"
+    }
+  },
+  {
+    "uri": "en/39/370989",
+    "id": "370989",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Propeller airplane transport",
+    "harm": {
+      "id": "0011736",
+      "title": "370989 - Propeller airplane transport",
+      "conceptLink": "/ec2/concept/5962198"
+    }
+  },
+  {
+    "uri": "en/39/120892462",
+    "id": "120892462",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing advice relating to freight forwarding services",
+    "harm": {
+      "id": "0068772",
+      "title": "120892462 - Providing advice relating to freight forwarding services",
+      "conceptLink": "/ec2/concept/6004975"
+    }
+  },
+  {
+    "uri": "en/39/120891043",
+    "id": "120891043",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing cruise ships for travel",
+    "harm": {
+      "id": "0068657",
+      "title": "120891043 - Providing cruise ships for travel",
+      "conceptLink": "/ec2/concept/6004860"
+    }
+  },
+  {
+    "uri": "en/39/906351",
+    "id": "906351",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing customized driving directions",
+    "harm": {
+      "id": "0002459",
+      "title": "906351 - Providing customized driving directions",
+      "conceptLink": "/ec2/concept/5953702"
+    }
+  },
+  {
+    "uri": "en/39/135623665",
+    "id": "135623665",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing driving directions for travel purposes",
+    "harm": {
+      "id": "0050047",
+      "title": "135623665 - Providing driving directions for travel purposes",
+      "conceptLink": "/ec2/concept/5995456"
+    }
+  },
+  {
+    "uri": "en/39/459512",
+    "id": "459512",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing flight arrival and departure information",
+    "harm": {
+      "id": "0038932",
+      "title": "459512 - Providing flight arrival and departure information",
+      "conceptLink": "/ec2/concept/5987051"
+    }
+  },
+  {
+    "uri": "en/39/459532",
+    "id": "459532",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information about automobiles for lease by mean of the internet",
+    "harm": {
+      "id": "0033845",
+      "title": "459532 - Providing information about automobiles for lease by mean of the internet",
+      "conceptLink": "/ec2/concept/5982431"
+    }
+  },
+  {
+    "uri": "en/39/120891143",
+    "id": "120891143",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information about temporary storage services",
+    "harm": {
+      "id": "0068659",
+      "title": "120891143 - Providing information about temporary storage services",
+      "conceptLink": "/ec2/concept/6004862"
+    }
+  },
+  {
+    "uri": "en/39/120889326",
+    "id": "120889326",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information about travel, via the Internet",
+    "harm": {
+      "id": "0068706",
+      "title": "120889326 - Providing information about travel, via the Internet",
+      "conceptLink": "/ec2/concept/6004909"
+    }
+  },
+  {
+    "uri": "en/39/120889330",
+    "id": "120889330",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information about booking business travel, via the Internet",
+    "harm": {
+      "id": "0068705",
+      "title": "120889330 - Providing information about booking business travel, via the Internet",
+      "conceptLink": "/ec2/concept/6004908"
+    }
+  },
+  {
+    "uri": "en/39/120892207",
+    "id": "120892207",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to airline travel, via electronic means",
+    "harm": {
+      "id": "0068773",
+      "title": "120892207 - Providing information relating to airline travel, via electronic means",
+      "conceptLink": "/ec2/concept/6004976"
+    }
+  },
+  {
+    "uri": "en/39/120892211",
+    "id": "120892211",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to travel and transport, via electronic means",
+    "harm": {
+      "id": "0068774",
+      "title": "120892211 - Providing information relating to travel and transport, via electronic means",
+      "conceptLink": "/ec2/concept/6004977"
+    }
+  },
+  {
+    "uri": "en/39/120892215",
+    "id": "120892215",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the planning and booking of airline travel, via electronic means",
+    "harm": {
+      "id": "0068775",
+      "title": "120892215 - Providing information relating to the planning and booking of airline travel, via electronic means",
+      "conceptLink": "/ec2/concept/6004978"
+    }
+  },
+  {
+    "uri": "en/39/120892250",
+    "id": "120892250",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the planning and booking of travel and transport, via electronic means",
+    "harm": {
+      "id": "0068776",
+      "title": "120892250 - Providing information relating to the planning and booking of travel and transport, via electronic means",
+      "conceptLink": "/ec2/concept/6004979"
+    }
+  },
+  {
+    "uri": "en/39/120889901",
+    "id": "120889901",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to water supplying services",
+    "harm": {
+      "id": "0068757",
+      "title": "120889901 - Providing information relating to water supplying services",
+      "conceptLink": "/ec2/concept/6004960"
+    }
+  },
+  {
+    "uri": "en/39/120889888",
+    "id": "120889888",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to warehousing services",
+    "harm": {
+      "id": "0068758",
+      "title": "120889888 - Providing information relating to warehousing services",
+      "conceptLink": "/ec2/concept/6004961"
+    }
+  },
+  {
+    "uri": "en/39/120889892",
+    "id": "120889892",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to marine transport services",
+    "harm": {
+      "id": "0068759",
+      "title": "120889892 - Providing information relating to marine transport services",
+      "conceptLink": "/ec2/concept/6004962"
+    }
+  },
+  {
+    "uri": "en/39/120889910",
+    "id": "120889910",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to aircraft rental services",
+    "harm": {
+      "id": "0068756",
+      "title": "120889910 - Providing information relating to aircraft rental services",
+      "conceptLink": "/ec2/concept/6004959"
+    }
+  },
+  {
+    "uri": "en/39/120889789",
+    "id": "120889789",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the delivery of documents, letters and parcels",
+    "harm": {
+      "id": "0068734",
+      "title": "120889789 - Providing information relating to the delivery of documents, letters and parcels",
+      "conceptLink": "/ec2/concept/6004937"
+    }
+  },
+  {
+    "uri": "en/39/120888893",
+    "id": "120888893",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to car transport",
+    "harm": {
+      "id": "0068668",
+      "title": "120888893 - Providing information relating to car transport",
+      "conceptLink": "/ec2/concept/6004871"
+    }
+  },
+  {
+    "uri": "en/39/120889766",
+    "id": "120889766",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of refrigerators",
+    "harm": {
+      "id": "0068739",
+      "title": "120889766 - Providing information relating to the rental of refrigerators",
+      "conceptLink": "/ec2/concept/6004942"
+    }
+  },
+  {
+    "uri": "en/39/120889762",
+    "id": "120889762",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of freezers",
+    "harm": {
+      "id": "0068738",
+      "title": "120889762 - Providing information relating to the rental of freezers",
+      "conceptLink": "/ec2/concept/6004941"
+    }
+  },
+  {
+    "uri": "en/39/120889770",
+    "id": "120889770",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of vessels",
+    "harm": {
+      "id": "0068740",
+      "title": "120889770 - Providing information relating to the rental of vessels",
+      "conceptLink": "/ec2/concept/6004943"
+    }
+  },
+  {
+    "uri": "en/39/120889743",
+    "id": "120889743",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to vehicle driving services",
+    "harm": {
+      "id": "0068742",
+      "title": "120889743 - Providing information relating to vehicle driving services",
+      "conceptLink": "/ec2/concept/6004945"
+    }
+  },
+  {
+    "uri": "en/39/120889739",
+    "id": "120889739",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to removal services",
+    "harm": {
+      "id": "0068741",
+      "title": "120889739 - Providing information relating to removal services",
+      "conceptLink": "/ec2/concept/6004944"
+    }
+  },
+  {
+    "uri": "en/39/110824273",
+    "id": "110824273",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the distribution of electricity",
+    "harm": {
+      "id": "0068681",
+      "title": "110824273 - Providing information relating to the distribution of electricity",
+      "conceptLink": "/ec2/concept/6004884"
+    }
+  },
+  {
+    "uri": "en/39/120889487",
+    "id": "120889487",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of mechanical parking systems",
+    "harm": {
+      "id": "0068717",
+      "title": "120889487 - Providing information relating to the rental of mechanical parking systems",
+      "conceptLink": "/ec2/concept/6004920"
+    }
+  },
+  {
+    "uri": "en/39/120889493",
+    "id": "120889493",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to air transport",
+    "harm": {
+      "id": "0068718",
+      "title": "120889493 - Providing information relating to air transport",
+      "conceptLink": "/ec2/concept/6004921"
+    }
+  },
+  {
+    "uri": "en/39/120889174",
+    "id": "120889174",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to bicycle rental services",
+    "harm": {
+      "id": "0068675",
+      "title": "120889174 - Providing information relating to bicycle rental services",
+      "conceptLink": "/ec2/concept/6004878"
+    }
+  },
+  {
+    "uri": "en/39/120889258",
+    "id": "120889258",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the temporary storage of personal belongings",
+    "harm": {
+      "id": "0068682",
+      "title": "120889258 - Providing information relating to the temporary storage of personal belongings",
+      "conceptLink": "/ec2/concept/6004885"
+    }
+  },
+  {
+    "uri": "en/39/120889358",
+    "id": "120889358",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to shipbrokerage",
+    "harm": {
+      "id": "0068711",
+      "title": "120889358 - Providing information relating to shipbrokerage",
+      "conceptLink": "/ec2/concept/6004914"
+    }
+  },
+  {
+    "uri": "en/39/120889227",
+    "id": "120889227",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to car rental services",
+    "harm": {
+      "id": "0068696",
+      "title": "120889227 - Providing information relating to car rental services",
+      "conceptLink": "/ec2/concept/6004899"
+    }
+  },
+  {
+    "uri": "en/39/120889231",
+    "id": "120889231",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of packing or wrapping machines and apparatus",
+    "harm": {
+      "id": "0068695",
+      "title": "120889231 - Providing information relating to the rental of packing or wrapping machines and apparatus",
+      "conceptLink": "/ec2/concept/6004898"
+    }
+  },
+  {
+    "uri": "en/39/120889362",
+    "id": "120889362",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of wheelchairs",
+    "harm": {
+      "id": "0068710",
+      "title": "120889362 - Providing information relating to the rental of wheelchairs",
+      "conceptLink": "/ec2/concept/6004913"
+    }
+  },
+  {
+    "uri": "en/39/120890830",
+    "id": "120890830",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to freight brokerage",
+    "harm": {
+      "id": "0068631",
+      "title": "120890830 - Providing information relating to freight brokerage",
+      "conceptLink": "/ec2/concept/6004834"
+    }
+  },
+  {
+    "uri": "en/39/120890821",
+    "id": "120890821",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to vehicle parking services",
+    "harm": {
+      "id": "0068630",
+      "title": "120890821 - Providing information relating to vehicle parking services",
+      "conceptLink": "/ec2/concept/6004833"
+    }
+  },
+  {
+    "uri": "en/39/120890560",
+    "id": "120890560",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to the rental of warehouse space",
+    "harm": {
+      "id": "0068615",
+      "title": "120890560 - Providing information relating to the rental of warehouse space",
+      "conceptLink": "/ec2/concept/6004818"
+    }
+  },
+  {
+    "uri": "en/39/120890476",
+    "id": "120890476",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information relating to cargo unloading services",
+    "harm": {
+      "id": "0068607",
+      "title": "120890476 - Providing information relating to cargo unloading services",
+      "conceptLink": "/ec2/concept/6004810"
+    }
+  },
+  {
+    "uri": "en/39/120891109",
+    "id": "120891109",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing information to tourists relating to excursions and sightseeing",
+    "harm": {
+      "id": "0068665",
+      "title": "120891109 - Providing information to tourists relating to excursions and sightseeing",
+      "conceptLink": "/ec2/concept/6004868"
+    }
+  },
+  {
+    "uri": "en/39/120889802",
+    "id": "120889802",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing online information relating to travel",
+    "harm": {
+      "id": "0068736",
+      "title": "120889802 - Providing online information relating to travel",
+      "conceptLink": "/ec2/concept/6004939"
+    }
+  },
+  {
+    "uri": "en/39/371001",
+    "id": "371001",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Providing road and traffic information",
+    "harm": {
+      "id": "0029059",
+      "title": "371001 - Providing road and traffic information",
+      "conceptLink": "/ec2/concept/5978070"
+    }
+  }
+]

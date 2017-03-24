@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/3/659646",
+    "id": "659646",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Cuticle oil",
+    "harm": {
+      "id": "0014916",
+      "title": "659646 - Cuticle oil",
+      "conceptLink": "/ec2/concept/5965113"
+    }
+  },
+  {
+    "uri": "en/3/659658",
+    "id": "659658",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Cuticle removers",
+    "harm": {
+      "id": "0009074",
+      "title": "659658 - Cuticle removers",
+      "conceptLink": "/ec2/concept/5959762"
+    }
+  },
+  {
+    "uri": "en/3/16163718",
+    "id": "16163718",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Cuticle removing preparations",
+    "harm": {
+      "id": "0009074",
+      "title": "16163718 - Cuticle removing preparations",
+      "conceptLink": "/ec2/concept/5959762"
+    }
+  },
+  {
+    "uri": "en/3/97673970",
+    "id": "97673970",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dandruff shampoo",
+    "harm": {
+      "id": "0065137",
+      "title": "97673970 - Dandruff shampoo",
+      "conceptLink": "/ec2/concept/6001340"
+    }
+  },
+  {
+    "uri": "en/3/136244692",
+    "id": "136244692",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dandruff shampoos, not for medical purposes",
+    "harm": {
+      "id": "0050718",
+      "title": "136244692 - Dandruff shampoos, not for medical purposes",
+      "conceptLink": "/ec2/concept/5996083"
+    }
+  },
+  {
+    "uri": "en/3/659673",
+    "id": "659673",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Day creams",
+    "harm": {
+      "id": "0032185",
+      "title": "659673 - Day creams",
+      "conceptLink": "/ec2/concept/5980911"
+    }
+  },
+  {
+    "uri": "en/3/17698945",
+    "id": "17698945",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "De-greasing preparations for household purposes",
+    "harm": {
+      "id": "0055321",
+      "title": "17698945 - De-greasing preparations for household purposes",
+      "conceptLink": "/ec2/concept/5996736"
+    }
+  },
+  {
+    "uri": "en/3/40219413",
+    "id": "40219413",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Decorative cosmetics",
+    "harm": {
+      "id": "0070817",
+      "title": "40219413 - Decorative cosmetics",
+      "conceptLink": "/ec2/concept/6007009"
+    }
+  },
+  {
+    "uri": "en/3/78032",
+    "id": "78032",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Decorative transfers for cosmetic purposes",
+    "harm": {
+      "id": "0022012",
+      "title": "78032 - Decorative transfers for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5971603"
+    }
+  },
+  {
+    "uri": "en/3/233471700",
+    "id": "233471700",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasers, other than for use in manufacturing processes",
+    "harm": {
+      "id": "0030847",
+      "title": "233471700 - Degreasers, other than for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5979712"
+    }
+  },
+  {
+    "uri": "en/3/74558",
+    "id": "74558",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasers other than for use in manufacturing processes",
+    "harm": {
+      "id": "0030847",
+      "title": "74558 - Degreasers other than for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5979712"
+    }
+  },
+  {
+    "uri": "en/3/659689",
+    "id": "659689",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasing preparations for engines",
+    "harm": {
+      "id": "0026415",
+      "title": "659689 - Degreasing preparations for engines",
+      "conceptLink": "/ec2/concept/5975643"
+    }
+  },
+  {
+    "uri": "en/3/27880291",
+    "id": "27880291",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasing preparations for household purposes",
+    "harm": {
+      "id": "0055321",
+      "title": "27880291 - Degreasing preparations for household purposes",
+      "conceptLink": "/ec2/concept/5996736"
+    }
+  },
+  {
+    "uri": "en/3/120872687",
+    "id": "120872687",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasing preparations with a solvent base",
+    "harm": {
+      "id": "0065086",
+      "title": "120872687 - Degreasing preparations with a solvent base",
+      "conceptLink": "/ec2/concept/6001289"
+    }
+  },
+  {
+    "uri": "en/3/137822030",
+    "id": "137822030",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Degreasing solvents, other than for use in manufacturing processes",
+    "harm": {
+      "id": "0073726",
+      "title": "137822030 - Degreasing solvents, other than for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/6009896"
+    }
+  },
+  {
+    "uri": "en/3/492740",
+    "id": "492740",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dental bleaching gel",
+    "harm": {
+      "id": "0041545",
+      "title": "492740 - Dental bleaching gel",
+      "conceptLink": "/ec2/concept/5989445"
+    }
+  },
+  {
+    "uri": "en/3/492742",
+    "id": "492742",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dental bleaching gels",
+    "harm": {
+      "id": "0041545",
+      "title": "492742 - Dental bleaching gels",
+      "conceptLink": "/ec2/concept/5989445"
+    }
+  },
+  {
+    "uri": "en/3/4676937",
+    "id": "4676937",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dental care preparations for animals",
+    "harm": {
+      "id": "0072879",
+      "title": "4676937 - Dental care preparations for animals",
+      "conceptLink": "/ec2/concept/6009054"
+    }
+  },
+  {
+    "uri": "en/3/136010967",
+    "id": "136010967",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dental rinses for non-medical purposes",
+    "harm": {
+      "id": "0014917",
+      "title": "136010967 - Dental rinses for non-medical purposes",
+      "conceptLink": "/ec2/concept/5965114"
+    }
+  },
+  {
+    "uri": "en/3/659703",
+    "id": "659703",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dental rinses, non medicated",
+    "harm": {
+      "id": "0014917",
+      "title": "659703 - Dental rinses, non medicated",
+      "conceptLink": "/ec2/concept/5965114"
+    }
+  },
+  {
+    "uri": "en/3/2306375",
+    "id": "2306375",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrice",
+    "harm": {
+      "id": "0058197",
+      "title": "2306375 - Dentifrice",
+      "conceptLink": "/ec2/concept/5999698"
+    }
+  },
+  {
+    "uri": "en/3/120872877",
+    "id": "120872877",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrice powder",
+    "harm": {
+      "id": "0070815",
+      "title": "120872877 - Dentifrice powder",
+      "conceptLink": "/ec2/concept/6007007"
+    }
+  },
+  {
+    "uri": "en/3/74658",
+    "id": "74658",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrices",
+    "harm": {
+      "id": "0058197",
+      "title": "74658 - Dentifrices",
+      "conceptLink": "/ec2/concept/5999698"
+    }
+  },
+  {
+    "uri": "en/3/14270224",
+    "id": "14270224",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrices and mouthwashes",
+    "harm": {
+      "id": "0065132",
+      "title": "14270224 - Dentifrices and mouthwashes",
+      "conceptLink": "/ec2/concept/6001335"
+    }
+  },
+  {
+    "uri": "en/3/233249360",
+    "id": "233249360",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrices in the form of solid tablets",
+    "harm": {
+      "id": "0073034",
+      "title": "233249360 - Dentifrices in the form of solid tablets",
+      "conceptLink": "/ec2/concept/6009209"
+    }
+  },
+  {
+    "uri": "en/3/16163818",
+    "id": "16163818",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentifrices in the form of chewing gum",
+    "harm": {
+      "id": "0055322",
+      "title": "16163818 - Dentifrices in the form of chewing gum",
+      "conceptLink": "/ec2/concept/5996737"
+    }
+  },
+  {
+    "uri": "en/3/78398",
+    "id": "78398",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Denture polishes",
+    "harm": {
+      "id": "0038289",
+      "title": "78398 - Denture polishes",
+      "conceptLink": "/ec2/concept/5986467"
+    }
+  },
+  {
+    "uri": "en/3/78224",
+    "id": "78224",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dentures (Preparations for cleaning -)",
+    "harm": {
+      "id": "0034644",
+      "title": "78224 - Dentures (Preparations for cleaning -)",
+      "conceptLink": "/ec2/concept/5983153"
+    }
+  },
+  {
+    "uri": "en/3/2475082",
+    "id": "2475082",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorant for personal use",
+    "harm": {
+      "id": "0055371",
+      "title": "2475082 - Deodorant for personal use",
+      "conceptLink": "/ec2/concept/5996782"
+    }
+  },
+  {
+    "uri": "en/3/63323548",
+    "id": "63323548",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorant preparations for personal use",
+    "harm": {
+      "id": "0055371",
+      "title": "63323548 - Deodorant preparations for personal use",
+      "conceptLink": "/ec2/concept/5996782"
+    }
+  },
+  {
+    "uri": "en/3/77020",
+    "id": "77020",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorant soap",
+    "harm": {
+      "id": "0037927",
+      "title": "77020 - Deodorant soap",
+      "conceptLink": "/ec2/concept/5986129"
+    }
+  },
+  {
+    "uri": "en/3/1133086",
+    "id": "1133086",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants and antiperspirants",
+    "harm": {
+      "id": "0047656",
+      "title": "1133086 - Deodorants and antiperspirants",
+      "conceptLink": "/ec2/concept/5994931"
+    }
+  },
+  {
+    "uri": "en/3/119522240",
+    "id": "119522240",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for animals",
+    "harm": {
+      "id": "0072881",
+      "title": "119522240 - Deodorants for animals",
+      "conceptLink": "/ec2/concept/6009056"
+    }
+  },
+  {
+    "uri": "en/3/40053234",
+    "id": "40053234",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for body care",
+    "harm": {
+      "id": "0055323",
+      "title": "40053234 - Deodorants for body care",
+      "conceptLink": "/ec2/concept/5996738"
+    }
+  },
+  {
+    "uri": "en/3/78006",
+    "id": "78006",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for human beings or for animals",
+    "harm": {
+      "id": "0016092",
+      "title": "78006 - Deodorants for human beings or for animals",
+      "conceptLink": "/ec2/concept/5966204"
+    }
+  },
+  {
+    "uri": "en/3/659742",
+    "id": "659742",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants, for personal use in the form of sticks",
+    "harm": {
+      "id": "0026416",
+      "title": "659742 - Deodorants, for personal use in the form of sticks",
+      "conceptLink": "/ec2/concept/5975644"
+    }
+  },
+  {
+    "uri": "en/3/119522243",
+    "id": "119522243",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for personal use [perfumery]",
+    "harm": {
+      "id": "0060362",
+      "title": "119522243 - Deodorants for personal use [perfumery]",
+      "conceptLink": "/ec2/concept/5998338"
+    }
+  },
+  {
+    "uri": "en/3/1254108",
+    "id": "1254108",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for personal use",
+    "harm": {
+      "id": "0060362",
+      "title": "1254108 - Deodorants for personal use",
+      "conceptLink": "/ec2/concept/5998338"
+    }
+  },
+  {
+    "uri": "en/3/908925",
+    "id": "908925",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for pets",
+    "harm": {
+      "id": "0020760",
+      "title": "908925 - Deodorants for pets",
+      "conceptLink": "/ec2/concept/5970459"
+    }
+  },
+  {
+    "uri": "en/3/659723",
+    "id": "659723",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Deodorants for the feet",
+    "harm": {
+      "id": "0009075",
+      "title": "659723 - Deodorants for the feet",
+      "conceptLink": "/ec2/concept/5959763"
+    }
+  },
+  {
+    "uri": "en/3/75452",
+    "id": "75452",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatories",
+    "harm": {
+      "id": "0000160",
+      "title": "75452 - Depilatories",
+      "conceptLink": "/ec2/concept/5951635"
+    }
+  },
+  {
+    "uri": "en/3/380744",
+    "id": "380744",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatory creams",
+    "harm": {
+      "id": "0029729",
+      "title": "380744 - Depilatory creams",
+      "conceptLink": "/ec2/concept/5978680"
+    }
+  },
+  {
+    "uri": "en/3/659757",
+    "id": "659757",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatory lotions",
+    "harm": {
+      "id": "0009076",
+      "title": "659757 - Depilatory lotions",
+      "conceptLink": "/ec2/concept/5959764"
+    }
+  },
+  {
+    "uri": "en/3/75451",
+    "id": "75451",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatory preparations",
+    "harm": {
+      "id": "0000160",
+      "title": "75451 - Depilatory preparations",
+      "conceptLink": "/ec2/concept/5951635"
+    }
+  },
+  {
+    "uri": "en/3/75504",
+    "id": "75504",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatory wax",
+    "harm": {
+      "id": "0011713",
+      "title": "75504 - Depilatory wax",
+      "conceptLink": "/ec2/concept/5962176"
+    }
+  },
+  {
+    "uri": "en/3/75505",
+    "id": "75505",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Depilatory waxes",
+    "harm": {
+      "id": "0011713",
+      "title": "75505 - Depilatory waxes",
+      "conceptLink": "/ec2/concept/5962176"
+    }
+  },
+  {
+    "uri": "en/3/659771",
+    "id": "659771",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dermatological creams [other than medicated]",
+    "harm": {
+      "id": "0038003",
+      "title": "659771 - Dermatological creams [other than medicated]",
+      "conceptLink": "/ec2/concept/5986202"
+    }
+  },
+  {
+    "uri": "en/3/74784",
+    "id": "74784",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Descalants for household use",
+    "harm": {
+      "id": "0019392",
+      "title": "74784 - Descalants for household use",
+      "conceptLink": "/ec2/concept/5969212"
+    }
+  },
+  {
+    "uri": "en/3/77162087",
+    "id": "77162087",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Descaling preparations for household purposes",
+    "harm": {
+      "id": "0019392",
+      "title": "77162087 - Descaling preparations for household purposes",
+      "conceptLink": "/ec2/concept/5969212"
+    }
+  },
+  {
+    "uri": "en/3/659795",
+    "id": "659795",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Destainers",
+    "harm": {
+      "id": "0005982",
+      "title": "659795 - Destainers",
+      "conceptLink": "/ec2/concept/5956931"
+    }
+  },
+  {
+    "uri": "en/3/915495",
+    "id": "915495",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detanglers",
+    "harm": {
+      "id": "0011756",
+      "title": "915495 - Detanglers",
+      "conceptLink": "/ec2/concept/5962218"
+    }
+  },
+  {
+    "uri": "en/3/659833",
+    "id": "659833",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergent compositions for cleaning golf clubs",
+    "harm": {
+      "id": "0023347",
+      "title": "659833 - Detergent compositions for cleaning golf clubs",
+      "conceptLink": "/ec2/concept/5972824"
+    }
+  },
+  {
+    "uri": "en/3/659843",
+    "id": "659843",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergent compositions for cleaning shoes",
+    "harm": {
+      "id": "0005983",
+      "title": "659843 - Detergent compositions for cleaning shoes",
+      "conceptLink": "/ec2/concept/5956932"
+    }
+  },
+  {
+    "uri": "en/3/72320",
+    "id": "72320",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergent soap",
+    "harm": {
+      "id": "0059509",
+      "title": "72320 - Detergent soap",
+      "conceptLink": "/ec2/concept/6000983"
+    }
+  },
+  {
+    "uri": "en/3/659854",
+    "id": "659854",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergent strengtheners",
+    "harm": {
+      "id": "0017505",
+      "title": "659854 - Detergent strengtheners",
+      "conceptLink": "/ec2/concept/5967479"
+    }
+  },
+  {
+    "uri": "en/3/916093",
+    "id": "916093",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents",
+    "harm": {
+      "id": "0043075",
+      "title": "916093 - Detergents",
+      "conceptLink": "/ec2/concept/5990832"
+    }
+  },
+  {
+    "uri": "en/3/315157",
+    "id": "315157",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents for automobiles",
+    "harm": {
+      "id": "0058531",
+      "title": "315157 - Detergents for automobiles",
+      "conceptLink": "/ec2/concept/6000029"
+    }
+  },
+  {
+    "uri": "en/3/317167",
+    "id": "317167",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents for household use",
+    "harm": {
+      "id": "0046968",
+      "title": "317167 - Detergents for household use",
+      "conceptLink": "/ec2/concept/5994355"
+    }
+  },
+  {
+    "uri": "en/3/1518762",
+    "id": "1518762",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents for machine dishwashing",
+    "harm": {
+      "id": "0060292",
+      "title": "1518762 - Detergents for machine dishwashing",
+      "conceptLink": "/ec2/concept/5998268"
+    }
+  },
+  {
+    "uri": "en/3/233471654",
+    "id": "233471654",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents, other than for use in manufacturing operations and for medical purposes",
+    "harm": {
+      "id": "0036698",
+      "title": "233471654 - Detergents, other than for use in manufacturing operations and for medical purposes",
+      "conceptLink": "/ec2/concept/5985023"
+    }
+  },
+  {
+    "uri": "en/3/74513",
+    "id": "74513",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents other than for use in manufacturing operations and for medical purposes",
+    "harm": {
+      "id": "0036698",
+      "title": "74513 - Detergents other than for use in manufacturing operations and for medical purposes",
+      "conceptLink": "/ec2/concept/5985023"
+    }
+  },
+  {
+    "uri": "en/3/87743100",
+    "id": "87743100",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Detergents prepared from petroleum",
+    "harm": {
+      "id": "0055324",
+      "title": "87743100 - Detergents prepared from petroleum",
+      "conceptLink": "/ec2/concept/5996739"
+    }
+  },
+  {
+    "uri": "en/3/659879",
+    "id": "659879",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dewaxing preparations",
+    "harm": {
+      "id": "0017506",
+      "title": "659879 - Dewaxing preparations",
+      "conceptLink": "/ec2/concept/5967480"
+    }
+  },
+  {
+    "uri": "en/3/74814",
+    "id": "74814",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Diamantine [abrasive]",
+    "harm": {
+      "id": "0013543",
+      "title": "74814 - Diamantine [abrasive]",
+      "conceptLink": "/ec2/concept/5963848"
+    }
+  },
+  {
+    "uri": "en/3/659892",
+    "id": "659892",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Disclosing tablets for personal use in indicating tartar on the teeth",
+    "harm": {
+      "id": "0040644",
+      "title": "659892 - Disclosing tablets for personal use in indicating tartar on the teeth",
+      "conceptLink": "/ec2/concept/5988623"
+    }
+  },
+  {
+    "uri": "en/3/40313044",
+    "id": "40313044",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwasher detergents",
+    "harm": {
+      "id": "0055325",
+      "title": "40313044 - Dishwasher detergents",
+      "conceptLink": "/ec2/concept/5996740"
+    }
+  },
+  {
+    "uri": "en/3/137746178",
+    "id": "137746178",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwasher detergents in gel form",
+    "harm": {
+      "id": "0070610",
+      "title": "137746178 - Dishwasher detergents in gel form",
+      "conceptLink": "/ec2/concept/6006802"
+    }
+  },
+  {
+    "uri": "en/3/659904",
+    "id": "659904",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwasher powder",
+    "harm": {
+      "id": "0040645",
+      "title": "659904 - Dishwasher powder",
+      "conceptLink": "/ec2/concept/5988624"
+    }
+  },
+  {
+    "uri": "en/3/120872256",
+    "id": "120872256",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwasher rinsing agents",
+    "harm": {
+      "id": "0065104",
+      "title": "120872256 - Dishwasher rinsing agents",
+      "conceptLink": "/ec2/concept/6001307"
+    }
+  },
+  {
+    "uri": "en/3/137746177",
+    "id": "137746177",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwasher tablets",
+    "harm": {
+      "id": "0070611",
+      "title": "137746177 - Dishwasher tablets",
+      "conceptLink": "/ec2/concept/6006803"
+    }
+  },
+  {
+    "uri": "en/3/380276",
+    "id": "380276",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwashing detergents",
+    "harm": {
+      "id": "0017773",
+      "title": "380276 - Dishwashing detergents",
+      "conceptLink": "/ec2/concept/5967725"
+    }
+  },
+  {
+    "uri": "en/3/40333020",
+    "id": "40333020",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwashing liquid",
+    "harm": {
+      "id": "0060302",
+      "title": "40333020 - Dishwashing liquid",
+      "conceptLink": "/ec2/concept/5998278"
+    }
+  },
+  {
+    "uri": "en/3/380277",
+    "id": "380277",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dishwashing preparations",
+    "harm": {
+      "id": "0017773",
+      "title": "380277 - Dishwashing preparations",
+      "conceptLink": "/ec2/concept/5967725"
+    }
+  },
+  {
+    "uri": "en/3/120867447",
+    "id": "120867447",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Disposable wipes impregnated with cleansing compounds for use on the face",
+    "harm": {
+      "id": "0065113",
+      "title": "120867447 - Disposable wipes impregnated with cleansing compounds for use on the face",
+      "conceptLink": "/ec2/concept/6001316"
+    }
+  },
+  {
+    "uri": "en/3/659919",
+    "id": "659919",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Distilled oils for beauty care",
+    "harm": {
+      "id": "0040646",
+      "title": "659919 - Distilled oils for beauty care",
+      "conceptLink": "/ec2/concept/5988625"
+    }
+  },
+  {
+    "uri": "en/3/137175227",
+    "id": "137175227",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Double eyelid tapes",
+    "harm": {
+      "id": "0060353",
+      "title": "137175227 - Double eyelid tapes",
+      "conceptLink": "/ec2/concept/5998329"
+    }
+  },
+  {
+    "uri": "en/3/908946",
+    "id": "908946",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Douching preparations for personal sanitary or deodorant purposes [toiletries]",
+    "harm": {
+      "id": "0032186",
+      "title": "908946 - Douching preparations for personal sanitary or deodorant purposes [toiletries]",
+      "conceptLink": "/ec2/concept/5980912"
+    }
+  },
+  {
+    "uri": "en/3/1149291",
+    "id": "1149291",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Drain and sink unblocking preparations",
+    "harm": {
+      "id": "0065090",
+      "title": "1149291 - Drain and sink unblocking preparations",
+      "conceptLink": "/ec2/concept/6001293"
+    }
+  },
+  {
+    "uri": "en/3/54724344",
+    "id": "54724344",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Drain cleaning preparations",
+    "harm": {
+      "id": "0065161",
+      "title": "54724344 - Drain cleaning preparations",
+      "conceptLink": "/ec2/concept/6001364"
+    }
+  },
+  {
+    "uri": "en/3/40333614",
+    "id": "40333614",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dry cleaning fluids",
+    "harm": {
+      "id": "0055327",
+      "title": "40333614 - Dry cleaning fluids",
+      "conceptLink": "/ec2/concept/5996742"
+    }
+  },
+  {
+    "uri": "en/3/78743",
+    "id": "78743",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dry cleaning preparations",
+    "harm": {
+      "id": "0043166",
+      "title": "78743 - Dry cleaning preparations",
+      "conceptLink": "/ec2/concept/5990914"
+    }
+  },
+  {
+    "uri": "en/3/78744",
+    "id": "78744",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dry-cleaning preparations",
+    "harm": {
+      "id": "0043166",
+      "title": "78744 - Dry-cleaning preparations",
+      "conceptLink": "/ec2/concept/5990914"
+    }
+  },
+  {
+    "uri": "en/3/909031",
+    "id": "909031",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dry shampoos",
+    "harm": {
+      "id": "0009077",
+      "title": "909031 - Dry shampoos",
+      "conceptLink": "/ec2/concept/5959765"
+    }
+  },
+  {
+    "uri": "en/3/908850",
+    "id": "908850",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Drying agents for dishwashing machines",
+    "harm": {
+      "id": "0013581",
+      "title": "908850 - Drying agents for dishwashing machines",
+      "conceptLink": "/ec2/concept/5963881"
+    }
+  },
+  {
+    "uri": "en/3/76892",
+    "id": "76892",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dusting powder",
+    "harm": {
+      "id": "0057375",
+      "title": "76892 - Dusting powder",
+      "conceptLink": "/ec2/concept/5998882"
+    }
+  },
+  {
+    "uri": "en/3/119693713",
+    "id": "119693713",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dusting powder [for toilet use]",
+    "harm": {
+      "id": "0057375",
+      "title": "119693713 - Dusting powder [for toilet use]",
+      "conceptLink": "/ec2/concept/5998882"
+    }
+  },
+  {
+    "uri": "en/3/77307",
+    "id": "77307",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dyes (Cosmetic -)",
+    "harm": {
+      "id": "0029370",
+      "title": "77307 - Dyes (Cosmetic -)",
+      "conceptLink": "/ec2/concept/5978345"
+    }
+  },
+  {
+    "uri": "en/3/73093",
+    "id": "73093",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Dyes for the hair",
+    "harm": {
+      "id": "0058449",
+      "title": "73093 - Dyes for the hair",
+      "conceptLink": "/ec2/concept/5999948"
+    }
+  },
+  {
+    "uri": "en/3/119522281",
+    "id": "119522281",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau-de-cologne",
+    "harm": {
+      "id": "0058864",
+      "title": "119522281 - Eau-de-cologne",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/136232917",
+    "id": "136232917",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de cologne",
+    "harm": {
+      "id": "0058864",
+      "title": "136232917 - Eau de cologne",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/73931",
+    "id": "73931",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de Cologne",
+    "harm": {
+      "id": "0058864",
+      "title": "73931 - Eau de Cologne",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/73932",
+    "id": "73932",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de cologne [cologne water]",
+    "harm": {
+      "id": "0058864",
+      "title": "73932 - Eau de cologne [cologne water]",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/73930",
+    "id": "73930",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de colognes",
+    "harm": {
+      "id": "0058864",
+      "title": "73930 - Eau de colognes",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/2871221",
+    "id": "2871221",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de parfum",
+    "harm": {
+      "id": "0055328",
+      "title": "2871221 - Eau de parfum",
+      "conceptLink": "/ec2/concept/5996743"
+    }
+  },
+  {
+    "uri": "en/3/73935",
+    "id": "73935",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau de toilette",
+    "harm": {
+      "id": "0058865",
+      "title": "73935 - Eau de toilette",
+      "conceptLink": "/ec2/concept/6000356"
+    }
+  },
+  {
+    "uri": "en/3/119522282",
+    "id": "119522282",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eau-de-toilette",
+    "harm": {
+      "id": "0058865",
+      "title": "119522282 - Eau-de-toilette",
+      "conceptLink": "/ec2/concept/6000356"
+    }
+  },
+  {
+    "uri": "en/3/32333032",
+    "id": "32333032",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eaux de cologne",
+    "harm": {
+      "id": "0058864",
+      "title": "32333032 - Eaux de cologne",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/132800578",
+    "id": "132800578",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eaux de Cologne",
+    "harm": {
+      "id": "0058864",
+      "title": "132800578 - Eaux de Cologne",
+      "conceptLink": "/ec2/concept/6000355"
+    }
+  },
+  {
+    "uri": "en/3/12893687",
+    "id": "12893687",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Eaux de toilette",
+    "harm": {
+      "id": "0058865",
+      "title": "12893687 - Eaux de toilette",
+      "conceptLink": "/ec2/concept/6000356"
+    }
+  },
+  {
+    "uri": "en/3/75401",
+    "id": "75401",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Emery",
+    "harm": {
+      "id": "0023316",
+      "title": "75401 - Emery",
+      "conceptLink": "/ec2/concept/5972793"
+    }
+  }
+]

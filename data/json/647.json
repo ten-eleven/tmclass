@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/37415",
+    "id": "37415",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing repair",
+    "harm": {
+      "id": "0057941",
+      "title": "37415 - Clothing repair",
+      "conceptLink": "/ec2/concept/5999445"
+    }
+  },
+  {
+    "uri": "en/37/39719",
+    "id": "39719",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing repair [mending clothing]",
+    "harm": {
+      "id": "0057939",
+      "title": "39719 - Clothing repair [mending clothing]",
+      "conceptLink": "/ec2/concept/5999443"
+    }
+  },
+  {
+    "uri": "en/37/124330123",
+    "id": "124330123",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing (Repair of -)",
+    "harm": {
+      "id": "0057941",
+      "title": "124330123 - Clothing (Repair of -)",
+      "conceptLink": "/ec2/concept/5999445"
+    }
+  },
+  {
+    "uri": "en/37/36782",
+    "id": "36782",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing washing",
+    "harm": {
+      "id": "0047307",
+      "title": "36782 - Clothing washing",
+      "conceptLink": "/ec2/concept/5994657"
+    }
+  },
+  {
+    "uri": "en/37/815262",
+    "id": "815262",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of brickwork",
+    "harm": {
+      "id": "0029825",
+      "title": "815262 - Coating of brickwork",
+      "conceptLink": "/ec2/concept/5978768"
+    }
+  },
+  {
+    "uri": "en/37/815274",
+    "id": "815274",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of concrete",
+    "harm": {
+      "id": "0000902",
+      "title": "815274 - Coating of concrete",
+      "conceptLink": "/ec2/concept/5952300"
+    }
+  },
+  {
+    "uri": "en/37/815291",
+    "id": "815291",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of conduits",
+    "harm": {
+      "id": "0018286",
+      "title": "815291 - Coating of conduits",
+      "conceptLink": "/ec2/concept/5968195"
+    }
+  },
+  {
+    "uri": "en/37/815317",
+    "id": "815317",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of drains",
+    "harm": {
+      "id": "0035610",
+      "title": "815317 - Coating of drains",
+      "conceptLink": "/ec2/concept/5984031"
+    }
+  },
+  {
+    "uri": "en/37/815331",
+    "id": "815331",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of passageways",
+    "harm": {
+      "id": "0024088",
+      "title": "815331 - Coating of passageways",
+      "conceptLink": "/ec2/concept/5973508"
+    }
+  },
+  {
+    "uri": "en/37/815292",
+    "id": "815292",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of pipes",
+    "harm": {
+      "id": "0018286",
+      "title": "815292 - Coating of pipes",
+      "conceptLink": "/ec2/concept/5968195"
+    }
+  },
+  {
+    "uri": "en/37/815345",
+    "id": "815345",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating of sewers",
+    "harm": {
+      "id": "0039424",
+      "title": "815345 - Coating of sewers",
+      "conceptLink": "/ec2/concept/5987501"
+    }
+  },
+  {
+    "uri": "en/37/815246",
+    "id": "815246",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating [painting] services",
+    "harm": {
+      "id": "0000901",
+      "title": "815246 - Coating [painting] services",
+      "conceptLink": "/ec2/concept/5952299"
+    }
+  },
+  {
+    "uri": "en/37/815397",
+    "id": "815397",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the repair of industrial engineering plant",
+    "harm": {
+      "id": "0016322",
+      "title": "815397 - Coating services for the repair of industrial engineering plant",
+      "conceptLink": "/ec2/concept/5966415"
+    }
+  },
+  {
+    "uri": "en/37/815371",
+    "id": "815371",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the maintenance of marine engineering plant",
+    "harm": {
+      "id": "0004803",
+      "title": "815371 - Coating services for the maintenance of marine engineering plant",
+      "conceptLink": "/ec2/concept/5955852"
+    }
+  },
+  {
+    "uri": "en/37/815357",
+    "id": "815357",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the maintenance of industrial engineering plant",
+    "harm": {
+      "id": "0010521",
+      "title": "815357 - Coating services for the maintenance of industrial engineering plant",
+      "conceptLink": "/ec2/concept/5961086"
+    }
+  },
+  {
+    "uri": "en/37/815385",
+    "id": "815385",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the maintenance of ships",
+    "harm": {
+      "id": "0033620",
+      "title": "815385 - Coating services for the maintenance of ships",
+      "conceptLink": "/ec2/concept/5982222"
+    }
+  },
+  {
+    "uri": "en/37/815411",
+    "id": "815411",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the repair of marine engineering plant",
+    "harm": {
+      "id": "0045149",
+      "title": "815411 - Coating services for the repair of marine engineering plant",
+      "conceptLink": "/ec2/concept/5992734"
+    }
+  },
+  {
+    "uri": "en/37/815426",
+    "id": "815426",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Coating services for the repair of ships",
+    "harm": {
+      "id": "0045150",
+      "title": "815426 - Coating services for the repair of ships",
+      "conceptLink": "/ec2/concept/5992735"
+    }
+  },
+  {
+    "uri": "en/37/815439",
+    "id": "815439",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cobbler's services [repair]",
+    "harm": {
+      "id": "0016323",
+      "title": "815439 - Cobbler's services [repair]",
+      "conceptLink": "/ec2/concept/5966416"
+    }
+  },
+  {
+    "uri": "en/37/37516",
+    "id": "37516",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cobbler services",
+    "harm": {
+      "id": "0011889",
+      "title": "37516 - Cobbler services",
+      "conceptLink": "/ec2/concept/5962341"
+    }
+  },
+  {
+    "uri": "en/37/452501",
+    "id": "452501",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer and telephone battery recharge services",
+    "harm": {
+      "id": "0010570",
+      "title": "452501 - Computer and telephone battery recharge services",
+      "conceptLink": "/ec2/concept/5961133"
+    }
+  },
+  {
+    "uri": "en/37/131140063",
+    "id": "131140063",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer hardware and telecommunication apparatus installation, maintenance and repair",
+    "harm": {
+      "id": "0047999",
+      "title": "131140063 - Computer hardware and telecommunication apparatus installation, maintenance and repair",
+      "conceptLink": "/ec2/concept/5995260"
+    }
+  },
+  {
+    "uri": "en/37/41352",
+    "id": "41352",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer hardware (Installation, maintenance and repair of -)",
+    "harm": {
+      "id": "0012911",
+      "title": "41352 - Computer hardware (Installation, maintenance and repair of -)",
+      "conceptLink": "/ec2/concept/5963278"
+    }
+  },
+  {
+    "uri": "en/37/452517",
+    "id": "452517",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer installation and maintenance services",
+    "harm": {
+      "id": "0022282",
+      "title": "452517 - Computer installation and maintenance services",
+      "conceptLink": "/ec2/concept/5971850"
+    }
+  },
+  {
+    "uri": "en/37/452537",
+    "id": "452537",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer installation and repair",
+    "harm": {
+      "id": "0045209",
+      "title": "452537 - Computer installation and repair",
+      "conceptLink": "/ec2/concept/5992793"
+    }
+  },
+  {
+    "uri": "en/37/815454",
+    "id": "815454",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer installation services",
+    "harm": {
+      "id": "0027872",
+      "title": "815454 - Computer installation services",
+      "conceptLink": "/ec2/concept/5976967"
+    }
+  },
+  {
+    "uri": "en/37/815471",
+    "id": "815471",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer maintenance services",
+    "harm": {
+      "id": "0014887",
+      "title": "815471 - Computer maintenance services",
+      "conceptLink": "/ec2/concept/5965087"
+    }
+  },
+  {
+    "uri": "en/37/815499",
+    "id": "815499",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Computer repair services",
+    "harm": {
+      "id": "0044461",
+      "title": "815499 - Computer repair services",
+      "conceptLink": "/ec2/concept/5992105"
+    }
+  },
+  {
+    "uri": "en/37/815523",
+    "id": "815523",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete crushing",
+    "harm": {
+      "id": "0010522",
+      "title": "815523 - Concrete crushing",
+      "conceptLink": "/ec2/concept/5961087"
+    }
+  },
+  {
+    "uri": "en/37/233237778",
+    "id": "233237778",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete leveling services",
+    "harm": {
+      "id": "0073345",
+      "title": "233237778 - Concrete leveling services",
+      "conceptLink": "/ec2/concept/6009518"
+    }
+  },
+  {
+    "uri": "en/37/125040036",
+    "id": "125040036",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete-mixing apparatus (Rental of -)",
+    "harm": {
+      "id": "0029017",
+      "title": "125040036 - Concrete-mixing apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5978029"
+    }
+  },
+  {
+    "uri": "en/37/902176",
+    "id": "902176",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete polishing",
+    "harm": {
+      "id": "0042588",
+      "title": "902176 - Concrete polishing",
+      "conceptLink": "/ec2/concept/5990393"
+    }
+  },
+  {
+    "uri": "en/37/815535",
+    "id": "815535",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete pumping",
+    "harm": {
+      "id": "0004804",
+      "title": "815535 - Concrete pumping",
+      "conceptLink": "/ec2/concept/5955853"
+    }
+  },
+  {
+    "uri": "en/37/233237781",
+    "id": "233237781",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete raising services",
+    "harm": {
+      "id": "0073344",
+      "title": "233237781 - Concrete raising services",
+      "conceptLink": "/ec2/concept/6009517"
+    }
+  },
+  {
+    "uri": "en/37/452554",
+    "id": "452554",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete renovation",
+    "harm": {
+      "id": "0039468",
+      "title": "452554 - Concrete renovation",
+      "conceptLink": "/ec2/concept/5987539"
+    }
+  },
+  {
+    "uri": "en/37/815552",
+    "id": "815552",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete repairs",
+    "harm": {
+      "id": "0015616",
+      "title": "815552 - Concrete repairs",
+      "conceptLink": "/ec2/concept/5965755"
+    }
+  },
+  {
+    "uri": "en/37/815568",
+    "id": "815568",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concrete sealing",
+    "harm": {
+      "id": "0013245",
+      "title": "815568 - Concrete sealing",
+      "conceptLink": "/ec2/concept/5963580"
+    }
+  },
+  {
+    "uri": "en/37/815603",
+    "id": "815603",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Concreting",
+    "harm": {
+      "id": "0013246",
+      "title": "815603 - Concreting",
+      "conceptLink": "/ec2/concept/5963581"
+    }
+  },
+  {
+    "uri": "en/37/452573",
+    "id": "452573",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Conservation and preservation services for works of art",
+    "harm": {
+      "id": "0032610",
+      "title": "452573 - Conservation and preservation services for works of art",
+      "conceptLink": "/ec2/concept/5981294"
+    }
+  },
+  {
+    "uri": "en/37/452588",
+    "id": "452588",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Constructing decks",
+    "harm": {
+      "id": "0021209",
+      "title": "452588 - Constructing decks",
+      "conceptLink": "/ec2/concept/5970870"
+    }
+  },
+  {
+    "uri": "en/37/815630",
+    "id": "815630",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Constructing [erecting and glazing] garden buildings",
+    "harm": {
+      "id": "0024823",
+      "title": "815630 - Constructing [erecting and glazing] garden buildings",
+      "conceptLink": "/ec2/concept/5974188"
+    }
+  },
+  {
+    "uri": "en/37/815616",
+    "id": "815616",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Constructing [erecting and glazing] conservatories",
+    "harm": {
+      "id": "0013247",
+      "title": "815616 - Constructing [erecting and glazing] conservatories",
+      "conceptLink": "/ec2/concept/5963582"
+    }
+  },
+  {
+    "uri": "en/37/452601",
+    "id": "452601",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Constructing porches",
+    "harm": {
+      "id": "0038412",
+      "title": "452601 - Constructing porches",
+      "conceptLink": "/ec2/concept/5986582"
+    }
+  },
+  {
+    "uri": "en/37/452613",
+    "id": "452613",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Constructing sunrooms",
+    "harm": {
+      "id": "0026851",
+      "title": "452613 - Constructing sunrooms",
+      "conceptLink": "/ec2/concept/5976032"
+    }
+  },
+  {
+    "uri": "en/37/125409206",
+    "id": "125409206",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction",
+    "harm": {
+      "id": "0020735",
+      "title": "125409206 - Construction",
+      "conceptLink": "/ec2/concept/5970434"
+    }
+  },
+  {
+    "uri": "en/37/815643",
+    "id": "815643",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction advisory services",
+    "harm": {
+      "id": "0057630",
+      "title": "815643 - Construction advisory services",
+      "conceptLink": "/ec2/concept/5999135"
+    }
+  },
+  {
+    "uri": "en/37/120879303",
+    "id": "120879303",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction and erection of exhibition stands, stages and booths",
+    "harm": {
+      "id": "0068327",
+      "title": "120879303 - Construction and erection of exhibition stands, stages and booths",
+      "conceptLink": "/ec2/concept/6004530"
+    }
+  },
+  {
+    "uri": "en/37/367584",
+    "id": "367584",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction consultancy",
+    "harm": {
+      "id": "0057631",
+      "title": "367584 - Construction consultancy",
+      "conceptLink": "/ec2/concept/5999136"
+    }
+  },
+  {
+    "uri": "en/37/367585",
+    "id": "367585",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction consultation",
+    "harm": {
+      "id": "0057631",
+      "title": "367585 - Construction consultation",
+      "conceptLink": "/ec2/concept/5999136"
+    }
+  },
+  {
+    "uri": "en/37/37210",
+    "id": "37210",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction equipment (Rental of -)",
+    "harm": {
+      "id": "0057858",
+      "title": "37210 - Construction equipment (Rental of -)",
+      "conceptLink": "/ec2/concept/5999362"
+    }
+  },
+  {
+    "uri": "en/37/119694037",
+    "id": "119694037",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction equipment rental",
+    "harm": {
+      "id": "0057858",
+      "title": "119694037 - Construction equipment rental",
+      "conceptLink": "/ec2/concept/5999362"
+    }
+  },
+  {
+    "uri": "en/37/40766",
+    "id": "40766",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction information",
+    "harm": {
+      "id": "0057628",
+      "title": "40766 - Construction information",
+      "conceptLink": "/ec2/concept/5999133"
+    }
+  },
+  {
+    "uri": "en/37/125151025",
+    "id": "125151025",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction (Information relating to -)",
+    "harm": {
+      "id": "0057628",
+      "title": "125151025 - Construction (Information relating to -)",
+      "conceptLink": "/ec2/concept/5999133"
+    }
+  },
+  {
+    "uri": "en/37/28666529",
+    "id": "28666529",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction information services",
+    "harm": {
+      "id": "0057628",
+      "title": "28666529 - Construction information services",
+      "conceptLink": "/ec2/concept/5999133"
+    }
+  },
+  {
+    "uri": "en/37/37712",
+    "id": "37712",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction land developing",
+    "harm": {
+      "id": "0001681",
+      "title": "37712 - Construction land developing",
+      "conceptLink": "/ec2/concept/5952997"
+    }
+  },
+  {
+    "uri": "en/37/37881",
+    "id": "37881",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction management [supervision]",
+    "harm": {
+      "id": "0001309",
+      "title": "37881 - Construction management [supervision]",
+      "conceptLink": "/ec2/concept/5952662"
+    }
+  },
+  {
+    "uri": "en/37/815672",
+    "id": "815672",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction management services",
+    "harm": {
+      "id": "0042139",
+      "title": "815672 - Construction management services",
+      "conceptLink": "/ec2/concept/5989983"
+    }
+  },
+  {
+    "uri": "en/37/367641",
+    "id": "367641",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of airports",
+    "harm": {
+      "id": "0028154",
+      "title": "367641 - Construction of airports",
+      "conceptLink": "/ec2/concept/5977223"
+    }
+  },
+  {
+    "uri": "en/37/813691",
+    "id": "813691",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of bridges",
+    "harm": {
+      "id": "0013248",
+      "title": "813691 - Construction of bridges",
+      "conceptLink": "/ec2/concept/5963583"
+    }
+  },
+  {
+    "uri": "en/37/120891275",
+    "id": "120891275",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of buildings and other structures",
+    "harm": {
+      "id": "0068112",
+      "title": "120891275 - Construction of buildings and other structures",
+      "conceptLink": "/ec2/concept/6004315"
+    }
+  },
+  {
+    "uri": "en/37/813780",
+    "id": "813780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of buildings",
+    "harm": {
+      "id": "0012910",
+      "title": "813780 - Construction of buildings",
+      "conceptLink": "/ec2/concept/5963277"
+    }
+  },
+  {
+    "uri": "en/37/815704",
+    "id": "815704",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of carriageways",
+    "harm": {
+      "id": "0024824",
+      "title": "815704 - Construction of carriageways",
+      "conceptLink": "/ec2/concept/5974189"
+    }
+  },
+  {
+    "uri": "en/37/454159",
+    "id": "454159",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of ceilings",
+    "harm": {
+      "id": "0047091",
+      "title": "454159 - Construction of ceilings",
+      "conceptLink": "/ec2/concept/5994467"
+    }
+  },
+  {
+    "uri": "en/37/815718",
+    "id": "815718",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of chimneys",
+    "harm": {
+      "id": "0004809",
+      "title": "815718 - Construction of chimneys",
+      "conceptLink": "/ec2/concept/5955858"
+    }
+  },
+  {
+    "uri": "en/37/815746",
+    "id": "815746",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of civil engineering structures by laying concrete",
+    "harm": {
+      "id": "0027877",
+      "title": "815746 - Construction of civil engineering structures by laying concrete",
+      "conceptLink": "/ec2/concept/5976972"
+    }
+  },
+  {
+    "uri": "en/37/815733",
+    "id": "815733",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of civil engineering structures by forming concrete",
+    "harm": {
+      "id": "0022235",
+      "title": "815733 - Construction of civil engineering structures by forming concrete",
+      "conceptLink": "/ec2/concept/5971806"
+    }
+  },
+  {
+    "uri": "en/37/815759",
+    "id": "815759",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of civil engineering structures by pouring concrete",
+    "harm": {
+      "id": "0010526",
+      "title": "815759 - Construction of civil engineering structures by pouring concrete",
+      "conceptLink": "/ec2/concept/5961091"
+    }
+  },
+  {
+    "uri": "en/37/815771",
+    "id": "815771",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of civil engineering works",
+    "harm": {
+      "id": "0034220",
+      "title": "815771 - Construction of civil engineering works",
+      "conceptLink": "/ec2/concept/5982773"
+    }
+  },
+  {
+    "uri": "en/37/815809",
+    "id": "815809",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of complexes for sports purposes",
+    "harm": {
+      "id": "0004810",
+      "title": "815809 - Construction of complexes for sports purposes",
+      "conceptLink": "/ec2/concept/5955859"
+    }
+  },
+  {
+    "uri": "en/37/815783",
+    "id": "815783",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of complexes for business",
+    "harm": {
+      "id": "0022236",
+      "title": "815783 - Construction of complexes for business",
+      "conceptLink": "/ec2/concept/5971807"
+    }
+  },
+  {
+    "uri": "en/37/815795",
+    "id": "815795",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of complexes for recreational purposes",
+    "harm": {
+      "id": "0039428",
+      "title": "815795 - Construction of complexes for recreational purposes",
+      "conceptLink": "/ec2/concept/5987504"
+    }
+  },
+  {
+    "uri": "en/37/120882172",
+    "id": "120882172",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of conservatories and greenhouses",
+    "harm": {
+      "id": "0071339",
+      "title": "120882172 - Construction of conservatories and greenhouses",
+      "conceptLink": "/ec2/concept/6007530"
+    }
+  },
+  {
+    "uri": "en/37/815823",
+    "id": "815823",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of cubicles",
+    "harm": {
+      "id": "0022237",
+      "title": "815823 - Construction of cubicles",
+      "conceptLink": "/ec2/concept/5971808"
+    }
+  },
+  {
+    "uri": "en/37/815836",
+    "id": "815836",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of curtain walls",
+    "harm": {
+      "id": "0022238",
+      "title": "815836 - Construction of curtain walls",
+      "conceptLink": "/ec2/concept/5971809"
+    }
+  },
+  {
+    "uri": "en/37/815847",
+    "id": "815847",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of dams",
+    "harm": {
+      "id": "0016327",
+      "title": "815847 - Construction of dams",
+      "conceptLink": "/ec2/concept/5966419"
+    }
+  },
+  {
+    "uri": "en/37/815860",
+    "id": "815860",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of diaphragm walls",
+    "harm": {
+      "id": "0010527",
+      "title": "815860 - Construction of diaphragm walls",
+      "conceptLink": "/ec2/concept/5961092"
+    }
+  },
+  {
+    "uri": "en/37/815873",
+    "id": "815873",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of drainage systems",
+    "harm": {
+      "id": "0027879",
+      "title": "815873 - Construction of drainage systems",
+      "conceptLink": "/ec2/concept/5976973"
+    }
+  },
+  {
+    "uri": "en/37/815885",
+    "id": "815885",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of exhibition stands",
+    "harm": {
+      "id": "0045156",
+      "title": "815885 - Construction of exhibition stands",
+      "conceptLink": "/ec2/concept/5992741"
+    }
+  },
+  {
+    "uri": "en/37/815900",
+    "id": "815900",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of exploitation pipelines",
+    "harm": {
+      "id": "0046883",
+      "title": "815900 - Construction of exploitation pipelines",
+      "conceptLink": "/ec2/concept/5994275"
+    }
+  },
+  {
+    "uri": "en/37/815913",
+    "id": "815913",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of exploitation platforms",
+    "harm": {
+      "id": "0045157",
+      "title": "815913 - Construction of exploitation platforms",
+      "conceptLink": "/ec2/concept/5992742"
+    }
+  },
+  {
+    "uri": "en/37/38841",
+    "id": "38841",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of factories",
+    "harm": {
+      "id": "0014629",
+      "title": "38841 - Construction of factories",
+      "conceptLink": "/ec2/concept/5964856"
+    }
+  },
+  {
+    "uri": "en/37/815925",
+    "id": "815925",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of floors",
+    "harm": {
+      "id": "0020930",
+      "title": "815925 - Construction of floors",
+      "conceptLink": "/ec2/concept/5970614"
+    }
+  },
+  {
+    "uri": "en/37/815937",
+    "id": "815937",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of foundations for bridges",
+    "harm": {
+      "id": "0003498",
+      "title": "815937 - Construction of foundations for bridges",
+      "conceptLink": "/ec2/concept/5954649"
+    }
+  },
+  {
+    "uri": "en/37/815976",
+    "id": "815976",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of foundations for roads",
+    "harm": {
+      "id": "0009237",
+      "title": "815976 - Construction of foundations for roads",
+      "conceptLink": "/ec2/concept/5959911"
+    }
+  },
+  {
+    "uri": "en/37/813728",
+    "id": "813728",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of foundations for buildings",
+    "harm": {
+      "id": "0020931",
+      "title": "813728 - Construction of foundations for buildings",
+      "conceptLink": "/ec2/concept/5970615"
+    }
+  },
+  {
+    "uri": "en/37/815963",
+    "id": "815963",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of foundations for dams",
+    "harm": {
+      "id": "0020933",
+      "title": "815963 - Construction of foundations for dams",
+      "conceptLink": "/ec2/concept/5970617"
+    }
+  },
+  {
+    "uri": "en/37/815948",
+    "id": "815948",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of foundations for civil engineering structures",
+    "harm": {
+      "id": "0020932",
+      "title": "815948 - Construction of foundations for civil engineering structures",
+      "conceptLink": "/ec2/concept/5970616"
+    }
+  },
+  {
+    "uri": "en/37/815988",
+    "id": "815988",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of galleries",
+    "harm": {
+      "id": "0003499",
+      "title": "815988 - Construction of galleries",
+      "conceptLink": "/ec2/concept/5954650"
+    }
+  },
+  {
+    "uri": "en/37/816000",
+    "id": "816000",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of greenhouses",
+    "harm": {
+      "id": "0015100",
+      "title": "816000 - Construction of greenhouses",
+      "conceptLink": "/ec2/concept/5965279"
+    }
+  },
+  {
+    "uri": "en/37/39682",
+    "id": "39682",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of harbours",
+    "harm": {
+      "id": "0001012",
+      "title": "39682 - Construction of harbours",
+      "conceptLink": "/ec2/concept/5952394"
+    }
+  },
+  {
+    "uri": "en/37/816014",
+    "id": "816014",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of hard-standing areas",
+    "harm": {
+      "id": "0015101",
+      "title": "816014 - Construction of hard-standing areas",
+      "conceptLink": "/ec2/concept/5965280"
+    }
+  },
+  {
+    "uri": "en/37/816028",
+    "id": "816028",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of holiday accommodation",
+    "harm": {
+      "id": "0003500",
+      "title": "816028 - Construction of holiday accommodation",
+      "conceptLink": "/ec2/concept/5954651"
+    }
+  },
+  {
+    "uri": "en/37/816042",
+    "id": "816042",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of house extensions",
+    "harm": {
+      "id": "0032348",
+      "title": "816042 - Construction of house extensions",
+      "conceptLink": "/ec2/concept/5981057"
+    }
+  },
+  {
+    "uri": "en/37/813776",
+    "id": "813776",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of houses",
+    "harm": {
+      "id": "0012910",
+      "title": "813776 - Construction of houses",
+      "conceptLink": "/ec2/concept/5963277"
+    }
+  },
+  {
+    "uri": "en/37/816056",
+    "id": "816056",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of industrial furnaces",
+    "harm": {
+      "id": "0010968",
+      "title": "816056 - Construction of industrial furnaces",
+      "conceptLink": "/ec2/concept/5961496"
+    }
+  },
+  {
+    "uri": "en/37/816070",
+    "id": "816070",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of interior accommodation",
+    "harm": {
+      "id": "0016760",
+      "title": "816070 - Construction of interior accommodation",
+      "conceptLink": "/ec2/concept/5966811"
+    }
+  },
+  {
+    "uri": "en/37/816084",
+    "id": "816084",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of kitchens",
+    "harm": {
+      "id": "0028277",
+      "title": "816084 - Construction of kitchens",
+      "conceptLink": "/ec2/concept/5977338"
+    }
+  },
+  {
+    "uri": "en/37/816097",
+    "id": "816097",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of leisure complexes",
+    "harm": {
+      "id": "0010969",
+      "title": "816097 - Construction of leisure complexes",
+      "conceptLink": "/ec2/concept/5961497"
+    }
+  },
+  {
+    "uri": "en/37/367655",
+    "id": "367655",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of medical establishments",
+    "harm": {
+      "id": "0016612",
+      "title": "367655 - Construction of medical establishments",
+      "conceptLink": "/ec2/concept/5966677"
+    }
+  },
+  {
+    "uri": "en/37/816127",
+    "id": "816127",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Construction of motorways",
+    "harm": {
+      "id": "0022635",
+      "title": "816127 - Construction of motorways",
+      "conceptLink": "/ec2/concept/5972171"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/32/305796",
+    "id": "305796",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sparkling water",
+    "harm": {
+      "id": "0006817",
+      "title": "305796 - Sparkling water",
+      "conceptLink": "/ec2/concept/5957693"
+    }
+  },
+  {
+    "uri": "en/32/446071",
+    "id": "446071",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sports drinks",
+    "harm": {
+      "id": "0004091",
+      "title": "446071 - Sports drinks",
+      "conceptLink": "/ec2/concept/5955186"
+    }
+  },
+  {
+    "uri": "en/32/115307016",
+    "id": "115307016",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sports drinks containing electrolytes",
+    "harm": {
+      "id": "0056571",
+      "title": "115307016 - Sports drinks containing electrolytes",
+      "conceptLink": "/ec2/concept/5997872"
+    }
+  },
+  {
+    "uri": "en/32/1643273",
+    "id": "1643273",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Spring water",
+    "harm": {
+      "id": "0058753",
+      "title": "1643273 - Spring water",
+      "conceptLink": "/ec2/concept/6000244"
+    }
+  },
+  {
+    "uri": "en/32/362591",
+    "id": "362591",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Spring waters",
+    "harm": {
+      "id": "0058753",
+      "title": "362591 - Spring waters",
+      "conceptLink": "/ec2/concept/6000244"
+    }
+  },
+  {
+    "uri": "en/32/610839",
+    "id": "610839",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Squashes [non-alcoholic beverages]",
+    "harm": {
+      "id": "0027674",
+      "title": "610839 - Squashes [non-alcoholic beverages]",
+      "conceptLink": "/ec2/concept/5976789"
+    }
+  },
+  {
+    "uri": "en/32/362647",
+    "id": "362647",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Still water",
+    "harm": {
+      "id": "0008192",
+      "title": "362647 - Still water",
+      "conceptLink": "/ec2/concept/5958952"
+    }
+  },
+  {
+    "uri": "en/32/2471943",
+    "id": "2471943",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Still waters",
+    "harm": {
+      "id": "0008192",
+      "title": "2471943 - Still waters",
+      "conceptLink": "/ec2/concept/5958952"
+    }
+  },
+  {
+    "uri": "en/32/362663",
+    "id": "362663",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Stout",
+    "harm": {
+      "id": "0019905",
+      "title": "362663 - Stout",
+      "conceptLink": "/ec2/concept/5969673"
+    }
+  },
+  {
+    "uri": "en/32/304995",
+    "id": "304995",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrup for making beverages",
+    "harm": {
+      "id": "0058314",
+      "title": "304995 - Syrup for making beverages",
+      "conceptLink": "/ec2/concept/5999813"
+    }
+  },
+  {
+    "uri": "en/32/305420",
+    "id": "305420",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrup for making lemonade",
+    "harm": {
+      "id": "0059335",
+      "title": "305420 - Syrup for making lemonade",
+      "conceptLink": "/ec2/concept/6000817"
+    }
+  },
+  {
+    "uri": "en/32/304994",
+    "id": "304994",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for beverages",
+    "harm": {
+      "id": "0058315",
+      "title": "304994 - Syrups for beverages",
+      "conceptLink": "/ec2/concept/5999814"
+    }
+  },
+  {
+    "uri": "en/32/305419",
+    "id": "305419",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for lemonade",
+    "harm": {
+      "id": "0059335",
+      "title": "305419 - Syrups for lemonade",
+      "conceptLink": "/ec2/concept/6000817"
+    }
+  },
+  {
+    "uri": "en/32/446086",
+    "id": "446086",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making beverages",
+    "harm": {
+      "id": "0058314",
+      "title": "446086 - Syrups for making beverages",
+      "conceptLink": "/ec2/concept/5999813"
+    }
+  },
+  {
+    "uri": "en/32/119547647",
+    "id": "119547647",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making flavoured mineral waters",
+    "harm": {
+      "id": "0056572",
+      "title": "119547647 - Syrups for making flavoured mineral waters",
+      "conceptLink": "/ec2/concept/5997873"
+    }
+  },
+  {
+    "uri": "en/32/907481",
+    "id": "907481",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making fruit-flavored drinks",
+    "harm": {
+      "id": "0020249",
+      "title": "907481 - Syrups for making fruit-flavored drinks",
+      "conceptLink": "/ec2/concept/5969987"
+    }
+  },
+  {
+    "uri": "en/32/907482",
+    "id": "907482",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making non-alcoholic beverages",
+    "harm": {
+      "id": "0043288",
+      "title": "907482 - Syrups for making non-alcoholic beverages",
+      "conceptLink": "/ec2/concept/5991026"
+    }
+  },
+  {
+    "uri": "en/32/305421",
+    "id": "305421",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making soft drinks",
+    "harm": {
+      "id": "0059334",
+      "title": "305421 - Syrups for making soft drinks",
+      "conceptLink": "/ec2/concept/6000816"
+    }
+  },
+  {
+    "uri": "en/32/29194540",
+    "id": "29194540",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups for making whey-based beverages",
+    "harm": {
+      "id": "0067692",
+      "title": "29194540 - Syrups for making whey-based beverages",
+      "conceptLink": "/ec2/concept/6003895"
+    }
+  },
+  {
+    "uri": "en/32/120824497",
+    "id": "120824497",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Syrups used in the preparation of soft drinks",
+    "harm": {
+      "id": "0059334",
+      "title": "120824497 - Syrups used in the preparation of soft drinks",
+      "conceptLink": "/ec2/concept/6000816"
+    }
+  },
+  {
+    "uri": "en/32/4815770",
+    "id": "4815770",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Table water",
+    "harm": {
+      "id": "0019601",
+      "title": "4815770 - Table water",
+      "conceptLink": "/ec2/concept/5969404"
+    }
+  },
+  {
+    "uri": "en/32/305223",
+    "id": "305223",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Table waters",
+    "harm": {
+      "id": "0019601",
+      "title": "305223 - Table waters",
+      "conceptLink": "/ec2/concept/5969404"
+    }
+  },
+  {
+    "uri": "en/32/305647",
+    "id": "305647",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Tomato juice [beverage]",
+    "harm": {
+      "id": "0040628",
+      "title": "305647 - Tomato juice [beverage]",
+      "conceptLink": "/ec2/concept/5988608"
+    }
+  },
+  {
+    "uri": "en/32/305646",
+    "id": "305646",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Tomato juice beverages",
+    "harm": {
+      "id": "0040628",
+      "title": "305646 - Tomato juice beverages",
+      "conceptLink": "/ec2/concept/5988608"
+    }
+  },
+  {
+    "uri": "en/32/42092993",
+    "id": "42092993",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Tonic water",
+    "harm": {
+      "id": "0044961",
+      "title": "42092993 - Tonic water",
+      "conceptLink": "/ec2/concept/5992563"
+    }
+  },
+  {
+    "uri": "en/32/610853",
+    "id": "610853",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Tonic water [non-medicated beverages]",
+    "harm": {
+      "id": "0044961",
+      "title": "610853 - Tonic water [non-medicated beverages]",
+      "conceptLink": "/ec2/concept/5992563"
+    }
+  },
+  {
+    "uri": "en/32/120824391",
+    "id": "120824391",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Unfermented preserved must",
+    "harm": {
+      "id": "0067693",
+      "title": "120824391 - Unfermented preserved must",
+      "conceptLink": "/ec2/concept/6003896"
+    }
+  },
+  {
+    "uri": "en/32/132785425",
+    "id": "132785425",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable-based beverages",
+    "harm": {
+      "id": "0010321",
+      "title": "132785425 - Vegetable-based beverages",
+      "conceptLink": "/ec2/concept/5960899"
+    }
+  },
+  {
+    "uri": "en/32/610866",
+    "id": "610866",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable drinks",
+    "harm": {
+      "id": "0010321",
+      "title": "610866 - Vegetable drinks",
+      "conceptLink": "/ec2/concept/5960899"
+    }
+  },
+  {
+    "uri": "en/32/305367",
+    "id": "305367",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable juice",
+    "harm": {
+      "id": "0009201",
+      "title": "305367 - Vegetable juice",
+      "conceptLink": "/ec2/concept/5959880"
+    }
+  },
+  {
+    "uri": "en/32/305365",
+    "id": "305365",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable juices [beverage]",
+    "harm": {
+      "id": "0009201",
+      "title": "305365 - Vegetable juices [beverage]",
+      "conceptLink": "/ec2/concept/5959880"
+    }
+  },
+  {
+    "uri": "en/32/305366",
+    "id": "305366",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable juices [beverages]",
+    "harm": {
+      "id": "0009201",
+      "title": "305366 - Vegetable juices [beverages]",
+      "conceptLink": "/ec2/concept/5959880"
+    }
+  },
+  {
+    "uri": "en/32/41506790",
+    "id": "41506790",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vegetable smoothies",
+    "harm": {
+      "id": "0067676",
+      "title": "41506790 - Vegetable smoothies",
+      "conceptLink": "/ec2/concept/6003879"
+    }
+  },
+  {
+    "uri": "en/32/137760387",
+    "id": "137760387",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vitamin enriched sparkling water [beverages]",
+    "harm": {
+      "id": "0071887",
+      "title": "137760387 - Vitamin enriched sparkling water [beverages]",
+      "conceptLink": "/ec2/concept/6008071"
+    }
+  },
+  {
+    "uri": "en/32/137886027",
+    "id": "137886027",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Vitamin fortified non-alcoholic beverages",
+    "harm": {
+      "id": "0074115",
+      "title": "137886027 - Vitamin fortified non-alcoholic beverages",
+      "conceptLink": "/ec2/concept/6011351"
+    }
+  },
+  {
+    "uri": "en/32/446103",
+    "id": "446103",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Water",
+    "harm": {
+      "id": "0039325",
+      "title": "446103 - Water",
+      "conceptLink": "/ec2/concept/5987410"
+    }
+  },
+  {
+    "uri": "en/32/233200757",
+    "id": "233200757",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Water-based beverages containing tea extracts",
+    "harm": {
+      "id": "0072944",
+      "title": "233200757 - Water-based beverages containing tea extracts",
+      "conceptLink": "/ec2/concept/6009119"
+    }
+  },
+  {
+    "uri": "en/32/305104",
+    "id": "305104",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Water (Lithia -)",
+    "harm": {
+      "id": "0000019",
+      "title": "305104 - Water (Lithia -)",
+      "conceptLink": "/ec2/concept/5951501"
+    }
+  },
+  {
+    "uri": "en/32/305188",
+    "id": "305188",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Water (Seltzer -)",
+    "harm": {
+      "id": "0036886",
+      "title": "305188 - Water (Seltzer -)",
+      "conceptLink": "/ec2/concept/5985192"
+    }
+  },
+  {
+    "uri": "en/32/11843380",
+    "id": "11843380",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Waters",
+    "harm": {
+      "id": "0039325",
+      "title": "11843380 - Waters",
+      "conceptLink": "/ec2/concept/5987410"
+    }
+  },
+  {
+    "uri": "en/32/305039",
+    "id": "305039",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Waters [beverages]",
+    "harm": {
+      "id": "0057834",
+      "title": "305039 - Waters [beverages]",
+      "conceptLink": "/ec2/concept/5999338"
+    }
+  },
+  {
+    "uri": "en/32/305222",
+    "id": "305222",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Waters (Table -)",
+    "harm": {
+      "id": "0019601",
+      "title": "305222 - Waters (Table -)",
+      "conceptLink": "/ec2/concept/5969404"
+    }
+  },
+  {
+    "uri": "en/32/1794875",
+    "id": "1794875",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Wheat beer",
+    "harm": {
+      "id": "0050358",
+      "title": "1794875 - Wheat beer",
+      "conceptLink": "/ec2/concept/5995546"
+    }
+  },
+  {
+    "uri": "en/32/304778",
+    "id": "304778",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Whey beverages",
+    "harm": {
+      "id": "0040448",
+      "title": "304778 - Whey beverages",
+      "conceptLink": "/ec2/concept/5988441"
+    }
+  },
+  {
+    "uri": "en/33/18296470",
+    "id": "18296470",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Absinthe",
+    "harm": {
+      "id": "0067702",
+      "title": "18296470 - Absinthe",
+      "conceptLink": "/ec2/concept/6003905"
+    }
+  },
+  {
+    "uri": "en/33/136103940",
+    "id": "136103940",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Acanthopanax wine (Ogapiju)",
+    "harm": {
+      "id": "0056831",
+      "title": "136103940 - Acanthopanax wine (Ogapiju)",
+      "conceptLink": "/ec2/concept/5998108"
+    }
+  },
+  {
+    "uri": "en/33/233403578",
+    "id": "233403578",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Aguardiente [sugarcane spirits]",
+    "harm": {
+      "id": "0073579",
+      "title": "233403578 - Aguardiente [sugarcane spirits]",
+      "conceptLink": "/ec2/concept/6009751"
+    }
+  },
+  {
+    "uri": "en/33/306787",
+    "id": "306787",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcohol (Rice -)",
+    "harm": {
+      "id": "0023565",
+      "title": "306787 - Alcohol (Rice -)",
+      "conceptLink": "/ec2/concept/5973025"
+    }
+  },
+  {
+    "uri": "en/33/106308509",
+    "id": "106308509",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic aperitif bitters",
+    "harm": {
+      "id": "0067716",
+      "title": "106308509 - Alcoholic aperitif bitters",
+      "conceptLink": "/ec2/concept/6003919"
+    }
+  },
+  {
+    "uri": "en/33/306740",
+    "id": "306740",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages containing fruit",
+    "harm": {
+      "id": "0047523",
+      "title": "306740 - Alcoholic beverages containing fruit",
+      "conceptLink": "/ec2/concept/5994824"
+    }
+  },
+  {
+    "uri": "en/33/500790",
+    "id": "500790",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages (except beers)",
+    "harm": {
+      "id": "0025613",
+      "title": "500790 - Alcoholic beverages (except beers)",
+      "conceptLink": "/ec2/concept/5974907"
+    }
+  },
+  {
+    "uri": "en/33/500791",
+    "id": "500791",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages except beers",
+    "harm": {
+      "id": "0025613",
+      "title": "500791 - Alcoholic beverages except beers",
+      "conceptLink": "/ec2/concept/5974907"
+    }
+  },
+  {
+    "uri": "en/33/131113495",
+    "id": "131113495",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages (except beer)",
+    "harm": {
+      "id": "0025613",
+      "title": "131113495 - Alcoholic beverages (except beer)",
+      "conceptLink": "/ec2/concept/5974907"
+    }
+  },
+  {
+    "uri": "en/33/500793",
+    "id": "500793",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages, except beer",
+    "harm": {
+      "id": "0025613",
+      "title": "500793 - Alcoholic beverages, except beer",
+      "conceptLink": "/ec2/concept/5974907"
+    }
+  },
+  {
+    "uri": "en/33/306741",
+    "id": "306741",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic beverages of fruit",
+    "harm": {
+      "id": "0029050",
+      "title": "306741 - Alcoholic beverages of fruit",
+      "conceptLink": "/ec2/concept/5978062"
+    }
+  },
+  {
+    "uri": "en/33/446159",
+    "id": "446159",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic bitters",
+    "harm": {
+      "id": "0042586",
+      "title": "446159 - Alcoholic bitters",
+      "conceptLink": "/ec2/concept/5990391"
+    }
+  },
+  {
+    "uri": "en/33/118557038",
+    "id": "118557038",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic carbonated beverages, except beer",
+    "harm": {
+      "id": "0056573",
+      "title": "118557038 - Alcoholic carbonated beverages, except beer",
+      "conceptLink": "/ec2/concept/5997874"
+    }
+  },
+  {
+    "uri": "en/33/1411850",
+    "id": "1411850",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic cocktail mixes",
+    "harm": {
+      "id": "0067701",
+      "title": "1411850 - Alcoholic cocktail mixes",
+      "conceptLink": "/ec2/concept/6003904"
+    }
+  },
+  {
+    "uri": "en/33/119547675",
+    "id": "119547675",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic cocktails containing milk",
+    "harm": {
+      "id": "0056574",
+      "title": "119547675 - Alcoholic cocktails containing milk",
+      "conceptLink": "/ec2/concept/5997875"
+    }
+  },
+  {
+    "uri": "en/33/119547677",
+    "id": "119547677",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic cocktails in the form of chilled gelatins",
+    "harm": {
+      "id": "0056575",
+      "title": "119547677 - Alcoholic cocktails in the form of chilled gelatins",
+      "conceptLink": "/ec2/concept/5997876"
+    }
+  },
+  {
+    "uri": "en/33/47447876",
+    "id": "47447876",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic coffee-based beverage",
+    "harm": {
+      "id": "0067713",
+      "title": "47447876 - Alcoholic coffee-based beverage",
+      "conceptLink": "/ec2/concept/6003916"
+    }
+  },
+  {
+    "uri": "en/33/119547679",
+    "id": "119547679",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic cordials",
+    "harm": {
+      "id": "0026555",
+      "title": "119547679 - Alcoholic cordials",
+      "conceptLink": "/ec2/concept/5975769"
+    }
+  },
+  {
+    "uri": "en/33/119547680",
+    "id": "119547680",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic egg nog",
+    "harm": {
+      "id": "0067705",
+      "title": "119547680 - Alcoholic egg nog",
+      "conceptLink": "/ec2/concept/6003908"
+    }
+  },
+  {
+    "uri": "en/33/499412",
+    "id": "499412",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic energy drinks",
+    "harm": {
+      "id": "0016150",
+      "title": "499412 - Alcoholic energy drinks",
+      "conceptLink": "/ec2/concept/5966259"
+    }
+  },
+  {
+    "uri": "en/33/306677",
+    "id": "306677",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic essences",
+    "harm": {
+      "id": "0029283",
+      "title": "306677 - Alcoholic essences",
+      "conceptLink": "/ec2/concept/5978268"
+    }
+  },
+  {
+    "uri": "en/33/306702",
+    "id": "306702",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic extracts",
+    "harm": {
+      "id": "0029284",
+      "title": "306702 - Alcoholic extracts",
+      "conceptLink": "/ec2/concept/5978269"
+    }
+  },
+  {
+    "uri": "en/33/18359711",
+    "id": "18359711",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic fruit beverages",
+    "harm": {
+      "id": "0029050",
+      "title": "18359711 - Alcoholic fruit beverages",
+      "conceptLink": "/ec2/concept/5978062"
+    }
+  },
+  {
+    "uri": "en/33/119547684",
+    "id": "119547684",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic fruit cocktail drinks",
+    "harm": {
+      "id": "0067704",
+      "title": "119547684 - Alcoholic fruit cocktail drinks",
+      "conceptLink": "/ec2/concept/6003907"
+    }
+  },
+  {
+    "uri": "en/33/306086",
+    "id": "306086",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic fruit extracts",
+    "harm": {
+      "id": "0022129",
+      "title": "306086 - Alcoholic fruit extracts",
+      "conceptLink": "/ec2/concept/5971710"
+    }
+  },
+  {
+    "uri": "en/33/136191395",
+    "id": "136191395",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic jellies",
+    "harm": {
+      "id": "0050645",
+      "title": "136191395 - Alcoholic jellies",
+      "conceptLink": "/ec2/concept/5996011"
+    }
+  },
+  {
+    "uri": "en/33/900438",
+    "id": "900438",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic punches",
+    "harm": {
+      "id": "0033118",
+      "title": "900438 - Alcoholic punches",
+      "conceptLink": "/ec2/concept/5981765"
+    }
+  },
+  {
+    "uri": "en/33/119547690",
+    "id": "119547690",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcoholic tea-based beverage",
+    "harm": {
+      "id": "0067712",
+      "title": "119547690 - Alcoholic tea-based beverage",
+      "conceptLink": "/ec2/concept/6003915"
+    }
+  },
+  {
+    "uri": "en/33/900442",
+    "id": "900442",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Alcopops",
+    "harm": {
+      "id": "0021744",
+      "title": "900442 - Alcopops",
+      "conceptLink": "/ec2/concept/5971351"
+    }
+  },
+  {
+    "uri": "en/33/119547692",
+    "id": "119547692",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Amontillado",
+    "harm": {
+      "id": "0067715",
+      "title": "119547692 - Amontillado",
+      "conceptLink": "/ec2/concept/6003918"
+    }
+  },
+  {
+    "uri": "en/33/306154",
+    "id": "306154",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Anise [liqueur]",
+    "harm": {
+      "id": "0072426",
+      "title": "306154 - Anise [liqueur]",
+      "conceptLink": "/ec2/concept/6008607"
+    }
+  },
+  {
+    "uri": "en/33/70119178",
+    "id": "70119178",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Anisette",
+    "harm": {
+      "id": "0072425",
+      "title": "70119178 - Anisette",
+      "conceptLink": "/ec2/concept/6008606"
+    }
+  },
+  {
+    "uri": "en/33/306155",
+    "id": "306155",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Anisette [liqueur]",
+    "harm": {
+      "id": "0072425",
+      "title": "306155 - Anisette [liqueur]",
+      "conceptLink": "/ec2/concept/6008606"
+    }
+  },
+  {
+    "uri": "en/33/92020899",
+    "id": "92020899",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Aperitif wines",
+    "harm": {
+      "id": "0067710",
+      "title": "92020899 - Aperitif wines",
+      "conceptLink": "/ec2/concept/6003913"
+    }
+  },
+  {
+    "uri": "en/33/119547696",
+    "id": "119547696",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Aperitifs",
+    "harm": {
+      "id": "0013700",
+      "title": "119547696 - Aperitifs",
+      "conceptLink": "/ec2/concept/5963989"
+    }
+  },
+  {
+    "uri": "en/33/61201102",
+    "id": "61201102",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Aperitifs with a distilled alcoholic liquor base",
+    "harm": {
+      "id": "0067698",
+      "title": "61201102 - Aperitifs with a distilled alcoholic liquor base",
+      "conceptLink": "/ec2/concept/6003901"
+    }
+  },
+  {
+    "uri": "en/33/900585",
+    "id": "900585",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Arak",
+    "harm": {
+      "id": "0036849",
+      "title": "900585 - Arak",
+      "conceptLink": "/ec2/concept/5985159"
+    }
+  },
+  {
+    "uri": "en/33/306220",
+    "id": "306220",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Arak [arrack]",
+    "harm": {
+      "id": "0036849",
+      "title": "306220 - Arak [arrack]",
+      "conceptLink": "/ec2/concept/5985159"
+    }
+  },
+  {
+    "uri": "en/33/5243729",
+    "id": "5243729",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Arrack",
+    "harm": {
+      "id": "0036849",
+      "title": "5243729 - Arrack",
+      "conceptLink": "/ec2/concept/5985159"
+    }
+  },
+  {
+    "uri": "en/33/306219",
+    "id": "306219",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Arrack [arak]",
+    "harm": {
+      "id": "0036849",
+      "title": "306219 - Arrack [arak]",
+      "conceptLink": "/ec2/concept/5985159"
+    }
+  },
+  {
+    "uri": "en/33/135622766",
+    "id": "135622766",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Baijiu [Chinese distilled alcoholic beverage]",
+    "harm": {
+      "id": "0050009",
+      "title": "135622766 - Baijiu [Chinese distilled alcoholic beverage]",
+      "conceptLink": "/ec2/concept/5995419"
+    }
+  },
+  {
+    "uri": "en/33/500792",
+    "id": "500792",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Beverages (Alcoholic -), except beer",
+    "harm": {
+      "id": "0025613",
+      "title": "500792 - Beverages (Alcoholic -), except beer",
+      "conceptLink": "/ec2/concept/5974907"
+    }
+  },
+  {
+    "uri": "en/33/446174",
+    "id": "446174",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Beverages containing wine [spritzers]",
+    "harm": {
+      "id": "0022130",
+      "title": "446174 - Beverages containing wine [spritzers]",
+      "conceptLink": "/ec2/concept/5971711"
+    }
+  },
+  {
+    "uri": "en/33/306246",
+    "id": "306246",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Beverages (Distilled -)",
+    "harm": {
+      "id": "0002152",
+      "title": "306246 - Beverages (Distilled -)",
+      "conceptLink": "/ec2/concept/5953421"
+    }
+  },
+  {
+    "uri": "en/33/306127",
+    "id": "306127",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Bitters",
+    "harm": {
+      "id": "0042586",
+      "title": "306127 - Bitters",
+      "conceptLink": "/ec2/concept/5990391"
+    }
+  },
+  {
+    "uri": "en/33/131042150",
+    "id": "131042150",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Black raspberry wine (Bokbunjaju)",
+    "harm": {
+      "id": "0056577",
+      "title": "131042150 - Black raspberry wine (Bokbunjaju)",
+      "conceptLink": "/ec2/concept/5997877"
+    }
+  },
+  {
+    "uri": "en/33/119547703",
+    "id": "119547703",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Blackcurrant liqueur",
+    "harm": {
+      "id": "0056578",
+      "title": "119547703 - Blackcurrant liqueur",
+      "conceptLink": "/ec2/concept/5997878"
+    }
+  },
+  {
+    "uri": "en/33/901098",
+    "id": "901098",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Blended whisky",
+    "harm": {
+      "id": "0017437",
+      "title": "901098 - Blended whisky",
+      "conceptLink": "/ec2/concept/5967420"
+    }
+  },
+  {
+    "uri": "en/33/901188",
+    "id": "901188",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Bourbon whiskey",
+    "harm": {
+      "id": "0045536",
+      "title": "901188 - Bourbon whiskey",
+      "conceptLink": "/ec2/concept/5993089"
+    }
+  },
+  {
+    "uri": "en/33/306562",
+    "id": "306562",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Brandy",
+    "harm": {
+      "id": "0046949",
+      "title": "306562 - Brandy",
+      "conceptLink": "/ec2/concept/5994336"
+    }
+  },
+  {
+    "uri": "en/33/901374",
+    "id": "901374",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Cachaca",
+    "harm": {
+      "id": "0024116",
+      "title": "901374 - Cachaca",
+      "conceptLink": "/ec2/concept/5973535"
+    }
+  },
+  {
+    "uri": "en/33/610879",
+    "id": "610879",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Calvados",
+    "harm": {
+      "id": "0016147",
+      "title": "610879 - Calvados",
+      "conceptLink": "/ec2/concept/5966257"
+    }
+  },
+  {
+    "uri": "en/33/85077990",
+    "id": "85077990",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Cherry brandy",
+    "harm": {
+      "id": "0071740",
+      "title": "85077990 - Cherry brandy",
+      "conceptLink": "/ec2/concept/6007927"
+    }
+  },
+  {
+    "uri": "en/33/53490408",
+    "id": "53490408",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Chinese brewed liquor (laojiou)",
+    "harm": {
+      "id": "0056579",
+      "title": "53490408 - Chinese brewed liquor (laojiou)",
+      "conceptLink": "/ec2/concept/5997879"
+    }
+  },
+  {
+    "uri": "en/33/119547715",
+    "id": "119547715",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Chinese mixed liquor (wujiapie-jiou)",
+    "harm": {
+      "id": "0056580",
+      "title": "119547715 - Chinese mixed liquor (wujiapie-jiou)",
+      "conceptLink": "/ec2/concept/5997880"
+    }
+  },
+  {
+    "uri": "en/33/109106430",
+    "id": "109106430",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Chinese spirit of sorghum (gaolian-jiou)",
+    "harm": {
+      "id": "0056581",
+      "title": "109106430 - Chinese spirit of sorghum (gaolian-jiou)",
+      "conceptLink": "/ec2/concept/5997881"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/561628",
+    "id": "561628",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Infants' disposable training pants of cellulose",
+    "harm": {
+      "id": "0029427",
+      "title": "561628 - Infants' disposable training pants of cellulose",
+      "conceptLink": "/ec2/concept/5978395"
+    }
+  },
+  {
+    "uri": "en/5/561650",
+    "id": "561650",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Infants' disposable training pants of paper",
+    "harm": {
+      "id": "0041890",
+      "title": "561650 - Infants' disposable training pants of paper",
+      "conceptLink": "/ec2/concept/5989755"
+    }
+  },
+  {
+    "uri": "en/5/86755",
+    "id": "86755",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Infusions (Medicinal -)",
+    "harm": {
+      "id": "0020465",
+      "title": "86755 - Infusions (Medicinal -)",
+      "conceptLink": "/ec2/concept/5970184"
+    }
+  },
+  {
+    "uri": "en/5/119523926",
+    "id": "119523926",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Inhalant anesthetics",
+    "harm": {
+      "id": "0055503",
+      "title": "119523926 - Inhalant anesthetics",
+      "conceptLink": "/ec2/concept/5996902"
+    }
+  },
+  {
+    "uri": "en/5/667196",
+    "id": "667196",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Inhalants",
+    "harm": {
+      "id": "0021274",
+      "title": "667196 - Inhalants",
+      "conceptLink": "/ec2/concept/5970929"
+    }
+  },
+  {
+    "uri": "en/5/59531327",
+    "id": "59531327",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Inhaled pharmaceutical preparations for the treatment of respiratory diseases and disorders",
+    "harm": {
+      "id": "0055504",
+      "title": "59531327 - Inhaled pharmaceutical preparations for the treatment of respiratory diseases and disorders",
+      "conceptLink": "/ec2/concept/5996903"
+    }
+  },
+  {
+    "uri": "en/5/119523929",
+    "id": "119523929",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Injectable dermal filler",
+    "harm": {
+      "id": "0065323",
+      "title": "119523929 - Injectable dermal filler",
+      "conceptLink": "/ec2/concept/6001526"
+    }
+  },
+  {
+    "uri": "en/5/119523930",
+    "id": "119523930",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Injectable pharmaceuticals for treatment of anaphylactic reactions",
+    "harm": {
+      "id": "0065431",
+      "title": "119523930 - Injectable pharmaceuticals for treatment of anaphylactic reactions",
+      "conceptLink": "/ec2/concept/6001634"
+    }
+  },
+  {
+    "uri": "en/5/667209",
+    "id": "667209",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect attractants",
+    "harm": {
+      "id": "0021275",
+      "title": "667209 - Insect attractants",
+      "conceptLink": "/ec2/concept/5970930"
+    }
+  },
+  {
+    "uri": "en/5/119523931",
+    "id": "119523931",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect exterminating agents",
+    "harm": {
+      "id": "0046587",
+      "title": "119523931 - Insect exterminating agents",
+      "conceptLink": "/ec2/concept/5994016"
+    }
+  },
+  {
+    "uri": "en/5/73919864",
+    "id": "73919864",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect growth regulators",
+    "harm": {
+      "id": "0065430",
+      "title": "73919864 - Insect growth regulators",
+      "conceptLink": "/ec2/concept/6001633"
+    }
+  },
+  {
+    "uri": "en/5/87635",
+    "id": "87635",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repellants",
+    "harm": {
+      "id": "0046606",
+      "title": "87635 - Insect repellants",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/119523933",
+    "id": "119523933",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repellent agents",
+    "harm": {
+      "id": "0046606",
+      "title": "119523933 - Insect repellent agents",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/92999",
+    "id": "92999",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repellent incense",
+    "harm": {
+      "id": "0036088",
+      "title": "92999 - Insect repellent incense",
+      "conceptLink": "/ec2/concept/5984462"
+    }
+  },
+  {
+    "uri": "en/5/83862",
+    "id": "83862",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repellent preparations",
+    "harm": {
+      "id": "0046606",
+      "title": "83862 - Insect repellent preparations",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/119523945",
+    "id": "119523945",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect-repellents",
+    "harm": {
+      "id": "0046606",
+      "title": "119523945 - Insect-repellents",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/87637",
+    "id": "87637",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repellents",
+    "harm": {
+      "id": "0046606",
+      "title": "87637 - Insect repellents",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/83863",
+    "id": "83863",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repelling preparations",
+    "harm": {
+      "id": "0046606",
+      "title": "83863 - Insect repelling preparations",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/667224",
+    "id": "667224",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insect repelling tags",
+    "harm": {
+      "id": "0009554",
+      "title": "667224 - Insect repelling tags",
+      "conceptLink": "/ec2/concept/5960202"
+    }
+  },
+  {
+    "uri": "en/5/233488152",
+    "id": "233488152",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticidal animal shampoo",
+    "harm": {
+      "id": "0052024",
+      "title": "233488152 - Insecticidal animal shampoo",
+      "conceptLink": "/ec2/concept/6010924"
+    }
+  },
+  {
+    "uri": "en/5/83864",
+    "id": "83864",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticidal preparations",
+    "harm": {
+      "id": "0024556",
+      "title": "83864 - Insecticidal preparations",
+      "conceptLink": "/ec2/concept/5973935"
+    }
+  },
+  {
+    "uri": "en/5/233488175",
+    "id": "233488175",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticidal veterinary washes",
+    "harm": {
+      "id": "0052025",
+      "title": "233488175 - Insecticidal veterinary washes",
+      "conceptLink": "/ec2/concept/6010925"
+    }
+  },
+  {
+    "uri": "en/5/83861",
+    "id": "83861",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticides",
+    "harm": {
+      "id": "0024556",
+      "title": "83861 - Insecticides",
+      "conceptLink": "/ec2/concept/5973935"
+    }
+  },
+  {
+    "uri": "en/5/9641882",
+    "id": "9641882",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticides for agricultural use",
+    "harm": {
+      "id": "0055505",
+      "title": "9641882 - Insecticides for agricultural use",
+      "conceptLink": "/ec2/concept/5996904"
+    }
+  },
+  {
+    "uri": "en/5/9641902",
+    "id": "9641902",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insecticides for domestic use",
+    "harm": {
+      "id": "0055506",
+      "title": "9641902 - Insecticides for domestic use",
+      "conceptLink": "/ec2/concept/5996905"
+    }
+  },
+  {
+    "uri": "en/5/87589",
+    "id": "87589",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insemination (Semen for artificial -)",
+    "harm": {
+      "id": "0000950",
+      "title": "87589 - Insemination (Semen for artificial -)",
+      "conceptLink": "/ec2/concept/5952342"
+    }
+  },
+  {
+    "uri": "en/5/1910916",
+    "id": "1910916",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insulin",
+    "harm": {
+      "id": "0055507",
+      "title": "1910916 - Insulin",
+      "conceptLink": "/ec2/concept/5996906"
+    }
+  },
+  {
+    "uri": "en/5/54857884",
+    "id": "54857884",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Insulin injectors sold filled with insulin",
+    "harm": {
+      "id": "0065322",
+      "title": "54857884 - Insulin injectors sold filled with insulin",
+      "conceptLink": "/ec2/concept/6001525"
+    }
+  },
+  {
+    "uri": "en/5/119523952",
+    "id": "119523952",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Intravenous fluids used for rehydration, nutrition and the delivery of pharmaceutical preparations",
+    "harm": {
+      "id": "0060429",
+      "title": "119523952 - Intravenous fluids used for rehydration, nutrition and the delivery of pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5998402"
+    }
+  },
+  {
+    "uri": "en/5/92119",
+    "id": "92119",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Iodides for pharmaceutical purposes",
+    "harm": {
+      "id": "0029438",
+      "title": "92119 - Iodides for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5978405"
+    }
+  },
+  {
+    "uri": "en/5/383584",
+    "id": "383584",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Iodine",
+    "harm": {
+      "id": "0045421",
+      "title": "383584 - Iodine",
+      "conceptLink": "/ec2/concept/5992987"
+    }
+  },
+  {
+    "uri": "en/5/92097",
+    "id": "92097",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Iodine for pharmaceutical purposes",
+    "harm": {
+      "id": "0012122",
+      "title": "92097 - Iodine for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5962559"
+    }
+  },
+  {
+    "uri": "en/5/87714",
+    "id": "87714",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Iodoform",
+    "harm": {
+      "id": "0009204",
+      "title": "87714 - Iodoform",
+      "conceptLink": "/ec2/concept/5959883"
+    }
+  },
+  {
+    "uri": "en/5/87738",
+    "id": "87738",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Irish moss for medical purposes",
+    "harm": {
+      "id": "0043872",
+      "title": "87738 - Irish moss for medical purposes",
+      "conceptLink": "/ec2/concept/5991563"
+    }
+  },
+  {
+    "uri": "en/5/119523958",
+    "id": "119523958",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Isopropyl alcohol for medical use",
+    "harm": {
+      "id": "0065428",
+      "title": "119523958 - Isopropyl alcohol for medical use",
+      "conceptLink": "/ec2/concept/6001631"
+    }
+  },
+  {
+    "uri": "en/5/92162",
+    "id": "92162",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Isotopes for medical purposes",
+    "harm": {
+      "id": "0041016",
+      "title": "92162 - Isotopes for medical purposes",
+      "conceptLink": "/ec2/concept/5988957"
+    }
+  },
+  {
+    "uri": "en/5/87764",
+    "id": "87764",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Jalap",
+    "harm": {
+      "id": "0032309",
+      "title": "87764 - Jalap",
+      "conceptLink": "/ec2/concept/5981023"
+    }
+  },
+  {
+    "uri": "en/5/91928",
+    "id": "91928",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Jelly (Petroleum -) for medical purposes",
+    "harm": {
+      "id": "0012118",
+      "title": "91928 - Jelly (Petroleum -) for medical purposes",
+      "conceptLink": "/ec2/concept/5962555"
+    }
+  },
+  {
+    "uri": "en/5/87787",
+    "id": "87787",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Jujube, medicated",
+    "harm": {
+      "id": "0009205",
+      "title": "87787 - Jujube, medicated",
+      "conceptLink": "/ec2/concept/5959884"
+    }
+  },
+  {
+    "uri": "en/5/88244",
+    "id": "88244",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Knickers for sanitary purposes",
+    "harm": {
+      "id": "0058490",
+      "title": "88244 - Knickers for sanitary purposes",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/88240",
+    "id": "88240",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Knickers (Menstruation -)",
+    "harm": {
+      "id": "0058490",
+      "title": "88240 - Knickers (Menstruation -)",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/88242",
+    "id": "88242",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Knickers (Sanitary -)",
+    "harm": {
+      "id": "0058490",
+      "title": "88242 - Knickers (Sanitary -)",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/667237",
+    "id": "667237",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Kretek (clove) cigarettes for medical use",
+    "harm": {
+      "id": "0015406",
+      "title": "667237 - Kretek (clove) cigarettes for medical use",
+      "conceptLink": "/ec2/concept/5965561"
+    }
+  },
+  {
+    "uri": "en/5/85771",
+    "id": "85771",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lacquer (Dental -)",
+    "harm": {
+      "id": "0007177",
+      "title": "85771 - Lacquer (Dental -)",
+      "conceptLink": "/ec2/concept/5958021"
+    }
+  },
+  {
+    "uri": "en/5/119523962",
+    "id": "119523962",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lactagogues",
+    "harm": {
+      "id": "0055508",
+      "title": "119523962 - Lactagogues",
+      "conceptLink": "/ec2/concept/5996907"
+    }
+  },
+  {
+    "uri": "en/5/86668",
+    "id": "86668",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lacteal flour for babies",
+    "harm": {
+      "id": "0058537",
+      "title": "86668 - Lacteal flour for babies",
+      "conceptLink": "/ec2/concept/6000035"
+    }
+  },
+  {
+    "uri": "en/5/88004",
+    "id": "88004",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lactose for pharmaceutical purposes",
+    "harm": {
+      "id": "0037360",
+      "title": "88004 - Lactose for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5985618"
+    }
+  },
+  {
+    "uri": "en/5/667250",
+    "id": "667250",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lactose free infant's formula",
+    "harm": {
+      "id": "0031778",
+      "title": "667250 - Lactose free infant's formula",
+      "conceptLink": "/ec2/concept/5980539"
+    }
+  },
+  {
+    "uri": "en/5/88038",
+    "id": "88038",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Larvae exterminating preparations",
+    "harm": {
+      "id": "0002668",
+      "title": "88038 - Larvae exterminating preparations",
+      "conceptLink": "/ec2/concept/5953888"
+    }
+  },
+  {
+    "uri": "en/5/667262",
+    "id": "667262",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Larvae inhibiting preparations",
+    "harm": {
+      "id": "0008625",
+      "title": "667262 - Larvae inhibiting preparations",
+      "conceptLink": "/ec2/concept/5959340"
+    }
+  },
+  {
+    "uri": "en/5/667273",
+    "id": "667273",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Larvicides",
+    "harm": {
+      "id": "0014474",
+      "title": "667273 - Larvicides",
+      "conceptLink": "/ec2/concept/5964712"
+    }
+  },
+  {
+    "uri": "en/5/87040",
+    "id": "87040",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Laxatives",
+    "harm": {
+      "id": "0058817",
+      "title": "87040 - Laxatives",
+      "conceptLink": "/ec2/concept/6000308"
+    }
+  },
+  {
+    "uri": "en/5/83817",
+    "id": "83817",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lead water",
+    "harm": {
+      "id": "0001406",
+      "title": "83817 - Lead water",
+      "conceptLink": "/ec2/concept/5952753"
+    }
+  },
+  {
+    "uri": "en/5/909659",
+    "id": "909659",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lecithin dietary supplements",
+    "harm": {
+      "id": "0036332",
+      "title": "909659 - Lecithin dietary supplements",
+      "conceptLink": "/ec2/concept/5984686"
+    }
+  },
+  {
+    "uri": "en/5/91318",
+    "id": "91318",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lecithin for medical purposes",
+    "harm": {
+      "id": "0030300",
+      "title": "91318 - Lecithin for medical purposes",
+      "conceptLink": "/ec2/concept/5979201"
+    }
+  },
+  {
+    "uri": "en/5/90124",
+    "id": "90124",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Leeches for medical purposes",
+    "harm": {
+      "id": "0008157",
+      "title": "90124 - Leeches for medical purposes",
+      "conceptLink": "/ec2/concept/5958921"
+    }
+  },
+  {
+    "uri": "en/5/383599",
+    "id": "383599",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lice treatment preparations",
+    "harm": {
+      "id": "0014941",
+      "title": "383599 - Lice treatment preparations",
+      "conceptLink": "/ec2/concept/5965136"
+    }
+  },
+  {
+    "uri": "en/5/233488106",
+    "id": "233488106",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lice treatment preparations [pediculicides]",
+    "harm": {
+      "id": "0014941",
+      "title": "233488106 - Lice treatment preparations [pediculicides]",
+      "conceptLink": "/ec2/concept/5965136"
+    }
+  },
+  {
+    "uri": "en/5/138296484",
+    "id": "138296484",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lime-based pharmaceutical preparations",
+    "harm": {
+      "id": "0037007",
+      "title": "138296484 - Lime-based pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5985304"
+    }
+  },
+  {
+    "uri": "en/5/84389",
+    "id": "84389",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lime (Preparations of -) for pharmaceutical purposes",
+    "harm": {
+      "id": "0037007",
+      "title": "84389 - Lime (Preparations of -) for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5985304"
+    }
+  },
+  {
+    "uri": "en/5/88101",
+    "id": "88101",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liniments",
+    "harm": {
+      "id": "0020057",
+      "title": "88101 - Liniments",
+      "conceptLink": "/ec2/concept/5969812"
+    }
+  },
+  {
+    "uri": "en/5/120911793",
+    "id": "120911793",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lining materials for dental use",
+    "harm": {
+      "id": "0055509",
+      "title": "120911793 - Lining materials for dental use",
+      "conceptLink": "/ec2/concept/5996908"
+    }
+  },
+  {
+    "uri": "en/5/119523973",
+    "id": "119523973",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lining materials for dental purposes",
+    "harm": {
+      "id": "0055509",
+      "title": "119523973 - Lining materials for dental purposes",
+      "conceptLink": "/ec2/concept/5996908"
+    }
+  },
+  {
+    "uri": "en/5/909461",
+    "id": "909461",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Linseed dietary supplements",
+    "harm": {
+      "id": "0008774",
+      "title": "909461 - Linseed dietary supplements",
+      "conceptLink": "/ec2/concept/5959477"
+    }
+  },
+  {
+    "uri": "en/5/87189",
+    "id": "87189",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Linseed for pharmaceutical purposes",
+    "harm": {
+      "id": "0019996",
+      "title": "87189 - Linseed for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5969757"
+    }
+  },
+  {
+    "uri": "en/5/87944",
+    "id": "87944",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Linseed meal for pharmaceutical purposes",
+    "harm": {
+      "id": "0014225",
+      "title": "87944 - Linseed meal for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5964479"
+    }
+  },
+  {
+    "uri": "en/5/909487",
+    "id": "909487",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Linseed oil dietary supplements",
+    "harm": {
+      "id": "0008775",
+      "title": "909487 - Linseed oil dietary supplements",
+      "conceptLink": "/ec2/concept/5959478"
+    }
+  },
+  {
+    "uri": "en/5/84368",
+    "id": "84368",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lint for medical purposes",
+    "harm": {
+      "id": "0013866",
+      "title": "84368 - Lint for medical purposes",
+      "conceptLink": "/ec2/concept/5964145"
+    }
+  },
+  {
+    "uri": "en/5/119523977",
+    "id": "119523977",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lipotropic factor preparations",
+    "harm": {
+      "id": "0055510",
+      "title": "119523977 - Lipotropic factor preparations",
+      "conceptLink": "/ec2/concept/5996909"
+    }
+  },
+  {
+    "uri": "en/5/119523978",
+    "id": "119523978",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liquid antipruritic",
+    "harm": {
+      "id": "0055511",
+      "title": "119523978 - Liquid antipruritic",
+      "conceptLink": "/ec2/concept/5996910"
+    }
+  },
+  {
+    "uri": "en/5/119676624",
+    "id": "119676624",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liquid antipruritics",
+    "harm": {
+      "id": "0055511",
+      "title": "119676624 - Liquid antipruritics",
+      "conceptLink": "/ec2/concept/5996910"
+    }
+  },
+  {
+    "uri": "en/5/131053536",
+    "id": "131053536",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liquid herbal supplements",
+    "harm": {
+      "id": "0070664",
+      "title": "131053536 - Liquid herbal supplements",
+      "conceptLink": "/ec2/concept/6006856"
+    }
+  },
+  {
+    "uri": "en/5/42590160",
+    "id": "42590160",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liquid vitamin supplements",
+    "harm": {
+      "id": "0070665",
+      "title": "42590160 - Liquid vitamin supplements",
+      "conceptLink": "/ec2/concept/6006857"
+    }
+  },
+  {
+    "uri": "en/5/87814",
+    "id": "87814",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Liquorice for pharmaceutical purposes",
+    "harm": {
+      "id": "0071837",
+      "title": "87814 - Liquorice for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/6008023"
+    }
+  },
+  {
+    "uri": "en/5/120918826",
+    "id": "120918826",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Live organs and tissues for surgical purpose",
+    "harm": {
+      "id": "0047669",
+      "title": "120918826 - Live organs and tissues for surgical purpose",
+      "conceptLink": "/ec2/concept/5994944"
+    }
+  },
+  {
+    "uri": "en/5/120868434",
+    "id": "120868434",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Living cells for medical use",
+    "harm": {
+      "id": "0065299",
+      "title": "120868434 - Living cells for medical use",
+      "conceptLink": "/ec2/concept/6001502"
+    }
+  },
+  {
+    "uri": "en/5/120868430",
+    "id": "120868430",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Living cells for veterinary use",
+    "harm": {
+      "id": "0065298",
+      "title": "120868430 - Living cells for veterinary use",
+      "conceptLink": "/ec2/concept/6001501"
+    }
+  },
+  {
+    "uri": "en/5/667288",
+    "id": "667288",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Local anaesthetics",
+    "harm": {
+      "id": "0008626",
+      "title": "667288 - Local anaesthetics",
+      "conceptLink": "/ec2/concept/5959341"
+    }
+  },
+  {
+    "uri": "en/5/29666622",
+    "id": "29666622",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Local anesthetics",
+    "harm": {
+      "id": "0008626",
+      "title": "29666622 - Local anesthetics",
+      "conceptLink": "/ec2/concept/5959341"
+    }
+  },
+  {
+    "uri": "en/5/87976",
+    "id": "87976",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lotions for pharmaceutical purposes",
+    "harm": {
+      "id": "0043109",
+      "title": "87976 - Lotions for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5990860"
+    }
+  },
+  {
+    "uri": "en/5/88866",
+    "id": "88866",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lotions for veterinary purposes",
+    "harm": {
+      "id": "0042982",
+      "title": "88866 - Lotions for veterinary purposes",
+      "conceptLink": "/ec2/concept/5990746"
+    }
+  },
+  {
+    "uri": "en/5/92620",
+    "id": "92620",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lotions (Tissues impregnated with pharmaceutical -)",
+    "harm": {
+      "id": "0042855",
+      "title": "92620 - Lotions (Tissues impregnated with pharmaceutical -)",
+      "conceptLink": "/ec2/concept/5990629"
+    }
+  },
+  {
+    "uri": "en/5/119523984",
+    "id": "119523984",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Low-salt bread adapted for medical use",
+    "harm": {
+      "id": "0070666",
+      "title": "119523984 - Low-salt bread adapted for medical use",
+      "conceptLink": "/ec2/concept/6006858"
+    }
+  },
+  {
+    "uri": "en/5/88693",
+    "id": "88693",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lozenges for pharmaceutical purposes",
+    "harm": {
+      "id": "0059287",
+      "title": "88693 - Lozenges for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/6000771"
+    }
+  },
+  {
+    "uri": "en/5/120912269",
+    "id": "120912269",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lubricant gels for personal use",
+    "harm": {
+      "id": "0065438",
+      "title": "120912269 - Lubricant gels for personal use",
+      "conceptLink": "/ec2/concept/6001641"
+    }
+  },
+  {
+    "uri": "en/5/667305",
+    "id": "667305",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lubricants for medical use",
+    "harm": {
+      "id": "0008627",
+      "title": "667305 - Lubricants for medical use",
+      "conceptLink": "/ec2/concept/5959342"
+    }
+  },
+  {
+    "uri": "en/5/667321",
+    "id": "667321",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lubricants for surgical purposes",
+    "harm": {
+      "id": "0037583",
+      "title": "667321 - Lubricants for surgical purposes",
+      "conceptLink": "/ec2/concept/5985818"
+    }
+  },
+  {
+    "uri": "en/5/667335",
+    "id": "667335",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lubricating agents for medical use",
+    "harm": {
+      "id": "0008627",
+      "title": "667335 - Lubricating agents for medical use",
+      "conceptLink": "/ec2/concept/5959342"
+    }
+  },
+  {
+    "uri": "en/5/88124",
+    "id": "88124",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lupulin for pharmaceutical purposes",
+    "harm": {
+      "id": "0043111",
+      "title": "88124 - Lupulin for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5990862"
+    }
+  },
+  {
+    "uri": "en/5/233487915",
+    "id": "233487915",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lyophilised food adapted for medical purposes",
+    "harm": {
+      "id": "0052017",
+      "title": "233487915 - Lyophilised food adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010917"
+    }
+  },
+  {
+    "uri": "en/5/233488004",
+    "id": "233488004",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lyophilised meat adapted for medical purposes",
+    "harm": {
+      "id": "0052020",
+      "title": "233488004 - Lyophilised meat adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010920"
+    }
+  },
+  {
+    "uri": "en/5/233487914",
+    "id": "233487914",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lyophilized food adapted for medical purposes",
+    "harm": {
+      "id": "0052017",
+      "title": "233487914 - Lyophilized food adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010917"
+    }
+  },
+  {
+    "uri": "en/5/233488003",
+    "id": "233488003",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lyophilized meat adapted for medical purposes",
+    "harm": {
+      "id": "0052020",
+      "title": "233488003 - Lyophilized meat adapted for medical purposes",
+      "conceptLink": "/ec2/concept/6010920"
+    }
+  },
+  {
+    "uri": "en/5/98874923",
+    "id": "98874923",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Lysine preparations",
+    "harm": {
+      "id": "0055512",
+      "title": "98874923 - Lysine preparations",
+      "conceptLink": "/ec2/concept/5996911"
+    }
+  },
+  {
+    "uri": "en/5/86177",
+    "id": "86177",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Magnesia for pharmaceutical purposes",
+    "harm": {
+      "id": "0014423",
+      "title": "86177 - Magnesia for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5964667"
+    }
+  },
+  {
+    "uri": "en/5/667351",
+    "id": "667351",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Magnesium hydroxide for medicinal use",
+    "harm": {
+      "id": "0014476",
+      "title": "667351 - Magnesium hydroxide for medicinal use",
+      "conceptLink": "/ec2/concept/5964713"
+    }
+  },
+  {
+    "uri": "en/5/667364",
+    "id": "667364",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Magnesium oxide for medical use",
+    "harm": {
+      "id": "0008628",
+      "title": "667364 - Magnesium oxide for medical use",
+      "conceptLink": "/ec2/concept/5959343"
+    }
+  },
+  {
+    "uri": "en/5/667377",
+    "id": "667377",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Magnesium salts for pharmaceutical use",
+    "harm": {
+      "id": "0031779",
+      "title": "667377 - Magnesium salts for pharmaceutical use",
+      "conceptLink": "/ec2/concept/5980540"
+    }
+  },
+  {
+    "uri": "en/5/667390",
+    "id": "667390",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Magnesium sulphate for pharmaceutical use",
+    "harm": {
+      "id": "0002911",
+      "title": "667390 - Magnesium sulphate for pharmaceutical use",
+      "conceptLink": "/ec2/concept/5954108"
+    }
+  },
+  {
+    "uri": "en/5/667403",
+    "id": "667403",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Malt albumin for pharmaceutical use",
+    "harm": {
+      "id": "0008629",
+      "title": "667403 - Malt albumin for pharmaceutical use",
+      "conceptLink": "/ec2/concept/5959344"
+    }
+  }
+]

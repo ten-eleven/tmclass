@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/29/119545316",
+    "id": "119545316",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavored nuts",
+    "harm": {
+      "id": "0070022",
+      "title": "119545316 - Flavored nuts",
+      "conceptLink": "/ec2/concept/6006224"
+    }
+  },
+  {
+    "uri": "en/29/4231426",
+    "id": "4231426",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured edible oils",
+    "harm": {
+      "id": "0073482",
+      "title": "4231426 - Flavoured edible oils",
+      "conceptLink": "/ec2/concept/6009655"
+    }
+  },
+  {
+    "uri": "en/29/438570",
+    "id": "438570",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured milk",
+    "harm": {
+      "id": "0002772",
+      "title": "438570 - Flavoured milk",
+      "conceptLink": "/ec2/concept/5953983"
+    }
+  },
+  {
+    "uri": "en/29/776402",
+    "id": "776402",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured milk beverages",
+    "harm": {
+      "id": "0005883",
+      "title": "776402 - Flavoured milk beverages",
+      "conceptLink": "/ec2/concept/5956837"
+    }
+  },
+  {
+    "uri": "en/29/776403",
+    "id": "776403",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured milk drinks",
+    "harm": {
+      "id": "0005883",
+      "title": "776403 - Flavoured milk drinks",
+      "conceptLink": "/ec2/concept/5956837"
+    }
+  },
+  {
+    "uri": "en/29/438591",
+    "id": "438591",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured milk powder for making drinks",
+    "harm": {
+      "id": "0002773",
+      "title": "438591 - Flavoured milk powder for making drinks",
+      "conceptLink": "/ec2/concept/5953984"
+    }
+  },
+  {
+    "uri": "en/29/4207266",
+    "id": "4207266",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured nuts",
+    "harm": {
+      "id": "0070022",
+      "title": "4207266 - Flavoured nuts",
+      "conceptLink": "/ec2/concept/6006224"
+    }
+  },
+  {
+    "uri": "en/29/12635875",
+    "id": "12635875",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured oils",
+    "harm": {
+      "id": "0073482",
+      "title": "12635875 - Flavoured oils",
+      "conceptLink": "/ec2/concept/6009655"
+    }
+  },
+  {
+    "uri": "en/29/776418",
+    "id": "776418",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flavoured yoghurts",
+    "harm": {
+      "id": "0028945",
+      "title": "776418 - Flavoured yoghurts",
+      "conceptLink": "/ec2/concept/5977965"
+    }
+  },
+  {
+    "uri": "en/29/911244",
+    "id": "911244",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Flaxseed oil for culinary purposes",
+    "harm": {
+      "id": "0038318",
+      "title": "911244 - Flaxseed oil for culinary purposes",
+      "conceptLink": "/ec2/concept/5986495"
+    }
+  },
+  {
+    "uri": "en/29/903846",
+    "id": "903846",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Foie gras",
+    "harm": {
+      "id": "0014613",
+      "title": "903846 - Foie gras",
+      "conceptLink": "/ec2/concept/5964841"
+    }
+  },
+  {
+    "uri": "en/29/438919",
+    "id": "438919",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Food pastes made from meat",
+    "harm": {
+      "id": "0011624",
+      "title": "438919 - Food pastes made from meat",
+      "conceptLink": "/ec2/concept/5962092"
+    }
+  },
+  {
+    "uri": "en/29/233200752",
+    "id": "233200752",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Food preparations predominantly of milk",
+    "harm": {
+      "id": "0035972",
+      "title": "233200752 - Food preparations predominantly of milk",
+      "conceptLink": "/ec2/concept/5984356"
+    }
+  },
+  {
+    "uri": "en/29/291295",
+    "id": "291295",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Food products made from fish",
+    "harm": {
+      "id": "0028946",
+      "title": "291295 - Food products made from fish",
+      "conceptLink": "/ec2/concept/5977966"
+    }
+  },
+  {
+    "uri": "en/29/9774560",
+    "id": "9774560",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Foods made from fish",
+    "harm": {
+      "id": "0028946",
+      "title": "9774560 - Foods made from fish",
+      "conceptLink": "/ec2/concept/5977966"
+    }
+  },
+  {
+    "uri": "en/29/913914",
+    "id": "913914",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Foods prepared from fish",
+    "harm": {
+      "id": "0028946",
+      "title": "913914 - Foods prepared from fish",
+      "conceptLink": "/ec2/concept/5977966"
+    }
+  },
+  {
+    "uri": "en/29/438624",
+    "id": "438624",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frankfurters",
+    "harm": {
+      "id": "0024738",
+      "title": "438624 - Frankfurters",
+      "conceptLink": "/ec2/concept/5974110"
+    }
+  },
+  {
+    "uri": "en/29/233618721",
+    "id": "233618721",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Freeze-dried meat",
+    "harm": {
+      "id": "0052140",
+      "title": "233618721 - Freeze-dried meat",
+      "conceptLink": "/ec2/concept/6011040"
+    }
+  },
+  {
+    "uri": "en/29/119545323",
+    "id": "119545323",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Freeze-dried tofu pieces (kohri-dofu)",
+    "harm": {
+      "id": "0056390",
+      "title": "119545323 - Freeze-dried tofu pieces (kohri-dofu)",
+      "conceptLink": "/ec2/concept/5997709"
+    }
+  },
+  {
+    "uri": "en/29/132685592",
+    "id": "132685592",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Freeze-dried vegetables",
+    "harm": {
+      "id": "0052143",
+      "title": "132685592 - Freeze-dried vegetables",
+      "conceptLink": "/ec2/concept/6011043"
+    }
+  },
+  {
+    "uri": "en/29/288063",
+    "id": "288063",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "French fries",
+    "harm": {
+      "id": "0046675",
+      "title": "288063 - French fries",
+      "conceptLink": "/ec2/concept/5994096"
+    }
+  },
+  {
+    "uri": "en/29/776431",
+    "id": "776431",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fresh meat",
+    "harm": {
+      "id": "0017412",
+      "title": "776431 - Fresh meat",
+      "conceptLink": "/ec2/concept/5967395"
+    }
+  },
+  {
+    "uri": "en/29/776447",
+    "id": "776447",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fresh poultry",
+    "harm": {
+      "id": "0011625",
+      "title": "776447 - Fresh poultry",
+      "conceptLink": "/ec2/concept/5962093"
+    }
+  },
+  {
+    "uri": "en/29/358930",
+    "id": "358930",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fresh unripened cheeses",
+    "harm": {
+      "id": "0038762",
+      "title": "358930 - Fresh unripened cheeses",
+      "conceptLink": "/ec2/concept/5986901"
+    }
+  },
+  {
+    "uri": "en/29/776467",
+    "id": "776467",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fried chicken",
+    "harm": {
+      "id": "0028947",
+      "title": "776467 - Fried chicken",
+      "conceptLink": "/ec2/concept/5977967"
+    }
+  },
+  {
+    "uri": "en/29/119545331",
+    "id": "119545331",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fried meat",
+    "harm": {
+      "id": "0056391",
+      "title": "119545331 - Fried meat",
+      "conceptLink": "/ec2/concept/5997710"
+    }
+  },
+  {
+    "uri": "en/29/120862236",
+    "id": "120862236",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fried platano",
+    "harm": {
+      "id": "0067489",
+      "title": "120862236 - Fried platano",
+      "conceptLink": "/ec2/concept/6003692"
+    }
+  },
+  {
+    "uri": "en/29/5549433",
+    "id": "5549433",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fried potatoes",
+    "harm": {
+      "id": "0046675",
+      "title": "5549433 - Fried potatoes",
+      "conceptLink": "/ec2/concept/5994096"
+    }
+  },
+  {
+    "uri": "en/29/119545334",
+    "id": "119545334",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fried tofu pieces (abura-age)",
+    "harm": {
+      "id": "0056393",
+      "title": "119545334 - Fried tofu pieces (abura-age)",
+      "conceptLink": "/ec2/concept/5997711"
+    }
+  },
+  {
+    "uri": "en/29/776480",
+    "id": "776480",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fritters",
+    "harm": {
+      "id": "0028948",
+      "title": "776480 - Fritters",
+      "conceptLink": "/ec2/concept/5977968"
+    }
+  },
+  {
+    "uri": "en/29/438649",
+    "id": "438649",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fromage frais",
+    "harm": {
+      "id": "0009469",
+      "title": "438649 - Fromage frais",
+      "conceptLink": "/ec2/concept/5960127"
+    }
+  },
+  {
+    "uri": "en/29/288418",
+    "id": "288418",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frosted fruits",
+    "harm": {
+      "id": "0057101",
+      "title": "288418 - Frosted fruits",
+      "conceptLink": "/ec2/concept/5998728"
+    }
+  },
+  {
+    "uri": "en/29/120896263",
+    "id": "120896263",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen appetizers consisting primarily of chicken",
+    "harm": {
+      "id": "0067461",
+      "title": "120896263 - Frozen appetizers consisting primarily of chicken",
+      "conceptLink": "/ec2/concept/6003664"
+    }
+  },
+  {
+    "uri": "en/29/120896272",
+    "id": "120896272",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen appetizers consisting primarily of seafood",
+    "harm": {
+      "id": "0067460",
+      "title": "120896272 - Frozen appetizers consisting primarily of seafood",
+      "conceptLink": "/ec2/concept/6003663"
+    }
+  },
+  {
+    "uri": "en/29/136010971",
+    "id": "136010971",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen bamboo shoots",
+    "harm": {
+      "id": "0050270",
+      "title": "136010971 - Frozen bamboo shoots",
+      "conceptLink": "/ec2/concept/5995501"
+    }
+  },
+  {
+    "uri": "en/29/136010972",
+    "id": "136010972",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen brackens (Gosari)",
+    "harm": {
+      "id": "0050271",
+      "title": "136010972 - Frozen brackens (Gosari)",
+      "conceptLink": "/ec2/concept/5995502"
+    }
+  },
+  {
+    "uri": "en/29/136010973",
+    "id": "136010973",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen celery cabbages",
+    "harm": {
+      "id": "0050272",
+      "title": "136010973 - Frozen celery cabbages",
+      "conceptLink": "/ec2/concept/5995503"
+    }
+  },
+  {
+    "uri": "en/29/776495",
+    "id": "776495",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen chips",
+    "harm": {
+      "id": "0023239",
+      "title": "776495 - Frozen chips",
+      "conceptLink": "/ec2/concept/5972718"
+    }
+  },
+  {
+    "uri": "en/29/776515",
+    "id": "776515",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen cooked fish",
+    "harm": {
+      "id": "0004538",
+      "title": "776515 - Frozen cooked fish",
+      "conceptLink": "/ec2/concept/5955607"
+    }
+  },
+  {
+    "uri": "en/29/117105791",
+    "id": "117105791",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen eggs",
+    "harm": {
+      "id": "0056394",
+      "title": "117105791 - Frozen eggs",
+      "conceptLink": "/ec2/concept/5997712"
+    }
+  },
+  {
+    "uri": "en/29/776531",
+    "id": "776531",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen fish",
+    "harm": {
+      "id": "0044892",
+      "title": "776531 - Frozen fish",
+      "conceptLink": "/ec2/concept/5992501"
+    }
+  },
+  {
+    "uri": "en/29/776496",
+    "id": "776496",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen french fries",
+    "harm": {
+      "id": "0023239",
+      "title": "776496 - Frozen french fries",
+      "conceptLink": "/ec2/concept/5972718"
+    }
+  },
+  {
+    "uri": "en/29/136010047",
+    "id": "136010047",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen frog legs",
+    "harm": {
+      "id": "0073941",
+      "title": "136010047 - Frozen frog legs",
+      "conceptLink": "/ec2/concept/6010890"
+    }
+  },
+  {
+    "uri": "en/29/288417",
+    "id": "288417",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen fruits",
+    "harm": {
+      "id": "0047515",
+      "title": "288417 - Frozen fruits",
+      "conceptLink": "/ec2/concept/5994817"
+    }
+  },
+  {
+    "uri": "en/29/776551",
+    "id": "776551",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen meat",
+    "harm": {
+      "id": "0039172",
+      "title": "776551 - Frozen meat",
+      "conceptLink": "/ec2/concept/5987268"
+    }
+  },
+  {
+    "uri": "en/29/776564",
+    "id": "776564",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen meat products",
+    "harm": {
+      "id": "0021989",
+      "title": "776564 - Frozen meat products",
+      "conceptLink": "/ec2/concept/5971582"
+    }
+  },
+  {
+    "uri": "en/29/119545339",
+    "id": "119545339",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen pre-packaged entrees consisting primarily of seafood",
+    "harm": {
+      "id": "0067519",
+      "title": "119545339 - Frozen pre-packaged entrees consisting primarily of seafood",
+      "conceptLink": "/ec2/concept/6003722"
+    }
+  },
+  {
+    "uri": "en/29/776577",
+    "id": "776577",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen prepared meals consisting principally of vegetables",
+    "harm": {
+      "id": "0039173",
+      "title": "776577 - Frozen prepared meals consisting principally of vegetables",
+      "conceptLink": "/ec2/concept/5987269"
+    }
+  },
+  {
+    "uri": "en/29/46160019",
+    "id": "46160019",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen shellfish",
+    "harm": {
+      "id": "0056818",
+      "title": "46160019 - Frozen shellfish",
+      "conceptLink": "/ec2/concept/5998096"
+    }
+  },
+  {
+    "uri": "en/29/120896599",
+    "id": "120896599",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen spinach",
+    "harm": {
+      "id": "0067444",
+      "title": "120896599 - Frozen spinach",
+      "conceptLink": "/ec2/concept/6003647"
+    }
+  },
+  {
+    "uri": "en/29/358946",
+    "id": "358946",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Frozen vegetables",
+    "harm": {
+      "id": "0004141",
+      "title": "358946 - Frozen vegetables",
+      "conceptLink": "/ec2/concept/5955234"
+    }
+  },
+  {
+    "uri": "en/29/119545369",
+    "id": "119545369",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit-based fillings for cobblers",
+    "harm": {
+      "id": "0067433",
+      "title": "119545369 - Fruit-based fillings for cobblers",
+      "conceptLink": "/ec2/concept/6003636"
+    }
+  },
+  {
+    "uri": "en/29/120813382",
+    "id": "120813382",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit-based fillings for cakes and pies",
+    "harm": {
+      "id": "0071278",
+      "title": "120813382 - Fruit-based fillings for cakes and pies",
+      "conceptLink": "/ec2/concept/6007470"
+    }
+  },
+  {
+    "uri": "en/29/506141",
+    "id": "506141",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit-based snack food",
+    "harm": {
+      "id": "0024730",
+      "title": "506141 - Fruit-based snack food",
+      "conceptLink": "/ec2/concept/5974102"
+    }
+  },
+  {
+    "uri": "en/29/136312869",
+    "id": "136312869",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit based snack foods",
+    "harm": {
+      "id": "0024730",
+      "title": "136312869 - Fruit based snack foods",
+      "conceptLink": "/ec2/concept/5974102"
+    }
+  },
+  {
+    "uri": "en/29/291321",
+    "id": "291321",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit chips",
+    "harm": {
+      "id": "0018653",
+      "title": "291321 - Fruit chips",
+      "conceptLink": "/ec2/concept/5968535"
+    }
+  },
+  {
+    "uri": "en/29/287919",
+    "id": "287919",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit conserves",
+    "harm": {
+      "id": "0057127",
+      "title": "287919 - Fruit conserves",
+      "conceptLink": "/ec2/concept/5998749"
+    }
+  },
+  {
+    "uri": "en/29/776589",
+    "id": "776589",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit desserts",
+    "harm": {
+      "id": "0016068",
+      "title": "776589 - Fruit desserts",
+      "conceptLink": "/ec2/concept/5966184"
+    }
+  },
+  {
+    "uri": "en/29/776604",
+    "id": "776604",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit flavoured yoghurts",
+    "harm": {
+      "id": "0010245",
+      "title": "776604 - Fruit flavoured yoghurts",
+      "conceptLink": "/ec2/concept/5960828"
+    }
+  },
+  {
+    "uri": "en/29/776620",
+    "id": "776620",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit jams",
+    "harm": {
+      "id": "0039174",
+      "title": "776620 - Fruit jams",
+      "conceptLink": "/ec2/concept/5987270"
+    }
+  },
+  {
+    "uri": "en/29/289092",
+    "id": "289092",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit jellies",
+    "harm": {
+      "id": "0025973",
+      "title": "289092 - Fruit jellies",
+      "conceptLink": "/ec2/concept/5975238"
+    }
+  },
+  {
+    "uri": "en/29/119545349",
+    "id": "119545349",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit jellies [not being confectionery]",
+    "harm": {
+      "id": "0025973",
+      "title": "119545349 - Fruit jellies [not being confectionery]",
+      "conceptLink": "/ec2/concept/5975238"
+    }
+  },
+  {
+    "uri": "en/29/903929",
+    "id": "903929",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit juices for cooking",
+    "harm": {
+      "id": "0010373",
+      "title": "903929 - Fruit juices for cooking",
+      "conceptLink": "/ec2/concept/5960947"
+    }
+  },
+  {
+    "uri": "en/29/5549593",
+    "id": "5549593",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit leathers",
+    "harm": {
+      "id": "0071275",
+      "title": "5549593 - Fruit leathers",
+      "conceptLink": "/ec2/concept/6007467"
+    }
+  },
+  {
+    "uri": "en/29/776621",
+    "id": "776621",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit marmalade",
+    "harm": {
+      "id": "0039174",
+      "title": "776621 - Fruit marmalade",
+      "conceptLink": "/ec2/concept/5987270"
+    }
+  },
+  {
+    "uri": "en/29/438666",
+    "id": "438666",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit paste",
+    "harm": {
+      "id": "0002774",
+      "title": "438666 - Fruit paste",
+      "conceptLink": "/ec2/concept/5953985"
+    }
+  },
+  {
+    "uri": "en/29/438680",
+    "id": "438680",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit pectin",
+    "harm": {
+      "id": "0031623",
+      "title": "438680 - Fruit pectin",
+      "conceptLink": "/ec2/concept/5980398"
+    }
+  },
+  {
+    "uri": "en/29/291011",
+    "id": "291011",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit peel",
+    "harm": {
+      "id": "0006775",
+      "title": "291011 - Fruit peel",
+      "conceptLink": "/ec2/concept/5957656"
+    }
+  },
+  {
+    "uri": "en/29/776644",
+    "id": "776644",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit pie fillings",
+    "harm": {
+      "id": "0033356",
+      "title": "776644 - Fruit pie fillings",
+      "conceptLink": "/ec2/concept/5981984"
+    }
+  },
+  {
+    "uri": "en/29/137176853",
+    "id": "137176853",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit Powders",
+    "harm": {
+      "id": "0060408",
+      "title": "137176853 - Fruit Powders",
+      "conceptLink": "/ec2/concept/5998382"
+    }
+  },
+  {
+    "uri": "en/29/287917",
+    "id": "287917",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit, preserved",
+    "harm": {
+      "id": "0046914",
+      "title": "287917 - Fruit, preserved",
+      "conceptLink": "/ec2/concept/5994303"
+    }
+  },
+  {
+    "uri": "en/29/291384",
+    "id": "291384",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit preserved in alcohol",
+    "harm": {
+      "id": "0020087",
+      "title": "291384 - Fruit preserved in alcohol",
+      "conceptLink": "/ec2/concept/5969840"
+    }
+  },
+  {
+    "uri": "en/29/287915",
+    "id": "287915",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit preserves",
+    "harm": {
+      "id": "0057127",
+      "title": "287915 - Fruit preserves",
+      "conceptLink": "/ec2/concept/5998749"
+    }
+  },
+  {
+    "uri": "en/29/289126",
+    "id": "289126",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit pulp",
+    "harm": {
+      "id": "0029915",
+      "title": "289126 - Fruit pulp",
+      "conceptLink": "/ec2/concept/5978845"
+    }
+  },
+  {
+    "uri": "en/29/1056727",
+    "id": "1056727",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit pulps",
+    "harm": {
+      "id": "0029915",
+      "title": "1056727 - Fruit pulps",
+      "conceptLink": "/ec2/concept/5978845"
+    }
+  },
+  {
+    "uri": "en/29/4529409",
+    "id": "4529409",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit purees",
+    "harm": {
+      "id": "0071282",
+      "title": "4529409 - Fruit purees",
+      "conceptLink": "/ec2/concept/6007474"
+    }
+  },
+  {
+    "uri": "en/29/291012",
+    "id": "291012",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit rinds",
+    "harm": {
+      "id": "0006775",
+      "title": "291012 - Fruit rinds",
+      "conceptLink": "/ec2/concept/5957656"
+    }
+  },
+  {
+    "uri": "en/29/290757",
+    "id": "290757",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit salads",
+    "harm": {
+      "id": "0014243",
+      "title": "290757 - Fruit salads",
+      "conceptLink": "/ec2/concept/5964497"
+    }
+  },
+  {
+    "uri": "en/29/506142",
+    "id": "506142",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit snacks",
+    "harm": {
+      "id": "0024730",
+      "title": "506142 - Fruit snacks",
+      "conceptLink": "/ec2/concept/5974102"
+    }
+  },
+  {
+    "uri": "en/29/776674",
+    "id": "776674",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit spread",
+    "harm": {
+      "id": "0027599",
+      "title": "776674 - Fruit spread",
+      "conceptLink": "/ec2/concept/5976717"
+    }
+  },
+  {
+    "uri": "en/29/289051",
+    "id": "289051",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruit, stewed",
+    "harm": {
+      "id": "0072417",
+      "title": "289051 - Fruit, stewed",
+      "conceptLink": "/ec2/concept/6008598"
+    }
+  },
+  {
+    "uri": "en/29/288414",
+    "id": "288414",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruits (Crystallized -)",
+    "harm": {
+      "id": "0057101",
+      "title": "288414 - Fruits (Crystallized -)",
+      "conceptLink": "/ec2/concept/5998728"
+    }
+  },
+  {
+    "uri": "en/29/119545365",
+    "id": "119545365",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruits in preserved form",
+    "harm": {
+      "id": "0046914",
+      "title": "119545365 - Fruits in preserved form",
+      "conceptLink": "/ec2/concept/5994303"
+    }
+  },
+  {
+    "uri": "en/29/5549773",
+    "id": "5549773",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruits preserved in alcohol",
+    "harm": {
+      "id": "0020087",
+      "title": "5549773 - Fruits preserved in alcohol",
+      "conceptLink": "/ec2/concept/5969840"
+    }
+  },
+  {
+    "uri": "en/29/287914",
+    "id": "287914",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Fruits, tinned [canned (Am.)]",
+    "harm": {
+      "id": "0023914",
+      "title": "287914 - Fruits, tinned [canned (Am.)]",
+      "conceptLink": "/ec2/concept/5973344"
+    }
+  },
+  {
+    "uri": "en/29/233618864",
+    "id": "233618864",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Galbi [grilled meat dish]",
+    "harm": {
+      "id": "0052145",
+      "title": "233618864 - Galbi [grilled meat dish]",
+      "conceptLink": "/ec2/concept/6011045"
+    }
+  },
+  {
+    "uri": "en/29/289246",
+    "id": "289246",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Game",
+    "harm": {
+      "id": "0030020",
+      "title": "289246 - Game",
+      "conceptLink": "/ec2/concept/5978941"
+    }
+  },
+  {
+    "uri": "en/29/289244",
+    "id": "289244",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Game, not live",
+    "harm": {
+      "id": "0030020",
+      "title": "289244 - Game, not live",
+      "conceptLink": "/ec2/concept/5978941"
+    }
+  },
+  {
+    "uri": "en/29/120813392",
+    "id": "120813392",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Garlic-based spreads",
+    "harm": {
+      "id": "0067556",
+      "title": "120813392 - Garlic-based spreads",
+      "conceptLink": "/ec2/concept/6003759"
+    }
+  },
+  {
+    "uri": "en/29/776724",
+    "id": "776724",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Garlic butter",
+    "harm": {
+      "id": "0010246",
+      "title": "776724 - Garlic butter",
+      "conceptLink": "/ec2/concept/5960829"
+    }
+  },
+  {
+    "uri": "en/29/776738",
+    "id": "776738",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Garlic paste",
+    "harm": {
+      "id": "0042043",
+      "title": "776738 - Garlic paste",
+      "conceptLink": "/ec2/concept/5989895"
+    }
+  },
+  {
+    "uri": "en/29/776694",
+    "id": "776694",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Garlic [preserved]",
+    "harm": {
+      "id": "0026724",
+      "title": "776694 - Garlic [preserved]",
+      "conceptLink": "/ec2/concept/5975920"
+    }
+  },
+  {
+    "uri": "en/29/125385590",
+    "id": "125385590",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Gelatine",
+    "harm": {
+      "id": "0046713",
+      "title": "125385590 - Gelatine",
+      "conceptLink": "/ec2/concept/5994124"
+    }
+  },
+  {
+    "uri": "en/29/776752",
+    "id": "776752",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Ghee",
+    "harm": {
+      "id": "0042044",
+      "title": "776752 - Ghee",
+      "conceptLink": "/ec2/concept/5989896"
+    }
+  },
+  {
+    "uri": "en/29/288563",
+    "id": "288563",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Gherkins",
+    "harm": {
+      "id": "0012452",
+      "title": "288563 - Gherkins",
+      "conceptLink": "/ec2/concept/5962858"
+    }
+  },
+  {
+    "uri": "en/29/289296",
+    "id": "289296",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Ginger jam",
+    "harm": {
+      "id": "0037570",
+      "title": "289296 - Ginger jam",
+      "conceptLink": "/ec2/concept/5985807"
+    }
+  },
+  {
+    "uri": "en/29/438716",
+    "id": "438716",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Glazed fruits",
+    "harm": {
+      "id": "0047471",
+      "title": "438716 - Glazed fruits",
+      "conceptLink": "/ec2/concept/5994778"
+    }
+  },
+  {
+    "uri": "en/29/120896195",
+    "id": "120896195",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Goat cheese",
+    "harm": {
+      "id": "0067453",
+      "title": "120896195 - Goat cheese",
+      "conceptLink": "/ec2/concept/6003656"
+    }
+  },
+  {
+    "uri": "en/29/46406850",
+    "id": "46406850",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Goat milk",
+    "harm": {
+      "id": "0056395",
+      "title": "46406850 - Goat milk",
+      "conceptLink": "/ec2/concept/5997713"
+    }
+  },
+  {
+    "uri": "en/29/776765",
+    "id": "776765",
+    "lang": "en",
+    "classNumber": "29",
+    "term": "Goose liver pate",
+    "harm": {
+      "id": "0042045",
+      "title": "776765 - Goose liver pate",
+      "conceptLink": "/ec2/concept/5989897"
+    }
+  }
+]

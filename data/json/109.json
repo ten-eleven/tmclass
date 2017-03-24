@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/5912807",
+    "id": "5912807",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents and media for medical and veterinary diagnostic purposes",
+    "harm": {
+      "id": "0055581",
+      "title": "5912807 - Reagents and media for medical and veterinary diagnostic purposes",
+      "conceptLink": "/ec2/concept/5996978"
+    }
+  },
+  {
+    "uri": "en/5/92339",
+    "id": "92339",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents (Chemical -) for medical or veterinary purposes",
+    "harm": {
+      "id": "0037115",
+      "title": "92339 - Reagents (Chemical -) for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5985397"
+    }
+  },
+  {
+    "uri": "en/5/668724",
+    "id": "668724",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for analytical purposes [for veterinary purposes]",
+    "harm": {
+      "id": "0003006",
+      "title": "668724 - Reagents for analytical purposes [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5954198"
+    }
+  },
+  {
+    "uri": "en/5/668708",
+    "id": "668708",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for analytical purposes [for medical purposes]",
+    "harm": {
+      "id": "0008739",
+      "title": "668708 - Reagents for analytical purposes [for medical purposes]",
+      "conceptLink": "/ec2/concept/5959443"
+    }
+  },
+  {
+    "uri": "en/5/668740",
+    "id": "668740",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for blood grouping [for medical purposes]",
+    "harm": {
+      "id": "0037675",
+      "title": "668740 - Reagents for blood grouping [for medical purposes]",
+      "conceptLink": "/ec2/concept/5985899"
+    }
+  },
+  {
+    "uri": "en/5/668772",
+    "id": "668772",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for in-vitro laboratory use [for veterinary purposes]",
+    "harm": {
+      "id": "0007229",
+      "title": "668772 - Reagents for in-vitro laboratory use [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5958072"
+    }
+  },
+  {
+    "uri": "en/5/668757",
+    "id": "668757",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for in-vitro laboratory use [for medical purposes]",
+    "harm": {
+      "id": "0036166",
+      "title": "668757 - Reagents for in-vitro laboratory use [for medical purposes]",
+      "conceptLink": "/ec2/concept/5984534"
+    }
+  },
+  {
+    "uri": "en/5/16665395",
+    "id": "16665395",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for medical use",
+    "harm": {
+      "id": "0060816",
+      "title": "16665395 - Reagents for medical use",
+      "conceptLink": "/ec2/concept/6001136"
+    }
+  },
+  {
+    "uri": "en/5/668800",
+    "id": "668800",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for microbiological analysis [for veterinary purposes]",
+    "harm": {
+      "id": "0007230",
+      "title": "668800 - Reagents for microbiological analysis [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5958073"
+    }
+  },
+  {
+    "uri": "en/5/668786",
+    "id": "668786",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for microbiological analysis [for medical purposes]",
+    "harm": {
+      "id": "0036167",
+      "title": "668786 - Reagents for microbiological analysis [for medical purposes]",
+      "conceptLink": "/ec2/concept/5984535"
+    }
+  },
+  {
+    "uri": "en/5/668812",
+    "id": "668812",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in analysis [for medical purposes]",
+    "harm": {
+      "id": "0036168",
+      "title": "668812 - Reagents for use in analysis [for medical purposes]",
+      "conceptLink": "/ec2/concept/5984536"
+    }
+  },
+  {
+    "uri": "en/5/668828",
+    "id": "668828",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in analysis [for veterinary purposes]",
+    "harm": {
+      "id": "0041940",
+      "title": "668828 - Reagents for use in analysis [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5989803"
+    }
+  },
+  {
+    "uri": "en/5/668855",
+    "id": "668855",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in diagnostic tests [for medical purposes]",
+    "harm": {
+      "id": "0013043",
+      "title": "668855 - Reagents for use in diagnostic tests [for medical purposes]",
+      "conceptLink": "/ec2/concept/5963392"
+    }
+  },
+  {
+    "uri": "en/5/668841",
+    "id": "668841",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in diagnostic pregnancy tests",
+    "harm": {
+      "id": "0018891",
+      "title": "668841 - Reagents for use in diagnostic pregnancy tests",
+      "conceptLink": "/ec2/concept/5968760"
+    }
+  },
+  {
+    "uri": "en/5/668873",
+    "id": "668873",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in diagnostic tests [for veterinary purposes]",
+    "harm": {
+      "id": "0030383",
+      "title": "668873 - Reagents for use in diagnostic tests [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5979279"
+    }
+  },
+  {
+    "uri": "en/5/137492251",
+    "id": "137492251",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in medical genetic testing",
+    "harm": {
+      "id": "0060683",
+      "title": "137492251 - Reagents for use in medical genetic testing",
+      "conceptLink": "/ec2/concept/6001004"
+    }
+  },
+  {
+    "uri": "en/5/137492252",
+    "id": "137492252",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use in veterinary genetic testing",
+    "harm": {
+      "id": "0060684",
+      "title": "137492252 - Reagents for use in veterinary genetic testing",
+      "conceptLink": "/ec2/concept/6001005"
+    }
+  },
+  {
+    "uri": "en/5/668888",
+    "id": "668888",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use with analyzers [for medical purposes]",
+    "harm": {
+      "id": "0001475",
+      "title": "668888 - Reagents for use with analyzers [for medical purposes]",
+      "conceptLink": "/ec2/concept/5952814"
+    }
+  },
+  {
+    "uri": "en/5/668901",
+    "id": "668901",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reagents for use with analyzers [for veterinary purposes]",
+    "harm": {
+      "id": "0007231",
+      "title": "668901 - Reagents for use with analyzers [for veterinary purposes]",
+      "conceptLink": "/ec2/concept/5958074"
+    }
+  },
+  {
+    "uri": "en/5/233421608",
+    "id": "233421608",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reconstituted cells for clinical treatments for skin care",
+    "harm": {
+      "id": "0073841",
+      "title": "233421608 - Reconstituted cells for clinical treatments for skin care",
+      "conceptLink": "/ec2/concept/6010798"
+    }
+  },
+  {
+    "uri": "en/5/233421605",
+    "id": "233421605",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reconstituted cells for medical treatments for skin care",
+    "harm": {
+      "id": "0073840",
+      "title": "233421605 - Reconstituted cells for medical treatments for skin care",
+      "conceptLink": "/ec2/concept/6010797"
+    }
+  },
+  {
+    "uri": "en/5/909226",
+    "id": "909226",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Reducing sexual activity (Preparations for -)",
+    "harm": {
+      "id": "0000241",
+      "title": "909226 - Reducing sexual activity (Preparations for -)",
+      "conceptLink": "/ec2/concept/5951712"
+    }
+  },
+  {
+    "uri": "en/5/232624602",
+    "id": "232624602",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Rehydration preparations",
+    "harm": {
+      "id": "0072152",
+      "title": "232624602 - Rehydration preparations",
+      "conceptLink": "/ec2/concept/6008335"
+    }
+  },
+  {
+    "uri": "en/5/89658",
+    "id": "89658",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Remedies for foot perspiration",
+    "harm": {
+      "id": "0025434",
+      "title": "89658 - Remedies for foot perspiration",
+      "conceptLink": "/ec2/concept/5974746"
+    }
+  },
+  {
+    "uri": "en/5/90640",
+    "id": "90640",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Remedies for perspiration",
+    "harm": {
+      "id": "0038149",
+      "title": "90640 - Remedies for perspiration",
+      "conceptLink": "/ec2/concept/5986335"
+    }
+  },
+  {
+    "uri": "en/5/663878",
+    "id": "663878",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Repellents for animals",
+    "harm": {
+      "id": "0007232",
+      "title": "663878 - Repellents for animals",
+      "conceptLink": "/ec2/concept/5958075"
+    }
+  },
+  {
+    "uri": "en/5/84434",
+    "id": "84434",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Repellents for dogs",
+    "harm": {
+      "id": "0025407",
+      "title": "84434 - Repellents for dogs",
+      "conceptLink": "/ec2/concept/5974719"
+    }
+  },
+  {
+    "uri": "en/5/87636",
+    "id": "87636",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Repellents (Insect -)",
+    "harm": {
+      "id": "0046606",
+      "title": "87636 - Repellents (Insect -)",
+      "conceptLink": "/ec2/concept/5994032"
+    }
+  },
+  {
+    "uri": "en/5/21196375",
+    "id": "21196375",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Respiratory stimulants",
+    "harm": {
+      "id": "0055582",
+      "title": "21196375 - Respiratory stimulants",
+      "conceptLink": "/ec2/concept/5996979"
+    }
+  },
+  {
+    "uri": "en/5/89986",
+    "id": "89986",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Rhubarb roots for pharmaceutical purposes",
+    "harm": {
+      "id": "0030281",
+      "title": "89986 - Rhubarb roots for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5979183"
+    }
+  },
+  {
+    "uri": "en/5/233996599",
+    "id": "233996599",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "RNA synthesis inhibitors",
+    "harm": {
+      "id": "0074076",
+      "title": "233996599 - RNA synthesis inhibitors",
+      "conceptLink": "/ec2/concept/6011312"
+    }
+  },
+  {
+    "uri": "en/5/318526",
+    "id": "318526",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Rodenticides",
+    "harm": {
+      "id": "0031354",
+      "title": "318526 - Rodenticides",
+      "conceptLink": "/ec2/concept/5980169"
+    }
+  },
+  {
+    "uri": "en/5/89956",
+    "id": "89956",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Roots (Medicinal -)",
+    "harm": {
+      "id": "0012966",
+      "title": "89956 - Roots (Medicinal -)",
+      "conceptLink": "/ec2/concept/5963323"
+    }
+  },
+  {
+    "uri": "en/5/909533",
+    "id": "909533",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Royal jelly dietary supplements",
+    "harm": {
+      "id": "0007387",
+      "title": "909533 - Royal jelly dietary supplements",
+      "conceptLink": "/ec2/concept/5958220"
+    }
+  },
+  {
+    "uri": "en/5/119524383",
+    "id": "119524383",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Royal jelly for medical purposes",
+    "harm": {
+      "id": "0060828",
+      "title": "119524383 - Royal jelly for medical purposes",
+      "conceptLink": "/ec2/concept/6001148"
+    }
+  },
+  {
+    "uri": "en/5/91361",
+    "id": "91361",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Royal jelly for pharmaceutical purposes",
+    "harm": {
+      "id": "0007168",
+      "title": "91361 - Royal jelly for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5958012"
+    }
+  },
+  {
+    "uri": "en/5/84186",
+    "id": "84186",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Rubber for dental purposes",
+    "harm": {
+      "id": "0001408",
+      "title": "84186 - Rubber for dental purposes",
+      "conceptLink": "/ec2/concept/5952755"
+    }
+  },
+  {
+    "uri": "en/5/383975",
+    "id": "383975",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Rubbing alcohol",
+    "harm": {
+      "id": "0045044",
+      "title": "383975 - Rubbing alcohol",
+      "conceptLink": "/ec2/concept/5992637"
+    }
+  },
+  {
+    "uri": "en/5/10903403",
+    "id": "10903403",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sal ammoniac lozenges",
+    "harm": {
+      "id": "0065356",
+      "title": "10903403 - Sal ammoniac lozenges",
+      "conceptLink": "/ec2/concept/6001559"
+    }
+  },
+  {
+    "uri": "en/5/119524389",
+    "id": "119524389",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Salivary gland hormone preparations",
+    "harm": {
+      "id": "0055583",
+      "title": "119524389 - Salivary gland hormone preparations",
+      "conceptLink": "/ec2/concept/5996980"
+    }
+  },
+  {
+    "uri": "en/5/86465",
+    "id": "86465",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Salts for medical purposes",
+    "harm": {
+      "id": "0003734",
+      "title": "86465 - Salts for medical purposes",
+      "conceptLink": "/ec2/concept/5954868"
+    }
+  },
+  {
+    "uri": "en/5/83484",
+    "id": "83484",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Salts for mineral water baths",
+    "harm": {
+      "id": "0025636",
+      "title": "83484 - Salts for mineral water baths",
+      "conceptLink": "/ec2/concept/5974928"
+    }
+  },
+  {
+    "uri": "en/5/86272",
+    "id": "86272",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Salts (Mineral water -)",
+    "harm": {
+      "id": "0026805",
+      "title": "86272 - Salts (Mineral water -)",
+      "conceptLink": "/ec2/concept/5975988"
+    }
+  },
+  {
+    "uri": "en/5/667481",
+    "id": "667481",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Salves [medicated]",
+    "harm": {
+      "id": "0013041",
+      "title": "667481 - Salves [medicated]",
+      "conceptLink": "/ec2/concept/5963390"
+    }
+  },
+  {
+    "uri": "en/5/233157579",
+    "id": "233157579",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sandalwood for use as an insect repellent",
+    "harm": {
+      "id": "0073196",
+      "title": "233157579 - Sandalwood for use as an insect repellent",
+      "conceptLink": "/ec2/concept/6009369"
+    }
+  },
+  {
+    "uri": "en/5/233157578",
+    "id": "233157578",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sandalwood oil for medical, pharmaceutical and veterinary purposes",
+    "harm": {
+      "id": "0073195",
+      "title": "233157578 - Sandalwood oil for medical, pharmaceutical and veterinary purposes",
+      "conceptLink": "/ec2/concept/6009368"
+    }
+  },
+  {
+    "uri": "en/5/84302",
+    "id": "84302",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary belts",
+    "harm": {
+      "id": "0013044",
+      "title": "84302 - Sanitary belts",
+      "conceptLink": "/ec2/concept/5963393"
+    }
+  },
+  {
+    "uri": "en/5/88243",
+    "id": "88243",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary knickers",
+    "harm": {
+      "id": "0058490",
+      "title": "88243 - Sanitary knickers",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/89304",
+    "id": "89304",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary napkins",
+    "harm": {
+      "id": "0059212",
+      "title": "89304 - Sanitary napkins",
+      "conceptLink": "/ec2/concept/6000701"
+    }
+  },
+  {
+    "uri": "en/5/89177",
+    "id": "89177",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary pads",
+    "harm": {
+      "id": "0059213",
+      "title": "89177 - Sanitary pads",
+      "conceptLink": "/ec2/concept/6000702"
+    }
+  },
+  {
+    "uri": "en/5/88239",
+    "id": "88239",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary panties",
+    "harm": {
+      "id": "0058490",
+      "title": "88239 - Sanitary panties",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/10902103",
+    "id": "10902103",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary pants",
+    "harm": {
+      "id": "0058490",
+      "title": "10902103 - Sanitary pants",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/15334554",
+    "id": "15334554",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary panty liners",
+    "harm": {
+      "id": "0058491",
+      "title": "15334554 - Sanitary panty liners",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/119695650",
+    "id": "119695650",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary panty shields",
+    "harm": {
+      "id": "0058491",
+      "title": "119695650 - Sanitary panty shields",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/186870398",
+    "id": "186870398",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary preparations and articles",
+    "harm": {
+      "id": "0073860",
+      "title": "186870398 - Sanitary preparations and articles",
+      "conceptLink": "/ec2/concept/6010817"
+    }
+  },
+  {
+    "uri": "en/5/318552",
+    "id": "318552",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary preparations for medical purposes",
+    "harm": {
+      "id": "0006404",
+      "title": "318552 - Sanitary preparations for medical purposes",
+      "conceptLink": "/ec2/concept/5957320"
+    }
+  },
+  {
+    "uri": "en/5/318553",
+    "id": "318553",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary preparations for medical use",
+    "harm": {
+      "id": "0006404",
+      "title": "318553 - Sanitary preparations for medical use",
+      "conceptLink": "/ec2/concept/5957320"
+    }
+  },
+  {
+    "uri": "en/5/5293494",
+    "id": "5293494",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary preparations for veterinary use",
+    "harm": {
+      "id": "0065287",
+      "title": "5293494 - Sanitary preparations for veterinary use",
+      "conceptLink": "/ec2/concept/6001490"
+    }
+  },
+  {
+    "uri": "en/5/113809528",
+    "id": "113809528",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary sterilising preparations",
+    "harm": {
+      "id": "0055584",
+      "title": "113809528 - Sanitary sterilising preparations",
+      "conceptLink": "/ec2/concept/5996981"
+    }
+  },
+  {
+    "uri": "en/5/89173",
+    "id": "89173",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary tampons",
+    "harm": {
+      "id": "0046453",
+      "title": "89173 - Sanitary tampons",
+      "conceptLink": "/ec2/concept/5993902"
+    }
+  },
+  {
+    "uri": "en/5/83654",
+    "id": "83654",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary towels",
+    "harm": {
+      "id": "0059212",
+      "title": "83654 - Sanitary towels",
+      "conceptLink": "/ec2/concept/6000701"
+    }
+  },
+  {
+    "uri": "en/5/668913",
+    "id": "668913",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitary wear",
+    "harm": {
+      "id": "0007233",
+      "title": "668913 - Sanitary wear",
+      "conceptLink": "/ec2/concept/5958076"
+    }
+  },
+  {
+    "uri": "en/5/383990",
+    "id": "383990",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitizers for household use",
+    "harm": {
+      "id": "0031473",
+      "title": "383990 - Sanitizers for household use",
+      "conceptLink": "/ec2/concept/5980275"
+    }
+  },
+  {
+    "uri": "en/5/60044574",
+    "id": "60044574",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitizing preparations for hospital use",
+    "harm": {
+      "id": "0065396",
+      "title": "60044574 - Sanitizing preparations for hospital use",
+      "conceptLink": "/ec2/concept/6001599"
+    }
+  },
+  {
+    "uri": "en/5/136015786",
+    "id": "136015786",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitizing wash for fruit and vegetables",
+    "harm": {
+      "id": "0070686",
+      "title": "136015786 - Sanitizing wash for fruit and vegetables",
+      "conceptLink": "/ec2/concept/6006878"
+    }
+  },
+  {
+    "uri": "en/5/882512",
+    "id": "882512",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sanitizing wipes",
+    "harm": {
+      "id": "0022577",
+      "title": "882512 - Sanitizing wipes",
+      "conceptLink": "/ec2/concept/5972119"
+    }
+  },
+  {
+    "uri": "en/5/132749194",
+    "id": "132749194",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sarkomycin preparations",
+    "harm": {
+      "id": "0055585",
+      "title": "132749194 - Sarkomycin preparations",
+      "conceptLink": "/ec2/concept/5996982"
+    }
+  },
+  {
+    "uri": "en/5/90072",
+    "id": "90072",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sarsaparilla beverages [medicinal]",
+    "harm": {
+      "id": "0001391",
+      "title": "90072 - Sarsaparilla beverages [medicinal]",
+      "conceptLink": "/ec2/concept/5952739"
+    }
+  },
+  {
+    "uri": "en/5/90071",
+    "id": "90071",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sarsaparilla for medical purposes",
+    "harm": {
+      "id": "0001391",
+      "title": "90071 - Sarsaparilla for medical purposes",
+      "conceptLink": "/ec2/concept/5952739"
+    }
+  },
+  {
+    "uri": "en/5/124897534",
+    "id": "124897534",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Scalp treatments (Medicated -)",
+    "harm": {
+      "id": "0001476",
+      "title": "124897534 - Scalp treatments (Medicated -)",
+      "conceptLink": "/ec2/concept/5952815"
+    }
+  },
+  {
+    "uri": "en/5/90145",
+    "id": "90145",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Scapulars for surgical purposes",
+    "harm": {
+      "id": "0002465",
+      "title": "90145 - Scapulars for surgical purposes",
+      "conceptLink": "/ec2/concept/5953708"
+    }
+  },
+  {
+    "uri": "en/5/668941",
+    "id": "668941",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Scrubs [preparations] for medical use",
+    "harm": {
+      "id": "0060110",
+      "title": "668941 - Scrubs [preparations] for medical use",
+      "conceptLink": "/ec2/concept/5996372"
+    }
+  },
+  {
+    "uri": "en/5/83564",
+    "id": "83564",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sea water for medicinal bathing",
+    "harm": {
+      "id": "0037355",
+      "title": "83564 - Sea water for medicinal bathing",
+      "conceptLink": "/ec2/concept/5985614"
+    }
+  },
+  {
+    "uri": "en/5/120868755",
+    "id": "120868755",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sealed radioactive substances for medical use",
+    "harm": {
+      "id": "0065257",
+      "title": "120868755 - Sealed radioactive substances for medical use",
+      "conceptLink": "/ec2/concept/6001460"
+    }
+  },
+  {
+    "uri": "en/5/77644146",
+    "id": "77644146",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sealing agents for dental purposes",
+    "harm": {
+      "id": "0055586",
+      "title": "77644146 - Sealing agents for dental purposes",
+      "conceptLink": "/ec2/concept/5996983"
+    }
+  },
+  {
+    "uri": "en/5/90172",
+    "id": "90172",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sedatives",
+    "harm": {
+      "id": "0042919",
+      "title": "90172 - Sedatives",
+      "conceptLink": "/ec2/concept/5990687"
+    }
+  },
+  {
+    "uri": "en/5/83987",
+    "id": "83987",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sediment (Medicinal -) [mud]",
+    "harm": {
+      "id": "0041868",
+      "title": "83987 - Sediment (Medicinal -) [mud]",
+      "conceptLink": "/ec2/concept/5989733"
+    }
+  },
+  {
+    "uri": "en/5/119524407",
+    "id": "119524407",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Self adhesive dressings",
+    "harm": {
+      "id": "0026065",
+      "title": "119524407 - Self adhesive dressings",
+      "conceptLink": "/ec2/concept/5975321"
+    }
+  },
+  {
+    "uri": "en/5/87590",
+    "id": "87590",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Semen for artificial insemination",
+    "harm": {
+      "id": "0000950",
+      "title": "87590 - Semen for artificial insemination",
+      "conceptLink": "/ec2/concept/5952342"
+    }
+  },
+  {
+    "uri": "en/5/90226",
+    "id": "90226",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Serotherapeutic medicines",
+    "harm": {
+      "id": "0019863",
+      "title": "90226 - Serotherapeutic medicines",
+      "conceptLink": "/ec2/concept/5969636"
+    }
+  },
+  {
+    "uri": "en/5/88531",
+    "id": "88531",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Serums",
+    "harm": {
+      "id": "0007170",
+      "title": "88531 - Serums",
+      "conceptLink": "/ec2/concept/5958014"
+    }
+  },
+  {
+    "uri": "en/5/907168",
+    "id": "907168",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sexual stimulant gels",
+    "harm": {
+      "id": "0025530",
+      "title": "907168 - Sexual stimulant gels",
+      "conceptLink": "/ec2/concept/5974835"
+    }
+  },
+  {
+    "uri": "en/5/119524410",
+    "id": "119524410",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Shaped metals for dentistry",
+    "harm": {
+      "id": "0055587",
+      "title": "119524410 - Shaped metals for dentistry",
+      "conceptLink": "/ec2/concept/5996984"
+    }
+  },
+  {
+    "uri": "en/5/563599",
+    "id": "563599",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Shaped napkins of cellulose for babies",
+    "harm": {
+      "id": "0016333",
+      "title": "563599 - Shaped napkins of cellulose for babies",
+      "conceptLink": "/ec2/concept/5966424"
+    }
+  },
+  {
+    "uri": "en/5/563612",
+    "id": "563612",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Shaped napkins of paper for babies",
+    "harm": {
+      "id": "0022242",
+      "title": "563612 - Shaped napkins of paper for babies",
+      "conceptLink": "/ec2/concept/5971813"
+    }
+  },
+  {
+    "uri": "en/5/668956",
+    "id": "668956",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Sheep dips",
+    "harm": {
+      "id": "0043009",
+      "title": "668956 - Sheep dips",
+      "conceptLink": "/ec2/concept/5990770"
+    }
+  },
+  {
+    "uri": "en/5/384012",
+    "id": "384012",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Shoe deodorizers",
+    "harm": {
+      "id": "0045045",
+      "title": "384012 - Shoe deodorizers",
+      "conceptLink": "/ec2/concept/5992638"
+    }
+  },
+  {
+    "uri": "en/5/92596",
+    "id": "92596",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Siccatives [drying agents] for medical purposes",
+    "harm": {
+      "id": "0002418",
+      "title": "92596 - Siccatives [drying agents] for medical purposes",
+      "conceptLink": "/ec2/concept/5953663"
+    }
+  },
+  {
+    "uri": "en/5/119524412",
+    "id": "119524412",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Siccatives for medical purposes",
+    "harm": {
+      "id": "0002418",
+      "title": "119524412 - Siccatives for medical purposes",
+      "conceptLink": "/ec2/concept/5953663"
+    }
+  },
+  {
+    "uri": "en/5/119524413",
+    "id": "119524413",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Silicone-based personal lubricants",
+    "harm": {
+      "id": "0065273",
+      "title": "119524413 - Silicone-based personal lubricants",
+      "conceptLink": "/ec2/concept/6001476"
+    }
+  },
+  {
+    "uri": "en/5/119624822",
+    "id": "119624822",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skeletal muscle relaxants",
+    "harm": {
+      "id": "0013287",
+      "title": "119624822 - Skeletal muscle relaxants",
+      "conceptLink": "/ec2/concept/5963617"
+    }
+  },
+  {
+    "uri": "en/5/668968",
+    "id": "668968",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin care creams for medical use",
+    "harm": {
+      "id": "0031408",
+      "title": "668968 - Skin care creams for medical use",
+      "conceptLink": "/ec2/concept/5980219"
+    }
+  },
+  {
+    "uri": "en/5/668983",
+    "id": "668983",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin care lotions [medicated]",
+    "harm": {
+      "id": "0031409",
+      "title": "668983 - Skin care lotions [medicated]",
+      "conceptLink": "/ec2/concept/5980220"
+    }
+  },
+  {
+    "uri": "en/5/89411",
+    "id": "89411",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin care (Pharmaceutical preparations for -)",
+    "harm": {
+      "id": "0042131",
+      "title": "89411 - Skin care (Pharmaceutical preparations for -)",
+      "conceptLink": "/ec2/concept/5989978"
+    }
+  },
+  {
+    "uri": "en/5/13163161",
+    "id": "13163161",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin care preparations for medical use",
+    "harm": {
+      "id": "0065286",
+      "title": "13163161 - Skin care preparations for medical use",
+      "conceptLink": "/ec2/concept/6001489"
+    }
+  },
+  {
+    "uri": "en/5/384027",
+    "id": "384027",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin grafts",
+    "harm": {
+      "id": "0045046",
+      "title": "384027 - Skin grafts",
+      "conceptLink": "/ec2/concept/5992639"
+    }
+  },
+  {
+    "uri": "en/5/668998",
+    "id": "668998",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin patches for the transdermal delivery of pharmaceuticals",
+    "harm": {
+      "id": "0020859",
+      "title": "668998 - Skin patches for the transdermal delivery of pharmaceuticals",
+      "conceptLink": "/ec2/concept/5970552"
+    }
+  },
+  {
+    "uri": "en/5/669012",
+    "id": "669012",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin tonics [medicated]",
+    "harm": {
+      "id": "0037255",
+      "title": "669012 - Skin tonics [medicated]",
+      "conceptLink": "/ec2/concept/5985520"
+    }
+  },
+  {
+    "uri": "en/5/669027",
+    "id": "669027",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Skin treatment [medicated] for animals",
+    "harm": {
+      "id": "0025660",
+      "title": "669027 - Skin treatment [medicated] for animals",
+      "conceptLink": "/ec2/concept/5974950"
+    }
+  },
+  {
+    "uri": "en/5/909354",
+    "id": "909354",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Slimming pills",
+    "harm": {
+      "id": "0020471",
+      "title": "909354 - Slimming pills",
+      "conceptLink": "/ec2/concept/5970190"
+    }
+  }
+]

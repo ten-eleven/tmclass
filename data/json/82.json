@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/4/124738886",
+    "id": "124738886",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for greases",
+    "harm": {
+      "id": "0023577",
+      "title": "124738886 - Additives (Non-chemical -) for greases",
+      "conceptLink": "/ec2/concept/5973037"
+    }
+  },
+  {
+    "uri": "en/4/125161758",
+    "id": "125161758",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for fuels",
+    "harm": {
+      "id": "0011972",
+      "title": "125161758 - Additives (Non-chemical -) for fuels",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/124738906",
+    "id": "124738906",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for lubricants",
+    "harm": {
+      "id": "0035075",
+      "title": "124738906 - Additives (Non-chemical -) for lubricants",
+      "conceptLink": "/ec2/concept/5983544"
+    }
+  },
+  {
+    "uri": "en/4/124738941",
+    "id": "124738941",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for petroleum products",
+    "harm": {
+      "id": "0005535",
+      "title": "124738941 - Additives (Non-chemical -) for petroleum products",
+      "conceptLink": "/ec2/concept/5956530"
+    }
+  },
+  {
+    "uri": "en/4/124738872",
+    "id": "124738872",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for fuels to prevent combustion chamber deposits",
+    "harm": {
+      "id": "0045872",
+      "title": "124738872 - Additives (Non-chemical -) for fuels to prevent combustion chamber deposits",
+      "conceptLink": "/ec2/concept/5993397"
+    }
+  },
+  {
+    "uri": "en/4/124738859",
+    "id": "124738859",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives (Non-chemical -) for combustion enhancers",
+    "harm": {
+      "id": "0042376",
+      "title": "124738859 - Additives (Non-chemical -) for combustion enhancers",
+      "conceptLink": "/ec2/concept/5990201"
+    }
+  },
+  {
+    "uri": "en/4/129429650",
+    "id": "129429650",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives, non-chemical, to motor fuel",
+    "harm": {
+      "id": "0011972",
+      "title": "129429650 - Additives, non-chemical, to motor fuel",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/81847",
+    "id": "81847",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Additives, non-chemical, to motor-fuel",
+    "harm": {
+      "id": "0011972",
+      "title": "81847 - Additives, non-chemical, to motor-fuel",
+      "conceptLink": "/ec2/concept/5962421"
+    }
+  },
+  {
+    "uri": "en/4/78875",
+    "id": "78875",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Alcohol (fuel)",
+    "harm": {
+      "id": "0026098",
+      "title": "78875 - Alcohol (fuel)",
+      "conceptLink": "/ec2/concept/5975352"
+    }
+  },
+  {
+    "uri": "en/4/78876",
+    "id": "78876",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Alcohol [fuel]",
+    "harm": {
+      "id": "0026098",
+      "title": "78876 - Alcohol [fuel]",
+      "conceptLink": "/ec2/concept/5975352"
+    }
+  },
+  {
+    "uri": "en/4/119523031",
+    "id": "119523031",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "All purpose lubricants",
+    "harm": {
+      "id": "0055399",
+      "title": "119523031 - All purpose lubricants",
+      "conceptLink": "/ec2/concept/5996803"
+    }
+  },
+  {
+    "uri": "en/4/119523032",
+    "id": "119523032",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "All purpose penetrating oil",
+    "harm": {
+      "id": "0032576",
+      "title": "119523032 - All purpose penetrating oil",
+      "conceptLink": "/ec2/concept/5981265"
+    }
+  },
+  {
+    "uri": "en/4/507153",
+    "id": "507153",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Animal fat for technical uses",
+    "harm": {
+      "id": "0017075",
+      "title": "507153 - Animal fat for technical uses",
+      "conceptLink": "/ec2/concept/5967091"
+    }
+  },
+  {
+    "uri": "en/4/136011005",
+    "id": "136011005",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Animal oils for industrial purposes",
+    "harm": {
+      "id": "0055168",
+      "title": "136011005 - Animal oils for industrial purposes",
+      "conceptLink": "/ec2/concept/5996605"
+    }
+  },
+  {
+    "uri": "en/4/79051",
+    "id": "79051",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Anthracite",
+    "harm": {
+      "id": "0007317",
+      "title": "79051 - Anthracite",
+      "conceptLink": "/ec2/concept/5958157"
+    }
+  },
+  {
+    "uri": "en/4/124738968",
+    "id": "124738968",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Anti-freezing additives (Non-chemical -) for fuels",
+    "harm": {
+      "id": "0017076",
+      "title": "124738968 - Anti-freezing additives (Non-chemical -) for fuels",
+      "conceptLink": "/ec2/concept/5967092"
+    }
+  },
+  {
+    "uri": "en/4/507180",
+    "id": "507180",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Anti-seize substances [oils]",
+    "harm": {
+      "id": "0045873",
+      "title": "507180 - Anti-seize substances [oils]",
+      "conceptLink": "/ec2/concept/5993398"
+    }
+  },
+  {
+    "uri": "en/4/79148",
+    "id": "79148",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Arms [weapons] (Grease for -)",
+    "harm": {
+      "id": "0024710",
+      "title": "79148 - Arms [weapons] (Grease for -)",
+      "conceptLink": "/ec2/concept/5974084"
+    }
+  },
+  {
+    "uri": "en/4/900594",
+    "id": "900594",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Aromatherapy fragrance candles",
+    "harm": {
+      "id": "0039538",
+      "title": "900594 - Aromatherapy fragrance candles",
+      "conceptLink": "/ec2/concept/5987605"
+    }
+  },
+  {
+    "uri": "en/4/381856",
+    "id": "381856",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Artificial fireplace logs",
+    "harm": {
+      "id": "0006529",
+      "title": "381856 - Artificial fireplace logs",
+      "conceptLink": "/ec2/concept/5957434"
+    }
+  },
+  {
+    "uri": "en/4/317455",
+    "id": "317455",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Artificial petroleum",
+    "harm": {
+      "id": "0030515",
+      "title": "317455 - Artificial petroleum",
+      "conceptLink": "/ec2/concept/5979402"
+    }
+  },
+  {
+    "uri": "en/4/382203",
+    "id": "382203",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automobile fuels",
+    "harm": {
+      "id": "0038106",
+      "title": "382203 - Automobile fuels",
+      "conceptLink": "/ec2/concept/5986298"
+    }
+  },
+  {
+    "uri": "en/4/4973754",
+    "id": "4973754",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automobile lubricants",
+    "harm": {
+      "id": "0058685",
+      "title": "4973754 - Automobile lubricants",
+      "conceptLink": "/ec2/concept/6000178"
+    }
+  },
+  {
+    "uri": "en/4/900766",
+    "id": "900766",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive engine oils",
+    "harm": {
+      "id": "0057627",
+      "title": "900766 - Automotive engine oils",
+      "conceptLink": "/ec2/concept/5999132"
+    }
+  },
+  {
+    "uri": "en/4/507209",
+    "id": "507209",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive final drive oils",
+    "harm": {
+      "id": "0003413",
+      "title": "507209 - Automotive final drive oils",
+      "conceptLink": "/ec2/concept/5954574"
+    }
+  },
+  {
+    "uri": "en/4/381914",
+    "id": "381914",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive greases",
+    "harm": {
+      "id": "0029681",
+      "title": "381914 - Automotive greases",
+      "conceptLink": "/ec2/concept/5978634"
+    }
+  },
+  {
+    "uri": "en/4/381876",
+    "id": "381876",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive lubricants",
+    "harm": {
+      "id": "0058685",
+      "title": "381876 - Automotive lubricants",
+      "conceptLink": "/ec2/concept/6000178"
+    }
+  },
+  {
+    "uri": "en/4/507224",
+    "id": "507224",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive lubricants for car engines",
+    "harm": {
+      "id": "0032272",
+      "title": "507224 - Automotive lubricants for car engines",
+      "conceptLink": "/ec2/concept/5980989"
+    }
+  },
+  {
+    "uri": "en/4/381877",
+    "id": "381877",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Automotive lubricating compounds",
+    "harm": {
+      "id": "0058685",
+      "title": "381877 - Automotive lubricating compounds",
+      "conceptLink": "/ec2/concept/6000178"
+    }
+  },
+  {
+    "uri": "en/4/317470",
+    "id": "317470",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Aviation fuel",
+    "harm": {
+      "id": "0024757",
+      "title": "317470 - Aviation fuel",
+      "conceptLink": "/ec2/concept/5974126"
+    }
+  },
+  {
+    "uri": "en/4/132747760",
+    "id": "132747760",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Bagasse for use as fuel",
+    "harm": {
+      "id": "0055400",
+      "title": "132747760 - Bagasse for use as fuel",
+      "conceptLink": "/ec2/concept/5996804"
+    }
+  },
+  {
+    "uri": "en/4/507236",
+    "id": "507236",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Barbecue briquettes",
+    "harm": {
+      "id": "0026520",
+      "title": "507236 - Barbecue briquettes",
+      "conceptLink": "/ec2/concept/5975737"
+    }
+  },
+  {
+    "uri": "en/4/507252",
+    "id": "507252",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Barbecue fuel made from woodchips",
+    "harm": {
+      "id": "0026521",
+      "title": "507252 - Barbecue fuel made from woodchips",
+      "conceptLink": "/ec2/concept/5975738"
+    }
+  },
+  {
+    "uri": "en/4/507269",
+    "id": "507269",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Barbecue lighting fuel",
+    "harm": {
+      "id": "0032273",
+      "title": "507269 - Barbecue lighting fuel",
+      "conceptLink": "/ec2/concept/5980990"
+    }
+  },
+  {
+    "uri": "en/4/507283",
+    "id": "507283",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Barbecue liquid lighters",
+    "harm": {
+      "id": "0015004",
+      "title": "507283 - Barbecue liquid lighters",
+      "conceptLink": "/ec2/concept/5965193"
+    }
+  },
+  {
+    "uri": "en/4/4973894",
+    "id": "4973894",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Base oils",
+    "harm": {
+      "id": "0073954",
+      "title": "4973894 - Base oils",
+      "conceptLink": "/ec2/concept/6011190"
+    }
+  },
+  {
+    "uri": "en/4/137957953",
+    "id": "137957953",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Baseball glove conditioning oil",
+    "harm": {
+      "id": "0073540",
+      "title": "137957953 - Baseball glove conditioning oil",
+      "conceptLink": "/ec2/concept/6009713"
+    }
+  },
+  {
+    "uri": "en/4/119690596",
+    "id": "119690596",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beef tallow for industrial purposes",
+    "harm": {
+      "id": "0055401",
+      "title": "119690596 - Beef tallow for industrial purposes",
+      "conceptLink": "/ec2/concept/5996805"
+    }
+  },
+  {
+    "uri": "en/4/78828",
+    "id": "78828",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beeswax",
+    "harm": {
+      "id": "0008750",
+      "title": "78828 - Beeswax",
+      "conceptLink": "/ec2/concept/5959454"
+    }
+  },
+  {
+    "uri": "en/4/132925484",
+    "id": "132925484",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beeswax for use in further manufacture",
+    "harm": {
+      "id": "0060372",
+      "title": "132925484 - Beeswax for use in further manufacture",
+      "conceptLink": "/ec2/concept/5998348"
+    }
+  },
+  {
+    "uri": "en/4/381942",
+    "id": "381942",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beeswax for use in the manufacture of cosmetics",
+    "harm": {
+      "id": "0023941",
+      "title": "381942 - Beeswax for use in the manufacture of cosmetics",
+      "conceptLink": "/ec2/concept/5973369"
+    }
+  },
+  {
+    "uri": "en/4/381955",
+    "id": "381955",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beeswax for use in the manufacture of ointments",
+    "harm": {
+      "id": "0023942",
+      "title": "381955 - Beeswax for use in the manufacture of ointments",
+      "conceptLink": "/ec2/concept/5973370"
+    }
+  },
+  {
+    "uri": "en/4/381929",
+    "id": "381929",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Beeswax for use in the manufacture of candles",
+    "harm": {
+      "id": "0041248",
+      "title": "381929 - Beeswax for use in the manufacture of candles",
+      "conceptLink": "/ec2/concept/5989173"
+    }
+  },
+  {
+    "uri": "en/4/80106",
+    "id": "80106",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Belt dressings",
+    "harm": {
+      "id": "0029630",
+      "title": "80106 - Belt dressings",
+      "conceptLink": "/ec2/concept/5978588"
+    }
+  },
+  {
+    "uri": "en/4/79973",
+    "id": "79973",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Belting wax",
+    "harm": {
+      "id": "0041208",
+      "title": "79973 - Belting wax",
+      "conceptLink": "/ec2/concept/5989136"
+    }
+  },
+  {
+    "uri": "en/4/80107",
+    "id": "80107",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Belts (Grease for -)",
+    "harm": {
+      "id": "0046477",
+      "title": "80107 - Belts (Grease for -)",
+      "conceptLink": "/ec2/concept/5993922"
+    }
+  },
+  {
+    "uri": "en/4/79076",
+    "id": "79076",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Belts (Non-slipping preparations for -)",
+    "harm": {
+      "id": "0007318",
+      "title": "79076 - Belts (Non-slipping preparations for -)",
+      "conceptLink": "/ec2/concept/5958158"
+    }
+  },
+  {
+    "uri": "en/4/381967",
+    "id": "381967",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Benzene fuel",
+    "harm": {
+      "id": "0035479",
+      "title": "381967 - Benzene fuel",
+      "conceptLink": "/ec2/concept/5983913"
+    }
+  },
+  {
+    "uri": "en/4/80515",
+    "id": "80515",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Benzine",
+    "harm": {
+      "id": "0071829",
+      "title": "80515 - Benzine",
+      "conceptLink": "/ec2/concept/6008015"
+    }
+  },
+  {
+    "uri": "en/4/137176840",
+    "id": "137176840",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Benzine fuel",
+    "harm": {
+      "id": "0060398",
+      "title": "137176840 - Benzine fuel",
+      "conceptLink": "/ec2/concept/5998372"
+    }
+  },
+  {
+    "uri": "en/4/507298",
+    "id": "507298",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Binding preparations for solid fuels",
+    "harm": {
+      "id": "0009166",
+      "title": "507298 - Binding preparations for solid fuels",
+      "conceptLink": "/ec2/concept/5959849"
+    }
+  },
+  {
+    "uri": "en/4/884165",
+    "id": "884165",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Biodiesel",
+    "harm": {
+      "id": "0004719",
+      "title": "884165 - Biodiesel",
+      "conceptLink": "/ec2/concept/5955775"
+    }
+  },
+  {
+    "uri": "en/4/884440",
+    "id": "884440",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Biodiesel fuel",
+    "harm": {
+      "id": "0024745",
+      "title": "884440 - Biodiesel fuel",
+      "conceptLink": "/ec2/concept/5974117"
+    }
+  },
+  {
+    "uri": "en/4/884456",
+    "id": "884456",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Biofuel",
+    "harm": {
+      "id": "0013166",
+      "title": "884456 - Biofuel",
+      "conceptLink": "/ec2/concept/5963510"
+    }
+  },
+  {
+    "uri": "en/4/884457",
+    "id": "884457",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Biofuels",
+    "harm": {
+      "id": "0013166",
+      "title": "884457 - Biofuels",
+      "conceptLink": "/ec2/concept/5963510"
+    }
+  },
+  {
+    "uri": "en/4/17085947",
+    "id": "17085947",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Biomass fuel",
+    "harm": {
+      "id": "0069889",
+      "title": "17085947 - Biomass fuel",
+      "conceptLink": "/ec2/concept/6006092"
+    }
+  },
+  {
+    "uri": "en/4/507311",
+    "id": "507311",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Bitumen emulsions for fuel",
+    "harm": {
+      "id": "0009167",
+      "title": "507311 - Bitumen emulsions for fuel",
+      "conceptLink": "/ec2/concept/5959850"
+    }
+  },
+  {
+    "uri": "en/4/129427750",
+    "id": "129427750",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Blocks of peat [fuel]",
+    "harm": {
+      "id": "0025921",
+      "title": "129427750 - Blocks of peat [fuel]",
+      "conceptLink": "/ec2/concept/5975189"
+    }
+  },
+  {
+    "uri": "en/4/131090229",
+    "id": "131090229",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Boiled oil for industrial purposes",
+    "harm": {
+      "id": "0055402",
+      "title": "131090229 - Boiled oil for industrial purposes",
+      "conceptLink": "/ec2/concept/5996806"
+    }
+  },
+  {
+    "uri": "en/4/81407",
+    "id": "81407",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Bone oil for industrial purposes",
+    "harm": {
+      "id": "0014426",
+      "title": "81407 - Bone oil for industrial purposes",
+      "conceptLink": "/ec2/concept/5964670"
+    }
+  },
+  {
+    "uri": "en/4/79882",
+    "id": "79882",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Boots (Grease for -)",
+    "harm": {
+      "id": "0023893",
+      "title": "79882 - Boots (Grease for -)",
+      "conceptLink": "/ec2/concept/5973323"
+    }
+  },
+  {
+    "uri": "en/4/126304087",
+    "id": "126304087",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Bougies in the nature of wax candles",
+    "harm": {
+      "id": "0023894",
+      "title": "126304087 - Bougies in the nature of wax candles",
+      "conceptLink": "/ec2/concept/5973324"
+    }
+  },
+  {
+    "uri": "en/4/507339",
+    "id": "507339",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes",
+    "harm": {
+      "id": "0028641",
+      "title": "507339 - Briquettes",
+      "conceptLink": "/ec2/concept/5977679"
+    }
+  },
+  {
+    "uri": "en/4/79553",
+    "id": "79553",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes (Combustible -)",
+    "harm": {
+      "id": "0039787",
+      "title": "79553 - Briquettes (Combustible -)",
+      "conceptLink": "/ec2/concept/5987835"
+    }
+  },
+  {
+    "uri": "en/4/507360",
+    "id": "507360",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes of bitumen",
+    "harm": {
+      "id": "0011319",
+      "title": "507360 - Briquettes of bitumen",
+      "conceptLink": "/ec2/concept/5961816"
+    }
+  },
+  {
+    "uri": "en/4/79438",
+    "id": "79438",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes of coal",
+    "harm": {
+      "id": "0058785",
+      "title": "79438 - Briquettes of coal",
+      "conceptLink": "/ec2/concept/6000276"
+    }
+  },
+  {
+    "uri": "en/4/79517",
+    "id": "79517",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes of wood",
+    "harm": {
+      "id": "0002865",
+      "title": "79517 - Briquettes of wood",
+      "conceptLink": "/ec2/concept/5954065"
+    }
+  },
+  {
+    "uri": "en/4/79518",
+    "id": "79518",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Briquettes (Wood -)",
+    "harm": {
+      "id": "0002865",
+      "title": "79518 - Briquettes (Wood -)",
+      "conceptLink": "/ec2/concept/5954065"
+    }
+  },
+  {
+    "uri": "en/4/507374",
+    "id": "507374",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Butane for lighting",
+    "harm": {
+      "id": "0034443",
+      "title": "507374 - Butane for lighting",
+      "conceptLink": "/ec2/concept/5982975"
+    }
+  },
+  {
+    "uri": "en/4/104771873",
+    "id": "104771873",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Butane fuel",
+    "harm": {
+      "id": "0060870",
+      "title": "104771873 - Butane fuel",
+      "conceptLink": "/ec2/concept/6001190"
+    }
+  },
+  {
+    "uri": "en/4/507386",
+    "id": "507386",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Butane gas for use as a fuel",
+    "harm": {
+      "id": "0028642",
+      "title": "507386 - Butane gas for use as a fuel",
+      "conceptLink": "/ec2/concept/5977680"
+    }
+  },
+  {
+    "uri": "en/4/137874476",
+    "id": "137874476",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Butane gas for use as a household fuel",
+    "harm": {
+      "id": "0074048",
+      "title": "137874476 - Butane gas for use as a household fuel",
+      "conceptLink": "/ec2/concept/6011284"
+    }
+  },
+  {
+    "uri": "en/4/137874467",
+    "id": "137874467",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Butane lighter fuel",
+    "harm": {
+      "id": "0074049",
+      "title": "137874467 - Butane lighter fuel",
+      "conceptLink": "/ec2/concept/6011285"
+    }
+  },
+  {
+    "uri": "en/4/507404",
+    "id": "507404",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Cable lubricants",
+    "harm": {
+      "id": "0036575",
+      "title": "507404 - Cable lubricants",
+      "conceptLink": "/ec2/concept/5984907"
+    }
+  },
+  {
+    "uri": "en/4/507432",
+    "id": "507432",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candle assemblies",
+    "harm": {
+      "id": "0017125",
+      "title": "507432 - Candle assemblies",
+      "conceptLink": "/ec2/concept/5967137"
+    }
+  },
+  {
+    "uri": "en/4/35974881",
+    "id": "35974881",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candle torches",
+    "harm": {
+      "id": "0071714",
+      "title": "35974881 - Candle torches",
+      "conceptLink": "/ec2/concept/6007902"
+    }
+  },
+  {
+    "uri": "en/4/136189418",
+    "id": "136189418",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candle wax",
+    "harm": {
+      "id": "0060373",
+      "title": "136189418 - Candle wax",
+      "conceptLink": "/ec2/concept/5998349"
+    }
+  },
+  {
+    "uri": "en/4/79374",
+    "id": "79374",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles",
+    "harm": {
+      "id": "0059309",
+      "title": "79374 - Candles",
+      "conceptLink": "/ec2/concept/6000791"
+    }
+  },
+  {
+    "uri": "en/4/901485",
+    "id": "901485",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles and wicks for candles for lighting",
+    "harm": {
+      "id": "0046843",
+      "title": "901485 - Candles and wicks for candles for lighting",
+      "conceptLink": "/ec2/concept/5994239"
+    }
+  },
+  {
+    "uri": "en/4/505742",
+    "id": "505742",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles and wicks for lighting",
+    "harm": {
+      "id": "0046843",
+      "title": "505742 - Candles and wicks for lighting",
+      "conceptLink": "/ec2/concept/5994239"
+    }
+  },
+  {
+    "uri": "en/4/79111",
+    "id": "79111",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles (Christmas tree -)",
+    "harm": {
+      "id": "0025030",
+      "title": "79111 - Candles (Christmas tree -)",
+      "conceptLink": "/ec2/concept/5974376"
+    }
+  },
+  {
+    "uri": "en/4/901490",
+    "id": "901490",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles containing insect repellent",
+    "harm": {
+      "id": "0028094",
+      "title": "901490 - Candles containing insect repellent",
+      "conceptLink": "/ec2/concept/5977168"
+    }
+  },
+  {
+    "uri": "en/4/381981",
+    "id": "381981",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles for absorbing smoke",
+    "harm": {
+      "id": "0018130",
+      "title": "381981 - Candles for absorbing smoke",
+      "conceptLink": "/ec2/concept/5968051"
+    }
+  },
+  {
+    "uri": "en/4/79373",
+    "id": "79373",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles for lighting",
+    "harm": {
+      "id": "0059308",
+      "title": "79373 - Candles for lighting",
+      "conceptLink": "/ec2/concept/6000790"
+    }
+  },
+  {
+    "uri": "en/4/901499",
+    "id": "901499",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles for night lights",
+    "harm": {
+      "id": "0034771",
+      "title": "901499 - Candles for night lights",
+      "conceptLink": "/ec2/concept/5983269"
+    }
+  },
+  {
+    "uri": "en/4/507446",
+    "id": "507446",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles for use as nightlights",
+    "harm": {
+      "id": "0017126",
+      "title": "507446 - Candles for use as nightlights",
+      "conceptLink": "/ec2/concept/5967138"
+    }
+  },
+  {
+    "uri": "en/4/507459",
+    "id": "507459",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles for use in the decoration of cakes",
+    "harm": {
+      "id": "0017127",
+      "title": "507459 - Candles for use in the decoration of cakes",
+      "conceptLink": "/ec2/concept/5967139"
+    }
+  },
+  {
+    "uri": "en/4/382002",
+    "id": "382002",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles in tins",
+    "harm": {
+      "id": "0006530",
+      "title": "382002 - Candles in tins",
+      "conceptLink": "/ec2/concept/5957435"
+    }
+  },
+  {
+    "uri": "en/4/317921",
+    "id": "317921",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Candles (Perfumed -)",
+    "harm": {
+      "id": "0007452",
+      "title": "317921 - Candles (Perfumed -)",
+      "conceptLink": "/ec2/concept/5958280"
+    }
+  },
+  {
+    "uri": "en/4/507476",
+    "id": "507476",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Carbon dioxide for lighting",
+    "harm": {
+      "id": "0040195",
+      "title": "507476 - Carbon dioxide for lighting",
+      "conceptLink": "/ec2/concept/5988211"
+    }
+  },
+  {
+    "uri": "en/4/79739",
+    "id": "79739",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Carburants",
+    "harm": {
+      "id": "0058853",
+      "title": "79739 - Carburants",
+      "conceptLink": "/ec2/concept/6000344"
+    }
+  },
+  {
+    "uri": "en/4/79635",
+    "id": "79635",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Carnauba wax",
+    "harm": {
+      "id": "0018995",
+      "title": "79635 - Carnauba wax",
+      "conceptLink": "/ec2/concept/5968854"
+    }
+  },
+  {
+    "uri": "en/4/507488",
+    "id": "507488",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Casting oils",
+    "harm": {
+      "id": "0025028",
+      "title": "507488 - Casting oils",
+      "conceptLink": "/ec2/concept/5974374"
+    }
+  },
+  {
+    "uri": "en/4/901578",
+    "id": "901578",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Castor oil for industrial purposes",
+    "harm": {
+      "id": "0015975",
+      "title": "901578 - Castor oil for industrial purposes",
+      "conceptLink": "/ec2/concept/5966096"
+    }
+  },
+  {
+    "uri": "en/4/82001",
+    "id": "82001",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Castor oil for technical purposes",
+    "harm": {
+      "id": "0019993",
+      "title": "82001 - Castor oil for technical purposes",
+      "conceptLink": "/ec2/concept/5969754"
+    }
+  },
+  {
+    "uri": "en/4/317486",
+    "id": "317486",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Castor oil [not edible]",
+    "harm": {
+      "id": "0016141",
+      "title": "317486 - Castor oil [not edible]",
+      "conceptLink": "/ec2/concept/5966251"
+    }
+  },
+  {
+    "uri": "en/4/79660",
+    "id": "79660",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Ceresine",
+    "harm": {
+      "id": "0020261",
+      "title": "79660 - Ceresine",
+      "conceptLink": "/ec2/concept/5969998"
+    }
+  },
+  {
+    "uri": "en/4/382022",
+    "id": "382022",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Chafing dish fuel",
+    "harm": {
+      "id": "0035480",
+      "title": "382022 - Chafing dish fuel",
+      "conceptLink": "/ec2/concept/5983914"
+    }
+  },
+  {
+    "uri": "en/4/507406",
+    "id": "507406",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Chain grease",
+    "harm": {
+      "id": "0036575",
+      "title": "507406 - Chain grease",
+      "conceptLink": "/ec2/concept/5984907"
+    }
+  },
+  {
+    "uri": "en/4/507503",
+    "id": "507503",
+    "lang": "en",
+    "classNumber": "4",
+    "term": "Chain oil",
+    "harm": {
+      "id": "0036576",
+      "title": "507503 - Chain oil",
+      "conceptLink": "/ec2/concept/5984908"
+    }
+  }
+]

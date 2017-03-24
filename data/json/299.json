@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/171991",
+    "id": "171991",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath installations",
+    "harm": {
+      "id": "0000099",
+      "title": "171991 - Bath installations",
+      "conceptLink": "/ec2/concept/5951576"
+    }
+  },
+  {
+    "uri": "en/11/181813",
+    "id": "181813",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath installations (Sauna -)",
+    "harm": {
+      "id": "0058273",
+      "title": "181813 - Bath installations (Sauna -)",
+      "conceptLink": "/ec2/concept/5999772"
+    }
+  },
+  {
+    "uri": "en/11/171740",
+    "id": "171740",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath linings",
+    "harm": {
+      "id": "0040373",
+      "title": "171740 - Bath linings",
+      "conceptLink": "/ec2/concept/5988372"
+    }
+  },
+  {
+    "uri": "en/11/137794818",
+    "id": "137794818",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath linings, fitted",
+    "harm": {
+      "id": "0074057",
+      "title": "137794818 - Bath linings, fitted",
+      "conceptLink": "/ec2/concept/6011293"
+    }
+  },
+  {
+    "uri": "en/11/722915",
+    "id": "722915",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath panels",
+    "harm": {
+      "id": "0008434",
+      "title": "722915 - Bath panels",
+      "conceptLink": "/ec2/concept/5959172"
+    }
+  },
+  {
+    "uri": "en/11/171992",
+    "id": "171992",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath plumbing fixtures",
+    "harm": {
+      "id": "0000099",
+      "title": "171992 - Bath plumbing fixtures",
+      "conceptLink": "/ec2/concept/5951576"
+    }
+  },
+  {
+    "uri": "en/11/722916",
+    "id": "722916",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath screens",
+    "harm": {
+      "id": "0008434",
+      "title": "722916 - Bath screens",
+      "conceptLink": "/ec2/concept/5959172"
+    }
+  },
+  {
+    "uri": "en/11/406119",
+    "id": "406119",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath spouts",
+    "harm": {
+      "id": "0020759",
+      "title": "406119 - Bath spouts",
+      "conceptLink": "/ec2/concept/5970458"
+    }
+  },
+  {
+    "uri": "en/11/722944",
+    "id": "722944",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath taps",
+    "harm": {
+      "id": "0008435",
+      "title": "722944 - Bath taps",
+      "conceptLink": "/ec2/concept/5959173"
+    }
+  },
+  {
+    "uri": "en/11/406146",
+    "id": "406146",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath tub jets",
+    "harm": {
+      "id": "0020861",
+      "title": "406146 - Bath tub jets",
+      "conceptLink": "/ec2/concept/5970554"
+    }
+  },
+  {
+    "uri": "en/11/171687",
+    "id": "171687",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath tubs",
+    "harm": {
+      "id": "0057687",
+      "title": "171687 - Bath tubs",
+      "conceptLink": "/ec2/concept/5999191"
+    }
+  },
+  {
+    "uri": "en/11/171777",
+    "id": "171777",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bath tubs for sitz baths",
+    "harm": {
+      "id": "0018532",
+      "title": "171777 - Bath tubs for sitz baths",
+      "conceptLink": "/ec2/concept/5968425"
+    }
+  },
+  {
+    "uri": "en/11/178493",
+    "id": "178493",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom basins [parts of sanitary installations]",
+    "harm": {
+      "id": "0002732",
+      "title": "178493 - Bathroom basins [parts of sanitary installations]",
+      "conceptLink": "/ec2/concept/5953948"
+    }
+  },
+  {
+    "uri": "en/11/84767698",
+    "id": "84767698",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom heaters",
+    "harm": {
+      "id": "0073060",
+      "title": "84767698 - Bathroom heaters",
+      "conceptLink": "/ec2/concept/6009233"
+    }
+  },
+  {
+    "uri": "en/11/171990",
+    "id": "171990",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom installations",
+    "harm": {
+      "id": "0031585",
+      "title": "171990 - Bathroom installations",
+      "conceptLink": "/ec2/concept/5980365"
+    }
+  },
+  {
+    "uri": "en/11/722959",
+    "id": "722959",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom installations for sanitary purposes",
+    "harm": {
+      "id": "0018519",
+      "title": "722959 - Bathroom installations for sanitary purposes",
+      "conceptLink": "/ec2/concept/5968413"
+    }
+  },
+  {
+    "uri": "en/11/722972",
+    "id": "722972",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom installations for water supply purposes",
+    "harm": {
+      "id": "0030032",
+      "title": "722972 - Bathroom installations for water supply purposes",
+      "conceptLink": "/ec2/concept/5978953"
+    }
+  },
+  {
+    "uri": "en/11/722984",
+    "id": "722984",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom sinks",
+    "harm": {
+      "id": "0006896",
+      "title": "722984 - Bathroom sinks",
+      "conceptLink": "/ec2/concept/5957765"
+    }
+  },
+  {
+    "uri": "en/11/178494",
+    "id": "178494",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathroom wash basins",
+    "harm": {
+      "id": "0006896",
+      "title": "178494 - Bathroom wash basins",
+      "conceptLink": "/ec2/concept/5957765"
+    }
+  },
+  {
+    "uri": "en/11/171690",
+    "id": "171690",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths",
+    "harm": {
+      "id": "0057687",
+      "title": "171690 - Baths",
+      "conceptLink": "/ec2/concept/5999191"
+    }
+  },
+  {
+    "uri": "en/11/477624",
+    "id": "477624",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths for use by the physically handicapped",
+    "harm": {
+      "id": "0038132",
+      "title": "477624 - Baths for use by the physically handicapped",
+      "conceptLink": "/ec2/concept/5986319"
+    }
+  },
+  {
+    "uri": "en/11/171928",
+    "id": "171928",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths (Heaters for -)",
+    "harm": {
+      "id": "0017421",
+      "title": "171928 - Baths (Heaters for -)",
+      "conceptLink": "/ec2/concept/5967404"
+    }
+  },
+  {
+    "uri": "en/11/722999",
+    "id": "722999",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths incorporating air jets",
+    "harm": {
+      "id": "0018520",
+      "title": "722999 - Baths incorporating air jets",
+      "conceptLink": "/ec2/concept/5968414"
+    }
+  },
+  {
+    "uri": "en/11/723014",
+    "id": "723014",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths incorporating apparatus for assisting entry into the bath",
+    "harm": {
+      "id": "0006897",
+      "title": "723014 - Baths incorporating apparatus for assisting entry into the bath",
+      "conceptLink": "/ec2/concept/5957766"
+    }
+  },
+  {
+    "uri": "en/11/723030",
+    "id": "723030",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths incorporating apparatus for assisting exit out of the bath",
+    "harm": {
+      "id": "0006898",
+      "title": "723030 - Baths incorporating apparatus for assisting exit out of the bath",
+      "conceptLink": "/ec2/concept/5957767"
+    }
+  },
+  {
+    "uri": "en/11/181594",
+    "id": "181594",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Baths (Spa -) [vessels]",
+    "harm": {
+      "id": "0035265",
+      "title": "181594 - Baths (Spa -) [vessels]",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/406158",
+    "id": "406158",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathtub enclosures",
+    "harm": {
+      "id": "0014067",
+      "title": "406158 - Bathtub enclosures",
+      "conceptLink": "/ec2/concept/5964328"
+    }
+  },
+  {
+    "uri": "en/11/171689",
+    "id": "171689",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bathtubs",
+    "harm": {
+      "id": "0057687",
+      "title": "171689 - Bathtubs",
+      "conceptLink": "/ec2/concept/5999191"
+    }
+  },
+  {
+    "uri": "en/11/723047",
+    "id": "723047",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Battery powered fluorescent emergency lighting units",
+    "harm": {
+      "id": "0012730",
+      "title": "723047 - Battery powered fluorescent emergency lighting units",
+      "conceptLink": "/ec2/concept/5963110"
+    }
+  },
+  {
+    "uri": "en/11/723060",
+    "id": "723060",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Battery powered incandescent emergency lighting units",
+    "harm": {
+      "id": "0001139",
+      "title": "723060 - Battery powered incandescent emergency lighting units",
+      "conceptLink": "/ec2/concept/5952512"
+    }
+  },
+  {
+    "uri": "en/11/182196",
+    "id": "182196",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bed warmers",
+    "harm": {
+      "id": "0071954",
+      "title": "182196 - Bed warmers",
+      "conceptLink": "/ec2/concept/6008138"
+    }
+  },
+  {
+    "uri": "en/11/723073",
+    "id": "723073",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bedside lamps",
+    "harm": {
+      "id": "0024310",
+      "title": "723073 - Bedside lamps",
+      "conceptLink": "/ec2/concept/5973712"
+    }
+  },
+  {
+    "uri": "en/11/119532473",
+    "id": "119532473",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Beverage-cooling apparatus",
+    "harm": {
+      "id": "0012731",
+      "title": "119532473 - Beverage-cooling apparatus",
+      "conceptLink": "/ec2/concept/5963111"
+    }
+  },
+  {
+    "uri": "en/11/175783",
+    "id": "175783",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Beverage cooling apparatus",
+    "harm": {
+      "id": "0012731",
+      "title": "175783 - Beverage cooling apparatus",
+      "conceptLink": "/ec2/concept/5963111"
+    }
+  },
+  {
+    "uri": "en/11/723088",
+    "id": "723088",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Beverage refrigerators for use in automobiles",
+    "harm": {
+      "id": "0030033",
+      "title": "723088 - Beverage refrigerators for use in automobiles",
+      "conceptLink": "/ec2/concept/5978954"
+    }
+  },
+  {
+    "uri": "en/11/175782",
+    "id": "175782",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Beverages cooling apparatus",
+    "harm": {
+      "id": "0012731",
+      "title": "175782 - Beverages cooling apparatus",
+      "conceptLink": "/ec2/concept/5963111"
+    }
+  },
+  {
+    "uri": "en/11/408688",
+    "id": "408688",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bibcocks [plumbing fittings]",
+    "harm": {
+      "id": "0014948",
+      "title": "408688 - Bibcocks [plumbing fittings]",
+      "conceptLink": "/ec2/concept/5965141"
+    }
+  },
+  {
+    "uri": "en/11/120893674",
+    "id": "120893674",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bicycle dynamo lights",
+    "harm": {
+      "id": "0066233",
+      "title": "120893674 - Bicycle dynamo lights",
+      "conceptLink": "/ec2/concept/6002436"
+    }
+  },
+  {
+    "uri": "en/11/172376",
+    "id": "172376",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bicycle lamps",
+    "harm": {
+      "id": "0025452",
+      "title": "172376 - Bicycle lamps",
+      "conceptLink": "/ec2/concept/5974763"
+    }
+  },
+  {
+    "uri": "en/11/172377",
+    "id": "172377",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bicycle lights",
+    "harm": {
+      "id": "0025452",
+      "title": "172377 - Bicycle lights",
+      "conceptLink": "/ec2/concept/5974763"
+    }
+  },
+  {
+    "uri": "en/11/1105640",
+    "id": "1105640",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bicycle reflectors",
+    "harm": {
+      "id": "0066299",
+      "title": "1105640 - Bicycle reflectors",
+      "conceptLink": "/ec2/concept/6002502"
+    }
+  },
+  {
+    "uri": "en/11/723100",
+    "id": "723100",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bicycle reflectors for attachment to spokes",
+    "harm": {
+      "id": "0035846",
+      "title": "723100 - Bicycle reflectors for attachment to spokes",
+      "conceptLink": "/ec2/concept/5984247"
+    }
+  },
+  {
+    "uri": "en/11/409534",
+    "id": "409534",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bidet taps",
+    "harm": {
+      "id": "0041611",
+      "title": "409534 - Bidet taps",
+      "conceptLink": "/ec2/concept/5989507"
+    }
+  },
+  {
+    "uri": "en/11/172422",
+    "id": "172422",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bidets",
+    "harm": {
+      "id": "0040355",
+      "title": "172422 - Bidets",
+      "conceptLink": "/ec2/concept/5988357"
+    }
+  },
+  {
+    "uri": "en/11/893836",
+    "id": "893836",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Biological reactors for clarifying industrial effluents",
+    "harm": {
+      "id": "0027046",
+      "title": "893836 - Biological reactors for clarifying industrial effluents",
+      "conceptLink": "/ec2/concept/5976205"
+    }
+  },
+  {
+    "uri": "en/11/120834773",
+    "id": "120834773",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bioreactors for use in the treatment of waste",
+    "harm": {
+      "id": "0066276",
+      "title": "120834773 - Bioreactors for use in the treatment of waste",
+      "conceptLink": "/ec2/concept/6002479"
+    }
+  },
+  {
+    "uri": "en/11/120834768",
+    "id": "120834768",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bioreactors for use in the treatment of wastewater",
+    "harm": {
+      "id": "0066277",
+      "title": "120834768 - Bioreactors for use in the treatment of wastewater",
+      "conceptLink": "/ec2/concept/6002480"
+    }
+  },
+  {
+    "uri": "en/11/182250",
+    "id": "182250",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Blankets, electric, not for medical purposes",
+    "harm": {
+      "id": "0024216",
+      "title": "182250 - Blankets, electric, not for medical purposes",
+      "conceptLink": "/ec2/concept/5973627"
+    }
+  },
+  {
+    "uri": "en/11/723116",
+    "id": "723116",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Blast furnaces",
+    "harm": {
+      "id": "0035847",
+      "title": "723116 - Blast furnaces",
+      "conceptLink": "/ec2/concept/5984248"
+    }
+  },
+  {
+    "uri": "en/11/120871530",
+    "id": "120871530",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boat trailer lights",
+    "harm": {
+      "id": "0066266",
+      "title": "120871530 - Boat trailer lights",
+      "conceptLink": "/ec2/concept/6002469"
+    }
+  },
+  {
+    "uri": "en/11/723131",
+    "id": "723131",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bogie hearth furnaces",
+    "harm": {
+      "id": "0030034",
+      "title": "723131 - Bogie hearth furnaces",
+      "conceptLink": "/ec2/concept/5978955"
+    }
+  },
+  {
+    "uri": "en/11/174032",
+    "id": "174032",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boiler pipes [tubes] for heating installations",
+    "harm": {
+      "id": "0035241",
+      "title": "174032 - Boiler pipes [tubes] for heating installations",
+      "conceptLink": "/ec2/concept/5983695"
+    }
+  },
+  {
+    "uri": "en/11/173965",
+    "id": "173965",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers",
+    "harm": {
+      "id": "0046507",
+      "title": "173965 - Boilers",
+      "conceptLink": "/ec2/concept/5993946"
+    }
+  },
+  {
+    "uri": "en/11/723143",
+    "id": "723143",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers being parts of central heating installations",
+    "harm": {
+      "id": "0019909",
+      "title": "723143 - Boilers being parts of central heating installations",
+      "conceptLink": "/ec2/concept/5969676"
+    }
+  },
+  {
+    "uri": "en/11/723158",
+    "id": "723158",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers for central heating installations",
+    "harm": {
+      "id": "0042959",
+      "title": "723158 - Boilers for central heating installations",
+      "conceptLink": "/ec2/concept/5990723"
+    }
+  },
+  {
+    "uri": "en/11/885149",
+    "id": "885149",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers for heating installations",
+    "harm": {
+      "id": "0019910",
+      "title": "885149 - Boilers for heating installations",
+      "conceptLink": "/ec2/concept/5969677"
+    }
+  },
+  {
+    "uri": "en/11/723171",
+    "id": "723171",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers for hot water supply installations",
+    "harm": {
+      "id": "0025606",
+      "title": "723171 - Boilers for hot water supply installations",
+      "conceptLink": "/ec2/concept/5974900"
+    }
+  },
+  {
+    "uri": "en/11/723184",
+    "id": "723184",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers for use in heating systems",
+    "harm": {
+      "id": "0019910",
+      "title": "723184 - Boilers for use in heating systems",
+      "conceptLink": "/ec2/concept/5969677"
+    }
+  },
+  {
+    "uri": "en/11/172445",
+    "id": "172445",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Boilers, other than parts of machines",
+    "harm": {
+      "id": "0046075",
+      "title": "172445 - Boilers, other than parts of machines",
+      "conceptLink": "/ec2/concept/5993588"
+    }
+  },
+  {
+    "uri": "en/11/734376",
+    "id": "734376",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Book lights",
+    "harm": {
+      "id": "0057755",
+      "title": "734376 - Book lights",
+      "conceptLink": "/ec2/concept/5999259"
+    }
+  },
+  {
+    "uri": "en/11/137728802",
+    "id": "137728802",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Book sterilization apparatus",
+    "harm": {
+      "id": "0069917",
+      "title": "137728802 - Book sterilization apparatus",
+      "conceptLink": "/ec2/concept/6006120"
+    }
+  },
+  {
+    "uri": "en/11/136634671",
+    "id": "136634671",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Book sterilizers",
+    "harm": {
+      "id": "0060167",
+      "title": "136634671 - Book sterilizers",
+      "conceptLink": "/ec2/concept/5996429"
+    }
+  },
+  {
+    "uri": "en/11/723211",
+    "id": "723211",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bottle coolers [apparatus]",
+    "harm": {
+      "id": "0002506",
+      "title": "723211 - Bottle coolers [apparatus]",
+      "conceptLink": "/ec2/concept/5953745"
+    }
+  },
+  {
+    "uri": "en/11/182083",
+    "id": "182083",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bottle heaters",
+    "harm": {
+      "id": "0046545",
+      "title": "182083 - Bottle heaters",
+      "conceptLink": "/ec2/concept/5993982"
+    }
+  },
+  {
+    "uri": "en/11/182084",
+    "id": "182084",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bottle warmers",
+    "harm": {
+      "id": "0046538",
+      "title": "182084 - Bottle warmers",
+      "conceptLink": "/ec2/concept/5993976"
+    }
+  },
+  {
+    "uri": "en/11/180545",
+    "id": "180545",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Brackets for gas burners",
+    "harm": {
+      "id": "0046137",
+      "title": "180545 - Brackets for gas burners",
+      "conceptLink": "/ec2/concept/5993644"
+    }
+  },
+  {
+    "uri": "en/11/98204118",
+    "id": "98204118",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Brake lights for vehicles",
+    "harm": {
+      "id": "0037210",
+      "title": "98204118 - Brake lights for vehicles",
+      "conceptLink": "/ec2/concept/5985481"
+    }
+  },
+  {
+    "uri": "en/11/181023",
+    "id": "181023",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Braziers",
+    "harm": {
+      "id": "0047605",
+      "title": "181023 - Braziers",
+      "conceptLink": "/ec2/concept/5994886"
+    }
+  },
+  {
+    "uri": "en/11/493555",
+    "id": "493555",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bread baking machines",
+    "harm": {
+      "id": "0071963",
+      "title": "493555 - Bread baking machines",
+      "conceptLink": "/ec2/concept/6008147"
+    }
+  },
+  {
+    "uri": "en/11/910111",
+    "id": "910111",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bread-making machines",
+    "harm": {
+      "id": "0071964",
+      "title": "910111 - Bread-making machines",
+      "conceptLink": "/ec2/concept/6008148"
+    }
+  },
+  {
+    "uri": "en/11/78655835",
+    "id": "78655835",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bread making machines for industrial purposes",
+    "harm": {
+      "id": "0050838",
+      "title": "78655835 - Bread making machines for industrial purposes",
+      "conceptLink": "/ec2/concept/5996202"
+    }
+  },
+  {
+    "uri": "en/11/177868",
+    "id": "177868",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bread toasters",
+    "harm": {
+      "id": "0009798",
+      "title": "177868 - Bread toasters",
+      "conceptLink": "/ec2/concept/5960425"
+    }
+  },
+  {
+    "uri": "en/11/406170",
+    "id": "406170",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Broiling pans",
+    "harm": {
+      "id": "0002493",
+      "title": "406170 - Broiling pans",
+      "conceptLink": "/ec2/concept/5953732"
+    }
+  },
+  {
+    "uri": "en/11/170821",
+    "id": "170821",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bulbs for lighting",
+    "harm": {
+      "id": "0072556",
+      "title": "170821 - Bulbs for lighting",
+      "conceptLink": "/ec2/concept/6008733"
+    }
+  },
+  {
+    "uri": "en/11/723246",
+    "id": "723246",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bulkhead lights",
+    "harm": {
+      "id": "0024635",
+      "title": "723246 - Bulkhead lights",
+      "conceptLink": "/ec2/concept/5974012"
+    }
+  },
+  {
+    "uri": "en/11/394751",
+    "id": "394751",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bunsen burners for laboratory use",
+    "harm": {
+      "id": "0009035",
+      "title": "394751 - Bunsen burners for laboratory use",
+      "conceptLink": "/ec2/concept/5959724"
+    }
+  },
+  {
+    "uri": "en/11/723272",
+    "id": "723272",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burner caps for gas stoves",
+    "harm": {
+      "id": "0002507",
+      "title": "723272 - Burner caps for gas stoves",
+      "conceptLink": "/ec2/concept/5953746"
+    }
+  },
+  {
+    "uri": "en/11/723284",
+    "id": "723284",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burner control apparatus",
+    "harm": {
+      "id": "0014083",
+      "title": "723284 - Burner control apparatus",
+      "conceptLink": "/ec2/concept/5964344"
+    }
+  },
+  {
+    "uri": "en/11/172279",
+    "id": "172279",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners",
+    "harm": {
+      "id": "0046947",
+      "title": "172279 - Burners",
+      "conceptLink": "/ec2/concept/5994334"
+    }
+  },
+  {
+    "uri": "en/11/169978",
+    "id": "169978",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners (Acetylene -)",
+    "harm": {
+      "id": "0059283",
+      "title": "169978 - Burners (Acetylene -)",
+      "conceptLink": "/ec2/concept/6000767"
+    }
+  },
+  {
+    "uri": "en/11/131118431",
+    "id": "131118431",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners, boilers and heaters",
+    "harm": {
+      "id": "0047801",
+      "title": "131118431 - Burners, boilers and heaters",
+      "conceptLink": "/ec2/concept/5995076"
+    }
+  },
+  {
+    "uri": "en/11/723298",
+    "id": "723298",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for boilers",
+    "harm": {
+      "id": "0031348",
+      "title": "723298 - Burners for boilers",
+      "conceptLink": "/ec2/concept/5980164"
+    }
+  },
+  {
+    "uri": "en/11/406185",
+    "id": "406185",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for heating installations",
+    "harm": {
+      "id": "0008181",
+      "title": "406185 - Burners for heating installations",
+      "conceptLink": "/ec2/concept/5958942"
+    }
+  },
+  {
+    "uri": "en/11/723313",
+    "id": "723313",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for industrial use",
+    "harm": {
+      "id": "0031349",
+      "title": "723313 - Burners for industrial use",
+      "conceptLink": "/ec2/concept/5980165"
+    }
+  },
+  {
+    "uri": "en/11/172334",
+    "id": "172334",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for lamps",
+    "harm": {
+      "id": "0016017",
+      "title": "172334 - Burners for lamps",
+      "conceptLink": "/ec2/concept/5966136"
+    }
+  },
+  {
+    "uri": "en/11/723328",
+    "id": "723328",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for solid fuel",
+    "harm": {
+      "id": "0008200",
+      "title": "723328 - Burners for solid fuel",
+      "conceptLink": "/ec2/concept/5958959"
+    }
+  },
+  {
+    "uri": "en/11/723341",
+    "id": "723341",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for the combustion of gas in boiler units",
+    "harm": {
+      "id": "0021117",
+      "title": "723341 - Burners for the combustion of gas in boiler units",
+      "conceptLink": "/ec2/concept/5970787"
+    }
+  },
+  {
+    "uri": "en/11/723354",
+    "id": "723354",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners for the combustion of oil in boiler units",
+    "harm": {
+      "id": "0032528",
+      "title": "723354 - Burners for the combustion of oil in boiler units",
+      "conceptLink": "/ec2/concept/5981224"
+    }
+  },
+  {
+    "uri": "en/11/177522",
+    "id": "177522",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners (Gas -)",
+    "harm": {
+      "id": "0013937",
+      "title": "177522 - Burners (Gas -)",
+      "conceptLink": "/ec2/concept/5964210"
+    }
+  },
+  {
+    "uri": "en/11/173066",
+    "id": "173066",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners (Germicidal -)",
+    "harm": {
+      "id": "0017005",
+      "title": "173066 - Burners (Germicidal -)",
+      "conceptLink": "/ec2/concept/5967032"
+    }
+  },
+  {
+    "uri": "en/11/172281",
+    "id": "172281",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners (Incandescent -)",
+    "harm": {
+      "id": "0002508",
+      "title": "172281 - Burners (Incandescent -)",
+      "conceptLink": "/ec2/concept/5953747"
+    }
+  },
+  {
+    "uri": "en/11/173002",
+    "id": "173002",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Burners (Laboratory -)",
+    "harm": {
+      "id": "0034333",
+      "title": "173002 - Burners (Laboratory -)",
+      "conceptLink": "/ec2/concept/5982876"
+    }
+  },
+  {
+    "uri": "en/11/723367",
+    "id": "723367",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Bushings being parts of sanitary installations",
+    "harm": {
+      "id": "0038339",
+      "title": "723367 - Bushings being parts of sanitary installations",
+      "conceptLink": "/ec2/concept/5986514"
+    }
+  },
+  {
+    "uri": "en/11/137878078",
+    "id": "137878078",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Butane torches for kitchen use",
+    "harm": {
+      "id": "0071645",
+      "title": "137878078 - Butane torches for kitchen use",
+      "conceptLink": "/ec2/concept/6007834"
+    }
+  },
+  {
+    "uri": "en/11/181883",
+    "id": "181883",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cabinets for showers",
+    "harm": {
+      "id": "0057688",
+      "title": "181883 - Cabinets for showers",
+      "conceptLink": "/ec2/concept/5999192"
+    }
+  },
+  {
+    "uri": "en/11/723379",
+    "id": "723379",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Cabinets for washing bedpans [parts of water supply installations]",
+    "harm": {
+      "id": "0015272",
+      "title": "723379 - Cabinets for washing bedpans [parts of water supply installations]",
+      "conceptLink": "/ec2/concept/5965441"
+    }
+  },
+  {
+    "uri": "en/11/335314",
+    "id": "335314",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Calcising kilns [for industrial purposes]",
+    "harm": {
+      "id": "0042783",
+      "title": "335314 - Calcising kilns [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5990564"
+    }
+  },
+  {
+    "uri": "en/11/105823543",
+    "id": "105823543",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Camping stoves",
+    "harm": {
+      "id": "0066246",
+      "title": "105823543 - Camping stoves",
+      "conceptLink": "/ec2/concept/6002449"
+    }
+  },
+  {
+    "uri": "en/11/22831701",
+    "id": "22831701",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Candle lamps",
+    "harm": {
+      "id": "0066298",
+      "title": "22831701 - Candle lamps",
+      "conceptLink": "/ec2/concept/6002501"
+    }
+  },
+  {
+    "uri": "en/11/119532495",
+    "id": "119532495",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Candle lanterns",
+    "harm": {
+      "id": "0066297",
+      "title": "119532495 - Candle lanterns",
+      "conceptLink": "/ec2/concept/6002500"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/809715",
+    "id": "809715",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of finance for health care",
+    "harm": {
+      "id": "0039066",
+      "title": "809715 - Provision of finance for health care",
+      "conceptLink": "/ec2/concept/5987172"
+    }
+  },
+  {
+    "uri": "en/36/34056",
+    "id": "34056",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of finance for leasing",
+    "harm": {
+      "id": "0044801",
+      "title": "34056 - Provision of finance for leasing",
+      "conceptLink": "/ec2/concept/5992417"
+    }
+  },
+  {
+    "uri": "en/36/809683",
+    "id": "809683",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of finance for companies",
+    "harm": {
+      "id": "0044800",
+      "title": "809683 - Provision of finance for companies",
+      "conceptLink": "/ec2/concept/5992416"
+    }
+  },
+  {
+    "uri": "en/36/809684",
+    "id": "809684",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of finance for enterprises",
+    "harm": {
+      "id": "0044800",
+      "title": "809684 - Provision of finance for enterprises",
+      "conceptLink": "/ec2/concept/5992416"
+    }
+  },
+  {
+    "uri": "en/36/809845",
+    "id": "809845",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of finance relating to the sale and purchase of boats",
+    "harm": {
+      "id": "0005577",
+      "title": "809845 - Provision of finance relating to the sale and purchase of boats",
+      "conceptLink": "/ec2/concept/5956569"
+    }
+  },
+  {
+    "uri": "en/36/34872",
+    "id": "34872",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial advice",
+    "harm": {
+      "id": "0057314",
+      "title": "34872 - Provision of financial advice",
+      "conceptLink": "/ec2/concept/5998823"
+    }
+  },
+  {
+    "uri": "en/36/451332",
+    "id": "451332",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial guarantees for bonding real estate",
+    "harm": {
+      "id": "0009866",
+      "title": "451332 - Provision of financial guarantees for bonding real estate",
+      "conceptLink": "/ec2/concept/5960485"
+    }
+  },
+  {
+    "uri": "en/36/451307",
+    "id": "451307",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial guarantees",
+    "harm": {
+      "id": "0044181",
+      "title": "451307 - Provision of financial guarantees",
+      "conceptLink": "/ec2/concept/5991848"
+    }
+  },
+  {
+    "uri": "en/36/35305",
+    "id": "35305",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information",
+    "harm": {
+      "id": "0058007",
+      "title": "35305 - Provision of financial information",
+      "conceptLink": "/ec2/concept/5999511"
+    }
+  },
+  {
+    "uri": "en/36/809861",
+    "id": "809861",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information by way of computer terminals",
+    "harm": {
+      "id": "0028620",
+      "title": "809861 - Provision of financial information by way of computer terminals",
+      "conceptLink": "/ec2/concept/5977658"
+    }
+  },
+  {
+    "uri": "en/36/809904",
+    "id": "809904",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information relating to shares",
+    "harm": {
+      "id": "0028621",
+      "title": "809904 - Provision of financial information relating to shares",
+      "conceptLink": "/ec2/concept/5977659"
+    }
+  },
+  {
+    "uri": "en/36/809917",
+    "id": "809917",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information relating to the stock exchange",
+    "harm": {
+      "id": "0028622",
+      "title": "809917 - Provision of financial information relating to the stock exchange",
+      "conceptLink": "/ec2/concept/5977660"
+    }
+  },
+  {
+    "uri": "en/36/809873",
+    "id": "809873",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information for professionals in the field of portfolio management, for portfolio management",
+    "harm": {
+      "id": "0022964",
+      "title": "809873 - Provision of financial information for professionals in the field of portfolio management, for portfolio management",
+      "conceptLink": "/ec2/concept/5972468"
+    }
+  },
+  {
+    "uri": "en/36/809888",
+    "id": "809888",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial information relating to fuel expenditure",
+    "harm": {
+      "id": "0022965",
+      "title": "809888 - Provision of financial information relating to fuel expenditure",
+      "conceptLink": "/ec2/concept/5972469"
+    }
+  },
+  {
+    "uri": "en/36/809929",
+    "id": "809929",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial loans against security",
+    "harm": {
+      "id": "0046005",
+      "title": "809929 - Provision of financial loans against security",
+      "conceptLink": "/ec2/concept/5993522"
+    }
+  },
+  {
+    "uri": "en/36/809942",
+    "id": "809942",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial protection against foreign exchange risks",
+    "harm": {
+      "id": "0040172",
+      "title": "809942 - Provision of financial protection against foreign exchange risks",
+      "conceptLink": "/ec2/concept/5988189"
+    }
+  },
+  {
+    "uri": "en/36/809954",
+    "id": "809954",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial securities",
+    "harm": {
+      "id": "0022966",
+      "title": "809954 - Provision of financial securities",
+      "conceptLink": "/ec2/concept/5972470"
+    }
+  },
+  {
+    "uri": "en/36/486049",
+    "id": "486049",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of financial services by means of a global computer network or the internet",
+    "harm": {
+      "id": "0039882",
+      "title": "486049 - Provision of financial services by means of a global computer network or the internet",
+      "conceptLink": "/ec2/concept/5987922"
+    }
+  },
+  {
+    "uri": "en/36/809966",
+    "id": "809966",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of foreign currency",
+    "harm": {
+      "id": "0011303",
+      "title": "809966 - Provision of foreign currency",
+      "conceptLink": "/ec2/concept/5961801"
+    }
+  },
+  {
+    "uri": "en/36/809980",
+    "id": "809980",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of funds",
+    "harm": {
+      "id": "0045901",
+      "title": "809980 - Provision of funds",
+      "conceptLink": "/ec2/concept/5993425"
+    }
+  },
+  {
+    "uri": "en/36/886695",
+    "id": "886695",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of funds for hire purchase and for leasing",
+    "harm": {
+      "id": "0046028",
+      "title": "886695 - Provision of funds for hire purchase and for leasing",
+      "conceptLink": "/ec2/concept/5993543"
+    }
+  },
+  {
+    "uri": "en/36/809734",
+    "id": "809734",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of funds for hire purchase",
+    "harm": {
+      "id": "0032852",
+      "title": "809734 - Provision of funds for hire purchase",
+      "conceptLink": "/ec2/concept/5981517"
+    }
+  },
+  {
+    "uri": "en/36/486063",
+    "id": "486063",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of guarantees and securities",
+    "harm": {
+      "id": "0045642",
+      "title": "486063 - Provision of guarantees and securities",
+      "conceptLink": "/ec2/concept/5993184"
+    }
+  },
+  {
+    "uri": "en/36/809994",
+    "id": "809994",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of holiday insurance",
+    "harm": {
+      "id": "0038648",
+      "title": "809994 - Provision of holiday insurance",
+      "conceptLink": "/ec2/concept/5986799"
+    }
+  },
+  {
+    "uri": "en/36/810006",
+    "id": "810006",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of home loans",
+    "harm": {
+      "id": "0032853",
+      "title": "810006 - Provision of home loans",
+      "conceptLink": "/ec2/concept/5981518"
+    }
+  },
+  {
+    "uri": "en/36/810018",
+    "id": "810018",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of housing accommodation",
+    "harm": {
+      "id": "0009745",
+      "title": "810018 - Provision of housing accommodation",
+      "conceptLink": "/ec2/concept/5960377"
+    }
+  },
+  {
+    "uri": "en/36/810034",
+    "id": "810034",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of industrial loans",
+    "harm": {
+      "id": "0032854",
+      "title": "810034 - Provision of industrial loans",
+      "conceptLink": "/ec2/concept/5981519"
+    }
+  },
+  {
+    "uri": "en/36/810118",
+    "id": "810118",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to property [real estate]",
+    "harm": {
+      "id": "0003999",
+      "title": "810118 - Provision of information relating to property [real estate]",
+      "conceptLink": "/ec2/concept/5955104"
+    }
+  },
+  {
+    "uri": "en/36/810088",
+    "id": "810088",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to financial services",
+    "harm": {
+      "id": "0003998",
+      "title": "810088 - Provision of information relating to financial services",
+      "conceptLink": "/ec2/concept/5955103"
+    }
+  },
+  {
+    "uri": "en/36/810151",
+    "id": "810151",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to real estate",
+    "harm": {
+      "id": "0003999",
+      "title": "810151 - Provision of information relating to real estate",
+      "conceptLink": "/ec2/concept/5955104"
+    }
+  },
+  {
+    "uri": "en/36/810179",
+    "id": "810179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to stock exchange prices",
+    "harm": {
+      "id": "0011354",
+      "title": "810179 - Provision of information relating to stock exchange prices",
+      "conceptLink": "/ec2/concept/5961846"
+    }
+  },
+  {
+    "uri": "en/36/486147",
+    "id": "486147",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to insurance and financial services",
+    "harm": {
+      "id": "0035506",
+      "title": "486147 - Provision of information relating to insurance and financial services",
+      "conceptLink": "/ec2/concept/5983937"
+    }
+  },
+  {
+    "uri": "en/36/810046",
+    "id": "810046",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to accounts [financial]",
+    "harm": {
+      "id": "0038649",
+      "title": "810046 - Provision of information relating to accounts [financial]",
+      "conceptLink": "/ec2/concept/5986800"
+    }
+  },
+  {
+    "uri": "en/36/810167",
+    "id": "810167",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to stock broking",
+    "harm": {
+      "id": "0017156",
+      "title": "810167 - Provision of information relating to stock broking",
+      "conceptLink": "/ec2/concept/5967163"
+    }
+  },
+  {
+    "uri": "en/36/810194",
+    "id": "810194",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to the property market [real estate]",
+    "harm": {
+      "id": "0017157",
+      "title": "810194 - Provision of information relating to the property market [real estate]",
+      "conceptLink": "/ec2/concept/5967164"
+    }
+  },
+  {
+    "uri": "en/36/810074",
+    "id": "810074",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to debt factoring",
+    "harm": {
+      "id": "0009746",
+      "title": "810074 - Provision of information relating to debt factoring",
+      "conceptLink": "/ec2/concept/5960378"
+    }
+  },
+  {
+    "uri": "en/36/810103",
+    "id": "810103",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to mortgages",
+    "harm": {
+      "id": "0027091",
+      "title": "810103 - Provision of information relating to mortgages",
+      "conceptLink": "/ec2/concept/5976242"
+    }
+  },
+  {
+    "uri": "en/36/810061",
+    "id": "810061",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to credit card transactions",
+    "harm": {
+      "id": "0027090",
+      "title": "810061 - Provision of information relating to credit card transactions",
+      "conceptLink": "/ec2/concept/5976241"
+    }
+  },
+  {
+    "uri": "en/36/906442",
+    "id": "906442",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information and data concerning stock exchanges",
+    "harm": {
+      "id": "0040913",
+      "title": "906442 - Provision of information and data concerning stock exchanges",
+      "conceptLink": "/ec2/concept/5988861"
+    }
+  },
+  {
+    "uri": "en/36/810134",
+    "id": "810134",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to rates of exchange",
+    "harm": {
+      "id": "0044048",
+      "title": "810134 - Provision of information relating to rates of exchange",
+      "conceptLink": "/ec2/concept/5991724"
+    }
+  },
+  {
+    "uri": "en/36/34901014",
+    "id": "34901014",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of information relating to insurance",
+    "harm": {
+      "id": "0058744",
+      "title": "34901014 - Provision of information relating to insurance",
+      "conceptLink": "/ec2/concept/6000235"
+    }
+  },
+  {
+    "uri": "en/36/30582",
+    "id": "30582",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of instalment loans",
+    "harm": {
+      "id": "0035114",
+      "title": "30582 - Provision of instalment loans",
+      "conceptLink": "/ec2/concept/5983579"
+    }
+  },
+  {
+    "uri": "en/36/35395",
+    "id": "35395",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of insurance information",
+    "harm": {
+      "id": "0058744",
+      "title": "35395 - Provision of insurance information",
+      "conceptLink": "/ec2/concept/6000235"
+    }
+  },
+  {
+    "uri": "en/36/810209",
+    "id": "810209",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of insurance premium quotations",
+    "harm": {
+      "id": "0040246",
+      "title": "810209 - Provision of insurance premium quotations",
+      "conceptLink": "/ec2/concept/5988257"
+    }
+  },
+  {
+    "uri": "en/36/810225",
+    "id": "810225",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of insurance services to insurance companies",
+    "harm": {
+      "id": "0005631",
+      "title": "810225 - Provision of insurance services to insurance companies",
+      "conceptLink": "/ec2/concept/5956618"
+    }
+  },
+  {
+    "uri": "en/36/810238",
+    "id": "810238",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of insurance services to reinsurance companies",
+    "harm": {
+      "id": "0040247",
+      "title": "810238 - Provision of insurance services to reinsurance companies",
+      "conceptLink": "/ec2/concept/5988258"
+    }
+  },
+  {
+    "uri": "en/36/810250",
+    "id": "810250",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of investment capital",
+    "harm": {
+      "id": "0023030",
+      "title": "810250 - Provision of investment capital",
+      "conceptLink": "/ec2/concept/5972527"
+    }
+  },
+  {
+    "uri": "en/36/810265",
+    "id": "810265",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of investment information",
+    "harm": {
+      "id": "0005632",
+      "title": "810265 - Provision of investment information",
+      "conceptLink": "/ec2/concept/5956619"
+    }
+  },
+  {
+    "uri": "en/36/810279",
+    "id": "810279",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of investment savings plans",
+    "harm": {
+      "id": "0023031",
+      "title": "810279 - Provision of investment savings plans",
+      "conceptLink": "/ec2/concept/5972528"
+    }
+  },
+  {
+    "uri": "en/36/32410",
+    "id": "32410",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of investment services",
+    "harm": {
+      "id": "0059496",
+      "title": "32410 - Provision of investment services",
+      "conceptLink": "/ec2/concept/6000972"
+    }
+  },
+  {
+    "uri": "en/36/810294",
+    "id": "810294",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of lease-purchase finance facilities",
+    "harm": {
+      "id": "0005633",
+      "title": "810294 - Provision of lease-purchase finance facilities",
+      "conceptLink": "/ec2/concept/5956620"
+    }
+  },
+  {
+    "uri": "en/36/810309",
+    "id": "810309",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of life assurance services",
+    "harm": {
+      "id": "0003297",
+      "title": "810309 - Provision of life assurance services",
+      "conceptLink": "/ec2/concept/5954466"
+    }
+  },
+  {
+    "uri": "en/36/1195990",
+    "id": "1195990",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of loan and credit facilities",
+    "harm": {
+      "id": "0067822",
+      "title": "1195990 - Provision of loan and credit facilities",
+      "conceptLink": "/ec2/concept/6004025"
+    }
+  },
+  {
+    "uri": "en/36/450181",
+    "id": "450181",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of loans",
+    "harm": {
+      "id": "0004145",
+      "title": "450181 - Provision of loans",
+      "conceptLink": "/ec2/concept/5955237"
+    }
+  },
+  {
+    "uri": "en/36/800239",
+    "id": "800239",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of loans against security",
+    "harm": {
+      "id": "0058558",
+      "title": "800239 - Provision of loans against security",
+      "conceptLink": "/ec2/concept/6000051"
+    }
+  },
+  {
+    "uri": "en/36/810322",
+    "id": "810322",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of loans for school fees",
+    "harm": {
+      "id": "0004367",
+      "title": "810322 - Provision of loans for school fees",
+      "conceptLink": "/ec2/concept/5955448"
+    }
+  },
+  {
+    "uri": "en/36/484028",
+    "id": "484028",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of mortgage funds",
+    "harm": {
+      "id": "0004368",
+      "title": "484028 - Provision of mortgage funds",
+      "conceptLink": "/ec2/concept/5955449"
+    }
+  },
+  {
+    "uri": "en/36/810348",
+    "id": "810348",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of mortgage loans",
+    "harm": {
+      "id": "0010081",
+      "title": "810348 - Provision of mortgage loans",
+      "conceptLink": "/ec2/concept/5960683"
+    }
+  },
+  {
+    "uri": "en/36/810334",
+    "id": "810334",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of mortgage loan insurance",
+    "harm": {
+      "id": "0010080",
+      "title": "810334 - Provision of mortgage loan insurance",
+      "conceptLink": "/ec2/concept/5960682"
+    }
+  },
+  {
+    "uri": "en/36/449439",
+    "id": "449439",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of mortgages",
+    "harm": {
+      "id": "0004369",
+      "title": "449439 - Provision of mortgages",
+      "conceptLink": "/ec2/concept/5955450"
+    }
+  },
+  {
+    "uri": "en/36/810362",
+    "id": "810362",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pension information",
+    "harm": {
+      "id": "0015911",
+      "title": "810362 - Provision of pension information",
+      "conceptLink": "/ec2/concept/5966035"
+    }
+  },
+  {
+    "uri": "en/36/810374",
+    "id": "810374",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pension schemes",
+    "harm": {
+      "id": "0044740",
+      "title": "810374 - Provision of pension schemes",
+      "conceptLink": "/ec2/concept/5992360"
+    }
+  },
+  {
+    "uri": "en/36/806173",
+    "id": "806173",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of permanent housing accommodation",
+    "harm": {
+      "id": "0044007",
+      "title": "806173 - Provision of permanent housing accommodation",
+      "conceptLink": "/ec2/concept/5991686"
+    }
+  },
+  {
+    "uri": "en/36/120919141",
+    "id": "120919141",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of prepaid cards and tokens",
+    "harm": {
+      "id": "0048022",
+      "title": "120919141 - Provision of prepaid cards and tokens",
+      "conceptLink": "/ec2/concept/5995281"
+    }
+  },
+  {
+    "uri": "en/36/810461",
+    "id": "810461",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about indices",
+    "harm": {
+      "id": "0005676",
+      "title": "810461 - Provision of pricing information about indices",
+      "conceptLink": "/ec2/concept/5956656"
+    }
+  },
+  {
+    "uri": "en/36/810490",
+    "id": "810490",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about mutual funds",
+    "harm": {
+      "id": "0034510",
+      "title": "810490 - Provision of pricing information about mutual funds",
+      "conceptLink": "/ec2/concept/5983038"
+    }
+  },
+  {
+    "uri": "en/36/810476",
+    "id": "810476",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about money market rates",
+    "harm": {
+      "id": "0017197",
+      "title": "810476 - Provision of pricing information about money market rates",
+      "conceptLink": "/ec2/concept/5967201"
+    }
+  },
+  {
+    "uri": "en/36/810434",
+    "id": "810434",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about foreign exchange rates",
+    "harm": {
+      "id": "0028722",
+      "title": "810434 - Provision of pricing information about foreign exchange rates",
+      "conceptLink": "/ec2/concept/5977756"
+    }
+  },
+  {
+    "uri": "en/36/810446",
+    "id": "810446",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about futures",
+    "harm": {
+      "id": "0023063",
+      "title": "810446 - Provision of pricing information about futures",
+      "conceptLink": "/ec2/concept/5972557"
+    }
+  },
+  {
+    "uri": "en/36/810418",
+    "id": "810418",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about equities",
+    "harm": {
+      "id": "0010082",
+      "title": "810418 - Provision of pricing information about equities",
+      "conceptLink": "/ec2/concept/5960684"
+    }
+  },
+  {
+    "uri": "en/36/810389",
+    "id": "810389",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about bonds",
+    "harm": {
+      "id": "0039010",
+      "title": "810389 - Provision of pricing information about bonds",
+      "conceptLink": "/ec2/concept/5987124"
+    }
+  },
+  {
+    "uri": "en/36/810403",
+    "id": "810403",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of pricing information about commodities",
+    "harm": {
+      "id": "0044741",
+      "title": "810403 - Provision of pricing information about commodities",
+      "conceptLink": "/ec2/concept/5992361"
+    }
+  },
+  {
+    "uri": "en/36/810505",
+    "id": "810505",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of real estate loans",
+    "harm": {
+      "id": "0017198",
+      "title": "810505 - Provision of real estate loans",
+      "conceptLink": "/ec2/concept/5967202"
+    }
+  },
+  {
+    "uri": "en/36/810518",
+    "id": "810518",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of safe deposit facilities",
+    "harm": {
+      "id": "0046004",
+      "title": "810518 - Provision of safe deposit facilities",
+      "conceptLink": "/ec2/concept/5993521"
+    }
+  },
+  {
+    "uri": "en/36/810530",
+    "id": "810530",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of secured loans",
+    "harm": {
+      "id": "0046005",
+      "title": "810530 - Provision of secured loans",
+      "conceptLink": "/ec2/concept/5993522"
+    }
+  },
+  {
+    "uri": "en/36/451353",
+    "id": "451353",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of stock exchange quotations",
+    "harm": {
+      "id": "0027215",
+      "title": "451353 - Provision of stock exchange quotations",
+      "conceptLink": "/ec2/concept/5976355"
+    }
+  },
+  {
+    "uri": "en/36/906473",
+    "id": "906473",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of stock market information",
+    "harm": {
+      "id": "0027761",
+      "title": "906473 - Provision of stock market information",
+      "conceptLink": "/ec2/concept/5976866"
+    }
+  },
+  {
+    "uri": "en/36/810548",
+    "id": "810548",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of tax advice [not accounting]",
+    "harm": {
+      "id": "0004016",
+      "title": "810548 - Provision of tax advice [not accounting]",
+      "conceptLink": "/ec2/concept/5955118"
+    }
+  },
+  {
+    "uri": "en/36/810584",
+    "id": "810584",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of ten year insurance policies",
+    "harm": {
+      "id": "0046006",
+      "title": "810584 - Provision of ten year insurance policies",
+      "conceptLink": "/ec2/concept/5993523"
+    }
+  },
+  {
+    "uri": "en/36/447514",
+    "id": "447514",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of trade credit",
+    "harm": {
+      "id": "0035021",
+      "title": "447514 - Provision of trade credit",
+      "conceptLink": "/ec2/concept/5983495"
+    }
+  },
+  {
+    "uri": "en/36/809429",
+    "id": "809429",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of trade finance",
+    "harm": {
+      "id": "0000337",
+      "title": "809429 - Provision of trade finance",
+      "conceptLink": "/ec2/concept/5951792"
+    }
+  },
+  {
+    "uri": "en/36/810595",
+    "id": "810595",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of travellers' cheques",
+    "harm": {
+      "id": "0001018",
+      "title": "810595 - Provision of travellers' cheques",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/810614",
+    "id": "810614",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of vehicle warranties",
+    "harm": {
+      "id": "0001946",
+      "title": "810614 - Provision of vehicle warranties",
+      "conceptLink": "/ec2/concept/5953238"
+    }
+  },
+  {
+    "uri": "en/36/810636",
+    "id": "810636",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of warranties for motor land vehicles",
+    "harm": {
+      "id": "0015236",
+      "title": "810636 - Provision of warranties for motor land vehicles",
+      "conceptLink": "/ec2/concept/5965408"
+    }
+  },
+  {
+    "uri": "en/36/810652",
+    "id": "810652",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Provision of warranties relating to used motor land vehicles",
+    "harm": {
+      "id": "0044047",
+      "title": "810652 - Provision of warranties relating to used motor land vehicles",
+      "conceptLink": "/ec2/concept/5991723"
+    }
+  },
+  {
+    "uri": "en/36/35832",
+    "id": "35832",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Quotation of stock exchange prices",
+    "harm": {
+      "id": "0058323",
+      "title": "35832 - Quotation of stock exchange prices",
+      "conceptLink": "/ec2/concept/5999822"
+    }
+  },
+  {
+    "uri": "en/36/35837",
+    "id": "35837",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Quotation of stock market prices",
+    "harm": {
+      "id": "0058323",
+      "title": "35837 - Quotation of stock market prices",
+      "conceptLink": "/ec2/concept/5999822"
+    }
+  },
+  {
+    "uri": "en/36/801502",
+    "id": "801502",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Raising of capital",
+    "harm": {
+      "id": "0023250",
+      "title": "801502 - Raising of capital",
+      "conceptLink": "/ec2/concept/5972729"
+    }
+  },
+  {
+    "uri": "en/36/803585",
+    "id": "803585",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Raising of finance",
+    "harm": {
+      "id": "0023250",
+      "title": "803585 - Raising of finance",
+      "conceptLink": "/ec2/concept/5972729"
+    }
+  },
+  {
+    "uri": "en/36/120880788",
+    "id": "120880788",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Raising of financial capital",
+    "harm": {
+      "id": "0067929",
+      "title": "120880788 - Raising of financial capital",
+      "conceptLink": "/ec2/concept/6004132"
+    }
+  },
+  {
+    "uri": "en/36/120881538",
+    "id": "120881538",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Raising of funds for financial purposes",
+    "harm": {
+      "id": "0067833",
+      "title": "120881538 - Raising of funds for financial purposes",
+      "conceptLink": "/ec2/concept/6004036"
+    }
+  },
+  {
+    "uri": "en/36/125034863",
+    "id": "125034863",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rates of exchange (Provision of information relating to -)",
+    "harm": {
+      "id": "0044048",
+      "title": "125034863 - Rates of exchange (Provision of information relating to -)",
+      "conceptLink": "/ec2/concept/5991724"
+    }
+  },
+  {
+    "uri": "en/36/451570",
+    "id": "451570",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Re-insurance services",
+    "harm": {
+      "id": "0046385",
+      "title": "451570 - Re-insurance services",
+      "conceptLink": "/ec2/concept/5993839"
+    }
+  },
+  {
+    "uri": "en/36/810670",
+    "id": "810670",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate acquisition [for others]",
+    "harm": {
+      "id": "0013909",
+      "title": "810670 - Real estate acquisition [for others]",
+      "conceptLink": "/ec2/concept/5964184"
+    }
+  },
+  {
+    "uri": "en/36/810671",
+    "id": "810671",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate acquisition [on behalf of others]",
+    "harm": {
+      "id": "0013909",
+      "title": "810671 - Real estate acquisition [on behalf of others]",
+      "conceptLink": "/ec2/concept/5964184"
+    }
+  },
+  {
+    "uri": "en/36/451371",
+    "id": "451371",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate acquisition services",
+    "harm": {
+      "id": "0022274",
+      "title": "451371 - Real estate acquisition services",
+      "conceptLink": "/ec2/concept/5971842"
+    }
+  },
+  {
+    "uri": "en/36/33516",
+    "id": "33516",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate administration",
+    "harm": {
+      "id": "0032871",
+      "title": "33516 - Real estate administration",
+      "conceptLink": "/ec2/concept/5981533"
+    }
+  },
+  {
+    "uri": "en/36/31147",
+    "id": "31147",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate affairs",
+    "harm": {
+      "id": "0047441",
+      "title": "31147 - Real estate affairs",
+      "conceptLink": "/ec2/concept/5994754"
+    }
+  },
+  {
+    "uri": "en/36/31145",
+    "id": "31145",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate affairs services",
+    "harm": {
+      "id": "0047441",
+      "title": "31145 - Real estate affairs services",
+      "conceptLink": "/ec2/concept/5994754"
+    }
+  },
+  {
+    "uri": "en/36/31011",
+    "id": "31011",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agencies",
+    "harm": {
+      "id": "0047407",
+      "title": "31011 - Real estate agencies",
+      "conceptLink": "/ec2/concept/5994729"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/20/348665",
+    "id": "348665",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made from steel tubing",
+    "harm": {
+      "id": "0021001",
+      "title": "348665 - Furniture made from steel tubing",
+      "conceptLink": "/ec2/concept/5970679"
+    }
+  },
+  {
+    "uri": "en/20/137046576",
+    "id": "137046576",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made from substitutes for wood",
+    "harm": {
+      "id": "0060637",
+      "title": "137046576 - Furniture made from substitutes for wood",
+      "conceptLink": "/ec2/concept/5998584"
+    }
+  },
+  {
+    "uri": "en/20/137046577",
+    "id": "137046577",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made from wood",
+    "harm": {
+      "id": "0032142",
+      "title": "137046577 - Furniture made from wood",
+      "conceptLink": "/ec2/concept/5980872"
+    }
+  },
+  {
+    "uri": "en/20/425517",
+    "id": "425517",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made of plastics",
+    "harm": {
+      "id": "0006861",
+      "title": "425517 - Furniture made of plastics",
+      "conceptLink": "/ec2/concept/5957733"
+    }
+  },
+  {
+    "uri": "en/20/489937",
+    "id": "489937",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made of rattan",
+    "harm": {
+      "id": "0034046",
+      "title": "489937 - Furniture made of rattan",
+      "conceptLink": "/ec2/concept/5982614"
+    }
+  },
+  {
+    "uri": "en/20/760492",
+    "id": "760492",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made of steel",
+    "harm": {
+      "id": "0012692",
+      "title": "760492 - Furniture made of steel",
+      "conceptLink": "/ec2/concept/5963079"
+    }
+  },
+  {
+    "uri": "en/20/760507",
+    "id": "760507",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture made principally of glass",
+    "harm": {
+      "id": "0029997",
+      "title": "760507 - Furniture made principally of glass",
+      "conceptLink": "/ec2/concept/5978919"
+    }
+  },
+  {
+    "uri": "en/20/425458",
+    "id": "425458",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture moldings",
+    "harm": {
+      "id": "0032911",
+      "title": "425458 - Furniture moldings",
+      "conceptLink": "/ec2/concept/5981572"
+    }
+  },
+  {
+    "uri": "en/20/240349",
+    "id": "240349",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture of metal",
+    "harm": {
+      "id": "0005911",
+      "title": "240349 - Furniture of metal",
+      "conceptLink": "/ec2/concept/5956865"
+    }
+  },
+  {
+    "uri": "en/20/425516",
+    "id": "425516",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture of plastic materials",
+    "harm": {
+      "id": "0006861",
+      "title": "425516 - Furniture of plastic materials",
+      "conceptLink": "/ec2/concept/5957733"
+    }
+  },
+  {
+    "uri": "en/20/760522",
+    "id": "760522",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture of plastics material for bathrooms",
+    "harm": {
+      "id": "0035816",
+      "title": "760522 - Furniture of plastics material for bathrooms",
+      "conceptLink": "/ec2/concept/5984220"
+    }
+  },
+  {
+    "uri": "en/20/236376",
+    "id": "236376",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture (Office -)",
+    "harm": {
+      "id": "0035880",
+      "title": "236376 - Furniture (Office -)",
+      "conceptLink": "/ec2/concept/5984273"
+    }
+  },
+  {
+    "uri": "en/20/760536",
+    "id": "760536",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture panels",
+    "harm": {
+      "id": "0041575",
+      "title": "760536 - Furniture panels",
+      "conceptLink": "/ec2/concept/5989475"
+    }
+  },
+  {
+    "uri": "en/20/425546",
+    "id": "425546",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture partitions",
+    "harm": {
+      "id": "0038707",
+      "title": "425546 - Furniture partitions",
+      "conceptLink": "/ec2/concept/5986850"
+    }
+  },
+  {
+    "uri": "en/20/241075",
+    "id": "241075",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture (Partitions of wood for -)",
+    "harm": {
+      "id": "0041360",
+      "title": "241075 - Furniture (Partitions of wood for -)",
+      "conceptLink": "/ec2/concept/5989278"
+    }
+  },
+  {
+    "uri": "en/20/241076",
+    "id": "241076",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture partitions of wood",
+    "harm": {
+      "id": "0041360",
+      "title": "241076 - Furniture partitions of wood",
+      "conceptLink": "/ec2/concept/5989278"
+    }
+  },
+  {
+    "uri": "en/20/903948",
+    "id": "903948",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture parts",
+    "harm": {
+      "id": "0004665",
+      "title": "903948 - Furniture parts",
+      "conceptLink": "/ec2/concept/5955726"
+    }
+  },
+  {
+    "uri": "en/20/239347",
+    "id": "239347",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture racks",
+    "harm": {
+      "id": "0058512",
+      "title": "239347 - Furniture racks",
+      "conceptLink": "/ec2/concept/6000011"
+    }
+  },
+  {
+    "uri": "en/20/238827",
+    "id": "238827",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture (School -)",
+    "harm": {
+      "id": "0005912",
+      "title": "238827 - Furniture (School -)",
+      "conceptLink": "/ec2/concept/5956866"
+    }
+  },
+  {
+    "uri": "en/20/241676",
+    "id": "241676",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture screens",
+    "harm": {
+      "id": "0024554",
+      "title": "241676 - Furniture screens",
+      "conceptLink": "/ec2/concept/5973933"
+    }
+  },
+  {
+    "uri": "en/20/241976",
+    "id": "241976",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture shelves",
+    "harm": {
+      "id": "0058511",
+      "title": "241976 - Furniture shelves",
+      "conceptLink": "/ec2/concept/6000010"
+    }
+  },
+  {
+    "uri": "en/20/124986586",
+    "id": "124986586",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture supports (Non-metallic -)",
+    "harm": {
+      "id": "0041576",
+      "title": "124986586 - Furniture supports (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5989476"
+    }
+  },
+  {
+    "uri": "en/20/760568",
+    "id": "760568",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture units",
+    "harm": {
+      "id": "0024281",
+      "title": "760568 - Furniture units",
+      "conceptLink": "/ec2/concept/5973689"
+    }
+  },
+  {
+    "uri": "en/20/489978",
+    "id": "489978",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Furniture units for kitchens",
+    "harm": {
+      "id": "0029998",
+      "title": "489978 - Furniture units for kitchens",
+      "conceptLink": "/ec2/concept/5978920"
+    }
+  },
+  {
+    "uri": "en/20/760589",
+    "id": "760589",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Futon mattresses [other than childbirth mattresses]",
+    "harm": {
+      "id": "0031413",
+      "title": "760589 - Futon mattresses [other than childbirth mattresses]",
+      "conceptLink": "/ec2/concept/5980224"
+    }
+  },
+  {
+    "uri": "en/20/3644582",
+    "id": "3644582",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Futons",
+    "harm": {
+      "id": "0066845",
+      "title": "3644582 - Futons",
+      "conceptLink": "/ec2/concept/6003048"
+    }
+  },
+  {
+    "uri": "en/20/239693",
+    "id": "239693",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garden furniture",
+    "harm": {
+      "id": "0058179",
+      "title": "239693 - Garden furniture",
+      "conceptLink": "/ec2/concept/5999680"
+    }
+  },
+  {
+    "uri": "en/20/760616",
+    "id": "760616",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garden furniture made of metal",
+    "harm": {
+      "id": "0014147",
+      "title": "760616 - Garden furniture made of metal",
+      "conceptLink": "/ec2/concept/5964406"
+    }
+  },
+  {
+    "uri": "en/20/760604",
+    "id": "760604",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garden furniture made of aluminium",
+    "harm": {
+      "id": "0037259",
+      "title": "760604 - Garden furniture made of aluminium",
+      "conceptLink": "/ec2/concept/5985524"
+    }
+  },
+  {
+    "uri": "en/20/760631",
+    "id": "760631",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garden furniture manufactured from wood",
+    "harm": {
+      "id": "0019982",
+      "title": "760631 - Garden furniture manufactured from wood",
+      "conceptLink": "/ec2/concept/5969744"
+    }
+  },
+  {
+    "uri": "en/20/244592",
+    "id": "244592",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garment covers [storage]",
+    "harm": {
+      "id": "0008016",
+      "title": "244592 - Garment covers [storage]",
+      "conceptLink": "/ec2/concept/5958795"
+    }
+  },
+  {
+    "uri": "en/20/237514",
+    "id": "237514",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garment hangers [coat hangers]",
+    "harm": {
+      "id": "0002564",
+      "title": "237514 - Garment hangers [coat hangers]",
+      "conceptLink": "/ec2/concept/5953797"
+    }
+  },
+  {
+    "uri": "en/20/240897",
+    "id": "240897",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garment rails",
+    "harm": {
+      "id": "0002565",
+      "title": "240897 - Garment rails",
+      "conceptLink": "/ec2/concept/5953798"
+    }
+  },
+  {
+    "uri": "en/20/760647",
+    "id": "760647",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Garment rails of non-metallic materials",
+    "harm": {
+      "id": "0008252",
+      "title": "760647 - Garment rails of non-metallic materials",
+      "conceptLink": "/ec2/concept/5959005"
+    }
+  },
+  {
+    "uri": "en/20/131046937",
+    "id": "131046937",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gas storage tanks, not of metal or masonry",
+    "harm": {
+      "id": "0056146",
+      "title": "131046937 - Gas storage tanks, not of metal or masonry",
+      "conceptLink": "/ec2/concept/5997494"
+    }
+  },
+  {
+    "uri": "en/20/760660",
+    "id": "760660",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gate eyes of non-metallic materials",
+    "harm": {
+      "id": "0043012",
+      "title": "760660 - Gate eyes of non-metallic materials",
+      "conceptLink": "/ec2/concept/5990772"
+    }
+  },
+  {
+    "uri": "en/20/760673",
+    "id": "760673",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gate hooks of non-metallic materials",
+    "harm": {
+      "id": "0019983",
+      "title": "760673 - Gate hooks of non-metallic materials",
+      "conceptLink": "/ec2/concept/5969745"
+    }
+  },
+  {
+    "uri": "en/20/760686",
+    "id": "760686",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gate stops of non-metallic materials",
+    "harm": {
+      "id": "0008253",
+      "title": "760686 - Gate stops of non-metallic materials",
+      "conceptLink": "/ec2/concept/5959006"
+    }
+  },
+  {
+    "uri": "en/20/425576",
+    "id": "425576",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gazing globes",
+    "harm": {
+      "id": "0066924",
+      "title": "425576 - Gazing globes",
+      "conceptLink": "/ec2/concept/6003127"
+    }
+  },
+  {
+    "uri": "en/20/215013100",
+    "id": "215013100",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass cabinets",
+    "harm": {
+      "id": "0072886",
+      "title": "215013100 - Glass cabinets",
+      "conceptLink": "/ec2/concept/6009061"
+    }
+  },
+  {
+    "uri": "en/20/137925733",
+    "id": "137925733",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass doorknobs",
+    "harm": {
+      "id": "0073109",
+      "title": "137925733 - Glass doorknobs",
+      "conceptLink": "/ec2/concept/6009282"
+    }
+  },
+  {
+    "uri": "en/20/89839730",
+    "id": "89839730",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass for use in framing art",
+    "harm": {
+      "id": "0066923",
+      "title": "89839730 - Glass for use in framing art",
+      "conceptLink": "/ec2/concept/6003126"
+    }
+  },
+  {
+    "uri": "en/20/425593",
+    "id": "425593",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass furniture",
+    "harm": {
+      "id": "0021527",
+      "title": "425593 - Glass furniture",
+      "conceptLink": "/ec2/concept/5971156"
+    }
+  },
+  {
+    "uri": "en/20/120897436",
+    "id": "120897436",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass knobs",
+    "harm": {
+      "id": "0066830",
+      "title": "120897436 - Glass knobs",
+      "conceptLink": "/ec2/concept/6003033"
+    }
+  },
+  {
+    "uri": "en/20/235261",
+    "id": "235261",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Glass (Silvered -) [mirrors]",
+    "harm": {
+      "id": "0037260",
+      "title": "235261 - Glass (Silvered -) [mirrors]",
+      "conceptLink": "/ec2/concept/5985525"
+    }
+  },
+  {
+    "uri": "en/20/119539234",
+    "id": "119539234",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Golf course benches",
+    "harm": {
+      "id": "0066922",
+      "title": "119539234 - Golf course benches",
+      "conceptLink": "/ec2/concept/6003125"
+    }
+  },
+  {
+    "uri": "en/20/124985011",
+    "id": "124985011",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gravity catches (Non-metallic -)",
+    "harm": {
+      "id": "0025661",
+      "title": "124985011 - Gravity catches (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5974951"
+    }
+  },
+  {
+    "uri": "en/20/760709",
+    "id": "760709",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Grommets made of plastics materials",
+    "harm": {
+      "id": "0019984",
+      "title": "760709 - Grommets made of plastics materials",
+      "conceptLink": "/ec2/concept/5969746"
+    }
+  },
+  {
+    "uri": "en/20/425612",
+    "id": "425612",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Grooming tables for pets",
+    "harm": {
+      "id": "0004081",
+      "title": "425612 - Grooming tables for pets",
+      "conceptLink": "/ec2/concept/5955176"
+    }
+  },
+  {
+    "uri": "en/20/236795",
+    "id": "236795",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Guards (Fire -)",
+    "harm": {
+      "id": "0057146",
+      "title": "236795 - Guards (Fire -)",
+      "conceptLink": "/ec2/concept/5998783"
+    }
+  },
+  {
+    "uri": "en/20/425626",
+    "id": "425626",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gun cabinets",
+    "harm": {
+      "id": "0009812",
+      "title": "425626 - Gun cabinets",
+      "conceptLink": "/ec2/concept/5960439"
+    }
+  },
+  {
+    "uri": "en/20/239836",
+    "id": "239836",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Gun racks",
+    "harm": {
+      "id": "0036043",
+      "title": "239836 - Gun racks",
+      "conceptLink": "/ec2/concept/5984421"
+    }
+  },
+  {
+    "uri": "en/20/12411187",
+    "id": "12411187",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hairdresser's chairs",
+    "harm": {
+      "id": "0021077",
+      "title": "12411187 - Hairdresser's chairs",
+      "conceptLink": "/ec2/concept/5970750"
+    }
+  },
+  {
+    "uri": "en/20/244470",
+    "id": "244470",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hairdressers' chairs",
+    "harm": {
+      "id": "0021077",
+      "title": "244470 - Hairdressers' chairs",
+      "conceptLink": "/ec2/concept/5970750"
+    }
+  },
+  {
+    "uri": "en/20/240860",
+    "id": "240860",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hampers [baskets]",
+    "harm": {
+      "id": "0021075",
+      "title": "240860 - Hampers [baskets]",
+      "conceptLink": "/ec2/concept/5970748"
+    }
+  },
+  {
+    "uri": "en/20/233583281",
+    "id": "233583281",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hampers [baskets] for the transport of items",
+    "harm": {
+      "id": "0021075",
+      "title": "233583281 - Hampers [baskets] for the transport of items",
+      "conceptLink": "/ec2/concept/5970748"
+    }
+  },
+  {
+    "uri": "en/20/904285",
+    "id": "904285",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand fans",
+    "harm": {
+      "id": "0022960",
+      "title": "904285 - Hand fans",
+      "conceptLink": "/ec2/concept/5972464"
+    }
+  },
+  {
+    "uri": "en/20/348678",
+    "id": "348678",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-held flat fans",
+    "harm": {
+      "id": "0026655",
+      "title": "348678 - Hand-held flat fans",
+      "conceptLink": "/ec2/concept/5975858"
+    }
+  },
+  {
+    "uri": "en/20/348693",
+    "id": "348693",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-held folding fans",
+    "harm": {
+      "id": "0022960",
+      "title": "348693 - Hand-held folding fans",
+      "conceptLink": "/ec2/concept/5972464"
+    }
+  },
+  {
+    "uri": "en/20/425643",
+    "id": "425643",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-held mirrors",
+    "harm": {
+      "id": "0057165",
+      "title": "425643 - Hand-held mirrors",
+      "conceptLink": "/ec2/concept/5998803"
+    }
+  },
+  {
+    "uri": "en/20/494264",
+    "id": "494264",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-held mirrors [toilet mirrors]",
+    "harm": {
+      "id": "0057165",
+      "title": "494264 - Hand-held mirrors [toilet mirrors]",
+      "conceptLink": "/ec2/concept/5998803"
+    }
+  },
+  {
+    "uri": "en/20/137925761",
+    "id": "137925761",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-held supermarket shopping baskets, not of metal",
+    "harm": {
+      "id": "0073110",
+      "title": "137925761 - Hand-held supermarket shopping baskets, not of metal",
+      "conceptLink": "/ec2/concept/6009283"
+    }
+  },
+  {
+    "uri": "en/20/119694819",
+    "id": "119694819",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand mirrors",
+    "harm": {
+      "id": "0057165",
+      "title": "119694819 - Hand mirrors",
+      "conceptLink": "/ec2/concept/5998803"
+    }
+  },
+  {
+    "uri": "en/20/119694820",
+    "id": "119694820",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand mirrors [toilet mirrors]",
+    "harm": {
+      "id": "0057165",
+      "title": "119694820 - Hand mirrors [toilet mirrors]",
+      "conceptLink": "/ec2/concept/5998803"
+    }
+  },
+  {
+    "uri": "en/20/119539245",
+    "id": "119539245",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hand-operated non-metal garden hose reels",
+    "harm": {
+      "id": "0066921",
+      "title": "119539245 - Hand-operated non-metal garden hose reels",
+      "conceptLink": "/ec2/concept/6003124"
+    }
+  },
+  {
+    "uri": "en/20/494217",
+    "id": "494217",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Handles (Door -), not of metal",
+    "harm": {
+      "id": "0012206",
+      "title": "494217 - Handles (Door -), not of metal",
+      "conceptLink": "/ec2/concept/5962634"
+    }
+  },
+  {
+    "uri": "en/20/760763",
+    "id": "760763",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Handles made of plastics for doors",
+    "harm": {
+      "id": "0035168",
+      "title": "760763 - Handles made of plastics for doors",
+      "conceptLink": "/ec2/concept/5983625"
+    }
+  },
+  {
+    "uri": "en/20/760837",
+    "id": "760837",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Handles of plastics materials for hollowware",
+    "harm": {
+      "id": "0006265",
+      "title": "760837 - Handles of plastics materials for hollowware",
+      "conceptLink": "/ec2/concept/5957195"
+    }
+  },
+  {
+    "uri": "en/20/241004",
+    "id": "241004",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Handling pallets, not of metal",
+    "harm": {
+      "id": "0017300",
+      "title": "241004 - Handling pallets, not of metal",
+      "conceptLink": "/ec2/concept/5967295"
+    }
+  },
+  {
+    "uri": "en/20/124663896",
+    "id": "124663896",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hangers (Clothes -)",
+    "harm": {
+      "id": "0006266",
+      "title": "124663896 - Hangers (Clothes -)",
+      "conceptLink": "/ec2/concept/5957196"
+    }
+  },
+  {
+    "uri": "en/20/129072031",
+    "id": "129072031",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hangers [Coat -]",
+    "harm": {
+      "id": "0006266",
+      "title": "129072031 - Hangers [Coat -]",
+      "conceptLink": "/ec2/concept/5957196"
+    }
+  },
+  {
+    "uri": "en/20/237513",
+    "id": "237513",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hangers for clothes",
+    "harm": {
+      "id": "0006266",
+      "title": "237513 - Hangers for clothes",
+      "conceptLink": "/ec2/concept/5957196"
+    }
+  },
+  {
+    "uri": "en/20/124986933",
+    "id": "124986933",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hangers (Non-metallic -) for shelves",
+    "harm": {
+      "id": "0004947",
+      "title": "124986933 - Hangers (Non-metallic -) for shelves",
+      "conceptLink": "/ec2/concept/5955989"
+    }
+  },
+  {
+    "uri": "en/20/124986934",
+    "id": "124986934",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hangers (Non-metallic -) for shelving",
+    "harm": {
+      "id": "0004947",
+      "title": "124986934 - Hangers (Non-metallic -) for shelving",
+      "conceptLink": "/ec2/concept/5955989"
+    }
+  },
+  {
+    "uri": "en/20/760891",
+    "id": "760891",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hanging baskets [flower] of non-metallic materials",
+    "harm": {
+      "id": "0029378",
+      "title": "760891 - Hanging baskets [flower] of non-metallic materials",
+      "conceptLink": "/ec2/concept/5978353"
+    }
+  },
+  {
+    "uri": "en/20/760905",
+    "id": "760905",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hanging storage racks [furniture]",
+    "harm": {
+      "id": "0012070",
+      "title": "760905 - Hanging storage racks [furniture]",
+      "conceptLink": "/ec2/concept/5962513"
+    }
+  },
+  {
+    "uri": "en/20/760935",
+    "id": "760935",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hard wood tree stakes",
+    "harm": {
+      "id": "0000481",
+      "title": "760935 - Hard wood tree stakes",
+      "conceptLink": "/ec2/concept/5951919"
+    }
+  },
+  {
+    "uri": "en/20/760952",
+    "id": "760952",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hasps of non-metallic materials",
+    "harm": {
+      "id": "0035169",
+      "title": "760952 - Hasps of non-metallic materials",
+      "conceptLink": "/ec2/concept/5983626"
+    }
+  },
+  {
+    "uri": "en/20/9004871",
+    "id": "9004871",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hat hooks, not of metal",
+    "harm": {
+      "id": "0000482",
+      "title": "9004871 - Hat hooks, not of metal",
+      "conceptLink": "/ec2/concept/5951920"
+    }
+  },
+  {
+    "uri": "en/20/760964",
+    "id": "760964",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hat hooks of non-metallic materials",
+    "harm": {
+      "id": "0000482",
+      "title": "760964 - Hat hooks of non-metallic materials",
+      "conceptLink": "/ec2/concept/5951920"
+    }
+  },
+  {
+    "uri": "en/20/760976",
+    "id": "760976",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hat racks [furniture]",
+    "harm": {
+      "id": "0043194",
+      "title": "760976 - Hat racks [furniture]",
+      "conceptLink": "/ec2/concept/5990939"
+    }
+  },
+  {
+    "uri": "en/20/760990",
+    "id": "760990",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hat racks [hooks] not of metal",
+    "harm": {
+      "id": "0002753",
+      "title": "760990 - Hat racks [hooks] not of metal",
+      "conceptLink": "/ec2/concept/5953965"
+    }
+  },
+  {
+    "uri": "en/20/237130",
+    "id": "237130",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hat stands",
+    "harm": {
+      "id": "0031717",
+      "title": "237130 - Hat stands",
+      "conceptLink": "/ec2/concept/5980485"
+    }
+  },
+  {
+    "uri": "en/20/237103",
+    "id": "237103",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Head-rests [furniture]",
+    "harm": {
+      "id": "0002854",
+      "title": "237103 - Head-rests [furniture]",
+      "conceptLink": "/ec2/concept/5954055"
+    }
+  },
+  {
+    "uri": "en/20/348708",
+    "id": "348708",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Head supporting pillows",
+    "harm": {
+      "id": "0045233",
+      "title": "348708 - Head supporting pillows",
+      "conceptLink": "/ec2/concept/5992814"
+    }
+  },
+  {
+    "uri": "en/20/497794",
+    "id": "497794",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Headboards",
+    "harm": {
+      "id": "0019734",
+      "title": "497794 - Headboards",
+      "conceptLink": "/ec2/concept/5969521"
+    }
+  },
+  {
+    "uri": "en/20/761006",
+    "id": "761006",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Height adjustable kitchen furniture",
+    "harm": {
+      "id": "0043195",
+      "title": "761006 - Height adjustable kitchen furniture",
+      "conceptLink": "/ec2/concept/5990940"
+    }
+  },
+  {
+    "uri": "en/20/244755",
+    "id": "244755",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "High chairs",
+    "harm": {
+      "id": "0044083",
+      "title": "244755 - High chairs",
+      "conceptLink": "/ec2/concept/5991758"
+    }
+  },
+  {
+    "uri": "en/20/244753",
+    "id": "244753",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "High chairs for babies",
+    "harm": {
+      "id": "0044083",
+      "title": "244753 - High chairs for babies",
+      "conceptLink": "/ec2/concept/5991758"
+    }
+  },
+  {
+    "uri": "en/20/761021",
+    "id": "761021",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "High seats [furniture]",
+    "harm": {
+      "id": "0002755",
+      "title": "761021 - High seats [furniture]",
+      "conceptLink": "/ec2/concept/5953966"
+    }
+  },
+  {
+    "uri": "en/20/761036",
+    "id": "761036",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "High stools [furniture]",
+    "harm": {
+      "id": "0043196",
+      "title": "761036 - High stools [furniture]",
+      "conceptLink": "/ec2/concept/5990941"
+    }
+  },
+  {
+    "uri": "en/20/761051",
+    "id": "761051",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinge clamps of non-metallic materials",
+    "harm": {
+      "id": "0020156",
+      "title": "761051 - Hinge clamps of non-metallic materials",
+      "conceptLink": "/ec2/concept/5969903"
+    }
+  },
+  {
+    "uri": "en/20/124987138",
+    "id": "124987138",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges for doors and windows (Non-metallic -)",
+    "harm": {
+      "id": "0037440",
+      "title": "124987138 - Hinges for doors and windows (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5985693"
+    }
+  },
+  {
+    "uri": "en/20/237263",
+    "id": "237263",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges, not of metal",
+    "harm": {
+      "id": "0020250",
+      "title": "237263 - Hinges, not of metal",
+      "conceptLink": "/ec2/concept/5969988"
+    }
+  },
+  {
+    "uri": "en/20/761098",
+    "id": "761098",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges, not of metal for the fixing of pipes",
+    "harm": {
+      "id": "0002756",
+      "title": "761098 - Hinges, not of metal for the fixing of pipes",
+      "conceptLink": "/ec2/concept/5953967"
+    }
+  },
+  {
+    "uri": "en/20/761083",
+    "id": "761083",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges, not of metal for the fastening of electrical cables",
+    "harm": {
+      "id": "0031595",
+      "title": "761083 - Hinges, not of metal for the fastening of electrical cables",
+      "conceptLink": "/ec2/concept/5980372"
+    }
+  },
+  {
+    "uri": "en/20/761112",
+    "id": "761112",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges, not of metal having a spring action",
+    "harm": {
+      "id": "0025818",
+      "title": "761112 - Hinges, not of metal having a spring action",
+      "conceptLink": "/ec2/concept/5975095"
+    }
+  },
+  {
+    "uri": "en/20/761126",
+    "id": "761126",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Hinges, not of metal incorporating a spring",
+    "harm": {
+      "id": "0008448",
+      "title": "761126 - Hinges, not of metal incorporating a spring",
+      "conceptLink": "/ec2/concept/5959186"
+    }
+  },
+  {
+    "uri": "en/20/761140",
+    "id": "761140",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Holders for brochures [in the nature of furniture]",
+    "harm": {
+      "id": "0020157",
+      "title": "761140 - Holders for brochures [in the nature of furniture]",
+      "conceptLink": "/ec2/concept/5969904"
+    }
+  },
+  {
+    "uri": "en/20/761151",
+    "id": "761151",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Holders for display material [furniture]",
+    "harm": {
+      "id": "0031596",
+      "title": "761151 - Holders for display material [furniture]",
+      "conceptLink": "/ec2/concept/5980373"
+    }
+  }
+]

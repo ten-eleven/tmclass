@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/19/346844",
+    "id": "346844",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood for construction purposes",
+    "harm": {
+      "id": "0006077",
+      "title": "346844 - Wood for construction purposes",
+      "conceptLink": "/ec2/concept/5957021"
+    }
+  },
+  {
+    "uri": "en/19/913098",
+    "id": "913098",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood for making household utensils",
+    "harm": {
+      "id": "0004655",
+      "title": "913098 - Wood for making household utensils",
+      "conceptLink": "/ec2/concept/5955716"
+    }
+  },
+  {
+    "uri": "en/19/346845",
+    "id": "346845",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood for use in building",
+    "harm": {
+      "id": "0006077",
+      "title": "346845 - Wood for use in building",
+      "conceptLink": "/ec2/concept/5957021"
+    }
+  },
+  {
+    "uri": "en/19/89960921",
+    "id": "89960921",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood joints",
+    "harm": {
+      "id": "0066770",
+      "title": "89960921 - Wood joints",
+      "conceptLink": "/ec2/concept/6002973"
+    }
+  },
+  {
+    "uri": "en/19/424661",
+    "id": "424661",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood joists",
+    "harm": {
+      "id": "0019043",
+      "title": "424661 - Wood joists",
+      "conceptLink": "/ec2/concept/5968898"
+    }
+  },
+  {
+    "uri": "en/19/587066",
+    "id": "587066",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood laminates",
+    "harm": {
+      "id": "0031197",
+      "title": "587066 - Wood laminates",
+      "conceptLink": "/ec2/concept/5980026"
+    }
+  },
+  {
+    "uri": "en/19/424677",
+    "id": "424677",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood moldings",
+    "harm": {
+      "id": "0047085",
+      "title": "424677 - Wood moldings",
+      "conceptLink": "/ec2/concept/5994462"
+    }
+  },
+  {
+    "uri": "en/19/7060017",
+    "id": "7060017",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood paneling",
+    "harm": {
+      "id": "0057161",
+      "title": "7060017 - Wood paneling",
+      "conceptLink": "/ec2/concept/5998799"
+    }
+  },
+  {
+    "uri": "en/19/227355",
+    "id": "227355",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood panelling",
+    "harm": {
+      "id": "0057161",
+      "title": "227355 - Wood panelling",
+      "conceptLink": "/ec2/concept/5998799"
+    }
+  },
+  {
+    "uri": "en/19/227896",
+    "id": "227896",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood paving",
+    "harm": {
+      "id": "0058506",
+      "title": "227896 - Wood paving",
+      "conceptLink": "/ec2/concept/6000005"
+    }
+  },
+  {
+    "uri": "en/19/119538866",
+    "id": "119538866",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood posts",
+    "harm": {
+      "id": "0071079",
+      "title": "119538866 - Wood posts",
+      "conceptLink": "/ec2/concept/6007271"
+    }
+  },
+  {
+    "uri": "en/19/131105271",
+    "id": "131105271",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood pulp board for building",
+    "harm": {
+      "id": "0044178",
+      "title": "131105271 - Wood pulp board for building",
+      "conceptLink": "/ec2/concept/5991845"
+    }
+  },
+  {
+    "uri": "en/19/233639",
+    "id": "233639",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood pulp board, for building",
+    "harm": {
+      "id": "0044178",
+      "title": "233639 - Wood pulp board, for building",
+      "conceptLink": "/ec2/concept/5991845"
+    }
+  },
+  {
+    "uri": "en/19/348051",
+    "id": "348051",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood rafters",
+    "harm": {
+      "id": "0019043",
+      "title": "348051 - Wood rafters",
+      "conceptLink": "/ec2/concept/5968898"
+    }
+  },
+  {
+    "uri": "en/19/227679",
+    "id": "227679",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood, semi-worked",
+    "harm": {
+      "id": "0030180",
+      "title": "227679 - Wood, semi-worked",
+      "conceptLink": "/ec2/concept/5979092"
+    }
+  },
+  {
+    "uri": "en/19/587797",
+    "id": "587797",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood sheeting",
+    "harm": {
+      "id": "0025468",
+      "title": "587797 - Wood sheeting",
+      "conceptLink": "/ec2/concept/5974779"
+    }
+  },
+  {
+    "uri": "en/19/348138",
+    "id": "348138",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood siding",
+    "harm": {
+      "id": "0027733",
+      "title": "348138 - Wood siding",
+      "conceptLink": "/ec2/concept/5976842"
+    }
+  },
+  {
+    "uri": "en/19/908167",
+    "id": "908167",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood sports floors",
+    "harm": {
+      "id": "0034034",
+      "title": "908167 - Wood sports floors",
+      "conceptLink": "/ec2/concept/5982603"
+    }
+  },
+  {
+    "uri": "en/19/348077",
+    "id": "348077",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood tar",
+    "harm": {
+      "id": "0019044",
+      "title": "348077 - Wood tar",
+      "conceptLink": "/ec2/concept/5968899"
+    }
+  },
+  {
+    "uri": "en/19/120819217",
+    "id": "120819217",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood tile flooring",
+    "harm": {
+      "id": "0040406",
+      "title": "120819217 - Wood tile flooring",
+      "conceptLink": "/ec2/concept/5988400"
+    }
+  },
+  {
+    "uri": "en/19/424678",
+    "id": "424678",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood trim",
+    "harm": {
+      "id": "0047076",
+      "title": "424678 - Wood trim",
+      "conceptLink": "/ec2/concept/5994453"
+    }
+  },
+  {
+    "uri": "en/19/227957",
+    "id": "227957",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood veneer",
+    "harm": {
+      "id": "0058211",
+      "title": "227957 - Wood veneer",
+      "conceptLink": "/ec2/concept/5999712"
+    }
+  },
+  {
+    "uri": "en/19/233402907",
+    "id": "233402907",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood veneer parquet flooring",
+    "harm": {
+      "id": "0073498",
+      "title": "233402907 - Wood veneer parquet flooring",
+      "conceptLink": "/ec2/concept/6009671"
+    }
+  },
+  {
+    "uri": "en/19/227960",
+    "id": "227960",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood veneers",
+    "harm": {
+      "id": "0058210",
+      "title": "227960 - Wood veneers",
+      "conceptLink": "/ec2/concept/5999711"
+    }
+  },
+  {
+    "uri": "en/19/67389508",
+    "id": "67389508",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wood window frames",
+    "harm": {
+      "id": "0066769",
+      "title": "67389508 - Wood window frames",
+      "conceptLink": "/ec2/concept/6002972"
+    }
+  },
+  {
+    "uri": "en/19/346842",
+    "id": "346842",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden buildings",
+    "harm": {
+      "id": "0025469",
+      "title": "346842 - Wooden buildings",
+      "conceptLink": "/ec2/concept/5974780"
+    }
+  },
+  {
+    "uri": "en/19/137831020",
+    "id": "137831020",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden decking boards",
+    "harm": {
+      "id": "0073026",
+      "title": "137831020 - Wooden decking boards",
+      "conceptLink": "/ec2/concept/6009201"
+    }
+  },
+  {
+    "uri": "en/19/587812",
+    "id": "587812",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden door frames",
+    "harm": {
+      "id": "0002366",
+      "title": "587812 - Wooden door frames",
+      "conceptLink": "/ec2/concept/5953618"
+    }
+  },
+  {
+    "uri": "en/19/587828",
+    "id": "587828",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden doors",
+    "harm": {
+      "id": "0008056",
+      "title": "587828 - Wooden doors",
+      "conceptLink": "/ec2/concept/5958830"
+    }
+  },
+  {
+    "uri": "en/19/22988658",
+    "id": "22988658",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden floor boards",
+    "harm": {
+      "id": "0023158",
+      "title": "22988658 - Wooden floor boards",
+      "conceptLink": "/ec2/concept/5972646"
+    }
+  },
+  {
+    "uri": "en/19/227898",
+    "id": "227898",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden flooring",
+    "harm": {
+      "id": "0058505",
+      "title": "227898 - Wooden flooring",
+      "conceptLink": "/ec2/concept/6000004"
+    }
+  },
+  {
+    "uri": "en/19/227897",
+    "id": "227897",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden floors",
+    "harm": {
+      "id": "0058505",
+      "title": "227897 - Wooden floors",
+      "conceptLink": "/ec2/concept/6000004"
+    }
+  },
+  {
+    "uri": "en/19/348091",
+    "id": "348091",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden pipes",
+    "harm": {
+      "id": "0030543",
+      "title": "348091 - Wooden pipes",
+      "conceptLink": "/ec2/concept/5979428"
+    }
+  },
+  {
+    "uri": "en/19/348103",
+    "id": "348103",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden poles [posts] for electric power lines",
+    "harm": {
+      "id": "0030544",
+      "title": "348103 - Wooden poles [posts] for electric power lines",
+      "conceptLink": "/ec2/concept/5979429"
+    }
+  },
+  {
+    "uri": "en/19/347816",
+    "id": "347816",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden profiles",
+    "harm": {
+      "id": "0047053",
+      "title": "347816 - Wooden profiles",
+      "conceptLink": "/ec2/concept/5994430"
+    }
+  },
+  {
+    "uri": "en/19/348118",
+    "id": "348118",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden railings",
+    "harm": {
+      "id": "0001635",
+      "title": "348118 - Wooden railings",
+      "conceptLink": "/ec2/concept/5952960"
+    }
+  },
+  {
+    "uri": "en/19/497500",
+    "id": "497500",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden shutters",
+    "harm": {
+      "id": "0000997",
+      "title": "497500 - Wooden shutters",
+      "conceptLink": "/ec2/concept/5952383"
+    }
+  },
+  {
+    "uri": "en/19/40297732",
+    "id": "40297732",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden tiles",
+    "harm": {
+      "id": "0056138",
+      "title": "40297732 - Wooden tiles",
+      "conceptLink": "/ec2/concept/5997488"
+    }
+  },
+  {
+    "uri": "en/19/227958",
+    "id": "227958",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden veneers",
+    "harm": {
+      "id": "0058210",
+      "title": "227958 - Wooden veneers",
+      "conceptLink": "/ec2/concept/5999711"
+    }
+  },
+  {
+    "uri": "en/19/348139",
+    "id": "348139",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden wainscoting",
+    "harm": {
+      "id": "0057161",
+      "title": "348139 - Wooden wainscoting",
+      "conceptLink": "/ec2/concept/5998799"
+    }
+  },
+  {
+    "uri": "en/19/119693968",
+    "id": "119693968",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Wooden wainscotting",
+    "harm": {
+      "id": "0057161",
+      "title": "119693968 - Wooden wainscotting",
+      "conceptLink": "/ec2/concept/5998799"
+    }
+  },
+  {
+    "uri": "en/19/587842",
+    "id": "587842",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Work platforms [scaffold towers], not of metal",
+    "harm": {
+      "id": "0024322",
+      "title": "587842 - Work platforms [scaffold towers], not of metal",
+      "conceptLink": "/ec2/concept/5973723"
+    }
+  },
+  {
+    "uri": "en/19/587859",
+    "id": "587859",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Work platforms [scaffolding], not of metal",
+    "harm": {
+      "id": "0018536",
+      "title": "587859 - Work platforms [scaffolding], not of metal",
+      "conceptLink": "/ec2/concept/5968428"
+    }
+  },
+  {
+    "uri": "en/19/587875",
+    "id": "587875",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Worked natural stone",
+    "harm": {
+      "id": "0035856",
+      "title": "587875 - Worked natural stone",
+      "conceptLink": "/ec2/concept/5984257"
+    }
+  },
+  {
+    "uri": "en/19/227767",
+    "id": "227767",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Worked timber",
+    "harm": {
+      "id": "0058163",
+      "title": "227767 - Worked timber",
+      "conceptLink": "/ec2/concept/5999664"
+    }
+  },
+  {
+    "uri": "en/19/587860",
+    "id": "587860",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Working platforms [scaffolding], not of metal",
+    "harm": {
+      "id": "0018536",
+      "title": "587860 - Working platforms [scaffolding], not of metal",
+      "conceptLink": "/ec2/concept/5968428"
+    }
+  },
+  {
+    "uri": "en/19/587843",
+    "id": "587843",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Working platforms [scaffold towers], not of metal",
+    "harm": {
+      "id": "0024322",
+      "title": "587843 - Working platforms [scaffold towers], not of metal",
+      "conceptLink": "/ec2/concept/5973723"
+    }
+  },
+  {
+    "uri": "en/19/233387",
+    "id": "233387",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Works of art of stone, concrete or marble",
+    "harm": {
+      "id": "0020122",
+      "title": "233387 - Works of art of stone, concrete or marble",
+      "conceptLink": "/ec2/concept/5969874"
+    }
+  },
+  {
+    "uri": "en/19/4653377",
+    "id": "4653377",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Works of stonemasonry",
+    "harm": {
+      "id": "0017242",
+      "title": "4653377 - Works of stonemasonry",
+      "conceptLink": "/ec2/concept/5967243"
+    }
+  },
+  {
+    "uri": "en/19/124817779",
+    "id": "124817779",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven covers (Non-metallic -) for use as geotextile materials",
+    "harm": {
+      "id": "0012742",
+      "title": "124817779 - Woven covers (Non-metallic -) for use as geotextile materials",
+      "conceptLink": "/ec2/concept/5963122"
+    }
+  },
+  {
+    "uri": "en/19/124817792",
+    "id": "124817792",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven covers (Non-metallic -) for use as geotextile materials for building",
+    "harm": {
+      "id": "0018537",
+      "title": "124817792 - Woven covers (Non-metallic -) for use as geotextile materials for building",
+      "conceptLink": "/ec2/concept/5968429"
+    }
+  },
+  {
+    "uri": "en/19/124817832",
+    "id": "124817832",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for the protection of banks against erosion",
+    "harm": {
+      "id": "0018538",
+      "title": "124817832 - Woven fabrics (Non-metallic -) for the protection of banks against erosion",
+      "conceptLink": "/ec2/concept/5968430"
+    }
+  },
+  {
+    "uri": "en/19/124817870",
+    "id": "124817870",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for use as geotextile materials",
+    "harm": {
+      "id": "0024324",
+      "title": "124817870 - Woven fabrics (Non-metallic -) for use as geotextile materials",
+      "conceptLink": "/ec2/concept/5973725"
+    }
+  },
+  {
+    "uri": "en/19/124817819",
+    "id": "124817819",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for protection against erosion",
+    "harm": {
+      "id": "0024323",
+      "title": "124817819 - Woven fabrics (Non-metallic -) for protection against erosion",
+      "conceptLink": "/ec2/concept/5973724"
+    }
+  },
+  {
+    "uri": "en/19/124817858",
+    "id": "124817858",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for the protection of slopes against erosion",
+    "harm": {
+      "id": "0001151",
+      "title": "124817858 - Woven fabrics (Non-metallic -) for the protection of slopes against erosion",
+      "conceptLink": "/ec2/concept/5952524"
+    }
+  },
+  {
+    "uri": "en/19/124817806",
+    "id": "124817806",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for concrete",
+    "harm": {
+      "id": "0030051",
+      "title": "124817806 - Woven fabrics (Non-metallic -) for concrete",
+      "conceptLink": "/ec2/concept/5978972"
+    }
+  },
+  {
+    "uri": "en/19/124817845",
+    "id": "124817845",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven fabrics (Non-metallic -) for the protection of dikes against erosion",
+    "harm": {
+      "id": "0041623",
+      "title": "124817845 - Woven fabrics (Non-metallic -) for the protection of dikes against erosion",
+      "conceptLink": "/ec2/concept/5989519"
+    }
+  },
+  {
+    "uri": "en/19/124817922",
+    "id": "124817922",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven geotextile materials (Non-metallic -) for protecting dikes against erosion",
+    "harm": {
+      "id": "0006913",
+      "title": "124817922 - Woven geotextile materials (Non-metallic -) for protecting dikes against erosion",
+      "conceptLink": "/ec2/concept/5957781"
+    }
+  },
+  {
+    "uri": "en/19/124817935",
+    "id": "124817935",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven geotextile materials (Non-metallic -) for protecting slopes against erosion",
+    "harm": {
+      "id": "0035857",
+      "title": "124817935 - Woven geotextile materials (Non-metallic -) for protecting slopes against erosion",
+      "conceptLink": "/ec2/concept/5984258"
+    }
+  },
+  {
+    "uri": "en/19/124817909",
+    "id": "124817909",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven geotextile materials (Non-metallic -) for protecting banks against erosion",
+    "harm": {
+      "id": "0006912",
+      "title": "124817909 - Woven geotextile materials (Non-metallic -) for protecting banks against erosion",
+      "conceptLink": "/ec2/concept/5957780"
+    }
+  },
+  {
+    "uri": "en/19/124817896",
+    "id": "124817896",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven geotextile materials (Non-metallic -) for protecting against erosion",
+    "harm": {
+      "id": "0030053",
+      "title": "124817896 - Woven geotextile materials (Non-metallic -) for protecting against erosion",
+      "conceptLink": "/ec2/concept/5978973"
+    }
+  },
+  {
+    "uri": "en/19/124817948",
+    "id": "124817948",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven materials (Non-metallic -) for use in buildings",
+    "harm": {
+      "id": "0006914",
+      "title": "124817948 - Woven materials (Non-metallic -) for use in buildings",
+      "conceptLink": "/ec2/concept/5957782"
+    }
+  },
+  {
+    "uri": "en/19/124817986",
+    "id": "124817986",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven mats (Non-metallic -) for the protection of slopes against erosion",
+    "harm": {
+      "id": "0019884",
+      "title": "124817986 - Woven mats (Non-metallic -) for the protection of slopes against erosion",
+      "conceptLink": "/ec2/concept/5969655"
+    }
+  },
+  {
+    "uri": "en/19/124817973",
+    "id": "124817973",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven mats (Non-metallic -) for the protection of dikes against erosion",
+    "harm": {
+      "id": "0019883",
+      "title": "124817973 - Woven mats (Non-metallic -) for the protection of dikes against erosion",
+      "conceptLink": "/ec2/concept/5969654"
+    }
+  },
+  {
+    "uri": "en/19/124817999",
+    "id": "124817999",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven mats (Non-metallic -) for use as geotextile materials",
+    "harm": {
+      "id": "0031316",
+      "title": "124817999 - Woven mats (Non-metallic -) for use as geotextile materials",
+      "conceptLink": "/ec2/concept/5980133"
+    }
+  },
+  {
+    "uri": "en/19/124818012",
+    "id": "124818012",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven mats (Non-metallic -) for use as geotextile materials for building purposes",
+    "harm": {
+      "id": "0025584",
+      "title": "124818012 - Woven mats (Non-metallic -) for use as geotextile materials for building purposes",
+      "conceptLink": "/ec2/concept/5974881"
+    }
+  },
+  {
+    "uri": "en/19/124817960",
+    "id": "124817960",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven mats (Non-metallic -) for the protection of banks against erosion",
+    "harm": {
+      "id": "0025583",
+      "title": "124817960 - Woven mats (Non-metallic -) for the protection of banks against erosion",
+      "conceptLink": "/ec2/concept/5974880"
+    }
+  },
+  {
+    "uri": "en/19/124818076",
+    "id": "124818076",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for stabilising earth slopes",
+    "harm": {
+      "id": "0008174",
+      "title": "124818076 - Woven textiles (Non-metallic -) for stabilising earth slopes",
+      "conceptLink": "/ec2/concept/5958936"
+    }
+  },
+  {
+    "uri": "en/19/124818115",
+    "id": "124818115",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for stabilising the bottoms of watercourses",
+    "harm": {
+      "id": "0014057",
+      "title": "124818115 - Woven textiles (Non-metallic -) for stabilising the bottoms of watercourses",
+      "conceptLink": "/ec2/concept/5964319"
+    }
+  },
+  {
+    "uri": "en/19/124818089",
+    "id": "124818089",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for stabilising soft subsoils",
+    "harm": {
+      "id": "0014056",
+      "title": "124818089 - Woven textiles (Non-metallic -) for stabilising soft subsoils",
+      "conceptLink": "/ec2/concept/5964318"
+    }
+  },
+  {
+    "uri": "en/19/124818063",
+    "id": "124818063",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for protecting the bottoms of watercourses",
+    "harm": {
+      "id": "0014055",
+      "title": "124818063 - Woven textiles (Non-metallic -) for protecting the bottoms of watercourses",
+      "conceptLink": "/ec2/concept/5964317"
+    }
+  },
+  {
+    "uri": "en/19/124818050",
+    "id": "124818050",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for protecting the banks of watercourses",
+    "harm": {
+      "id": "0014054",
+      "title": "124818050 - Woven textiles (Non-metallic -) for protecting the banks of watercourses",
+      "conceptLink": "/ec2/concept/5964316"
+    }
+  },
+  {
+    "uri": "en/19/124818025",
+    "id": "124818025",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for protecting earth slopes",
+    "harm": {
+      "id": "0037170",
+      "title": "124818025 - Woven textiles (Non-metallic -) for protecting earth slopes",
+      "conceptLink": "/ec2/concept/5985447"
+    }
+  },
+  {
+    "uri": "en/19/124818102",
+    "id": "124818102",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for stabilising the banks of watercourses",
+    "harm": {
+      "id": "0002485",
+      "title": "124818102 - Woven textiles (Non-metallic -) for stabilising the banks of watercourses",
+      "conceptLink": "/ec2/concept/5953725"
+    }
+  },
+  {
+    "uri": "en/19/124818037",
+    "id": "124818037",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Woven textiles (Non-metallic -) for protecting soft subsoils",
+    "harm": {
+      "id": "0042930",
+      "title": "124818037 - Woven textiles (Non-metallic -) for protecting soft subsoils",
+      "conceptLink": "/ec2/concept/5990697"
+    }
+  },
+  {
+    "uri": "en/19/233159",
+    "id": "233159",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Xylolith",
+    "harm": {
+      "id": "0041822",
+      "title": "233159 - Xylolith",
+      "conceptLink": "/ec2/concept/5989692"
+    }
+  },
+  {
+    "uri": "en/20/753361",
+    "id": "753361",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Acrylic counter displays",
+    "harm": {
+      "id": "0043755",
+      "title": "753361 - Acrylic counter displays",
+      "conceptLink": "/ec2/concept/5991454"
+    }
+  },
+  {
+    "uri": "en/20/124979615",
+    "id": "124979615",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Action figures (Decorative -) of wax",
+    "harm": {
+      "id": "0020768",
+      "title": "124979615 - Action figures (Decorative -) of wax",
+      "conceptLink": "/ec2/concept/5970467"
+    }
+  },
+  {
+    "uri": "en/20/124979603",
+    "id": "124979603",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Action figures (Decorative -) of plastic",
+    "harm": {
+      "id": "0026431",
+      "title": "124979603 - Action figures (Decorative -) of plastic",
+      "conceptLink": "/ec2/concept/5975656"
+    }
+  },
+  {
+    "uri": "en/20/124979590",
+    "id": "124979590",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Action figures (Decorative -) of plaster",
+    "harm": {
+      "id": "0026430",
+      "title": "124979590 - Action figures (Decorative -) of plaster",
+      "conceptLink": "/ec2/concept/5975655"
+    }
+  },
+  {
+    "uri": "en/20/124979627",
+    "id": "124979627",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Action figures (Decorative -) of wood",
+    "harm": {
+      "id": "0032194",
+      "title": "124979627 - Action figures (Decorative -) of wood",
+      "conceptLink": "/ec2/concept/5980919"
+    }
+  },
+  {
+    "uri": "en/20/753435",
+    "id": "753435",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Adhesive wall decorations of wood",
+    "harm": {
+      "id": "0020769",
+      "title": "753435 - Adhesive wall decorations of wood",
+      "conceptLink": "/ec2/concept/5970468"
+    }
+  },
+  {
+    "uri": "en/20/753422",
+    "id": "753422",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Adhesive wall decorations of wax",
+    "harm": {
+      "id": "0026432",
+      "title": "753422 - Adhesive wall decorations of wax",
+      "conceptLink": "/ec2/concept/5975657"
+    }
+  },
+  {
+    "uri": "en/20/753447",
+    "id": "753447",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Adjustable beds",
+    "harm": {
+      "id": "0026433",
+      "title": "753447 - Adjustable beds",
+      "conceptLink": "/ec2/concept/5975658"
+    }
+  },
+  {
+    "uri": "en/20/753462",
+    "id": "753462",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Adjustable seat carriers",
+    "harm": {
+      "id": "0032195",
+      "title": "753462 - Adjustable seat carriers",
+      "conceptLink": "/ec2/concept/5980920"
+    }
+  },
+  {
+    "uri": "en/20/424711",
+    "id": "424711",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertisement boards",
+    "harm": {
+      "id": "0044684",
+      "title": "424711 - Advertisement boards",
+      "conceptLink": "/ec2/concept/5992310"
+    }
+  },
+  {
+    "uri": "en/20/753512",
+    "id": "753512",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertisement display boards of wood [non-luminous]",
+    "harm": {
+      "id": "0038955",
+      "title": "753512 - Advertisement display boards of wood [non-luminous]",
+      "conceptLink": "/ec2/concept/5987073"
+    }
+  },
+  {
+    "uri": "en/20/753493",
+    "id": "753493",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertisement display boards of plastic [non-luminous]",
+    "harm": {
+      "id": "0038954",
+      "title": "753493 - Advertisement display boards of plastic [non-luminous]",
+      "conceptLink": "/ec2/concept/5987072"
+    }
+  },
+  {
+    "uri": "en/20/753475",
+    "id": "753475",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertisement display boards of glass [non-luminous]",
+    "harm": {
+      "id": "0044685",
+      "title": "753475 - Advertisement display boards of glass [non-luminous]",
+      "conceptLink": "/ec2/concept/5992311"
+    }
+  },
+  {
+    "uri": "en/20/12413007",
+    "id": "12413007",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising balloons",
+    "harm": {
+      "id": "0050478",
+      "title": "12413007 - Advertising balloons",
+      "conceptLink": "/ec2/concept/5995847"
+    }
+  },
+  {
+    "uri": "en/20/753543",
+    "id": "753543",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards of porcelain [non-luminous]",
+    "harm": {
+      "id": "0015860",
+      "title": "753543 - Advertising display boards of porcelain [non-luminous]",
+      "conceptLink": "/ec2/concept/5965985"
+    }
+  },
+  {
+    "uri": "en/20/753492",
+    "id": "753492",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards of plastic [non-luminous]",
+    "harm": {
+      "id": "0038954",
+      "title": "753492 - Advertising display boards of plastic [non-luminous]",
+      "conceptLink": "/ec2/concept/5987072"
+    }
+  },
+  {
+    "uri": "en/20/753511",
+    "id": "753511",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards of wood [non-luminous]",
+    "harm": {
+      "id": "0038955",
+      "title": "753511 - Advertising display boards of wood [non-luminous]",
+      "conceptLink": "/ec2/concept/5987073"
+    }
+  },
+  {
+    "uri": "en/20/424710",
+    "id": "424710",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards",
+    "harm": {
+      "id": "0044684",
+      "title": "424710 - Advertising display boards",
+      "conceptLink": "/ec2/concept/5992310"
+    }
+  },
+  {
+    "uri": "en/20/753528",
+    "id": "753528",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards [furniture]",
+    "harm": {
+      "id": "0044684",
+      "title": "753528 - Advertising display boards [furniture]",
+      "conceptLink": "/ec2/concept/5992310"
+    }
+  },
+  {
+    "uri": "en/20/753474",
+    "id": "753474",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising display boards of glass [non-luminous]",
+    "harm": {
+      "id": "0044685",
+      "title": "753474 - Advertising display boards of glass [non-luminous]",
+      "conceptLink": "/ec2/concept/5992311"
+    }
+  },
+  {
+    "uri": "en/20/426668",
+    "id": "426668",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising signboards of plastics",
+    "harm": {
+      "id": "0012322",
+      "title": "426668 - Advertising signboards of plastics",
+      "conceptLink": "/ec2/concept/5962741"
+    }
+  },
+  {
+    "uri": "en/20/753557",
+    "id": "753557",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Advertising signboards of wood",
+    "harm": {
+      "id": "0004333",
+      "title": "753557 - Advertising signboards of wood",
+      "conceptLink": "/ec2/concept/5955415"
+    }
+  },
+  {
+    "uri": "en/20/233249799",
+    "id": "233249799",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Air bed lounger",
+    "harm": {
+      "id": "0073155",
+      "title": "233249799 - Air bed lounger",
+      "conceptLink": "/ec2/concept/6009328"
+    }
+  },
+  {
+    "uri": "en/20/490432",
+    "id": "490432",
+    "lang": "en",
+    "classNumber": "20",
+    "term": "Air cushions",
+    "harm": {
+      "id": "0029514",
+      "title": "490432 - Air cushions",
+      "conceptLink": "/ec2/concept/5978477"
+    }
+  }
+]

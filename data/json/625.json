@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/902577",
+    "id": "902577",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt management services",
+    "harm": {
+      "id": "0007329",
+      "title": "902577 - Debt management services",
+      "conceptLink": "/ec2/concept/5958167"
+    }
+  },
+  {
+    "uri": "en/36/31302",
+    "id": "31302",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery",
+    "harm": {
+      "id": "0046303",
+      "title": "31302 - Debt recovery",
+      "conceptLink": "/ec2/concept/5993763"
+    }
+  },
+  {
+    "uri": "en/36/31308",
+    "id": "31308",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery agency",
+    "harm": {
+      "id": "0046303",
+      "title": "31308 - Debt recovery agency",
+      "conceptLink": "/ec2/concept/5993763"
+    }
+  },
+  {
+    "uri": "en/36/31309",
+    "id": "31309",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery agency services",
+    "harm": {
+      "id": "0046303",
+      "title": "31309 - Debt recovery agency services",
+      "conceptLink": "/ec2/concept/5993763"
+    }
+  },
+  {
+    "uri": "en/36/31300",
+    "id": "31300",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery and collection agencies",
+    "harm": {
+      "id": "0041197",
+      "title": "31300 - Debt recovery and collection agencies",
+      "conceptLink": "/ec2/concept/5989125"
+    }
+  },
+  {
+    "uri": "en/36/131139626",
+    "id": "131139626",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery and factoring services",
+    "harm": {
+      "id": "0047989",
+      "title": "131139626 - Debt recovery and factoring services",
+      "conceptLink": "/ec2/concept/5995250"
+    }
+  },
+  {
+    "uri": "en/36/801904",
+    "id": "801904",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt recovery services",
+    "harm": {
+      "id": "0046303",
+      "title": "801904 - Debt recovery services",
+      "conceptLink": "/ec2/concept/5993763"
+    }
+  },
+  {
+    "uri": "en/36/802963",
+    "id": "802963",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Debt restructuring",
+    "harm": {
+      "id": "0033091",
+      "title": "802963 - Debt restructuring",
+      "conceptLink": "/ec2/concept/5981740"
+    }
+  },
+  {
+    "uri": "en/36/448038",
+    "id": "448038",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Dental health insurance administration",
+    "harm": {
+      "id": "0040638",
+      "title": "448038 - Dental health insurance administration",
+      "conceptLink": "/ec2/concept/5988618"
+    }
+  },
+  {
+    "uri": "en/36/448051",
+    "id": "448051",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Dental health insurance underwriting and administration",
+    "harm": {
+      "id": "0011742",
+      "title": "448051 - Dental health insurance underwriting and administration",
+      "conceptLink": "/ec2/concept/5962204"
+    }
+  },
+  {
+    "uri": "en/36/802978",
+    "id": "802978",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit accounts services",
+    "harm": {
+      "id": "0021698",
+      "title": "802978 - Deposit accounts services",
+      "conceptLink": "/ec2/concept/5971309"
+    }
+  },
+  {
+    "uri": "en/36/803027",
+    "id": "803027",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit-holding",
+    "harm": {
+      "id": "0027343",
+      "title": "803027 - Deposit-holding",
+      "conceptLink": "/ec2/concept/5976473"
+    }
+  },
+  {
+    "uri": "en/36/35764",
+    "id": "35764",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit of valuables",
+    "harm": {
+      "id": "0046667",
+      "title": "35764 - Deposit of valuables",
+      "conceptLink": "/ec2/concept/5994089"
+    }
+  },
+  {
+    "uri": "en/36/802993",
+    "id": "802993",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit savings",
+    "harm": {
+      "id": "0021699",
+      "title": "802993 - Deposit savings",
+      "conceptLink": "/ec2/concept/5971310"
+    }
+  },
+  {
+    "uri": "en/36/803007",
+    "id": "803007",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit services",
+    "harm": {
+      "id": "0038889",
+      "title": "803007 - Deposit services",
+      "conceptLink": "/ec2/concept/5987011"
+    }
+  },
+  {
+    "uri": "en/36/803040",
+    "id": "803040",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposit-taking",
+    "harm": {
+      "id": "0038890",
+      "title": "803040 - Deposit-taking",
+      "conceptLink": "/ec2/concept/5987012"
+    }
+  },
+  {
+    "uri": "en/36/35766",
+    "id": "35766",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Deposits of valuables",
+    "harm": {
+      "id": "0046667",
+      "title": "35766 - Deposits of valuables",
+      "conceptLink": "/ec2/concept/5994089"
+    }
+  },
+  {
+    "uri": "en/36/448068",
+    "id": "448068",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Derivatives trading services",
+    "harm": {
+      "id": "0005976",
+      "title": "448068 - Derivatives trading services",
+      "conceptLink": "/ec2/concept/5956925"
+    }
+  },
+  {
+    "uri": "en/36/448087",
+    "id": "448087",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Development of investment portfolios",
+    "harm": {
+      "id": "0034843",
+      "title": "448087 - Development of investment portfolios",
+      "conceptLink": "/ec2/concept/5983338"
+    }
+  },
+  {
+    "uri": "en/36/803055",
+    "id": "803055",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Direct debit services",
+    "harm": {
+      "id": "0009983",
+      "title": "803055 - Direct debit services",
+      "conceptLink": "/ec2/concept/5960595"
+    }
+  },
+  {
+    "uri": "en/36/900177",
+    "id": "900177",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Discount card services provided to young people for cultural purposes",
+    "harm": {
+      "id": "0006487",
+      "title": "900177 - Discount card services provided to young people for cultural purposes",
+      "conceptLink": "/ec2/concept/5957394"
+    }
+  },
+  {
+    "uri": "en/36/900178",
+    "id": "900178",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Discount card services provided to young people for leisure purposes",
+    "harm": {
+      "id": "0018093",
+      "title": "900178 - Discount card services provided to young people for leisure purposes",
+      "conceptLink": "/ec2/concept/5968017"
+    }
+  },
+  {
+    "uri": "en/36/900179",
+    "id": "900179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Discount card services provided to young people for travel",
+    "harm": {
+      "id": "0029634",
+      "title": "900179 - Discount card services provided to young people for travel",
+      "conceptLink": "/ec2/concept/5978592"
+    }
+  },
+  {
+    "uri": "en/36/897023",
+    "id": "897023",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Discount factoring",
+    "harm": {
+      "id": "0016524",
+      "title": "897023 - Discount factoring",
+      "conceptLink": "/ec2/concept/5966595"
+    }
+  },
+  {
+    "uri": "en/36/14832983",
+    "id": "14832983",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Discount of bills",
+    "harm": {
+      "id": "0067840",
+      "title": "14832983 - Discount of bills",
+      "conceptLink": "/ec2/concept/6004043"
+    }
+  },
+  {
+    "uri": "en/36/803070",
+    "id": "803070",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Dispensing of cash",
+    "harm": {
+      "id": "0044633",
+      "title": "803070 - Dispensing of cash",
+      "conceptLink": "/ec2/concept/5992265"
+    }
+  },
+  {
+    "uri": "en/36/803082",
+    "id": "803082",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Domestic property finding services",
+    "harm": {
+      "id": "0004259",
+      "title": "803082 - Domestic property finding services",
+      "conceptLink": "/ec2/concept/5955347"
+    }
+  },
+  {
+    "uri": "en/36/120880581",
+    "id": "120880581",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Domestic remittance services provided on-line",
+    "harm": {
+      "id": "0067932",
+      "title": "120880581 - Domestic remittance services provided on-line",
+      "conceptLink": "/ec2/concept/6004135"
+    }
+  },
+  {
+    "uri": "en/36/120880617",
+    "id": "120880617",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Domestic remittance services",
+    "harm": {
+      "id": "0067938",
+      "title": "120880617 - Domestic remittance services",
+      "conceptLink": "/ec2/concept/6004141"
+    }
+  },
+  {
+    "uri": "en/36/448102",
+    "id": "448102",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Duty drawback services",
+    "harm": {
+      "id": "0011743",
+      "title": "448102 - Duty drawback services",
+      "conceptLink": "/ec2/concept/5962205"
+    }
+  },
+  {
+    "uri": "en/36/803099",
+    "id": "803099",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Economic financial research services",
+    "harm": {
+      "id": "0015811",
+      "title": "803099 - Economic financial research services",
+      "conceptLink": "/ec2/concept/5965939"
+    }
+  },
+  {
+    "uri": "en/36/803098",
+    "id": "803098",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Economic research services [financial]",
+    "harm": {
+      "id": "0015811",
+      "title": "803098 - Economic research services [financial]",
+      "conceptLink": "/ec2/concept/5965939"
+    }
+  },
+  {
+    "uri": "en/36/448119",
+    "id": "448119",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic banking",
+    "harm": {
+      "id": "0011744",
+      "title": "448119 - Electronic banking",
+      "conceptLink": "/ec2/concept/5962206"
+    }
+  },
+  {
+    "uri": "en/36/448120",
+    "id": "448120",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic banking services",
+    "harm": {
+      "id": "0011744",
+      "title": "448120 - Electronic banking services",
+      "conceptLink": "/ec2/concept/5962206"
+    }
+  },
+  {
+    "uri": "en/36/883166",
+    "id": "883166",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic banking via a global computer network [internet banking]",
+    "harm": {
+      "id": "0010008",
+      "title": "883166 - Electronic banking via a global computer network [internet banking]",
+      "conceptLink": "/ec2/concept/5960620"
+    }
+  },
+  {
+    "uri": "en/36/35186",
+    "id": "35186",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic cash transactions",
+    "harm": {
+      "id": "0023220",
+      "title": "35186 - Electronic cash transactions",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/124060270",
+    "id": "124060270",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic check acceptance services",
+    "harm": {
+      "id": "0056640",
+      "title": "124060270 - Electronic check acceptance services",
+      "conceptLink": "/ec2/concept/5997936"
+    }
+  },
+  {
+    "uri": "en/36/232609847",
+    "id": "232609847",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic credit card transaction processing",
+    "harm": {
+      "id": "0036074",
+      "title": "232609847 - Electronic credit card transaction processing",
+      "conceptLink": "/ec2/concept/5984449"
+    }
+  },
+  {
+    "uri": "en/36/903332",
+    "id": "903332",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic credit card transactions",
+    "harm": {
+      "id": "0036074",
+      "title": "903332 - Electronic credit card transactions",
+      "conceptLink": "/ec2/concept/5984449"
+    }
+  },
+  {
+    "uri": "en/36/448147",
+    "id": "448147",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic debit transactions",
+    "harm": {
+      "id": "0029065",
+      "title": "448147 - Electronic debit transactions",
+      "conceptLink": "/ec2/concept/5978076"
+    }
+  },
+  {
+    "uri": "en/36/120881863",
+    "id": "120881863",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic debt collection",
+    "harm": {
+      "id": "0067811",
+      "title": "120881863 - Electronic debt collection",
+      "conceptLink": "/ec2/concept/6004014"
+    }
+  },
+  {
+    "uri": "en/36/35185",
+    "id": "35185",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic fund-transfer services",
+    "harm": {
+      "id": "0023220",
+      "title": "35185 - Electronic fund-transfer services",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/366638",
+    "id": "366638",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic funds transfer by telecommunications",
+    "harm": {
+      "id": "0016205",
+      "title": "366638 - Electronic funds transfer by telecommunications",
+      "conceptLink": "/ec2/concept/5966305"
+    }
+  },
+  {
+    "uri": "en/36/803120",
+    "id": "803120",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic funds transfer for travel agents",
+    "harm": {
+      "id": "0034195",
+      "title": "803120 - Electronic funds transfer for travel agents",
+      "conceptLink": "/ec2/concept/5982754"
+    }
+  },
+  {
+    "uri": "en/36/35178",
+    "id": "35178",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic funds transfers",
+    "harm": {
+      "id": "0023220",
+      "title": "35178 - Electronic funds transfers",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/448164",
+    "id": "448164",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic funds transfer services",
+    "harm": {
+      "id": "0023220",
+      "title": "448164 - Electronic funds transfer services",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/35177",
+    "id": "35177",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic funds transfer",
+    "harm": {
+      "id": "0023220",
+      "title": "35177 - Electronic funds transfer",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/35189",
+    "id": "35189",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic money transfer services",
+    "harm": {
+      "id": "0023220",
+      "title": "35189 - Electronic money transfer services",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/448185",
+    "id": "448185",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic payment services",
+    "harm": {
+      "id": "0029066",
+      "title": "448185 - Electronic payment services",
+      "conceptLink": "/ec2/concept/5978077"
+    }
+  },
+  {
+    "uri": "en/36/120883825",
+    "id": "120883825",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic processing of payments",
+    "harm": {
+      "id": "0068002",
+      "title": "120883825 - Electronic processing of payments",
+      "conceptLink": "/ec2/concept/6004205"
+    }
+  },
+  {
+    "uri": "en/36/9031527",
+    "id": "9031527",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic stock exchange services",
+    "harm": {
+      "id": "0067951",
+      "title": "9031527 - Electronic stock exchange services",
+      "conceptLink": "/ec2/concept/6004154"
+    }
+  },
+  {
+    "uri": "en/36/803135",
+    "id": "803135",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic stock transfer initiation services",
+    "harm": {
+      "id": "0005347",
+      "title": "803135 - Electronic stock transfer initiation services",
+      "conceptLink": "/ec2/concept/5956351"
+    }
+  },
+  {
+    "uri": "en/36/903359",
+    "id": "903359",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic toll collection services",
+    "harm": {
+      "id": "0012954",
+      "title": "903359 - Electronic toll collection services",
+      "conceptLink": "/ec2/concept/5963314"
+    }
+  },
+  {
+    "uri": "en/36/35179",
+    "id": "35179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic transfer of funds",
+    "harm": {
+      "id": "0023220",
+      "title": "35179 - Electronic transfer of funds",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/35187",
+    "id": "35187",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic transfer of funds for others",
+    "harm": {
+      "id": "0023220",
+      "title": "35187 - Electronic transfer of funds for others",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/35182",
+    "id": "35182",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic transfer of money",
+    "harm": {
+      "id": "0023220",
+      "title": "35182 - Electronic transfer of money",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/35183",
+    "id": "35183",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic transfers of money",
+    "harm": {
+      "id": "0023220",
+      "title": "35183 - Electronic transfers of money",
+      "conceptLink": "/ec2/concept/5972700"
+    }
+  },
+  {
+    "uri": "en/36/803147",
+    "id": "803147",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Electronic wallet services (payment services)",
+    "harm": {
+      "id": "0034196",
+      "title": "803147 - Electronic wallet services (payment services)",
+      "conceptLink": "/ec2/concept/5982755"
+    }
+  },
+  {
+    "uri": "en/36/448203",
+    "id": "448203",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Eleemosynary services in the field of monetary donations",
+    "harm": {
+      "id": "0023338",
+      "title": "448203 - Eleemosynary services in the field of monetary donations",
+      "conceptLink": "/ec2/concept/5972815"
+    }
+  },
+  {
+    "uri": "en/36/803163",
+    "id": "803163",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Emergency financial services for travellers",
+    "harm": {
+      "id": "0045688",
+      "title": "803163 - Emergency financial services for travellers",
+      "conceptLink": "/ec2/concept/5993228"
+    }
+  },
+  {
+    "uri": "en/36/903402",
+    "id": "903402",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Employee stock plan administration services",
+    "harm": {
+      "id": "0030265",
+      "title": "903402 - Employee stock plan administration services",
+      "conceptLink": "/ec2/concept/5979169"
+    }
+  },
+  {
+    "uri": "en/36/447366",
+    "id": "447366",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Encashment of cheques",
+    "harm": {
+      "id": "0012815",
+      "title": "447366 - Encashment of cheques",
+      "conceptLink": "/ec2/concept/5963192"
+    }
+  },
+  {
+    "uri": "en/36/803179",
+    "id": "803179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Endowment insurance services",
+    "harm": {
+      "id": "0045689",
+      "title": "803179 - Endowment insurance services",
+      "conceptLink": "/ec2/concept/5993229"
+    }
+  },
+  {
+    "uri": "en/36/448216",
+    "id": "448216",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Equipment financing services",
+    "harm": {
+      "id": "0011745",
+      "title": "448216 - Equipment financing services",
+      "conceptLink": "/ec2/concept/5962207"
+    }
+  },
+  {
+    "uri": "en/36/366653",
+    "id": "366653",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Equity capital investment",
+    "harm": {
+      "id": "0004682",
+      "title": "366653 - Equity capital investment",
+      "conceptLink": "/ec2/concept/5955742"
+    }
+  },
+  {
+    "uri": "en/36/803192",
+    "id": "803192",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Equity financing",
+    "harm": {
+      "id": "0045690",
+      "title": "803192 - Equity financing",
+      "conceptLink": "/ec2/concept/5993230"
+    }
+  },
+  {
+    "uri": "en/36/120881807",
+    "id": "120881807",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Equity investment in international companies",
+    "harm": {
+      "id": "0067815",
+      "title": "120881807 - Equity investment in international companies",
+      "conceptLink": "/ec2/concept/6004018"
+    }
+  },
+  {
+    "uri": "en/36/803207",
+    "id": "803207",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Equity release services",
+    "harm": {
+      "id": "0022738",
+      "title": "803207 - Equity release services",
+      "conceptLink": "/ec2/concept/5972269"
+    }
+  },
+  {
+    "uri": "en/36/33371",
+    "id": "33371",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Escrow services",
+    "harm": {
+      "id": "0005613",
+      "title": "33371 - Escrow services",
+      "conceptLink": "/ec2/concept/5956602"
+    }
+  },
+  {
+    "uri": "en/36/448232",
+    "id": "448232",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Establishing mutual funds for others",
+    "harm": {
+      "id": "0000190",
+      "title": "448232 - Establishing mutual funds for others",
+      "conceptLink": "/ec2/concept/5951665"
+    }
+  },
+  {
+    "uri": "en/36/125028099",
+    "id": "125028099",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Establishment of portfolios of securities (Services for the -)",
+    "harm": {
+      "id": "0034197",
+      "title": "125028099 - Establishment of portfolios of securities (Services for the -)",
+      "conceptLink": "/ec2/concept/5982756"
+    }
+  },
+  {
+    "uri": "en/36/125028114",
+    "id": "125028114",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Establishment of trusts (Services for the -)",
+    "harm": {
+      "id": "0034198",
+      "title": "125028114 - Establishment of trusts (Services for the -)",
+      "conceptLink": "/ec2/concept/5982757"
+    }
+  },
+  {
+    "uri": "en/36/31018",
+    "id": "31018",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agencies",
+    "harm": {
+      "id": "0034744",
+      "title": "31018 - Estate agencies",
+      "conceptLink": "/ec2/concept/5983244"
+    }
+  },
+  {
+    "uri": "en/36/31010",
+    "id": "31010",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agencies (Real -)",
+    "harm": {
+      "id": "0047407",
+      "title": "31010 - Estate agencies (Real -)",
+      "conceptLink": "/ec2/concept/5994729"
+    }
+  },
+  {
+    "uri": "en/36/31017",
+    "id": "31017",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agency",
+    "harm": {
+      "id": "0034744",
+      "title": "31017 - Estate agency",
+      "conceptLink": "/ec2/concept/5983244"
+    }
+  },
+  {
+    "uri": "en/36/31144",
+    "id": "31144",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agency services",
+    "harm": {
+      "id": "0034744",
+      "title": "31144 - Estate agency services",
+      "conceptLink": "/ec2/concept/5983244"
+    }
+  },
+  {
+    "uri": "en/36/803268",
+    "id": "803268",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agency services for sale and rental of businesses",
+    "harm": {
+      "id": "0011893",
+      "title": "803268 - Estate agency services for sale and rental of businesses",
+      "conceptLink": "/ec2/concept/5962345"
+    }
+  },
+  {
+    "uri": "en/36/803252",
+    "id": "803252",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agency services for sale and rental of buildings",
+    "harm": {
+      "id": "0011892",
+      "title": "803252 - Estate agency services for sale and rental of buildings",
+      "conceptLink": "/ec2/concept/5962344"
+    }
+  },
+  {
+    "uri": "en/36/31019",
+    "id": "31019",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate agent services",
+    "harm": {
+      "id": "0034744",
+      "title": "31019 - Estate agent services",
+      "conceptLink": "/ec2/concept/5983244"
+    }
+  },
+  {
+    "uri": "en/36/31020",
+    "id": "31020",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate brokerage",
+    "harm": {
+      "id": "0011894",
+      "title": "31020 - Estate brokerage",
+      "conceptLink": "/ec2/concept/5962346"
+    }
+  },
+  {
+    "uri": "en/36/33518",
+    "id": "33518",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate management",
+    "harm": {
+      "id": "0035002",
+      "title": "33518 - Estate management",
+      "conceptLink": "/ec2/concept/5983480"
+    }
+  },
+  {
+    "uri": "en/36/33508",
+    "id": "33508",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate management (Real -)",
+    "harm": {
+      "id": "0037527",
+      "title": "33508 - Estate management (Real -)",
+      "conceptLink": "/ec2/concept/5985771"
+    }
+  },
+  {
+    "uri": "en/36/803323",
+    "id": "803323",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate management services relating to transactions in real property",
+    "harm": {
+      "id": "0011896",
+      "title": "803323 - Estate management services relating to transactions in real property",
+      "conceptLink": "/ec2/concept/5962347"
+    }
+  },
+  {
+    "uri": "en/36/803311",
+    "id": "803311",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate management services relating to horticulture",
+    "harm": {
+      "id": "0029226",
+      "title": "803311 - Estate management services relating to horticulture",
+      "conceptLink": "/ec2/concept/5978222"
+    }
+  },
+  {
+    "uri": "en/36/803298",
+    "id": "803298",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate management services relating to agriculture",
+    "harm": {
+      "id": "0040803",
+      "title": "803298 - Estate management services relating to agriculture",
+      "conceptLink": "/ec2/concept/5988766"
+    }
+  },
+  {
+    "uri": "en/36/803338",
+    "id": "803338",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate planning services [arranging financial affairs]",
+    "harm": {
+      "id": "0026054",
+      "title": "803338 - Estate planning services [arranging financial affairs]",
+      "conceptLink": "/ec2/concept/5975311"
+    }
+  },
+  {
+    "uri": "en/36/903559",
+    "id": "903559",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate trust management",
+    "harm": {
+      "id": "0020005",
+      "title": "903559 - Estate trust management",
+      "conceptLink": "/ec2/concept/5969764"
+    }
+  },
+  {
+    "uri": "en/36/903571",
+    "id": "903571",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estate trust planning",
+    "harm": {
+      "id": "0037292",
+      "title": "903571 - Estate trust planning",
+      "conceptLink": "/ec2/concept/5985556"
+    }
+  },
+  {
+    "uri": "en/36/482361",
+    "id": "482361",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estimates for financial purposes",
+    "harm": {
+      "id": "0047147",
+      "title": "482361 - Estimates for financial purposes",
+      "conceptLink": "/ec2/concept/5994515"
+    }
+  },
+  {
+    "uri": "en/36/800195",
+    "id": "800195",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Estimates for insurance purposes",
+    "harm": {
+      "id": "0006115",
+      "title": "800195 - Estimates for insurance purposes",
+      "conceptLink": "/ec2/concept/5957057"
+    }
+  },
+  {
+    "uri": "en/36/33275",
+    "id": "33275",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation (Financial -) [insurance, banking, real estate]",
+    "harm": {
+      "id": "0022413",
+      "title": "33275 - Evaluation (Financial -) [insurance, banking, real estate]",
+      "conceptLink": "/ec2/concept/5971969"
+    }
+  },
+  {
+    "uri": "en/36/120883649",
+    "id": "120883649",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation for insurance purposes",
+    "harm": {
+      "id": "0006115",
+      "title": "120883649 - Evaluation for insurance purposes",
+      "conceptLink": "/ec2/concept/5957057"
+    }
+  },
+  {
+    "uri": "en/36/448246",
+    "id": "448246",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of chattels",
+    "harm": {
+      "id": "0023339",
+      "title": "448246 - Evaluation of chattels",
+      "conceptLink": "/ec2/concept/5972816"
+    }
+  },
+  {
+    "uri": "en/36/448273",
+    "id": "448273",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of credit bureau data",
+    "harm": {
+      "id": "0008185",
+      "title": "448273 - Evaluation of credit bureau data",
+      "conceptLink": "/ec2/concept/5958946"
+    }
+  },
+  {
+    "uri": "en/36/34677",
+    "id": "34677",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of objects of art",
+    "harm": {
+      "id": "0023640",
+      "title": "34677 - Evaluation of objects of art",
+      "conceptLink": "/ec2/concept/5973091"
+    }
+  },
+  {
+    "uri": "en/36/31999",
+    "id": "31999",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of real estate",
+    "harm": {
+      "id": "0035003",
+      "title": "31999 - Evaluation of real estate",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31983",
+    "id": "31983",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of real property",
+    "harm": {
+      "id": "0035003",
+      "title": "31983 - Evaluation of real property",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/912475",
+    "id": "912475",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of standing timber (Financial -)",
+    "harm": {
+      "id": "0037328",
+      "title": "912475 - Evaluation of standing timber (Financial -)",
+      "conceptLink": "/ec2/concept/5985590"
+    }
+  },
+  {
+    "uri": "en/36/366668",
+    "id": "366668",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of the credit worthiness of companies and private individuals",
+    "harm": {
+      "id": "0027758",
+      "title": "366668 - Evaluation of the credit worthiness of companies and private individuals",
+      "conceptLink": "/ec2/concept/5976863"
+    }
+  },
+  {
+    "uri": "en/36/912449",
+    "id": "912449",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Evaluation of wool (Financial -)",
+    "harm": {
+      "id": "0020036",
+      "title": "912449 - Evaluation of wool (Financial -)",
+      "conceptLink": "/ec2/concept/5969792"
+    }
+  }
+]

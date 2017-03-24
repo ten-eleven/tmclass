@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/91929",
+    "id": "91929",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Petroleum jelly for medical purposes",
+    "harm": {
+      "id": "0012118",
+      "title": "91929 - Petroleum jelly for medical purposes",
+      "conceptLink": "/ec2/concept/5962555"
+    }
+  },
+  {
+    "uri": "en/5/120898094",
+    "id": "120898094",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Petroleum jelly for veterinary use",
+    "harm": {
+      "id": "0065222",
+      "title": "120898094 - Petroleum jelly for veterinary use",
+      "conceptLink": "/ec2/concept/6001425"
+    }
+  },
+  {
+    "uri": "en/5/120930928",
+    "id": "120930928",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents affecting peripheral nervous system",
+    "harm": {
+      "id": "0055547",
+      "title": "120930928 - Pharmaceutical agents affecting peripheral nervous system",
+      "conceptLink": "/ec2/concept/5996945"
+    }
+  },
+  {
+    "uri": "en/5/119624193",
+    "id": "119624193",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents affecting sensory organs",
+    "harm": {
+      "id": "0055548",
+      "title": "119624193 - Pharmaceutical agents affecting sensory organs",
+      "conceptLink": "/ec2/concept/5996946"
+    }
+  },
+  {
+    "uri": "en/5/119623968",
+    "id": "119623968",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents affecting metabolism",
+    "harm": {
+      "id": "0055546",
+      "title": "119623968 - Pharmaceutical agents affecting metabolism",
+      "conceptLink": "/ec2/concept/5996944"
+    }
+  },
+  {
+    "uri": "en/5/119625150",
+    "id": "119625150",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents affecting digestive organs",
+    "harm": {
+      "id": "0055545",
+      "title": "119625150 - Pharmaceutical agents affecting digestive organs",
+      "conceptLink": "/ec2/concept/5996943"
+    }
+  },
+  {
+    "uri": "en/5/119624324",
+    "id": "119624324",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents for epidermis",
+    "harm": {
+      "id": "0055549",
+      "title": "119624324 - Pharmaceutical agents for epidermis",
+      "conceptLink": "/ec2/concept/5996947"
+    }
+  },
+  {
+    "uri": "en/5/120934346",
+    "id": "120934346",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical agents for treating physically caused lesions",
+    "harm": {
+      "id": "0055550",
+      "title": "120934346 - Pharmaceutical agents for treating physically caused lesions",
+      "conceptLink": "/ec2/concept/5996948"
+    }
+  },
+  {
+    "uri": "en/5/120911636",
+    "id": "120911636",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical antiallergic preparations and substances",
+    "harm": {
+      "id": "0065481",
+      "title": "120911636 - Pharmaceutical antiallergic preparations and substances",
+      "conceptLink": "/ec2/concept/6001684"
+    }
+  },
+  {
+    "uri": "en/5/120912926",
+    "id": "120912926",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical cold preparations",
+    "harm": {
+      "id": "0065408",
+      "title": "120912926 - Pharmaceutical cold preparations",
+      "conceptLink": "/ec2/concept/6001611"
+    }
+  },
+  {
+    "uri": "en/5/668137",
+    "id": "668137",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical compositions",
+    "harm": {
+      "id": "0004424",
+      "title": "668137 - Pharmaceutical compositions",
+      "conceptLink": "/ec2/concept/5955503"
+    }
+  },
+  {
+    "uri": "en/5/120866908",
+    "id": "120866908",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical cough preparations",
+    "harm": {
+      "id": "0065320",
+      "title": "120866908 - Pharmaceutical cough preparations",
+      "conceptLink": "/ec2/concept/6001523"
+    }
+  },
+  {
+    "uri": "en/5/668151",
+    "id": "668151",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical creams",
+    "harm": {
+      "id": "0010134",
+      "title": "668151 - Pharmaceutical creams",
+      "conceptLink": "/ec2/concept/5960730"
+    }
+  },
+  {
+    "uri": "en/5/5309588",
+    "id": "5309588",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical drugs",
+    "harm": {
+      "id": "0065262",
+      "title": "5309588 - Pharmaceutical drugs",
+      "conceptLink": "/ec2/concept/6001465"
+    }
+  },
+  {
+    "uri": "en/5/109781302",
+    "id": "109781302",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical for the treatment of erectile dysfunction",
+    "harm": {
+      "id": "0043887",
+      "title": "109781302 - Pharmaceutical for the treatment of erectile dysfunction",
+      "conceptLink": "/ec2/concept/5991576"
+    }
+  },
+  {
+    "uri": "en/5/477557",
+    "id": "477557",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical implants",
+    "harm": {
+      "id": "0003443",
+      "title": "477557 - Pharmaceutical implants",
+      "conceptLink": "/ec2/concept/5954599"
+    }
+  },
+  {
+    "uri": "en/5/668164",
+    "id": "668164",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical lipsalves",
+    "harm": {
+      "id": "0004425",
+      "title": "668164 - Pharmaceutical lipsalves",
+      "conceptLink": "/ec2/concept/5955504"
+    }
+  },
+  {
+    "uri": "en/5/318443",
+    "id": "318443",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for animal skincare",
+    "harm": {
+      "id": "0009214",
+      "title": "318443 - Pharmaceutical preparations for animal skincare",
+      "conceptLink": "/ec2/concept/5959892"
+    }
+  },
+  {
+    "uri": "en/5/668192",
+    "id": "668192",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for veterinary use",
+    "harm": {
+      "id": "0004426",
+      "title": "668192 - Pharmaceutical preparations for veterinary use",
+      "conceptLink": "/ec2/concept/5955505"
+    }
+  },
+  {
+    "uri": "en/5/138393216",
+    "id": "138393216",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the cardio-vascular system",
+    "harm": {
+      "id": "0033092",
+      "title": "138393216 - Pharmaceutical preparations for the prevention of diseases of the cardio-vascular system",
+      "conceptLink": "/ec2/concept/5981741"
+    }
+  },
+  {
+    "uri": "en/5/138393217",
+    "id": "138393217",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the cardio-vascular system",
+    "harm": {
+      "id": "0033092",
+      "title": "138393217 - Pharmaceutical preparations for the prevention of disorders of the cardio-vascular system",
+      "conceptLink": "/ec2/concept/5981741"
+    }
+  },
+  {
+    "uri": "en/5/86073995",
+    "id": "86073995",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for medical purposes",
+    "harm": {
+      "id": "0071841",
+      "title": "86073995 - Pharmaceutical preparations for medical purposes",
+      "conceptLink": "/ec2/concept/6008027"
+    }
+  },
+  {
+    "uri": "en/5/233111636",
+    "id": "233111636",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating rheumatological diseases",
+    "harm": {
+      "id": "0072675",
+      "title": "233111636 - Pharmaceutical preparations for treating rheumatological diseases",
+      "conceptLink": "/ec2/concept/6008852"
+    }
+  },
+  {
+    "uri": "en/5/233111634",
+    "id": "233111634",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating skeletal diseases",
+    "harm": {
+      "id": "0072674",
+      "title": "233111634 - Pharmaceutical preparations for treating skeletal diseases",
+      "conceptLink": "/ec2/concept/6008851"
+    }
+  },
+  {
+    "uri": "en/5/136189426",
+    "id": "136189426",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating arthritis",
+    "harm": {
+      "id": "0072676",
+      "title": "136189426 - Pharmaceutical preparations for treating arthritis",
+      "conceptLink": "/ec2/concept/6008853"
+    }
+  },
+  {
+    "uri": "en/5/10861806",
+    "id": "10861806",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparation for skin care",
+    "harm": {
+      "id": "0042131",
+      "title": "10861806 - Pharmaceutical preparation for skin care",
+      "conceptLink": "/ec2/concept/5989978"
+    }
+  },
+  {
+    "uri": "en/5/138393223",
+    "id": "138393223",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of tumours",
+    "harm": {
+      "id": "0039318",
+      "title": "138393223 - Pharmaceutical preparations for the treatment of tumours",
+      "conceptLink": "/ec2/concept/5987403"
+    }
+  },
+  {
+    "uri": "en/5/383956",
+    "id": "383956",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of cancer",
+    "harm": {
+      "id": "0039318",
+      "title": "383956 - Pharmaceutical preparations for the treatment of cancer",
+      "conceptLink": "/ec2/concept/5987403"
+    }
+  },
+  {
+    "uri": "en/5/61183700",
+    "id": "61183700",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of kidney diseases",
+    "harm": {
+      "id": "0070356",
+      "title": "61183700 - Pharmaceutical preparations for the treatment of kidney diseases",
+      "conceptLink": "/ec2/concept/6006549"
+    }
+  },
+  {
+    "uri": "en/5/77300643",
+    "id": "77300643",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in ophthalmology",
+    "harm": {
+      "id": "0070345",
+      "title": "77300643 - Pharmaceutical preparations for use in ophthalmology",
+      "conceptLink": "/ec2/concept/6006538"
+    }
+  },
+  {
+    "uri": "en/5/106139059",
+    "id": "106139059",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of autoimmune disorders",
+    "harm": {
+      "id": "0070355",
+      "title": "106139059 - Pharmaceutical preparations for the treatment of autoimmune disorders",
+      "conceptLink": "/ec2/concept/6006548"
+    }
+  },
+  {
+    "uri": "en/5/46901805",
+    "id": "46901805",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in discouraging the smoking habit",
+    "harm": {
+      "id": "0069981",
+      "title": "46901805 - Pharmaceutical preparations for use in discouraging the smoking habit",
+      "conceptLink": "/ec2/concept/6006183"
+    }
+  },
+  {
+    "uri": "en/5/12708635",
+    "id": "12708635",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diabetes",
+    "harm": {
+      "id": "0070358",
+      "title": "12708635 - Pharmaceutical preparations for the prevention of diabetes",
+      "conceptLink": "/ec2/concept/6006551"
+    }
+  },
+  {
+    "uri": "en/5/231734203",
+    "id": "231734203",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the metabolic system",
+    "harm": {
+      "id": "0070324",
+      "title": "231734203 - Pharmaceutical preparations for the prevention of diseases of the metabolic system",
+      "conceptLink": "/ec2/concept/6006517"
+    }
+  },
+  {
+    "uri": "en/5/231734202",
+    "id": "231734202",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the immune system",
+    "harm": {
+      "id": "0070323",
+      "title": "231734202 - Pharmaceutical preparations for the prevention of disorders of the immune system",
+      "conceptLink": "/ec2/concept/6006516"
+    }
+  },
+  {
+    "uri": "en/5/231734227",
+    "id": "231734227",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of ocular diseases",
+    "harm": {
+      "id": "0070346",
+      "title": "231734227 - Pharmaceutical preparations for the prevention of ocular diseases",
+      "conceptLink": "/ec2/concept/6006539"
+    }
+  },
+  {
+    "uri": "en/5/231734225",
+    "id": "231734225",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in organ transplantation",
+    "harm": {
+      "id": "0070344",
+      "title": "231734225 - Pharmaceutical preparations for use in organ transplantation",
+      "conceptLink": "/ec2/concept/6006537"
+    }
+  },
+  {
+    "uri": "en/5/231734224",
+    "id": "231734224",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in tissue transplantation",
+    "harm": {
+      "id": "0070343",
+      "title": "231734224 - Pharmaceutical preparations for use in tissue transplantation",
+      "conceptLink": "/ec2/concept/6006536"
+    }
+  },
+  {
+    "uri": "en/5/231734228",
+    "id": "231734228",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of ocular disorders",
+    "harm": {
+      "id": "0070347",
+      "title": "231734228 - Pharmaceutical preparations for the prevention of ocular disorders",
+      "conceptLink": "/ec2/concept/6006540"
+    }
+  },
+  {
+    "uri": "en/5/231734235",
+    "id": "231734235",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders caused by bacteria",
+    "harm": {
+      "id": "0070349",
+      "title": "231734235 - Pharmaceutical preparations for the prevention of disorders caused by bacteria",
+      "conceptLink": "/ec2/concept/6006542"
+    }
+  },
+  {
+    "uri": "en/5/231734234",
+    "id": "231734234",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases caused by bacteria",
+    "harm": {
+      "id": "0070348",
+      "title": "231734234 - Pharmaceutical preparations for the prevention of diseases caused by bacteria",
+      "conceptLink": "/ec2/concept/6006541"
+    }
+  },
+  {
+    "uri": "en/5/231734239",
+    "id": "231734239",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of autoimmune diseases",
+    "harm": {
+      "id": "0070353",
+      "title": "231734239 - Pharmaceutical preparations for the prevention of autoimmune diseases",
+      "conceptLink": "/ec2/concept/6006546"
+    }
+  },
+  {
+    "uri": "en/5/231734238",
+    "id": "231734238",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of allergies",
+    "harm": {
+      "id": "0070352",
+      "title": "231734238 - Pharmaceutical preparations for the prevention of allergies",
+      "conceptLink": "/ec2/concept/6006545"
+    }
+  },
+  {
+    "uri": "en/5/231734237",
+    "id": "231734237",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of disorders caused by bacteria",
+    "harm": {
+      "id": "0070351",
+      "title": "231734237 - Pharmaceutical preparations for the treatment of disorders caused by bacteria",
+      "conceptLink": "/ec2/concept/6006544"
+    }
+  },
+  {
+    "uri": "en/5/231734236",
+    "id": "231734236",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of diseases caused by bacteria",
+    "harm": {
+      "id": "0070350",
+      "title": "231734236 - Pharmaceutical preparations for the treatment of diseases caused by bacteria",
+      "conceptLink": "/ec2/concept/6006543"
+    }
+  },
+  {
+    "uri": "en/5/231734210",
+    "id": "231734210",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of disorders of the endocrine system",
+    "harm": {
+      "id": "0070331",
+      "title": "231734210 - Pharmaceutical preparations for the treatment of disorders of the endocrine system",
+      "conceptLink": "/ec2/concept/6006524"
+    }
+  },
+  {
+    "uri": "en/5/231734208",
+    "id": "231734208",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the endocrine system",
+    "harm": {
+      "id": "0070329",
+      "title": "231734208 - Pharmaceutical preparations for the prevention of disorders of the endocrine system",
+      "conceptLink": "/ec2/concept/6006522"
+    }
+  },
+  {
+    "uri": "en/5/231734209",
+    "id": "231734209",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of diseases of the endocrine system",
+    "harm": {
+      "id": "0070330",
+      "title": "231734209 - Pharmaceutical preparations for the treatment of diseases of the endocrine system",
+      "conceptLink": "/ec2/concept/6006523"
+    }
+  },
+  {
+    "uri": "en/5/231734212",
+    "id": "231734212",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the respiratory system",
+    "harm": {
+      "id": "0070332",
+      "title": "231734212 - Pharmaceutical preparations for the prevention of diseases of the respiratory system",
+      "conceptLink": "/ec2/concept/6006525"
+    }
+  },
+  {
+    "uri": "en/5/231734213",
+    "id": "231734213",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the respiratory system",
+    "harm": {
+      "id": "0070333",
+      "title": "231734213 - Pharmaceutical preparations for the prevention of disorders of the respiratory system",
+      "conceptLink": "/ec2/concept/6006526"
+    }
+  },
+  {
+    "uri": "en/5/231734240",
+    "id": "231734240",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of autoimmune disorders",
+    "harm": {
+      "id": "0070354",
+      "title": "231734240 - Pharmaceutical preparations for the prevention of autoimmune disorders",
+      "conceptLink": "/ec2/concept/6006547"
+    }
+  },
+  {
+    "uri": "en/5/231734241",
+    "id": "231734241",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of kidney disorders",
+    "harm": {
+      "id": "0070357",
+      "title": "231734241 - Pharmaceutical preparations for the treatment of kidney disorders",
+      "conceptLink": "/ec2/concept/6006550"
+    }
+  },
+  {
+    "uri": "en/5/231734242",
+    "id": "231734242",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of inflammatory diseases",
+    "harm": {
+      "id": "0070359",
+      "title": "231734242 - Pharmaceutical preparations for the prevention of inflammatory diseases",
+      "conceptLink": "/ec2/concept/6006552"
+    }
+  },
+  {
+    "uri": "en/5/231734243",
+    "id": "231734243",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of inflammatory diseases",
+    "harm": {
+      "id": "0070360",
+      "title": "231734243 - Pharmaceutical preparations for the treatment of inflammatory diseases",
+      "conceptLink": "/ec2/concept/6006553"
+    }
+  },
+  {
+    "uri": "en/5/231734192",
+    "id": "231734192",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the nervous system",
+    "harm": {
+      "id": "0070320",
+      "title": "231734192 - Pharmaceutical preparations for the prevention of diseases of the nervous system",
+      "conceptLink": "/ec2/concept/6006513"
+    }
+  },
+  {
+    "uri": "en/5/231734200",
+    "id": "231734200",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the nervous system",
+    "harm": {
+      "id": "0070321",
+      "title": "231734200 - Pharmaceutical preparations for the prevention of disorders of the nervous system",
+      "conceptLink": "/ec2/concept/6006514"
+    }
+  },
+  {
+    "uri": "en/5/120911538",
+    "id": "120911538",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating the symptoms of radiation sickness",
+    "harm": {
+      "id": "0070854",
+      "title": "120911538 - Pharmaceutical preparations for treating the symptoms of radiation sickness",
+      "conceptLink": "/ec2/concept/6007046"
+    }
+  },
+  {
+    "uri": "en/5/137874488",
+    "id": "137874488",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of epilepsy",
+    "harm": {
+      "id": "0070677",
+      "title": "137874488 - Pharmaceutical preparations for the treatment of epilepsy",
+      "conceptLink": "/ec2/concept/6006869"
+    }
+  },
+  {
+    "uri": "en/5/77866677",
+    "id": "77866677",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for inhalers",
+    "harm": {
+      "id": "0070856",
+      "title": "77866677 - Pharmaceutical preparations for inhalers",
+      "conceptLink": "/ec2/concept/6007048"
+    }
+  },
+  {
+    "uri": "en/5/137921924",
+    "id": "137921924",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating digestive system disorders",
+    "harm": {
+      "id": "0070678",
+      "title": "137921924 - Pharmaceutical preparations for treating digestive system disorders",
+      "conceptLink": "/ec2/concept/6006870"
+    }
+  },
+  {
+    "uri": "en/5/137921947",
+    "id": "137921947",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating metabolic disorders",
+    "harm": {
+      "id": "0070683",
+      "title": "137921947 - Pharmaceutical preparations for treating metabolic disorders",
+      "conceptLink": "/ec2/concept/6006875"
+    }
+  },
+  {
+    "uri": "en/5/137746179",
+    "id": "137746179",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating halitosis",
+    "harm": {
+      "id": "0070681",
+      "title": "137746179 - Pharmaceutical preparations for treating halitosis",
+      "conceptLink": "/ec2/concept/6006873"
+    }
+  },
+  {
+    "uri": "en/5/137921785",
+    "id": "137921785",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating sensory organ disorders",
+    "harm": {
+      "id": "0070684",
+      "title": "137921785 - Pharmaceutical preparations for treating sensory organ disorders",
+      "conceptLink": "/ec2/concept/6006876"
+    }
+  },
+  {
+    "uri": "en/5/137921784",
+    "id": "137921784",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating epidermal problems",
+    "harm": {
+      "id": "0070679",
+      "title": "137921784 - Pharmaceutical preparations for treating epidermal problems",
+      "conceptLink": "/ec2/concept/6006871"
+    }
+  },
+  {
+    "uri": "en/5/137911504",
+    "id": "137911504",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating gastrointestinal disorders",
+    "harm": {
+      "id": "0070680",
+      "title": "137911504 - Pharmaceutical preparations for treating gastrointestinal disorders",
+      "conceptLink": "/ec2/concept/6006872"
+    }
+  },
+  {
+    "uri": "en/5/137746377",
+    "id": "137746377",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating hypoglycemia",
+    "harm": {
+      "id": "0070682",
+      "title": "137746377 - Pharmaceutical preparations for treating hypoglycemia",
+      "conceptLink": "/ec2/concept/6006874"
+    }
+  },
+  {
+    "uri": "en/5/172050981",
+    "id": "172050981",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in hematology",
+    "harm": {
+      "id": "0070342",
+      "title": "172050981 - Pharmaceutical preparations for use in hematology",
+      "conceptLink": "/ec2/concept/6006535"
+    }
+  },
+  {
+    "uri": "en/5/231734205",
+    "id": "231734205",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of diseases of the metabolic system",
+    "harm": {
+      "id": "0070326",
+      "title": "231734205 - Pharmaceutical preparations for the treatment of diseases of the metabolic system",
+      "conceptLink": "/ec2/concept/6006519"
+    }
+  },
+  {
+    "uri": "en/5/231734204",
+    "id": "231734204",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the metabolic system",
+    "harm": {
+      "id": "0070325",
+      "title": "231734204 - Pharmaceutical preparations for the prevention of disorders of the metabolic system",
+      "conceptLink": "/ec2/concept/6006518"
+    }
+  },
+  {
+    "uri": "en/5/231734207",
+    "id": "231734207",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the endocrine system",
+    "harm": {
+      "id": "0070328",
+      "title": "231734207 - Pharmaceutical preparations for the prevention of diseases of the endocrine system",
+      "conceptLink": "/ec2/concept/6006521"
+    }
+  },
+  {
+    "uri": "en/5/231734206",
+    "id": "231734206",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of disorders of the metabolic system",
+    "harm": {
+      "id": "0070327",
+      "title": "231734206 - Pharmaceutical preparations for the treatment of disorders of the metabolic system",
+      "conceptLink": "/ec2/concept/6006520"
+    }
+  },
+  {
+    "uri": "en/5/231734201",
+    "id": "231734201",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the immune system",
+    "harm": {
+      "id": "0070322",
+      "title": "231734201 - Pharmaceutical preparations for the prevention of diseases of the immune system",
+      "conceptLink": "/ec2/concept/6006515"
+    }
+  },
+  {
+    "uri": "en/5/231734218",
+    "id": "231734218",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the genitourinary system",
+    "harm": {
+      "id": "0070336",
+      "title": "231734218 - Pharmaceutical preparations for the prevention of diseases of the genitourinary system",
+      "conceptLink": "/ec2/concept/6006529"
+    }
+  },
+  {
+    "uri": "en/5/60337724",
+    "id": "60337724",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of inflammatory disorders",
+    "harm": {
+      "id": "0070341",
+      "title": "60337724 - Pharmaceutical preparations for the treatment of inflammatory disorders",
+      "conceptLink": "/ec2/concept/6006534"
+    }
+  },
+  {
+    "uri": "en/5/231734219",
+    "id": "231734219",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the genitourinary system",
+    "harm": {
+      "id": "0070337",
+      "title": "231734219 - Pharmaceutical preparations for the prevention of disorders of the genitourinary system",
+      "conceptLink": "/ec2/concept/6006530"
+    }
+  },
+  {
+    "uri": "en/5/231734216",
+    "id": "231734216",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of diseases of the musculo-skeletal system",
+    "harm": {
+      "id": "0070334",
+      "title": "231734216 - Pharmaceutical preparations for the prevention of diseases of the musculo-skeletal system",
+      "conceptLink": "/ec2/concept/6006527"
+    }
+  },
+  {
+    "uri": "en/5/231734217",
+    "id": "231734217",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of disorders of the musculo-skeletal system",
+    "harm": {
+      "id": "0070335",
+      "title": "231734217 - Pharmaceutical preparations for the prevention of disorders of the musculo-skeletal system",
+      "conceptLink": "/ec2/concept/6006528"
+    }
+  },
+  {
+    "uri": "en/5/231734222",
+    "id": "231734222",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of inflammatory disorders",
+    "harm": {
+      "id": "0070340",
+      "title": "231734222 - Pharmaceutical preparations for the prevention of inflammatory disorders",
+      "conceptLink": "/ec2/concept/6006533"
+    }
+  },
+  {
+    "uri": "en/5/231734220",
+    "id": "231734220",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of diseases of the genitourinary system",
+    "harm": {
+      "id": "0070338",
+      "title": "231734220 - Pharmaceutical preparations for the treatment of diseases of the genitourinary system",
+      "conceptLink": "/ec2/concept/6006531"
+    }
+  },
+  {
+    "uri": "en/5/231734221",
+    "id": "231734221",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of disorders of the genitourinary system",
+    "harm": {
+      "id": "0070339",
+      "title": "231734221 - Pharmaceutical preparations for the treatment of disorders of the genitourinary system",
+      "conceptLink": "/ec2/concept/6006532"
+    }
+  },
+  {
+    "uri": "en/5/136010977",
+    "id": "136010977",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating chemical imbalances",
+    "harm": {
+      "id": "0055160",
+      "title": "136010977 - Pharmaceutical preparations for treating chemical imbalances",
+      "conceptLink": "/ec2/concept/5996597"
+    }
+  },
+  {
+    "uri": "en/5/120911577",
+    "id": "120911577",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating respiratory diseases",
+    "harm": {
+      "id": "0055570",
+      "title": "120911577 - Pharmaceutical preparations for treating respiratory diseases",
+      "conceptLink": "/ec2/concept/5996968"
+    }
+  },
+  {
+    "uri": "en/5/2104898",
+    "id": "2104898",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for wounds",
+    "harm": {
+      "id": "0055561",
+      "title": "2104898 - Pharmaceutical preparations for wounds",
+      "conceptLink": "/ec2/concept/5996959"
+    }
+  },
+  {
+    "uri": "en/5/137758836",
+    "id": "137758836",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for suppressing tumors",
+    "harm": {
+      "id": "0055597",
+      "title": "137758836 - Pharmaceutical preparations for suppressing tumors",
+      "conceptLink": "/ec2/concept/5996994"
+    }
+  },
+  {
+    "uri": "en/5/137921997",
+    "id": "137921997",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating heatstroke",
+    "harm": {
+      "id": "0055500",
+      "title": "137921997 - Pharmaceutical preparations for treating heatstroke",
+      "conceptLink": "/ec2/concept/5996899"
+    }
+  },
+  {
+    "uri": "en/5/42285559",
+    "id": "42285559",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating hypertension",
+    "harm": {
+      "id": "0055558",
+      "title": "42285559 - Pharmaceutical preparations for treating hypertension",
+      "conceptLink": "/ec2/concept/5996956"
+    }
+  },
+  {
+    "uri": "en/5/119524251",
+    "id": "119524251",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for ocular or intraocular surgery",
+    "harm": {
+      "id": "0055553",
+      "title": "119524251 - Pharmaceutical preparations for ocular or intraocular surgery",
+      "conceptLink": "/ec2/concept/5996951"
+    }
+  },
+  {
+    "uri": "en/5/119524280",
+    "id": "119524280",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the treatment of worms in pets",
+    "harm": {
+      "id": "0055555",
+      "title": "119524280 - Pharmaceutical preparations for the treatment of worms in pets",
+      "conceptLink": "/ec2/concept/5996953"
+    }
+  },
+  {
+    "uri": "en/5/119524281",
+    "id": "119524281",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating allergies",
+    "harm": {
+      "id": "0055556",
+      "title": "119524281 - Pharmaceutical preparations for treating allergies",
+      "conceptLink": "/ec2/concept/5996954"
+    }
+  },
+  {
+    "uri": "en/5/82448719",
+    "id": "82448719",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for ophthalmological use",
+    "harm": {
+      "id": "0055568",
+      "title": "82448719 - Pharmaceutical preparations for ophthalmological use",
+      "conceptLink": "/ec2/concept/5996966"
+    }
+  },
+  {
+    "uri": "en/5/2114584",
+    "id": "2114584",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations acting on the central nervous system",
+    "harm": {
+      "id": "0055551",
+      "title": "2114584 - Pharmaceutical preparations acting on the central nervous system",
+      "conceptLink": "/ec2/concept/5996949"
+    }
+  },
+  {
+    "uri": "en/5/137921939",
+    "id": "137921939",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating peripheral nervous system disorders",
+    "harm": {
+      "id": "0055554",
+      "title": "137921939 - Pharmaceutical preparations for treating peripheral nervous system disorders",
+      "conceptLink": "/ec2/concept/5996952"
+    }
+  },
+  {
+    "uri": "en/5/131090807",
+    "id": "131090807",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for peripheral nervous system",
+    "harm": {
+      "id": "0055554",
+      "title": "131090807 - Pharmaceutical preparations for peripheral nervous system",
+      "conceptLink": "/ec2/concept/5996952"
+    }
+  },
+  {
+    "uri": "en/5/5233114",
+    "id": "5233114",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for inhalation for the treatment of pulmonary hypertension",
+    "harm": {
+      "id": "0055552",
+      "title": "5233114 - Pharmaceutical preparations for inhalation for the treatment of pulmonary hypertension",
+      "conceptLink": "/ec2/concept/5996950"
+    }
+  },
+  {
+    "uri": "en/5/35557601",
+    "id": "35557601",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for use in dermatology",
+    "harm": {
+      "id": "0055560",
+      "title": "35557601 - Pharmaceutical preparations for use in dermatology",
+      "conceptLink": "/ec2/concept/5996958"
+    }
+  },
+  {
+    "uri": "en/5/35557579",
+    "id": "35557579",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating skin disorders",
+    "harm": {
+      "id": "0055559",
+      "title": "35557579 - Pharmaceutical preparations for treating skin disorders",
+      "conceptLink": "/ec2/concept/5996957"
+    }
+  },
+  {
+    "uri": "en/5/26676729",
+    "id": "26676729",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for treating diabetes",
+    "harm": {
+      "id": "0055557",
+      "title": "26676729 - Pharmaceutical preparations for treating diabetes",
+      "conceptLink": "/ec2/concept/5996955"
+    }
+  },
+  {
+    "uri": "en/5/668210",
+    "id": "668210",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations in strip form",
+    "harm": {
+      "id": "0044796",
+      "title": "668210 - Pharmaceutical preparations in strip form",
+      "conceptLink": "/ec2/concept/5992413"
+    }
+  },
+  {
+    "uri": "en/5/668176",
+    "id": "668176",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for animals",
+    "harm": {
+      "id": "0044795",
+      "title": "668176 - Pharmaceutical preparations for animals",
+      "conceptLink": "/ec2/concept/5992412"
+    }
+  },
+  {
+    "uri": "en/5/138393219",
+    "id": "138393219",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pharmaceutical preparations for the prevention of tumours",
+    "harm": {
+      "id": "0065206",
+      "title": "138393219 - Pharmaceutical preparations for the prevention of tumours",
+      "conceptLink": "/ec2/concept/6001409"
+    }
+  }
+]

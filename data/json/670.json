@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/480536",
+    "id": "480536",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer communication services",
+    "harm": {
+      "id": "0058509",
+      "title": "480536 - Computer communication services",
+      "conceptLink": "/ec2/concept/6000008"
+    }
+  },
+  {
+    "uri": "en/38/826866",
+    "id": "826866",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer communications for the transmission of information",
+    "harm": {
+      "id": "0007552",
+      "title": "826866 - Computer communications for the transmission of information",
+      "conceptLink": "/ec2/concept/5958370"
+    }
+  },
+  {
+    "uri": "en/38/120867645",
+    "id": "120867645",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer communications services for the transmission of information",
+    "harm": {
+      "id": "0068556",
+      "title": "120867645 - Computer communications services for the transmission of information",
+      "conceptLink": "/ec2/concept/6004759"
+    }
+  },
+  {
+    "uri": "en/38/826878",
+    "id": "826878",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer data transmission services",
+    "harm": {
+      "id": "0013389",
+      "title": "826878 - Computer data transmission services",
+      "conceptLink": "/ec2/concept/5963710"
+    }
+  },
+  {
+    "uri": "en/38/480539",
+    "id": "480539",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer intercommunication",
+    "harm": {
+      "id": "0058508",
+      "title": "480539 - Computer intercommunication",
+      "conceptLink": "/ec2/concept/6000007"
+    }
+  },
+  {
+    "uri": "en/38/481133",
+    "id": "481133",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer network communication services",
+    "harm": {
+      "id": "0010039",
+      "title": "481133 - Computer network communication services",
+      "conceptLink": "/ec2/concept/5960646"
+    }
+  },
+  {
+    "uri": "en/38/902156",
+    "id": "902156",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer telephony services",
+    "harm": {
+      "id": "0025270",
+      "title": "902156 - Computer telephony services",
+      "conceptLink": "/ec2/concept/5974592"
+    }
+  },
+  {
+    "uri": "en/38/42780",
+    "id": "42780",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer terminals (Communications by -)",
+    "harm": {
+      "id": "0005941",
+      "title": "42780 - Computer terminals (Communications by -)",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/124333591",
+    "id": "124333591",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer terminals (Communication by -)",
+    "harm": {
+      "id": "0005941",
+      "title": "124333591 - Computer terminals (Communication by -)",
+      "conceptLink": "/ec2/concept/5956893"
+    }
+  },
+  {
+    "uri": "en/38/369711",
+    "id": "369711",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer transmission of information accessed via a code or a terminal",
+    "harm": {
+      "id": "0027119",
+      "title": "369711 - Computer transmission of information accessed via a code or a terminal",
+      "conceptLink": "/ec2/concept/5976264"
+    }
+  },
+  {
+    "uri": "en/38/826893",
+    "id": "826893",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computer transmission services",
+    "harm": {
+      "id": "0007553",
+      "title": "826893 - Computer transmission services",
+      "conceptLink": "/ec2/concept/5958371"
+    }
+  },
+  {
+    "uri": "en/38/826904",
+    "id": "826904",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computerised communication services",
+    "harm": {
+      "id": "0058507",
+      "title": "826904 - Computerised communication services",
+      "conceptLink": "/ec2/concept/6000006"
+    }
+  },
+  {
+    "uri": "en/38/826918",
+    "id": "826918",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computerised consultation of telephone directories",
+    "harm": {
+      "id": "0001810",
+      "title": "826918 - Computerised consultation of telephone directories",
+      "conceptLink": "/ec2/concept/5953114"
+    }
+  },
+  {
+    "uri": "en/38/902157",
+    "id": "902157",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computerised telephony services",
+    "harm": {
+      "id": "0025270",
+      "title": "902157 - Computerised telephony services",
+      "conceptLink": "/ec2/concept/5974592"
+    }
+  },
+  {
+    "uri": "en/38/11433321",
+    "id": "11433321",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Computerized communication services",
+    "harm": {
+      "id": "0058507",
+      "title": "11433321 - Computerized communication services",
+      "conceptLink": "/ec2/concept/6000006"
+    }
+  },
+  {
+    "uri": "en/38/455275",
+    "id": "455275",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consultancy in the field of telecommunications",
+    "harm": {
+      "id": "0057971",
+      "title": "455275 - Consultancy in the field of telecommunications",
+      "conceptLink": "/ec2/concept/5999475"
+    }
+  },
+  {
+    "uri": "en/38/826108",
+    "id": "826108",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consultancy services relating to telecommunications",
+    "harm": {
+      "id": "0057970",
+      "title": "826108 - Consultancy services relating to telecommunications",
+      "conceptLink": "/ec2/concept/5999474"
+    }
+  },
+  {
+    "uri": "en/38/826107",
+    "id": "826107",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consultancy services relating to communications",
+    "harm": {
+      "id": "0057970",
+      "title": "826107 - Consultancy services relating to communications",
+      "conceptLink": "/ec2/concept/5999474"
+    }
+  },
+  {
+    "uri": "en/38/826933",
+    "id": "826933",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consultancy services relating to data communications",
+    "harm": {
+      "id": "0001811",
+      "title": "826933 - Consultancy services relating to data communications",
+      "conceptLink": "/ec2/concept/5953115"
+    }
+  },
+  {
+    "uri": "en/38/120867655",
+    "id": "120867655",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consulting services in the field of electronic communications",
+    "harm": {
+      "id": "0068555",
+      "title": "120867655 - Consulting services in the field of electronic communications",
+      "conceptLink": "/ec2/concept/6004758"
+    }
+  },
+  {
+    "uri": "en/38/1700656",
+    "id": "1700656",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Consulting services in the field of telecommunications",
+    "harm": {
+      "id": "0057971",
+      "title": "1700656 - Consulting services in the field of telecommunications",
+      "conceptLink": "/ec2/concept/5999475"
+    }
+  },
+  {
+    "uri": "en/38/897532",
+    "id": "897532",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data bank interconnection services",
+    "harm": {
+      "id": "0038560",
+      "title": "897532 - Data bank interconnection services",
+      "conceptLink": "/ec2/concept/5986719"
+    }
+  },
+  {
+    "uri": "en/38/826952",
+    "id": "826952",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data broadcasting services",
+    "harm": {
+      "id": "0046572",
+      "title": "826952 - Data broadcasting services",
+      "conceptLink": "/ec2/concept/5994003"
+    }
+  },
+  {
+    "uri": "en/38/826983",
+    "id": "826983",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communication by electronic means",
+    "harm": {
+      "id": "0016663",
+      "title": "826983 - Data communication by electronic means",
+      "conceptLink": "/ec2/concept/5966725"
+    }
+  },
+  {
+    "uri": "en/38/369725",
+    "id": "369725",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communication by electronic mail",
+    "harm": {
+      "id": "0027120",
+      "title": "369725 - Data communication by electronic mail",
+      "conceptLink": "/ec2/concept/5976265"
+    }
+  },
+  {
+    "uri": "en/38/826996",
+    "id": "826996",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communication services accessible by access code",
+    "harm": {
+      "id": "0010850",
+      "title": "826996 - Data communication services accessible by access code",
+      "conceptLink": "/ec2/concept/5961390"
+    }
+  },
+  {
+    "uri": "en/38/827009",
+    "id": "827009",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communication services accessible by password",
+    "harm": {
+      "id": "0039715",
+      "title": "827009 - Data communication services accessible by password",
+      "conceptLink": "/ec2/concept/5987766"
+    }
+  },
+  {
+    "uri": "en/38/826954",
+    "id": "826954",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communication services",
+    "harm": {
+      "id": "0046552",
+      "title": "826954 - Data communication services",
+      "conceptLink": "/ec2/concept/5993987"
+    }
+  },
+  {
+    "uri": "en/38/826953",
+    "id": "826953",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data communications services",
+    "harm": {
+      "id": "0046552",
+      "title": "826953 - Data communications services",
+      "conceptLink": "/ec2/concept/5993987"
+    }
+  },
+  {
+    "uri": "en/38/897545",
+    "id": "897545",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data streaming",
+    "harm": {
+      "id": "0009663",
+      "title": "897545 - Data streaming",
+      "conceptLink": "/ec2/concept/5960305"
+    }
+  },
+  {
+    "uri": "en/38/17040812",
+    "id": "17040812",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transfer services",
+    "harm": {
+      "id": "0025630",
+      "title": "17040812 - Data transfer services",
+      "conceptLink": "/ec2/concept/5974922"
+    }
+  },
+  {
+    "uri": "en/38/481644",
+    "id": "481644",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission",
+    "harm": {
+      "id": "0025630",
+      "title": "481644 - Data transmission",
+      "conceptLink": "/ec2/concept/5974922"
+    }
+  },
+  {
+    "uri": "en/38/481677",
+    "id": "481677",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission and data broadcasting",
+    "harm": {
+      "id": "0033177",
+      "title": "481677 - Data transmission and data broadcasting",
+      "conceptLink": "/ec2/concept/5981819"
+    }
+  },
+  {
+    "uri": "en/38/369740",
+    "id": "369740",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission and reception services via telecommunication means",
+    "harm": {
+      "id": "0037731",
+      "title": "369740 - Data transmission and reception services via telecommunication means",
+      "conceptLink": "/ec2/concept/5985954"
+    }
+  },
+  {
+    "uri": "en/38/827023",
+    "id": "827023",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission by electronic mail",
+    "harm": {
+      "id": "0010211",
+      "title": "827023 - Data transmission by electronic mail",
+      "conceptLink": "/ec2/concept/5960798"
+    }
+  },
+  {
+    "uri": "en/38/827048",
+    "id": "827048",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission for others",
+    "harm": {
+      "id": "0033936",
+      "title": "827048 - Data transmission for others",
+      "conceptLink": "/ec2/concept/5982513"
+    }
+  },
+  {
+    "uri": "en/38/455330",
+    "id": "455330",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission services between networked computer systems",
+    "harm": {
+      "id": "0034532",
+      "title": "455330 - Data transmission services between networked computer systems",
+      "conceptLink": "/ec2/concept/5983058"
+    }
+  },
+  {
+    "uri": "en/38/827062",
+    "id": "827062",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission services over telecommunications networks",
+    "harm": {
+      "id": "0022528",
+      "title": "827062 - Data transmission services over telecommunications networks",
+      "conceptLink": "/ec2/concept/5972074"
+    }
+  },
+  {
+    "uri": "en/38/827077",
+    "id": "827077",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission services over telematic networks",
+    "harm": {
+      "id": "0028186",
+      "title": "827077 - Data transmission services over telematic networks",
+      "conceptLink": "/ec2/concept/5977253"
+    }
+  },
+  {
+    "uri": "en/38/481646",
+    "id": "481646",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission services",
+    "harm": {
+      "id": "0025630",
+      "title": "481646 - Data transmission services",
+      "conceptLink": "/ec2/concept/5974922"
+    }
+  },
+  {
+    "uri": "en/38/137878406",
+    "id": "137878406",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Data transmission via telematic networks",
+    "harm": {
+      "id": "0028186",
+      "title": "137878406 - Data transmission via telematic networks",
+      "conceptLink": "/ec2/concept/5977253"
+    }
+  },
+  {
+    "uri": "en/38/455351",
+    "id": "455351",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of digital audio and/or video by telecommunications",
+    "harm": {
+      "id": "0046039",
+      "title": "455351 - Delivery of digital audio and/or video by telecommunications",
+      "conceptLink": "/ec2/concept/5993554"
+    }
+  },
+  {
+    "uri": "en/38/455372",
+    "id": "455372",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of digital music by telecommunications",
+    "harm": {
+      "id": "0028755",
+      "title": "455372 - Delivery of digital music by telecommunications",
+      "conceptLink": "/ec2/concept/5977789"
+    }
+  },
+  {
+    "uri": "en/38/455393",
+    "id": "455393",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of messages and data by electronic transmission",
+    "harm": {
+      "id": "0023093",
+      "title": "455393 - Delivery of messages and data by electronic transmission",
+      "conceptLink": "/ec2/concept/5972585"
+    }
+  },
+  {
+    "uri": "en/38/827089",
+    "id": "827089",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of messages by audiovisual media",
+    "harm": {
+      "id": "0010851",
+      "title": "827089 - Delivery of messages by audiovisual media",
+      "conceptLink": "/ec2/concept/5961391"
+    }
+  },
+  {
+    "uri": "en/38/481692",
+    "id": "481692",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of messages by electronic transmission",
+    "harm": {
+      "id": "0058343",
+      "title": "481692 - Delivery of messages by electronic transmission",
+      "conceptLink": "/ec2/concept/5999842"
+    }
+  },
+  {
+    "uri": "en/38/827103",
+    "id": "827103",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Delivery of messages by electronic media",
+    "harm": {
+      "id": "0045461",
+      "title": "827103 - Delivery of messages by electronic media",
+      "conceptLink": "/ec2/concept/5993024"
+    }
+  },
+  {
+    "uri": "en/38/41960",
+    "id": "41960",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Diffusion of television programmes",
+    "harm": {
+      "id": "0059114",
+      "title": "41960 - Diffusion of television programmes",
+      "conceptLink": "/ec2/concept/6000605"
+    }
+  },
+  {
+    "uri": "en/38/120868057",
+    "id": "120868057",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital audio broadcasting",
+    "harm": {
+      "id": "0068519",
+      "title": "120868057 - Digital audio broadcasting",
+      "conceptLink": "/ec2/concept/6004722"
+    }
+  },
+  {
+    "uri": "en/38/481792",
+    "id": "481792",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital communications services",
+    "harm": {
+      "id": "0006767",
+      "title": "481792 - Digital communications services",
+      "conceptLink": "/ec2/concept/5957649"
+    }
+  },
+  {
+    "uri": "en/38/902982",
+    "id": "902982",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital network telecommunications services",
+    "harm": {
+      "id": "0013577",
+      "title": "902982 - Digital network telecommunications services",
+      "conceptLink": "/ec2/concept/5963877"
+    }
+  },
+  {
+    "uri": "en/38/108110154",
+    "id": "108110154",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital transmission of data",
+    "harm": {
+      "id": "0068554",
+      "title": "108110154 - Digital transmission of data",
+      "conceptLink": "/ec2/concept/6004757"
+    }
+  },
+  {
+    "uri": "en/38/120867624",
+    "id": "120867624",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital transmission of data via the Internet",
+    "harm": {
+      "id": "0068552",
+      "title": "120867624 - Digital transmission of data via the Internet",
+      "conceptLink": "/ec2/concept/6004755"
+    }
+  },
+  {
+    "uri": "en/38/233251472",
+    "id": "233251472",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital transmission of voice",
+    "harm": {
+      "id": "0073244",
+      "title": "233251472 - Digital transmission of voice",
+      "conceptLink": "/ec2/concept/6009417"
+    }
+  },
+  {
+    "uri": "en/38/481806",
+    "id": "481806",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital transmission services",
+    "harm": {
+      "id": "0012571",
+      "title": "481806 - Digital transmission services",
+      "conceptLink": "/ec2/concept/5962967"
+    }
+  },
+  {
+    "uri": "en/38/120867630",
+    "id": "120867630",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Digital transmission services for audio and video data",
+    "harm": {
+      "id": "0068548",
+      "title": "120867630 - Digital transmission services for audio and video data",
+      "conceptLink": "/ec2/concept/6004751"
+    }
+  },
+  {
+    "uri": "en/38/827118",
+    "id": "827118",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Dissemination of television programmes relayed by cable link to television receivers",
+    "harm": {
+      "id": "0000662",
+      "title": "827118 - Dissemination of television programmes relayed by cable link to television receivers",
+      "conceptLink": "/ec2/concept/5952085"
+    }
+  },
+  {
+    "uri": "en/38/827146",
+    "id": "827146",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Dissemination of television programmes relayed by microwave link to television receivers",
+    "harm": {
+      "id": "0000663",
+      "title": "827146 - Dissemination of television programmes relayed by microwave link to television receivers",
+      "conceptLink": "/ec2/concept/5952086"
+    }
+  },
+  {
+    "uri": "en/38/827131",
+    "id": "827131",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Dissemination of television programmes relayed by extra-terrestrial satellite",
+    "harm": {
+      "id": "0041164",
+      "title": "827131 - Dissemination of television programmes relayed by extra-terrestrial satellite",
+      "conceptLink": "/ec2/concept/5989092"
+    }
+  },
+  {
+    "uri": "en/38/908273",
+    "id": "908273",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Distribution of data or audio visual images via a global computer network or the internet",
+    "harm": {
+      "id": "0021931",
+      "title": "908273 - Distribution of data or audio visual images via a global computer network or the internet",
+      "conceptLink": "/ec2/concept/5971528"
+    }
+  },
+  {
+    "uri": "en/38/455469",
+    "id": "455469",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "E-mail and mailbox services",
+    "harm": {
+      "id": "0025147",
+      "title": "455469 - E-mail and mailbox services",
+      "conceptLink": "/ec2/concept/5974483"
+    }
+  },
+  {
+    "uri": "en/38/886837",
+    "id": "886837",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "E-mail data services",
+    "harm": {
+      "id": "0034531",
+      "title": "886837 - E-mail data services",
+      "conceptLink": "/ec2/concept/5983057"
+    }
+  },
+  {
+    "uri": "en/38/903366",
+    "id": "903366",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "E-mail forwarding services",
+    "harm": {
+      "id": "0001372",
+      "title": "903366 - E-mail forwarding services",
+      "conceptLink": "/ec2/concept/5952720"
+    }
+  },
+  {
+    "uri": "en/38/42941",
+    "id": "42941",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "E-mail services",
+    "harm": {
+      "id": "0058342",
+      "title": "42941 - E-mail services",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/482014",
+    "id": "482014",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electrical data transmission over a global remote data processing network, including the internet",
+    "harm": {
+      "id": "0016844",
+      "title": "482014 - Electrical data transmission over a global remote data processing network, including the internet",
+      "conceptLink": "/ec2/concept/5966886"
+    }
+  },
+  {
+    "uri": "en/38/482029",
+    "id": "482029",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic and telecommunication transmission services",
+    "harm": {
+      "id": "0001761",
+      "title": "482029 - Electronic and telecommunication transmission services",
+      "conceptLink": "/ec2/concept/5953069"
+    }
+  },
+  {
+    "uri": "en/38/481003",
+    "id": "481003",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic bulletin board services",
+    "harm": {
+      "id": "0029738",
+      "title": "481003 - Electronic bulletin board services",
+      "conceptLink": "/ec2/concept/5978688"
+    }
+  },
+  {
+    "uri": "en/38/43789",
+    "id": "43789",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic bulletin board services [telecommunications services]",
+    "harm": {
+      "id": "0043580",
+      "title": "43789 - Electronic bulletin board services [telecommunications services]",
+      "conceptLink": "/ec2/concept/5991297"
+    }
+  },
+  {
+    "uri": "en/38/826614",
+    "id": "826614",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for the transmission of data",
+    "harm": {
+      "id": "0018050",
+      "title": "826614 - Electronic communication services for the transmission of data",
+      "conceptLink": "/ec2/concept/5967977"
+    }
+  },
+  {
+    "uri": "en/38/482045",
+    "id": "482045",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services",
+    "harm": {
+      "id": "0030649",
+      "title": "482045 - Electronic communication services",
+      "conceptLink": "/ec2/concept/5979526"
+    }
+  },
+  {
+    "uri": "en/38/827199",
+    "id": "827199",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for preparing financial information",
+    "harm": {
+      "id": "0029587",
+      "title": "827199 - Electronic communication services for preparing financial information",
+      "conceptLink": "/ec2/concept/5978547"
+    }
+  },
+  {
+    "uri": "en/38/827186",
+    "id": "827186",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for financial institutions",
+    "harm": {
+      "id": "0023853",
+      "title": "827186 - Electronic communication services for financial institutions",
+      "conceptLink": "/ec2/concept/5973288"
+    }
+  },
+  {
+    "uri": "en/38/827174",
+    "id": "827174",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for banks",
+    "harm": {
+      "id": "0000664",
+      "title": "827174 - Electronic communication services for banks",
+      "conceptLink": "/ec2/concept/5952087"
+    }
+  },
+  {
+    "uri": "en/38/827228",
+    "id": "827228",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for transmission by means of cables",
+    "harm": {
+      "id": "0000665",
+      "title": "827228 - Electronic communication services for transmission by means of cables",
+      "conceptLink": "/ec2/concept/5952088"
+    }
+  },
+  {
+    "uri": "en/38/827214",
+    "id": "827214",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication services for transmission by means of aerials",
+    "harm": {
+      "id": "0006446",
+      "title": "827214 - Electronic communication services for transmission by means of aerials",
+      "conceptLink": "/ec2/concept/5957356"
+    }
+  },
+  {
+    "uri": "en/38/114386972",
+    "id": "114386972",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication by means of chatrooms, chat lines and Internet forums",
+    "harm": {
+      "id": "0068550",
+      "title": "114386972 - Electronic communication by means of chatrooms, chat lines and Internet forums",
+      "conceptLink": "/ec2/concept/6004753"
+    }
+  },
+  {
+    "uri": "en/38/827159",
+    "id": "827159",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communication service by means of computer",
+    "harm": {
+      "id": "0041165",
+      "title": "827159 - Electronic communication service by means of computer",
+      "conceptLink": "/ec2/concept/5989093"
+    }
+  },
+  {
+    "uri": "en/38/827241",
+    "id": "827241",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communications consultancy",
+    "harm": {
+      "id": "0035378",
+      "title": "827241 - Electronic communications consultancy",
+      "conceptLink": "/ec2/concept/5983821"
+    }
+  },
+  {
+    "uri": "en/38/826615",
+    "id": "826615",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communications services for the transmission of data",
+    "harm": {
+      "id": "0018050",
+      "title": "826615 - Electronic communications services for the transmission of data",
+      "conceptLink": "/ec2/concept/5967977"
+    }
+  },
+  {
+    "uri": "en/38/482046",
+    "id": "482046",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communications services",
+    "harm": {
+      "id": "0030649",
+      "title": "482046 - Electronic communications services",
+      "conceptLink": "/ec2/concept/5979526"
+    }
+  },
+  {
+    "uri": "en/38/827255",
+    "id": "827255",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic communications services relating to credit card authorization",
+    "harm": {
+      "id": "0040324",
+      "title": "827255 - Electronic communications services relating to credit card authorization",
+      "conceptLink": "/ec2/concept/5988328"
+    }
+  },
+  {
+    "uri": "en/38/369804",
+    "id": "369804",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data communications",
+    "harm": {
+      "id": "0003062",
+      "title": "369804 - Electronic data communications",
+      "conceptLink": "/ec2/concept/5954249"
+    }
+  },
+  {
+    "uri": "en/38/369763",
+    "id": "369763",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data exchange",
+    "harm": {
+      "id": "0007506",
+      "title": "369763 - Electronic data exchange",
+      "conceptLink": "/ec2/concept/5958327"
+    }
+  },
+  {
+    "uri": "en/38/455416",
+    "id": "455416",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data exchange services",
+    "harm": {
+      "id": "0007506",
+      "title": "455416 - Electronic data exchange services",
+      "conceptLink": "/ec2/concept/5958327"
+    }
+  },
+  {
+    "uri": "en/38/455417",
+    "id": "455417",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data interchange [EDI] services",
+    "harm": {
+      "id": "0007506",
+      "title": "455417 - Electronic data interchange [EDI] services",
+      "conceptLink": "/ec2/concept/5958327"
+    }
+  },
+  {
+    "uri": "en/38/369762",
+    "id": "369762",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data interchange",
+    "harm": {
+      "id": "0007506",
+      "title": "369762 - Electronic data interchange",
+      "conceptLink": "/ec2/concept/5958327"
+    }
+  },
+  {
+    "uri": "en/38/369764",
+    "id": "369764",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data interchange services",
+    "harm": {
+      "id": "0007506",
+      "title": "369764 - Electronic data interchange services",
+      "conceptLink": "/ec2/concept/5958327"
+    }
+  },
+  {
+    "uri": "en/38/369802",
+    "id": "369802",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic data transmission",
+    "harm": {
+      "id": "0003062",
+      "title": "369802 - Electronic data transmission",
+      "conceptLink": "/ec2/concept/5954249"
+    }
+  },
+  {
+    "uri": "en/38/369839",
+    "id": "369839",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic exchange of data stored in databases accessible via telecommunication networks",
+    "harm": {
+      "id": "0020504",
+      "title": "369839 - Electronic exchange of data stored in databases accessible via telecommunication networks",
+      "conceptLink": "/ec2/concept/5970219"
+    }
+  },
+  {
+    "uri": "en/38/120868721",
+    "id": "120868721",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic exchange of messages via chat lines, chatrooms and Internet forums",
+    "harm": {
+      "id": "0068598",
+      "title": "120868721 - Electronic exchange of messages via chat lines, chatrooms and Internet forums",
+      "conceptLink": "/ec2/concept/6004801"
+    }
+  },
+  {
+    "uri": "en/38/827280",
+    "id": "827280",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic file transfer",
+    "harm": {
+      "id": "0034535",
+      "title": "827280 - Electronic file transfer",
+      "conceptLink": "/ec2/concept/5983060"
+    }
+  },
+  {
+    "uri": "en/38/42955",
+    "id": "42955",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic forwarding of messages",
+    "harm": {
+      "id": "0037732",
+      "title": "42955 - Electronic forwarding of messages",
+      "conceptLink": "/ec2/concept/5985955"
+    }
+  },
+  {
+    "uri": "en/38/455608",
+    "id": "455608",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic instructions transmission services",
+    "harm": {
+      "id": "0028761",
+      "title": "455608 - Electronic instructions transmission services",
+      "conceptLink": "/ec2/concept/5977795"
+    }
+  },
+  {
+    "uri": "en/38/42943",
+    "id": "42943",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail",
+    "harm": {
+      "id": "0058342",
+      "title": "42943 - Electronic mail",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/455447",
+    "id": "455447",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail and facsimile transmission services",
+    "harm": {
+      "id": "0025146",
+      "title": "455447 - Electronic mail and facsimile transmission services",
+      "conceptLink": "/ec2/concept/5974482"
+    }
+  },
+  {
+    "uri": "en/38/455468",
+    "id": "455468",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail and mailbox services",
+    "harm": {
+      "id": "0025147",
+      "title": "455468 - Electronic mail and mailbox services",
+      "conceptLink": "/ec2/concept/5974483"
+    }
+  },
+  {
+    "uri": "en/38/886821",
+    "id": "886821",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail and messaging services",
+    "harm": {
+      "id": "0023092",
+      "title": "886821 - Electronic mail and messaging services",
+      "conceptLink": "/ec2/concept/5972584"
+    }
+  },
+  {
+    "uri": "en/38/42939",
+    "id": "42939",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail-box services",
+    "harm": {
+      "id": "0058342",
+      "title": "42939 - Electronic mail-box services",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/125051135",
+    "id": "125051135",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail-boxes (Rental of -)",
+    "harm": {
+      "id": "0024461",
+      "title": "125051135 - Electronic mail-boxes (Rental of -)",
+      "conceptLink": "/ec2/concept/5973846"
+    }
+  },
+  {
+    "uri": "en/38/455496",
+    "id": "455496",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Electronic mail, message sending",
+    "harm": {
+      "id": "0013572",
+      "title": "455496 - Electronic mail, message sending",
+      "conceptLink": "/ec2/concept/5963872"
+    }
+  }
+]

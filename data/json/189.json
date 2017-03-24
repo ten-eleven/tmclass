@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/701023",
+    "id": "701023",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Vibration motors",
+    "harm": {
+      "id": "0009771",
+      "title": "701023 - Vibration motors",
+      "conceptLink": "/ec2/concept/5960398"
+    }
+  },
+  {
+    "uri": "en/7/130072",
+    "id": "130072",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Vibrators [machines] for industrial use",
+    "harm": {
+      "id": "0042426",
+      "title": "130072 - Vibrators [machines] for industrial use",
+      "conceptLink": "/ec2/concept/5990250"
+    }
+  },
+  {
+    "uri": "en/7/392369",
+    "id": "392369",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Vibratory grinding machines",
+    "harm": {
+      "id": "0035877",
+      "title": "392369 - Vibratory grinding machines",
+      "conceptLink": "/ec2/concept/5984270"
+    }
+  },
+  {
+    "uri": "en/7/392385",
+    "id": "392385",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Vibratory screen separators [machines]",
+    "harm": {
+      "id": "0041644",
+      "title": "392385 - Vibratory screen separators [machines]",
+      "conceptLink": "/ec2/concept/5989536"
+    }
+  },
+  {
+    "uri": "en/7/701038",
+    "id": "701038",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Volumetric rotating gear pumps",
+    "harm": {
+      "id": "0044444",
+      "title": "701038 - Volumetric rotating gear pumps",
+      "conceptLink": "/ec2/concept/5992088"
+    }
+  },
+  {
+    "uri": "en/7/125655",
+    "id": "125655",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Vulcanisation apparatus",
+    "harm": {
+      "id": "0037411",
+      "title": "125655 - Vulcanisation apparatus",
+      "conceptLink": "/ec2/concept/5985667"
+    }
+  },
+  {
+    "uri": "en/7/121263",
+    "id": "121263",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waggon lifts",
+    "harm": {
+      "id": "0003172",
+      "title": "121263 - Waggon lifts",
+      "conceptLink": "/ec2/concept/5954354"
+    }
+  },
+  {
+    "uri": "en/7/325399",
+    "id": "325399",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Warp yarn machines",
+    "harm": {
+      "id": "0032058",
+      "title": "325399 - Warp yarn machines",
+      "conceptLink": "/ec2/concept/5980796"
+    }
+  },
+  {
+    "uri": "en/7/701057",
+    "id": "701057",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washer-dryers",
+    "harm": {
+      "id": "0014402",
+      "title": "701057 - Washer-dryers",
+      "conceptLink": "/ec2/concept/5964646"
+    }
+  },
+  {
+    "uri": "en/7/119765",
+    "id": "119765",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing apparatus",
+    "harm": {
+      "id": "0057842",
+      "title": "119765 - Washing apparatus",
+      "conceptLink": "/ec2/concept/5999346"
+    }
+  },
+  {
+    "uri": "en/7/701090",
+    "id": "701090",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing drums [machines]",
+    "harm": {
+      "id": "0043614",
+      "title": "701090 - Washing drums [machines]",
+      "conceptLink": "/ec2/concept/5991328"
+    }
+  },
+  {
+    "uri": "en/7/124630447",
+    "id": "124630447",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing floors (Machines for -)",
+    "harm": {
+      "id": "0023662",
+      "title": "124630447 - Washing floors (Machines for -)",
+      "conceptLink": "/ec2/concept/5973111"
+    }
+  },
+  {
+    "uri": "en/7/119873",
+    "id": "119873",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing installations for vehicles",
+    "harm": {
+      "id": "0000078",
+      "title": "119873 - Washing installations for vehicles",
+      "conceptLink": "/ec2/concept/5951556"
+    }
+  },
+  {
+    "uri": "en/7/119919",
+    "id": "119919",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines (Coin-operated -)",
+    "harm": {
+      "id": "0032069",
+      "title": "119919 - Washing machines (Coin-operated -)",
+      "conceptLink": "/ec2/concept/5980806"
+    }
+  },
+  {
+    "uri": "en/7/392410",
+    "id": "392410",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for clothes",
+    "harm": {
+      "id": "0057840",
+      "title": "392410 - Washing machines for clothes",
+      "conceptLink": "/ec2/concept/5999344"
+    }
+  },
+  {
+    "uri": "en/7/701106",
+    "id": "701106",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for crockery",
+    "harm": {
+      "id": "0008937",
+      "title": "701106 - Washing machines for crockery",
+      "conceptLink": "/ec2/concept/5959633"
+    }
+  },
+  {
+    "uri": "en/7/325039",
+    "id": "325039",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for household purposes",
+    "harm": {
+      "id": "0025018",
+      "title": "325039 - Washing machines for household purposes",
+      "conceptLink": "/ec2/concept/5974366"
+    }
+  },
+  {
+    "uri": "en/7/701119",
+    "id": "701119",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for kitchen bowls",
+    "harm": {
+      "id": "0003183",
+      "title": "701119 - Washing machines for kitchen bowls",
+      "conceptLink": "/ec2/concept/5954364"
+    }
+  },
+  {
+    "uri": "en/7/119771",
+    "id": "119771",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for laundry",
+    "harm": {
+      "id": "0057840",
+      "title": "119771 - Washing machines for laundry",
+      "conceptLink": "/ec2/concept/5999344"
+    }
+  },
+  {
+    "uri": "en/7/701132",
+    "id": "701132",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for pans",
+    "harm": {
+      "id": "0026274",
+      "title": "701132 - Washing machines for pans",
+      "conceptLink": "/ec2/concept/5975515"
+    }
+  },
+  {
+    "uri": "en/7/701145",
+    "id": "701145",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for pots",
+    "harm": {
+      "id": "0043615",
+      "title": "701145 - Washing machines for pots",
+      "conceptLink": "/ec2/concept/5991329"
+    }
+  },
+  {
+    "uri": "en/7/701157",
+    "id": "701157",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines for utensils",
+    "harm": {
+      "id": "0003184",
+      "title": "701157 - Washing machines for utensils",
+      "conceptLink": "/ec2/concept/5954365"
+    }
+  },
+  {
+    "uri": "en/7/701059",
+    "id": "701059",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines incorporating tumble driers",
+    "harm": {
+      "id": "0014402",
+      "title": "701059 - Washing machines incorporating tumble driers",
+      "conceptLink": "/ec2/concept/5964646"
+    }
+  },
+  {
+    "uri": "en/7/701058",
+    "id": "701058",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines incorporating drying facilities",
+    "harm": {
+      "id": "0014402",
+      "title": "701058 - Washing machines incorporating drying facilities",
+      "conceptLink": "/ec2/concept/5964646"
+    }
+  },
+  {
+    "uri": "en/7/119843",
+    "id": "119843",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Washing machines [laundry]",
+    "harm": {
+      "id": "0057840",
+      "title": "119843 - Washing machines [laundry]",
+      "conceptLink": "/ec2/concept/5999344"
+    }
+  },
+  {
+    "uri": "en/7/119690759",
+    "id": "119690759",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste and trash conveying machines",
+    "harm": {
+      "id": "0060474",
+      "title": "119690759 - Waste and trash conveying machines",
+      "conceptLink": "/ec2/concept/5998447"
+    }
+  },
+  {
+    "uri": "en/7/136149398",
+    "id": "136149398",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste and trash separator machines",
+    "harm": {
+      "id": "0050635",
+      "title": "136149398 - Waste and trash separator machines",
+      "conceptLink": "/ec2/concept/5996003"
+    }
+  },
+  {
+    "uri": "en/7/701171",
+    "id": "701171",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste baling presses [machines]",
+    "harm": {
+      "id": "0008938",
+      "title": "701171 - Waste baling presses [machines]",
+      "conceptLink": "/ec2/concept/5959634"
+    }
+  },
+  {
+    "uri": "en/7/126783",
+    "id": "126783",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste compacting machines",
+    "harm": {
+      "id": "0046817",
+      "title": "126783 - Waste compacting machines",
+      "conceptLink": "/ec2/concept/5994216"
+    }
+  },
+  {
+    "uri": "en/7/701186",
+    "id": "701186",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste compaction apparatus [machines]",
+    "harm": {
+      "id": "0003185",
+      "title": "701186 - Waste compaction apparatus [machines]",
+      "conceptLink": "/ec2/concept/5954366"
+    }
+  },
+  {
+    "uri": "en/7/701200",
+    "id": "701200",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste converters [machines]",
+    "harm": {
+      "id": "0043616",
+      "title": "701200 - Waste converters [machines]",
+      "conceptLink": "/ec2/concept/5991330"
+    }
+  },
+  {
+    "uri": "en/7/325067",
+    "id": "325067",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste crushing machines",
+    "harm": {
+      "id": "0058290",
+      "title": "325067 - Waste crushing machines",
+      "conceptLink": "/ec2/concept/5999789"
+    }
+  },
+  {
+    "uri": "en/7/392446",
+    "id": "392446",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste disposal machines",
+    "harm": {
+      "id": "0058289",
+      "title": "392446 - Waste disposal machines",
+      "conceptLink": "/ec2/concept/5999788"
+    }
+  },
+  {
+    "uri": "en/7/701216",
+    "id": "701216",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste disposal machines for household use",
+    "harm": {
+      "id": "0015067",
+      "title": "701216 - Waste disposal machines for household use",
+      "conceptLink": "/ec2/concept/5965250"
+    }
+  },
+  {
+    "uri": "en/7/126588",
+    "id": "126588",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste disposal units",
+    "harm": {
+      "id": "0058289",
+      "title": "126588 - Waste disposal units",
+      "conceptLink": "/ec2/concept/5999788"
+    }
+  },
+  {
+    "uri": "en/7/126585",
+    "id": "126585",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste disposals",
+    "harm": {
+      "id": "0058289",
+      "title": "126585 - Waste disposals",
+      "conceptLink": "/ec2/concept/5999788"
+    }
+  },
+  {
+    "uri": "en/7/126586",
+    "id": "126586",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste disposers [machines]",
+    "harm": {
+      "id": "0058289",
+      "title": "126586 - Waste disposers [machines]",
+      "conceptLink": "/ec2/concept/5999788"
+    }
+  },
+  {
+    "uri": "en/7/701243",
+    "id": "701243",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste extraction machines",
+    "harm": {
+      "id": "0026566",
+      "title": "701243 - Waste extraction machines",
+      "conceptLink": "/ec2/concept/5975777"
+    }
+  },
+  {
+    "uri": "en/7/701255",
+    "id": "701255",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste gas conduits [parts of machines]",
+    "harm": {
+      "id": "0032320",
+      "title": "701255 - Waste gas conduits [parts of machines]",
+      "conceptLink": "/ec2/concept/5981032"
+    }
+  },
+  {
+    "uri": "en/7/701269",
+    "id": "701269",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste gas return valves [parts of machines]",
+    "harm": {
+      "id": "0032321",
+      "title": "701269 - Waste gas return valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5981033"
+    }
+  },
+  {
+    "uri": "en/7/389096",
+    "id": "389096",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste grinders and waste presses [electric waste disposal units]",
+    "harm": {
+      "id": "0025448",
+      "title": "389096 - Waste grinders and waste presses [electric waste disposal units]",
+      "conceptLink": "/ec2/concept/5974759"
+    }
+  },
+  {
+    "uri": "en/7/120918860",
+    "id": "120918860",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste management and recycling machines",
+    "harm": {
+      "id": "0047709",
+      "title": "120918860 - Waste management and recycling machines",
+      "conceptLink": "/ec2/concept/5994984"
+    }
+  },
+  {
+    "uri": "en/7/389109",
+    "id": "389109",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste masticators and compressors [electric waste disposal units]",
+    "harm": {
+      "id": "0031179",
+      "title": "389109 - Waste masticators and compressors [electric waste disposal units]",
+      "conceptLink": "/ec2/concept/5980009"
+    }
+  },
+  {
+    "uri": "en/7/325098",
+    "id": "325098",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste material conveying machines",
+    "harm": {
+      "id": "0036560",
+      "title": "325098 - Waste material conveying machines",
+      "conceptLink": "/ec2/concept/5984893"
+    }
+  },
+  {
+    "uri": "en/7/114673029",
+    "id": "114673029",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Waste sorting machines",
+    "harm": {
+      "id": "0070878",
+      "title": "114673029 - Waste sorting machines",
+      "conceptLink": "/ec2/concept/6007070"
+    }
+  },
+  {
+    "uri": "en/7/701298",
+    "id": "701298",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water extracting machines",
+    "harm": {
+      "id": "0020905",
+      "title": "701298 - Water extracting machines",
+      "conceptLink": "/ec2/concept/5970593"
+    }
+  },
+  {
+    "uri": "en/7/117480",
+    "id": "117480",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water heaters [parts of machines]",
+    "harm": {
+      "id": "0003749",
+      "title": "117480 - Water heaters [parts of machines]",
+      "conceptLink": "/ec2/concept/5954882"
+    }
+  },
+  {
+    "uri": "en/7/392467",
+    "id": "392467",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps",
+    "harm": {
+      "id": "0030082",
+      "title": "392467 - Water pumps",
+      "conceptLink": "/ec2/concept/5979000"
+    }
+  },
+  {
+    "uri": "en/7/701310",
+    "id": "701310",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for aerating aquaria",
+    "harm": {
+      "id": "0015069",
+      "title": "701310 - Water pumps for aerating aquaria",
+      "conceptLink": "/ec2/concept/5965251"
+    }
+  },
+  {
+    "uri": "en/7/701322",
+    "id": "701322",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for aerating ponds",
+    "harm": {
+      "id": "0003474",
+      "title": "701322 - Water pumps for aerating ponds",
+      "conceptLink": "/ec2/concept/5954629"
+    }
+  },
+  {
+    "uri": "en/7/120866669",
+    "id": "120866669",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for baths",
+    "harm": {
+      "id": "0065604",
+      "title": "120866669 - Water pumps for baths",
+      "conceptLink": "/ec2/concept/6001807"
+    }
+  },
+  {
+    "uri": "en/7/392486",
+    "id": "392486",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for land vehicles",
+    "harm": {
+      "id": "0012763",
+      "title": "392486 - Water pumps for land vehicles",
+      "conceptLink": "/ec2/concept/5963143"
+    }
+  },
+  {
+    "uri": "en/7/701338",
+    "id": "701338",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for showers",
+    "harm": {
+      "id": "0038153",
+      "title": "701338 - Water pumps for showers",
+      "conceptLink": "/ec2/concept/5986339"
+    }
+  },
+  {
+    "uri": "en/7/120866686",
+    "id": "120866686",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for spa baths",
+    "harm": {
+      "id": "0065601",
+      "title": "120866686 - Water pumps for spa baths",
+      "conceptLink": "/ec2/concept/6001804"
+    }
+  },
+  {
+    "uri": "en/7/120866666",
+    "id": "120866666",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for swimming pools",
+    "harm": {
+      "id": "0065603",
+      "title": "120866666 - Water pumps for swimming pools",
+      "conceptLink": "/ec2/concept/6001806"
+    }
+  },
+  {
+    "uri": "en/7/233157556",
+    "id": "233157556",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for use in aquariums",
+    "harm": {
+      "id": "0072883",
+      "title": "233157556 - Water pumps for use in aquariums",
+      "conceptLink": "/ec2/concept/6009058"
+    }
+  },
+  {
+    "uri": "en/7/233157560",
+    "id": "233157560",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for use in garden ponds",
+    "harm": {
+      "id": "0072885",
+      "title": "233157560 - Water pumps for use in garden ponds",
+      "conceptLink": "/ec2/concept/6009060"
+    }
+  },
+  {
+    "uri": "en/7/392500",
+    "id": "392500",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for use in motors and engines",
+    "harm": {
+      "id": "0018560",
+      "title": "392500 - Water pumps for use in motors and engines",
+      "conceptLink": "/ec2/concept/5968449"
+    }
+  },
+  {
+    "uri": "en/7/233157558",
+    "id": "233157558",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for use in terrariums",
+    "harm": {
+      "id": "0072884",
+      "title": "233157558 - Water pumps for use in terrariums",
+      "conceptLink": "/ec2/concept/6009059"
+    }
+  },
+  {
+    "uri": "en/7/701350",
+    "id": "701350",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for vehicles",
+    "harm": {
+      "id": "0009210",
+      "title": "701350 - Water pumps for vehicles",
+      "conceptLink": "/ec2/concept/5959889"
+    }
+  },
+  {
+    "uri": "en/7/120866663",
+    "id": "120866663",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water pumps for water filtering units",
+    "harm": {
+      "id": "0065602",
+      "title": "120866663 - Water pumps for water filtering units",
+      "conceptLink": "/ec2/concept/6001805"
+    }
+  },
+  {
+    "uri": "en/7/127573",
+    "id": "127573",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water separators",
+    "harm": {
+      "id": "0047464",
+      "title": "127573 - Water separators",
+      "conceptLink": "/ec2/concept/5994772"
+    }
+  },
+  {
+    "uri": "en/7/701364",
+    "id": "701364",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water separators [machines]",
+    "harm": {
+      "id": "0015070",
+      "title": "701364 - Water separators [machines]",
+      "conceptLink": "/ec2/concept/5965252"
+    }
+  },
+  {
+    "uri": "en/7/701380",
+    "id": "701380",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water supply machines [pumps]",
+    "harm": {
+      "id": "0046001",
+      "title": "701380 - Water supply machines [pumps]",
+      "conceptLink": "/ec2/concept/5993518"
+    }
+  },
+  {
+    "uri": "en/7/701396",
+    "id": "701396",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Water swivels [hydraulic couplings]",
+    "harm": {
+      "id": "0046002",
+      "title": "701396 - Water swivels [hydraulic couplings]",
+      "conceptLink": "/ec2/concept/5993519"
+    }
+  },
+  {
+    "uri": "en/7/130094",
+    "id": "130094",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wax-polishing (Machines and apparatus for -), electric",
+    "harm": {
+      "id": "0013536",
+      "title": "130094 - Wax-polishing (Machines and apparatus for -), electric",
+      "conceptLink": "/ec2/concept/5963842"
+    }
+  },
+  {
+    "uri": "en/7/124929056",
+    "id": "124929056",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wax-polishing machines (Electric -) for industrial purposes manufacturing",
+    "harm": {
+      "id": "0011394",
+      "title": "124929056 - Wax-polishing machines (Electric -) for industrial purposes manufacturing",
+      "conceptLink": "/ec2/concept/5961883"
+    }
+  },
+  {
+    "uri": "en/7/124566742",
+    "id": "124566742",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wax-polishing machines (Electric -) for household purposes",
+    "harm": {
+      "id": "0043593",
+      "title": "124566742 - Wax-polishing machines (Electric -) for household purposes",
+      "conceptLink": "/ec2/concept/5991307"
+    }
+  },
+  {
+    "uri": "en/7/701426",
+    "id": "701426",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wear plates for machines",
+    "harm": {
+      "id": "0040292",
+      "title": "701426 - Wear plates for machines",
+      "conceptLink": "/ec2/concept/5988299"
+    }
+  },
+  {
+    "uri": "en/7/701440",
+    "id": "701440",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wear segments for crushers",
+    "harm": {
+      "id": "0017195",
+      "title": "701440 - Wear segments for crushers",
+      "conceptLink": "/ec2/concept/5967199"
+    }
+  },
+  {
+    "uri": "en/7/113205",
+    "id": "113205",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weaving loom (Bobbins for -)",
+    "harm": {
+      "id": "0025750",
+      "title": "113205 - Weaving loom (Bobbins for -)",
+      "conceptLink": "/ec2/concept/5975032"
+    }
+  },
+  {
+    "uri": "en/7/120831",
+    "id": "120831",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weaving machines",
+    "harm": {
+      "id": "0016500",
+      "title": "120831 - Weaving machines",
+      "conceptLink": "/ec2/concept/5966574"
+    }
+  },
+  {
+    "uri": "en/7/701452",
+    "id": "701452",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web fed rotary printing machines",
+    "harm": {
+      "id": "0005673",
+      "title": "701452 - Web fed rotary printing machines",
+      "conceptLink": "/ec2/concept/5956653"
+    }
+  },
+  {
+    "uri": "en/7/701464",
+    "id": "701464",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web handling machines",
+    "harm": {
+      "id": "0046003",
+      "title": "701464 - Web handling machines",
+      "conceptLink": "/ec2/concept/5993520"
+    }
+  },
+  {
+    "uri": "en/7/701476",
+    "id": "701476",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web positioners [machines]",
+    "harm": {
+      "id": "0028720",
+      "title": "701476 - Web positioners [machines]",
+      "conceptLink": "/ec2/concept/5977754"
+    }
+  },
+  {
+    "uri": "en/7/701490",
+    "id": "701490",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web separation devices [machines]",
+    "harm": {
+      "id": "0033081",
+      "title": "701490 - Web separation devices [machines]",
+      "conceptLink": "/ec2/concept/5981731"
+    }
+  },
+  {
+    "uri": "en/7/701505",
+    "id": "701505",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web slitting machines",
+    "harm": {
+      "id": "0009974",
+      "title": "701505 - Web slitting machines",
+      "conceptLink": "/ec2/concept/5960586"
+    }
+  },
+  {
+    "uri": "en/7/701517",
+    "id": "701517",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Web stabilizers [machines]",
+    "harm": {
+      "id": "0009975",
+      "title": "701517 - Web stabilizers [machines]",
+      "conceptLink": "/ec2/concept/5960587"
+    }
+  },
+  {
+    "uri": "en/7/124168",
+    "id": "124168",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weeding machines",
+    "harm": {
+      "id": "0003603",
+      "title": "124168 - Weeding machines",
+      "conceptLink": "/ec2/concept/5954748"
+    }
+  },
+  {
+    "uri": "en/7/701532",
+    "id": "701532",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weft mixing apparatus",
+    "harm": {
+      "id": "0015807",
+      "title": "701532 - Weft mixing apparatus",
+      "conceptLink": "/ec2/concept/5965935"
+    }
+  },
+  {
+    "uri": "en/7/701544",
+    "id": "701544",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weft straighteners [machines]",
+    "harm": {
+      "id": "0015808",
+      "title": "701544 - Weft straighteners [machines]",
+      "conceptLink": "/ec2/concept/5965936"
+    }
+  },
+  {
+    "uri": "en/7/701560",
+    "id": "701560",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weft straightening machines",
+    "harm": {
+      "id": "0004253",
+      "title": "701560 - Weft straightening machines",
+      "conceptLink": "/ec2/concept/5955341"
+    }
+  },
+  {
+    "uri": "en/7/701572",
+    "id": "701572",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Weft yarn machines",
+    "harm": {
+      "id": "0038876",
+      "title": "701572 - Weft yarn machines",
+      "conceptLink": "/ec2/concept/5986998"
+    }
+  },
+  {
+    "uri": "en/7/131129943",
+    "id": "131129943",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding and soldering equipment",
+    "harm": {
+      "id": "0047713",
+      "title": "131129943 - Welding and soldering equipment",
+      "conceptLink": "/ec2/concept/5994988"
+    }
+  },
+  {
+    "uri": "en/7/124405",
+    "id": "124405",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding apparatus (Electric -)",
+    "harm": {
+      "id": "0057585",
+      "title": "124405 - Welding apparatus (Electric -)",
+      "conceptLink": "/ec2/concept/5999090"
+    }
+  },
+  {
+    "uri": "en/7/397260",
+    "id": "397260",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding apparatus (Electric arc -)",
+    "harm": {
+      "id": "0059324",
+      "title": "397260 - Welding apparatus (Electric arc -)",
+      "conceptLink": "/ec2/concept/6000806"
+    }
+  },
+  {
+    "uri": "en/7/132870127",
+    "id": "132870127",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding apparatus, electric",
+    "harm": {
+      "id": "0057585",
+      "title": "132870127 - Welding apparatus, electric",
+      "conceptLink": "/ec2/concept/5999090"
+    }
+  },
+  {
+    "uri": "en/7/129824",
+    "id": "129824",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding apparatus, gas-operated",
+    "harm": {
+      "id": "0057333",
+      "title": "129824 - Welding apparatus, gas-operated",
+      "conceptLink": "/ec2/concept/5998840"
+    }
+  },
+  {
+    "uri": "en/7/392517",
+    "id": "392517",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines",
+    "harm": {
+      "id": "0041645",
+      "title": "392517 - Welding machines",
+      "conceptLink": "/ec2/concept/5989537"
+    }
+  },
+  {
+    "uri": "en/7/124402",
+    "id": "124402",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines, electric",
+    "harm": {
+      "id": "0057583",
+      "title": "124402 - Welding machines, electric",
+      "conceptLink": "/ec2/concept/5999088"
+    }
+  },
+  {
+    "uri": "en/7/701585",
+    "id": "701585",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines for thermoplastic tubes",
+    "harm": {
+      "id": "0038877",
+      "title": "701585 - Welding machines for thermoplastic tubes",
+      "conceptLink": "/ec2/concept/5986999"
+    }
+  },
+  {
+    "uri": "en/7/701598",
+    "id": "701598",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines for use in the jewellery trade",
+    "harm": {
+      "id": "0027333",
+      "title": "701598 - Welding machines for use in the jewellery trade",
+      "conceptLink": "/ec2/concept/5976463"
+    }
+  },
+  {
+    "uri": "en/7/701611",
+    "id": "701611",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines for welding plastics material",
+    "harm": {
+      "id": "0018895",
+      "title": "701611 - Welding machines for welding plastics material",
+      "conceptLink": "/ec2/concept/5968764"
+    }
+  },
+  {
+    "uri": "en/7/125167632",
+    "id": "125167632",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines (Gas -)",
+    "harm": {
+      "id": "0057334",
+      "title": "125167632 - Welding machines (Gas -)",
+      "conceptLink": "/ec2/concept/5998841"
+    }
+  },
+  {
+    "uri": "en/7/120915263",
+    "id": "120915263",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding machines, gas-operated",
+    "harm": {
+      "id": "0057334",
+      "title": "120915263 - Welding machines, gas-operated",
+      "conceptLink": "/ec2/concept/5998841"
+    }
+  },
+  {
+    "uri": "en/7/908134",
+    "id": "908134",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding torches",
+    "harm": {
+      "id": "0043990",
+      "title": "908134 - Welding torches",
+      "conceptLink": "/ec2/concept/5991674"
+    }
+  },
+  {
+    "uri": "en/7/533717",
+    "id": "533717",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding torches [electric]",
+    "harm": {
+      "id": "0013494",
+      "title": "533717 - Welding torches [electric]",
+      "conceptLink": "/ec2/concept/5963803"
+    }
+  },
+  {
+    "uri": "en/7/129914",
+    "id": "129914",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Welding torches [gas-operated]",
+    "harm": {
+      "id": "0046784",
+      "title": "129914 - Welding torches [gas-operated]",
+      "conceptLink": "/ec2/concept/5994187"
+    }
+  },
+  {
+    "uri": "en/7/325111",
+    "id": "325111",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Well drilling machines",
+    "harm": {
+      "id": "0001863",
+      "title": "325111 - Well drilling machines",
+      "conceptLink": "/ec2/concept/5953164"
+    }
+  },
+  {
+    "uri": "en/7/701623",
+    "id": "701623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Wet and dry vacuum cleaners",
+    "harm": {
+      "id": "0027334",
+      "title": "701623 - Wet and dry vacuum cleaners",
+      "conceptLink": "/ec2/concept/5976464"
+    }
+  }
+]

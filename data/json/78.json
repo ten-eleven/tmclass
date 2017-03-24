@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/3/75259",
+    "id": "75259",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scents",
+    "harm": {
+      "id": "0057906",
+      "title": "75259 - Scents",
+      "conceptLink": "/ec2/concept/5999410"
+    }
+  },
+  {
+    "uri": "en/3/381430",
+    "id": "381430",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scouring liquids",
+    "harm": {
+      "id": "0010359",
+      "title": "381430 - Scouring liquids",
+      "conceptLink": "/ec2/concept/5960934"
+    }
+  },
+  {
+    "uri": "en/3/381444",
+    "id": "381444",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scouring powders",
+    "harm": {
+      "id": "0033481",
+      "title": "381444 - Scouring powders",
+      "conceptLink": "/ec2/concept/5982098"
+    }
+  },
+  {
+    "uri": "en/3/6461013",
+    "id": "6461013",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scouring preparations",
+    "harm": {
+      "id": "0036734",
+      "title": "6461013 - Scouring preparations",
+      "conceptLink": "/ec2/concept/5985054"
+    }
+  },
+  {
+    "uri": "en/3/74534",
+    "id": "74534",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scouring solutions",
+    "harm": {
+      "id": "0035158",
+      "title": "74534 - Scouring solutions",
+      "conceptLink": "/ec2/concept/5983615"
+    }
+  },
+  {
+    "uri": "en/3/901808",
+    "id": "901808",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scouring substances",
+    "harm": {
+      "id": "0036734",
+      "title": "901808 - Scouring substances",
+      "conceptLink": "/ec2/concept/5985054"
+    }
+  },
+  {
+    "uri": "en/3/119622350",
+    "id": "119622350",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Scrubbing powder",
+    "harm": {
+      "id": "0055375",
+      "title": "119622350 - Scrubbing powder",
+      "conceptLink": "/ec2/concept/5996786"
+    }
+  },
+  {
+    "uri": "en/3/119522834",
+    "id": "119522834",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Seaweed for cosmetology",
+    "harm": {
+      "id": "0055376",
+      "title": "119522834 - Seaweed for cosmetology",
+      "conceptLink": "/ec2/concept/5996787"
+    }
+  },
+  {
+    "uri": "en/3/129838269",
+    "id": "129838269",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Seaweed gelatine for laundry use [funori]",
+    "harm": {
+      "id": "0055377",
+      "title": "129838269 - Seaweed gelatine for laundry use [funori]",
+      "conceptLink": "/ec2/concept/5996788"
+    }
+  },
+  {
+    "uri": "en/3/119522835",
+    "id": "119522835",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Seaweed gelatine for laundry use (funori)",
+    "harm": {
+      "id": "0055377",
+      "title": "119522835 - Seaweed gelatine for laundry use (funori)",
+      "conceptLink": "/ec2/concept/5996788"
+    }
+  },
+  {
+    "uri": "en/3/119522836",
+    "id": "119522836",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self-adhesive false eyebrows",
+    "harm": {
+      "id": "0070629",
+      "title": "119522836 - Self-adhesive false eyebrows",
+      "conceptLink": "/ec2/concept/6006821"
+    }
+  },
+  {
+    "uri": "en/3/662388",
+    "id": "662388",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self tanning creams [cosmetic]",
+    "harm": {
+      "id": "0036230",
+      "title": "662388 - Self tanning creams [cosmetic]",
+      "conceptLink": "/ec2/concept/5984590"
+    }
+  },
+  {
+    "uri": "en/3/662403",
+    "id": "662403",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self tanning lotions [cosmetic]",
+    "harm": {
+      "id": "0041999",
+      "title": "662403 - Self tanning lotions [cosmetic]",
+      "conceptLink": "/ec2/concept/5989857"
+    }
+  },
+  {
+    "uri": "en/3/129838297",
+    "id": "129838297",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self-tanning preparations [cosmetic]",
+    "harm": {
+      "id": "0001066",
+      "title": "129838297 - Self-tanning preparations [cosmetic]",
+      "conceptLink": "/ec2/concept/5952444"
+    }
+  },
+  {
+    "uri": "en/3/892062",
+    "id": "892062",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self-tanning preparations [cosmetics]",
+    "harm": {
+      "id": "0001066",
+      "title": "892062 - Self-tanning preparations [cosmetics]",
+      "conceptLink": "/ec2/concept/5952444"
+    }
+  },
+  {
+    "uri": "en/3/136311746",
+    "id": "136311746",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Self tanning preparations",
+    "harm": {
+      "id": "0001066",
+      "title": "136311746 - Self tanning preparations",
+      "conceptLink": "/ec2/concept/5952444"
+    }
+  },
+  {
+    "uri": "en/3/53701747",
+    "id": "53701747",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Serums for cosmetic purposes",
+    "harm": {
+      "id": "0050893",
+      "title": "53701747 - Serums for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5996257"
+    }
+  },
+  {
+    "uri": "en/3/233107859",
+    "id": "233107859",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sets of cosmetic oral care products",
+    "harm": {
+      "id": "0072447",
+      "title": "233107859 - Sets of cosmetic oral care products",
+      "conceptLink": "/ec2/concept/6008626"
+    }
+  },
+  {
+    "uri": "en/3/76545",
+    "id": "76545",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoo",
+    "harm": {
+      "id": "0035167",
+      "title": "76545 - Shampoo",
+      "conceptLink": "/ec2/concept/5983624"
+    }
+  },
+  {
+    "uri": "en/3/137911388",
+    "id": "137911388",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoo bars",
+    "harm": {
+      "id": "0070630",
+      "title": "137911388 - Shampoo bars",
+      "conceptLink": "/ec2/concept/6006822"
+    }
+  },
+  {
+    "uri": "en/3/381460",
+    "id": "381460",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoo-conditioners",
+    "harm": {
+      "id": "0004649",
+      "title": "381460 - Shampoo-conditioners",
+      "conceptLink": "/ec2/concept/5955710"
+    }
+  },
+  {
+    "uri": "en/3/78307",
+    "id": "78307",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoo for animals",
+    "harm": {
+      "id": "0024687",
+      "title": "78307 - Shampoo for animals",
+      "conceptLink": "/ec2/concept/5974062"
+    }
+  },
+  {
+    "uri": "en/3/76546",
+    "id": "76546",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos",
+    "harm": {
+      "id": "0035167",
+      "title": "76546 - Shampoos",
+      "conceptLink": "/ec2/concept/5983624"
+    }
+  },
+  {
+    "uri": "en/3/233475350",
+    "id": "233475350",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for animals [non-medicated grooming preparations]",
+    "harm": {
+      "id": "0052010",
+      "title": "233475350 - Shampoos for animals [non-medicated grooming preparations]",
+      "conceptLink": "/ec2/concept/6010910"
+    }
+  },
+  {
+    "uri": "en/3/72098505",
+    "id": "72098505",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for babies",
+    "harm": {
+      "id": "0041912",
+      "title": "72098505 - Shampoos for babies",
+      "conceptLink": "/ec2/concept/5989776"
+    }
+  },
+  {
+    "uri": "en/3/72098527",
+    "id": "72098527",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for human hair",
+    "harm": {
+      "id": "0070824",
+      "title": "72098527 - Shampoos for human hair",
+      "conceptLink": "/ec2/concept/6007016"
+    }
+  },
+  {
+    "uri": "en/3/662418",
+    "id": "662418",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for personal use",
+    "harm": {
+      "id": "0007295",
+      "title": "662418 - Shampoos for personal use",
+      "conceptLink": "/ec2/concept/5958136"
+    }
+  },
+  {
+    "uri": "en/3/78306",
+    "id": "78306",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for pets",
+    "harm": {
+      "id": "0024687",
+      "title": "78306 - Shampoos for pets",
+      "conceptLink": "/ec2/concept/5974062"
+    }
+  },
+  {
+    "uri": "en/3/233474222",
+    "id": "233474222",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for pets [non-medicated grooming preparations]",
+    "harm": {
+      "id": "0024687",
+      "title": "233474222 - Shampoos for pets [non-medicated grooming preparations]",
+      "conceptLink": "/ec2/concept/5974062"
+    }
+  },
+  {
+    "uri": "en/3/662434",
+    "id": "662434",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shampoos for vehicles",
+    "harm": {
+      "id": "0036231",
+      "title": "662434 - Shampoos for vehicles",
+      "conceptLink": "/ec2/concept/5984591"
+    }
+  },
+  {
+    "uri": "en/3/71381",
+    "id": "71381",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Sharpening preparations",
+    "harm": {
+      "id": "0059526",
+      "title": "71381 - Sharpening preparations",
+      "conceptLink": "/ec2/concept/6000999"
+    }
+  },
+  {
+    "uri": "en/3/76364522",
+    "id": "76364522",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shave creams",
+    "harm": {
+      "id": "0015268",
+      "title": "76364522 - Shave creams",
+      "conceptLink": "/ec2/concept/5965438"
+    }
+  },
+  {
+    "uri": "en/3/381484",
+    "id": "381484",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving balm",
+    "harm": {
+      "id": "0058825",
+      "title": "381484 - Shaving balm",
+      "conceptLink": "/ec2/concept/6000316"
+    }
+  },
+  {
+    "uri": "en/3/8610590",
+    "id": "8610590",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving balms",
+    "harm": {
+      "id": "0058825",
+      "title": "8610590 - Shaving balms",
+      "conceptLink": "/ec2/concept/6000316"
+    }
+  },
+  {
+    "uri": "en/3/316820",
+    "id": "316820",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving cream",
+    "harm": {
+      "id": "0015268",
+      "title": "316820 - Shaving cream",
+      "conceptLink": "/ec2/concept/5965438"
+    }
+  },
+  {
+    "uri": "en/3/316821",
+    "id": "316821",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving creams",
+    "harm": {
+      "id": "0015268",
+      "title": "316821 - Shaving creams",
+      "conceptLink": "/ec2/concept/5965438"
+    }
+  },
+  {
+    "uri": "en/3/316884",
+    "id": "316884",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving foam",
+    "harm": {
+      "id": "0058918",
+      "title": "316884 - Shaving foam",
+      "conceptLink": "/ec2/concept/6000409"
+    }
+  },
+  {
+    "uri": "en/3/316885",
+    "id": "316885",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving foams",
+    "harm": {
+      "id": "0058918",
+      "title": "316885 - Shaving foams",
+      "conceptLink": "/ec2/concept/6000409"
+    }
+  },
+  {
+    "uri": "en/3/316937",
+    "id": "316937",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving gel",
+    "harm": {
+      "id": "0058394",
+      "title": "316937 - Shaving gel",
+      "conceptLink": "/ec2/concept/5999893"
+    }
+  },
+  {
+    "uri": "en/3/316936",
+    "id": "316936",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving gels",
+    "harm": {
+      "id": "0058394",
+      "title": "316936 - Shaving gels",
+      "conceptLink": "/ec2/concept/5999893"
+    }
+  },
+  {
+    "uri": "en/3/914186",
+    "id": "914186",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving lotion",
+    "harm": {
+      "id": "0033483",
+      "title": "914186 - Shaving lotion",
+      "conceptLink": "/ec2/concept/5982100"
+    }
+  },
+  {
+    "uri": "en/3/913982",
+    "id": "913982",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving lotions",
+    "harm": {
+      "id": "0033483",
+      "title": "913982 - Shaving lotions",
+      "conceptLink": "/ec2/concept/5982100"
+    }
+  },
+  {
+    "uri": "en/3/316886",
+    "id": "316886",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving mousse",
+    "harm": {
+      "id": "0058918",
+      "title": "316886 - Shaving mousse",
+      "conceptLink": "/ec2/concept/6000409"
+    }
+  },
+  {
+    "uri": "en/3/913418",
+    "id": "913418",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving preparations",
+    "harm": {
+      "id": "0033381",
+      "title": "913418 - Shaving preparations",
+      "conceptLink": "/ec2/concept/5982006"
+    }
+  },
+  {
+    "uri": "en/3/662450",
+    "id": "662450",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving preparations in liquid form",
+    "harm": {
+      "id": "0042000",
+      "title": "662450 - Shaving preparations in liquid form",
+      "conceptLink": "/ec2/concept/5989858"
+    }
+  },
+  {
+    "uri": "en/3/233107854",
+    "id": "233107854",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving sets, comprised of shaving cream and aftershave",
+    "harm": {
+      "id": "0072448",
+      "title": "233107854 - Shaving sets, comprised of shaving cream and aftershave",
+      "conceptLink": "/ec2/concept/6008627"
+    }
+  },
+  {
+    "uri": "en/3/71903",
+    "id": "71903",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving soap",
+    "harm": {
+      "id": "0058919",
+      "title": "71903 - Shaving soap",
+      "conceptLink": "/ec2/concept/6000410"
+    }
+  },
+  {
+    "uri": "en/3/71902",
+    "id": "71902",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving soaps",
+    "harm": {
+      "id": "0058919",
+      "title": "71902 - Shaving soaps",
+      "conceptLink": "/ec2/concept/6000410"
+    }
+  },
+  {
+    "uri": "en/3/662462",
+    "id": "662462",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving sprays",
+    "harm": {
+      "id": "0018945",
+      "title": "662462 - Shaving sprays",
+      "conceptLink": "/ec2/concept/5968809"
+    }
+  },
+  {
+    "uri": "en/3/662476",
+    "id": "662476",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving sticks [preparations]",
+    "harm": {
+      "id": "0036232",
+      "title": "662476 - Shaving sticks [preparations]",
+      "conceptLink": "/ec2/concept/5984592"
+    }
+  },
+  {
+    "uri": "en/3/662490",
+    "id": "662490",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving stones",
+    "harm": {
+      "id": "0024688",
+      "title": "662490 - Shaving stones",
+      "conceptLink": "/ec2/concept/5974063"
+    }
+  },
+  {
+    "uri": "en/3/119522855",
+    "id": "119522855",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving stones [astringents for cosmetic purposes]",
+    "harm": {
+      "id": "0071824",
+      "title": "119522855 - Shaving stones [astringents for cosmetic purposes]",
+      "conceptLink": "/ec2/concept/6008010"
+    }
+  },
+  {
+    "uri": "en/3/71414",
+    "id": "71414",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shaving stones [astringents]",
+    "harm": {
+      "id": "0071824",
+      "title": "71414 - Shaving stones [astringents]",
+      "conceptLink": "/ec2/concept/6008010"
+    }
+  },
+  {
+    "uri": "en/3/119693399",
+    "id": "119693399",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shining preparations for plant leaves",
+    "harm": {
+      "id": "0019047",
+      "title": "119693399 - Shining preparations for plant leaves",
+      "conceptLink": "/ec2/concept/5968902"
+    }
+  },
+  {
+    "uri": "en/3/120820738",
+    "id": "120820738",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shining preparations for fruit",
+    "harm": {
+      "id": "0065133",
+      "title": "120820738 - Shining preparations for fruit",
+      "conceptLink": "/ec2/concept/6001336"
+    }
+  },
+  {
+    "uri": "en/3/73362",
+    "id": "73362",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shining preparations [polish]",
+    "harm": {
+      "id": "0023650",
+      "title": "73362 - Shining preparations [polish]",
+      "conceptLink": "/ec2/concept/5973100"
+    }
+  },
+  {
+    "uri": "en/3/492850",
+    "id": "492850",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shiny (Preparations to make the leaves of plants -)",
+    "harm": {
+      "id": "0019047",
+      "title": "492850 - Shiny (Preparations to make the leaves of plants -)",
+      "conceptLink": "/ec2/concept/5968902"
+    }
+  },
+  {
+    "uri": "en/3/14613098",
+    "id": "14613098",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe and boot cream",
+    "harm": {
+      "id": "0046220",
+      "title": "14613098 - Shoe and boot cream",
+      "conceptLink": "/ec2/concept/5993704"
+    }
+  },
+  {
+    "uri": "en/3/119522860",
+    "id": "119522860",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe black [shoe polish]",
+    "harm": {
+      "id": "0060298",
+      "title": "119522860 - Shoe black [shoe polish]",
+      "conceptLink": "/ec2/concept/5998274"
+    }
+  },
+  {
+    "uri": "en/3/662504",
+    "id": "662504",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe cleaners [preparations]",
+    "harm": {
+      "id": "0036233",
+      "title": "662504 - Shoe cleaners [preparations]",
+      "conceptLink": "/ec2/concept/5984593"
+    }
+  },
+  {
+    "uri": "en/3/73000",
+    "id": "73000",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe cream",
+    "harm": {
+      "id": "0006261",
+      "title": "73000 - Shoe cream",
+      "conceptLink": "/ec2/concept/5957191"
+    }
+  },
+  {
+    "uri": "en/3/73002",
+    "id": "73002",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe polish",
+    "harm": {
+      "id": "0046220",
+      "title": "73002 - Shoe polish",
+      "conceptLink": "/ec2/concept/5993704"
+    }
+  },
+  {
+    "uri": "en/3/4073944",
+    "id": "4073944",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe polish and creams",
+    "harm": {
+      "id": "0070820",
+      "title": "4073944 - Shoe polish and creams",
+      "conceptLink": "/ec2/concept/6007012"
+    }
+  },
+  {
+    "uri": "en/3/19641037",
+    "id": "19641037",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe polish applicators containing shoe polish",
+    "harm": {
+      "id": "0065131",
+      "title": "19641037 - Shoe polish applicators containing shoe polish",
+      "conceptLink": "/ec2/concept/6001334"
+    }
+  },
+  {
+    "uri": "en/3/73001",
+    "id": "73001",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe polishes",
+    "harm": {
+      "id": "0006261",
+      "title": "73001 - Shoe polishes",
+      "conceptLink": "/ec2/concept/5957191"
+    }
+  },
+  {
+    "uri": "en/3/662519",
+    "id": "662519",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe sprays",
+    "harm": {
+      "id": "0007296",
+      "title": "662519 - Shoe sprays",
+      "conceptLink": "/ec2/concept/5958137"
+    }
+  },
+  {
+    "uri": "en/3/73548",
+    "id": "73548",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoe wax",
+    "harm": {
+      "id": "0007722",
+      "title": "73548 - Shoe wax",
+      "conceptLink": "/ec2/concept/5958523"
+    }
+  },
+  {
+    "uri": "en/3/73595",
+    "id": "73595",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shoemakers' wax",
+    "harm": {
+      "id": "0058234",
+      "title": "73595 - Shoemakers' wax",
+      "conceptLink": "/ec2/concept/5999735"
+    }
+  },
+  {
+    "uri": "en/3/80714727",
+    "id": "80714727",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower and bath foam",
+    "harm": {
+      "id": "0060365",
+      "title": "80714727 - Shower and bath foam",
+      "conceptLink": "/ec2/concept/5998341"
+    }
+  },
+  {
+    "uri": "en/3/23548651",
+    "id": "23548651",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower and bath gel",
+    "harm": {
+      "id": "0055380",
+      "title": "23548651 - Shower and bath gel",
+      "conceptLink": "/ec2/concept/5996789"
+    }
+  },
+  {
+    "uri": "en/3/316980",
+    "id": "316980",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower creams",
+    "harm": {
+      "id": "0044090",
+      "title": "316980 - Shower creams",
+      "conceptLink": "/ec2/concept/5991764"
+    }
+  },
+  {
+    "uri": "en/3/660510",
+    "id": "660510",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower foams",
+    "harm": {
+      "id": "0018946",
+      "title": "660510 - Shower foams",
+      "conceptLink": "/ec2/concept/5968810"
+    }
+  },
+  {
+    "uri": "en/3/316998",
+    "id": "316998",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower gel",
+    "harm": {
+      "id": "0019972",
+      "title": "316998 - Shower gel",
+      "conceptLink": "/ec2/concept/5969735"
+    }
+  },
+  {
+    "uri": "en/3/316999",
+    "id": "316999",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower gels",
+    "harm": {
+      "id": "0019972",
+      "title": "316999 - Shower gels",
+      "conceptLink": "/ec2/concept/5969735"
+    }
+  },
+  {
+    "uri": "en/3/8610030",
+    "id": "8610030",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower preparations",
+    "harm": {
+      "id": "0072444",
+      "title": "8610030 - Shower preparations",
+      "conceptLink": "/ec2/concept/6008624"
+    }
+  },
+  {
+    "uri": "en/3/136228463",
+    "id": "136228463",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower salts not for medical purposes",
+    "harm": {
+      "id": "0072709",
+      "title": "136228463 - Shower salts not for medical purposes",
+      "conceptLink": "/ec2/concept/6008886"
+    }
+  },
+  {
+    "uri": "en/3/662533",
+    "id": "662533",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Shower soap",
+    "harm": {
+      "id": "0013104",
+      "title": "662533 - Shower soap",
+      "conceptLink": "/ec2/concept/5963450"
+    }
+  },
+  {
+    "uri": "en/3/72899",
+    "id": "72899",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Silicon carbide [abrasive]",
+    "harm": {
+      "id": "0022406",
+      "title": "72899 - Silicon carbide [abrasive]",
+      "conceptLink": "/ec2/concept/5971962"
+    }
+  },
+  {
+    "uri": "en/3/232577782",
+    "id": "232577782",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Silicon carbide for use as an abrasive",
+    "harm": {
+      "id": "0022406",
+      "title": "232577782 - Silicon carbide for use as an abrasive",
+      "conceptLink": "/ec2/concept/5971962"
+    }
+  },
+  {
+    "uri": "en/3/124891346",
+    "id": "124891346",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin balms (Non-medicated -)",
+    "harm": {
+      "id": "0007297",
+      "title": "124891346 - Skin balms (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5958138"
+    }
+  },
+  {
+    "uri": "en/3/76750",
+    "id": "76750",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care (Cosmetic preparations for -)",
+    "harm": {
+      "id": "0012275",
+      "title": "76750 - Skin care (Cosmetic preparations for -)",
+      "conceptLink": "/ec2/concept/5962696"
+    }
+  },
+  {
+    "uri": "en/3/662578",
+    "id": "662578",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care creams [cosmetic]",
+    "harm": {
+      "id": "0027652",
+      "title": "662578 - Skin care creams [cosmetic]",
+      "conceptLink": "/ec2/concept/5976767"
+    }
+  },
+  {
+    "uri": "en/3/662597",
+    "id": "662597",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care creams, other than for medical use",
+    "harm": {
+      "id": "0004591",
+      "title": "662597 - Skin care creams, other than for medical use",
+      "conceptLink": "/ec2/concept/5955653"
+    }
+  },
+  {
+    "uri": "en/3/662614",
+    "id": "662614",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care lotions [cosmetic]",
+    "harm": {
+      "id": "0044935",
+      "title": "662614 - Skin care lotions [cosmetic]",
+      "conceptLink": "/ec2/concept/5992539"
+    }
+  },
+  {
+    "uri": "en/3/120846769",
+    "id": "120846769",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care mousse",
+    "harm": {
+      "id": "0065122",
+      "title": "120846769 - Skin care mousse",
+      "conceptLink": "/ec2/concept/6001325"
+    }
+  },
+  {
+    "uri": "en/3/662634",
+    "id": "662634",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care oils [cosmetic]",
+    "harm": {
+      "id": "0010302",
+      "title": "662634 - Skin care oils [cosmetic]",
+      "conceptLink": "/ec2/concept/5960881"
+    }
+  },
+  {
+    "uri": "en/3/662649",
+    "id": "662649",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care oils [non-medicated]",
+    "harm": {
+      "id": "0022051",
+      "title": "662649 - Skin care oils [non-medicated]",
+      "conceptLink": "/ec2/concept/5971640"
+    }
+  },
+  {
+    "uri": "en/3/1469934",
+    "id": "1469934",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care preparations",
+    "harm": {
+      "id": "0047660",
+      "title": "1469934 - Skin care preparations",
+      "conceptLink": "/ec2/concept/5994935"
+    }
+  },
+  {
+    "uri": "en/3/233157547",
+    "id": "233157547",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin care products for animals",
+    "harm": {
+      "id": "0072880",
+      "title": "233157547 - Skin care products for animals",
+      "conceptLink": "/ec2/concept/6009055"
+    }
+  },
+  {
+    "uri": "en/3/10426485",
+    "id": "10426485",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin clarifiers",
+    "harm": {
+      "id": "0021539",
+      "title": "10426485 - Skin clarifiers",
+      "conceptLink": "/ec2/concept/5971168"
+    }
+  },
+  {
+    "uri": "en/3/662670",
+    "id": "662670",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleaners [non-medicated]",
+    "harm": {
+      "id": "0004592",
+      "title": "662670 - Skin cleaners [non-medicated]",
+      "conceptLink": "/ec2/concept/5955654"
+    }
+  },
+  {
+    "uri": "en/3/233158170",
+    "id": "233158170",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleaning and freshening sprays",
+    "harm": {
+      "id": "0072907",
+      "title": "233158170 - Skin cleaning and freshening sprays",
+      "conceptLink": "/ec2/concept/6009082"
+    }
+  },
+  {
+    "uri": "en/3/317023",
+    "id": "317023",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansers",
+    "harm": {
+      "id": "0032521",
+      "title": "317023 - Skin cleansers",
+      "conceptLink": "/ec2/concept/5981217"
+    }
+  },
+  {
+    "uri": "en/3/662699",
+    "id": "662699",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansers [cosmetic]",
+    "harm": {
+      "id": "0039225",
+      "title": "662699 - Skin cleansers [cosmetic]",
+      "conceptLink": "/ec2/concept/5987320"
+    }
+  },
+  {
+    "uri": "en/3/662671",
+    "id": "662671",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansers [non-medicated]",
+    "harm": {
+      "id": "0004592",
+      "title": "662671 - Skin cleansers [non-medicated]",
+      "conceptLink": "/ec2/concept/5955654"
+    }
+  },
+  {
+    "uri": "en/3/381511",
+    "id": "381511",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansing cream",
+    "harm": {
+      "id": "0010360",
+      "title": "381511 - Skin cleansing cream",
+      "conceptLink": "/ec2/concept/5960935"
+    }
+  },
+  {
+    "uri": "en/3/662719",
+    "id": "662719",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansing cream [non-medicated]",
+    "harm": {
+      "id": "0039226",
+      "title": "662719 - Skin cleansing cream [non-medicated]",
+      "conceptLink": "/ec2/concept/5987321"
+    }
+  },
+  {
+    "uri": "en/3/117236801",
+    "id": "117236801",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansing foams",
+    "harm": {
+      "id": "0065070",
+      "title": "117236801 - Skin cleansing foams",
+      "conceptLink": "/ec2/concept/6001273"
+    }
+  },
+  {
+    "uri": "en/3/907249",
+    "id": "907249",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin cleansing lotion",
+    "harm": {
+      "id": "0000353",
+      "title": "907249 - Skin cleansing lotion",
+      "conceptLink": "/ec2/concept/5951806"
+    }
+  },
+  {
+    "uri": "en/3/317046",
+    "id": "317046",
+    "lang": "en",
+    "classNumber": "3",
+    "term": "Skin conditioners",
+    "harm": {
+      "id": "0059417",
+      "title": "317046 - Skin conditioners",
+      "conceptLink": "/ec2/concept/6000895"
+    }
+  }
+]

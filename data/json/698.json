@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/40/53683",
+    "id": "53683",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Butchery",
+    "harm": {
+      "id": "0057746",
+      "title": "53683 - Butchery",
+      "conceptLink": "/ec2/concept/5999250"
+    }
+  },
+  {
+    "uri": "en/40/901356",
+    "id": "901356",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cabinet making",
+    "harm": {
+      "id": "0041414",
+      "title": "901356 - Cabinet making",
+      "conceptLink": "/ec2/concept/5989319"
+    }
+  },
+  {
+    "uri": "en/40/839176",
+    "id": "839176",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cabinet-making (custom manufacture)",
+    "harm": {
+      "id": "0022323",
+      "title": "839176 - Cabinet-making (custom manufacture)",
+      "conceptLink": "/ec2/concept/5971887"
+    }
+  },
+  {
+    "uri": "en/40/50613",
+    "id": "50613",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cadmium plating",
+    "harm": {
+      "id": "0039521",
+      "title": "50613 - Cadmium plating",
+      "conceptLink": "/ec2/concept/5987588"
+    }
+  },
+  {
+    "uri": "en/40/119552530",
+    "id": "119552530",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Carpet deodorizing",
+    "harm": {
+      "id": "0068942",
+      "title": "119552530 - Carpet deodorizing",
+      "conceptLink": "/ec2/concept/6005145"
+    }
+  },
+  {
+    "uri": "en/40/898138",
+    "id": "898138",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Carpet dyeing",
+    "harm": {
+      "id": "0045889",
+      "title": "898138 - Carpet dyeing",
+      "conceptLink": "/ec2/concept/5993414"
+    }
+  },
+  {
+    "uri": "en/40/53931",
+    "id": "53931",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Casting",
+    "harm": {
+      "id": "0005850",
+      "title": "53931 - Casting",
+      "conceptLink": "/ec2/concept/5956810"
+    }
+  },
+  {
+    "uri": "en/40/839203",
+    "id": "839203",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Catalytic conversion of chemical compounds",
+    "harm": {
+      "id": "0022324",
+      "title": "839203 - Catalytic conversion of chemical compounds",
+      "conceptLink": "/ec2/concept/5971888"
+    }
+  },
+  {
+    "uri": "en/40/460934",
+    "id": "460934",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Ceramic glazing",
+    "harm": {
+      "id": "0015336",
+      "title": "460934 - Ceramic glazing",
+      "conceptLink": "/ec2/concept/5965499"
+    }
+  },
+  {
+    "uri": "en/40/901599",
+    "id": "901599",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Ceramic processing",
+    "harm": {
+      "id": "0021897",
+      "title": "901599 - Ceramic processing",
+      "conceptLink": "/ec2/concept/5971496"
+    }
+  },
+  {
+    "uri": "en/40/839231",
+    "id": "839231",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical decontamination of nuclear plant",
+    "harm": {
+      "id": "0000330",
+      "title": "839231 - Chemical decontamination of nuclear plant",
+      "conceptLink": "/ec2/concept/5951787"
+    }
+  },
+  {
+    "uri": "en/40/839259",
+    "id": "839259",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical recycling of waste products",
+    "harm": {
+      "id": "0006120",
+      "title": "839259 - Chemical recycling of waste products",
+      "conceptLink": "/ec2/concept/5957062"
+    }
+  },
+  {
+    "uri": "en/40/839273",
+    "id": "839273",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical treatment of boiler pipework",
+    "harm": {
+      "id": "0023524",
+      "title": "839273 - Chemical treatment of boiler pipework",
+      "conceptLink": "/ec2/concept/5972988"
+    }
+  },
+  {
+    "uri": "en/40/839285",
+    "id": "839285",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical treatment of boilers",
+    "harm": {
+      "id": "0035011",
+      "title": "839285 - Chemical treatment of boilers",
+      "conceptLink": "/ec2/concept/5983486"
+    }
+  },
+  {
+    "uri": "en/40/839300",
+    "id": "839300",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical treatment of exhaust gases from fossil fuel combustion",
+    "harm": {
+      "id": "0029233",
+      "title": "839300 - Chemical treatment of exhaust gases from fossil fuel combustion",
+      "conceptLink": "/ec2/concept/5978229"
+    }
+  },
+  {
+    "uri": "en/40/371563",
+    "id": "371563",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical treatment of textile",
+    "harm": {
+      "id": "0004543",
+      "title": "371563 - Chemical treatment of textile",
+      "conceptLink": "/ec2/concept/5955612"
+    }
+  },
+  {
+    "uri": "en/40/839314",
+    "id": "839314",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical treatment of waste products",
+    "harm": {
+      "id": "0023525",
+      "title": "839314 - Chemical treatment of waste products",
+      "conceptLink": "/ec2/concept/5972989"
+    }
+  },
+  {
+    "uri": "en/40/839328",
+    "id": "839328",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chemical vapour deposition",
+    "harm": {
+      "id": "0040811",
+      "title": "839328 - Chemical vapour deposition",
+      "conceptLink": "/ec2/concept/5988773"
+    }
+  },
+  {
+    "uri": "en/40/50800",
+    "id": "50800",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chromium plating",
+    "harm": {
+      "id": "0023142",
+      "title": "50800 - Chromium plating",
+      "conceptLink": "/ec2/concept/5972631"
+    }
+  },
+  {
+    "uri": "en/40/839342",
+    "id": "839342",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chromium plating of metal articles",
+    "harm": {
+      "id": "0017665",
+      "title": "839342 - Chromium plating of metal articles",
+      "conceptLink": "/ec2/concept/5967624"
+    }
+  },
+  {
+    "uri": "en/40/839355",
+    "id": "839355",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Chromium plating of metallic objects",
+    "harm": {
+      "id": "0006121",
+      "title": "839355 - Chromium plating of metallic objects",
+      "conceptLink": "/ec2/concept/5957063"
+    }
+  },
+  {
+    "uri": "en/40/50069",
+    "id": "50069",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cinematographic film processing",
+    "harm": {
+      "id": "0040812",
+      "title": "50069 - Cinematographic film processing",
+      "conceptLink": "/ec2/concept/5988774"
+    }
+  },
+  {
+    "uri": "en/40/50070",
+    "id": "50070",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cinematographic films (Processing of -)",
+    "harm": {
+      "id": "0040812",
+      "title": "50070 - Cinematographic films (Processing of -)",
+      "conceptLink": "/ec2/concept/5988774"
+    }
+  },
+  {
+    "uri": "en/40/51040",
+    "id": "51040",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth cutting",
+    "harm": {
+      "id": "0057313",
+      "title": "51040 - Cloth cutting",
+      "conceptLink": "/ec2/concept/5998822"
+    }
+  },
+  {
+    "uri": "en/40/52431",
+    "id": "52431",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth dyeing",
+    "harm": {
+      "id": "0059231",
+      "title": "52431 - Cloth dyeing",
+      "conceptLink": "/ec2/concept/6000720"
+    }
+  },
+  {
+    "uri": "en/40/50490",
+    "id": "50490",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth edging",
+    "harm": {
+      "id": "0057633",
+      "title": "50490 - Cloth edging",
+      "conceptLink": "/ec2/concept/5999138"
+    }
+  },
+  {
+    "uri": "en/40/125154572",
+    "id": "125154572",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth (Edging of -)",
+    "harm": {
+      "id": "0057633",
+      "title": "125154572 - Cloth (Edging of -)",
+      "conceptLink": "/ec2/concept/5999138"
+    }
+  },
+  {
+    "uri": "en/40/51703",
+    "id": "51703",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth fireproofing",
+    "harm": {
+      "id": "0001292",
+      "title": "51703 - Cloth fireproofing",
+      "conceptLink": "/ec2/concept/5952648"
+    }
+  },
+  {
+    "uri": "en/40/125155127",
+    "id": "125155127",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth (Moth-proofing of -)",
+    "harm": {
+      "id": "0059442",
+      "title": "125155127 - Cloth (Moth-proofing of -)",
+      "conceptLink": "/ec2/concept/6000918"
+    }
+  },
+  {
+    "uri": "en/40/125154636",
+    "id": "125154636",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth (Permanent press treatment of -)",
+    "harm": {
+      "id": "0003143",
+      "title": "125154636 - Cloth (Permanent press treatment of -)",
+      "conceptLink": "/ec2/concept/5954327"
+    }
+  },
+  {
+    "uri": "en/40/52939",
+    "id": "52939",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth pre-shrinking",
+    "harm": {
+      "id": "0003144",
+      "title": "52939 - Cloth pre-shrinking",
+      "conceptLink": "/ec2/concept/5954328"
+    }
+  },
+  {
+    "uri": "en/40/125155322",
+    "id": "125155322",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth (Pre-shrinking of -)",
+    "harm": {
+      "id": "0003144",
+      "title": "125155322 - Cloth (Pre-shrinking of -)",
+      "conceptLink": "/ec2/concept/5954328"
+    }
+  },
+  {
+    "uri": "en/40/50196",
+    "id": "50196",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth treating",
+    "harm": {
+      "id": "0057894",
+      "title": "50196 - Cloth treating",
+      "conceptLink": "/ec2/concept/5999398"
+    }
+  },
+  {
+    "uri": "en/40/51619",
+    "id": "51619",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cloth waterproofing",
+    "harm": {
+      "id": "0059205",
+      "title": "51619 - Cloth waterproofing",
+      "conceptLink": "/ec2/concept/6000694"
+    }
+  },
+  {
+    "uri": "en/40/53838",
+    "id": "53838",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Clothing alteration",
+    "harm": {
+      "id": "0025404",
+      "title": "53838 - Clothing alteration",
+      "conceptLink": "/ec2/concept/5974716"
+    }
+  },
+  {
+    "uri": "en/40/53836",
+    "id": "53836",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Clothing alterations",
+    "harm": {
+      "id": "0025404",
+      "title": "53836 - Clothing alterations",
+      "conceptLink": "/ec2/concept/5974716"
+    }
+  },
+  {
+    "uri": "en/40/53839",
+    "id": "53839",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Clothing alterations [custom manufacture]",
+    "harm": {
+      "id": "0025404",
+      "title": "53839 - Clothing alterations [custom manufacture]",
+      "conceptLink": "/ec2/concept/5974716"
+    }
+  },
+  {
+    "uri": "en/40/839369",
+    "id": "839369",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Clothing (hot-pressing of -) [forming of clothing]",
+    "harm": {
+      "id": "0008869",
+      "title": "839369 - Clothing (hot-pressing of -) [forming of clothing]",
+      "conceptLink": "/ec2/concept/5959567"
+    }
+  },
+  {
+    "uri": "en/40/124339077",
+    "id": "124339077",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Clothing (Shrinking of -)",
+    "harm": {
+      "id": "0058279",
+      "title": "124339077 - Clothing (Shrinking of -)",
+      "conceptLink": "/ec2/concept/5999778"
+    }
+  },
+  {
+    "uri": "en/40/839394",
+    "id": "839394",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coating by plasma nitriding",
+    "harm": {
+      "id": "0003145",
+      "title": "839394 - Coating by plasma nitriding",
+      "conceptLink": "/ec2/concept/5954329"
+    }
+  },
+  {
+    "uri": "en/40/839406",
+    "id": "839406",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coating of cylinders with chromium plate",
+    "harm": {
+      "id": "0032030",
+      "title": "839406 - Coating of cylinders with chromium plate",
+      "conceptLink": "/ec2/concept/5980768"
+    }
+  },
+  {
+    "uri": "en/40/120886960",
+    "id": "120886960",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coating of optical lenses",
+    "harm": {
+      "id": "0068800",
+      "title": "120886960 - Coating of optical lenses",
+      "conceptLink": "/ec2/concept/6005003"
+    }
+  },
+  {
+    "uri": "en/40/839420",
+    "id": "839420",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cobbler's services [custom manufacture]",
+    "harm": {
+      "id": "0020594",
+      "title": "839420 - Cobbler's services [custom manufacture]",
+      "conceptLink": "/ec2/concept/5970299"
+    }
+  },
+  {
+    "uri": "en/40/839435",
+    "id": "839435",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coffee-grinding",
+    "harm": {
+      "id": "0037786",
+      "title": "839435 - Coffee-grinding",
+      "conceptLink": "/ec2/concept/5986004"
+    }
+  },
+  {
+    "uri": "en/40/460950",
+    "id": "460950",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coffee roasting and processing",
+    "harm": {
+      "id": "0003744",
+      "title": "460950 - Coffee roasting and processing",
+      "conceptLink": "/ec2/concept/5954877"
+    }
+  },
+  {
+    "uri": "en/40/839450",
+    "id": "839450",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cold forming of metal",
+    "harm": {
+      "id": "0014749",
+      "title": "839450 - Cold forming of metal",
+      "conceptLink": "/ec2/concept/5964959"
+    }
+  },
+  {
+    "uri": "en/40/839462",
+    "id": "839462",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Collation [binding] of copied material",
+    "harm": {
+      "id": "0008895",
+      "title": "839462 - Collation [binding] of copied material",
+      "conceptLink": "/ec2/concept/5959592"
+    }
+  },
+  {
+    "uri": "en/40/839476",
+    "id": "839476",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Collation [binding] of printed material",
+    "harm": {
+      "id": "0003146",
+      "title": "839476 - Collation [binding] of printed material",
+      "conceptLink": "/ec2/concept/5954330"
+    }
+  },
+  {
+    "uri": "en/40/839491",
+    "id": "839491",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Collation [binding] of typewritten material",
+    "harm": {
+      "id": "0027396",
+      "title": "839491 - Collation [binding] of typewritten material",
+      "conceptLink": "/ec2/concept/5976523"
+    }
+  },
+  {
+    "uri": "en/40/901929",
+    "id": "901929",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Color enhancement of black and white video film",
+    "harm": {
+      "id": "0017066",
+      "title": "901929 - Color enhancement of black and white video film",
+      "conceptLink": "/ec2/concept/5967082"
+    }
+  },
+  {
+    "uri": "en/40/901916",
+    "id": "901916",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Color enhancement of black and white film",
+    "harm": {
+      "id": "0017065",
+      "title": "901916 - Color enhancement of black and white film",
+      "conceptLink": "/ec2/concept/5967081"
+    }
+  },
+  {
+    "uri": "en/40/54312",
+    "id": "54312",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Color separation services",
+    "harm": {
+      "id": "0001404",
+      "title": "54312 - Color separation services",
+      "conceptLink": "/ec2/concept/5952751"
+    }
+  },
+  {
+    "uri": "en/40/54313",
+    "id": "54313",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Colour separation services",
+    "harm": {
+      "id": "0001404",
+      "title": "54313 - Colour separation services",
+      "conceptLink": "/ec2/concept/5952751"
+    }
+  },
+  {
+    "uri": "en/40/839506",
+    "id": "839506",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Colouring glass sheets by surface treatment",
+    "harm": {
+      "id": "0033135",
+      "title": "839506 - Colouring glass sheets by surface treatment",
+      "conceptLink": "/ec2/concept/5981781"
+    }
+  },
+  {
+    "uri": "en/40/50966",
+    "id": "50966",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Conditioning of fur",
+    "harm": {
+      "id": "0046813",
+      "title": "50966 - Conditioning of fur",
+      "conceptLink": "/ec2/concept/5994212"
+    }
+  },
+  {
+    "uri": "en/40/839545",
+    "id": "839545",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the treatment of oil pollution",
+    "harm": {
+      "id": "0015858",
+      "title": "839545 - Consultancy relating to the treatment of oil pollution",
+      "conceptLink": "/ec2/concept/5965984"
+    }
+  },
+  {
+    "uri": "en/40/898151",
+    "id": "898151",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the clearance of chemical pollution",
+    "harm": {
+      "id": "0011295",
+      "title": "898151 - Consultancy relating to the clearance of chemical pollution",
+      "conceptLink": "/ec2/concept/5961794"
+    }
+  },
+  {
+    "uri": "en/40/839533",
+    "id": "839533",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the treatment of chemical pollution",
+    "harm": {
+      "id": "0038951",
+      "title": "839533 - Consultancy relating to the treatment of chemical pollution",
+      "conceptLink": "/ec2/concept/5987069"
+    }
+  },
+  {
+    "uri": "en/40/839518",
+    "id": "839518",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the clearance of oil pollution",
+    "harm": {
+      "id": "0004325",
+      "title": "839518 - Consultancy relating to the clearance of oil pollution",
+      "conceptLink": "/ec2/concept/5955407"
+    }
+  },
+  {
+    "uri": "en/40/120886954",
+    "id": "120886954",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the destruction of waste and trash",
+    "harm": {
+      "id": "0068802",
+      "title": "120886954 - Consultancy relating to the destruction of waste and trash",
+      "conceptLink": "/ec2/concept/6005005"
+    }
+  },
+  {
+    "uri": "en/40/120886957",
+    "id": "120886957",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the incineration of waste and trash",
+    "harm": {
+      "id": "0068801",
+      "title": "120886957 - Consultancy relating to the incineration of waste and trash",
+      "conceptLink": "/ec2/concept/6005004"
+    }
+  },
+  {
+    "uri": "en/40/120886951",
+    "id": "120886951",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy relating to the recycling of waste and trash",
+    "harm": {
+      "id": "0068803",
+      "title": "120886951 - Consultancy relating to the recycling of waste and trash",
+      "conceptLink": "/ec2/concept/6005006"
+    }
+  },
+  {
+    "uri": "en/40/120890231",
+    "id": "120890231",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Consultancy services relating to the generation of electrical power",
+    "harm": {
+      "id": "0068911",
+      "title": "120890231 - Consultancy services relating to the generation of electrical power",
+      "conceptLink": "/ec2/concept/6005114"
+    }
+  },
+  {
+    "uri": "en/40/460964",
+    "id": "460964",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Contact lens tinting",
+    "harm": {
+      "id": "0003745",
+      "title": "460964 - Contact lens tinting",
+      "conceptLink": "/ec2/concept/5954878"
+    }
+  },
+  {
+    "uri": "en/40/839559",
+    "id": "839559",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Contract moulding services",
+    "harm": {
+      "id": "0038952",
+      "title": "839559 - Contract moulding services",
+      "conceptLink": "/ec2/concept/5987070"
+    }
+  },
+  {
+    "uri": "en/40/839573",
+    "id": "839573",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Conversion of nuclear fuels",
+    "harm": {
+      "id": "0004326",
+      "title": "839573 - Conversion of nuclear fuels",
+      "conceptLink": "/ec2/concept/5955408"
+    }
+  },
+  {
+    "uri": "en/40/59429147",
+    "id": "59429147",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Conversion of targeted substrates into targeted chemical preparations by treatment with enzyme systems",
+    "harm": {
+      "id": "0068944",
+      "title": "59429147 - Conversion of targeted substrates into targeted chemical preparations by treatment with enzyme systems",
+      "conceptLink": "/ec2/concept/6005147"
+    }
+  },
+  {
+    "uri": "en/40/125062427",
+    "id": "125062427",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cooked foods (Processing of -)",
+    "harm": {
+      "id": "0033136",
+      "title": "125062427 - Cooked foods (Processing of -)",
+      "conceptLink": "/ec2/concept/5981782"
+    }
+  },
+  {
+    "uri": "en/40/125062428",
+    "id": "125062428",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cooked foods (Treatment of -)",
+    "harm": {
+      "id": "0033136",
+      "title": "125062428 - Cooked foods (Treatment of -)",
+      "conceptLink": "/ec2/concept/5981782"
+    }
+  },
+  {
+    "uri": "en/40/902313",
+    "id": "902313",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cooking oil and vegetable oil recycling services",
+    "harm": {
+      "id": "0000340",
+      "title": "902313 - Cooking oil and vegetable oil recycling services",
+      "conceptLink": "/ec2/concept/5951795"
+    }
+  },
+  {
+    "uri": "en/40/839614",
+    "id": "839614",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coppering",
+    "harm": {
+      "id": "0033137",
+      "title": "839614 - Coppering",
+      "conceptLink": "/ec2/concept/5981783"
+    }
+  },
+  {
+    "uri": "en/40/53894",
+    "id": "53894",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Coppersmithing",
+    "harm": {
+      "id": "0047498",
+      "title": "53894 - Coppersmithing",
+      "conceptLink": "/ec2/concept/5994800"
+    }
+  },
+  {
+    "uri": "en/40/902360",
+    "id": "902360",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cotton spinning",
+    "harm": {
+      "id": "0000342",
+      "title": "902360 - Cotton spinning",
+      "conceptLink": "/ec2/concept/5951797"
+    }
+  },
+  {
+    "uri": "en/40/52172",
+    "id": "52172",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Covering of books",
+    "harm": {
+      "id": "0012668",
+      "title": "52172 - Covering of books",
+      "conceptLink": "/ec2/concept/5963056"
+    }
+  },
+  {
+    "uri": "en/40/51771",
+    "id": "51771",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease resistant treatment of clothing",
+    "harm": {
+      "id": "0058052",
+      "title": "51771 - Crease resistant treatment of clothing",
+      "conceptLink": "/ec2/concept/5999553"
+    }
+  },
+  {
+    "uri": "en/40/51774",
+    "id": "51774",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease resistant treatment of textiles",
+    "harm": {
+      "id": "0058051",
+      "title": "51774 - Crease resistant treatment of textiles",
+      "conceptLink": "/ec2/concept/5999552"
+    }
+  },
+  {
+    "uri": "en/40/51772",
+    "id": "51772",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease-resistant treatment of cloth",
+    "harm": {
+      "id": "0058051",
+      "title": "51772 - Crease-resistant treatment of cloth",
+      "conceptLink": "/ec2/concept/5999552"
+    }
+  },
+  {
+    "uri": "en/40/132794174",
+    "id": "132794174",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease resistant treatment of cloth",
+    "harm": {
+      "id": "0058051",
+      "title": "132794174 - Crease resistant treatment of cloth",
+      "conceptLink": "/ec2/concept/5999552"
+    }
+  },
+  {
+    "uri": "en/40/119694414",
+    "id": "119694414",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease-resistant treatment of fabric",
+    "harm": {
+      "id": "0058052",
+      "title": "119694414 - Crease-resistant treatment of fabric",
+      "conceptLink": "/ec2/concept/5999553"
+    }
+  },
+  {
+    "uri": "en/40/51773",
+    "id": "51773",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease-resistant treatment for clothing",
+    "harm": {
+      "id": "0058052",
+      "title": "51773 - Crease-resistant treatment for clothing",
+      "conceptLink": "/ec2/concept/5999553"
+    }
+  },
+  {
+    "uri": "en/40/839641",
+    "id": "839641",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Crease-retaining treatment",
+    "harm": {
+      "id": "0004328",
+      "title": "839641 - Crease-retaining treatment",
+      "conceptLink": "/ec2/concept/5955410"
+    }
+  },
+  {
+    "uri": "en/40/460989",
+    "id": "460989",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cryogenic preservation",
+    "harm": {
+      "id": "0057042",
+      "title": "460989 - Cryogenic preservation",
+      "conceptLink": "/ec2/concept/5998669"
+    }
+  },
+  {
+    "uri": "en/40/911926",
+    "id": "911926",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Cryopreservation services",
+    "harm": {
+      "id": "0057042",
+      "title": "911926 - Cryopreservation services",
+      "conceptLink": "/ec2/concept/5998669"
+    }
+  },
+  {
+    "uri": "en/40/839653",
+    "id": "839653",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Curtain-making",
+    "harm": {
+      "id": "0044680",
+      "title": "839653 - Curtain-making",
+      "conceptLink": "/ec2/concept/5992306"
+    }
+  },
+  {
+    "uri": "en/40/120890032",
+    "id": "120890032",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of automobile bodies and chassis for others",
+    "harm": {
+      "id": "0068886",
+      "title": "120890032 - Custom assembling of automobile bodies and chassis for others",
+      "conceptLink": "/ec2/concept/6005089"
+    }
+  },
+  {
+    "uri": "en/40/120887617",
+    "id": "120887617",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of electronic components for communication devices",
+    "harm": {
+      "id": "0068848",
+      "title": "120887617 - Custom assembling of electronic components for communication devices",
+      "conceptLink": "/ec2/concept/6005051"
+    }
+  },
+  {
+    "uri": "en/40/120887599",
+    "id": "120887599",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of electronic components for PDAs",
+    "harm": {
+      "id": "0068845",
+      "title": "120887599 - Custom assembling of electronic components for PDAs",
+      "conceptLink": "/ec2/concept/6005048"
+    }
+  },
+  {
+    "uri": "en/40/120887611",
+    "id": "120887611",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of electronic components for mobile telephones",
+    "harm": {
+      "id": "0068846",
+      "title": "120887611 - Custom assembling of electronic components for mobile telephones",
+      "conceptLink": "/ec2/concept/6005049"
+    }
+  },
+  {
+    "uri": "en/40/120887607",
+    "id": "120887607",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of electronic components for medical devices",
+    "harm": {
+      "id": "0068847",
+      "title": "120887607 - Custom assembling of electronic components for medical devices",
+      "conceptLink": "/ec2/concept/6005050"
+    }
+  },
+  {
+    "uri": "en/40/120890053",
+    "id": "120890053",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of leather materials for others",
+    "harm": {
+      "id": "0068892",
+      "title": "120890053 - Custom assembling of leather materials for others",
+      "conceptLink": "/ec2/concept/6005095"
+    }
+  },
+  {
+    "uri": "en/40/53160",
+    "id": "53160",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom assembling of materials for others",
+    "harm": {
+      "id": "0017717",
+      "title": "53160 - Custom assembling of materials for others",
+      "conceptLink": "/ec2/concept/5967673"
+    }
+  },
+  {
+    "uri": "en/40/129949008",
+    "id": "129949008",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom blending of essential oils for aromatherapy use",
+    "harm": {
+      "id": "0056678",
+      "title": "129949008 - Custom blending of essential oils for aromatherapy use",
+      "conceptLink": "/ec2/concept/5997969"
+    }
+  },
+  {
+    "uri": "en/40/461002",
+    "id": "461002",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom cake decorating services",
+    "harm": {
+      "id": "0021189",
+      "title": "461002 - Custom cake decorating services",
+      "conceptLink": "/ec2/concept/5970852"
+    }
+  },
+  {
+    "uri": "en/40/137173634",
+    "id": "137173634",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom clothing alteration",
+    "harm": {
+      "id": "0025404",
+      "title": "137173634 - Custom clothing alteration",
+      "conceptLink": "/ec2/concept/5974716"
+    }
+  },
+  {
+    "uri": "en/40/461014",
+    "id": "461014",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom construction of machines",
+    "harm": {
+      "id": "0044153",
+      "title": "461014 - Custom construction of machines",
+      "conceptLink": "/ec2/concept/5991823"
+    }
+  },
+  {
+    "uri": "en/40/50969",
+    "id": "50969",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom fashioning of fur",
+    "harm": {
+      "id": "0005889",
+      "title": "50969 - Custom fashioning of fur",
+      "conceptLink": "/ec2/concept/5956843"
+    }
+  },
+  {
+    "uri": "en/40/461027",
+    "id": "461027",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom imprinting of clothing with decorative designs",
+    "harm": {
+      "id": "0026820",
+      "title": "461027 - Custom imprinting of clothing with decorative designs",
+      "conceptLink": "/ec2/concept/5976002"
+    }
+  },
+  {
+    "uri": "en/40/461040",
+    "id": "461040",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom manufacture and fitting of wigs",
+    "harm": {
+      "id": "0038388",
+      "title": "461040 - Custom manufacture and fitting of wigs",
+      "conceptLink": "/ec2/concept/5986561"
+    }
+  },
+  {
+    "uri": "en/40/120887885",
+    "id": "120887885",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom manufacture of biopharmaceuticals",
+    "harm": {
+      "id": "0068807",
+      "title": "120887885 - Custom manufacture of biopharmaceuticals",
+      "conceptLink": "/ec2/concept/6005010"
+    }
+  },
+  {
+    "uri": "en/40/902477",
+    "id": "902477",
+    "lang": "en",
+    "classNumber": "40",
+    "term": "Custom manufacture of boats",
+    "harm": {
+      "id": "0016412",
+      "title": "902477 - Custom manufacture of boats",
+      "conceptLink": "/ec2/concept/5966502"
+    }
+  }
+]

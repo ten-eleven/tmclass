@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/806288",
+    "id": "806288",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Information services relating to insurance",
+    "harm": {
+      "id": "0058744",
+      "title": "806288 - Information services relating to insurance",
+      "conceptLink": "/ec2/concept/6000235"
+    }
+  },
+  {
+    "uri": "en/36/449499",
+    "id": "449499",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Information services relating to finance, provided on-line from a computer database or the Internet",
+    "harm": {
+      "id": "0028778",
+      "title": "449499 - Information services relating to finance, provided on-line from a computer database or the Internet",
+      "conceptLink": "/ec2/concept/5977811"
+    }
+  },
+  {
+    "uri": "en/36/806261",
+    "id": "806261",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Information services relating to bonds",
+    "harm": {
+      "id": "0009340",
+      "title": "806261 - Information services relating to bonds",
+      "conceptLink": "/ec2/concept/5960009"
+    }
+  },
+  {
+    "uri": "en/36/806273",
+    "id": "806273",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Information services relating to financial business appraisals",
+    "harm": {
+      "id": "0032451",
+      "title": "806273 - Information services relating to financial business appraisals",
+      "conceptLink": "/ec2/concept/5981153"
+    }
+  },
+  {
+    "uri": "en/36/806328",
+    "id": "806328",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Information services relating to the automated payment of accounts",
+    "harm": {
+      "id": "0039846",
+      "title": "806328 - Information services relating to the automated payment of accounts",
+      "conceptLink": "/ec2/concept/5987887"
+    }
+  },
+  {
+    "uri": "en/36/482901",
+    "id": "482901",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insolvency services",
+    "harm": {
+      "id": "0038049",
+      "title": "482901 - Insolvency services",
+      "conceptLink": "/ec2/concept/5986243"
+    }
+  },
+  {
+    "uri": "en/36/806356",
+    "id": "806356",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insolvency services [financial]",
+    "harm": {
+      "id": "0038049",
+      "title": "806356 - Insolvency services [financial]",
+      "conceptLink": "/ec2/concept/5986243"
+    }
+  },
+  {
+    "uri": "en/36/904575",
+    "id": "904575",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Installment loans",
+    "harm": {
+      "id": "0035114",
+      "title": "904575 - Installment loans",
+      "conceptLink": "/ec2/concept/5983579"
+    }
+  },
+  {
+    "uri": "en/36/806371",
+    "id": "806371",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Instalment credit financing",
+    "harm": {
+      "id": "0034107",
+      "title": "806371 - Instalment credit financing",
+      "conceptLink": "/ec2/concept/5982673"
+    }
+  },
+  {
+    "uri": "en/36/449520",
+    "id": "449520",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Instalment loan financing",
+    "harm": {
+      "id": "0046066",
+      "title": "449520 - Instalment loan financing",
+      "conceptLink": "/ec2/concept/5993580"
+    }
+  },
+  {
+    "uri": "en/36/30580",
+    "id": "30580",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Instalment loan services",
+    "harm": {
+      "id": "0035114",
+      "title": "30580 - Instalment loan services",
+      "conceptLink": "/ec2/concept/5983579"
+    }
+  },
+  {
+    "uri": "en/36/30579",
+    "id": "30579",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Instalment loans",
+    "harm": {
+      "id": "0035114",
+      "title": "30579 - Instalment loans",
+      "conceptLink": "/ec2/concept/5983579"
+    }
+  },
+  {
+    "uri": "en/36/31585",
+    "id": "31585",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance",
+    "harm": {
+      "id": "0059322",
+      "title": "31585 - Insurance",
+      "conceptLink": "/ec2/concept/6000804"
+    }
+  },
+  {
+    "uri": "en/36/904579",
+    "id": "904579",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance actuarial services",
+    "harm": {
+      "id": "0012013",
+      "title": "904579 - Insurance actuarial services",
+      "conceptLink": "/ec2/concept/5962459"
+    }
+  },
+  {
+    "uri": "en/36/449544",
+    "id": "449544",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance administration",
+    "harm": {
+      "id": "0024071",
+      "title": "449544 - Insurance administration",
+      "conceptLink": "/ec2/concept/5973492"
+    }
+  },
+  {
+    "uri": "en/36/136147185",
+    "id": "136147185",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance administration of prescription drug benefit plans",
+    "harm": {
+      "id": "0050497",
+      "title": "136147185 - Insurance administration of prescription drug benefit plans",
+      "conceptLink": "/ec2/concept/5995866"
+    }
+  },
+  {
+    "uri": "en/36/35005",
+    "id": "35005",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance advice",
+    "harm": {
+      "id": "0058670",
+      "title": "35005 - Insurance advice",
+      "conceptLink": "/ec2/concept/6000163"
+    }
+  },
+  {
+    "uri": "en/36/35006",
+    "id": "35006",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance advisory services",
+    "harm": {
+      "id": "0058671",
+      "title": "35006 - Insurance advisory services",
+      "conceptLink": "/ec2/concept/6000164"
+    }
+  },
+  {
+    "uri": "en/36/806384",
+    "id": "806384",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance against loss of credit",
+    "harm": {
+      "id": "0005263",
+      "title": "806384 - Insurance against loss of credit",
+      "conceptLink": "/ec2/concept/5956271"
+    }
+  },
+  {
+    "uri": "en/36/806396",
+    "id": "806396",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance against loss of documents",
+    "harm": {
+      "id": "0016800",
+      "title": "806396 - Insurance against loss of documents",
+      "conceptLink": "/ec2/concept/5966846"
+    }
+  },
+  {
+    "uri": "en/36/449584",
+    "id": "449584",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance agencies",
+    "harm": {
+      "id": "0034565",
+      "title": "449584 - Insurance agencies",
+      "conceptLink": "/ec2/concept/5983088"
+    }
+  },
+  {
+    "uri": "en/36/2911022",
+    "id": "2911022",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance agency and brokerage",
+    "harm": {
+      "id": "0068032",
+      "title": "2911022 - Insurance agency and brokerage",
+      "conceptLink": "/ec2/concept/6004235"
+    }
+  },
+  {
+    "uri": "en/36/806410",
+    "id": "806410",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance agency services",
+    "harm": {
+      "id": "0034565",
+      "title": "806410 - Insurance agency services",
+      "conceptLink": "/ec2/concept/5983088"
+    }
+  },
+  {
+    "uri": "en/36/886617",
+    "id": "886617",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance and financial information and consultancy services",
+    "harm": {
+      "id": "0017433",
+      "title": "886617 - Insurance and financial information and consultancy services",
+      "conceptLink": "/ec2/concept/5967416"
+    }
+  },
+  {
+    "uri": "en/36/124684513",
+    "id": "124684513",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance (Arranging of -)",
+    "harm": {
+      "id": "0036435",
+      "title": "124684513 - Insurance (Arranging of -)",
+      "conceptLink": "/ec2/concept/5984778"
+    }
+  },
+  {
+    "uri": "en/36/31430",
+    "id": "31430",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance arranging services",
+    "harm": {
+      "id": "0036435",
+      "title": "31430 - Insurance arranging services",
+      "conceptLink": "/ec2/concept/5984778"
+    }
+  },
+  {
+    "uri": "en/36/31426",
+    "id": "31426",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokerage",
+    "harm": {
+      "id": "0041198",
+      "title": "31426 - Insurance brokerage",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/132851805",
+    "id": "132851805",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokerage consultancy and information",
+    "harm": {
+      "id": "0067867",
+      "title": "132851805 - Insurance brokerage consultancy and information",
+      "conceptLink": "/ec2/concept/6004070"
+    }
+  },
+  {
+    "uri": "en/36/806430",
+    "id": "806430",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokerage for property",
+    "harm": {
+      "id": "0019258",
+      "title": "806430 - Insurance brokerage for property",
+      "conceptLink": "/ec2/concept/5969091"
+    }
+  },
+  {
+    "uri": "en/36/806446",
+    "id": "806446",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokerage relating to pets",
+    "harm": {
+      "id": "0007590",
+      "title": "806446 - Insurance brokerage relating to pets",
+      "conceptLink": "/ec2/concept/5958405"
+    }
+  },
+  {
+    "uri": "en/36/31432",
+    "id": "31432",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokerage services",
+    "harm": {
+      "id": "0041198",
+      "title": "31432 - Insurance brokerage services",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/31424",
+    "id": "31424",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokering",
+    "harm": {
+      "id": "0041198",
+      "title": "31424 - Insurance brokering",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/125031162",
+    "id": "125031162",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance brokers (Services of -)",
+    "harm": {
+      "id": "0041198",
+      "title": "125031162 - Insurance brokers (Services of -)",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/31423",
+    "id": "31423",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance broking",
+    "harm": {
+      "id": "0041198",
+      "title": "31423 - Insurance broking",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/449647",
+    "id": "449647",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claim assessments",
+    "harm": {
+      "id": "0041498",
+      "title": "449647 - Insurance claim assessments",
+      "conceptLink": "/ec2/concept/5989399"
+    }
+  },
+  {
+    "uri": "en/36/447483",
+    "id": "447483",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claim settlements",
+    "harm": {
+      "id": "0058156",
+      "title": "447483 - Insurance claim settlements",
+      "conceptLink": "/ec2/concept/5999657"
+    }
+  },
+  {
+    "uri": "en/36/806459",
+    "id": "806459",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims adjustment services",
+    "harm": {
+      "id": "0058157",
+      "title": "806459 - Insurance claims adjustment services",
+      "conceptLink": "/ec2/concept/5999658"
+    }
+  },
+  {
+    "uri": "en/36/120881055",
+    "id": "120881055",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims adjustment and settlement services",
+    "harm": {
+      "id": "0067889",
+      "title": "120881055 - Insurance claims adjustment and settlement services",
+      "conceptLink": "/ec2/concept/6004092"
+    }
+  },
+  {
+    "uri": "en/36/49668325",
+    "id": "49668325",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims adjustment",
+    "harm": {
+      "id": "0058157",
+      "title": "49668325 - Insurance claims adjustment",
+      "conceptLink": "/ec2/concept/5999658"
+    }
+  },
+  {
+    "uri": "en/36/449613",
+    "id": "449613",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims administration",
+    "harm": {
+      "id": "0028216",
+      "title": "449613 - Insurance claims administration",
+      "conceptLink": "/ec2/concept/5977282"
+    }
+  },
+  {
+    "uri": "en/36/449646",
+    "id": "449646",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims assessment",
+    "harm": {
+      "id": "0041498",
+      "title": "449646 - Insurance claims assessment",
+      "conceptLink": "/ec2/concept/5989399"
+    }
+  },
+  {
+    "uri": "en/36/801803",
+    "id": "801803",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance claims processing",
+    "harm": {
+      "id": "0000437",
+      "title": "801803 - Insurance claims processing",
+      "conceptLink": "/ec2/concept/5951879"
+    }
+  },
+  {
+    "uri": "en/36/35004",
+    "id": "35004",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance consultancy",
+    "harm": {
+      "id": "0058670",
+      "title": "35004 - Insurance consultancy",
+      "conceptLink": "/ec2/concept/6000163"
+    }
+  },
+  {
+    "uri": "en/36/806493",
+    "id": "806493",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance consultancy services relating to fires",
+    "harm": {
+      "id": "0019260",
+      "title": "806493 - Insurance consultancy services relating to fires",
+      "conceptLink": "/ec2/concept/5969092"
+    }
+  },
+  {
+    "uri": "en/36/806480",
+    "id": "806480",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance consultancy services relating to explosions",
+    "harm": {
+      "id": "0030748",
+      "title": "806480 - Insurance consultancy services relating to explosions",
+      "conceptLink": "/ec2/concept/5979620"
+    }
+  },
+  {
+    "uri": "en/36/35002",
+    "id": "35002",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance consultation",
+    "harm": {
+      "id": "0058670",
+      "title": "35002 - Insurance consultation",
+      "conceptLink": "/ec2/concept/6000163"
+    }
+  },
+  {
+    "uri": "en/36/35007",
+    "id": "35007",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance consultation services",
+    "harm": {
+      "id": "0058670",
+      "title": "35007 - Insurance consultation services",
+      "conceptLink": "/ec2/concept/6000163"
+    }
+  },
+  {
+    "uri": "en/36/806505",
+    "id": "806505",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for businesses",
+    "harm": {
+      "id": "0042319",
+      "title": "806505 - Insurance for businesses",
+      "conceptLink": "/ec2/concept/5990148"
+    }
+  },
+  {
+    "uri": "en/36/806521",
+    "id": "806521",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for garages",
+    "harm": {
+      "id": "0028109",
+      "title": "806521 - Insurance for garages",
+      "conceptLink": "/ec2/concept/5977180"
+    }
+  },
+  {
+    "uri": "en/36/806533",
+    "id": "806533",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for hotels",
+    "harm": {
+      "id": "0010767",
+      "title": "806533 - Insurance for hotels",
+      "conceptLink": "/ec2/concept/5961314"
+    }
+  },
+  {
+    "uri": "en/36/806546",
+    "id": "806546",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for legal expenses",
+    "harm": {
+      "id": "0032180",
+      "title": "806546 - Insurance for legal expenses",
+      "conceptLink": "/ec2/concept/5980906"
+    }
+  },
+  {
+    "uri": "en/36/806562",
+    "id": "806562",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for offices",
+    "harm": {
+      "id": "0033849",
+      "title": "806562 - Insurance for offices",
+      "conceptLink": "/ec2/concept/5982435"
+    }
+  },
+  {
+    "uri": "en/36/806577",
+    "id": "806577",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for property owners",
+    "harm": {
+      "id": "0005032",
+      "title": "806577 - Insurance for property owners",
+      "conceptLink": "/ec2/concept/5956066"
+    }
+  },
+  {
+    "uri": "en/36/806592",
+    "id": "806592",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for third party liability",
+    "harm": {
+      "id": "0016561",
+      "title": "806592 - Insurance for third party liability",
+      "conceptLink": "/ec2/concept/5966628"
+    }
+  },
+  {
+    "uri": "en/36/806604",
+    "id": "806604",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance for vans",
+    "harm": {
+      "id": "0010768",
+      "title": "806604 - Insurance for vans",
+      "conceptLink": "/ec2/concept/5961315"
+    }
+  },
+  {
+    "uri": "en/36/805999",
+    "id": "805999",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance guarantees",
+    "harm": {
+      "id": "0014741",
+      "title": "805999 - Insurance guarantees",
+      "conceptLink": "/ec2/concept/5964951"
+    }
+  },
+  {
+    "uri": "en/36/35391",
+    "id": "35391",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance information",
+    "harm": {
+      "id": "0058743",
+      "title": "35391 - Insurance information",
+      "conceptLink": "/ec2/concept/6000234"
+    }
+  },
+  {
+    "uri": "en/36/886637",
+    "id": "886637",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance information and consultancy",
+    "harm": {
+      "id": "0018018",
+      "title": "886637 - Insurance information and consultancy",
+      "conceptLink": "/ec2/concept/5967947"
+    }
+  },
+  {
+    "uri": "en/36/449678",
+    "id": "449678",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance investigations",
+    "harm": {
+      "id": "0007739",
+      "title": "449678 - Insurance investigations",
+      "conceptLink": "/ec2/concept/5958538"
+    }
+  },
+  {
+    "uri": "en/36/806616",
+    "id": "806616",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance loss assessment",
+    "harm": {
+      "id": "0005033",
+      "title": "806616 - Insurance loss assessment",
+      "conceptLink": "/ec2/concept/5956067"
+    }
+  },
+  {
+    "uri": "en/36/449545",
+    "id": "449545",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance management services",
+    "harm": {
+      "id": "0024071",
+      "title": "449545 - Insurance management services",
+      "conceptLink": "/ec2/concept/5973492"
+    }
+  },
+  {
+    "uri": "en/36/806632",
+    "id": "806632",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance of anti-theft systems",
+    "harm": {
+      "id": "0010769",
+      "title": "806632 - Insurance of anti-theft systems",
+      "conceptLink": "/ec2/concept/5961316"
+    }
+  },
+  {
+    "uri": "en/36/806644",
+    "id": "806644",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance of buildings",
+    "harm": {
+      "id": "0022453",
+      "title": "806644 - Insurance of buildings",
+      "conceptLink": "/ec2/concept/5972005"
+    }
+  },
+  {
+    "uri": "en/36/806660",
+    "id": "806660",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance of communications apparatus",
+    "harm": {
+      "id": "0024070",
+      "title": "806660 - Insurance of communications apparatus",
+      "conceptLink": "/ec2/concept/5973491"
+    }
+  },
+  {
+    "uri": "en/36/806673",
+    "id": "806673",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance of goods while in transit",
+    "harm": {
+      "id": "0043744",
+      "title": "806673 - Insurance of goods while in transit",
+      "conceptLink": "/ec2/concept/5991443"
+    }
+  },
+  {
+    "uri": "en/36/124686877",
+    "id": "124686877",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance plans (Administration of -)",
+    "harm": {
+      "id": "0024071",
+      "title": "124686877 - Insurance plans (Administration of -)",
+      "conceptLink": "/ec2/concept/5973492"
+    }
+  },
+  {
+    "uri": "en/36/806685",
+    "id": "806685",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance premium financing services",
+    "harm": {
+      "id": "0012460",
+      "title": "806685 - Insurance premium financing services",
+      "conceptLink": "/ec2/concept/5962866"
+    }
+  },
+  {
+    "uri": "en/36/366844",
+    "id": "366844",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance premium rate computing",
+    "harm": {
+      "id": "0012889",
+      "title": "366844 - Insurance premium rate computing",
+      "conceptLink": "/ec2/concept/5963258"
+    }
+  },
+  {
+    "uri": "en/36/806698",
+    "id": "806698",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance relating to personal possessions",
+    "harm": {
+      "id": "0018259",
+      "title": "806698 - Insurance relating to personal possessions",
+      "conceptLink": "/ec2/concept/5968171"
+    }
+  },
+  {
+    "uri": "en/36/806712",
+    "id": "806712",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance relating to property",
+    "harm": {
+      "id": "0041366",
+      "title": "806712 - Insurance relating to property",
+      "conceptLink": "/ec2/concept/5989282"
+    }
+  },
+  {
+    "uri": "en/36/449677",
+    "id": "449677",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance research",
+    "harm": {
+      "id": "0007739",
+      "title": "449677 - Insurance research",
+      "conceptLink": "/ec2/concept/5958538"
+    }
+  },
+  {
+    "uri": "en/36/806737",
+    "id": "806737",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance risk management",
+    "harm": {
+      "id": "0000880",
+      "title": "806737 - Insurance risk management",
+      "conceptLink": "/ec2/concept/5952279"
+    }
+  },
+  {
+    "uri": "en/36/31576",
+    "id": "31576",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services",
+    "harm": {
+      "id": "0059322",
+      "title": "31576 - Insurance services",
+      "conceptLink": "/ec2/concept/6000804"
+    }
+  },
+  {
+    "uri": "en/36/806752",
+    "id": "806752",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for mobile telephones",
+    "harm": {
+      "id": "0000881",
+      "title": "806752 - Insurance services for mobile telephones",
+      "conceptLink": "/ec2/concept/5952280"
+    }
+  },
+  {
+    "uri": "en/36/806805",
+    "id": "806805",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for the protection of mortgages",
+    "harm": {
+      "id": "0018260",
+      "title": "806805 - Insurance services for the protection of mortgages",
+      "conceptLink": "/ec2/concept/5968172"
+    }
+  },
+  {
+    "uri": "en/36/806793",
+    "id": "806793",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for the protection of drivers",
+    "harm": {
+      "id": "0024072",
+      "title": "806793 - Insurance services for the protection of drivers",
+      "conceptLink": "/ec2/concept/5973493"
+    }
+  },
+  {
+    "uri": "en/36/806821",
+    "id": "806821",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for the provision of emergency cash",
+    "harm": {
+      "id": "0006655",
+      "title": "806821 - Insurance services for the provision of emergency cash",
+      "conceptLink": "/ec2/concept/5957550"
+    }
+  },
+  {
+    "uri": "en/36/806777",
+    "id": "806777",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for the construction industry",
+    "harm": {
+      "id": "0006654",
+      "title": "806777 - Insurance services for the construction industry",
+      "conceptLink": "/ec2/concept/5957549"
+    }
+  },
+  {
+    "uri": "en/36/806833",
+    "id": "806833",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for the repayment of medical expense",
+    "harm": {
+      "id": "0029804",
+      "title": "806833 - Insurance services for the repayment of medical expense",
+      "conceptLink": "/ec2/concept/5978748"
+    }
+  },
+  {
+    "uri": "en/36/806765",
+    "id": "806765",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services for thatched properties",
+    "harm": {
+      "id": "0029803",
+      "title": "806765 - Insurance services for thatched properties",
+      "conceptLink": "/ec2/concept/5978747"
+    }
+  },
+  {
+    "uri": "en/36/806982",
+    "id": "806982",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to mail order businesses",
+    "harm": {
+      "id": "0003298",
+      "title": "806982 - Insurance services relating to mail order businesses",
+      "conceptLink": "/ec2/concept/5954467"
+    }
+  },
+  {
+    "uri": "en/36/806955",
+    "id": "806955",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to holiday accommodation",
+    "harm": {
+      "id": "0003296",
+      "title": "806955 - Insurance services relating to holiday accommodation",
+      "conceptLink": "/ec2/concept/5954465"
+    }
+  },
+  {
+    "uri": "en/36/806860",
+    "id": "806860",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to boats",
+    "harm": {
+      "id": "0020754",
+      "title": "806860 - Insurance services relating to boats",
+      "conceptLink": "/ec2/concept/5970453"
+    }
+  },
+  {
+    "uri": "en/36/806995",
+    "id": "806995",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to mechanical breakdown",
+    "harm": {
+      "id": "0014910",
+      "title": "806995 - Insurance services relating to mechanical breakdown",
+      "conceptLink": "/ec2/concept/5965107"
+    }
+  },
+  {
+    "uri": "en/36/806930",
+    "id": "806930",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to credit cards",
+    "harm": {
+      "id": "0014909",
+      "title": "806930 - Insurance services relating to credit cards",
+      "conceptLink": "/ec2/concept/5965106"
+    }
+  },
+  {
+    "uri": "en/36/807016",
+    "id": "807016",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to vehicles",
+    "harm": {
+      "id": "0013391",
+      "title": "807016 - Insurance services relating to vehicles",
+      "conceptLink": "/ec2/concept/5963712"
+    }
+  },
+  {
+    "uri": "en/36/807015",
+    "id": "807015",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to motor vehicles",
+    "harm": {
+      "id": "0013391",
+      "title": "807015 - Insurance services relating to motor vehicles",
+      "conceptLink": "/ec2/concept/5963712"
+    }
+  },
+  {
+    "uri": "en/36/807165",
+    "id": "807165",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to the loss of personal possessions",
+    "harm": {
+      "id": "0038953",
+      "title": "807165 - Insurance services relating to the loss of personal possessions",
+      "conceptLink": "/ec2/concept/5987071"
+    }
+  },
+  {
+    "uri": "en/36/807085",
+    "id": "807085",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to real estate",
+    "harm": {
+      "id": "0033138",
+      "title": "807085 - Insurance services relating to real estate",
+      "conceptLink": "/ec2/concept/5981784"
+    }
+  },
+  {
+    "uri": "en/36/807101",
+    "id": "807101",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to sea cargo",
+    "harm": {
+      "id": "0033139",
+      "title": "807101 - Insurance services relating to sea cargo",
+      "conceptLink": "/ec2/concept/5981785"
+    }
+  },
+  {
+    "uri": "en/36/807114",
+    "id": "807114",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to sport",
+    "harm": {
+      "id": "0004330",
+      "title": "807114 - Insurance services relating to sport",
+      "conceptLink": "/ec2/concept/5955412"
+    }
+  },
+  {
+    "uri": "en/36/807126",
+    "id": "807126",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to structured settlements rendered to lawyers",
+    "harm": {
+      "id": "0004331",
+      "title": "807126 - Insurance services relating to structured settlements rendered to lawyers",
+      "conceptLink": "/ec2/concept/5955413"
+    }
+  },
+  {
+    "uri": "en/36/807070",
+    "id": "807070",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to pension funds",
+    "harm": {
+      "id": "0004329",
+      "title": "807070 - Insurance services relating to pension funds",
+      "conceptLink": "/ec2/concept/5955411"
+    }
+  },
+  {
+    "uri": "en/36/807058",
+    "id": "807058",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to nursing homes",
+    "harm": {
+      "id": "0026410",
+      "title": "807058 - Insurance services relating to nursing homes",
+      "conceptLink": "/ec2/concept/5975638"
+    }
+  },
+  {
+    "uri": "en/36/806890",
+    "id": "806890",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to contingency planning",
+    "harm": {
+      "id": "0026408",
+      "title": "806890 - Insurance services relating to contingency planning",
+      "conceptLink": "/ec2/concept/5975636"
+    }
+  },
+  {
+    "uri": "en/36/806905",
+    "id": "806905",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to credit",
+    "harm": {
+      "id": "0026409",
+      "title": "806905 - Insurance services relating to credit",
+      "conceptLink": "/ec2/concept/5975637"
+    }
+  },
+  {
+    "uri": "en/36/806875",
+    "id": "806875",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to cancelled bookings for holidays",
+    "harm": {
+      "id": "0026407",
+      "title": "806875 - Insurance services relating to cancelled bookings for holidays",
+      "conceptLink": "/ec2/concept/5975635"
+    }
+  },
+  {
+    "uri": "en/36/807139",
+    "id": "807139",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to structured settlements rendered to property casualty insurers",
+    "harm": {
+      "id": "0027397",
+      "title": "807139 - Insurance services relating to structured settlements rendered to property casualty insurers",
+      "conceptLink": "/ec2/concept/5976524"
+    }
+  },
+  {
+    "uri": "en/36/806849",
+    "id": "806849",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to aviation",
+    "harm": {
+      "id": "0038001",
+      "title": "806849 - Insurance services relating to aviation",
+      "conceptLink": "/ec2/concept/5986200"
+    }
+  },
+  {
+    "uri": "en/36/806943",
+    "id": "806943",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Insurance services relating to goods in transit",
+    "harm": {
+      "id": "0043744",
+      "title": "806943 - Insurance services relating to goods in transit",
+      "conceptLink": "/ec2/concept/5991443"
+    }
+  }
+]

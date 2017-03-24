@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/44/876298",
+    "id": "876298",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agricultural information services",
+    "harm": {
+      "id": "0045905",
+      "title": "876298 - Agricultural information services",
+      "conceptLink": "/ec2/concept/5993429"
+    }
+  },
+  {
+    "uri": "en/44/124348598",
+    "id": "124348598",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agricultural machinery (Rental of -)",
+    "harm": {
+      "id": "0011905",
+      "title": "124348598 - Agricultural machinery (Rental of -)",
+      "conceptLink": "/ec2/concept/5962356"
+    }
+  },
+  {
+    "uri": "en/44/479123",
+    "id": "479123",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agricultural services",
+    "harm": {
+      "id": "0011906",
+      "title": "479123 - Agricultural services",
+      "conceptLink": "/ec2/concept/5962357"
+    }
+  },
+  {
+    "uri": "en/44/876311",
+    "id": "876311",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agricultural services relating to environmental conservation",
+    "harm": {
+      "id": "0007691",
+      "title": "876311 - Agricultural services relating to environmental conservation",
+      "conceptLink": "/ec2/concept/5958495"
+    }
+  },
+  {
+    "uri": "en/44/120919202",
+    "id": "120919202",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agriculture, aquaculture, horticulture and forestry services",
+    "harm": {
+      "id": "0048072",
+      "title": "120919202 - Agriculture, aquaculture, horticulture and forestry services",
+      "conceptLink": "/ec2/concept/5995331"
+    }
+  },
+  {
+    "uri": "en/44/506599",
+    "id": "506599",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agriculture, horticulture and forestry services",
+    "harm": {
+      "id": "0038236",
+      "title": "506599 - Agriculture, horticulture and forestry services",
+      "conceptLink": "/ec2/concept/5986416"
+    }
+  },
+  {
+    "uri": "en/44/120886301",
+    "id": "120886301",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agriculture, horticulture and forestry services relating to the recultivation of industrial wastelands",
+    "harm": {
+      "id": "0069566",
+      "title": "120886301 - Agriculture, horticulture and forestry services relating to the recultivation of industrial wastelands",
+      "conceptLink": "/ec2/concept/6005769"
+    }
+  },
+  {
+    "uri": "en/44/479122",
+    "id": "479122",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Agriculture services",
+    "harm": {
+      "id": "0011906",
+      "title": "479122 - Agriculture services",
+      "conceptLink": "/ec2/concept/5962357"
+    }
+  },
+  {
+    "uri": "en/44/137929141",
+    "id": "137929141",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Airbrush tanning salon services",
+    "harm": {
+      "id": "0071458",
+      "title": "137929141 - Airbrush tanning salon services",
+      "conceptLink": "/ec2/concept/6007649"
+    }
+  },
+  {
+    "uri": "en/44/137929007",
+    "id": "137929007",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Airbrush tanning services for the human body",
+    "harm": {
+      "id": "0071460",
+      "title": "137929007 - Airbrush tanning services for the human body",
+      "conceptLink": "/ec2/concept/6007651"
+    }
+  },
+  {
+    "uri": "en/44/137929010",
+    "id": "137929010",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Airbrush tanning services",
+    "harm": {
+      "id": "0071459",
+      "title": "137929010 - Airbrush tanning services",
+      "conceptLink": "/ec2/concept/6007650"
+    }
+  },
+  {
+    "uri": "en/44/137885471",
+    "id": "137885471",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Alcohol screening for medical purposes",
+    "harm": {
+      "id": "0071461",
+      "title": "137885471 - Alcohol screening for medical purposes",
+      "conceptLink": "/ec2/concept/6007652"
+    }
+  },
+  {
+    "uri": "en/44/1410111",
+    "id": "1410111",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Alternative medicine services",
+    "harm": {
+      "id": "0046262",
+      "title": "1410111 - Alternative medicine services",
+      "conceptLink": "/ec2/concept/5993726"
+    }
+  },
+  {
+    "uri": "en/44/375807",
+    "id": "375807",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Ambulant medical care",
+    "harm": {
+      "id": "0037709",
+      "title": "375807 - Ambulant medical care",
+      "conceptLink": "/ec2/concept/5985932"
+    }
+  },
+  {
+    "uri": "en/44/876326",
+    "id": "876326",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Analysis of human serum for medical treatment",
+    "harm": {
+      "id": "0007692",
+      "title": "876326 - Analysis of human serum for medical treatment",
+      "conceptLink": "/ec2/concept/5958496"
+    }
+  },
+  {
+    "uri": "en/44/876340",
+    "id": "876340",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Analysis of human tissues for medical treatment",
+    "harm": {
+      "id": "0042423",
+      "title": "876340 - Analysis of human tissues for medical treatment",
+      "conceptLink": "/ec2/concept/5990247"
+    }
+  },
+  {
+    "uri": "en/44/505288",
+    "id": "505288",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal beautician services",
+    "harm": {
+      "id": "0007693",
+      "title": "505288 - Animal beautician services",
+      "conceptLink": "/ec2/concept/5958497"
+    }
+  },
+  {
+    "uri": "en/44/876368",
+    "id": "876368",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal beautician services for dogs",
+    "harm": {
+      "id": "0013535",
+      "title": "876368 - Animal beautician services for dogs",
+      "conceptLink": "/ec2/concept/5963841"
+    }
+  },
+  {
+    "uri": "en/44/876355",
+    "id": "876355",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal beautician services for cats",
+    "harm": {
+      "id": "0042424",
+      "title": "876355 - Animal beautician services for cats",
+      "conceptLink": "/ec2/concept/5990248"
+    }
+  },
+  {
+    "uri": "en/44/66722",
+    "id": "66722",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal breeding",
+    "harm": {
+      "id": "0008369",
+      "title": "66722 - Animal breeding",
+      "conceptLink": "/ec2/concept/5959113"
+    }
+  },
+  {
+    "uri": "en/44/876381",
+    "id": "876381",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal clipping",
+    "harm": {
+      "id": "0036683",
+      "title": "876381 - Animal clipping",
+      "conceptLink": "/ec2/concept/5985008"
+    }
+  },
+  {
+    "uri": "en/44/876393",
+    "id": "876393",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal feed rationing service",
+    "harm": {
+      "id": "0001961",
+      "title": "876393 - Animal feed rationing service",
+      "conceptLink": "/ec2/concept/5953252"
+    }
+  },
+  {
+    "uri": "en/44/68233",
+    "id": "68233",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal grooming",
+    "harm": {
+      "id": "0057781",
+      "title": "68233 - Animal grooming",
+      "conceptLink": "/ec2/concept/5999285"
+    }
+  },
+  {
+    "uri": "en/44/900488",
+    "id": "900488",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal grooming services",
+    "harm": {
+      "id": "0057781",
+      "title": "900488 - Animal grooming services",
+      "conceptLink": "/ec2/concept/5999285"
+    }
+  },
+  {
+    "uri": "en/44/120919203",
+    "id": "120919203",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal healthcare services",
+    "harm": {
+      "id": "0014541",
+      "title": "120919203 - Animal healthcare services",
+      "conceptLink": "/ec2/concept/5964773"
+    }
+  },
+  {
+    "uri": "en/44/479206",
+    "id": "479206",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal hospitals",
+    "harm": {
+      "id": "0017172",
+      "title": "479206 - Animal hospitals",
+      "conceptLink": "/ec2/concept/5967179"
+    }
+  },
+  {
+    "uri": "en/44/66723",
+    "id": "66723",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal husbandry",
+    "harm": {
+      "id": "0008369",
+      "title": "66723 - Animal husbandry",
+      "conceptLink": "/ec2/concept/5959113"
+    }
+  },
+  {
+    "uri": "en/44/876406",
+    "id": "876406",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animal performance testing services",
+    "harm": {
+      "id": "0036684",
+      "title": "876406 - Animal performance testing services",
+      "conceptLink": "/ec2/concept/5985009"
+    }
+  },
+  {
+    "uri": "en/44/125097675",
+    "id": "125097675",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Animals (Artificial insemination of -)",
+    "harm": {
+      "id": "0019387",
+      "title": "125097675 - Animals (Artificial insemination of -)",
+      "conceptLink": "/ec2/concept/5969207"
+    }
+  },
+  {
+    "uri": "en/44/879866",
+    "id": "879866",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Anti-smoking therapy",
+    "harm": {
+      "id": "0035090",
+      "title": "879866 - Anti-smoking therapy",
+      "conceptLink": "/ec2/concept/5983558"
+    }
+  },
+  {
+    "uri": "en/44/876448",
+    "id": "876448",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Application of cosmetic products to the face",
+    "harm": {
+      "id": "0028605",
+      "title": "876448 - Application of cosmetic products to the face",
+      "conceptLink": "/ec2/concept/5977643"
+    }
+  },
+  {
+    "uri": "en/44/876434",
+    "id": "876434",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Application of cosmetic products to the body",
+    "harm": {
+      "id": "0042425",
+      "title": "876434 - Application of cosmetic products to the body",
+      "conceptLink": "/ec2/concept/5990249"
+    }
+  },
+  {
+    "uri": "en/44/912252",
+    "id": "912252",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Aquaculture services",
+    "harm": {
+      "id": "0012972",
+      "title": "912252 - Aquaculture services",
+      "conceptLink": "/ec2/concept/5963329"
+    }
+  },
+  {
+    "uri": "en/44/68973",
+    "id": "68973",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Aromatherapy services",
+    "harm": {
+      "id": "0003334",
+      "title": "68973 - Aromatherapy services",
+      "conceptLink": "/ec2/concept/5954501"
+    }
+  },
+  {
+    "uri": "en/44/876486",
+    "id": "876486",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Arranging of accommodation in sanatoria",
+    "harm": {
+      "id": "0034409",
+      "title": "876486 - Arranging of accommodation in sanatoria",
+      "conceptLink": "/ec2/concept/5982945"
+    }
+  },
+  {
+    "uri": "en/44/876475",
+    "id": "876475",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Arranging of accommodation in rest homes",
+    "harm": {
+      "id": "0028607",
+      "title": "876475 - Arranging of accommodation in rest homes",
+      "conceptLink": "/ec2/concept/5977645"
+    }
+  },
+  {
+    "uri": "en/44/876462",
+    "id": "876462",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Arranging of accommodation in convalescent homes",
+    "harm": {
+      "id": "0028606",
+      "title": "876462 - Arranging of accommodation in convalescent homes",
+      "conceptLink": "/ec2/concept/5977644"
+    }
+  },
+  {
+    "uri": "en/44/876498",
+    "id": "876498",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Arranging of medical treatment",
+    "harm": {
+      "id": "0022954",
+      "title": "876498 - Arranging of medical treatment",
+      "conceptLink": "/ec2/concept/5972460"
+    }
+  },
+  {
+    "uri": "en/44/900634",
+    "id": "900634",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Art therapy",
+    "harm": {
+      "id": "0024753",
+      "title": "900634 - Art therapy",
+      "conceptLink": "/ec2/concept/5974124"
+    }
+  },
+  {
+    "uri": "en/44/68998",
+    "id": "68998",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Artificial insemination",
+    "harm": {
+      "id": "0026971",
+      "title": "68998 - Artificial insemination",
+      "conceptLink": "/ec2/concept/5976141"
+    }
+  },
+  {
+    "uri": "en/44/876419",
+    "id": "876419",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Artificial insemination of animals",
+    "harm": {
+      "id": "0019387",
+      "title": "876419 - Artificial insemination of animals",
+      "conceptLink": "/ec2/concept/5969207"
+    }
+  },
+  {
+    "uri": "en/44/75188810",
+    "id": "75188810",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Artificial insemination services for animals",
+    "harm": {
+      "id": "0019387",
+      "title": "75188810 - Artificial insemination services for animals",
+      "conceptLink": "/ec2/concept/5969207"
+    }
+  },
+  {
+    "uri": "en/44/68997",
+    "id": "68997",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Artificial insemination services",
+    "harm": {
+      "id": "0026971",
+      "title": "68997 - Artificial insemination services",
+      "conceptLink": "/ec2/concept/5976141"
+    }
+  },
+  {
+    "uri": "en/44/496415",
+    "id": "496415",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Artificial suntanning services",
+    "harm": {
+      "id": "0018975",
+      "title": "496415 - Artificial suntanning services",
+      "conceptLink": "/ec2/concept/5968836"
+    }
+  },
+  {
+    "uri": "en/44/476311",
+    "id": "476311",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Assisting individuals to stop smoking",
+    "harm": {
+      "id": "0003678",
+      "title": "476311 - Assisting individuals to stop smoking",
+      "conceptLink": "/ec2/concept/5954816"
+    }
+  },
+  {
+    "uri": "en/44/876511",
+    "id": "876511",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Audiological testing services",
+    "harm": {
+      "id": "0045890",
+      "title": "876511 - Audiological testing services",
+      "conceptLink": "/ec2/concept/5993415"
+    }
+  },
+  {
+    "uri": "en/44/876523",
+    "id": "876523",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Audiology services",
+    "harm": {
+      "id": "0005563",
+      "title": "876523 - Audiology services",
+      "conceptLink": "/ec2/concept/5956556"
+    }
+  },
+  {
+    "uri": "en/44/136073621",
+    "id": "136073621",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Autogenic training",
+    "harm": {
+      "id": "0050469",
+      "title": "136073621 - Autogenic training",
+      "conceptLink": "/ec2/concept/5995675"
+    }
+  },
+  {
+    "uri": "en/44/120886004",
+    "id": "120886004",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Ayurveda therapy",
+    "harm": {
+      "id": "0069594",
+      "title": "120886004 - Ayurveda therapy",
+      "conceptLink": "/ec2/concept/6005797"
+    }
+  },
+  {
+    "uri": "en/44/876539",
+    "id": "876539",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barber services",
+    "harm": {
+      "id": "0058581",
+      "title": "876539 - Barber services",
+      "conceptLink": "/ec2/concept/6000074"
+    }
+  },
+  {
+    "uri": "en/44/900872",
+    "id": "900872",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barber shop services",
+    "harm": {
+      "id": "0058582",
+      "title": "900872 - Barber shop services",
+      "conceptLink": "/ec2/concept/6000075"
+    }
+  },
+  {
+    "uri": "en/44/67260",
+    "id": "67260",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barber shops",
+    "harm": {
+      "id": "0058582",
+      "title": "67260 - Barber shops",
+      "conceptLink": "/ec2/concept/6000075"
+    }
+  },
+  {
+    "uri": "en/44/22489546",
+    "id": "22489546",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barbers' services",
+    "harm": {
+      "id": "0058581",
+      "title": "22489546 - Barbers' services",
+      "conceptLink": "/ec2/concept/6000074"
+    }
+  },
+  {
+    "uri": "en/44/120820119",
+    "id": "120820119",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barbers' shops",
+    "harm": {
+      "id": "0058582",
+      "title": "120820119 - Barbers' shops",
+      "conceptLink": "/ec2/concept/6000075"
+    }
+  },
+  {
+    "uri": "en/44/900874",
+    "id": "900874",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Barbershops",
+    "harm": {
+      "id": "0058582",
+      "title": "900874 - Barbershops",
+      "conceptLink": "/ec2/concept/6000075"
+    }
+  },
+  {
+    "uri": "en/44/66899",
+    "id": "66899",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Baths for hygiene purposes (Public -)",
+    "harm": {
+      "id": "0031530",
+      "title": "66899 - Baths for hygiene purposes (Public -)",
+      "conceptLink": "/ec2/concept/5980320"
+    }
+  },
+  {
+    "uri": "en/44/125097808",
+    "id": "125097808",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Baths (Public -) provision of facilities for personal hygiene",
+    "harm": {
+      "id": "0001986",
+      "title": "125097808 - Baths (Public -) provision of facilities for personal hygiene",
+      "conceptLink": "/ec2/concept/5953276"
+    }
+  },
+  {
+    "uri": "en/44/66957",
+    "id": "66957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Baths (Turkish -)",
+    "harm": {
+      "id": "0006210",
+      "title": "66957 - Baths (Turkish -)",
+      "conceptLink": "/ec2/concept/5957142"
+    }
+  },
+  {
+    "uri": "en/44/124348137",
+    "id": "124348137",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Baths (Turkish -) provision of facilities",
+    "harm": {
+      "id": "0006210",
+      "title": "124348137 - Baths (Turkish -) provision of facilities",
+      "conceptLink": "/ec2/concept/5957142"
+    }
+  },
+  {
+    "uri": "en/44/67029",
+    "id": "67029",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beautician services",
+    "harm": {
+      "id": "0025759",
+      "title": "67029 - Beautician services",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/125160144",
+    "id": "125160144",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauticians (Services of -)",
+    "harm": {
+      "id": "0025759",
+      "title": "125160144 - Beauticians (Services of -)",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/616479",
+    "id": "616479",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty care",
+    "harm": {
+      "id": "0044449",
+      "title": "616479 - Beauty care",
+      "conceptLink": "/ec2/concept/5992093"
+    }
+  },
+  {
+    "uri": "en/44/505287",
+    "id": "505287",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty care for animals",
+    "harm": {
+      "id": "0007693",
+      "title": "505287 - Beauty care for animals",
+      "conceptLink": "/ec2/concept/5958497"
+    }
+  },
+  {
+    "uri": "en/44/505308",
+    "id": "505308",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty care for human beings",
+    "harm": {
+      "id": "0020377",
+      "title": "505308 - Beauty care for human beings",
+      "conceptLink": "/ec2/concept/5970106"
+    }
+  },
+  {
+    "uri": "en/44/120887992",
+    "id": "120887992",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty care services provided by a health spa",
+    "harm": {
+      "id": "0069670",
+      "title": "120887992 - Beauty care services provided by a health spa",
+      "conceptLink": "/ec2/concept/6005873"
+    }
+  },
+  {
+    "uri": "en/44/876607",
+    "id": "876607",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty consultancy",
+    "harm": {
+      "id": "0009594",
+      "title": "876607 - Beauty consultancy",
+      "conceptLink": "/ec2/concept/5960241"
+    }
+  },
+  {
+    "uri": "en/44/876608",
+    "id": "876608",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty consultation",
+    "harm": {
+      "id": "0009594",
+      "title": "876608 - Beauty consultation",
+      "conceptLink": "/ec2/concept/5960241"
+    }
+  },
+  {
+    "uri": "en/44/876609",
+    "id": "876609",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty counselling",
+    "harm": {
+      "id": "0009594",
+      "title": "876609 - Beauty counselling",
+      "conceptLink": "/ec2/concept/5960241"
+    }
+  },
+  {
+    "uri": "en/44/67028",
+    "id": "67028",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty salon services",
+    "harm": {
+      "id": "0025759",
+      "title": "67028 - Beauty salon services",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/67025",
+    "id": "67025",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty salons",
+    "harm": {
+      "id": "0025759",
+      "title": "67025 - Beauty salons",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/67030",
+    "id": "67030",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty therapy services",
+    "harm": {
+      "id": "0025759",
+      "title": "67030 - Beauty therapy services",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/876638",
+    "id": "876638",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty therapy treatments",
+    "harm": {
+      "id": "0025759",
+      "title": "876638 - Beauty therapy treatments",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/476005",
+    "id": "476005",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty treatment",
+    "harm": {
+      "id": "0025759",
+      "title": "476005 - Beauty treatment",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/136011009",
+    "id": "136011009",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty treatment services especially for eyelashes",
+    "harm": {
+      "id": "0050318",
+      "title": "136011009 - Beauty treatment services especially for eyelashes",
+      "conceptLink": "/ec2/concept/5995527"
+    }
+  },
+  {
+    "uri": "en/44/479661",
+    "id": "479661",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beauty treatment services",
+    "harm": {
+      "id": "0025759",
+      "title": "479661 - Beauty treatment services",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/119555685",
+    "id": "119555685",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Beekeeping services",
+    "harm": {
+      "id": "0071244",
+      "title": "119555685 - Beekeeping services",
+      "conceptLink": "/ec2/concept/6007436"
+    }
+  },
+  {
+    "uri": "en/44/900930",
+    "id": "900930",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Behavioural analysis for medical purposes",
+    "harm": {
+      "id": "0033125",
+      "title": "900930 - Behavioural analysis for medical purposes",
+      "conceptLink": "/ec2/concept/5981771"
+    }
+  },
+  {
+    "uri": "en/44/68307",
+    "id": "68307",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Blood bank services",
+    "harm": {
+      "id": "0000120",
+      "title": "68307 - Blood bank services",
+      "conceptLink": "/ec2/concept/5951596"
+    }
+  },
+  {
+    "uri": "en/44/68308",
+    "id": "68308",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Blood banks",
+    "harm": {
+      "id": "0000120",
+      "title": "68308 - Blood banks",
+      "conceptLink": "/ec2/concept/5951596"
+    }
+  },
+  {
+    "uri": "en/44/137885381",
+    "id": "137885381",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Blood pressure screening services",
+    "harm": {
+      "id": "0071462",
+      "title": "137885381 - Blood pressure screening services",
+      "conceptLink": "/ec2/concept/6007653"
+    }
+  },
+  {
+    "uri": "en/44/120919210",
+    "id": "120919210",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body art",
+    "harm": {
+      "id": "0048068",
+      "title": "120919210 - Body art",
+      "conceptLink": "/ec2/concept/5995327"
+    }
+  },
+  {
+    "uri": "en/44/233656447",
+    "id": "233656447",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body art services",
+    "harm": {
+      "id": "0073908",
+      "title": "233656447 - Body art services",
+      "conceptLink": "/ec2/concept/6010860"
+    }
+  },
+  {
+    "uri": "en/44/46032295",
+    "id": "46032295",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body piercing",
+    "harm": {
+      "id": "0070088",
+      "title": "46032295 - Body piercing",
+      "conceptLink": "/ec2/concept/6006290"
+    }
+  },
+  {
+    "uri": "en/44/11609529",
+    "id": "11609529",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body piercing services",
+    "harm": {
+      "id": "0050574",
+      "title": "11609529 - Body piercing services",
+      "conceptLink": "/ec2/concept/5995943"
+    }
+  },
+  {
+    "uri": "en/44/890698",
+    "id": "890698",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body waxing services for hair removal in humans",
+    "harm": {
+      "id": "0020292",
+      "title": "890698 - Body waxing services for hair removal in humans",
+      "conceptLink": "/ec2/concept/5970026"
+    }
+  },
+  {
+    "uri": "en/44/901112",
+    "id": "901112",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Body waxing services for the human body",
+    "harm": {
+      "id": "0005913",
+      "title": "901112 - Body waxing services for the human body",
+      "conceptLink": "/ec2/concept/5956867"
+    }
+  },
+  {
+    "uri": "en/44/67962",
+    "id": "67962",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Bodywork therapy",
+    "harm": {
+      "id": "0000828",
+      "title": "67962 - Bodywork therapy",
+      "conceptLink": "/ec2/concept/5952234"
+    }
+  },
+  {
+    "uri": "en/44/137968860",
+    "id": "137968860",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Bonesetting services",
+    "harm": {
+      "id": "0069945",
+      "title": "137968860 - Bonesetting services",
+      "conceptLink": "/ec2/concept/6006148"
+    }
+  },
+  {
+    "uri": "en/44/137887301",
+    "id": "137887301",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Bowel cancer screening services",
+    "harm": {
+      "id": "0071463",
+      "title": "137887301 - Bowel cancer screening services",
+      "conceptLink": "/ec2/concept/6007654"
+    }
+  },
+  {
+    "uri": "en/44/119555697",
+    "id": "119555697",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Branding of animals",
+    "harm": {
+      "id": "0056738",
+      "title": "119555697 - Branding of animals",
+      "conceptLink": "/ec2/concept/5998022"
+    }
+  },
+  {
+    "uri": "en/44/137887300",
+    "id": "137887300",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Breast cancer screening services",
+    "harm": {
+      "id": "0071464",
+      "title": "137887300 - Breast cancer screening services",
+      "conceptLink": "/ec2/concept/6007655"
+    }
+  },
+  {
+    "uri": "en/44/475930",
+    "id": "475930",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Breeding and stud services",
+    "harm": {
+      "id": "0044677",
+      "title": "475930 - Breeding and stud services",
+      "conceptLink": "/ec2/concept/5992303"
+    }
+  },
+  {
+    "uri": "en/44/66721",
+    "id": "66721",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Breeding of animals",
+    "harm": {
+      "id": "0008369",
+      "title": "66721 - Breeding of animals",
+      "conceptLink": "/ec2/concept/5959113"
+    }
+  },
+  {
+    "uri": "en/44/876653",
+    "id": "876653",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Breeding of thoroughbred horses",
+    "harm": {
+      "id": "0021312",
+      "title": "876653 - Breeding of thoroughbred horses",
+      "conceptLink": "/ec2/concept/5970962"
+    }
+  },
+  {
+    "uri": "en/44/137927237",
+    "id": "137927237",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Canine massage",
+    "harm": {
+      "id": "0071465",
+      "title": "137927237 - Canine massage",
+      "conceptLink": "/ec2/concept/6007656"
+    }
+  },
+  {
+    "uri": "en/44/876665",
+    "id": "876665",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Care of birds",
+    "harm": {
+      "id": "0015438",
+      "title": "876665 - Care of birds",
+      "conceptLink": "/ec2/concept/5965592"
+    }
+  },
+  {
+    "uri": "en/44/876677",
+    "id": "876677",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Care of fish",
+    "harm": {
+      "id": "0044272",
+      "title": "876677 - Care of fish",
+      "conceptLink": "/ec2/concept/5991930"
+    }
+  },
+  {
+    "uri": "en/44/876693",
+    "id": "876693",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Care of pet animals",
+    "harm": {
+      "id": "0008292",
+      "title": "876693 - Care of pet animals",
+      "conceptLink": "/ec2/concept/5959041"
+    }
+  },
+  {
+    "uri": "en/44/876714",
+    "id": "876714",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Care of potted plants",
+    "harm": {
+      "id": "0038508",
+      "title": "876714 - Care of potted plants",
+      "conceptLink": "/ec2/concept/5986672"
+    }
+  },
+  {
+    "uri": "en/44/137885786",
+    "id": "137885786",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cat breeding services",
+    "harm": {
+      "id": "0071466",
+      "title": "137885786 - Cat breeding services",
+      "conceptLink": "/ec2/concept/6007657"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/25/270029",
+    "id": "270029",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Sweatshirts",
+    "harm": {
+      "id": "0012074",
+      "title": "270029 - Sweatshirts",
+      "conceptLink": "/ec2/concept/5962515"
+    }
+  },
+  {
+    "uri": "en/25/432854",
+    "id": "432854",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Sweatshorts",
+    "harm": {
+      "id": "0042850",
+      "title": "432854 - Sweatshorts",
+      "conceptLink": "/ec2/concept/5990624"
+    }
+  },
+  {
+    "uri": "en/25/353897",
+    "id": "353897",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Sweatsuits",
+    "harm": {
+      "id": "0058761",
+      "title": "353897 - Sweatsuits",
+      "conceptLink": "/ec2/concept/6000252"
+    }
+  },
+  {
+    "uri": "en/25/273449",
+    "id": "273449",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swim briefs",
+    "harm": {
+      "id": "0019866",
+      "title": "273449 - Swim briefs",
+      "conceptLink": "/ec2/concept/5969639"
+    }
+  },
+  {
+    "uri": "en/25/102717520",
+    "id": "102717520",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swim shorts",
+    "harm": {
+      "id": "0073741",
+      "title": "102717520 - Swim shorts",
+      "conceptLink": "/ec2/concept/6009911"
+    }
+  },
+  {
+    "uri": "en/25/907478",
+    "id": "907478",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swim suits",
+    "harm": {
+      "id": "0012075",
+      "title": "907478 - Swim suits",
+      "conceptLink": "/ec2/concept/5962516"
+    }
+  },
+  {
+    "uri": "en/25/355370",
+    "id": "355370",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swim wear for gentlemen and ladies",
+    "harm": {
+      "id": "0023657",
+      "title": "355370 - Swim wear for gentlemen and ladies",
+      "conceptLink": "/ec2/concept/5973106"
+    }
+  },
+  {
+    "uri": "en/25/273377",
+    "id": "273377",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimming caps",
+    "harm": {
+      "id": "0006271",
+      "title": "273377 - Swimming caps",
+      "conceptLink": "/ec2/concept/5957199"
+    }
+  },
+  {
+    "uri": "en/25/273378",
+    "id": "273378",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimming caps [bathing caps]",
+    "harm": {
+      "id": "0006271",
+      "title": "273378 - Swimming caps [bathing caps]",
+      "conceptLink": "/ec2/concept/5957199"
+    }
+  },
+  {
+    "uri": "en/25/273447",
+    "id": "273447",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimming costumes",
+    "harm": {
+      "id": "0012075",
+      "title": "273447 - Swimming costumes",
+      "conceptLink": "/ec2/concept/5962516"
+    }
+  },
+  {
+    "uri": "en/25/273450",
+    "id": "273450",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimming suits",
+    "harm": {
+      "id": "0012075",
+      "title": "273450 - Swimming suits",
+      "conceptLink": "/ec2/concept/5962516"
+    }
+  },
+  {
+    "uri": "en/25/273448",
+    "id": "273448",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimming trunks",
+    "harm": {
+      "id": "0019866",
+      "title": "273448 - Swimming trunks",
+      "conceptLink": "/ec2/concept/5969639"
+    }
+  },
+  {
+    "uri": "en/25/273443",
+    "id": "273443",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimsuits",
+    "harm": {
+      "id": "0012075",
+      "title": "273443 - Swimsuits",
+      "conceptLink": "/ec2/concept/5962516"
+    }
+  },
+  {
+    "uri": "en/25/273442",
+    "id": "273442",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Swimwear",
+    "harm": {
+      "id": "0012075",
+      "title": "273442 - Swimwear",
+      "conceptLink": "/ec2/concept/5962516"
+    }
+  },
+  {
+    "uri": "en/25/270510",
+    "id": "270510",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "T-shirts",
+    "harm": {
+      "id": "0021970",
+      "title": "270510 - T-shirts",
+      "conceptLink": "/ec2/concept/5971565"
+    }
+  },
+  {
+    "uri": "en/25/599153",
+    "id": "599153",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tabards",
+    "harm": {
+      "id": "0041701",
+      "title": "599153 - Tabards",
+      "conceptLink": "/ec2/concept/5989585"
+    }
+  },
+  {
+    "uri": "en/25/16674015",
+    "id": "16674015",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Taekwondo suits",
+    "harm": {
+      "id": "0056298",
+      "title": "16674015 - Taekwondo suits",
+      "conceptLink": "/ec2/concept/5997630"
+    }
+  },
+  {
+    "uri": "en/25/233156616",
+    "id": "233156616",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Taekwondo uniforms",
+    "harm": {
+      "id": "0056298",
+      "title": "233156616 - Taekwondo uniforms",
+      "conceptLink": "/ec2/concept/5997630"
+    }
+  },
+  {
+    "uri": "en/25/353277",
+    "id": "353277",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tail coats",
+    "harm": {
+      "id": "0031303",
+      "title": "353277 - Tail coats",
+      "conceptLink": "/ec2/concept/5980124"
+    }
+  },
+  {
+    "uri": "en/25/599169",
+    "id": "599169",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tam o'shanters",
+    "harm": {
+      "id": "0018614",
+      "title": "599169 - Tam o'shanters",
+      "conceptLink": "/ec2/concept/5968498"
+    }
+  },
+  {
+    "uri": "en/25/907486",
+    "id": "907486",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tams",
+    "harm": {
+      "id": "0023228",
+      "title": "907486 - Tams",
+      "conceptLink": "/ec2/concept/5972707"
+    }
+  },
+  {
+    "uri": "en/25/355388",
+    "id": "355388",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tank-tops",
+    "harm": {
+      "id": "0031304",
+      "title": "355388 - Tank-tops",
+      "conceptLink": "/ec2/concept/5980125"
+    }
+  },
+  {
+    "uri": "en/25/355389",
+    "id": "355389",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tank tops",
+    "harm": {
+      "id": "0031304",
+      "title": "355389 - Tank tops",
+      "conceptLink": "/ec2/concept/5980125"
+    }
+  },
+  {
+    "uri": "en/25/28241795",
+    "id": "28241795",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tap pants",
+    "harm": {
+      "id": "0071162",
+      "title": "28241795 - Tap pants",
+      "conceptLink": "/ec2/concept/6007354"
+    }
+  },
+  {
+    "uri": "en/25/45453547",
+    "id": "45453547",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tap shoes",
+    "harm": {
+      "id": "0067177",
+      "title": "45453547 - Tap shoes",
+      "conceptLink": "/ec2/concept/6003380"
+    }
+  },
+  {
+    "uri": "en/25/599182",
+    "id": "599182",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tartan kilts",
+    "harm": {
+      "id": "0043262",
+      "title": "599182 - Tartan kilts",
+      "conceptLink": "/ec2/concept/5991003"
+    }
+  },
+  {
+    "uri": "en/25/274127",
+    "id": "274127",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Teddies",
+    "harm": {
+      "id": "0057616",
+      "title": "274127 - Teddies",
+      "conceptLink": "/ec2/concept/5999121"
+    }
+  },
+  {
+    "uri": "en/25/233604839",
+    "id": "233604839",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Teddies [underclothing]",
+    "harm": {
+      "id": "0057616",
+      "title": "233604839 - Teddies [underclothing]",
+      "conceptLink": "/ec2/concept/5999121"
+    }
+  },
+  {
+    "uri": "en/25/274123",
+    "id": "274123",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Teddies [undergarments]",
+    "harm": {
+      "id": "0057616",
+      "title": "274123 - Teddies [undergarments]",
+      "conceptLink": "/ec2/concept/5999121"
+    }
+  },
+  {
+    "uri": "en/25/274447",
+    "id": "274447",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tee-shirts",
+    "harm": {
+      "id": "0021970",
+      "title": "274447 - Tee-shirts",
+      "conceptLink": "/ec2/concept/5971565"
+    }
+  },
+  {
+    "uri": "en/25/599195",
+    "id": "599195",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis dresses",
+    "harm": {
+      "id": "0024401",
+      "title": "599195 - Tennis dresses",
+      "conceptLink": "/ec2/concept/5973793"
+    }
+  },
+  {
+    "uri": "en/25/599210",
+    "id": "599210",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis pullovers",
+    "harm": {
+      "id": "0030130",
+      "title": "599210 - Tennis pullovers",
+      "conceptLink": "/ec2/concept/5979043"
+    }
+  },
+  {
+    "uri": "en/25/354497",
+    "id": "354497",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis shirts",
+    "harm": {
+      "id": "0018615",
+      "title": "354497 - Tennis shirts",
+      "conceptLink": "/ec2/concept/5968499"
+    }
+  },
+  {
+    "uri": "en/25/355432",
+    "id": "355432",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis shoes",
+    "harm": {
+      "id": "0057636",
+      "title": "355432 - Tennis shoes",
+      "conceptLink": "/ec2/concept/5999141"
+    }
+  },
+  {
+    "uri": "en/25/599221",
+    "id": "599221",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis shorts",
+    "harm": {
+      "id": "0018616",
+      "title": "599221 - Tennis shorts",
+      "conceptLink": "/ec2/concept/5968500"
+    }
+  },
+  {
+    "uri": "en/25/599234",
+    "id": "599234",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis skirts",
+    "harm": {
+      "id": "0006996",
+      "title": "599234 - Tennis skirts",
+      "conceptLink": "/ec2/concept/5957856"
+    }
+  },
+  {
+    "uri": "en/25/599249",
+    "id": "599249",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis socks",
+    "harm": {
+      "id": "0018617",
+      "title": "599249 - Tennis socks",
+      "conceptLink": "/ec2/concept/5968501"
+    }
+  },
+  {
+    "uri": "en/25/599264",
+    "id": "599264",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis sweatbands",
+    "harm": {
+      "id": "0030131",
+      "title": "599264 - Tennis sweatbands",
+      "conceptLink": "/ec2/concept/5979044"
+    }
+  },
+  {
+    "uri": "en/25/24287619",
+    "id": "24287619",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tennis wear",
+    "harm": {
+      "id": "0060829",
+      "title": "24287619 - Tennis wear",
+      "conceptLink": "/ec2/concept/6001149"
+    }
+  },
+  {
+    "uri": "en/25/599277",
+    "id": "599277",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Theatrical costumes",
+    "harm": {
+      "id": "0012825",
+      "title": "599277 - Theatrical costumes",
+      "conceptLink": "/ec2/concept/5963200"
+    }
+  },
+  {
+    "uri": "en/25/1425030",
+    "id": "1425030",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thermal clothing",
+    "harm": {
+      "id": "0011863",
+      "title": "1425030 - Thermal clothing",
+      "conceptLink": "/ec2/concept/5962315"
+    }
+  },
+  {
+    "uri": "en/25/120863086",
+    "id": "120863086",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thermal headgear",
+    "harm": {
+      "id": "0067171",
+      "title": "120863086 - Thermal headgear",
+      "conceptLink": "/ec2/concept/6003374"
+    }
+  },
+  {
+    "uri": "en/25/44133583",
+    "id": "44133583",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thermal socks",
+    "harm": {
+      "id": "0067232",
+      "title": "44133583 - Thermal socks",
+      "conceptLink": "/ec2/concept/6003435"
+    }
+  },
+  {
+    "uri": "en/25/599294",
+    "id": "599294",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thermal underwear",
+    "harm": {
+      "id": "0041702",
+      "title": "599294 - Thermal underwear",
+      "conceptLink": "/ec2/concept/5989586"
+    }
+  },
+  {
+    "uri": "en/25/596889",
+    "id": "596889",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thermally insulated clothing",
+    "harm": {
+      "id": "0011863",
+      "title": "596889 - Thermally insulated clothing",
+      "conceptLink": "/ec2/concept/5962315"
+    }
+  },
+  {
+    "uri": "en/25/120866557",
+    "id": "120866557",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thobes",
+    "harm": {
+      "id": "0067204",
+      "title": "120866557 - Thobes",
+      "conceptLink": "/ec2/concept/6003407"
+    }
+  },
+  {
+    "uri": "en/25/136224265",
+    "id": "136224265",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thong sandals",
+    "harm": {
+      "id": "0073820",
+      "title": "136224265 - Thong sandals",
+      "conceptLink": "/ec2/concept/6010777"
+    }
+  },
+  {
+    "uri": "en/25/267917",
+    "id": "267917",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Thongs",
+    "harm": {
+      "id": "0047203",
+      "title": "267917 - Thongs",
+      "conceptLink": "/ec2/concept/5994568"
+    }
+  },
+  {
+    "uri": "en/25/599311",
+    "id": "599311",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Three piece suits [clothing]",
+    "harm": {
+      "id": "0006997",
+      "title": "599311 - Three piece suits [clothing]",
+      "conceptLink": "/ec2/concept/5957857"
+    }
+  },
+  {
+    "uri": "en/25/271119",
+    "id": "271119",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Ties",
+    "harm": {
+      "id": "0059034",
+      "title": "271119 - Ties",
+      "conceptLink": "/ec2/concept/6000525"
+    }
+  },
+  {
+    "uri": "en/25/789893",
+    "id": "789893",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Ties [clothing]",
+    "harm": {
+      "id": "0059034",
+      "title": "789893 - Ties [clothing]",
+      "conceptLink": "/ec2/concept/6000525"
+    }
+  },
+  {
+    "uri": "en/25/502850",
+    "id": "502850",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tightening-up strings for kimonos (datejime)",
+    "harm": {
+      "id": "0008819",
+      "title": "502850 - Tightening-up strings for kimonos (datejime)",
+      "conceptLink": "/ec2/concept/5959519"
+    }
+  },
+  {
+    "uri": "en/25/270830",
+    "id": "270830",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tights",
+    "harm": {
+      "id": "0057615",
+      "title": "270830 - Tights",
+      "conceptLink": "/ec2/concept/5999120"
+    }
+  },
+  {
+    "uri": "en/25/268670",
+    "id": "268670",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tips for footwear",
+    "harm": {
+      "id": "0011101",
+      "title": "268670 - Tips for footwear",
+      "conceptLink": "/ec2/concept/5961618"
+    }
+  },
+  {
+    "uri": "en/25/100555132",
+    "id": "100555132",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Toe boxes",
+    "harm": {
+      "id": "0067231",
+      "title": "100555132 - Toe boxes",
+      "conceptLink": "/ec2/concept/6003434"
+    }
+  },
+  {
+    "uri": "en/25/119542970",
+    "id": "119542970",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Toe straps for Japanese style wooden clogs",
+    "harm": {
+      "id": "0008160",
+      "title": "119542970 - Toe straps for Japanese style wooden clogs",
+      "conceptLink": "/ec2/concept/5958924"
+    }
+  },
+  {
+    "uri": "en/25/129847395",
+    "id": "129847395",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Toe straps for Japanese style sandals [zori]",
+    "harm": {
+      "id": "0067264",
+      "title": "129847395 - Toe straps for Japanese style sandals [zori]",
+      "conceptLink": "/ec2/concept/6003467"
+    }
+  },
+  {
+    "uri": "en/25/137902259",
+    "id": "137902259",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Toe straps for zori [Japanese style sandals]",
+    "harm": {
+      "id": "0067264",
+      "title": "137902259 - Toe straps for zori [Japanese style sandals]",
+      "conceptLink": "/ec2/concept/6003467"
+    }
+  },
+  {
+    "uri": "en/25/273165",
+    "id": "273165",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Togas",
+    "harm": {
+      "id": "0034802",
+      "title": "273165 - Togas",
+      "conceptLink": "/ec2/concept/5983298"
+    }
+  },
+  {
+    "uri": "en/25/907723",
+    "id": "907723",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tongues for shoes and boots",
+    "harm": {
+      "id": "0019305",
+      "title": "907723 - Tongues for shoes and boots",
+      "conceptLink": "/ec2/concept/5969133"
+    }
+  },
+  {
+    "uri": "en/25/272080",
+    "id": "272080",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Top coats",
+    "harm": {
+      "id": "0029016",
+      "title": "272080 - Top coats",
+      "conceptLink": "/ec2/concept/5978028"
+    }
+  },
+  {
+    "uri": "en/25/271685",
+    "id": "271685",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Top hats",
+    "harm": {
+      "id": "0002379",
+      "title": "271685 - Top hats",
+      "conceptLink": "/ec2/concept/5953629"
+    }
+  },
+  {
+    "uri": "en/25/272082",
+    "id": "272082",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Topcoats",
+    "harm": {
+      "id": "0029016",
+      "title": "272082 - Topcoats",
+      "conceptLink": "/ec2/concept/5978028"
+    }
+  },
+  {
+    "uri": "en/25/3263742",
+    "id": "3263742",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tops",
+    "harm": {
+      "id": "0013474",
+      "title": "3263742 - Tops",
+      "conceptLink": "/ec2/concept/5963788"
+    }
+  },
+  {
+    "uri": "en/25/907726",
+    "id": "907726",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tops [clothing]",
+    "harm": {
+      "id": "0013474",
+      "title": "907726 - Tops [clothing]",
+      "conceptLink": "/ec2/concept/5963788"
+    }
+  },
+  {
+    "uri": "en/25/599326",
+    "id": "599326",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Toques [hats]",
+    "harm": {
+      "id": "0041703",
+      "title": "599326 - Toques [hats]",
+      "conceptLink": "/ec2/concept/5989587"
+    }
+  },
+  {
+    "uri": "en/25/273675",
+    "id": "273675",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Track and field shoes",
+    "harm": {
+      "id": "0057639",
+      "title": "273675 - Track and field shoes",
+      "conceptLink": "/ec2/concept/5999144"
+    }
+  },
+  {
+    "uri": "en/25/355496",
+    "id": "355496",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Track pants",
+    "harm": {
+      "id": "0025907",
+      "title": "355496 - Track pants",
+      "conceptLink": "/ec2/concept/5975175"
+    }
+  },
+  {
+    "uri": "en/25/355298",
+    "id": "355298",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Track suits",
+    "harm": {
+      "id": "0058761",
+      "title": "355298 - Track suits",
+      "conceptLink": "/ec2/concept/6000252"
+    }
+  },
+  {
+    "uri": "en/25/355498",
+    "id": "355498",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tracksuit bottoms",
+    "harm": {
+      "id": "0030132",
+      "title": "355498 - Tracksuit bottoms",
+      "conceptLink": "/ec2/concept/5979045"
+    }
+  },
+  {
+    "uri": "en/25/599341",
+    "id": "599341",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tracksuit tops",
+    "harm": {
+      "id": "0001226",
+      "title": "599341 - Tracksuit tops",
+      "conceptLink": "/ec2/concept/5952593"
+    }
+  },
+  {
+    "uri": "en/25/355300",
+    "id": "355300",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tracksuits",
+    "harm": {
+      "id": "0058761",
+      "title": "355300 - Tracksuits",
+      "conceptLink": "/ec2/concept/6000252"
+    }
+  },
+  {
+    "uri": "en/25/355434",
+    "id": "355434",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trainers",
+    "harm": {
+      "id": "0057640",
+      "title": "355434 - Trainers",
+      "conceptLink": "/ec2/concept/5999145"
+    }
+  },
+  {
+    "uri": "en/25/273682",
+    "id": "273682",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trainers [footwear]",
+    "harm": {
+      "id": "0057640",
+      "title": "273682 - Trainers [footwear]",
+      "conceptLink": "/ec2/concept/5999145"
+    }
+  },
+  {
+    "uri": "en/25/355534",
+    "id": "355534",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Training shoes",
+    "harm": {
+      "id": "0057640",
+      "title": "355534 - Training shoes",
+      "conceptLink": "/ec2/concept/5999145"
+    }
+  },
+  {
+    "uri": "en/25/355299",
+    "id": "355299",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Training suits",
+    "harm": {
+      "id": "0058761",
+      "title": "355299 - Training suits",
+      "conceptLink": "/ec2/concept/6000252"
+    }
+  },
+  {
+    "uri": "en/25/907826",
+    "id": "907826",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trekking boots",
+    "harm": {
+      "id": "0018013",
+      "title": "907826 - Trekking boots",
+      "conceptLink": "/ec2/concept/5967943"
+    }
+  },
+  {
+    "uri": "en/25/272229",
+    "id": "272229",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trench coats",
+    "harm": {
+      "id": "0058254",
+      "title": "272229 - Trench coats",
+      "conceptLink": "/ec2/concept/5999753"
+    }
+  },
+  {
+    "uri": "en/25/272233",
+    "id": "272233",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trenchcoats",
+    "harm": {
+      "id": "0058254",
+      "title": "272233 - Trenchcoats",
+      "conceptLink": "/ec2/concept/5999753"
+    }
+  },
+  {
+    "uri": "en/25/599352",
+    "id": "599352",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trews",
+    "harm": {
+      "id": "0037168",
+      "title": "599352 - Trews",
+      "conceptLink": "/ec2/concept/5985445"
+    }
+  },
+  {
+    "uri": "en/25/120863018",
+    "id": "120863018",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Triathlon clothing",
+    "harm": {
+      "id": "0067156",
+      "title": "120863018 - Triathlon clothing",
+      "conceptLink": "/ec2/concept/6003359"
+    }
+  },
+  {
+    "uri": "en/25/131073069",
+    "id": "131073069",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trouser socks",
+    "harm": {
+      "id": "0056299",
+      "title": "131073069 - Trouser socks",
+      "conceptLink": "/ec2/concept/5997631"
+    }
+  },
+  {
+    "uri": "en/25/271915",
+    "id": "271915",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trouser straps",
+    "harm": {
+      "id": "0060263",
+      "title": "271915 - Trouser straps",
+      "conceptLink": "/ec2/concept/5998243"
+    }
+  },
+  {
+    "uri": "en/25/269094",
+    "id": "269094",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trousers",
+    "harm": {
+      "id": "0058866",
+      "title": "269094 - Trousers",
+      "conceptLink": "/ec2/concept/6000357"
+    }
+  },
+  {
+    "uri": "en/25/353736",
+    "id": "353736",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trousers for children",
+    "harm": {
+      "id": "0008166",
+      "title": "353736 - Trousers for children",
+      "conceptLink": "/ec2/concept/5958929"
+    }
+  },
+  {
+    "uri": "en/25/355497",
+    "id": "355497",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trousers for sweating",
+    "harm": {
+      "id": "0025907",
+      "title": "355497 - Trousers for sweating",
+      "conceptLink": "/ec2/concept/5975175"
+    }
+  },
+  {
+    "uri": "en/25/354091",
+    "id": "354091",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trousers of leather",
+    "harm": {
+      "id": "0025570",
+      "title": "354091 - Trousers of leather",
+      "conceptLink": "/ec2/concept/5974870"
+    }
+  },
+  {
+    "uri": "en/25/271207",
+    "id": "271207",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trousers shorts",
+    "harm": {
+      "id": "0014046",
+      "title": "271207 - Trousers shorts",
+      "conceptLink": "/ec2/concept/5964309"
+    }
+  },
+  {
+    "uri": "en/25/271210",
+    "id": "271210",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trunks",
+    "harm": {
+      "id": "0042922",
+      "title": "271210 - Trunks",
+      "conceptLink": "/ec2/concept/5990690"
+    }
+  },
+  {
+    "uri": "en/25/273444",
+    "id": "273444",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trunks (Bathing -)",
+    "harm": {
+      "id": "0037342",
+      "title": "273444 - Trunks (Bathing -)",
+      "conceptLink": "/ec2/concept/5985601"
+    }
+  },
+  {
+    "uri": "en/25/119697313",
+    "id": "119697313",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Trunks [underwear]",
+    "harm": {
+      "id": "0058868",
+      "title": "119697313 - Trunks [underwear]",
+      "conceptLink": "/ec2/concept/6000359"
+    }
+  },
+  {
+    "uri": "en/25/21918457",
+    "id": "21918457",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tube tops",
+    "harm": {
+      "id": "0067155",
+      "title": "21918457 - Tube tops",
+      "conceptLink": "/ec2/concept/6003358"
+    }
+  },
+  {
+    "uri": "en/25/599364",
+    "id": "599364",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tunics",
+    "harm": {
+      "id": "0019878",
+      "title": "599364 - Tunics",
+      "conceptLink": "/ec2/concept/5969650"
+    }
+  },
+  {
+    "uri": "en/25/274470",
+    "id": "274470",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turbans",
+    "harm": {
+      "id": "0044879",
+      "title": "274470 - Turbans",
+      "conceptLink": "/ec2/concept/5992488"
+    }
+  },
+  {
+    "uri": "en/25/907843",
+    "id": "907843",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turtleneck pullovers",
+    "harm": {
+      "id": "0057516",
+      "title": "907843 - Turtleneck pullovers",
+      "conceptLink": "/ec2/concept/5999022"
+    }
+  },
+  {
+    "uri": "en/25/43101208",
+    "id": "43101208",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turtleneck shirts",
+    "harm": {
+      "id": "0071144",
+      "title": "43101208 - Turtleneck shirts",
+      "conceptLink": "/ec2/concept/6007336"
+    }
+  },
+  {
+    "uri": "en/25/599381",
+    "id": "599381",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turtleneck sweaters",
+    "harm": {
+      "id": "0057516",
+      "title": "599381 - Turtleneck sweaters",
+      "conceptLink": "/ec2/concept/5999022"
+    }
+  },
+  {
+    "uri": "en/25/120815552",
+    "id": "120815552",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turtleneck tops",
+    "harm": {
+      "id": "0057517",
+      "title": "120815552 - Turtleneck tops",
+      "conceptLink": "/ec2/concept/5999023"
+    }
+  },
+  {
+    "uri": "en/25/599382",
+    "id": "599382",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Turtlenecks",
+    "harm": {
+      "id": "0057517",
+      "title": "599382 - Turtlenecks",
+      "conceptLink": "/ec2/concept/5999023"
+    }
+  },
+  {
+    "uri": "en/25/26559221",
+    "id": "26559221",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Tutus",
+    "harm": {
+      "id": "0050375",
+      "title": "26559221 - Tutus",
+      "conceptLink": "/ec2/concept/5995550"
+    }
+  }
+]

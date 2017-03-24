@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/331052",
+    "id": "331052",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Point-of-sale terminals",
+    "harm": {
+      "id": "0046865",
+      "title": "331052 - Point-of-sale terminals",
+      "conceptLink": "/ec2/concept/5994258"
+    }
+  },
+  {
+    "uri": "en/9/120918918",
+    "id": "120918918",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Point-to-point communications equipment",
+    "harm": {
+      "id": "0047759",
+      "title": "120918918 - Point-to-point communications equipment",
+      "conceptLink": "/ec2/concept/5995034"
+    }
+  },
+  {
+    "uri": "en/9/545950",
+    "id": "545950",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Point-to-point receivers",
+    "harm": {
+      "id": "0040113",
+      "title": "545950 - Point-to-point receivers",
+      "conceptLink": "/ec2/concept/5988136"
+    }
+  },
+  {
+    "uri": "en/9/545964",
+    "id": "545964",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Point-to-point transmitters",
+    "harm": {
+      "id": "0011247",
+      "title": "545964 - Point-to-point transmitters",
+      "conceptLink": "/ec2/concept/5961751"
+    }
+  },
+  {
+    "uri": "en/9/162393",
+    "id": "162393",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pointers (Light-emitting electronic -)",
+    "harm": {
+      "id": "0001600",
+      "title": "162393 - Pointers (Light-emitting electronic -)",
+      "conceptLink": "/ec2/concept/5952927"
+    }
+  },
+  {
+    "uri": "en/9/152825",
+    "id": "152825",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarimeters",
+    "harm": {
+      "id": "0020026",
+      "title": "152825 - Polarimeters",
+      "conceptLink": "/ec2/concept/5969782"
+    }
+  },
+  {
+    "uri": "en/9/119530262",
+    "id": "119530262",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarisation maintaining optical fibres",
+    "harm": {
+      "id": "0055819",
+      "title": "119530262 - Polarisation maintaining optical fibres",
+      "conceptLink": "/ec2/concept/5997200"
+    }
+  },
+  {
+    "uri": "en/9/545976",
+    "id": "545976",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarization filters",
+    "harm": {
+      "id": "0040114",
+      "title": "545976 - Polarization filters",
+      "conceptLink": "/ec2/concept/5988137"
+    }
+  },
+  {
+    "uri": "en/9/120917106",
+    "id": "120917106",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarization-maintaining optical fibers",
+    "harm": {
+      "id": "0055819",
+      "title": "120917106 - Polarization-maintaining optical fibers",
+      "conceptLink": "/ec2/concept/5997200"
+    }
+  },
+  {
+    "uri": "en/9/331090",
+    "id": "331090",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarizing microscopes",
+    "harm": {
+      "id": "0023366",
+      "title": "331090 - Polarizing microscopes",
+      "conceptLink": "/ec2/concept/5972841"
+    }
+  },
+  {
+    "uri": "en/9/331110",
+    "id": "331110",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polarizing spectacles",
+    "harm": {
+      "id": "0005999",
+      "title": "331110 - Polarizing spectacles",
+      "conceptLink": "/ec2/concept/5956948"
+    }
+  },
+  {
+    "uri": "en/9/331125",
+    "id": "331125",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pollutant sensors",
+    "harm": {
+      "id": "0040658",
+      "title": "331125 - Pollutant sensors",
+      "conceptLink": "/ec2/concept/5988637"
+    }
+  },
+  {
+    "uri": "en/9/891727",
+    "id": "891727",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polyethylene measuring cups",
+    "harm": {
+      "id": "0002447",
+      "title": "891727 - Polyethylene measuring cups",
+      "conceptLink": "/ec2/concept/5953691"
+    }
+  },
+  {
+    "uri": "en/9/119530267",
+    "id": "119530267",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polygraph machines",
+    "harm": {
+      "id": "0055820",
+      "title": "119530267 - Polygraph machines",
+      "conceptLink": "/ec2/concept/5997201"
+    }
+  },
+  {
+    "uri": "en/9/120896082",
+    "id": "120896082",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Polymer light-emitting diodes",
+    "harm": {
+      "id": "0065698",
+      "title": "120896082 - Polymer light-emitting diodes",
+      "conceptLink": "/ec2/concept/6001901"
+    }
+  },
+  {
+    "uri": "en/9/545989",
+    "id": "545989",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pool alarms",
+    "harm": {
+      "id": "0034364",
+      "title": "545989 - Pool alarms",
+      "conceptLink": "/ec2/concept/5982904"
+    }
+  },
+  {
+    "uri": "en/9/546005",
+    "id": "546005",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Port sharing printer controllers",
+    "harm": {
+      "id": "0022917",
+      "title": "546005 - Port sharing printer controllers",
+      "conceptLink": "/ec2/concept/5972432"
+    }
+  },
+  {
+    "uri": "en/9/546018",
+    "id": "546018",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Port sharing printers",
+    "harm": {
+      "id": "0007656",
+      "title": "546018 - Port sharing printers",
+      "conceptLink": "/ec2/concept/5958462"
+    }
+  },
+  {
+    "uri": "en/9/232623725",
+    "id": "232623725",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable CD players",
+    "harm": {
+      "id": "0072105",
+      "title": "232623725 - Portable CD players",
+      "conceptLink": "/ec2/concept/6008288"
+    }
+  },
+  {
+    "uri": "en/9/201359295",
+    "id": "201359295",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable charging cases for electronic cigarettes and vaporizers",
+    "harm": {
+      "id": "0073250",
+      "title": "201359295 - Portable charging cases for electronic cigarettes and vaporizers",
+      "conceptLink": "/ec2/concept/6009423"
+    }
+  },
+  {
+    "uri": "en/9/3235282",
+    "id": "3235282",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable communications apparatus",
+    "harm": {
+      "id": "0070795",
+      "title": "3235282 - Portable communications apparatus",
+      "conceptLink": "/ec2/concept/6006987"
+    }
+  },
+  {
+    "uri": "en/9/151876",
+    "id": "151876",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable computers",
+    "harm": {
+      "id": "0047467",
+      "title": "151876 - Portable computers",
+      "conceptLink": "/ec2/concept/5994775"
+    }
+  },
+  {
+    "uri": "en/9/20758530",
+    "id": "20758530",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable digital electronic scales",
+    "harm": {
+      "id": "0065942",
+      "title": "20758530 - Portable digital electronic scales",
+      "conceptLink": "/ec2/concept/6002145"
+    }
+  },
+  {
+    "uri": "en/9/4743792",
+    "id": "4743792",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable DVD players",
+    "harm": {
+      "id": "0065899",
+      "title": "4743792 - Portable DVD players",
+      "conceptLink": "/ec2/concept/6002102"
+    }
+  },
+  {
+    "uri": "en/9/120896859",
+    "id": "120896859",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable fax machines",
+    "harm": {
+      "id": "0065728",
+      "title": "120896859 - Portable fax machines",
+      "conceptLink": "/ec2/concept/6001931"
+    }
+  },
+  {
+    "uri": "en/9/120901573",
+    "id": "120901573",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable flash memory devices",
+    "harm": {
+      "id": "0065974",
+      "title": "120901573 - Portable flash memory devices",
+      "conceptLink": "/ec2/concept/6002177"
+    }
+  },
+  {
+    "uri": "en/9/546032",
+    "id": "546032",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable gauging tapes",
+    "harm": {
+      "id": "0036634",
+      "title": "546032 - Portable gauging tapes",
+      "conceptLink": "/ec2/concept/5984962"
+    }
+  },
+  {
+    "uri": "en/9/47716732",
+    "id": "47716732",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable hard disk drives for computers",
+    "harm": {
+      "id": "0071476",
+      "title": "47716732 - Portable hard disk drives for computers",
+      "conceptLink": "/ec2/concept/6007667"
+    }
+  },
+  {
+    "uri": "en/9/909963",
+    "id": "909963",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable media players",
+    "harm": {
+      "id": "0026389",
+      "title": "909963 - Portable media players",
+      "conceptLink": "/ec2/concept/5975617"
+    }
+  },
+  {
+    "uri": "en/9/131042632",
+    "id": "131042632",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable multimedia players [PMPs]",
+    "harm": {
+      "id": "0026389",
+      "title": "131042632 - Portable multimedia players [PMPs]",
+      "conceptLink": "/ec2/concept/5975617"
+    }
+  },
+  {
+    "uri": "en/9/24022192",
+    "id": "24022192",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable multimedia players",
+    "harm": {
+      "id": "0026389",
+      "title": "24022192 - Portable multimedia players",
+      "conceptLink": "/ec2/concept/5975617"
+    }
+  },
+  {
+    "uri": "en/9/2159456",
+    "id": "2159456",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable music players",
+    "harm": {
+      "id": "0070565",
+      "title": "2159456 - Portable music players",
+      "conceptLink": "/ec2/concept/6006757"
+    }
+  },
+  {
+    "uri": "en/9/546044",
+    "id": "546044",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable radio cassette players",
+    "harm": {
+      "id": "0036635",
+      "title": "546044 - Portable radio cassette players",
+      "conceptLink": "/ec2/concept/5984963"
+    }
+  },
+  {
+    "uri": "en/9/331139",
+    "id": "331139",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable radios",
+    "harm": {
+      "id": "0017524",
+      "title": "331139 - Portable radios",
+      "conceptLink": "/ec2/concept/5967498"
+    }
+  },
+  {
+    "uri": "en/9/546059",
+    "id": "546059",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable road hazard warning cones [luminous]",
+    "harm": {
+      "id": "0001926",
+      "title": "546059 - Portable road hazard warning cones [luminous]",
+      "conceptLink": "/ec2/concept/5953218"
+    }
+  },
+  {
+    "uri": "en/9/546073",
+    "id": "546073",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable road hazard warning cones [mechanical]",
+    "harm": {
+      "id": "0007657",
+      "title": "546073 - Portable road hazard warning cones [mechanical]",
+      "conceptLink": "/ec2/concept/5958463"
+    }
+  },
+  {
+    "uri": "en/9/400319",
+    "id": "400319",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable solar panels for generating electricity",
+    "harm": {
+      "id": "0007728",
+      "title": "400319 - Portable solar panels for generating electricity",
+      "conceptLink": "/ec2/concept/5958529"
+    }
+  },
+  {
+    "uri": "en/9/546087",
+    "id": "546087",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable sound recording apparatus",
+    "harm": {
+      "id": "0007658",
+      "title": "546087 - Portable sound recording apparatus",
+      "conceptLink": "/ec2/concept/5958464"
+    }
+  },
+  {
+    "uri": "en/9/546100",
+    "id": "546100",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable sound reproducing apparatus",
+    "harm": {
+      "id": "0036636",
+      "title": "546100 - Portable sound reproducing apparatus",
+      "conceptLink": "/ec2/concept/5984964"
+    }
+  },
+  {
+    "uri": "en/9/28889127",
+    "id": "28889127",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable speakers",
+    "harm": {
+      "id": "0070566",
+      "title": "28889127 - Portable speakers",
+      "conceptLink": "/ec2/concept/6006758"
+    }
+  },
+  {
+    "uri": "en/9/543277",
+    "id": "543277",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable telecommunications apparatus",
+    "harm": {
+      "id": "0030813",
+      "title": "543277 - Portable telecommunications apparatus",
+      "conceptLink": "/ec2/concept/5979680"
+    }
+  },
+  {
+    "uri": "en/9/161448",
+    "id": "161448",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable telephones",
+    "harm": {
+      "id": "0006968",
+      "title": "161448 - Portable telephones",
+      "conceptLink": "/ec2/concept/5957833"
+    }
+  },
+  {
+    "uri": "en/9/546112",
+    "id": "546112",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable test apparatus",
+    "harm": {
+      "id": "0036637",
+      "title": "546112 - Portable test apparatus",
+      "conceptLink": "/ec2/concept/5984965"
+    }
+  },
+  {
+    "uri": "en/9/546127",
+    "id": "546127",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable transmitters",
+    "harm": {
+      "id": "0042385",
+      "title": "546127 - Portable transmitters",
+      "conceptLink": "/ec2/concept/5990210"
+    }
+  },
+  {
+    "uri": "en/9/119530283",
+    "id": "119530283",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable vibration speakers",
+    "harm": {
+      "id": "0051594",
+      "title": "119530283 - Portable vibration speakers",
+      "conceptLink": "/ec2/concept/6010580"
+    }
+  },
+  {
+    "uri": "en/9/1707716",
+    "id": "1707716",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Portable video cameras with built-in videocassette recorders",
+    "harm": {
+      "id": "0055822",
+      "title": "1707716 - Portable video cameras with built-in videocassette recorders",
+      "conceptLink": "/ec2/concept/5997202"
+    }
+  },
+  {
+    "uri": "en/9/233003763",
+    "id": "233003763",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Position determining sensors",
+    "harm": {
+      "id": "0060511",
+      "title": "233003763 - Position determining sensors",
+      "conceptLink": "/ec2/concept/5998484"
+    }
+  },
+  {
+    "uri": "en/9/546142",
+    "id": "546142",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Position fixing apparatus",
+    "harm": {
+      "id": "0013505",
+      "title": "546142 - Position fixing apparatus",
+      "conceptLink": "/ec2/concept/5963814"
+    }
+  },
+  {
+    "uri": "en/9/233003762",
+    "id": "233003762",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Position fixing sensors",
+    "harm": {
+      "id": "0060511",
+      "title": "233003762 - Position fixing sensors",
+      "conceptLink": "/ec2/concept/5998484"
+    }
+  },
+  {
+    "uri": "en/9/50003834",
+    "id": "50003834",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Position sensors",
+    "harm": {
+      "id": "0060511",
+      "title": "50003834 - Position sensors",
+      "conceptLink": "/ec2/concept/5998484"
+    }
+  },
+  {
+    "uri": "en/9/546154",
+    "id": "546154",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Positive displacement meters",
+    "harm": {
+      "id": "0013506",
+      "title": "546154 - Positive displacement meters",
+      "conceptLink": "/ec2/concept/5963815"
+    }
+  },
+  {
+    "uri": "en/9/546179",
+    "id": "546179",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Postage scales",
+    "harm": {
+      "id": "0025089",
+      "title": "546179 - Postage scales",
+      "conceptLink": "/ec2/concept/5974430"
+    }
+  },
+  {
+    "uri": "en/9/546194",
+    "id": "546194",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pouches for cinematographic apparatus",
+    "harm": {
+      "id": "0040362",
+      "title": "546194 - Pouches for cinematographic apparatus",
+      "conceptLink": "/ec2/concept/5988362"
+    }
+  },
+  {
+    "uri": "en/9/546207",
+    "id": "546207",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pouches for optical apparatus",
+    "harm": {
+      "id": "0046086",
+      "title": "546207 - Pouches for optical apparatus",
+      "conceptLink": "/ec2/concept/5993597"
+    }
+  },
+  {
+    "uri": "en/9/546220",
+    "id": "546220",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pouches for photographic apparatus",
+    "harm": {
+      "id": "0024299",
+      "title": "546220 - Pouches for photographic apparatus",
+      "conceptLink": "/ec2/concept/5973704"
+    }
+  },
+  {
+    "uri": "en/9/400347",
+    "id": "400347",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power adapters",
+    "harm": {
+      "id": "0058371",
+      "title": "400347 - Power adapters",
+      "conceptLink": "/ec2/concept/5999870"
+    }
+  },
+  {
+    "uri": "en/9/400346",
+    "id": "400346",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power adaptors",
+    "harm": {
+      "id": "0058371",
+      "title": "400346 - Power adaptors",
+      "conceptLink": "/ec2/concept/5999870"
+    }
+  },
+  {
+    "uri": "en/9/331161",
+    "id": "331161",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power amplifiers",
+    "harm": {
+      "id": "0023367",
+      "title": "331161 - Power amplifiers",
+      "conceptLink": "/ec2/concept/5972842"
+    }
+  },
+  {
+    "uri": "en/9/546232",
+    "id": "546232",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power analyzers",
+    "harm": {
+      "id": "0026926",
+      "title": "546232 - Power analyzers",
+      "conceptLink": "/ec2/concept/5976100"
+    }
+  },
+  {
+    "uri": "en/9/137493088",
+    "id": "137493088",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power banks",
+    "harm": {
+      "id": "0060780",
+      "title": "137493088 - Power banks",
+      "conceptLink": "/ec2/concept/6001100"
+    }
+  },
+  {
+    "uri": "en/9/328263",
+    "id": "328263",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power cables",
+    "harm": {
+      "id": "0059121",
+      "title": "328263 - Power cables",
+      "conceptLink": "/ec2/concept/6000612"
+    }
+  },
+  {
+    "uri": "en/9/143238",
+    "id": "143238",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power capacitors",
+    "harm": {
+      "id": "0031001",
+      "title": "143238 - Power capacitors",
+      "conceptLink": "/ec2/concept/5979847"
+    }
+  },
+  {
+    "uri": "en/9/546245",
+    "id": "546245",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power conditioners",
+    "harm": {
+      "id": "0005730",
+      "title": "546245 - Power conditioners",
+      "conceptLink": "/ec2/concept/5956705"
+    }
+  },
+  {
+    "uri": "en/9/397602",
+    "id": "397602",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power conditioning apparatus",
+    "harm": {
+      "id": "0005731",
+      "title": "397602 - Power conditioning apparatus",
+      "conceptLink": "/ec2/concept/5956706"
+    }
+  },
+  {
+    "uri": "en/9/906135",
+    "id": "906135",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power connectors",
+    "harm": {
+      "id": "0004000",
+      "title": "906135 - Power connectors",
+      "conceptLink": "/ec2/concept/5955105"
+    }
+  },
+  {
+    "uri": "en/9/144227",
+    "id": "144227",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power controllers",
+    "harm": {
+      "id": "0002158",
+      "title": "144227 - Power controllers",
+      "conceptLink": "/ec2/concept/5953427"
+    }
+  },
+  {
+    "uri": "en/9/397603",
+    "id": "397603",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power controlling apparatus[electric]",
+    "harm": {
+      "id": "0029685",
+      "title": "397603 - Power controlling apparatus[electric]",
+      "conceptLink": "/ec2/concept/5978638"
+    }
+  },
+  {
+    "uri": "en/9/22466139",
+    "id": "22466139",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power distributing boxes",
+    "harm": {
+      "id": "0055823",
+      "title": "22466139 - Power distributing boxes",
+      "conceptLink": "/ec2/concept/5997203"
+    }
+  },
+  {
+    "uri": "en/9/534298",
+    "id": "534298",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power distributors [electrical]",
+    "harm": {
+      "id": "0040364",
+      "title": "534298 - Power distributors [electrical]",
+      "conceptLink": "/ec2/concept/5988363"
+    }
+  },
+  {
+    "uri": "en/9/546261",
+    "id": "546261",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power dividers [electric]",
+    "harm": {
+      "id": "0046087",
+      "title": "546261 - Power dividers [electric]",
+      "conceptLink": "/ec2/concept/5993598"
+    }
+  },
+  {
+    "uri": "en/9/400387",
+    "id": "400387",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power line conditioners",
+    "harm": {
+      "id": "0030877",
+      "title": "400387 - Power line conditioners",
+      "conceptLink": "/ec2/concept/5979739"
+    }
+  },
+  {
+    "uri": "en/9/546291",
+    "id": "546291",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power line protectors",
+    "harm": {
+      "id": "0028801",
+      "title": "546291 - Power line protectors",
+      "conceptLink": "/ec2/concept/5977831"
+    }
+  },
+  {
+    "uri": "en/9/136318202",
+    "id": "136318202",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power-line transmission apparatus",
+    "harm": {
+      "id": "0050830",
+      "title": "136318202 - Power-line transmission apparatus",
+      "conceptLink": "/ec2/concept/5996194"
+    }
+  },
+  {
+    "uri": "en/9/397669",
+    "id": "397669",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power meters",
+    "harm": {
+      "id": "0046526",
+      "title": "397669 - Power meters",
+      "conceptLink": "/ec2/concept/5993964"
+    }
+  },
+  {
+    "uri": "en/9/120863700",
+    "id": "120863700",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power mixers [audio apparatus]",
+    "harm": {
+      "id": "0070924",
+      "title": "120863700 - Power mixers [audio apparatus]",
+      "conceptLink": "/ec2/concept/6007116"
+    }
+  },
+  {
+    "uri": "en/9/546303",
+    "id": "546303",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power modules",
+    "harm": {
+      "id": "0009574",
+      "title": "546303 - Power modules",
+      "conceptLink": "/ec2/concept/5960222"
+    }
+  },
+  {
+    "uri": "en/9/546316",
+    "id": "546316",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power packs [batteries]",
+    "harm": {
+      "id": "0009575",
+      "title": "546316 - Power packs [batteries]",
+      "conceptLink": "/ec2/concept/5960223"
+    }
+  },
+  {
+    "uri": "en/9/546329",
+    "id": "546329",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power packs [transformers]",
+    "harm": {
+      "id": "0038481",
+      "title": "546329 - Power packs [transformers]",
+      "conceptLink": "/ec2/concept/5986646"
+    }
+  },
+  {
+    "uri": "en/9/546342",
+    "id": "546342",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power regulating apparatus",
+    "harm": {
+      "id": "0003831",
+      "title": "546342 - Power regulating apparatus",
+      "conceptLink": "/ec2/concept/5954956"
+    }
+  },
+  {
+    "uri": "en/9/546358",
+    "id": "546358",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power relays",
+    "harm": {
+      "id": "0021294",
+      "title": "546358 - Power relays",
+      "conceptLink": "/ec2/concept/5970946"
+    }
+  },
+  {
+    "uri": "en/9/546379",
+    "id": "546379",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power sources connected to audio apparatus for use in motor vehicles",
+    "harm": {
+      "id": "0009576",
+      "title": "546379 - Power sources connected to audio apparatus for use in motor vehicles",
+      "conceptLink": "/ec2/concept/5960224"
+    }
+  },
+  {
+    "uri": "en/9/333094",
+    "id": "333094",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power stabilisers",
+    "harm": {
+      "id": "0059008",
+      "title": "333094 - Power stabilisers",
+      "conceptLink": "/ec2/concept/6000499"
+    }
+  },
+  {
+    "uri": "en/9/120916957",
+    "id": "120916957",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power strips with movable sockets",
+    "harm": {
+      "id": "0066092",
+      "title": "120916957 - Power strips with movable sockets",
+      "conceptLink": "/ec2/concept/6002295"
+    }
+  },
+  {
+    "uri": "en/9/232623850",
+    "id": "232623850",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power supplies for smartphones",
+    "harm": {
+      "id": "0072128",
+      "title": "232623850 - Power supplies for smartphones",
+      "conceptLink": "/ec2/concept/6008311"
+    }
+  },
+  {
+    "uri": "en/9/331185",
+    "id": "331185",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power switches",
+    "harm": {
+      "id": "0034766",
+      "title": "331185 - Power switches",
+      "conceptLink": "/ec2/concept/5983264"
+    }
+  },
+  {
+    "uri": "en/9/397426",
+    "id": "397426",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power testers",
+    "harm": {
+      "id": "0026926",
+      "title": "397426 - Power testers",
+      "conceptLink": "/ec2/concept/5976100"
+    }
+  },
+  {
+    "uri": "en/9/68842490",
+    "id": "68842490",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power transformers for amplification",
+    "harm": {
+      "id": "0055824",
+      "title": "68842490 - Power transformers for amplification",
+      "conceptLink": "/ec2/concept/5997204"
+    }
+  },
+  {
+    "uri": "en/9/546389",
+    "id": "546389",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power units [batteries]",
+    "harm": {
+      "id": "0003832",
+      "title": "546389 - Power units [batteries]",
+      "conceptLink": "/ec2/concept/5954957"
+    }
+  },
+  {
+    "uri": "en/9/546403",
+    "id": "546403",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power units [transformers]",
+    "harm": {
+      "id": "0021295",
+      "title": "546403 - Power units [transformers]",
+      "conceptLink": "/ec2/concept/5970947"
+    }
+  },
+  {
+    "uri": "en/9/20081113",
+    "id": "20081113",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Power wires",
+    "harm": {
+      "id": "0070908",
+      "title": "20081113 - Power wires",
+      "conceptLink": "/ec2/concept/6007100"
+    }
+  },
+  {
+    "uri": "en/9/546420",
+    "id": "546420",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-programmed discs",
+    "harm": {
+      "id": "0015424",
+      "title": "546420 - Pre-programmed discs",
+      "conceptLink": "/ec2/concept/5965579"
+    }
+  },
+  {
+    "uri": "en/9/546443",
+    "id": "546443",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-programmed tapes",
+    "harm": {
+      "id": "0021296",
+      "title": "546443 - Pre-programmed tapes",
+      "conceptLink": "/ec2/concept/5970948"
+    }
+  },
+  {
+    "uri": "en/9/233107944",
+    "id": "233107944",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded audio cassettes featuring music",
+    "harm": {
+      "id": "0046440",
+      "title": "233107944 - Pre-recorded audio cassettes featuring music",
+      "conceptLink": "/ec2/concept/5993891"
+    }
+  },
+  {
+    "uri": "en/9/546466",
+    "id": "546466",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded audio tapes",
+    "harm": {
+      "id": "0038482",
+      "title": "546466 - Pre-recorded audio tapes",
+      "conceptLink": "/ec2/concept/5986647"
+    }
+  },
+  {
+    "uri": "en/9/233113726",
+    "id": "233113726",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded audio tapes featuring games",
+    "harm": {
+      "id": "0072725",
+      "title": "233113726 - Pre-recorded audio tapes featuring games",
+      "conceptLink": "/ec2/concept/6008902"
+    }
+  },
+  {
+    "uri": "en/9/546464",
+    "id": "546464",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded cassettes",
+    "harm": {
+      "id": "0046440",
+      "title": "546464 - Pre-recorded cassettes",
+      "conceptLink": "/ec2/concept/5993891"
+    }
+  },
+  {
+    "uri": "en/9/7210830",
+    "id": "7210830",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded CDs",
+    "harm": {
+      "id": "0028307",
+      "title": "7210830 - Pre-recorded CDs",
+      "conceptLink": "/ec2/concept/5977366"
+    }
+  },
+  {
+    "uri": "en/9/110884597",
+    "id": "110884597",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded CDs featuring music",
+    "harm": {
+      "id": "0028307",
+      "title": "110884597 - Pre-recorded CDs featuring music",
+      "conceptLink": "/ec2/concept/5977366"
+    }
+  },
+  {
+    "uri": "en/9/546502",
+    "id": "546502",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded cinematographic films",
+    "harm": {
+      "id": "0047081",
+      "title": "546502 - Pre-recorded cinematographic films",
+      "conceptLink": "/ec2/concept/5994458"
+    }
+  },
+  {
+    "uri": "en/9/546539",
+    "id": "546539",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Pre-recorded compact discs",
+    "harm": {
+      "id": "0028307",
+      "title": "546539 - Pre-recorded compact discs",
+      "conceptLink": "/ec2/concept/5977366"
+    }
+  }
+]

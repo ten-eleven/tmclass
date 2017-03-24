@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/124308",
+    "id": "124308",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seed drills [machines]",
+    "harm": {
+      "id": "0040709",
+      "title": "124308 - Seed drills [machines]",
+      "conceptLink": "/ec2/concept/5988685"
+    }
+  },
+  {
+    "uri": "en/7/694115",
+    "id": "694115",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seed drills [parts of machines]",
+    "harm": {
+      "id": "0032463",
+      "title": "694115 - Seed drills [parts of machines]",
+      "conceptLink": "/ec2/concept/5981164"
+    }
+  },
+  {
+    "uri": "en/7/694130",
+    "id": "694130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Seedling processing machines",
+    "harm": {
+      "id": "0026683",
+      "title": "694130 - Seedling processing machines",
+      "conceptLink": "/ec2/concept/5975882"
+    }
+  },
+  {
+    "uri": "en/7/694143",
+    "id": "694143",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Segmental saw blades for machines",
+    "harm": {
+      "id": "0032464",
+      "title": "694143 - Segmental saw blades for machines",
+      "conceptLink": "/ec2/concept/5981165"
+    }
+  },
+  {
+    "uri": "en/7/124629130",
+    "id": "124629130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Segments (Brake -) for machines",
+    "harm": {
+      "id": "0013598",
+      "title": "124629130 - Segments (Brake -) for machines",
+      "conceptLink": "/ec2/concept/5963894"
+    }
+  },
+  {
+    "uri": "en/7/694188",
+    "id": "694188",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-centring chucks [parts of machines]",
+    "harm": {
+      "id": "0032465",
+      "title": "694188 - Self-centring chucks [parts of machines]",
+      "conceptLink": "/ec2/concept/5981166"
+    }
+  },
+  {
+    "uri": "en/7/694231",
+    "id": "694231",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-driven machines for screwing",
+    "harm": {
+      "id": "0021042",
+      "title": "694231 - Self-driven machines for screwing",
+      "conceptLink": "/ec2/concept/5970715"
+    }
+  },
+  {
+    "uri": "en/7/694218",
+    "id": "694218",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-driven machines for sawing",
+    "harm": {
+      "id": "0032467",
+      "title": "694218 - Self-driven machines for sawing",
+      "conceptLink": "/ec2/concept/5981168"
+    }
+  },
+  {
+    "uri": "en/7/694204",
+    "id": "694204",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-driven machines for drilling",
+    "harm": {
+      "id": "0032466",
+      "title": "694204 - Self-driven machines for drilling",
+      "conceptLink": "/ec2/concept/5981167"
+    }
+  },
+  {
+    "uri": "en/7/694247",
+    "id": "694247",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-lubricating bearings for use in aircraft engines",
+    "harm": {
+      "id": "0044020",
+      "title": "694247 - Self-lubricating bearings for use in aircraft engines",
+      "conceptLink": "/ec2/concept/5991696"
+    }
+  },
+  {
+    "uri": "en/7/694246",
+    "id": "694246",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-lubricating bearings for use in aerospace engines",
+    "harm": {
+      "id": "0044020",
+      "title": "694246 - Self-lubricating bearings for use in aerospace engines",
+      "conceptLink": "/ec2/concept/5991696"
+    }
+  },
+  {
+    "uri": "en/7/112041",
+    "id": "112041",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-oiling bearings",
+    "harm": {
+      "id": "0023379",
+      "title": "112041 - Self-oiling bearings",
+      "conceptLink": "/ec2/concept/5972854"
+    }
+  },
+  {
+    "uri": "en/7/694272",
+    "id": "694272",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-priming centrifugal pumps",
+    "harm": {
+      "id": "0015208",
+      "title": "694272 - Self-priming centrifugal pumps",
+      "conceptLink": "/ec2/concept/5965382"
+    }
+  },
+  {
+    "uri": "en/7/694285",
+    "id": "694285",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled cranes",
+    "harm": {
+      "id": "0021043",
+      "title": "694285 - Self-propelled cranes",
+      "conceptLink": "/ec2/concept/5970716"
+    }
+  },
+  {
+    "uri": "en/7/694299",
+    "id": "694299",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled hydraulic platforms",
+    "harm": {
+      "id": "0038288",
+      "title": "694299 - Self-propelled hydraulic platforms",
+      "conceptLink": "/ec2/concept/5986466"
+    }
+  },
+  {
+    "uri": "en/7/694311",
+    "id": "694311",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled mowers",
+    "harm": {
+      "id": "0032468",
+      "title": "694311 - Self-propelled mowers",
+      "conceptLink": "/ec2/concept/5981169"
+    }
+  },
+  {
+    "uri": "en/7/694325",
+    "id": "694325",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled road surface dressing vehicles",
+    "harm": {
+      "id": "0026684",
+      "title": "694325 - Self-propelled road surface dressing vehicles",
+      "conceptLink": "/ec2/concept/5975883"
+    }
+  },
+  {
+    "uri": "en/7/112366",
+    "id": "112366",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled road sweeping machines",
+    "harm": {
+      "id": "0037106",
+      "title": "112366 - Self-propelled road sweeping machines",
+      "conceptLink": "/ec2/concept/5985388"
+    }
+  },
+  {
+    "uri": "en/7/694338",
+    "id": "694338",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled working baskets",
+    "harm": {
+      "id": "0021044",
+      "title": "694338 - Self-propelled working baskets",
+      "conceptLink": "/ec2/concept/5970717"
+    }
+  },
+  {
+    "uri": "en/7/694350",
+    "id": "694350",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-propelled working platforms",
+    "harm": {
+      "id": "0026685",
+      "title": "694350 - Self-propelled working platforms",
+      "conceptLink": "/ec2/concept/5975884"
+    }
+  },
+  {
+    "uri": "en/7/912774",
+    "id": "912774",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-regulating fuel pumps",
+    "harm": {
+      "id": "0003651",
+      "title": "912774 - Self-regulating fuel pumps",
+      "conceptLink": "/ec2/concept/5954791"
+    }
+  },
+  {
+    "uri": "en/7/694362",
+    "id": "694362",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Self-regulating pumps [other than for the delivery of fuel at filling stations]",
+    "harm": {
+      "id": "0021045",
+      "title": "694362 - Self-regulating pumps [other than for the delivery of fuel at filling stations]",
+      "conceptLink": "/ec2/concept/5970718"
+    }
+  },
+  {
+    "uri": "en/7/694388",
+    "id": "694388",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semi-automatic case gluing machines",
+    "harm": {
+      "id": "0009345",
+      "title": "694388 - Semi-automatic case gluing machines",
+      "conceptLink": "/ec2/concept/5960014"
+    }
+  },
+  {
+    "uri": "en/7/694401",
+    "id": "694401",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semi-automatic case taping machines",
+    "harm": {
+      "id": "0032469",
+      "title": "694401 - Semi-automatic case taping machines",
+      "conceptLink": "/ec2/concept/5981170"
+    }
+  },
+  {
+    "uri": "en/7/694414",
+    "id": "694414",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semi-automatic strapping machines",
+    "harm": {
+      "id": "0021046",
+      "title": "694414 - Semi-automatic strapping machines",
+      "conceptLink": "/ec2/concept/5970719"
+    }
+  },
+  {
+    "uri": "en/7/694427",
+    "id": "694427",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semi-automatic stretchwrapping machines",
+    "harm": {
+      "id": "0026686",
+      "title": "694427 - Semi-automatic stretchwrapping machines",
+      "conceptLink": "/ec2/concept/5975885"
+    }
+  },
+  {
+    "uri": "en/7/391529",
+    "id": "391529",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor manufacturing machines",
+    "harm": {
+      "id": "0029251",
+      "title": "391529 - Semiconductor manufacturing machines",
+      "conceptLink": "/ec2/concept/5978240"
+    }
+  },
+  {
+    "uri": "en/7/694479",
+    "id": "694479",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for the manufacture of magnetic disks",
+    "harm": {
+      "id": "0002320",
+      "title": "694479 - Semiconductor processing machines for the manufacture of magnetic disks",
+      "conceptLink": "/ec2/concept/5953575"
+    }
+  },
+  {
+    "uri": "en/7/694440",
+    "id": "694440",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for etching magnetic disks",
+    "harm": {
+      "id": "0037027",
+      "title": "694440 - Semiconductor processing machines for etching magnetic disks",
+      "conceptLink": "/ec2/concept/5985321"
+    }
+  },
+  {
+    "uri": "en/7/694453",
+    "id": "694453",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for etching semiconductor wafers",
+    "harm": {
+      "id": "0019735",
+      "title": "694453 - Semiconductor processing machines for etching semiconductor wafers",
+      "conceptLink": "/ec2/concept/5969522"
+    }
+  },
+  {
+    "uri": "en/7/694466",
+    "id": "694466",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for etching substrates",
+    "harm": {
+      "id": "0019736",
+      "title": "694466 - Semiconductor processing machines for etching substrates",
+      "conceptLink": "/ec2/concept/5969523"
+    }
+  },
+  {
+    "uri": "en/7/694504",
+    "id": "694504",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for the manufacture of substrates",
+    "harm": {
+      "id": "0019737",
+      "title": "694504 - Semiconductor processing machines for the manufacture of substrates",
+      "conceptLink": "/ec2/concept/5969524"
+    }
+  },
+  {
+    "uri": "en/7/694491",
+    "id": "694491",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor processing machines for the manufacture of semiconductor wafers",
+    "harm": {
+      "id": "0008022",
+      "title": "694491 - Semiconductor processing machines for the manufacture of semiconductor wafers",
+      "conceptLink": "/ec2/concept/5958800"
+    }
+  },
+  {
+    "uri": "en/7/391562",
+    "id": "391562",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor substrates manufacturing machines",
+    "harm": {
+      "id": "0033476",
+      "title": "391562 - Semiconductor substrates manufacturing machines",
+      "conceptLink": "/ec2/concept/5982094"
+    }
+  },
+  {
+    "uri": "en/7/324262",
+    "id": "324262",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor wafer processing equipment",
+    "harm": {
+      "id": "0007710",
+      "title": "324262 - Semiconductor wafer processing equipment",
+      "conceptLink": "/ec2/concept/5958513"
+    }
+  },
+  {
+    "uri": "en/7/324263",
+    "id": "324263",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Semiconductor wafer processing machines",
+    "harm": {
+      "id": "0007710",
+      "title": "324263 - Semiconductor wafer processing machines",
+      "conceptLink": "/ec2/concept/5958513"
+    }
+  },
+  {
+    "uri": "en/7/694516",
+    "id": "694516",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separating cylinders [machines]",
+    "harm": {
+      "id": "0042761",
+      "title": "694516 - Separating cylinders [machines]",
+      "conceptLink": "/ec2/concept/5990545"
+    }
+  },
+  {
+    "uri": "en/7/694531",
+    "id": "694531",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separating cylinders [parts of machines]",
+    "harm": {
+      "id": "0008023",
+      "title": "694531 - Separating cylinders [parts of machines]",
+      "conceptLink": "/ec2/concept/5958801"
+    }
+  },
+  {
+    "uri": "en/7/694550",
+    "id": "694550",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separating machines",
+    "harm": {
+      "id": "0008024",
+      "title": "694550 - Separating machines",
+      "conceptLink": "/ec2/concept/5958802"
+    }
+  },
+  {
+    "uri": "en/7/324289",
+    "id": "324289",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separating machines [for chemical processing]",
+    "harm": {
+      "id": "0035684",
+      "title": "324289 - Separating machines [for chemical processing]",
+      "conceptLink": "/ec2/concept/5984098"
+    }
+  },
+  {
+    "uri": "en/7/136239977",
+    "id": "136239977",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separating machines for chemical processing",
+    "harm": {
+      "id": "0035684",
+      "title": "136239977 - Separating machines for chemical processing",
+      "conceptLink": "/ec2/concept/5984098"
+    }
+  },
+  {
+    "uri": "en/7/116677",
+    "id": "116677",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators",
+    "harm": {
+      "id": "0010179",
+      "title": "116677 - Separators",
+      "conceptLink": "/ec2/concept/5960771"
+    }
+  },
+  {
+    "uri": "en/7/694574",
+    "id": "694574",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators for liquid solutions",
+    "harm": {
+      "id": "0019738",
+      "title": "694574 - Separators for liquid solutions",
+      "conceptLink": "/ec2/concept/5969525"
+    }
+  },
+  {
+    "uri": "en/7/694587",
+    "id": "694587",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators for liquids",
+    "harm": {
+      "id": "0025426",
+      "title": "694587 - Separators for liquids",
+      "conceptLink": "/ec2/concept/5974738"
+    }
+  },
+  {
+    "uri": "en/7/117023",
+    "id": "117023",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators for oil",
+    "harm": {
+      "id": "0059053",
+      "title": "117023 - Separators for oil",
+      "conceptLink": "/ec2/concept/6000544"
+    }
+  },
+  {
+    "uri": "en/7/694603",
+    "id": "694603",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators for separating solids from liquids",
+    "harm": {
+      "id": "0013879",
+      "title": "694603 - Separators for separating solids from liquids",
+      "conceptLink": "/ec2/concept/5964157"
+    }
+  },
+  {
+    "uri": "en/7/694549",
+    "id": "694549",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators [machines]",
+    "harm": {
+      "id": "0008024",
+      "title": "694549 - Separators [machines]",
+      "conceptLink": "/ec2/concept/5958802"
+    }
+  },
+  {
+    "uri": "en/7/124392343",
+    "id": "124392343",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Separators (Steam oil -)",
+    "harm": {
+      "id": "0059054",
+      "title": "124392343 - Separators (Steam oil -)",
+      "conceptLink": "/ec2/concept/6000545"
+    }
+  },
+  {
+    "uri": "en/7/694616",
+    "id": "694616",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sequin setting machines",
+    "harm": {
+      "id": "0037029",
+      "title": "694616 - Sequin setting machines",
+      "conceptLink": "/ec2/concept/5985323"
+    }
+  },
+  {
+    "uri": "en/7/119672307",
+    "id": "119672307",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sericultural machines",
+    "harm": {
+      "id": "0056860",
+      "title": "119672307 - Sericultural machines",
+      "conceptLink": "/ec2/concept/5998135"
+    }
+  },
+  {
+    "uri": "en/7/120863529",
+    "id": "120863529",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Service lifts",
+    "harm": {
+      "id": "0070881",
+      "title": "120863529 - Service lifts",
+      "conceptLink": "/ec2/concept/6007073"
+    }
+  },
+  {
+    "uri": "en/7/694629",
+    "id": "694629",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo-control valves",
+    "harm": {
+      "id": "0025427",
+      "title": "694629 - Servo-control valves",
+      "conceptLink": "/ec2/concept/5974739"
+    }
+  },
+  {
+    "uri": "en/7/694645",
+    "id": "694645",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo-controlled hydraulic pumps",
+    "harm": {
+      "id": "0002321",
+      "title": "694645 - Servo-controlled hydraulic pumps",
+      "conceptLink": "/ec2/concept/5953576"
+    }
+  },
+  {
+    "uri": "en/7/694657",
+    "id": "694657",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo-cutters [machines]",
+    "harm": {
+      "id": "0031162",
+      "title": "694657 - Servo-cutters [machines]",
+      "conceptLink": "/ec2/concept/5979994"
+    }
+  },
+  {
+    "uri": "en/7/694671",
+    "id": "694671",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo-mechanisms",
+    "harm": {
+      "id": "0025428",
+      "title": "694671 - Servo-mechanisms",
+      "conceptLink": "/ec2/concept/5974740"
+    }
+  },
+  {
+    "uri": "en/7/391576",
+    "id": "391576",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo motors for sewing machines",
+    "harm": {
+      "id": "0007099",
+      "title": "391576 - Servo motors for sewing machines",
+      "conceptLink": "/ec2/concept/5957953"
+    }
+  },
+  {
+    "uri": "en/7/324322",
+    "id": "324322",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servo-valves",
+    "harm": {
+      "id": "0001999",
+      "title": "324322 - Servo-valves",
+      "conceptLink": "/ec2/concept/5953287"
+    }
+  },
+  {
+    "uri": "en/7/324305",
+    "id": "324305",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servomotors",
+    "harm": {
+      "id": "0042445",
+      "title": "324305 - Servomotors",
+      "conceptLink": "/ec2/concept/5990267"
+    }
+  },
+  {
+    "uri": "en/7/694701",
+    "id": "694701",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servomotors incorporating encoders",
+    "harm": {
+      "id": "0030091",
+      "title": "694701 - Servomotors incorporating encoders",
+      "conceptLink": "/ec2/concept/5979007"
+    }
+  },
+  {
+    "uri": "en/7/694685",
+    "id": "694685",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Servomotors [other than for land vehicles]",
+    "harm": {
+      "id": "0031163",
+      "title": "694685 - Servomotors [other than for land vehicles]",
+      "conceptLink": "/ec2/concept/5979995"
+    }
+  },
+  {
+    "uri": "en/7/694714",
+    "id": "694714",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Setting presses [machines]",
+    "harm": {
+      "id": "0006943",
+      "title": "694714 - Setting presses [machines]",
+      "conceptLink": "/ec2/concept/5957809"
+    }
+  },
+  {
+    "uri": "en/7/3911220",
+    "id": "3911220",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewage pulverisers",
+    "harm": {
+      "id": "0026825",
+      "title": "3911220 - Sewage pulverisers",
+      "conceptLink": "/ec2/concept/5976007"
+    }
+  },
+  {
+    "uri": "en/7/117395",
+    "id": "117395",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewage pulverizers",
+    "harm": {
+      "id": "0026825",
+      "title": "117395 - Sewage pulverizers",
+      "conceptLink": "/ec2/concept/5976007"
+    }
+  },
+  {
+    "uri": "en/7/138391324",
+    "id": "138391324",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewage pulverizers being machines",
+    "harm": {
+      "id": "0026825",
+      "title": "138391324 - Sewage pulverizers being machines",
+      "conceptLink": "/ec2/concept/5976007"
+    }
+  },
+  {
+    "uri": "en/7/694741",
+    "id": "694741",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewage treatment machines",
+    "harm": {
+      "id": "0018574",
+      "title": "694741 - Sewage treatment machines",
+      "conceptLink": "/ec2/concept/5968462"
+    }
+  },
+  {
+    "uri": "en/7/127611",
+    "id": "127611",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing machine installations",
+    "harm": {
+      "id": "0047242",
+      "title": "127611 - Sewing machine installations",
+      "conceptLink": "/ec2/concept/5994606"
+    }
+  },
+  {
+    "uri": "en/7/694756",
+    "id": "694756",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing machine motors",
+    "harm": {
+      "id": "0041663",
+      "title": "694756 - Sewing machine motors",
+      "conceptLink": "/ec2/concept/5989554"
+    }
+  },
+  {
+    "uri": "en/7/132666414",
+    "id": "132666414",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing machinery",
+    "harm": {
+      "id": "0047242",
+      "title": "132666414 - Sewing machinery",
+      "conceptLink": "/ec2/concept/5994606"
+    }
+  },
+  {
+    "uri": "en/7/127610",
+    "id": "127610",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing machines",
+    "harm": {
+      "id": "0047242",
+      "title": "127610 - Sewing machines",
+      "conceptLink": "/ec2/concept/5994606"
+    }
+  },
+  {
+    "uri": "en/7/47519090",
+    "id": "47519090",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing machines for household purposes",
+    "harm": {
+      "id": "0056861",
+      "title": "47519090 - Sewing machines for household purposes",
+      "conceptLink": "/ec2/concept/5998136"
+    }
+  },
+  {
+    "uri": "en/7/127609",
+    "id": "127609",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sewing robots",
+    "harm": {
+      "id": "0006944",
+      "title": "127609 - Sewing robots",
+      "conceptLink": "/ec2/concept/5957810"
+    }
+  },
+  {
+    "uri": "en/7/391589",
+    "id": "391589",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft bearings for vacuum pumps",
+    "harm": {
+      "id": "0036032",
+      "title": "391589 - Shaft bearings for vacuum pumps",
+      "conceptLink": "/ec2/concept/5984413"
+    }
+  },
+  {
+    "uri": "en/7/694770",
+    "id": "694770",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft bearings [parts of machines]",
+    "harm": {
+      "id": "0012777",
+      "title": "694770 - Shaft bearings [parts of machines]",
+      "conceptLink": "/ec2/concept/5963155"
+    }
+  },
+  {
+    "uri": "en/7/907169",
+    "id": "907169",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft couplings as parts of machines",
+    "harm": {
+      "id": "0008105",
+      "title": "907169 - Shaft couplings as parts of machines",
+      "conceptLink": "/ec2/concept/5958874"
+    }
+  },
+  {
+    "uri": "en/7/111130",
+    "id": "111130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft couplings for machines",
+    "harm": {
+      "id": "0035890",
+      "title": "111130 - Shaft couplings for machines",
+      "conceptLink": "/ec2/concept/5984279"
+    }
+  },
+  {
+    "uri": "en/7/111131",
+    "id": "111131",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft couplings [machines]",
+    "harm": {
+      "id": "0035890",
+      "title": "111131 - Shaft couplings [machines]",
+      "conceptLink": "/ec2/concept/5984279"
+    }
+  },
+  {
+    "uri": "en/7/391604",
+    "id": "391604",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft couplings, not for land vehicles",
+    "harm": {
+      "id": "0024486",
+      "title": "391604 - Shaft couplings, not for land vehicles",
+      "conceptLink": "/ec2/concept/5973871"
+    }
+  },
+  {
+    "uri": "en/7/694786",
+    "id": "694786",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft hoists for mines",
+    "harm": {
+      "id": "0001185",
+      "title": "694786 - Shaft hoists for mines",
+      "conceptLink": "/ec2/concept/5952556"
+    }
+  },
+  {
+    "uri": "en/7/694798",
+    "id": "694798",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaft mounted gear units [other than for land vehicles]",
+    "harm": {
+      "id": "0001186",
+      "title": "694798 - Shaft mounted gear units [other than for land vehicles]",
+      "conceptLink": "/ec2/concept/5952557"
+    }
+  },
+  {
+    "uri": "en/7/121995",
+    "id": "121995",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shafts (Bearings for transmission -)",
+    "harm": {
+      "id": "0006945",
+      "title": "121995 - Shafts (Bearings for transmission -)",
+      "conceptLink": "/ec2/concept/5957811"
+    }
+  },
+  {
+    "uri": "en/7/694812",
+    "id": "694812",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shafts for ball bushings",
+    "harm": {
+      "id": "0006946",
+      "title": "694812 - Shafts for ball bushings",
+      "conceptLink": "/ec2/concept/5957812"
+    }
+  },
+  {
+    "uri": "en/7/111797",
+    "id": "111797",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shafts for machines",
+    "harm": {
+      "id": "0028968",
+      "title": "111797 - Shafts for machines",
+      "conceptLink": "/ec2/concept/5977987"
+    }
+  },
+  {
+    "uri": "en/7/391623",
+    "id": "391623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shafts for pumps",
+    "harm": {
+      "id": "0036033",
+      "title": "391623 - Shafts for pumps",
+      "conceptLink": "/ec2/concept/5984414"
+    }
+  },
+  {
+    "uri": "en/7/119476",
+    "id": "119476",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shafts (Loom -)",
+    "harm": {
+      "id": "0024354",
+      "title": "119476 - Shafts (Loom -)",
+      "conceptLink": "/ec2/concept/5973750"
+    }
+  },
+  {
+    "uri": "en/7/694825",
+    "id": "694825",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaking machines for use in manufacture",
+    "harm": {
+      "id": "0001187",
+      "title": "694825 - Shaking machines for use in manufacture",
+      "conceptLink": "/ec2/concept/5952558"
+    }
+  },
+  {
+    "uri": "en/7/694837",
+    "id": "694837",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaper cutters [machines]",
+    "harm": {
+      "id": "0006947",
+      "title": "694837 - Shaper cutters [machines]",
+      "conceptLink": "/ec2/concept/5957813"
+    }
+  },
+  {
+    "uri": "en/7/120918856",
+    "id": "120918856",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaping and moulding machines",
+    "harm": {
+      "id": "0071559",
+      "title": "120918856 - Shaping and moulding machines",
+      "conceptLink": "/ec2/concept/6007750"
+    }
+  },
+  {
+    "uri": "en/7/694852",
+    "id": "694852",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaping machines [electric]",
+    "harm": {
+      "id": "0001188",
+      "title": "694852 - Shaping machines [electric]",
+      "conceptLink": "/ec2/concept/5952559"
+    }
+  },
+  {
+    "uri": "en/7/131092953",
+    "id": "131092953",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaping machines for metalworking",
+    "harm": {
+      "id": "0025142",
+      "title": "131092953 - Shaping machines for metalworking",
+      "conceptLink": "/ec2/concept/5974478"
+    }
+  },
+  {
+    "uri": "en/7/324335",
+    "id": "324335",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaping machines [for metalworking]",
+    "harm": {
+      "id": "0025142",
+      "title": "324335 - Shaping machines [for metalworking]",
+      "conceptLink": "/ec2/concept/5974478"
+    }
+  },
+  {
+    "uri": "en/7/115132",
+    "id": "115132",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shares (Plough -)",
+    "harm": {
+      "id": "0035891",
+      "title": "115132 - Shares (Plough -)",
+      "conceptLink": "/ec2/concept/5984280"
+    }
+  },
+  {
+    "uri": "en/7/119521",
+    "id": "119521",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening machines",
+    "harm": {
+      "id": "0025531",
+      "title": "119521 - Sharpening machines",
+      "conceptLink": "/ec2/concept/5974836"
+    }
+  },
+  {
+    "uri": "en/7/124630083",
+    "id": "124630083",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening machines (Electric -)",
+    "harm": {
+      "id": "0000860",
+      "title": "124630083 - Sharpening machines (Electric -)",
+      "conceptLink": "/ec2/concept/5952262"
+    }
+  },
+  {
+    "uri": "en/7/124922718",
+    "id": "124922718",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening machines for blades (Electric -)",
+    "harm": {
+      "id": "0001189",
+      "title": "124922718 - Sharpening machines for blades (Electric -)",
+      "conceptLink": "/ec2/concept/5952560"
+    }
+  },
+  {
+    "uri": "en/7/124922733",
+    "id": "124922733",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening machines for cutlery (Electric -)",
+    "harm": {
+      "id": "0018575",
+      "title": "124922733 - Sharpening machines for cutlery (Electric -)",
+      "conceptLink": "/ec2/concept/5968463"
+    }
+  },
+  {
+    "uri": "en/7/124922748",
+    "id": "124922748",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening machines for tools (Electric -)",
+    "harm": {
+      "id": "0019606",
+      "title": "124922748 - Sharpening machines for tools (Electric -)",
+      "conceptLink": "/ec2/concept/5969409"
+    }
+  },
+  {
+    "uri": "en/7/694910",
+    "id": "694910",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening wheels [electric machines]",
+    "harm": {
+      "id": "0019607",
+      "title": "694910 - Sharpening wheels [electric machines]",
+      "conceptLink": "/ec2/concept/5969410"
+    }
+  },
+  {
+    "uri": "en/7/694925",
+    "id": "694925",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening wheels [parts of electric machines]",
+    "harm": {
+      "id": "0007897",
+      "title": "694925 - Sharpening wheels [parts of electric machines]",
+      "conceptLink": "/ec2/concept/5958687"
+    }
+  },
+  {
+    "uri": "en/7/125735",
+    "id": "125735",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Sharpening wheels [parts of machines]",
+    "harm": {
+      "id": "0020129",
+      "title": "125735 - Sharpening wheels [parts of machines]",
+      "conceptLink": "/ec2/concept/5969881"
+    }
+  },
+  {
+    "uri": "en/7/694940",
+    "id": "694940",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Shaving exhaust installations",
+    "harm": {
+      "id": "0031045",
+      "title": "694940 - Shaving exhaust installations",
+      "conceptLink": "/ec2/concept/5979887"
+    }
+  }
+]

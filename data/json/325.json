@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/738752",
+    "id": "738752",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet apparatus for tanning the whole body",
+    "harm": {
+      "id": "0026094",
+      "title": "738752 - Ultra-violet apparatus for tanning the whole body",
+      "conceptLink": "/ec2/concept/5975348"
+    }
+  },
+  {
+    "uri": "en/11/738739",
+    "id": "738739",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet apparatus for tanning the face",
+    "harm": {
+      "id": "0026093",
+      "title": "738739 - Ultra-violet apparatus for tanning the face",
+      "conceptLink": "/ec2/concept/5975347"
+    }
+  },
+  {
+    "uri": "en/11/738764",
+    "id": "738764",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet irradiators",
+    "harm": {
+      "id": "0037690",
+      "title": "738764 - Ultra-violet irradiators",
+      "conceptLink": "/ec2/concept/5985914"
+    }
+  },
+  {
+    "uri": "en/11/409660",
+    "id": "409660",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet radiators not for motors and engines",
+    "harm": {
+      "id": "0043753",
+      "title": "409660 - Ultra-violet radiators not for motors and engines",
+      "conceptLink": "/ec2/concept/5991452"
+    }
+  },
+  {
+    "uri": "en/11/738779",
+    "id": "738779",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet ray lamps for cosmetic purposes",
+    "harm": {
+      "id": "0037691",
+      "title": "738779 - Ultra-violet ray lamps for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5985915"
+    }
+  },
+  {
+    "uri": "en/11/178270",
+    "id": "178270",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra violet ray lamps, not for medical purposes",
+    "harm": {
+      "id": "0046943",
+      "title": "178270 - Ultra violet ray lamps, not for medical purposes",
+      "conceptLink": "/ec2/concept/5994331"
+    }
+  },
+  {
+    "uri": "en/11/738780",
+    "id": "738780",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet sun ray lamps for cosmetic purposes",
+    "harm": {
+      "id": "0037691",
+      "title": "738780 - Ultra-violet sun ray lamps for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5985915"
+    }
+  },
+  {
+    "uri": "en/11/738799",
+    "id": "738799",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet sunbeds for cosmetic purposes",
+    "harm": {
+      "id": "0015220",
+      "title": "738799 - Ultra-violet sunbeds for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5965393"
+    }
+  },
+  {
+    "uri": "en/11/738814",
+    "id": "738814",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet sunlamps for cosmetic purposes",
+    "harm": {
+      "id": "0037691",
+      "title": "738814 - Ultra-violet sunlamps for cosmetic purposes",
+      "conceptLink": "/ec2/concept/5985915"
+    }
+  },
+  {
+    "uri": "en/11/738826",
+    "id": "738826",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet water sterilisation units for domestic use",
+    "harm": {
+      "id": "0003618",
+      "title": "738826 - Ultra-violet water sterilisation units for domestic use",
+      "conceptLink": "/ec2/concept/5954762"
+    }
+  },
+  {
+    "uri": "en/11/738839",
+    "id": "738839",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultra-violet water sterilisation units for industrial use",
+    "harm": {
+      "id": "0021055",
+      "title": "738839 - Ultra-violet water sterilisation units for industrial use",
+      "conceptLink": "/ec2/concept/5970728"
+    }
+  },
+  {
+    "uri": "en/11/233156613",
+    "id": "233156613",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultrasonic sterilizers for household purposes",
+    "harm": {
+      "id": "0072784",
+      "title": "233156613 - Ultrasonic sterilizers for household purposes",
+      "conceptLink": "/ec2/concept/6008959"
+    }
+  },
+  {
+    "uri": "en/11/178269",
+    "id": "178269",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet lamps not for medical purposes",
+    "harm": {
+      "id": "0046943",
+      "title": "178269 - Ultraviolet lamps not for medical purposes",
+      "conceptLink": "/ec2/concept/5994331"
+    }
+  },
+  {
+    "uri": "en/11/178271",
+    "id": "178271",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet lamps, other than for medical use",
+    "harm": {
+      "id": "0046943",
+      "title": "178271 - Ultraviolet lamps, other than for medical use",
+      "conceptLink": "/ec2/concept/5994331"
+    }
+  },
+  {
+    "uri": "en/11/178268",
+    "id": "178268",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet ray lamps, not for medical purposes",
+    "harm": {
+      "id": "0046943",
+      "title": "178268 - Ultraviolet ray lamps, not for medical purposes",
+      "conceptLink": "/ec2/concept/5994331"
+    }
+  },
+  {
+    "uri": "en/11/410074",
+    "id": "410074",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet sterilization units [water treatment equipment]",
+    "harm": {
+      "id": "0006762",
+      "title": "410074 - Ultraviolet sterilization units [water treatment equipment]",
+      "conceptLink": "/ec2/concept/5957646"
+    }
+  },
+  {
+    "uri": "en/11/120893558",
+    "id": "120893558",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet sterilizers",
+    "harm": {
+      "id": "0066188",
+      "title": "120893558 - Ultraviolet sterilizers",
+      "conceptLink": "/ec2/concept/6002391"
+    }
+  },
+  {
+    "uri": "en/11/178272",
+    "id": "178272",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ultraviolet sun ray lamps, other than for medical use",
+    "harm": {
+      "id": "0019756",
+      "title": "178272 - Ultraviolet sun ray lamps, other than for medical use",
+      "conceptLink": "/ec2/concept/5969541"
+    }
+  },
+  {
+    "uri": "en/11/738852",
+    "id": "738852",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Under carpet heating installations",
+    "harm": {
+      "id": "0044029",
+      "title": "738852 - Under carpet heating installations",
+      "conceptLink": "/ec2/concept/5991705"
+    }
+  },
+  {
+    "uri": "en/11/738864",
+    "id": "738864",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Under floor heating",
+    "harm": {
+      "id": "0044030",
+      "title": "738864 - Under floor heating",
+      "conceptLink": "/ec2/concept/5991706"
+    }
+  },
+  {
+    "uri": "en/11/137921136",
+    "id": "137921136",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Underfloor heating apparatus",
+    "harm": {
+      "id": "0071662",
+      "title": "137921136 - Underfloor heating apparatus",
+      "conceptLink": "/ec2/concept/6007851"
+    }
+  },
+  {
+    "uri": "en/11/137921151",
+    "id": "137921151",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Underfloor heating installations",
+    "harm": {
+      "id": "0071663",
+      "title": "137921151 - Underfloor heating installations",
+      "conceptLink": "/ec2/concept/6007852"
+    }
+  },
+  {
+    "uri": "en/11/409675",
+    "id": "409675",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Uplighters",
+    "harm": {
+      "id": "0043754",
+      "title": "409675 - Uplighters",
+      "conceptLink": "/ec2/concept/5991453"
+    }
+  },
+  {
+    "uri": "en/11/738879",
+    "id": "738879",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Urinal sanitiser units",
+    "harm": {
+      "id": "0032479",
+      "title": "738879 - Urinal sanitiser units",
+      "conceptLink": "/ec2/concept/5981179"
+    }
+  },
+  {
+    "uri": "en/11/182049",
+    "id": "182049",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Urinals",
+    "harm": {
+      "id": "0002336",
+      "title": "182049 - Urinals",
+      "conceptLink": "/ec2/concept/5953591"
+    }
+  },
+  {
+    "uri": "en/11/738893",
+    "id": "738893",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Urinals being parts of sanitary installations",
+    "harm": {
+      "id": "0009354",
+      "title": "738893 - Urinals being parts of sanitary installations",
+      "conceptLink": "/ec2/concept/5960023"
+    }
+  },
+  {
+    "uri": "en/11/182048",
+    "id": "182048",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Urinals [sanitary fixtures]",
+    "harm": {
+      "id": "0002336",
+      "title": "182048 - Urinals [sanitary fixtures]",
+      "conceptLink": "/ec2/concept/5953591"
+    }
+  },
+  {
+    "uri": "en/11/138349733",
+    "id": "138349733",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "USB-powered desktop fans",
+    "harm": {
+      "id": "0070113",
+      "title": "138349733 - USB-powered desktop fans",
+      "conceptLink": "/ec2/concept/6006315"
+    }
+  },
+  {
+    "uri": "en/11/233245909",
+    "id": "233245909",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "USB-powered humidifiers for household use",
+    "harm": {
+      "id": "0072993",
+      "title": "233245909 - USB-powered humidifiers for household use",
+      "conceptLink": "/ec2/concept/6009168"
+    }
+  },
+  {
+    "uri": "en/11/885164",
+    "id": "885164",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "UV halogen metal vapour lamps",
+    "harm": {
+      "id": "0031175",
+      "title": "885164 - UV halogen metal vapour lamps",
+      "conceptLink": "/ec2/concept/5980006"
+    }
+  },
+  {
+    "uri": "en/11/120894040",
+    "id": "120894040",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum distillation apparatus for industrial use",
+    "harm": {
+      "id": "0066194",
+      "title": "120894040 - Vacuum distillation apparatus for industrial use",
+      "conceptLink": "/ec2/concept/6002397"
+    }
+  },
+  {
+    "uri": "en/11/120894072",
+    "id": "120894072",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum distillation columns for industrial use",
+    "harm": {
+      "id": "0066193",
+      "title": "120894072 - Vacuum distillation columns for industrial use",
+      "conceptLink": "/ec2/concept/6002396"
+    }
+  },
+  {
+    "uri": "en/11/738911",
+    "id": "738911",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum furnaces for noble metals",
+    "harm": {
+      "id": "0026691",
+      "title": "738911 - Vacuum furnaces for noble metals",
+      "conceptLink": "/ec2/concept/5975890"
+    }
+  },
+  {
+    "uri": "en/11/738912",
+    "id": "738912",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum furnaces for precious metals",
+    "harm": {
+      "id": "0026691",
+      "title": "738912 - Vacuum furnaces for precious metals",
+      "conceptLink": "/ec2/concept/5975890"
+    }
+  },
+  {
+    "uri": "en/11/738928",
+    "id": "738928",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum lamps",
+    "harm": {
+      "id": "0021056",
+      "title": "738928 - Vacuum lamps",
+      "conceptLink": "/ec2/concept/5970729"
+    }
+  },
+  {
+    "uri": "en/11/738941",
+    "id": "738941",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum ovens for the treatment of lenses",
+    "harm": {
+      "id": "0009355",
+      "title": "738941 - Vacuum ovens for the treatment of lenses",
+      "conceptLink": "/ec2/concept/5960024"
+    }
+  },
+  {
+    "uri": "en/11/738954",
+    "id": "738954",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vacuum steam heating apparatus",
+    "harm": {
+      "id": "0038300",
+      "title": "738954 - Vacuum steam heating apparatus",
+      "conceptLink": "/ec2/concept/5986477"
+    }
+  },
+  {
+    "uri": "en/11/409688",
+    "id": "409688",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves as part of radiators",
+    "harm": {
+      "id": "0014920",
+      "title": "409688 - Valves as part of radiators",
+      "conceptLink": "/ec2/concept/5965117"
+    }
+  },
+  {
+    "uri": "en/11/409701",
+    "id": "409701",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves being parts of sprinkler systems",
+    "harm": {
+      "id": "0007448",
+      "title": "409701 - Valves being parts of sprinkler systems",
+      "conceptLink": "/ec2/concept/5958276"
+    }
+  },
+  {
+    "uri": "en/11/739013",
+    "id": "739013",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves [faucets] being parts for sanitary installations",
+    "harm": {
+      "id": "0045747",
+      "title": "739013 - Valves [faucets] being parts for sanitary installations",
+      "conceptLink": "/ec2/concept/5993283"
+    }
+  },
+  {
+    "uri": "en/11/409716",
+    "id": "409716",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves for air conditioners",
+    "harm": {
+      "id": "0019104",
+      "title": "409716 - Valves for air conditioners",
+      "conceptLink": "/ec2/concept/5968955"
+    }
+  },
+  {
+    "uri": "en/11/178817",
+    "id": "178817",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves (Level controlling -) in tanks",
+    "harm": {
+      "id": "0018099",
+      "title": "178817 - Valves (Level controlling -) in tanks",
+      "conceptLink": "/ec2/concept/5968022"
+    }
+  },
+  {
+    "uri": "en/11/124965603",
+    "id": "124965603",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves (Level controlling -) being parts for sanitary installations",
+    "harm": {
+      "id": "0045746",
+      "title": "124965603 - Valves (Level controlling -) being parts for sanitary installations",
+      "conceptLink": "/ec2/concept/5993282"
+    }
+  },
+  {
+    "uri": "en/11/408728",
+    "id": "408728",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves [plumbing fittings]",
+    "harm": {
+      "id": "0024172",
+      "title": "408728 - Valves [plumbing fittings]",
+      "conceptLink": "/ec2/concept/5973589"
+    }
+  },
+  {
+    "uri": "en/11/124965617",
+    "id": "124965617",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves (solenoid controls for automatically operating -) [parts of heating installations]",
+    "harm": {
+      "id": "0005411",
+      "title": "124965617 - Valves (solenoid controls for automatically operating -) [parts of heating installations]",
+      "conceptLink": "/ec2/concept/5956411"
+    }
+  },
+  {
+    "uri": "en/11/739014",
+    "id": "739014",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves [taps] being parts for sanitary installations",
+    "harm": {
+      "id": "0045747",
+      "title": "739014 - Valves [taps] being parts for sanitary installations",
+      "conceptLink": "/ec2/concept/5993283"
+    }
+  },
+  {
+    "uri": "en/11/124965633",
+    "id": "124965633",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves (temperature sensitive controls for automatically operating -) [parts of heating installations]",
+    "harm": {
+      "id": "0039996",
+      "title": "124965633 - Valves (temperature sensitive controls for automatically operating -) [parts of heating installations]",
+      "conceptLink": "/ec2/concept/5988030"
+    }
+  },
+  {
+    "uri": "en/11/182792",
+    "id": "182792",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Valves (Thermostatic -) [parts of heating installations]",
+    "harm": {
+      "id": "0030485",
+      "title": "182792 - Valves (Thermostatic -) [parts of heating installations]",
+      "conceptLink": "/ec2/concept/5979374"
+    }
+  },
+  {
+    "uri": "en/11/131063275",
+    "id": "131063275",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vanity top sinks",
+    "harm": {
+      "id": "0028466",
+      "title": "131063275 - Vanity top sinks",
+      "conceptLink": "/ec2/concept/5977516"
+    }
+  },
+  {
+    "uri": "en/11/739031",
+    "id": "739031",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vanity units being wash hand basins",
+    "harm": {
+      "id": "0028466",
+      "title": "739031 - Vanity units being wash hand basins",
+      "conceptLink": "/ec2/concept/5977516"
+    }
+  },
+  {
+    "uri": "en/11/739035",
+    "id": "739035",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vanity units incorporating basins [connected to the water supply]",
+    "harm": {
+      "id": "0022800",
+      "title": "739035 - Vanity units incorporating basins [connected to the water supply]",
+      "conceptLink": "/ec2/concept/5972326"
+    }
+  },
+  {
+    "uri": "en/11/739103",
+    "id": "739103",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vapour extraction hoods for fireplaces",
+    "harm": {
+      "id": "0005412",
+      "title": "739103 - Vapour extraction hoods for fireplaces",
+      "conceptLink": "/ec2/concept/5956412"
+    }
+  },
+  {
+    "uri": "en/11/739074",
+    "id": "739074",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vapour extraction hoods for cookers",
+    "harm": {
+      "id": "0028467",
+      "title": "739074 - Vapour extraction hoods for cookers",
+      "conceptLink": "/ec2/concept/5977517"
+    }
+  },
+  {
+    "uri": "en/11/739075",
+    "id": "739075",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vapour extraction hoods for stoves",
+    "harm": {
+      "id": "0028467",
+      "title": "739075 - Vapour extraction hoods for stoves",
+      "conceptLink": "/ec2/concept/5977517"
+    }
+  },
+  {
+    "uri": "en/11/739073",
+    "id": "739073",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vapour extractor hoods for cookers",
+    "harm": {
+      "id": "0028467",
+      "title": "739073 - Vapour extractor hoods for cookers",
+      "conceptLink": "/ec2/concept/5977517"
+    }
+  },
+  {
+    "uri": "en/11/739076",
+    "id": "739076",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vapour extractor hoods for kitchen stoves",
+    "harm": {
+      "id": "0028467",
+      "title": "739076 - Vapour extractor hoods for kitchen stoves",
+      "conceptLink": "/ec2/concept/5977517"
+    }
+  },
+  {
+    "uri": "en/11/477665",
+    "id": "477665",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Variable height baths for use by the physically handicapped",
+    "harm": {
+      "id": "0026548",
+      "title": "477665 - Variable height baths for use by the physically handicapped",
+      "conceptLink": "/ec2/concept/5975763"
+    }
+  },
+  {
+    "uri": "en/11/131044992",
+    "id": "131044992",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle brake lights",
+    "harm": {
+      "id": "0037210",
+      "title": "131044992 - Vehicle brake lights",
+      "conceptLink": "/ec2/concept/5985481"
+    }
+  },
+  {
+    "uri": "en/11/336616",
+    "id": "336616",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle dynamo lamps",
+    "harm": {
+      "id": "0030918",
+      "title": "336616 - Vehicle dynamo lamps",
+      "conceptLink": "/ec2/concept/5979775"
+    }
+  },
+  {
+    "uri": "en/11/30715686",
+    "id": "30715686",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle headlamps",
+    "harm": {
+      "id": "0059353",
+      "title": "30715686 - Vehicle headlamps",
+      "conceptLink": "/ec2/concept/6000835"
+    }
+  },
+  {
+    "uri": "en/11/171542",
+    "id": "171542",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle headlights",
+    "harm": {
+      "id": "0059353",
+      "title": "171542 - Vehicle headlights",
+      "conceptLink": "/ec2/concept/6000835"
+    }
+  },
+  {
+    "uri": "en/11/131133140",
+    "id": "131133140",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle HVAC systems (heating, ventilation and air conditioning)",
+    "harm": {
+      "id": "0047822",
+      "title": "131133140 - Vehicle HVAC systems (heating, ventilation and air conditioning)",
+      "conceptLink": "/ec2/concept/5995096"
+    }
+  },
+  {
+    "uri": "en/11/131133002",
+    "id": "131133002",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle lighting and lighting reflectors",
+    "harm": {
+      "id": "0047821",
+      "title": "131133002 - Vehicle lighting and lighting reflectors",
+      "conceptLink": "/ec2/concept/5995095"
+    }
+  },
+  {
+    "uri": "en/11/179719",
+    "id": "179719",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle lighting apparatus",
+    "harm": {
+      "id": "0058362",
+      "title": "179719 - Vehicle lighting apparatus",
+      "conceptLink": "/ec2/concept/5999861"
+    }
+  },
+  {
+    "uri": "en/11/179722",
+    "id": "179722",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle lighting installations",
+    "harm": {
+      "id": "0058360",
+      "title": "179722 - Vehicle lighting installations",
+      "conceptLink": "/ec2/concept/5999859"
+    }
+  },
+  {
+    "uri": "en/11/171233",
+    "id": "171233",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle lights",
+    "harm": {
+      "id": "0058360",
+      "title": "171233 - Vehicle lights",
+      "conceptLink": "/ec2/concept/5999859"
+    }
+  },
+  {
+    "uri": "en/11/171541",
+    "id": "171541",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle reflectors",
+    "harm": {
+      "id": "0046174",
+      "title": "171541 - Vehicle reflectors",
+      "conceptLink": "/ec2/concept/5993677"
+    }
+  },
+  {
+    "uri": "en/11/53210260",
+    "id": "53210260",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle tail lights",
+    "harm": {
+      "id": "0057160",
+      "title": "53210260 - Vehicle tail lights",
+      "conceptLink": "/ec2/concept/5998800"
+    }
+  },
+  {
+    "uri": "en/11/1222450",
+    "id": "1222450",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicle taillights",
+    "harm": {
+      "id": "0057160",
+      "title": "1222450 - Vehicle taillights",
+      "conceptLink": "/ec2/concept/5998800"
+    }
+  },
+  {
+    "uri": "en/11/174086",
+    "id": "174086",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Air conditioners for -)",
+    "harm": {
+      "id": "0058625",
+      "title": "174086 - Vehicles (Air conditioners for -)",
+      "conceptLink": "/ec2/concept/6000118"
+    }
+  },
+  {
+    "uri": "en/11/171458",
+    "id": "171458",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Anti-dazzle devices for -) [lamp fittings]",
+    "harm": {
+      "id": "0059346",
+      "title": "171458 - Vehicles (Anti-dazzle devices for -) [lamp fittings]",
+      "conceptLink": "/ec2/concept/6000828"
+    }
+  },
+  {
+    "uri": "en/11/175556",
+    "id": "175556",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Defrosters for -)",
+    "harm": {
+      "id": "0036119",
+      "title": "175556 - Vehicles (Defrosters for -)",
+      "conceptLink": "/ec2/concept/5984492"
+    }
+  },
+  {
+    "uri": "en/11/180494",
+    "id": "180494",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Heating apparatus for defrosting windows of -)",
+    "harm": {
+      "id": "0042810",
+      "title": "180494 - Vehicles (Heating apparatus for defrosting windows of -)",
+      "conceptLink": "/ec2/concept/5990587"
+    }
+  },
+  {
+    "uri": "en/11/179720",
+    "id": "179720",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Lighting apparatus for -)",
+    "harm": {
+      "id": "0058362",
+      "title": "179720 - Vehicles (Lighting apparatus for -)",
+      "conceptLink": "/ec2/concept/5999861"
+    }
+  },
+  {
+    "uri": "en/11/171234",
+    "id": "171234",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vehicles (Lights for -)",
+    "harm": {
+      "id": "0058360",
+      "title": "171234 - Vehicles (Lights for -)",
+      "conceptLink": "/ec2/concept/5999859"
+    }
+  },
+  {
+    "uri": "en/11/405996",
+    "id": "405996",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating apparatus",
+    "harm": {
+      "id": "0009172",
+      "title": "405996 - Ventilating apparatus",
+      "conceptLink": "/ec2/concept/5959855"
+    }
+  },
+  {
+    "uri": "en/11/739114",
+    "id": "739114",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating apparatus for vehicles",
+    "harm": {
+      "id": "0015795",
+      "title": "739114 - Ventilating apparatus for vehicles",
+      "conceptLink": "/ec2/concept/5965924"
+    }
+  },
+  {
+    "uri": "en/11/409731",
+    "id": "409731",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating exhaust fans",
+    "harm": {
+      "id": "0013275",
+      "title": "409731 - Ventilating exhaust fans",
+      "conceptLink": "/ec2/concept/5963606"
+    }
+  },
+  {
+    "uri": "en/11/405999",
+    "id": "405999",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans",
+    "harm": {
+      "id": "0007252",
+      "title": "405999 - Ventilating fans",
+      "conceptLink": "/ec2/concept/5958095"
+    }
+  },
+  {
+    "uri": "en/11/120871533",
+    "id": "120871533",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans for commercial use",
+    "harm": {
+      "id": "0066265",
+      "title": "120871533 - Ventilating fans for commercial use",
+      "conceptLink": "/ec2/concept/6002468"
+    }
+  },
+  {
+    "uri": "en/11/120893670",
+    "id": "120893670",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans for household use",
+    "harm": {
+      "id": "0066232",
+      "title": "120893670 - Ventilating fans for household use",
+      "conceptLink": "/ec2/concept/6002435"
+    }
+  },
+  {
+    "uri": "en/11/93731346",
+    "id": "93731346",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans for industrial use",
+    "harm": {
+      "id": "0066264",
+      "title": "93731346 - Ventilating fans for industrial use",
+      "conceptLink": "/ec2/concept/6002467"
+    }
+  },
+  {
+    "uri": "en/11/120871536",
+    "id": "120871536",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans for industrial purposes",
+    "harm": {
+      "id": "0066264",
+      "title": "120871536 - Ventilating fans for industrial purposes",
+      "conceptLink": "/ec2/concept/6002467"
+    }
+  },
+  {
+    "uri": "en/11/739127",
+    "id": "739127",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating fans for use in vehicles",
+    "harm": {
+      "id": "0021681",
+      "title": "739127 - Ventilating fans for use in vehicles",
+      "conceptLink": "/ec2/concept/5971293"
+    }
+  },
+  {
+    "uri": "en/11/180371",
+    "id": "180371",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating hoods for laboratories",
+    "harm": {
+      "id": "0037336",
+      "title": "180371 - Ventilating hoods for laboratories",
+      "conceptLink": "/ec2/concept/5985598"
+    }
+  },
+  {
+    "uri": "en/11/739146",
+    "id": "739146",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating hoods for smoke",
+    "harm": {
+      "id": "0004241",
+      "title": "739146 - Ventilating hoods for smoke",
+      "conceptLink": "/ec2/concept/5955329"
+    }
+  },
+  {
+    "uri": "en/11/739159",
+    "id": "739159",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating hoods for steam",
+    "harm": {
+      "id": "0015796",
+      "title": "739159 - Ventilating hoods for steam",
+      "conceptLink": "/ec2/concept/5965925"
+    }
+  },
+  {
+    "uri": "en/11/406000",
+    "id": "406000",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating installations",
+    "harm": {
+      "id": "0034023",
+      "title": "406000 - Ventilating installations",
+      "conceptLink": "/ec2/concept/5982593"
+    }
+  },
+  {
+    "uri": "en/11/739171",
+    "id": "739171",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilating units",
+    "harm": {
+      "id": "0009172",
+      "title": "739171 - Ventilating units",
+      "conceptLink": "/ec2/concept/5959855"
+    }
+  },
+  {
+    "uri": "en/11/173269",
+    "id": "173269",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation [air-conditioning] installations and apparatus",
+    "harm": {
+      "id": "0047226",
+      "title": "173269 - Ventilation [air-conditioning] installations and apparatus",
+      "conceptLink": "/ec2/concept/5994591"
+    }
+  },
+  {
+    "uri": "en/11/179869",
+    "id": "179869",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation [air-conditioning] installations for vehicles",
+    "harm": {
+      "id": "0058624",
+      "title": "179869 - Ventilation [air-conditioning] installations for vehicles",
+      "conceptLink": "/ec2/concept/6000117"
+    }
+  },
+  {
+    "uri": "en/11/739187",
+    "id": "739187",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation grilles being parts of extractor fans",
+    "harm": {
+      "id": "0010937",
+      "title": "739187 - Ventilation grilles being parts of extractor fans",
+      "conceptLink": "/ec2/concept/5961466"
+    }
+  },
+  {
+    "uri": "en/11/170067",
+    "id": "170067",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation hoods",
+    "harm": {
+      "id": "0030483",
+      "title": "170067 - Ventilation hoods",
+      "conceptLink": "/ec2/concept/5979372"
+    }
+  },
+  {
+    "uri": "en/11/180372",
+    "id": "180372",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation hoods for laboratories",
+    "harm": {
+      "id": "0037336",
+      "title": "180372 - Ventilation hoods for laboratories",
+      "conceptLink": "/ec2/concept/5985598"
+    }
+  },
+  {
+    "uri": "en/11/409759",
+    "id": "409759",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation hoods for stoves",
+    "harm": {
+      "id": "0042154",
+      "title": "409759 - Ventilation hoods for stoves",
+      "conceptLink": "/ec2/concept/5989998"
+    }
+  },
+  {
+    "uri": "en/11/232988905",
+    "id": "232988905",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation installations for kitchens",
+    "harm": {
+      "id": "0073385",
+      "title": "232988905 - Ventilation installations for kitchens",
+      "conceptLink": "/ec2/concept/6009558"
+    }
+  },
+  {
+    "uri": "en/11/739200",
+    "id": "739200",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilation terminals",
+    "harm": {
+      "id": "0010938",
+      "title": "739200 - Ventilation terminals",
+      "conceptLink": "/ec2/concept/5961467"
+    }
+  },
+  {
+    "uri": "en/11/739212",
+    "id": "739212",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilators for heat exchangers",
+    "harm": {
+      "id": "0034024",
+      "title": "739212 - Ventilators for heat exchangers",
+      "conceptLink": "/ec2/concept/5982594"
+    }
+  },
+  {
+    "uri": "en/11/739128",
+    "id": "739128",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ventilators for vehicles",
+    "harm": {
+      "id": "0021681",
+      "title": "739128 - Ventilators for vehicles",
+      "conceptLink": "/ec2/concept/5971293"
+    }
+  },
+  {
+    "uri": "en/11/739241",
+    "id": "739241",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Vortex inhibitors",
+    "harm": {
+      "id": "0028262",
+      "title": "739241 - Vortex inhibitors",
+      "conceptLink": "/ec2/concept/5977326"
+    }
+  }
+]

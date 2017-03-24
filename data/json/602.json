@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/35/793889",
+    "id": "793889",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business information services",
+    "harm": {
+      "id": "0026295",
+      "title": "793889 - Computerised business information services",
+      "conceptLink": "/ec2/concept/5975535"
+    }
+  },
+  {
+    "uri": "en/35/793873",
+    "id": "793873",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business information retrieval",
+    "harm": {
+      "id": "0037880",
+      "title": "793873 - Computerised business information retrieval",
+      "conceptLink": "/ec2/concept/5986086"
+    }
+  },
+  {
+    "uri": "en/35/793858",
+    "id": "793858",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business information processing services",
+    "harm": {
+      "id": "0043631",
+      "title": "793858 - Computerised business information processing services",
+      "conceptLink": "/ec2/concept/5991343"
+    }
+  },
+  {
+    "uri": "en/35/793906",
+    "id": "793906",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business management [for others]",
+    "harm": {
+      "id": "0008958",
+      "title": "793906 - Computerised business management [for others]",
+      "conceptLink": "/ec2/concept/5959653"
+    }
+  },
+  {
+    "uri": "en/35/793921",
+    "id": "793921",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business promotion",
+    "harm": {
+      "id": "0038835",
+      "title": "793921 - Computerised business promotion",
+      "conceptLink": "/ec2/concept/5986966"
+    }
+  },
+  {
+    "uri": "en/35/364280",
+    "id": "364280",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business records keeping",
+    "harm": {
+      "id": "0047104",
+      "title": "364280 - Computerised business records keeping",
+      "conceptLink": "/ec2/concept/5994479"
+    }
+  },
+  {
+    "uri": "en/35/793933",
+    "id": "793933",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised business research",
+    "harm": {
+      "id": "0021652",
+      "title": "793933 - Computerised business research",
+      "conceptLink": "/ec2/concept/5971266"
+    }
+  },
+  {
+    "uri": "en/35/793965",
+    "id": "793965",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised compilation of order lists",
+    "harm": {
+      "id": "0021653",
+      "title": "793965 - Computerised compilation of order lists",
+      "conceptLink": "/ec2/concept/5971267"
+    }
+  },
+  {
+    "uri": "en/35/793950",
+    "id": "793950",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised compilation of customer indexes",
+    "harm": {
+      "id": "0009934",
+      "title": "793950 - Computerised compilation of customer indexes",
+      "conceptLink": "/ec2/concept/5960547"
+    }
+  },
+  {
+    "uri": "en/35/793979",
+    "id": "793979",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised compilation of stock control records",
+    "harm": {
+      "id": "0033032",
+      "title": "793979 - Computerised compilation of stock control records",
+      "conceptLink": "/ec2/concept/5981686"
+    }
+  },
+  {
+    "uri": "en/35/364331",
+    "id": "364331",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised data-base management",
+    "harm": {
+      "id": "0028989",
+      "title": "364331 - Computerised data-base management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/28573",
+    "id": "28573",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised data management",
+    "harm": {
+      "id": "0028989",
+      "title": "28573 - Computerised data management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/481290",
+    "id": "481290",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised data processing",
+    "harm": {
+      "id": "0037878",
+      "title": "481290 - Computerised data processing",
+      "conceptLink": "/ec2/concept/5986084"
+    }
+  },
+  {
+    "uri": "en/35/794007",
+    "id": "794007",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised data verification",
+    "harm": {
+      "id": "0009935",
+      "title": "794007 - Computerised data verification",
+      "conceptLink": "/ec2/concept/5960548"
+    }
+  },
+  {
+    "uri": "en/35/28574",
+    "id": "28574",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised database management services",
+    "harm": {
+      "id": "0028989",
+      "title": "28574 - Computerised database management services",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/28565",
+    "id": "28565",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised file management",
+    "harm": {
+      "id": "0028989",
+      "title": "28565 - Computerised file management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/794020",
+    "id": "794020",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised information services to business opportunities appraisals",
+    "harm": {
+      "id": "0015753",
+      "title": "794020 - Computerised information services to business opportunities appraisals",
+      "conceptLink": "/ec2/concept/5965883"
+    }
+  },
+  {
+    "uri": "en/35/794032",
+    "id": "794032",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised inventory control",
+    "harm": {
+      "id": "0021654",
+      "title": "794032 - Computerised inventory control",
+      "conceptLink": "/ec2/concept/5971268"
+    }
+  },
+  {
+    "uri": "en/35/794045",
+    "id": "794045",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised inventory preparation",
+    "harm": {
+      "id": "0033033",
+      "title": "794045 - Computerised inventory preparation",
+      "conceptLink": "/ec2/concept/5981687"
+    }
+  },
+  {
+    "uri": "en/35/794059",
+    "id": "794059",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised market research",
+    "harm": {
+      "id": "0044591",
+      "title": "794059 - Computerised market research",
+      "conceptLink": "/ec2/concept/5992224"
+    }
+  },
+  {
+    "uri": "en/35/364257",
+    "id": "364257",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised office management",
+    "harm": {
+      "id": "0020992",
+      "title": "364257 - Computerised office management",
+      "conceptLink": "/ec2/concept/5970670"
+    }
+  },
+  {
+    "uri": "en/35/794073",
+    "id": "794073",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised payroll preparation",
+    "harm": {
+      "id": "0020785",
+      "title": "794073 - Computerised payroll preparation",
+      "conceptLink": "/ec2/concept/5970483"
+    }
+  },
+  {
+    "uri": "en/35/794087",
+    "id": "794087",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised point-of-sale data collection services for retailers",
+    "harm": {
+      "id": "0014937",
+      "title": "794087 - Computerised point-of-sale data collection services for retailers",
+      "conceptLink": "/ec2/concept/5965133"
+    }
+  },
+  {
+    "uri": "en/35/28570",
+    "id": "28570",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised register management",
+    "harm": {
+      "id": "0028989",
+      "title": "28570 - Computerised register management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/794102",
+    "id": "794102",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised stock management",
+    "harm": {
+      "id": "0009092",
+      "title": "794102 - Computerised stock management",
+      "conceptLink": "/ec2/concept/5959778"
+    }
+  },
+  {
+    "uri": "en/35/794116",
+    "id": "794116",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised stock ordering",
+    "harm": {
+      "id": "0020786",
+      "title": "794116 - Computerised stock ordering",
+      "conceptLink": "/ec2/concept/5970484"
+    }
+  },
+  {
+    "uri": "en/35/125019068",
+    "id": "125019068",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerised tax assessments (preparation of -) [accounting]",
+    "harm": {
+      "id": "0014938",
+      "title": "125019068 - Computerised tax assessments (preparation of -) [accounting]",
+      "conceptLink": "/ec2/concept/5965134"
+    }
+  },
+  {
+    "uri": "en/35/364277",
+    "id": "364277",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized accounting services",
+    "harm": {
+      "id": "0047067",
+      "title": "364277 - Computerized accounting services",
+      "conceptLink": "/ec2/concept/5994444"
+    }
+  },
+  {
+    "uri": "en/35/364329",
+    "id": "364329",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized database management",
+    "harm": {
+      "id": "0028989",
+      "title": "364329 - Computerized database management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/28575",
+    "id": "28575",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized database management services",
+    "harm": {
+      "id": "0028989",
+      "title": "28575 - Computerized database management services",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/28566",
+    "id": "28566",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized file management",
+    "harm": {
+      "id": "0028989",
+      "title": "28566 - Computerized file management",
+      "conceptLink": "/ec2/concept/5978005"
+    }
+  },
+  {
+    "uri": "en/35/902175",
+    "id": "902175",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized market research services",
+    "harm": {
+      "id": "0007863",
+      "title": "902175 - Computerized market research services",
+      "conceptLink": "/ec2/concept/5958656"
+    }
+  },
+  {
+    "uri": "en/35/78612605",
+    "id": "78612605",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized on-line ordering services",
+    "harm": {
+      "id": "0067789",
+      "title": "78612605 - Computerized on-line ordering services",
+      "conceptLink": "/ec2/concept/6003992"
+    }
+  },
+  {
+    "uri": "en/35/364359",
+    "id": "364359",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Computerized word processing",
+    "harm": {
+      "id": "0003572",
+      "title": "364359 - Computerized word processing",
+      "conceptLink": "/ec2/concept/5954720"
+    }
+  },
+  {
+    "uri": "en/35/233245525",
+    "id": "233245525",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Condominium management",
+    "harm": {
+      "id": "0072972",
+      "title": "233245525 - Condominium management",
+      "conceptLink": "/ec2/concept/6009147"
+    }
+  },
+  {
+    "uri": "en/35/902221",
+    "id": "902221",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting, arranging and organizing trade shows and trade fairs for commercial and advertising purposes",
+    "harm": {
+      "id": "0002153",
+      "title": "902221 - Conducting, arranging and organizing trade shows and trade fairs for commercial and advertising purposes",
+      "conceptLink": "/ec2/concept/5953422"
+    }
+  },
+  {
+    "uri": "en/35/480030",
+    "id": "480030",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting business and market research surveys",
+    "harm": {
+      "id": "0036852",
+      "title": "480030 - Conducting business and market research surveys",
+      "conceptLink": "/ec2/concept/5985162"
+    }
+  },
+  {
+    "uri": "en/35/137923079",
+    "id": "137923079",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting employee incentive award programs",
+    "harm": {
+      "id": "0051765",
+      "title": "137923079 - Conducting employee incentive award programs",
+      "conceptLink": "/ec2/concept/6010751"
+    }
+  },
+  {
+    "uri": "en/35/137931012",
+    "id": "137931012",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting interactive virtual auctions",
+    "harm": {
+      "id": "0051680",
+      "title": "137931012 - Conducting interactive virtual auctions",
+      "conceptLink": "/ec2/concept/6010666"
+    }
+  },
+  {
+    "uri": "en/35/902220",
+    "id": "902220",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting market surveys",
+    "harm": {
+      "id": "0047097",
+      "title": "902220 - Conducting market surveys",
+      "conceptLink": "/ec2/concept/5994473"
+    }
+  },
+  {
+    "uri": "en/35/27486",
+    "id": "27486",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting marketing studies",
+    "harm": {
+      "id": "0003336",
+      "title": "27486 - Conducting marketing studies",
+      "conceptLink": "/ec2/concept/5954503"
+    }
+  },
+  {
+    "uri": "en/35/792061",
+    "id": "792061",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of auction sales",
+    "harm": {
+      "id": "0058475",
+      "title": "792061 - Conducting of auction sales",
+      "conceptLink": "/ec2/concept/5999974"
+    }
+  },
+  {
+    "uri": "en/35/794144",
+    "id": "794144",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of business appraisals",
+    "harm": {
+      "id": "0057402",
+      "title": "794144 - Conducting of business appraisals",
+      "conceptLink": "/ec2/concept/5998909"
+    }
+  },
+  {
+    "uri": "en/35/794157",
+    "id": "794157",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of business feasibility studies",
+    "harm": {
+      "id": "0003335",
+      "title": "794157 - Conducting of business feasibility studies",
+      "conceptLink": "/ec2/concept/5954502"
+    }
+  },
+  {
+    "uri": "en/35/27715",
+    "id": "27715",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of business research",
+    "harm": {
+      "id": "0043771",
+      "title": "27715 - Conducting of business research",
+      "conceptLink": "/ec2/concept/5991467"
+    }
+  },
+  {
+    "uri": "en/35/794169",
+    "id": "794169",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of internal business communication surveys",
+    "harm": {
+      "id": "0009093",
+      "title": "794169 - Conducting of internal business communication surveys",
+      "conceptLink": "/ec2/concept/5959779"
+    }
+  },
+  {
+    "uri": "en/35/27490",
+    "id": "27490",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of market research",
+    "harm": {
+      "id": "0047097",
+      "title": "27490 - Conducting of market research",
+      "conceptLink": "/ec2/concept/5994473"
+    }
+  },
+  {
+    "uri": "en/35/137795199",
+    "id": "137795199",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of market studies involving opinion polling",
+    "harm": {
+      "id": "0051255",
+      "title": "137795199 - Conducting of market studies involving opinion polling",
+      "conceptLink": "/ec2/concept/6010241"
+    }
+  },
+  {
+    "uri": "en/35/483626",
+    "id": "483626",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of marketing studies",
+    "harm": {
+      "id": "0003336",
+      "title": "483626 - Conducting of marketing studies",
+      "conceptLink": "/ec2/concept/5954503"
+    }
+  },
+  {
+    "uri": "en/35/479363",
+    "id": "479363",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting of trade shows",
+    "harm": {
+      "id": "0047278",
+      "title": "479363 - Conducting of trade shows",
+      "conceptLink": "/ec2/concept/5994635"
+    }
+  },
+  {
+    "uri": "en/35/97323595",
+    "id": "97323595",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting online business management research surveys",
+    "harm": {
+      "id": "0051764",
+      "title": "97323595 - Conducting online business management research surveys",
+      "conceptLink": "/ec2/concept/6010750"
+    }
+  },
+  {
+    "uri": "en/35/29133",
+    "id": "29133",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting public opinion polls",
+    "harm": {
+      "id": "0013712",
+      "title": "29133 - Conducting public opinion polls",
+      "conceptLink": "/ec2/concept/5964000"
+    }
+  },
+  {
+    "uri": "en/35/137794942",
+    "id": "137794942",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting studies in the field of public relations",
+    "harm": {
+      "id": "0051660",
+      "title": "137794942 - Conducting studies in the field of public relations",
+      "conceptLink": "/ec2/concept/6010646"
+    }
+  },
+  {
+    "uri": "en/35/137912241",
+    "id": "137912241",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting trade shows in the field of automobiles",
+    "harm": {
+      "id": "0051647",
+      "title": "137912241 - Conducting trade shows in the field of automobiles",
+      "conceptLink": "/ec2/concept/6010633"
+    }
+  },
+  {
+    "uri": "en/35/137734382",
+    "id": "137734382",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conducting virtual trade show exhibitions online",
+    "harm": {
+      "id": "0051297",
+      "title": "137734382 - Conducting virtual trade show exhibitions online",
+      "conceptLink": "/ec2/concept/6010283"
+    }
+  },
+  {
+    "uri": "en/35/119548505",
+    "id": "119548505",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Conference call transcription services",
+    "harm": {
+      "id": "0051260",
+      "title": "119548505 - Conference call transcription services",
+      "conceptLink": "/ec2/concept/6010246"
+    }
+  },
+  {
+    "uri": "en/35/136667253",
+    "id": "136667253",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Confirming scheduled appointments for others",
+    "harm": {
+      "id": "0060192",
+      "title": "136667253 - Confirming scheduled appointments for others",
+      "conceptLink": "/ec2/concept/5998192"
+    }
+  },
+  {
+    "uri": "en/35/902278",
+    "id": "902278",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services in the field of business strategy",
+    "harm": {
+      "id": "0002155",
+      "title": "902278 - Consultancy and advisory services in the field of business strategy",
+      "conceptLink": "/ec2/concept/5953424"
+    }
+  },
+  {
+    "uri": "en/35/137898730",
+    "id": "137898730",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services relating to personnel placement",
+    "harm": {
+      "id": "0051443",
+      "title": "137898730 - Consultancy and advisory services relating to personnel placement",
+      "conceptLink": "/ec2/concept/6010429"
+    }
+  },
+  {
+    "uri": "en/35/137898725",
+    "id": "137898725",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services relating to personnel management",
+    "harm": {
+      "id": "0051441",
+      "title": "137898725 - Consultancy and advisory services relating to personnel management",
+      "conceptLink": "/ec2/concept/6010427"
+    }
+  },
+  {
+    "uri": "en/35/28749732",
+    "id": "28749732",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services relating to personnel recruitment",
+    "harm": {
+      "id": "0051442",
+      "title": "28749732 - Consultancy and advisory services relating to personnel recruitment",
+      "conceptLink": "/ec2/concept/6010428"
+    }
+  },
+  {
+    "uri": "en/35/120871104",
+    "id": "120871104",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services relating to business management",
+    "harm": {
+      "id": "0057438",
+      "title": "120871104 - Consultancy and advisory services relating to business management",
+      "conceptLink": "/ec2/concept/5998944"
+    }
+  },
+  {
+    "uri": "en/35/4082024",
+    "id": "4082024",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and advisory services for business management",
+    "harm": {
+      "id": "0057438",
+      "title": "4082024 - Consultancy and advisory services for business management",
+      "conceptLink": "/ec2/concept/5998944"
+    }
+  },
+  {
+    "uri": "en/35/120883079",
+    "id": "120883079",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy and information services relating to accounting",
+    "harm": {
+      "id": "0067738",
+      "title": "120883079 - Consultancy and information services relating to accounting",
+      "conceptLink": "/ec2/concept/6003941"
+    }
+  },
+  {
+    "uri": "en/35/364384",
+    "id": "364384",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy of personnel recruitment",
+    "harm": {
+      "id": "0012463",
+      "title": "364384 - Consultancy of personnel recruitment",
+      "conceptLink": "/ec2/concept/5962869"
+    }
+  },
+  {
+    "uri": "en/35/28723",
+    "id": "28723",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy (Professional business -)",
+    "harm": {
+      "id": "0058802",
+      "title": "28723 - Consultancy (Professional business -)",
+      "conceptLink": "/ec2/concept/6000293"
+    }
+  },
+  {
+    "uri": "en/35/233634590",
+    "id": "233634590",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy regarding advertising communications strategy",
+    "harm": {
+      "id": "0052172",
+      "title": "233634590 - Consultancy regarding advertising communications strategy",
+      "conceptLink": "/ec2/concept/6011072"
+    }
+  },
+  {
+    "uri": "en/35/616734",
+    "id": "616734",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy regarding business organisation and business economics",
+    "harm": {
+      "id": "0027316",
+      "title": "616734 - Consultancy regarding business organisation and business economics",
+      "conceptLink": "/ec2/concept/5976450"
+    }
+  },
+  {
+    "uri": "en/35/233634567",
+    "id": "233634567",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy regarding public relations communications strategy",
+    "harm": {
+      "id": "0052171",
+      "title": "233634567 - Consultancy regarding public relations communications strategy",
+      "conceptLink": "/ec2/concept/6011071"
+    }
+  },
+  {
+    "uri": "en/35/902295",
+    "id": "902295",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy regarding the organization or managing of a trade company",
+    "harm": {
+      "id": "0000339",
+      "title": "902295 - Consultancy regarding the organization or managing of a trade company",
+      "conceptLink": "/ec2/concept/5951794"
+    }
+  },
+  {
+    "uri": "en/35/794217",
+    "id": "794217",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to auditing",
+    "harm": {
+      "id": "0006679",
+      "title": "794217 - Consultancy relating to auditing",
+      "conceptLink": "/ec2/concept/5957571"
+    }
+  },
+  {
+    "uri": "en/35/137796415",
+    "id": "137796415",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to advertising and promotion services",
+    "harm": {
+      "id": "0051212",
+      "title": "137796415 - Consultancy relating to advertising and promotion services",
+      "conceptLink": "/ec2/concept/6010198"
+    }
+  },
+  {
+    "uri": "en/35/794200",
+    "id": "794200",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to advertising",
+    "harm": {
+      "id": "0046776",
+      "title": "794200 - Consultancy relating to advertising",
+      "conceptLink": "/ec2/concept/5994182"
+    }
+  },
+  {
+    "uri": "en/35/363482",
+    "id": "363482",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business acquisition",
+    "harm": {
+      "id": "0006540",
+      "title": "363482 - Consultancy relating to business acquisition",
+      "conceptLink": "/ec2/concept/5957444"
+    }
+  },
+  {
+    "uri": "en/35/137738337",
+    "id": "137738337",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business advertising",
+    "harm": {
+      "id": "0035309",
+      "title": "137738337 - Consultancy relating to business advertising",
+      "conceptLink": "/ec2/concept/5983759"
+    }
+  },
+  {
+    "uri": "en/35/363852",
+    "id": "363852",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business organisation",
+    "harm": {
+      "id": "0058957",
+      "title": "363852 - Consultancy relating to business organisation",
+      "conceptLink": "/ec2/concept/6000448"
+    }
+  },
+  {
+    "uri": "en/35/794263",
+    "id": "794263",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business planning",
+    "harm": {
+      "id": "0017171",
+      "title": "794263 - Consultancy relating to business planning",
+      "conceptLink": "/ec2/concept/5967178"
+    }
+  },
+  {
+    "uri": "en/35/794231",
+    "id": "794231",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business document management",
+    "harm": {
+      "id": "0000909",
+      "title": "794231 - Consultancy relating to business document management",
+      "conceptLink": "/ec2/concept/5952307"
+    }
+  },
+  {
+    "uri": "en/35/794248",
+    "id": "794248",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business efficiency",
+    "harm": {
+      "id": "0029828",
+      "title": "794248 - Consultancy relating to business efficiency",
+      "conceptLink": "/ec2/concept/5978770"
+    }
+  },
+  {
+    "uri": "en/35/137795763",
+    "id": "137795763",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business analysis",
+    "harm": {
+      "id": "0051230",
+      "title": "137795763 - Consultancy relating to business analysis",
+      "conceptLink": "/ec2/concept/6010216"
+    }
+  },
+  {
+    "uri": "en/35/26516",
+    "id": "26516",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business management",
+    "harm": {
+      "id": "0057439",
+      "title": "26516 - Consultancy relating to business management",
+      "conceptLink": "/ec2/concept/5998945"
+    }
+  },
+  {
+    "uri": "en/35/137898461",
+    "id": "137898461",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to business management and organisation",
+    "harm": {
+      "id": "0057000",
+      "title": "137898461 - Consultancy relating to business management and organisation",
+      "conceptLink": "/ec2/concept/5998629"
+    }
+  },
+  {
+    "uri": "en/35/794277",
+    "id": "794277",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to costing of sales orders",
+    "harm": {
+      "id": "0006680",
+      "title": "794277 - Consultancy relating to costing of sales orders",
+      "conceptLink": "/ec2/concept/5957572"
+    }
+  },
+  {
+    "uri": "en/35/794291",
+    "id": "794291",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to data processing",
+    "harm": {
+      "id": "0006681",
+      "title": "794291 - Consultancy relating to data processing",
+      "conceptLink": "/ec2/concept/5957573"
+    }
+  },
+  {
+    "uri": "en/35/137734952",
+    "id": "137734952",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to demographics for marketing purposes",
+    "harm": {
+      "id": "0051302",
+      "title": "137734952 - Consultancy relating to demographics for marketing purposes",
+      "conceptLink": "/ec2/concept/6010288"
+    }
+  },
+  {
+    "uri": "en/35/483660",
+    "id": "483660",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to marketing",
+    "harm": {
+      "id": "0057398",
+      "title": "483660 - Consultancy relating to marketing",
+      "conceptLink": "/ec2/concept/5998905"
+    }
+  },
+  {
+    "uri": "en/35/794305",
+    "id": "794305",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to management selection",
+    "harm": {
+      "id": "0041381",
+      "title": "794305 - Consultancy relating to management selection",
+      "conceptLink": "/ec2/concept/5989294"
+    }
+  },
+  {
+    "uri": "en/35/364389",
+    "id": "364389",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to personnel recruitment",
+    "harm": {
+      "id": "0012463",
+      "title": "364389 - Consultancy relating to personnel recruitment",
+      "conceptLink": "/ec2/concept/5962869"
+    }
+  },
+  {
+    "uri": "en/35/794320",
+    "id": "794320",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to public relations",
+    "harm": {
+      "id": "0035612",
+      "title": "794320 - Consultancy relating to public relations",
+      "conceptLink": "/ec2/concept/5984033"
+    }
+  },
+  {
+    "uri": "en/35/26315",
+    "id": "26315",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to personnel management",
+    "harm": {
+      "id": "0059109",
+      "title": "26315 - Consultancy relating to personnel management",
+      "conceptLink": "/ec2/concept/6000600"
+    }
+  },
+  {
+    "uri": "en/35/791306",
+    "id": "791306",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to sales promotions",
+    "harm": {
+      "id": "0030463",
+      "title": "791306 - Consultancy relating to sales promotions",
+      "conceptLink": "/ec2/concept/5979353"
+    }
+  },
+  {
+    "uri": "en/35/137858669",
+    "id": "137858669",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to search engine optimisation",
+    "harm": {
+      "id": "0070708",
+      "title": "137858669 - Consultancy relating to search engine optimisation",
+      "conceptLink": "/ec2/concept/6006900"
+    }
+  },
+  {
+    "uri": "en/35/794378",
+    "id": "794378",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to the selection of personnel",
+    "harm": {
+      "id": "0002841",
+      "title": "794378 - Consultancy relating to the selection of personnel",
+      "conceptLink": "/ec2/concept/5954045"
+    }
+  },
+  {
+    "uri": "en/35/794365",
+    "id": "794365",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to the preparation of business statistics",
+    "harm": {
+      "id": "0025897",
+      "title": "794365 - Consultancy relating to the preparation of business statistics",
+      "conceptLink": "/ec2/concept/5975168"
+    }
+  },
+  {
+    "uri": "en/35/794351",
+    "id": "794351",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to the organisation of promotional campaigns for business",
+    "harm": {
+      "id": "0025896",
+      "title": "794351 - Consultancy relating to the organisation of promotional campaigns for business",
+      "conceptLink": "/ec2/concept/5975167"
+    }
+  },
+  {
+    "uri": "en/35/794337",
+    "id": "794337",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to the establishment and running of businesses",
+    "harm": {
+      "id": "0031700",
+      "title": "794337 - Consultancy relating to the establishment and running of businesses",
+      "conceptLink": "/ec2/concept/5980471"
+    }
+  },
+  {
+    "uri": "en/35/137816630",
+    "id": "137816630",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to tax accounting",
+    "harm": {
+      "id": "0051651",
+      "title": "137816630 - Consultancy relating to tax accounting",
+      "conceptLink": "/ec2/concept/6010637"
+    }
+  },
+  {
+    "uri": "en/35/26316",
+    "id": "26316",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy relating to the management of personnel",
+    "harm": {
+      "id": "0059109",
+      "title": "26316 - Consultancy relating to the management of personnel",
+      "conceptLink": "/ec2/concept/6000600"
+    }
+  },
+  {
+    "uri": "en/35/137738600",
+    "id": "137738600",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy services in the field of affiliate marketing",
+    "harm": {
+      "id": "0051429",
+      "title": "137738600 - Consultancy services in the field of affiliate marketing",
+      "conceptLink": "/ec2/concept/6010415"
+    }
+  },
+  {
+    "uri": "en/35/364456",
+    "id": "364456",
+    "lang": "en",
+    "classNumber": "35",
+    "term": "Consultancy services regarding business strategies",
+    "harm": {
+      "id": "0026647",
+      "title": "364456 - Consultancy services regarding business strategies",
+      "conceptLink": "/ec2/concept/5975852"
+    }
+  }
+]

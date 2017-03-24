@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/828444",
+    "id": "828444",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio information services",
+    "harm": {
+      "id": "0025556",
+      "title": "828444 - Radio information services",
+      "conceptLink": "/ec2/concept/5974857"
+    }
+  },
+  {
+    "uri": "en/38/370176",
+    "id": "370176",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio-paging",
+    "harm": {
+      "id": "0042438",
+      "title": "370176 - Radio-paging",
+      "conceptLink": "/ec2/concept/5990260"
+    }
+  },
+  {
+    "uri": "en/38/369978",
+    "id": "369978",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio-paging services",
+    "harm": {
+      "id": "0042438",
+      "title": "369978 - Radio-paging services",
+      "conceptLink": "/ec2/concept/5990260"
+    }
+  },
+  {
+    "uri": "en/38/41758",
+    "id": "41758",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio program broadcasting",
+    "harm": {
+      "id": "0059518",
+      "title": "41758 - Radio program broadcasting",
+      "conceptLink": "/ec2/concept/6000991"
+    }
+  },
+  {
+    "uri": "en/38/41759",
+    "id": "41759",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio programme broadcasting",
+    "harm": {
+      "id": "0059518",
+      "title": "41759 - Radio programme broadcasting",
+      "conceptLink": "/ec2/concept/6000991"
+    }
+  },
+  {
+    "uri": "en/38/828456",
+    "id": "828456",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio telecommunications",
+    "harm": {
+      "id": "0008143",
+      "title": "828456 - Radio telecommunications",
+      "conceptLink": "/ec2/concept/5958908"
+    }
+  },
+  {
+    "uri": "en/38/828470",
+    "id": "828470",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio telegraphic communication services",
+    "harm": {
+      "id": "0042893",
+      "title": "828470 - Radio telegraphic communication services",
+      "conceptLink": "/ec2/concept/5990666"
+    }
+  },
+  {
+    "uri": "en/38/828481",
+    "id": "828481",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio telephone communication services",
+    "harm": {
+      "id": "0019854",
+      "title": "828481 - Radio telephone communication services",
+      "conceptLink": "/ec2/concept/5969627"
+    }
+  },
+  {
+    "uri": "en/38/370160",
+    "id": "370160",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio/telephone paging services",
+    "harm": {
+      "id": "0003753",
+      "title": "370160 - Radio/telephone paging services",
+      "conceptLink": "/ec2/concept/5954886"
+    }
+  },
+  {
+    "uri": "en/38/908271",
+    "id": "908271",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio, telephone, telegraph communication services",
+    "harm": {
+      "id": "0010189",
+      "title": "908271 - Radio, telephone, telegraph communication services",
+      "conceptLink": "/ec2/concept/5960778"
+    }
+  },
+  {
+    "uri": "en/38/120870198",
+    "id": "120870198",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Radio, television and cable broadcasting services",
+    "harm": {
+      "id": "0068490",
+      "title": "120870198 - Radio, television and cable broadcasting services",
+      "conceptLink": "/ec2/concept/6004693"
+    }
+  },
+  {
+    "uri": "en/38/828507",
+    "id": "828507",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Reception of television programmes for onward transmission to subscribers",
+    "harm": {
+      "id": "0037139",
+      "title": "828507 - Reception of television programmes for onward transmission to subscribers",
+      "conceptLink": "/ec2/concept/5985419"
+    }
+  },
+  {
+    "uri": "en/38/828519",
+    "id": "828519",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Relaying of messages [electronic]",
+    "harm": {
+      "id": "0014017",
+      "title": "828519 - Relaying of messages [electronic]",
+      "conceptLink": "/ec2/concept/5964283"
+    }
+  },
+  {
+    "uri": "en/38/828534",
+    "id": "828534",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Relaying of television programmes by extra-terrestrial satellite",
+    "harm": {
+      "id": "0008145",
+      "title": "828534 - Relaying of television programmes by extra-terrestrial satellite",
+      "conceptLink": "/ec2/concept/5958909"
+    }
+  },
+  {
+    "uri": "en/38/828546",
+    "id": "828546",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Remote transmission of audio signals by means of telecommunications",
+    "harm": {
+      "id": "0008146",
+      "title": "828546 - Remote transmission of audio signals by means of telecommunications",
+      "conceptLink": "/ec2/concept/5958910"
+    }
+  },
+  {
+    "uri": "en/38/828560",
+    "id": "828560",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Remote transmission of data by means of telecommunications",
+    "harm": {
+      "id": "0037140",
+      "title": "828560 - Remote transmission of data by means of telecommunications",
+      "conceptLink": "/ec2/concept/5985420"
+    }
+  },
+  {
+    "uri": "en/38/478200",
+    "id": "478200",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of access time to a computer database",
+    "harm": {
+      "id": "0019856",
+      "title": "478200 - Rental of access time to a computer database",
+      "conceptLink": "/ec2/concept/5969629"
+    }
+  },
+  {
+    "uri": "en/38/120870170",
+    "id": "120870170",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of access time to a database server",
+    "harm": {
+      "id": "0068489",
+      "title": "120870170 - Rental of access time to a database server",
+      "conceptLink": "/ec2/concept/6004692"
+    }
+  },
+  {
+    "uri": "en/38/495717",
+    "id": "495717",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of access time to global computer networks",
+    "harm": {
+      "id": "0034805",
+      "title": "495717 - Rental of access time to global computer networks",
+      "conceptLink": "/ec2/concept/5983301"
+    }
+  },
+  {
+    "uri": "en/38/828587",
+    "id": "828587",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of apparatus for the broadcast of video signals",
+    "harm": {
+      "id": "0014018",
+      "title": "828587 - Rental of apparatus for the broadcast of video signals",
+      "conceptLink": "/ec2/concept/5964284"
+    }
+  },
+  {
+    "uri": "en/38/370199",
+    "id": "370199",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of apparatus for transmitting images",
+    "harm": {
+      "id": "0003754",
+      "title": "370199 - Rental of apparatus for transmitting images",
+      "conceptLink": "/ec2/concept/5954887"
+    }
+  },
+  {
+    "uri": "en/38/828574",
+    "id": "828574",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of apparatus for the broadcast of audio signals",
+    "harm": {
+      "id": "0025557",
+      "title": "828574 - Rental of apparatus for the broadcast of audio signals",
+      "conceptLink": "/ec2/concept/5974858"
+    }
+  },
+  {
+    "uri": "en/38/828600",
+    "id": "828600",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of broadcasting apparatus for outside broadcasts",
+    "harm": {
+      "id": "0042894",
+      "title": "828600 - Rental of broadcasting apparatus for outside broadcasts",
+      "conceptLink": "/ec2/concept/5990667"
+    }
+  },
+  {
+    "uri": "en/38/828613",
+    "id": "828613",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of broadcasting equipment",
+    "harm": {
+      "id": "0028964",
+      "title": "828613 - Rental of broadcasting equipment",
+      "conceptLink": "/ec2/concept/5977983"
+    }
+  },
+  {
+    "uri": "en/38/828630",
+    "id": "828630",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of broadcasting time by satellite",
+    "harm": {
+      "id": "0018693",
+      "title": "828630 - Rental of broadcasting time by satellite",
+      "conceptLink": "/ec2/concept/5968575"
+    }
+  },
+  {
+    "uri": "en/38/906677",
+    "id": "906677",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of cellular telephones",
+    "harm": {
+      "id": "0024482",
+      "title": "906677 - Rental of cellular telephones",
+      "conceptLink": "/ec2/concept/5973867"
+    }
+  },
+  {
+    "uri": "en/38/370213",
+    "id": "370213",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of communication apparatus and implements",
+    "harm": {
+      "id": "0038399",
+      "title": "370213 - Rental of communication apparatus and implements",
+      "conceptLink": "/ec2/concept/5986572"
+    }
+  },
+  {
+    "uri": "en/38/826758",
+    "id": "826758",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of communications instruments",
+    "harm": {
+      "id": "0024040",
+      "title": "826758 - Rental of communications instruments",
+      "conceptLink": "/ec2/concept/5973464"
+    }
+  },
+  {
+    "uri": "en/38/826757",
+    "id": "826757",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of communications equipment",
+    "harm": {
+      "id": "0024040",
+      "title": "826757 - Rental of communications equipment",
+      "conceptLink": "/ec2/concept/5973464"
+    }
+  },
+  {
+    "uri": "en/38/828643",
+    "id": "828643",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of communications channels",
+    "harm": {
+      "id": "0041778",
+      "title": "828643 - Rental of communications channels",
+      "conceptLink": "/ec2/concept/5989654"
+    }
+  },
+  {
+    "uri": "en/38/828655",
+    "id": "828655",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of communications systems",
+    "harm": {
+      "id": "0041779",
+      "title": "828655 - Rental of communications systems",
+      "conceptLink": "/ec2/concept/5989655"
+    }
+  },
+  {
+    "uri": "en/38/906800",
+    "id": "906800",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of computer communication apparatus and instruments",
+    "harm": {
+      "id": "0015178",
+      "title": "906800 - Rental of computer communication apparatus and instruments",
+      "conceptLink": "/ec2/concept/5965354"
+    }
+  },
+  {
+    "uri": "en/38/827297",
+    "id": "827297",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of electronic mail-boxes",
+    "harm": {
+      "id": "0024461",
+      "title": "827297 - Rental of electronic mail-boxes",
+      "conceptLink": "/ec2/concept/5973846"
+    }
+  },
+  {
+    "uri": "en/38/828614",
+    "id": "828614",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of equipment for broadcasting",
+    "harm": {
+      "id": "0028964",
+      "title": "828614 - Rental of equipment for broadcasting",
+      "conceptLink": "/ec2/concept/5977983"
+    }
+  },
+  {
+    "uri": "en/38/43543",
+    "id": "43543",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of equipment for telecommunications",
+    "harm": {
+      "id": "0057675",
+      "title": "43543 - Rental of equipment for telecommunications",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/120868003",
+    "id": "120868003",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of equipment for television broadcasting",
+    "harm": {
+      "id": "0068511",
+      "title": "120868003 - Rental of equipment for television broadcasting",
+      "conceptLink": "/ec2/concept/6004714"
+    }
+  },
+  {
+    "uri": "en/38/43448",
+    "id": "43448",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of facsimile apparatus",
+    "harm": {
+      "id": "0041337",
+      "title": "43448 - Rental of facsimile apparatus",
+      "conceptLink": "/ec2/concept/5989257"
+    }
+  },
+  {
+    "uri": "en/38/43450",
+    "id": "43450",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of facsimile machines",
+    "harm": {
+      "id": "0041337",
+      "title": "43450 - Rental of facsimile machines",
+      "conceptLink": "/ec2/concept/5989257"
+    }
+  },
+  {
+    "uri": "en/38/828669",
+    "id": "828669",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of facsimile transceivers",
+    "harm": {
+      "id": "0041780",
+      "title": "828669 - Rental of facsimile transceivers",
+      "conceptLink": "/ec2/concept/5989656"
+    }
+  },
+  {
+    "uri": "en/38/828681",
+    "id": "828681",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of frequency converters [for use in communications]",
+    "harm": {
+      "id": "0030201",
+      "title": "828681 - Rental of frequency converters [for use in communications]",
+      "conceptLink": "/ec2/concept/5979113"
+    }
+  },
+  {
+    "uri": "en/38/43327",
+    "id": "43327",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of information transmitting equipment",
+    "harm": {
+      "id": "0000688",
+      "title": "43327 - Rental of information transmitting equipment",
+      "conceptLink": "/ec2/concept/5952107"
+    }
+  },
+  {
+    "uri": "en/38/827784",
+    "id": "827784",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of megaphones",
+    "harm": {
+      "id": "0036003",
+      "title": "827784 - Rental of megaphones",
+      "conceptLink": "/ec2/concept/5984385"
+    }
+  },
+  {
+    "uri": "en/38/43326",
+    "id": "43326",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of message sending apparatus",
+    "harm": {
+      "id": "0000688",
+      "title": "43326 - Rental of message sending apparatus",
+      "conceptLink": "/ec2/concept/5952107"
+    }
+  },
+  {
+    "uri": "en/38/828694",
+    "id": "828694",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of microwave signal transmission systems",
+    "harm": {
+      "id": "0018694",
+      "title": "828694 - Rental of microwave signal transmission systems",
+      "conceptLink": "/ec2/concept/5968576"
+    }
+  },
+  {
+    "uri": "en/38/43491",
+    "id": "43491",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of modems",
+    "harm": {
+      "id": "0037818",
+      "title": "43491 - Rental of modems",
+      "conceptLink": "/ec2/concept/5986033"
+    }
+  },
+  {
+    "uri": "en/38/12194966",
+    "id": "12194966",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio and television broadcasting facilities",
+    "harm": {
+      "id": "0068488",
+      "title": "12194966 - Rental of radio and television broadcasting facilities",
+      "conceptLink": "/ec2/concept/6004691"
+    }
+  },
+  {
+    "uri": "en/38/828711",
+    "id": "828711",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio broadcasting instruments",
+    "harm": {
+      "id": "0018695",
+      "title": "828711 - Rental of radio broadcasting instruments",
+      "conceptLink": "/ec2/concept/5968577"
+    }
+  },
+  {
+    "uri": "en/38/828733",
+    "id": "828733",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio communications equipment",
+    "harm": {
+      "id": "0030202",
+      "title": "828733 - Rental of radio communications equipment",
+      "conceptLink": "/ec2/concept/5979114"
+    }
+  },
+  {
+    "uri": "en/38/828745",
+    "id": "828745",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio equipment",
+    "harm": {
+      "id": "0041781",
+      "title": "828745 - Rental of radio equipment",
+      "conceptLink": "/ec2/concept/5989657"
+    }
+  },
+  {
+    "uri": "en/38/827666",
+    "id": "827666",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio paging apparatus",
+    "harm": {
+      "id": "0000850",
+      "title": "827666 - Rental of radio paging apparatus",
+      "conceptLink": "/ec2/concept/5952252"
+    }
+  },
+  {
+    "uri": "en/38/828712",
+    "id": "828712",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of radio transmission apparatus",
+    "harm": {
+      "id": "0018695",
+      "title": "828712 - Rental of radio transmission apparatus",
+      "conceptLink": "/ec2/concept/5968577"
+    }
+  },
+  {
+    "uri": "en/38/828775",
+    "id": "828775",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of satellite broadcasting sets",
+    "harm": {
+      "id": "0022148",
+      "title": "828775 - Rental of satellite broadcasting sets",
+      "conceptLink": "/ec2/concept/5971728"
+    }
+  },
+  {
+    "uri": "en/38/828762",
+    "id": "828762",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of satellite broadcast receiving aerials",
+    "harm": {
+      "id": "0039348",
+      "title": "828762 - Rental of satellite broadcast receiving aerials",
+      "conceptLink": "/ec2/concept/5987431"
+    }
+  },
+  {
+    "uri": "en/38/828763",
+    "id": "828763",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of satellite broadcast receiving antenna",
+    "harm": {
+      "id": "0039348",
+      "title": "828763 - Rental of satellite broadcast receiving antenna",
+      "conceptLink": "/ec2/concept/5987431"
+    }
+  },
+  {
+    "uri": "en/38/828813",
+    "id": "828813",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of signal decoders [for use in communications]",
+    "harm": {
+      "id": "0045068",
+      "title": "828813 - Rental of signal decoders [for use in communications]",
+      "conceptLink": "/ec2/concept/5992661"
+    }
+  },
+  {
+    "uri": "en/38/828792",
+    "id": "828792",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of signal decoders",
+    "harm": {
+      "id": "0041186",
+      "title": "828792 - Rental of signal decoders",
+      "conceptLink": "/ec2/concept/5989114"
+    }
+  },
+  {
+    "uri": "en/38/828826",
+    "id": "828826",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of signalling apparatus",
+    "harm": {
+      "id": "0018072",
+      "title": "828826 - Rental of signalling apparatus",
+      "conceptLink": "/ec2/concept/5967997"
+    }
+  },
+  {
+    "uri": "en/38/370228",
+    "id": "370228",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunication equipment including telephones and facsimile apparatus",
+    "harm": {
+      "id": "0002785",
+      "title": "370228 - Rental of telecommunication equipment including telephones and facsimile apparatus",
+      "conceptLink": "/ec2/concept/5953994"
+    }
+  },
+  {
+    "uri": "en/38/906798",
+    "id": "906798",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunication facilities",
+    "harm": {
+      "id": "0057676",
+      "title": "906798 - Rental of telecommunication facilities",
+      "conceptLink": "/ec2/concept/5999180"
+    }
+  },
+  {
+    "uri": "en/38/370247",
+    "id": "370247",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunications lines",
+    "harm": {
+      "id": "0020191",
+      "title": "370247 - Rental of telecommunications lines",
+      "conceptLink": "/ec2/concept/5969936"
+    }
+  },
+  {
+    "uri": "en/38/886912",
+    "id": "886912",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunications apparatus and installations",
+    "harm": {
+      "id": "0023090",
+      "title": "886912 - Rental of telecommunications apparatus and installations",
+      "conceptLink": "/ec2/concept/5972582"
+    }
+  },
+  {
+    "uri": "en/38/43553",
+    "id": "43553",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunications apparatus",
+    "harm": {
+      "id": "0057675",
+      "title": "43553 - Rental of telecommunications apparatus",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/43542",
+    "id": "43542",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunications equipment",
+    "harm": {
+      "id": "0057675",
+      "title": "43542 - Rental of telecommunications equipment",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/120868308",
+    "id": "120868308",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunication devices and equipment enabling connection to networks",
+    "harm": {
+      "id": "0068536",
+      "title": "120868308 - Rental of telecommunication devices and equipment enabling connection to networks",
+      "conceptLink": "/ec2/concept/6004739"
+    }
+  },
+  {
+    "uri": "en/38/43544",
+    "id": "43544",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telecommunication equipment",
+    "harm": {
+      "id": "0057675",
+      "title": "43544 - Rental of telecommunication equipment",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/827718",
+    "id": "827718",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telephone lines",
+    "harm": {
+      "id": "0024041",
+      "title": "827718 - Rental of telephone lines",
+      "conceptLink": "/ec2/concept/5973465"
+    }
+  },
+  {
+    "uri": "en/38/43658",
+    "id": "43658",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of telephones",
+    "harm": {
+      "id": "0035568",
+      "title": "43658 - Rental of telephones",
+      "conceptLink": "/ec2/concept/5983993"
+    }
+  },
+  {
+    "uri": "en/38/906799",
+    "id": "906799",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of teleprocessing apparatus and instruments",
+    "harm": {
+      "id": "0019820",
+      "title": "906799 - Rental of teleprocessing apparatus and instruments",
+      "conceptLink": "/ec2/concept/5969596"
+    }
+  },
+  {
+    "uri": "en/38/478238",
+    "id": "478238",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Rental of wireless communication systems",
+    "harm": {
+      "id": "0006702",
+      "title": "478238 - Rental of wireless communication systems",
+      "conceptLink": "/ec2/concept/5957590"
+    }
+  },
+  {
+    "uri": "en/38/456910",
+    "id": "456910",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Retransmission of images via satellite",
+    "harm": {
+      "id": "0022043",
+      "title": "456910 - Retransmission of images via satellite",
+      "conceptLink": "/ec2/concept/5971633"
+    }
+  },
+  {
+    "uri": "en/38/43869",
+    "id": "43869",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Routing and connecting services for telecommunications",
+    "harm": {
+      "id": "0012431",
+      "title": "43869 - Routing and connecting services for telecommunications",
+      "conceptLink": "/ec2/concept/5962842"
+    }
+  },
+  {
+    "uri": "en/38/828841",
+    "id": "828841",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satelite capacity provision [telecommunications]",
+    "harm": {
+      "id": "0010427",
+      "title": "828841 - Satelite capacity provision [telecommunications]",
+      "conceptLink": "/ec2/concept/5960997"
+    }
+  },
+  {
+    "uri": "en/38/455105",
+    "id": "455105",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite and cable broadcasting",
+    "harm": {
+      "id": "0018608",
+      "title": "455105 - Satellite and cable broadcasting",
+      "conceptLink": "/ec2/concept/5968492"
+    }
+  },
+  {
+    "uri": "en/38/43721",
+    "id": "43721",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite broadcasting",
+    "harm": {
+      "id": "0032035",
+      "title": "43721 - Satellite broadcasting",
+      "conceptLink": "/ec2/concept/5980773"
+    }
+  },
+  {
+    "uri": "en/38/828855",
+    "id": "828855",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite broadcasting services relating to business",
+    "harm": {
+      "id": "0016231",
+      "title": "828855 - Satellite broadcasting services relating to business",
+      "conceptLink": "/ec2/concept/5966331"
+    }
+  },
+  {
+    "uri": "en/38/828882",
+    "id": "828882",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite broadcasting services relating to sporting events",
+    "harm": {
+      "id": "0033540",
+      "title": "828882 - Satellite broadcasting services relating to sporting events",
+      "conceptLink": "/ec2/concept/5982153"
+    }
+  },
+  {
+    "uri": "en/38/43723",
+    "id": "43723",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite broadcasting services",
+    "harm": {
+      "id": "0032035",
+      "title": "43723 - Satellite broadcasting services",
+      "conceptLink": "/ec2/concept/5980773"
+    }
+  },
+  {
+    "uri": "en/38/828868",
+    "id": "828868",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite broadcasting services relating to entertainment",
+    "harm": {
+      "id": "0039349",
+      "title": "828868 - Satellite broadcasting services relating to entertainment",
+      "conceptLink": "/ec2/concept/5987432"
+    }
+  },
+  {
+    "uri": "en/38/828897",
+    "id": "828897",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite communication services for business users",
+    "harm": {
+      "id": "0022149",
+      "title": "828897 - Satellite communication services for business users",
+      "conceptLink": "/ec2/concept/5971729"
+    }
+  },
+  {
+    "uri": "en/38/486921",
+    "id": "486921",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite communication services",
+    "harm": {
+      "id": "0041634",
+      "title": "486921 - Satellite communication services",
+      "conceptLink": "/ec2/concept/5989527"
+    }
+  },
+  {
+    "uri": "en/38/486922",
+    "id": "486922",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite communications services",
+    "harm": {
+      "id": "0041634",
+      "title": "486922 - Satellite communications services",
+      "conceptLink": "/ec2/concept/5989527"
+    }
+  },
+  {
+    "uri": "en/38/486924",
+    "id": "486924",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite telecommunications services",
+    "harm": {
+      "id": "0041634",
+      "title": "486924 - Satellite telecommunications services",
+      "conceptLink": "/ec2/concept/5989527"
+    }
+  },
+  {
+    "uri": "en/38/370264",
+    "id": "370264",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite television broadcasting",
+    "harm": {
+      "id": "0020192",
+      "title": "370264 - Satellite television broadcasting",
+      "conceptLink": "/ec2/concept/5969937"
+    }
+  },
+  {
+    "uri": "en/38/43720",
+    "id": "43720",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission",
+    "harm": {
+      "id": "0047123",
+      "title": "43720 - Satellite transmission",
+      "conceptLink": "/ec2/concept/5994494"
+    }
+  },
+  {
+    "uri": "en/38/455314",
+    "id": "455314",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission of data via an on-line global computer network",
+    "harm": {
+      "id": "0011425",
+      "title": "455314 - Satellite transmission of data via an on-line global computer network",
+      "conceptLink": "/ec2/concept/5961910"
+    }
+  },
+  {
+    "uri": "en/38/456978",
+    "id": "456978",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission of sounds and images",
+    "harm": {
+      "id": "0027646",
+      "title": "456978 - Satellite transmission of sounds and images",
+      "conceptLink": "/ec2/concept/5976761"
+    }
+  },
+  {
+    "uri": "en/38/456938",
+    "id": "456938",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission of data, sounds and images",
+    "harm": {
+      "id": "0018907",
+      "title": "456938 - Satellite transmission of data, sounds and images",
+      "conceptLink": "/ec2/concept/5968775"
+    }
+  },
+  {
+    "uri": "en/38/907101",
+    "id": "907101",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission of sounds, images, signals and data",
+    "harm": {
+      "id": "0044400",
+      "title": "907101 - Satellite transmission of sounds, images, signals and data",
+      "conceptLink": "/ec2/concept/5992047"
+    }
+  },
+  {
+    "uri": "en/38/43724",
+    "id": "43724",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite transmission services",
+    "harm": {
+      "id": "0047123",
+      "title": "43724 - Satellite transmission services",
+      "conceptLink": "/ec2/concept/5994494"
+    }
+  },
+  {
+    "uri": "en/38/828909",
+    "id": "828909",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Satellite video conferencing services",
+    "harm": {
+      "id": "0023881",
+      "title": "828909 - Satellite video conferencing services",
+      "conceptLink": "/ec2/concept/5973312"
+    }
+  },
+  {
+    "uri": "en/38/370280",
+    "id": "370280",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Secure e-mail services",
+    "harm": {
+      "id": "0031631",
+      "title": "370280 - Secure e-mail services",
+      "conceptLink": "/ec2/concept/5980406"
+    }
+  },
+  {
+    "uri": "en/38/457008",
+    "id": "457008",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Secure transmission of data, sound or images",
+    "harm": {
+      "id": "0044925",
+      "title": "457008 - Secure transmission of data, sound or images",
+      "conceptLink": "/ec2/concept/5992531"
+    }
+  },
+  {
+    "uri": "en/38/457029",
+    "id": "457029",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Secured data, sound and image transmission services",
+    "harm": {
+      "id": "0016113",
+      "title": "457029 - Secured data, sound and image transmission services",
+      "conceptLink": "/ec2/concept/5966224"
+    }
+  },
+  {
+    "uri": "en/38/120892324",
+    "id": "120892324",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending and receiving of electronic messages",
+    "harm": {
+      "id": "0068472",
+      "title": "120892324 - Sending and receiving of electronic messages",
+      "conceptLink": "/ec2/concept/6004675"
+    }
+  },
+  {
+    "uri": "en/38/43325",
+    "id": "43325",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending apparatus (Rental of message -)",
+    "harm": {
+      "id": "0000688",
+      "title": "43325 - Sending apparatus (Rental of message -)",
+      "conceptLink": "/ec2/concept/5952107"
+    }
+  },
+  {
+    "uri": "en/38/828937",
+    "id": "828937",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending of emergency messages [by electronic means]",
+    "harm": {
+      "id": "0029609",
+      "title": "828937 - Sending of emergency messages [by electronic means]",
+      "conceptLink": "/ec2/concept/5978569"
+    }
+  },
+  {
+    "uri": "en/38/828951",
+    "id": "828951",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending of emergency messages for travellers [by electronic means]",
+    "harm": {
+      "id": "0000689",
+      "title": "828951 - Sending of emergency messages for travellers [by electronic means]",
+      "conceptLink": "/ec2/concept/5952108"
+    }
+  },
+  {
+    "uri": "en/38/370504",
+    "id": "370504",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending of messages [by electronic means]",
+    "harm": {
+      "id": "0013417",
+      "title": "370504 - Sending of messages [by electronic means]",
+      "conceptLink": "/ec2/concept/5963734"
+    }
+  },
+  {
+    "uri": "en/38/1502795",
+    "id": "1502795",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending of telegrams",
+    "harm": {
+      "id": "0059236",
+      "title": "1502795 - Sending of telegrams",
+      "conceptLink": "/ec2/concept/6000725"
+    }
+  },
+  {
+    "uri": "en/38/828922",
+    "id": "828922",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Sending [transmission] of news",
+    "harm": {
+      "id": "0041185",
+      "title": "828922 - Sending [transmission] of news",
+      "conceptLink": "/ec2/concept/5989113"
+    }
+  }
+]

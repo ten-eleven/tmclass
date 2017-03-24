@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/14/339740",
+    "id": "339740",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold and its alloys",
+    "harm": {
+      "id": "0002302",
+      "title": "339740 - Gold and its alloys",
+      "conceptLink": "/ec2/concept/5953558"
+    }
+  },
+  {
+    "uri": "en/14/339742",
+    "id": "339742",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold base alloys",
+    "harm": {
+      "id": "0002302",
+      "title": "339742 - Gold base alloys",
+      "conceptLink": "/ec2/concept/5953558"
+    }
+  },
+  {
+    "uri": "en/14/751427",
+    "id": "751427",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold bracelets",
+    "harm": {
+      "id": "0019714",
+      "title": "751427 - Gold bracelets",
+      "conceptLink": "/ec2/concept/5969502"
+    }
+  },
+  {
+    "uri": "en/14/136027058",
+    "id": "136027058",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold bullion",
+    "harm": {
+      "id": "0050530",
+      "title": "136027058 - Gold bullion",
+      "conceptLink": "/ec2/concept/5995899"
+    }
+  },
+  {
+    "uri": "en/14/751443",
+    "id": "751443",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold bullion coins",
+    "harm": {
+      "id": "0019715",
+      "title": "751443 - Gold bullion coins",
+      "conceptLink": "/ec2/concept/5969503"
+    }
+  },
+  {
+    "uri": "en/14/751462",
+    "id": "751462",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold chains",
+    "harm": {
+      "id": "0031144",
+      "title": "751462 - Gold chains",
+      "conceptLink": "/ec2/concept/5979978"
+    }
+  },
+  {
+    "uri": "en/14/751444",
+    "id": "751444",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold coins",
+    "harm": {
+      "id": "0019715",
+      "title": "751444 - Gold coins",
+      "conceptLink": "/ec2/concept/5969503"
+    }
+  },
+  {
+    "uri": "en/14/751474",
+    "id": "751474",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold earrings",
+    "harm": {
+      "id": "0019716",
+      "title": "751474 - Gold earrings",
+      "conceptLink": "/ec2/concept/5969504"
+    }
+  },
+  {
+    "uri": "en/14/339774",
+    "id": "339774",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold ingots",
+    "harm": {
+      "id": "0004676",
+      "title": "339774 - Gold ingots",
+      "conceptLink": "/ec2/concept/5955737"
+    }
+  },
+  {
+    "uri": "en/14/751491",
+    "id": "751491",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold jewellery",
+    "harm": {
+      "id": "0019717",
+      "title": "751491 - Gold jewellery",
+      "conceptLink": "/ec2/concept/5969505"
+    }
+  },
+  {
+    "uri": "en/14/751520",
+    "id": "751520",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold medals",
+    "harm": {
+      "id": "0008006",
+      "title": "751520 - Gold medals",
+      "conceptLink": "/ec2/concept/5958785"
+    }
+  },
+  {
+    "uri": "en/14/119640117",
+    "id": "119640117",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold necklaces",
+    "harm": {
+      "id": "0071723",
+      "title": "119640117 - Gold necklaces",
+      "conceptLink": "/ec2/concept/6007911"
+    }
+  },
+  {
+    "uri": "en/14/751533",
+    "id": "751533",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold plated bracelets",
+    "harm": {
+      "id": "0019718",
+      "title": "751533 - Gold plated bracelets",
+      "conceptLink": "/ec2/concept/5969506"
+    }
+  },
+  {
+    "uri": "en/14/751547",
+    "id": "751547",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold plated brooches [jewellery]",
+    "harm": {
+      "id": "0005978",
+      "title": "751547 - Gold plated brooches [jewellery]",
+      "conceptLink": "/ec2/concept/5956927"
+    }
+  },
+  {
+    "uri": "en/14/894216",
+    "id": "894216",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold plated chains",
+    "harm": {
+      "id": "0006410",
+      "title": "894216 - Gold plated chains",
+      "conceptLink": "/ec2/concept/5957325"
+    }
+  },
+  {
+    "uri": "en/14/137883752",
+    "id": "137883752",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold-plated earrings",
+    "harm": {
+      "id": "0011753",
+      "title": "137883752 - Gold-plated earrings",
+      "conceptLink": "/ec2/concept/5962215"
+    }
+  },
+  {
+    "uri": "en/14/751563",
+    "id": "751563",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold plated earrings",
+    "harm": {
+      "id": "0011753",
+      "title": "751563 - Gold plated earrings",
+      "conceptLink": "/ec2/concept/5962215"
+    }
+  },
+  {
+    "uri": "en/14/137883781",
+    "id": "137883781",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold-plated necklaces",
+    "harm": {
+      "id": "0071724",
+      "title": "137883781 - Gold-plated necklaces",
+      "conceptLink": "/ec2/concept/6007912"
+    }
+  },
+  {
+    "uri": "en/14/137883843",
+    "id": "137883843",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold-plated rings",
+    "harm": {
+      "id": "0005979",
+      "title": "137883843 - Gold-plated rings",
+      "conceptLink": "/ec2/concept/5956928"
+    }
+  },
+  {
+    "uri": "en/14/751576",
+    "id": "751576",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold plated rings",
+    "harm": {
+      "id": "0005979",
+      "title": "751576 - Gold plated rings",
+      "conceptLink": "/ec2/concept/5956928"
+    }
+  },
+  {
+    "uri": "en/14/751588",
+    "id": "751588",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold rings",
+    "harm": {
+      "id": "0029070",
+      "title": "751588 - Gold rings",
+      "conceptLink": "/ec2/concept/5978081"
+    }
+  },
+  {
+    "uri": "en/14/132803269",
+    "id": "132803269",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold thread [jewellery]",
+    "harm": {
+      "id": "0023313",
+      "title": "132803269 - Gold thread [jewellery]",
+      "conceptLink": "/ec2/concept/5972790"
+    }
+  },
+  {
+    "uri": "en/14/199650",
+    "id": "199650",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold thread [jewellery, jewelry (Am.)]",
+    "harm": {
+      "id": "0023313",
+      "title": "199650 - Gold thread [jewellery, jewelry (Am.)]",
+      "conceptLink": "/ec2/concept/5972790"
+    }
+  },
+  {
+    "uri": "en/14/904103",
+    "id": "904103",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold thread jewelry",
+    "harm": {
+      "id": "0023313",
+      "title": "904103 - Gold thread jewelry",
+      "conceptLink": "/ec2/concept/5972790"
+    }
+  },
+  {
+    "uri": "en/14/132803270",
+    "id": "132803270",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold thread [jewelry]",
+    "harm": {
+      "id": "0023313",
+      "title": "132803270 - Gold thread [jewelry]",
+      "conceptLink": "/ec2/concept/5972790"
+    }
+  },
+  {
+    "uri": "en/14/199619",
+    "id": "199619",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold, unworked or semi-worked",
+    "harm": {
+      "id": "0002599",
+      "title": "199619 - Gold, unworked or semi-worked",
+      "conceptLink": "/ec2/concept/5953824"
+    }
+  },
+  {
+    "uri": "en/14/199620",
+    "id": "199620",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Gold, unwrought or beaten",
+    "harm": {
+      "id": "0002599",
+      "title": "199620 - Gold, unwrought or beaten",
+      "conceptLink": "/ec2/concept/5953824"
+    }
+  },
+  {
+    "uri": "en/14/197614",
+    "id": "197614",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Grandfather clocks",
+    "harm": {
+      "id": "0020359",
+      "title": "197614 - Grandfather clocks",
+      "conceptLink": "/ec2/concept/5970088"
+    }
+  },
+  {
+    "uri": "en/14/119534918",
+    "id": "119534918",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Grave markers of precious metal",
+    "harm": {
+      "id": "0073810",
+      "title": "119534918 - Grave markers of precious metal",
+      "conceptLink": "/ec2/concept/6009980"
+    }
+  },
+  {
+    "uri": "en/14/197364",
+    "id": "197364",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hands (Clock -) [clock and watch making]",
+    "harm": {
+      "id": "0058873",
+      "title": "197364 - Hands (Clock -) [clock and watch making]",
+      "conceptLink": "/ec2/concept/6000364"
+    }
+  },
+  {
+    "uri": "en/14/197365",
+    "id": "197365",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hands for clocks",
+    "harm": {
+      "id": "0058873",
+      "title": "197365 - Hands for clocks",
+      "conceptLink": "/ec2/concept/6000364"
+    }
+  },
+  {
+    "uri": "en/14/233557474",
+    "id": "233557474",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hat jewellery",
+    "harm": {
+      "id": "0037318",
+      "title": "233557474 - Hat jewellery",
+      "conceptLink": "/ec2/concept/5985581"
+    }
+  },
+  {
+    "uri": "en/14/233557475",
+    "id": "233557475",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hat jewelry",
+    "harm": {
+      "id": "0037318",
+      "title": "233557475 - Hat jewelry",
+      "conceptLink": "/ec2/concept/5985581"
+    }
+  },
+  {
+    "uri": "en/14/200398",
+    "id": "200398",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hat ornaments of precious metal",
+    "harm": {
+      "id": "0037318",
+      "title": "200398 - Hat ornaments of precious metal",
+      "conceptLink": "/ec2/concept/5985581"
+    }
+  },
+  {
+    "uri": "en/14/137750492",
+    "id": "137750492",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Holiday ornaments [figurines] of precious metal, other than tree ornaments",
+    "harm": {
+      "id": "0074087",
+      "title": "137750492 - Holiday ornaments [figurines] of precious metal, other than tree ornaments",
+      "conceptLink": "/ec2/concept/6011323"
+    }
+  },
+  {
+    "uri": "en/14/138431425",
+    "id": "138431425",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Hoop earrings",
+    "harm": {
+      "id": "0070317",
+      "title": "138431425 - Hoop earrings",
+      "conceptLink": "/ec2/concept/6006510"
+    }
+  },
+  {
+    "uri": "en/14/751601",
+    "id": "751601",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Horological articles",
+    "harm": {
+      "id": "0011754",
+      "title": "751601 - Horological articles",
+      "conceptLink": "/ec2/concept/5962216"
+    }
+  },
+  {
+    "uri": "en/14/197617",
+    "id": "197617",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Horological instruments",
+    "harm": {
+      "id": "0057824",
+      "title": "197617 - Horological instruments",
+      "conceptLink": "/ec2/concept/5999328"
+    }
+  },
+  {
+    "uri": "en/14/750863",
+    "id": "750863",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Horological instruments having quartz movements",
+    "harm": {
+      "id": "0017504",
+      "title": "750863 - Horological instruments having quartz movements",
+      "conceptLink": "/ec2/concept/5967478"
+    }
+  },
+  {
+    "uri": "en/14/751625",
+    "id": "751625",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Horological instruments made of gold",
+    "harm": {
+      "id": "0011755",
+      "title": "751625 - Horological instruments made of gold",
+      "conceptLink": "/ec2/concept/5962217"
+    }
+  },
+  {
+    "uri": "en/14/751602",
+    "id": "751602",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Horological products",
+    "harm": {
+      "id": "0011754",
+      "title": "751602 - Horological products",
+      "conceptLink": "/ec2/concept/5962216"
+    }
+  },
+  {
+    "uri": "en/14/133634010",
+    "id": "133634010",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Housings for clocks and watches",
+    "harm": {
+      "id": "0023168",
+      "title": "133634010 - Housings for clocks and watches",
+      "conceptLink": "/ec2/concept/5972655"
+    }
+  },
+  {
+    "uri": "en/14/415675",
+    "id": "415675",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Identification bracelets [jewelry]",
+    "harm": {
+      "id": "0043384",
+      "title": "415675 - Identification bracelets [jewelry]",
+      "conceptLink": "/ec2/concept/5991113"
+    }
+  },
+  {
+    "uri": "en/14/137789184",
+    "id": "137789184",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Identification bracelets of precious metal [jewelry]",
+    "harm": {
+      "id": "0043384",
+      "title": "137789184 - Identification bracelets of precious metal [jewelry]",
+      "conceptLink": "/ec2/concept/5991113"
+    }
+  },
+  {
+    "uri": "en/14/119534925",
+    "id": "119534925",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Identity plates of precious metal",
+    "harm": {
+      "id": "0050741",
+      "title": "119534925 - Identity plates of precious metal",
+      "conceptLink": "/ec2/concept/5996106"
+    }
+  },
+  {
+    "uri": "en/14/751637",
+    "id": "751637",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation gold",
+    "harm": {
+      "id": "0005980",
+      "title": "751637 - Imitation gold",
+      "conceptLink": "/ec2/concept/5956929"
+    }
+  },
+  {
+    "uri": "en/14/751654",
+    "id": "751654",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation jet",
+    "harm": {
+      "id": "0023346",
+      "title": "751654 - Imitation jet",
+      "conceptLink": "/ec2/concept/5972823"
+    }
+  },
+  {
+    "uri": "en/14/415704",
+    "id": "415704",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation jewellery",
+    "harm": {
+      "id": "0057143",
+      "title": "415704 - Imitation jewellery",
+      "conceptLink": "/ec2/concept/5998763"
+    }
+  },
+  {
+    "uri": "en/14/751667",
+    "id": "751667",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation jewellery ornaments",
+    "harm": {
+      "id": "0005981",
+      "title": "751667 - Imitation jewellery ornaments",
+      "conceptLink": "/ec2/concept/5956930"
+    }
+  },
+  {
+    "uri": "en/14/415703",
+    "id": "415703",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation jewelry",
+    "harm": {
+      "id": "0057143",
+      "title": "415703 - Imitation jewelry",
+      "conceptLink": "/ec2/concept/5998763"
+    }
+  },
+  {
+    "uri": "en/14/751681",
+    "id": "751681",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation pearls",
+    "harm": {
+      "id": "0000195",
+      "title": "751681 - Imitation pearls",
+      "conceptLink": "/ec2/concept/5951670"
+    }
+  },
+  {
+    "uri": "en/14/751695",
+    "id": "751695",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Imitation precious stones",
+    "harm": {
+      "id": "0003208",
+      "title": "751695 - Imitation precious stones",
+      "conceptLink": "/ec2/concept/5954387"
+    }
+  },
+  {
+    "uri": "en/14/751709",
+    "id": "751709",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Industrial clocks",
+    "harm": {
+      "id": "0037877",
+      "title": "751709 - Industrial clocks",
+      "conceptLink": "/ec2/concept/5986083"
+    }
+  },
+  {
+    "uri": "en/14/197430",
+    "id": "197430",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Ingots of precious metal",
+    "harm": {
+      "id": "0025911",
+      "title": "197430 - Ingots of precious metal",
+      "conceptLink": "/ec2/concept/5975179"
+    }
+  },
+  {
+    "uri": "en/14/197431",
+    "id": "197431",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Ingots of precious metals",
+    "harm": {
+      "id": "0025911",
+      "title": "197431 - Ingots of precious metals",
+      "conceptLink": "/ec2/concept/5975179"
+    }
+  },
+  {
+    "uri": "en/14/200645",
+    "id": "200645",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Insignia of precious metals",
+    "harm": {
+      "id": "0018726",
+      "title": "200645 - Insignia of precious metals",
+      "conceptLink": "/ec2/concept/5968607"
+    }
+  },
+  {
+    "uri": "en/14/200644",
+    "id": "200644",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Insignias of precious metal",
+    "harm": {
+      "id": "0018726",
+      "title": "200644 - Insignias of precious metal",
+      "conceptLink": "/ec2/concept/5968607"
+    }
+  },
+  {
+    "uri": "en/14/199058",
+    "id": "199058",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Iridium",
+    "harm": {
+      "id": "0009778",
+      "title": "199058 - Iridium",
+      "conceptLink": "/ec2/concept/5960405"
+    }
+  },
+  {
+    "uri": "en/14/120898325",
+    "id": "120898325",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Iridium alloys",
+    "harm": {
+      "id": "0066394",
+      "title": "120898325 - Iridium alloys",
+      "conceptLink": "/ec2/concept/6002597"
+    }
+  },
+  {
+    "uri": "en/14/339789",
+    "id": "339789",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Iridium and its alloys",
+    "harm": {
+      "id": "0010383",
+      "title": "339789 - Iridium and its alloys",
+      "conceptLink": "/ec2/concept/5960956"
+    }
+  },
+  {
+    "uri": "en/14/199249",
+    "id": "199249",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Items of jewellery",
+    "harm": {
+      "id": "0058525",
+      "title": "199249 - Items of jewellery",
+      "conceptLink": "/ec2/concept/6000024"
+    }
+  },
+  {
+    "uri": "en/14/132803354",
+    "id": "132803354",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Ivory jewellery",
+    "harm": {
+      "id": "0038689",
+      "title": "132803354 - Ivory jewellery",
+      "conceptLink": "/ec2/concept/5986835"
+    }
+  },
+  {
+    "uri": "en/14/199080",
+    "id": "199080",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Ivory [jewellery, jewelry (Am.)]",
+    "harm": {
+      "id": "0038689",
+      "title": "199080 - Ivory [jewellery, jewelry (Am.)]",
+      "conceptLink": "/ec2/concept/5986835"
+    }
+  },
+  {
+    "uri": "en/14/119534931",
+    "id": "119534931",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Ivory jewelry",
+    "harm": {
+      "id": "0038689",
+      "title": "119534931 - Ivory jewelry",
+      "conceptLink": "/ec2/concept/5986835"
+    }
+  },
+  {
+    "uri": "en/14/3242022",
+    "id": "3242022",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jade",
+    "harm": {
+      "id": "0026293",
+      "title": "3242022 - Jade",
+      "conceptLink": "/ec2/concept/5975533"
+    }
+  },
+  {
+    "uri": "en/14/339804",
+    "id": "339804",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jade [jewellery]",
+    "harm": {
+      "id": "0001274",
+      "title": "339804 - Jade [jewellery]",
+      "conceptLink": "/ec2/concept/5952633"
+    }
+  },
+  {
+    "uri": "en/14/751723",
+    "id": "751723",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jades",
+    "harm": {
+      "id": "0026293",
+      "title": "751723 - Jades",
+      "conceptLink": "/ec2/concept/5975533"
+    }
+  },
+  {
+    "uri": "en/14/751739",
+    "id": "751739",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jet",
+    "harm": {
+      "id": "0026294",
+      "title": "751739 - Jet",
+      "conceptLink": "/ec2/concept/5975534"
+    }
+  },
+  {
+    "uri": "en/14/199105",
+    "id": "199105",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jet (Ornaments of -)",
+    "harm": {
+      "id": "0004041",
+      "title": "199105 - Jet (Ornaments of -)",
+      "conceptLink": "/ec2/concept/5955139"
+    }
+  },
+  {
+    "uri": "en/14/199137",
+    "id": "199137",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jet, unwrought or semi-wrought",
+    "harm": {
+      "id": "0002598",
+      "title": "199137 - Jet, unwrought or semi-wrought",
+      "conceptLink": "/ec2/concept/5953823"
+    }
+  },
+  {
+    "uri": "en/14/20988247",
+    "id": "20988247",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewel cases",
+    "harm": {
+      "id": "0058245",
+      "title": "20988247 - Jewel cases",
+      "conceptLink": "/ec2/concept/5999746"
+    }
+  },
+  {
+    "uri": "en/14/750631",
+    "id": "750631",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewel cases [fitted]",
+    "harm": {
+      "id": "0013241",
+      "title": "750631 - Jewel cases [fitted]",
+      "conceptLink": "/ec2/concept/5963576"
+    }
+  },
+  {
+    "uri": "en/14/339881",
+    "id": "339881",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewel cases of precious metal",
+    "harm": {
+      "id": "0057446",
+      "title": "339881 - Jewel cases of precious metal",
+      "conceptLink": "/ec2/concept/5998952"
+    }
+  },
+  {
+    "uri": "en/14/339824",
+    "id": "339824",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewel chains",
+    "harm": {
+      "id": "0058709",
+      "title": "339824 - Jewel chains",
+      "conceptLink": "/ec2/concept/6000202"
+    }
+  },
+  {
+    "uri": "en/14/339851",
+    "id": "339851",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewel pendants",
+    "harm": {
+      "id": "0057701",
+      "title": "339851 - Jewel pendants",
+      "conceptLink": "/ec2/concept/5999205"
+    }
+  },
+  {
+    "uri": "en/14/199240",
+    "id": "199240",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery",
+    "harm": {
+      "id": "0058525",
+      "title": "199240 - Jewellery",
+      "conceptLink": "/ec2/concept/6000024"
+    }
+  },
+  {
+    "uri": "en/14/199246",
+    "id": "199246",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery articles",
+    "harm": {
+      "id": "0058525",
+      "title": "199246 - Jewellery articles",
+      "conceptLink": "/ec2/concept/6000024"
+    }
+  },
+  {
+    "uri": "en/14/751755",
+    "id": "751755",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery being articles of precious stones",
+    "harm": {
+      "id": "0003209",
+      "title": "751755 - Jewellery being articles of precious stones",
+      "conceptLink": "/ec2/concept/5954388"
+    }
+  },
+  {
+    "uri": "en/14/750406",
+    "id": "750406",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery being articles of precious metals",
+    "harm": {
+      "id": "0032089",
+      "title": "750406 - Jewellery being articles of precious metals",
+      "conceptLink": "/ec2/concept/5980826"
+    }
+  },
+  {
+    "uri": "en/14/490623",
+    "id": "490623",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery boxes",
+    "harm": {
+      "id": "0058244",
+      "title": "490623 - Jewellery boxes",
+      "conceptLink": "/ec2/concept/5999745"
+    }
+  },
+  {
+    "uri": "en/14/120918985",
+    "id": "120918985",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery boxes and watch boxes",
+    "harm": {
+      "id": "0047842",
+      "title": "120918985 - Jewellery boxes and watch boxes",
+      "conceptLink": "/ec2/concept/5995116"
+    }
+  },
+  {
+    "uri": "en/14/750634",
+    "id": "750634",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery boxes [fitted]",
+    "harm": {
+      "id": "0013241",
+      "title": "750634 - Jewellery boxes [fitted]",
+      "conceptLink": "/ec2/concept/5963576"
+    }
+  },
+  {
+    "uri": "en/14/339886",
+    "id": "339886",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery boxes of precious metals",
+    "harm": {
+      "id": "0057447",
+      "title": "339886 - Jewellery boxes of precious metals",
+      "conceptLink": "/ec2/concept/5998953"
+    }
+  },
+  {
+    "uri": "en/14/339885",
+    "id": "339885",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery boxes of precious metal",
+    "harm": {
+      "id": "0057447",
+      "title": "339885 - Jewellery boxes of precious metal",
+      "conceptLink": "/ec2/concept/5998953"
+    }
+  },
+  {
+    "uri": "en/14/490625",
+    "id": "490625",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases",
+    "harm": {
+      "id": "0058245",
+      "title": "490625 - Jewellery cases",
+      "conceptLink": "/ec2/concept/5999746"
+    }
+  },
+  {
+    "uri": "en/14/490621",
+    "id": "490621",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases [caskets]",
+    "harm": {
+      "id": "0058245",
+      "title": "490621 - Jewellery cases [caskets]",
+      "conceptLink": "/ec2/concept/5999746"
+    }
+  },
+  {
+    "uri": "en/14/339888",
+    "id": "339888",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases [caskets] of precious metal",
+    "harm": {
+      "id": "0057446",
+      "title": "339888 - Jewellery cases [caskets] of precious metal",
+      "conceptLink": "/ec2/concept/5998952"
+    }
+  },
+  {
+    "uri": "en/14/136541756",
+    "id": "136541756",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases [caskets or boxes]",
+    "harm": {
+      "id": "0060718",
+      "title": "136541756 - Jewellery cases [caskets or boxes]",
+      "conceptLink": "/ec2/concept/6001038"
+    }
+  },
+  {
+    "uri": "en/14/750632",
+    "id": "750632",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases [fitted]",
+    "harm": {
+      "id": "0013241",
+      "title": "750632 - Jewellery cases [fitted]",
+      "conceptLink": "/ec2/concept/5963576"
+    }
+  },
+  {
+    "uri": "en/14/3195021",
+    "id": "3195021",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery cases of precious metal",
+    "harm": {
+      "id": "0057446",
+      "title": "3195021 - Jewellery cases of precious metal",
+      "conceptLink": "/ec2/concept/5998952"
+    }
+  },
+  {
+    "uri": "en/14/119640477",
+    "id": "119640477",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery caskets",
+    "harm": {
+      "id": "0058245",
+      "title": "119640477 - Jewellery caskets",
+      "conceptLink": "/ec2/concept/5999746"
+    }
+  },
+  {
+    "uri": "en/14/120905604",
+    "id": "120905604",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery caskets of precious metal",
+    "harm": {
+      "id": "0057446",
+      "title": "120905604 - Jewellery caskets of precious metal",
+      "conceptLink": "/ec2/concept/5998952"
+    }
+  },
+  {
+    "uri": "en/14/339825",
+    "id": "339825",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery chain",
+    "harm": {
+      "id": "0058709",
+      "title": "339825 - Jewellery chain",
+      "conceptLink": "/ec2/concept/6000202"
+    }
+  },
+  {
+    "uri": "en/14/751767",
+    "id": "751767",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery chain of precious metal for anklets",
+    "harm": {
+      "id": "0001671",
+      "title": "751767 - Jewellery chain of precious metal for anklets",
+      "conceptLink": "/ec2/concept/5952989"
+    }
+  },
+  {
+    "uri": "en/14/904647",
+    "id": "904647",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery chain of precious metal for bracelets",
+    "harm": {
+      "id": "0036822",
+      "title": "904647 - Jewellery chain of precious metal for bracelets",
+      "conceptLink": "/ec2/concept/5985133"
+    }
+  },
+  {
+    "uri": "en/14/751779",
+    "id": "751779",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery chain of precious metal for necklaces",
+    "harm": {
+      "id": "0036359",
+      "title": "751779 - Jewellery chain of precious metal for necklaces",
+      "conceptLink": "/ec2/concept/5984711"
+    }
+  },
+  {
+    "uri": "en/14/339826",
+    "id": "339826",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery chains",
+    "harm": {
+      "id": "0058709",
+      "title": "339826 - Jewellery chains",
+      "conceptLink": "/ec2/concept/6000202"
+    }
+  },
+  {
+    "uri": "en/14/8825433",
+    "id": "8825433",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery charms",
+    "harm": {
+      "id": "0057699",
+      "title": "8825433 - Jewellery charms",
+      "conceptLink": "/ec2/concept/5999203"
+    }
+  },
+  {
+    "uri": "en/14/339959",
+    "id": "339959",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery, clocks and watches",
+    "harm": {
+      "id": "0041748",
+      "title": "339959 - Jewellery, clocks and watches",
+      "conceptLink": "/ec2/concept/5989628"
+    }
+  },
+  {
+    "uri": "en/14/751791",
+    "id": "751791",
+    "lang": "en",
+    "classNumber": "14",
+    "term": "Jewellery coated with precious metal alloys",
+    "harm": {
+      "id": "0001672",
+      "title": "751791 - Jewellery coated with precious metal alloys",
+      "conceptLink": "/ec2/concept/5952990"
+    }
+  }
+]

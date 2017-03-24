@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/181339",
+    "id": "181339",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water flushing installations",
+    "harm": {
+      "id": "0047439",
+      "title": "181339 - Water flushing installations",
+      "conceptLink": "/ec2/concept/5994752"
+    }
+  },
+  {
+    "uri": "en/11/176186",
+    "id": "176186",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water fountains",
+    "harm": {
+      "id": "0025739",
+      "title": "176186 - Water fountains",
+      "conceptLink": "/ec2/concept/5975021"
+    }
+  },
+  {
+    "uri": "en/11/172798",
+    "id": "172798",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters",
+    "harm": {
+      "id": "0059397",
+      "title": "172798 - Water heaters",
+      "conceptLink": "/ec2/concept/6000877"
+    }
+  },
+  {
+    "uri": "en/11/172799",
+    "id": "172799",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters and boilers",
+    "harm": {
+      "id": "0046454",
+      "title": "172799 - Water heaters and boilers",
+      "conceptLink": "/ec2/concept/5993903"
+    }
+  },
+  {
+    "uri": "en/11/179192",
+    "id": "179192",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters [apparatus]",
+    "harm": {
+      "id": "0038703",
+      "title": "179192 - Water heaters [apparatus]",
+      "conceptLink": "/ec2/concept/5986846"
+    }
+  },
+  {
+    "uri": "en/11/120871583",
+    "id": "120871583",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters for household use",
+    "harm": {
+      "id": "0042097",
+      "title": "120871583 - Water heaters for household use",
+      "conceptLink": "/ec2/concept/5989946"
+    }
+  },
+  {
+    "uri": "en/11/120871615",
+    "id": "120871615",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters for industrial use",
+    "harm": {
+      "id": "0066268",
+      "title": "120871615 - Water heaters for industrial use",
+      "conceptLink": "/ec2/concept/6002471"
+    }
+  },
+  {
+    "uri": "en/11/739638",
+    "id": "739638",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters for shower baths",
+    "harm": {
+      "id": "0012900",
+      "title": "739638 - Water heaters for shower baths",
+      "conceptLink": "/ec2/concept/5963267"
+    }
+  },
+  {
+    "uri": "en/11/739639",
+    "id": "739639",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heaters for showers",
+    "harm": {
+      "id": "0012900",
+      "title": "739639 - Water heaters for showers",
+      "conceptLink": "/ec2/concept/5963267"
+    }
+  },
+  {
+    "uri": "en/11/173897",
+    "id": "173897",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water heating installations",
+    "harm": {
+      "id": "0006800",
+      "title": "173897 - Water heating installations",
+      "conceptLink": "/ec2/concept/5957679"
+    }
+  },
+  {
+    "uri": "en/11/174678",
+    "id": "174678",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water immersion heaters",
+    "harm": {
+      "id": "0012166",
+      "title": "174678 - Water immersion heaters",
+      "conceptLink": "/ec2/concept/5962599"
+    }
+  },
+  {
+    "uri": "en/11/181457",
+    "id": "181457",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water intake apparatus",
+    "harm": {
+      "id": "0023758",
+      "title": "181457 - Water intake apparatus",
+      "conceptLink": "/ec2/concept/5973200"
+    }
+  },
+  {
+    "uri": "en/11/7875222",
+    "id": "7875222",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water ionizers",
+    "harm": {
+      "id": "0070973",
+      "title": "7875222 - Water ionizers",
+      "conceptLink": "/ec2/concept/6007165"
+    }
+  },
+  {
+    "uri": "en/11/336635",
+    "id": "336635",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water ionizers [for household purposes]",
+    "harm": {
+      "id": "0013615",
+      "title": "336635 - Water ionizers [for household purposes]",
+      "conceptLink": "/ec2/concept/5963908"
+    }
+  },
+  {
+    "uri": "en/11/120854706",
+    "id": "120854706",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water jets for use in hot tubs",
+    "harm": {
+      "id": "0066274",
+      "title": "120854706 - Water jets for use in hot tubs",
+      "conceptLink": "/ec2/concept/6002477"
+    }
+  },
+  {
+    "uri": "en/11/739662",
+    "id": "739662",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water mixing appliances",
+    "harm": {
+      "id": "0016262",
+      "title": "739662 - Water mixing appliances",
+      "conceptLink": "/ec2/concept/5966361"
+    }
+  },
+  {
+    "uri": "en/11/739663",
+    "id": "739663",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water mixing devices",
+    "harm": {
+      "id": "0016262",
+      "title": "739663 - Water mixing devices",
+      "conceptLink": "/ec2/concept/5966361"
+    }
+  },
+  {
+    "uri": "en/11/179306",
+    "id": "179306",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water or gas apparatus and pipes (Safety accessories for -)",
+    "harm": {
+      "id": "0009805",
+      "title": "179306 - Water or gas apparatus and pipes (Safety accessories for -)",
+      "conceptLink": "/ec2/concept/5960432"
+    }
+  },
+  {
+    "uri": "en/11/179275",
+    "id": "179275",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water or gas apparatus and pipes (Regulating accessories for -)",
+    "harm": {
+      "id": "0032904",
+      "title": "179275 - Water or gas apparatus and pipes (Regulating accessories for -)",
+      "conceptLink": "/ec2/concept/5981565"
+    }
+  },
+  {
+    "uri": "en/11/739676",
+    "id": "739676",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water outlets [faucets]",
+    "harm": {
+      "id": "0033580",
+      "title": "739676 - Water outlets [faucets]",
+      "conceptLink": "/ec2/concept/5982191"
+    }
+  },
+  {
+    "uri": "en/11/175179",
+    "id": "175179",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water-pipes for sanitary installations",
+    "harm": {
+      "id": "0025758",
+      "title": "175179 - Water-pipes for sanitary installations",
+      "conceptLink": "/ec2/concept/5975040"
+    }
+  },
+  {
+    "uri": "en/11/739690",
+    "id": "739690",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water pressure reducers [regulating accessories]",
+    "harm": {
+      "id": "0045105",
+      "title": "739690 - Water pressure reducers [regulating accessories]",
+      "conceptLink": "/ec2/concept/5992692"
+    }
+  },
+  {
+    "uri": "en/11/739702",
+    "id": "739702",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water pressure reducers [safety accessories]",
+    "harm": {
+      "id": "0039384",
+      "title": "739702 - Water pressure reducers [safety accessories]",
+      "conceptLink": "/ec2/concept/5987465"
+    }
+  },
+  {
+    "uri": "en/11/336668",
+    "id": "336668",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification apparatus",
+    "harm": {
+      "id": "0058457",
+      "title": "336668 - Water purification apparatus",
+      "conceptLink": "/ec2/concept/5999956"
+    }
+  },
+  {
+    "uri": "en/11/131132887",
+    "id": "131132887",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification, desalination and conditioning installations",
+    "harm": {
+      "id": "0047792",
+      "title": "131132887 - Water purification, desalination and conditioning installations",
+      "conceptLink": "/ec2/concept/5995067"
+    }
+  },
+  {
+    "uri": "en/11/728014",
+    "id": "728014",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification filters",
+    "harm": {
+      "id": "0015295",
+      "title": "728014 - Water purification filters",
+      "conceptLink": "/ec2/concept/5965460"
+    }
+  },
+  {
+    "uri": "en/11/175945",
+    "id": "175945",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification installations",
+    "harm": {
+      "id": "0058460",
+      "title": "175945 - Water purification installations",
+      "conceptLink": "/ec2/concept/5999959"
+    }
+  },
+  {
+    "uri": "en/11/78012258",
+    "id": "78012258",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification machines",
+    "harm": {
+      "id": "0058460",
+      "title": "78012258 - Water purification machines",
+      "conceptLink": "/ec2/concept/5999959"
+    }
+  },
+  {
+    "uri": "en/11/119533478",
+    "id": "119533478",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification tanks",
+    "harm": {
+      "id": "0066282",
+      "title": "119533478 - Water purification tanks",
+      "conceptLink": "/ec2/concept/6002485"
+    }
+  },
+  {
+    "uri": "en/11/175947",
+    "id": "175947",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purification units",
+    "harm": {
+      "id": "0058458",
+      "title": "175947 - Water purification units",
+      "conceptLink": "/ec2/concept/5999957"
+    }
+  },
+  {
+    "uri": "en/11/336670",
+    "id": "336670",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifiers",
+    "harm": {
+      "id": "0058457",
+      "title": "336670 - Water purifiers",
+      "conceptLink": "/ec2/concept/5999956"
+    }
+  },
+  {
+    "uri": "en/11/20549525",
+    "id": "20549525",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifiers for household purposes",
+    "harm": {
+      "id": "0055983",
+      "title": "20549525 - Water purifiers for household purposes",
+      "conceptLink": "/ec2/concept/5997349"
+    }
+  },
+  {
+    "uri": "en/11/93942216",
+    "id": "93942216",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifiers for industrial use",
+    "harm": {
+      "id": "0071693",
+      "title": "93942216 - Water purifiers for industrial use",
+      "conceptLink": "/ec2/concept/6007882"
+    }
+  },
+  {
+    "uri": "en/11/336667",
+    "id": "336667",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying apparatus",
+    "harm": {
+      "id": "0058457",
+      "title": "336667 - Water purifying apparatus",
+      "conceptLink": "/ec2/concept/5999956"
+    }
+  },
+  {
+    "uri": "en/11/120871620",
+    "id": "120871620",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying apparatus for household use",
+    "harm": {
+      "id": "0055983",
+      "title": "120871620 - Water purifying apparatus for household use",
+      "conceptLink": "/ec2/concept/5997349"
+    }
+  },
+  {
+    "uri": "en/11/179054",
+    "id": "179054",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying apparatus and machines",
+    "harm": {
+      "id": "0014425",
+      "title": "179054 - Water purifying apparatus and machines",
+      "conceptLink": "/ec2/concept/5964669"
+    }
+  },
+  {
+    "uri": "en/11/175944",
+    "id": "175944",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying installations",
+    "harm": {
+      "id": "0058460",
+      "title": "175944 - Water purifying installations",
+      "conceptLink": "/ec2/concept/5999959"
+    }
+  },
+  {
+    "uri": "en/11/409980",
+    "id": "409980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying units",
+    "harm": {
+      "id": "0058458",
+      "title": "409980 - Water purifying units",
+      "conceptLink": "/ec2/concept/5999957"
+    }
+  },
+  {
+    "uri": "en/11/120903692",
+    "id": "120903692",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water purifying units for producing potable water",
+    "harm": {
+      "id": "0066281",
+      "title": "120903692 - Water purifying units for producing potable water",
+      "conceptLink": "/ec2/concept/6002484"
+    }
+  },
+  {
+    "uri": "en/11/739714",
+    "id": "739714",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water regulating apparatus",
+    "harm": {
+      "id": "0010467",
+      "title": "739714 - Water regulating apparatus",
+      "conceptLink": "/ec2/concept/5961036"
+    }
+  },
+  {
+    "uri": "en/11/739728",
+    "id": "739728",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water regulating valves [regulating accessories]",
+    "harm": {
+      "id": "0039385",
+      "title": "739728 - Water regulating valves [regulating accessories]",
+      "conceptLink": "/ec2/concept/5987466"
+    }
+  },
+  {
+    "uri": "en/11/739743",
+    "id": "739743",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water regulating valves [safety accessories]",
+    "harm": {
+      "id": "0022181",
+      "title": "739743 - Water regulating valves [safety accessories]",
+      "conceptLink": "/ec2/concept/5971758"
+    }
+  },
+  {
+    "uri": "en/11/137885717",
+    "id": "137885717",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water-saving aerators for faucets",
+    "harm": {
+      "id": "0074060",
+      "title": "137885717 - Water-saving aerators for faucets",
+      "conceptLink": "/ec2/concept/6011296"
+    }
+  },
+  {
+    "uri": "en/11/137886329",
+    "id": "137886329",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water-saving faucets",
+    "harm": {
+      "id": "0074061",
+      "title": "137886329 - Water-saving faucets",
+      "conceptLink": "/ec2/concept/6011297"
+    }
+  },
+  {
+    "uri": "en/11/137885723",
+    "id": "137885723",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water-saving showerheads",
+    "harm": {
+      "id": "0074059",
+      "title": "137885723 - Water-saving showerheads",
+      "conceptLink": "/ec2/concept/6011295"
+    }
+  },
+  {
+    "uri": "en/11/137883503",
+    "id": "137883503",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water-saving toilets",
+    "harm": {
+      "id": "0074058",
+      "title": "137883503 - Water-saving toilets",
+      "conceptLink": "/ec2/concept/6011294"
+    }
+  },
+  {
+    "uri": "en/11/735980",
+    "id": "735980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water shower apparatus",
+    "harm": {
+      "id": "0033863",
+      "title": "735980 - Water shower apparatus",
+      "conceptLink": "/ec2/concept/5982448"
+    }
+  },
+  {
+    "uri": "en/11/409997",
+    "id": "409997",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softeners",
+    "harm": {
+      "id": "0059415",
+      "title": "409997 - Water softeners",
+      "conceptLink": "/ec2/concept/6000893"
+    }
+  },
+  {
+    "uri": "en/11/180287",
+    "id": "180287",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softeners [apparatus]",
+    "harm": {
+      "id": "0059412",
+      "title": "180287 - Water softeners [apparatus]",
+      "conceptLink": "/ec2/concept/6000890"
+    }
+  },
+  {
+    "uri": "en/11/180291",
+    "id": "180291",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softening apparatus",
+    "harm": {
+      "id": "0059412",
+      "title": "180291 - Water softening apparatus",
+      "conceptLink": "/ec2/concept/6000890"
+    }
+  },
+  {
+    "uri": "en/11/180286",
+    "id": "180286",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softening apparatus and installations",
+    "harm": {
+      "id": "0059413",
+      "title": "180286 - Water softening apparatus and installations",
+      "conceptLink": "/ec2/concept/6000891"
+    }
+  },
+  {
+    "uri": "en/11/180294",
+    "id": "180294",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softening installations",
+    "harm": {
+      "id": "0059414",
+      "title": "180294 - Water softening installations",
+      "conceptLink": "/ec2/concept/6000892"
+    }
+  },
+  {
+    "uri": "en/11/18885357",
+    "id": "18885357",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softening installations and apparatus",
+    "harm": {
+      "id": "0059413",
+      "title": "18885357 - Water softening installations and apparatus",
+      "conceptLink": "/ec2/concept/6000891"
+    }
+  },
+  {
+    "uri": "en/11/409996",
+    "id": "409996",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water softening units",
+    "harm": {
+      "id": "0059415",
+      "title": "409996 - Water softening units",
+      "conceptLink": "/ec2/concept/6000893"
+    }
+  },
+  {
+    "uri": "en/11/739758",
+    "id": "739758",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water sprinkling devices [automatic]",
+    "harm": {
+      "id": "0016263",
+      "title": "739758 - Water sprinkling devices [automatic]",
+      "conceptLink": "/ec2/concept/5966362"
+    }
+  },
+  {
+    "uri": "en/11/176260",
+    "id": "176260",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water sterilisers",
+    "harm": {
+      "id": "0031506",
+      "title": "176260 - Water sterilisers",
+      "conceptLink": "/ec2/concept/5980299"
+    }
+  },
+  {
+    "uri": "en/11/176262",
+    "id": "176262",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water sterilising apparatus",
+    "harm": {
+      "id": "0031506",
+      "title": "176262 - Water sterilising apparatus",
+      "conceptLink": "/ec2/concept/5980299"
+    }
+  },
+  {
+    "uri": "en/11/176261",
+    "id": "176261",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water sterilizers",
+    "harm": {
+      "id": "0031506",
+      "title": "176261 - Water sterilizers",
+      "conceptLink": "/ec2/concept/5980299"
+    }
+  },
+  {
+    "uri": "en/11/491926",
+    "id": "491926",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water supply apparatus",
+    "harm": {
+      "id": "0046138",
+      "title": "491926 - Water supply apparatus",
+      "conceptLink": "/ec2/concept/5993645"
+    }
+  },
+  {
+    "uri": "en/11/180576",
+    "id": "180576",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water supply installations",
+    "harm": {
+      "id": "0046138",
+      "title": "180576 - Water supply installations",
+      "conceptLink": "/ec2/concept/5993645"
+    }
+  },
+  {
+    "uri": "en/11/173475",
+    "id": "173475",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water taps",
+    "harm": {
+      "id": "0012226",
+      "title": "173475 - Water taps",
+      "conceptLink": "/ec2/concept/5962650"
+    }
+  },
+  {
+    "uri": "en/11/739774",
+    "id": "739774",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water taps being parts of sanitary installations",
+    "harm": {
+      "id": "0026594",
+      "title": "739774 - Water taps being parts of sanitary installations",
+      "conceptLink": "/ec2/concept/5975804"
+    }
+  },
+  {
+    "uri": "en/11/739787",
+    "id": "739787",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water taps being parts of water supply installations",
+    "harm": {
+      "id": "0043916",
+      "title": "739787 - Water taps being parts of water supply installations",
+      "conceptLink": "/ec2/concept/5991605"
+    }
+  },
+  {
+    "uri": "en/11/739822",
+    "id": "739822",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water treatment apparatus for water softening for domestic use",
+    "harm": {
+      "id": "0009245",
+      "title": "739822 - Water treatment apparatus for water softening for domestic use",
+      "conceptLink": "/ec2/concept/5959919"
+    }
+  },
+  {
+    "uri": "en/11/739799",
+    "id": "739799",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water treatment apparatus for water purification",
+    "harm": {
+      "id": "0058457",
+      "title": "739799 - Water treatment apparatus for water purification",
+      "conceptLink": "/ec2/concept/5999956"
+    }
+  },
+  {
+    "uri": "en/11/739810",
+    "id": "739810",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water treatment apparatus for water softening",
+    "harm": {
+      "id": "0043917",
+      "title": "739810 - Water treatment apparatus for water softening",
+      "conceptLink": "/ec2/concept/5991606"
+    }
+  },
+  {
+    "uri": "en/11/739835",
+    "id": "739835",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water treatment filters",
+    "harm": {
+      "id": "0020939",
+      "title": "739835 - Water treatment filters",
+      "conceptLink": "/ec2/concept/5970622"
+    }
+  },
+  {
+    "uri": "en/11/137753280",
+    "id": "137753280",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Water treatment units for aerating and circulating water",
+    "harm": {
+      "id": "0071694",
+      "title": "137753280 - Water treatment units for aerating and circulating water",
+      "conceptLink": "/ec2/concept/6007883"
+    }
+  },
+  {
+    "uri": "en/11/739850",
+    "id": "739850",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Watering apparatus [automatic] for garden use",
+    "harm": {
+      "id": "0020940",
+      "title": "739850 - Watering apparatus [automatic] for garden use",
+      "conceptLink": "/ec2/concept/5970623"
+    }
+  },
+  {
+    "uri": "en/11/169893",
+    "id": "169893",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Watering installations, automatic",
+    "harm": {
+      "id": "0002186",
+      "title": "169893 - Watering installations, automatic",
+      "conceptLink": "/ec2/concept/5953452"
+    }
+  },
+  {
+    "uri": "en/11/183044",
+    "id": "183044",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Watering machines for agricultural purposes",
+    "harm": {
+      "id": "0044924",
+      "title": "183044 - Watering machines for agricultural purposes",
+      "conceptLink": "/ec2/concept/5992530"
+    }
+  },
+  {
+    "uri": "en/11/739866",
+    "id": "739866",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wet scrubbers",
+    "harm": {
+      "id": "0003510",
+      "title": "739866 - Wet scrubbers",
+      "conceptLink": "/ec2/concept/5954661"
+    }
+  },
+  {
+    "uri": "en/11/181598",
+    "id": "181598",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpool baths",
+    "harm": {
+      "id": "0035265",
+      "title": "181598 - Whirlpool baths",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/182817",
+    "id": "182817",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpool-jet apparatus",
+    "harm": {
+      "id": "0033410",
+      "title": "182817 - Whirlpool-jet apparatus",
+      "conceptLink": "/ec2/concept/5982034"
+    }
+  },
+  {
+    "uri": "en/11/410089",
+    "id": "410089",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpool jets",
+    "harm": {
+      "id": "0041482",
+      "title": "410089 - Whirlpool jets",
+      "conceptLink": "/ec2/concept/5989384"
+    }
+  },
+  {
+    "uri": "en/11/739879",
+    "id": "739879",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpool spa bath installations",
+    "harm": {
+      "id": "0043918",
+      "title": "739879 - Whirlpool spa bath installations",
+      "conceptLink": "/ec2/concept/5991607"
+    }
+  },
+  {
+    "uri": "en/11/181597",
+    "id": "181597",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpool tubs",
+    "harm": {
+      "id": "0035265",
+      "title": "181597 - Whirlpool tubs",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/181595",
+    "id": "181595",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Whirlpools",
+    "harm": {
+      "id": "0035265",
+      "title": "181595 - Whirlpools",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/7876382",
+    "id": "7876382",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wicks for oil stoves",
+    "harm": {
+      "id": "0055984",
+      "title": "7876382 - Wicks for oil stoves",
+      "conceptLink": "/ec2/concept/5997350"
+    }
+  },
+  {
+    "uri": "en/11/739894",
+    "id": "739894",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Window air conditioning apparatus",
+    "harm": {
+      "id": "0009246",
+      "title": "739894 - Window air conditioning apparatus",
+      "conceptLink": "/ec2/concept/5959920"
+    }
+  },
+  {
+    "uri": "en/11/120894167",
+    "id": "120894167",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Window-mounted air conditioning units",
+    "harm": {
+      "id": "0066211",
+      "title": "120894167 - Window-mounted air conditioning units",
+      "conceptLink": "/ec2/concept/6002414"
+    }
+  },
+  {
+    "uri": "en/11/336739",
+    "id": "336739",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Window-mounting air-conditioners [for industrial purposes]",
+    "harm": {
+      "id": "0036761",
+      "title": "336739 - Window-mounting air-conditioners [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5985078"
+    }
+  },
+  {
+    "uri": "en/11/233547386",
+    "id": "233547386",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wine cellars, electric",
+    "harm": {
+      "id": "0052085",
+      "title": "233547386 - Wine cellars, electric",
+      "conceptLink": "/ec2/concept/6010985"
+    }
+  },
+  {
+    "uri": "en/11/739907",
+    "id": "739907",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wire patenting furnaces",
+    "harm": {
+      "id": "0022476",
+      "title": "739907 - Wire patenting furnaces",
+      "conceptLink": "/ec2/concept/5972027"
+    }
+  },
+  {
+    "uri": "en/11/124647216",
+    "id": "124647216",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Woks (Electric -)",
+    "harm": {
+      "id": "0033875",
+      "title": "124647216 - Woks (Electric -)",
+      "conceptLink": "/ec2/concept/5982460"
+    }
+  },
+  {
+    "uri": "en/11/410103",
+    "id": "410103",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wood burning stoves",
+    "harm": {
+      "id": "0045439",
+      "title": "410103 - Wood burning stoves",
+      "conceptLink": "/ec2/concept/5993004"
+    }
+  },
+  {
+    "uri": "en/11/410104",
+    "id": "410104",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Wood stoves",
+    "harm": {
+      "id": "0045439",
+      "title": "410104 - Wood stoves",
+      "conceptLink": "/ec2/concept/5993004"
+    }
+  },
+  {
+    "uri": "en/11/233403600",
+    "id": "233403600",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Xenon arc lamps",
+    "harm": {
+      "id": "0073589",
+      "title": "233403600 - Xenon arc lamps",
+      "conceptLink": "/ec2/concept/6009761"
+    }
+  },
+  {
+    "uri": "en/11/182494",
+    "id": "182494",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Yogurt (Electric appliances for making -)",
+    "harm": {
+      "id": "0001566",
+      "title": "182494 - Yogurt (Electric appliances for making -)",
+      "conceptLink": "/ec2/concept/5952894"
+    }
+  },
+  {
+    "uri": "en/12/336756",
+    "id": "336756",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Adhesive rubber patches for repairing tubes or tires",
+    "harm": {
+      "id": "0009734",
+      "title": "336756 - Adhesive rubber patches for repairing tubes or tires",
+      "conceptLink": "/ec2/concept/5960367"
+    }
+  },
+  {
+    "uri": "en/12/3357864",
+    "id": "3357864",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Adhesive rubber patches for repairing inner tubes",
+    "harm": {
+      "id": "0006500",
+      "title": "3357864 - Adhesive rubber patches for repairing inner tubes",
+      "conceptLink": "/ec2/concept/5957406"
+    }
+  },
+  {
+    "uri": "en/12/183241",
+    "id": "183241",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerial conveyors",
+    "harm": {
+      "id": "0011979",
+      "title": "183241 - Aerial conveyors",
+      "conceptLink": "/ec2/concept/5962427"
+    }
+  },
+  {
+    "uri": "en/12/410126",
+    "id": "410126",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aero-dynamic fairings for vehicles",
+    "harm": {
+      "id": "0022477",
+      "title": "410126 - Aero-dynamic fairings for vehicles",
+      "conceptLink": "/ec2/concept/5972028"
+    }
+  },
+  {
+    "uri": "en/12/739930",
+    "id": "739930",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerodynamic attachments for vehicle bodies",
+    "harm": {
+      "id": "0016583",
+      "title": "739930 - Aerodynamic attachments for vehicle bodies",
+      "conceptLink": "/ec2/concept/5966648"
+    }
+  },
+  {
+    "uri": "en/12/410127",
+    "id": "410127",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerodynamic fairings for vehicles",
+    "harm": {
+      "id": "0022477",
+      "title": "410127 - Aerodynamic fairings for vehicles",
+      "conceptLink": "/ec2/concept/5972028"
+    }
+  },
+  {
+    "uri": "en/12/410140",
+    "id": "410140",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerodynamic wings for airplanes",
+    "harm": {
+      "id": "0022511",
+      "title": "410140 - Aerodynamic wings for airplanes",
+      "conceptLink": "/ec2/concept/5972058"
+    }
+  },
+  {
+    "uri": "en/12/739942",
+    "id": "739942",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerofoils for air vehicles",
+    "harm": {
+      "id": "0022478",
+      "title": "739942 - Aerofoils for air vehicles",
+      "conceptLink": "/ec2/concept/5972029"
+    }
+  },
+  {
+    "uri": "en/12/739955",
+    "id": "739955",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerofoils for land vehicles",
+    "harm": {
+      "id": "0016584",
+      "title": "739955 - Aerofoils for land vehicles",
+      "conceptLink": "/ec2/concept/5966649"
+    }
+  },
+  {
+    "uri": "en/12/739967",
+    "id": "739967",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerofoils for sea vehicles",
+    "harm": {
+      "id": "0039658",
+      "title": "739967 - Aerofoils for sea vehicles",
+      "conceptLink": "/ec2/concept/5987713"
+    }
+  },
+  {
+    "uri": "en/12/739979",
+    "id": "739979",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerofoils for water vehicles",
+    "harm": {
+      "id": "0039659",
+      "title": "739979 - Aerofoils for water vehicles",
+      "conceptLink": "/ec2/concept/5987714"
+    }
+  }
+]

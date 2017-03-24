@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/667585",
+    "id": "667585",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated skin lotions",
+    "harm": {
+      "id": "0036165",
+      "title": "667585 - Medicated skin lotions",
+      "conceptLink": "/ec2/concept/5984533"
+    }
+  },
+  {
+    "uri": "en/5/5941367",
+    "id": "5941367",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated soap",
+    "harm": {
+      "id": "0052264",
+      "title": "5941367 - Medicated soap",
+      "conceptLink": "/ec2/concept/6011164"
+    }
+  },
+  {
+    "uri": "en/5/90483",
+    "id": "90483",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated sugar",
+    "harm": {
+      "id": "0041939",
+      "title": "90483 - Medicated sugar",
+      "conceptLink": "/ec2/concept/5989802"
+    }
+  },
+  {
+    "uri": "en/5/667606",
+    "id": "667606",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated supplements for animal feedstuffs",
+    "harm": {
+      "id": "0030382",
+      "title": "667606 - Medicated supplements for animal feedstuffs",
+      "conceptLink": "/ec2/concept/5979278"
+    }
+  },
+  {
+    "uri": "en/5/667605",
+    "id": "667605",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated supplements for foodstuffs for animals",
+    "harm": {
+      "id": "0030382",
+      "title": "667605 - Medicated supplements for foodstuffs for animals",
+      "conceptLink": "/ec2/concept/5979278"
+    }
+  },
+  {
+    "uri": "en/5/667627",
+    "id": "667627",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated swabs",
+    "harm": {
+      "id": "0002535",
+      "title": "667627 - Medicated swabs",
+      "conceptLink": "/ec2/concept/5953772"
+    }
+  },
+  {
+    "uri": "en/5/119693353",
+    "id": "119693353",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated sweets",
+    "harm": {
+      "id": "0059286",
+      "title": "119693353 - Medicated sweets",
+      "conceptLink": "/ec2/concept/6000770"
+    }
+  },
+  {
+    "uri": "en/5/383811",
+    "id": "383811",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated talcum powder",
+    "harm": {
+      "id": "0036410",
+      "title": "383811 - Medicated talcum powder",
+      "conceptLink": "/ec2/concept/5984755"
+    }
+  },
+  {
+    "uri": "en/5/669503",
+    "id": "669503",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated throat sprays",
+    "harm": {
+      "id": "0017690",
+      "title": "669503 - Medicated throat sprays",
+      "conceptLink": "/ec2/concept/5967647"
+    }
+  },
+  {
+    "uri": "en/5/233488290",
+    "id": "233488290",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicated toiletry preparations",
+    "harm": {
+      "id": "0052030",
+      "title": "233488290 - Medicated toiletry preparations",
+      "conceptLink": "/ec2/concept/6010930"
+    }
+  },
+  {
+    "uri": "en/5/82403",
+    "id": "82403",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal alcohol",
+    "harm": {
+      "id": "0072531",
+      "title": "82403 - Medicinal alcohol",
+      "conceptLink": "/ec2/concept/6008708"
+    }
+  },
+  {
+    "uri": "en/5/91749",
+    "id": "91749",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal beverages",
+    "harm": {
+      "id": "0010402",
+      "title": "91749 - Medicinal beverages",
+      "conceptLink": "/ec2/concept/5960974"
+    }
+  },
+  {
+    "uri": "en/5/233996649",
+    "id": "233996649",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal clay preparations",
+    "harm": {
+      "id": "0074103",
+      "title": "233996649 - Medicinal clay preparations",
+      "conceptLink": "/ec2/concept/6011339"
+    }
+  },
+  {
+    "uri": "en/5/318287",
+    "id": "318287",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal creams for skin care",
+    "harm": {
+      "id": "0031408",
+      "title": "318287 - Medicinal creams for skin care",
+      "conceptLink": "/ec2/concept/5980219"
+    }
+  },
+  {
+    "uri": "en/5/667641",
+    "id": "667641",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal creams for the protection of the skin",
+    "harm": {
+      "id": "0025634",
+      "title": "667641 - Medicinal creams for the protection of the skin",
+      "conceptLink": "/ec2/concept/5974926"
+    }
+  },
+  {
+    "uri": "en/5/91748",
+    "id": "91748",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal drinks",
+    "harm": {
+      "id": "0010402",
+      "title": "91748 - Medicinal drinks",
+      "conceptLink": "/ec2/concept/5960974"
+    }
+  },
+  {
+    "uri": "en/5/93201",
+    "id": "93201",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal hair growing preparations",
+    "harm": {
+      "id": "0025479",
+      "title": "93201 - Medicinal hair growing preparations",
+      "conceptLink": "/ec2/concept/5974790"
+    }
+  },
+  {
+    "uri": "en/5/93203",
+    "id": "93203",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal hair growth preparations",
+    "harm": {
+      "id": "0025479",
+      "title": "93203 - Medicinal hair growth preparations",
+      "conceptLink": "/ec2/concept/5974790"
+    }
+  },
+  {
+    "uri": "en/5/120868873",
+    "id": "120868873",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal healthcare preparations",
+    "harm": {
+      "id": "0065270",
+      "title": "120868873 - Medicinal healthcare preparations",
+      "conceptLink": "/ec2/concept/6001473"
+    }
+  },
+  {
+    "uri": "en/5/48839174",
+    "id": "48839174",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal herb extracts",
+    "harm": {
+      "id": "0025867",
+      "title": "48839174 - Medicinal herb extracts",
+      "conceptLink": "/ec2/concept/5975139"
+    }
+  },
+  {
+    "uri": "en/5/120868421",
+    "id": "120868421",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal herb infusions",
+    "harm": {
+      "id": "0070849",
+      "title": "120868421 - Medicinal herb infusions",
+      "conceptLink": "/ec2/concept/6007041"
+    }
+  },
+  {
+    "uri": "en/5/318300",
+    "id": "318300",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal herbal extracts for medical purposes",
+    "harm": {
+      "id": "0026571",
+      "title": "318300 - Medicinal herbal extracts for medical purposes",
+      "conceptLink": "/ec2/concept/5975782"
+    }
+  },
+  {
+    "uri": "en/5/87418",
+    "id": "87418",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal herbs",
+    "harm": {
+      "id": "0030569",
+      "title": "87418 - Medicinal herbs",
+      "conceptLink": "/ec2/concept/5979452"
+    }
+  },
+  {
+    "uri": "en/5/89545028",
+    "id": "89545028",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal herbs in dried or preserved form",
+    "harm": {
+      "id": "0055520",
+      "title": "89545028 - Medicinal herbs in dried or preserved form",
+      "conceptLink": "/ec2/concept/5996919"
+    }
+  },
+  {
+    "uri": "en/5/86756",
+    "id": "86756",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal infusions",
+    "harm": {
+      "id": "0020465",
+      "title": "86756 - Medicinal infusions",
+      "conceptLink": "/ec2/concept/5970184"
+    }
+  },
+  {
+    "uri": "en/5/5710852",
+    "id": "5710852",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal mud",
+    "harm": {
+      "id": "0041868",
+      "title": "5710852 - Medicinal mud",
+      "conceptLink": "/ec2/concept/5989733"
+    }
+  },
+  {
+    "uri": "en/5/87339",
+    "id": "87339",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal oils",
+    "harm": {
+      "id": "0043031",
+      "title": "87339 - Medicinal oils",
+      "conceptLink": "/ec2/concept/5990790"
+    }
+  },
+  {
+    "uri": "en/5/667655",
+    "id": "667655",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal ointments",
+    "harm": {
+      "id": "0013041",
+      "title": "667655 - Medicinal ointments",
+      "conceptLink": "/ec2/concept/5963390"
+    }
+  },
+  {
+    "uri": "en/5/1862434",
+    "id": "1862434",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal preparations and substances",
+    "harm": {
+      "id": "0065311",
+      "title": "1862434 - Medicinal preparations and substances",
+      "conceptLink": "/ec2/concept/6001514"
+    }
+  },
+  {
+    "uri": "en/5/884489",
+    "id": "884489",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal preparations for stimulating hair growth",
+    "harm": {
+      "id": "0025479",
+      "title": "884489 - Medicinal preparations for stimulating hair growth",
+      "conceptLink": "/ec2/concept/5974790"
+    }
+  },
+  {
+    "uri": "en/5/120897614",
+    "id": "120897614",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal preparations for the treatment of infectious diseases",
+    "harm": {
+      "id": "0065209",
+      "title": "120897614 - Medicinal preparations for the treatment of infectious diseases",
+      "conceptLink": "/ec2/concept/6001412"
+    }
+  },
+  {
+    "uri": "en/5/119524098",
+    "id": "119524098",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal radix glycyrrhizae",
+    "harm": {
+      "id": "0055521",
+      "title": "119524098 - Medicinal radix glycyrrhizae",
+      "conceptLink": "/ec2/concept/5996920"
+    }
+  },
+  {
+    "uri": "en/5/89957",
+    "id": "89957",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal roots",
+    "harm": {
+      "id": "0012966",
+      "title": "89957 - Medicinal roots",
+      "conceptLink": "/ec2/concept/5963323"
+    }
+  },
+  {
+    "uri": "en/5/129431478",
+    "id": "129431478",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal sediment [mud]",
+    "harm": {
+      "id": "0041868",
+      "title": "129431478 - Medicinal sediment [mud]",
+      "conceptLink": "/ec2/concept/5989733"
+    }
+  },
+  {
+    "uri": "en/5/120868818",
+    "id": "120868818",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal sprays",
+    "harm": {
+      "id": "0065265",
+      "title": "120868818 - Medicinal sprays",
+      "conceptLink": "/ec2/concept/6001468"
+    }
+  },
+  {
+    "uri": "en/5/86786",
+    "id": "86786",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicinal tea",
+    "harm": {
+      "id": "0036353",
+      "title": "86786 - Medicinal tea",
+      "conceptLink": "/ec2/concept/5984706"
+    }
+  },
+  {
+    "uri": "en/5/44897684",
+    "id": "44897684",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicine",
+    "harm": {
+      "id": "0065313",
+      "title": "44897684 - Medicine",
+      "conceptLink": "/ec2/concept/6001516"
+    }
+  },
+  {
+    "uri": "en/5/86136",
+    "id": "86136",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicine cases, portable, filled",
+    "harm": {
+      "id": "0046797",
+      "title": "86136 - Medicine cases, portable, filled",
+      "conceptLink": "/ec2/concept/5994198"
+    }
+  },
+  {
+    "uri": "en/5/90009",
+    "id": "90009",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicine tonics",
+    "harm": {
+      "id": "0030282",
+      "title": "90009 - Medicine tonics",
+      "conceptLink": "/ec2/concept/5979184"
+    }
+  },
+  {
+    "uri": "en/5/136138913",
+    "id": "136138913",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for adjusting the menstrual cycle",
+    "harm": {
+      "id": "0055522",
+      "title": "136138913 - Medicines for adjusting the menstrual cycle",
+      "conceptLink": "/ec2/concept/5996921"
+    }
+  },
+  {
+    "uri": "en/5/85146",
+    "id": "85146",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for alleviating constipation",
+    "harm": {
+      "id": "0043037",
+      "title": "85146 - Medicines for alleviating constipation",
+      "conceptLink": "/ec2/concept/5990796"
+    }
+  },
+  {
+    "uri": "en/5/667670",
+    "id": "667670",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for animals",
+    "harm": {
+      "id": "0037365",
+      "title": "667670 - Medicines for animals",
+      "conceptLink": "/ec2/concept/5985623"
+    }
+  },
+  {
+    "uri": "en/5/91603",
+    "id": "91603",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for dental purposes",
+    "harm": {
+      "id": "0020065",
+      "title": "91603 - Medicines for dental purposes",
+      "conceptLink": "/ec2/concept/5969819"
+    }
+  },
+  {
+    "uri": "en/5/91627",
+    "id": "91627",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for human purposes",
+    "harm": {
+      "id": "0043114",
+      "title": "91627 - Medicines for human purposes",
+      "conceptLink": "/ec2/concept/5990865"
+    }
+  },
+  {
+    "uri": "en/5/136011027",
+    "id": "136011027",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for intestinal disorders",
+    "harm": {
+      "id": "0055178",
+      "title": "136011027 - Medicines for intestinal disorders",
+      "conceptLink": "/ec2/concept/5996614"
+    }
+  },
+  {
+    "uri": "en/5/131090883",
+    "id": "131090883",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for prevention against milk fever",
+    "harm": {
+      "id": "0055523",
+      "title": "131090883 - Medicines for prevention against milk fever",
+      "conceptLink": "/ec2/concept/5996922"
+    }
+  },
+  {
+    "uri": "en/5/16905579",
+    "id": "16905579",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for the treatment of gastrointestinal diseases",
+    "harm": {
+      "id": "0055524",
+      "title": "16905579 - Medicines for the treatment of gastrointestinal diseases",
+      "conceptLink": "/ec2/concept/5996923"
+    }
+  },
+  {
+    "uri": "en/5/137613602",
+    "id": "137613602",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for treating intestinal disorders",
+    "harm": {
+      "id": "0055178",
+      "title": "137613602 - Medicines for treating intestinal disorders",
+      "conceptLink": "/ec2/concept/5996614"
+    }
+  },
+  {
+    "uri": "en/5/91651",
+    "id": "91651",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Medicines for veterinary purposes",
+    "harm": {
+      "id": "0037365",
+      "title": "91651 - Medicines for veterinary purposes",
+      "conceptLink": "/ec2/concept/5985623"
+    }
+  },
+  {
+    "uri": "en/5/83278",
+    "id": "83278",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mediums (Bacteriological culture -)",
+    "harm": {
+      "id": "0000532",
+      "title": "83278 - Mediums (Bacteriological culture -)",
+      "conceptLink": "/ec2/concept/5951965"
+    }
+  },
+  {
+    "uri": "en/5/86198",
+    "id": "86198",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Melissa water for pharmaceutical purposes",
+    "harm": {
+      "id": "0003733",
+      "title": "86198 - Melissa water for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5954867"
+    }
+  },
+  {
+    "uri": "en/5/89176",
+    "id": "89176",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menstruation bandages",
+    "harm": {
+      "id": "0059213",
+      "title": "89176 - Menstruation bandages",
+      "conceptLink": "/ec2/concept/6000702"
+    }
+  },
+  {
+    "uri": "en/5/88241",
+    "id": "88241",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menstruation knickers",
+    "harm": {
+      "id": "0058490",
+      "title": "88241 - Menstruation knickers",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/6127666",
+    "id": "6127666",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menstruation pads",
+    "harm": {
+      "id": "0059213",
+      "title": "6127666 - Menstruation pads",
+      "conceptLink": "/ec2/concept/6000702"
+    }
+  },
+  {
+    "uri": "en/5/89174",
+    "id": "89174",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menstruation tampons",
+    "harm": {
+      "id": "0046453",
+      "title": "89174 - Menstruation tampons",
+      "conceptLink": "/ec2/concept/5993902"
+    }
+  },
+  {
+    "uri": "en/5/88552",
+    "id": "88552",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menthol",
+    "harm": {
+      "id": "0036115",
+      "title": "88552 - Menthol",
+      "conceptLink": "/ec2/concept/5984489"
+    }
+  },
+  {
+    "uri": "en/5/119524106",
+    "id": "119524106",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menthol for pharmaceutical purposes",
+    "harm": {
+      "id": "0036115",
+      "title": "119524106 - Menthol for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5984489"
+    }
+  },
+  {
+    "uri": "en/5/119524107",
+    "id": "119524107",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Menthol vapor bath preparations for babies",
+    "harm": {
+      "id": "0065341",
+      "title": "119524107 - Menthol vapor bath preparations for babies",
+      "conceptLink": "/ec2/concept/6001544"
+    }
+  },
+  {
+    "uri": "en/5/88574",
+    "id": "88574",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mercurial ointments",
+    "harm": {
+      "id": "0019949",
+      "title": "88574 - Mercurial ointments",
+      "conceptLink": "/ec2/concept/5969712"
+    }
+  },
+  {
+    "uri": "en/5/119524109",
+    "id": "119524109",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mercurial ointments for medical use",
+    "harm": {
+      "id": "0019949",
+      "title": "119524109 - Mercurial ointments for medical use",
+      "conceptLink": "/ec2/concept/5969712"
+    }
+  },
+  {
+    "uri": "en/5/233996537",
+    "id": "233996537",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Metal alloys for dental restoration purposes",
+    "harm": {
+      "id": "0074035",
+      "title": "233996537 - Metal alloys for dental restoration purposes",
+      "conceptLink": "/ec2/concept/6011271"
+    }
+  },
+  {
+    "uri": "en/5/120898097",
+    "id": "120898097",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Metal alloys for dental use",
+    "harm": {
+      "id": "0065224",
+      "title": "120898097 - Metal alloys for dental use",
+      "conceptLink": "/ec2/concept/6001427"
+    }
+  },
+  {
+    "uri": "en/5/119524111",
+    "id": "119524111",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Metal primers for dental purposes",
+    "harm": {
+      "id": "0055526",
+      "title": "119524111 - Metal primers for dental purposes",
+      "conceptLink": "/ec2/concept/5996924"
+    }
+  },
+  {
+    "uri": "en/5/119524112",
+    "id": "119524112",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Methionine preparations",
+    "harm": {
+      "id": "0055527",
+      "title": "119524112 - Methionine preparations",
+      "conceptLink": "/ec2/concept/5996925"
+    }
+  },
+  {
+    "uri": "en/5/85968",
+    "id": "85968",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mice (Preparations for destroying -)",
+    "harm": {
+      "id": "0020259",
+      "title": "85968 - Mice (Preparations for destroying -)",
+      "conceptLink": "/ec2/concept/5969996"
+    }
+  },
+  {
+    "uri": "en/5/19510188",
+    "id": "19510188",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Microbicides",
+    "harm": {
+      "id": "0070853",
+      "title": "19510188 - Microbicides",
+      "conceptLink": "/ec2/concept/6007045"
+    }
+  },
+  {
+    "uri": "en/5/120912024",
+    "id": "120912024",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Microbicides for wastewater treatment",
+    "harm": {
+      "id": "0065418",
+      "title": "120912024 - Microbicides for wastewater treatment",
+      "conceptLink": "/ec2/concept/6001621"
+    }
+  },
+  {
+    "uri": "en/5/88639",
+    "id": "88639",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Microorganisms (Cultures of -) for medical and veterinary use",
+    "harm": {
+      "id": "0072533",
+      "title": "88639 - Microorganisms (Cultures of -) for medical and veterinary use",
+      "conceptLink": "/ec2/concept/6008710"
+    }
+  },
+  {
+    "uri": "en/5/88599",
+    "id": "88599",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Microorganisms (Nutritive substances for -)",
+    "harm": {
+      "id": "0031379",
+      "title": "88599 - Microorganisms (Nutritive substances for -)",
+      "conceptLink": "/ec2/concept/5980190"
+    }
+  },
+  {
+    "uri": "en/5/88641",
+    "id": "88641",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Microorganisms (Preparations of -) for medical and veterinary use",
+    "harm": {
+      "id": "0072534",
+      "title": "88641 - Microorganisms (Preparations of -) for medical and veterinary use",
+      "conceptLink": "/ec2/concept/6008711"
+    }
+  },
+  {
+    "uri": "en/5/119524117",
+    "id": "119524117",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Migraine treatment preparations",
+    "harm": {
+      "id": "0065417",
+      "title": "119524117 - Migraine treatment preparations",
+      "conceptLink": "/ec2/concept/6001620"
+    }
+  },
+  {
+    "uri": "en/5/88340",
+    "id": "88340",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mildew (Chemical preparations to treat -)",
+    "harm": {
+      "id": "0041875",
+      "title": "88340 - Mildew (Chemical preparations to treat -)",
+      "conceptLink": "/ec2/concept/5989740"
+    }
+  },
+  {
+    "uri": "en/5/120866911",
+    "id": "120866911",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mildew destroying preparations",
+    "harm": {
+      "id": "0059450",
+      "title": "120866911 - Mildew destroying preparations",
+      "conceptLink": "/ec2/concept/6000926"
+    }
+  },
+  {
+    "uri": "en/5/86859",
+    "id": "86859",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mildewcides",
+    "harm": {
+      "id": "0059450",
+      "title": "86859 - Mildewcides",
+      "conceptLink": "/ec2/concept/6000926"
+    }
+  },
+  {
+    "uri": "en/5/119524118",
+    "id": "119524118",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mildewstats",
+    "harm": {
+      "id": "0059450",
+      "title": "119524118 - Mildewstats",
+      "conceptLink": "/ec2/concept/6000926"
+    }
+  },
+  {
+    "uri": "en/5/87860",
+    "id": "87860",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk ferments for pharmaceutical purposes",
+    "harm": {
+      "id": "0031516",
+      "title": "87860 - Milk ferments for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5980309"
+    }
+  },
+  {
+    "uri": "en/5/91007",
+    "id": "91007",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk of almonds for pharmaceutical purposes",
+    "harm": {
+      "id": "0013910",
+      "title": "91007 - Milk of almonds for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5964185"
+    }
+  },
+  {
+    "uri": "en/5/86666",
+    "id": "86666",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk powder for babies",
+    "harm": {
+      "id": "0058536",
+      "title": "86666 - Milk powder for babies",
+      "conceptLink": "/ec2/concept/6000034"
+    }
+  },
+  {
+    "uri": "en/5/667683",
+    "id": "667683",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk powders [foodstuff for babies]",
+    "harm": {
+      "id": "0019944",
+      "title": "667683 - Milk powders [foodstuff for babies]",
+      "conceptLink": "/ec2/concept/5969707"
+    }
+  },
+  {
+    "uri": "en/5/667696",
+    "id": "667696",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk sugar",
+    "harm": {
+      "id": "0042978",
+      "title": "667696 - Milk sugar",
+      "conceptLink": "/ec2/concept/5990742"
+    }
+  },
+  {
+    "uri": "en/5/119524120",
+    "id": "119524120",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk sugar for medical purposes [lactose]",
+    "harm": {
+      "id": "0055528",
+      "title": "119524120 - Milk sugar for medical purposes [lactose]",
+      "conceptLink": "/ec2/concept/5996926"
+    }
+  },
+  {
+    "uri": "en/5/88003",
+    "id": "88003",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milk sugar for pharmaceutical purposes",
+    "harm": {
+      "id": "0037360",
+      "title": "88003 - Milk sugar for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5985618"
+    }
+  },
+  {
+    "uri": "en/5/87262",
+    "id": "87262",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Milking grease",
+    "harm": {
+      "id": "0037274",
+      "title": "87262 - Milking grease",
+      "conceptLink": "/ec2/concept/5985538"
+    }
+  },
+  {
+    "uri": "en/5/667725",
+    "id": "667725",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral dietary supplements for humans",
+    "harm": {
+      "id": "0014115",
+      "title": "667725 - Mineral dietary supplements for humans",
+      "conceptLink": "/ec2/concept/5964375"
+    }
+  },
+  {
+    "uri": "en/5/667712",
+    "id": "667712",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral dietary supplements for animals",
+    "harm": {
+      "id": "0019945",
+      "title": "667712 - Mineral dietary supplements for animals",
+      "conceptLink": "/ec2/concept/5969708"
+    }
+  },
+  {
+    "uri": "en/5/124896387",
+    "id": "124896387",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral drinks (Medicated -)",
+    "harm": {
+      "id": "0014116",
+      "title": "124896387 - Mineral drinks (Medicated -)",
+      "conceptLink": "/ec2/concept/5964376"
+    }
+  },
+  {
+    "uri": "en/5/233158295",
+    "id": "233158295",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral food preparations for medical purposes",
+    "harm": {
+      "id": "0072914",
+      "title": "233158295 - Mineral food preparations for medical purposes",
+      "conceptLink": "/ec2/concept/6009089"
+    }
+  },
+  {
+    "uri": "en/5/92825",
+    "id": "92825",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral food supplements",
+    "harm": {
+      "id": "0007141",
+      "title": "92825 - Mineral food supplements",
+      "conceptLink": "/ec2/concept/5957990"
+    }
+  },
+  {
+    "uri": "en/5/13144256",
+    "id": "13144256",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral nutritional supplements",
+    "harm": {
+      "id": "0070839",
+      "title": "13144256 - Mineral nutritional supplements",
+      "conceptLink": "/ec2/concept/6007031"
+    }
+  },
+  {
+    "uri": "en/5/120868536",
+    "id": "120868536",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral preparations and substances for medical use",
+    "harm": {
+      "id": "0065310",
+      "title": "120868536 - Mineral preparations and substances for medical use",
+      "conceptLink": "/ec2/concept/6001513"
+    }
+  },
+  {
+    "uri": "en/5/56368245",
+    "id": "56368245",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral preparations for medical purposes",
+    "harm": {
+      "id": "0055179",
+      "title": "56368245 - Mineral preparations for medical purposes",
+      "conceptLink": "/ec2/concept/5996615"
+    }
+  },
+  {
+    "uri": "en/5/83485",
+    "id": "83485",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral salts for baths",
+    "harm": {
+      "id": "0025636",
+      "title": "83485 - Mineral salts for baths",
+      "conceptLink": "/ec2/concept/5974928"
+    }
+  },
+  {
+    "uri": "en/5/882346",
+    "id": "882346",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral salts for medical purposes",
+    "harm": {
+      "id": "0031021",
+      "title": "882346 - Mineral salts for medical purposes",
+      "conceptLink": "/ec2/concept/5979863"
+    }
+  },
+  {
+    "uri": "en/5/667755",
+    "id": "667755",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral supplements for feeding livestock",
+    "harm": {
+      "id": "0019946",
+      "title": "667755 - Mineral supplements for feeding livestock",
+      "conceptLink": "/ec2/concept/5969709"
+    }
+  },
+  {
+    "uri": "en/5/92824",
+    "id": "92824",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral supplements to foodstuffs",
+    "harm": {
+      "id": "0007141",
+      "title": "92824 - Mineral supplements to foodstuffs",
+      "conceptLink": "/ec2/concept/5957990"
+    }
+  },
+  {
+    "uri": "en/5/86273",
+    "id": "86273",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral water salts",
+    "harm": {
+      "id": "0026805",
+      "title": "86273 - Mineral water salts",
+      "conceptLink": "/ec2/concept/5975988"
+    }
+  },
+  {
+    "uri": "en/5/86231",
+    "id": "86231",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mineral waters for medical purposes",
+    "harm": {
+      "id": "0017586",
+      "title": "86231 - Mineral waters for medical purposes",
+      "conceptLink": "/ec2/concept/5967551"
+    }
+  },
+  {
+    "uri": "en/5/120868837",
+    "id": "120868837",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mint-flavored chewing gum for medical use",
+    "harm": {
+      "id": "0065264",
+      "title": "120868837 - Mint-flavored chewing gum for medical use",
+      "conceptLink": "/ec2/concept/6001467"
+    }
+  },
+  {
+    "uri": "en/5/88319",
+    "id": "88319",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Mint for pharmaceutical purposes",
+    "harm": {
+      "id": "0018822",
+      "title": "88319 - Mint for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5968697"
+    }
+  },
+  {
+    "uri": "en/5/93033",
+    "id": "93033",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Miticides",
+    "harm": {
+      "id": "0001384",
+      "title": "93033 - Miticides",
+      "conceptLink": "/ec2/concept/5952732"
+    }
+  }
+]

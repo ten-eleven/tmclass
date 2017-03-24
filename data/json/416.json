@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/19/136633915",
+    "id": "136633915",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Bridge bearings [construction materials] not of metal",
+    "harm": {
+      "id": "0060130",
+      "title": "136633915 - Bridge bearings [construction materials] not of metal",
+      "conceptLink": "/ec2/concept/5996392"
+    }
+  },
+  {
+    "uri": "en/19/578056",
+    "id": "578056",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Bridge units [not of metal]",
+    "harm": {
+      "id": "0023066",
+      "title": "578056 - Bridge units [not of metal]",
+      "conceptLink": "/ec2/concept/5972560"
+    }
+  },
+  {
+    "uri": "en/19/611893",
+    "id": "611893",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Bridges [structures] other than of metal",
+    "harm": {
+      "id": "0042144",
+      "title": "611893 - Bridges [structures] other than of metal",
+      "conceptLink": "/ec2/concept/5989988"
+    }
+  },
+  {
+    "uri": "en/19/131120593",
+    "id": "131120593",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building and construction materials and elements, not of metal",
+    "harm": {
+      "id": "0047859",
+      "title": "131120593 - Building and construction materials and elements, not of metal",
+      "conceptLink": "/ec2/concept/5995130"
+    }
+  },
+  {
+    "uri": "en/19/124808198",
+    "id": "124808198",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building beams (Non-metallic -)",
+    "harm": {
+      "id": "0015226",
+      "title": "124808198 - Building beams (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5965399"
+    }
+  },
+  {
+    "uri": "en/19/578071",
+    "id": "578071",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building blocks incorporating insulating materials",
+    "harm": {
+      "id": "0028725",
+      "title": "578071 - Building blocks incorporating insulating materials",
+      "conceptLink": "/ec2/concept/5977759"
+    }
+  },
+  {
+    "uri": "en/19/124808371",
+    "id": "124808371",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building blocks (Non-metallic -)",
+    "harm": {
+      "id": "0045726",
+      "title": "124808371 - Building blocks (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5993262"
+    }
+  },
+  {
+    "uri": "en/19/578099",
+    "id": "578099",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building boards made from wood and waterproof resins",
+    "harm": {
+      "id": "0023067",
+      "title": "578099 - Building boards made from wood and waterproof resins",
+      "conceptLink": "/ec2/concept/5972561"
+    }
+  },
+  {
+    "uri": "en/19/125183341",
+    "id": "125183341",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building boards (Non-metallic -)",
+    "harm": {
+      "id": "0021648",
+      "title": "125183341 - Building boards (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5971262"
+    }
+  },
+  {
+    "uri": "en/19/578115",
+    "id": "578115",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building boards of plastics materials",
+    "harm": {
+      "id": "0008215",
+      "title": "578115 - Building boards of plastics materials",
+      "conceptLink": "/ec2/concept/5958972"
+    }
+  },
+  {
+    "uri": "en/19/124808661",
+    "id": "124808661",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building bricks (Glass -)",
+    "harm": {
+      "id": "0017200",
+      "title": "124808661 - Building bricks (Glass -)",
+      "conceptLink": "/ec2/concept/5967204"
+    }
+  },
+  {
+    "uri": "en/19/124808676",
+    "id": "124808676",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building bricks (Non-metallic -)",
+    "harm": {
+      "id": "0023068",
+      "title": "124808676 - Building bricks (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5972562"
+    }
+  },
+  {
+    "uri": "en/19/3044195",
+    "id": "3044195",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building cardboard",
+    "harm": {
+      "id": "0057527",
+      "title": "3044195 - Building cardboard",
+      "conceptLink": "/ec2/concept/5999032"
+    }
+  },
+  {
+    "uri": "en/19/228389",
+    "id": "228389",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building cardboard [asphalted]",
+    "harm": {
+      "id": "0026718",
+      "title": "228389 - Building cardboard [asphalted]",
+      "conceptLink": "/ec2/concept/5975914"
+    }
+  },
+  {
+    "uri": "en/19/124808692",
+    "id": "124808692",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building components (Non-metallic -) in the form of slabs",
+    "harm": {
+      "id": "0005680",
+      "title": "124808692 - Building components (Non-metallic -) in the form of slabs",
+      "conceptLink": "/ec2/concept/5956659"
+    }
+  },
+  {
+    "uri": "en/19/578176",
+    "id": "578176",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building components of imitation wood",
+    "harm": {
+      "id": "0011401",
+      "title": "578176 - Building components of imitation wood",
+      "conceptLink": "/ec2/concept/5961890"
+    }
+  },
+  {
+    "uri": "en/19/578187",
+    "id": "578187",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building components of wood",
+    "harm": {
+      "id": "0026908",
+      "title": "578187 - Building components of wood",
+      "conceptLink": "/ec2/concept/5976084"
+    }
+  },
+  {
+    "uri": "en/19/890750",
+    "id": "890750",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building construction materials in the nature of aromatic cedar planking",
+    "harm": {
+      "id": "0020293",
+      "title": "890750 - Building construction materials in the nature of aromatic cedar planking",
+      "conceptLink": "/ec2/concept/5970027"
+    }
+  },
+  {
+    "uri": "en/19/227619",
+    "id": "227619",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building elements made of concrete",
+    "harm": {
+      "id": "0035981",
+      "title": "227619 - Building elements made of concrete",
+      "conceptLink": "/ec2/concept/5984365"
+    }
+  },
+  {
+    "uri": "en/19/227617",
+    "id": "227617",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building elements of concrete",
+    "harm": {
+      "id": "0035981",
+      "title": "227617 - Building elements of concrete",
+      "conceptLink": "/ec2/concept/5984365"
+    }
+  },
+  {
+    "uri": "en/19/124484504",
+    "id": "124484504",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building frames (Non-metallic -)",
+    "harm": {
+      "id": "0002717",
+      "title": "124484504 - Building frames (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5953934"
+    }
+  },
+  {
+    "uri": "en/19/228550",
+    "id": "228550",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building (Framework for -), not of metal",
+    "harm": {
+      "id": "0002717",
+      "title": "228550 - Building (Framework for -), not of metal",
+      "conceptLink": "/ec2/concept/5953934"
+    }
+  },
+  {
+    "uri": "en/19/124808726",
+    "id": "124808726",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building fronts (Non-metallic -)",
+    "harm": {
+      "id": "0003817",
+      "title": "124808726 - Building fronts (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5954945"
+    }
+  },
+  {
+    "uri": "en/19/228993",
+    "id": "228993",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building glass",
+    "harm": {
+      "id": "0030626",
+      "title": "228993 - Building glass",
+      "conceptLink": "/ec2/concept/5979503"
+    }
+  },
+  {
+    "uri": "en/19/124808738",
+    "id": "124808738",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building laths (Non-metallic -)",
+    "harm": {
+      "id": "0038471",
+      "title": "124808738 - Building laths (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5986637"
+    }
+  },
+  {
+    "uri": "en/19/578243",
+    "id": "578243",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials consisting of glass",
+    "harm": {
+      "id": "0021280",
+      "title": "578243 - Building materials consisting of glass",
+      "conceptLink": "/ec2/concept/5970933"
+    }
+  },
+  {
+    "uri": "en/19/578287",
+    "id": "578287",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials made of rock fibres",
+    "harm": {
+      "id": "0042145",
+      "title": "578287 - Building materials made of rock fibres",
+      "conceptLink": "/ec2/concept/5989989"
+    }
+  },
+  {
+    "uri": "en/19/233497",
+    "id": "233497",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials (non-metallic)",
+    "harm": {
+      "id": "0024351",
+      "title": "233497 - Building materials (non-metallic)",
+      "conceptLink": "/ec2/concept/5973747"
+    }
+  },
+  {
+    "uri": "en/19/233498",
+    "id": "233498",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials, not of metal",
+    "harm": {
+      "id": "0024351",
+      "title": "233498 - Building materials, not of metal",
+      "conceptLink": "/ec2/concept/5973747"
+    }
+  },
+  {
+    "uri": "en/19/578268",
+    "id": "578268",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials of concrete reinforced with plastics and glass fibres",
+    "harm": {
+      "id": "0009561",
+      "title": "578268 - Building materials of concrete reinforced with plastics and glass fibres",
+      "conceptLink": "/ec2/concept/5960209"
+    }
+  },
+  {
+    "uri": "en/19/578245",
+    "id": "578245",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials of glass",
+    "harm": {
+      "id": "0021280",
+      "title": "578245 - Building materials of glass",
+      "conceptLink": "/ec2/concept/5970933"
+    }
+  },
+  {
+    "uri": "en/19/578286",
+    "id": "578286",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials of mineral fibres",
+    "harm": {
+      "id": "0042145",
+      "title": "578286 - Building materials of mineral fibres",
+      "conceptLink": "/ec2/concept/5989989"
+    }
+  },
+  {
+    "uri": "en/19/578308",
+    "id": "578308",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials of plastics material",
+    "harm": {
+      "id": "0003818",
+      "title": "578308 - Building materials of plastics material",
+      "conceptLink": "/ec2/concept/5954946"
+    }
+  },
+  {
+    "uri": "en/19/2220519",
+    "id": "2220519",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building materials of wood",
+    "harm": {
+      "id": "0073006",
+      "title": "2220519 - Building materials of wood",
+      "conceptLink": "/ec2/concept/6009181"
+    }
+  },
+  {
+    "uri": "en/19/234335",
+    "id": "234335",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building panels, not of metal",
+    "harm": {
+      "id": "0021648",
+      "title": "234335 - Building panels, not of metal",
+      "conceptLink": "/ec2/concept/5971262"
+    }
+  },
+  {
+    "uri": "en/19/228336",
+    "id": "228336",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building paper",
+    "harm": {
+      "id": "0057528",
+      "title": "228336 - Building paper",
+      "conceptLink": "/ec2/concept/5999033"
+    }
+  },
+  {
+    "uri": "en/19/125183342",
+    "id": "125183342",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building plates (Non-metallic -)",
+    "harm": {
+      "id": "0021648",
+      "title": "125183342 - Building plates (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5971262"
+    }
+  },
+  {
+    "uri": "en/19/578327",
+    "id": "578327",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building sand",
+    "harm": {
+      "id": "0007947",
+      "title": "578327 - Building sand",
+      "conceptLink": "/ec2/concept/5958730"
+    }
+  },
+  {
+    "uri": "en/19/124484939",
+    "id": "124484939",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building sections (Non-metallic -)",
+    "harm": {
+      "id": "0046591",
+      "title": "124484939 - Building sections (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5994019"
+    }
+  },
+  {
+    "uri": "en/19/124488123",
+    "id": "124488123",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building sheets (Non-metallic -)",
+    "harm": {
+      "id": "0072778",
+      "title": "124488123 - Building sheets (Non-metallic -)",
+      "conceptLink": "/ec2/concept/6008953"
+    }
+  },
+  {
+    "uri": "en/19/125183340",
+    "id": "125183340",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building slabs (Non-metallic -)",
+    "harm": {
+      "id": "0021648",
+      "title": "125183340 - Building slabs (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5971262"
+    }
+  },
+  {
+    "uri": "en/19/231707",
+    "id": "231707",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building stone",
+    "harm": {
+      "id": "0037090",
+      "title": "231707 - Building stone",
+      "conceptLink": "/ec2/concept/5985374"
+    }
+  },
+  {
+    "uri": "en/19/346838",
+    "id": "346838",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Building timber",
+    "harm": {
+      "id": "0057158",
+      "title": "346838 - Building timber",
+      "conceptLink": "/ec2/concept/5998779"
+    }
+  },
+  {
+    "uri": "en/19/124808867",
+    "id": "124808867",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Buildings (Non-metallic -) for housing portable toilets",
+    "harm": {
+      "id": "0023043",
+      "title": "124808867 - Buildings (Non-metallic -) for housing portable toilets",
+      "conceptLink": "/ec2/concept/5972539"
+    }
+  },
+  {
+    "uri": "en/19/124808879",
+    "id": "124808879",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Buildings (Non-metallic -) in the form of cabins",
+    "harm": {
+      "id": "0040269",
+      "title": "124808879 - Buildings (Non-metallic -) in the form of cabins",
+      "conceptLink": "/ec2/concept/5988278"
+    }
+  },
+  {
+    "uri": "en/19/228934",
+    "id": "228934",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Buildings, not of metal",
+    "harm": {
+      "id": "0000049",
+      "title": "228934 - Buildings, not of metal",
+      "conceptLink": "/ec2/concept/5951531"
+    }
+  },
+  {
+    "uri": "en/19/230940",
+    "id": "230940",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Buildings, transportable, not of metal",
+    "harm": {
+      "id": "0029412",
+      "title": "230940 - Buildings, transportable, not of metal",
+      "conceptLink": "/ec2/concept/5978381"
+    }
+  },
+  {
+    "uri": "en/19/232703",
+    "id": "232703",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Burial vaults not of metal",
+    "harm": {
+      "id": "0058560",
+      "title": "232703 - Burial vaults not of metal",
+      "conceptLink": "/ec2/concept/6000053"
+    }
+  },
+  {
+    "uri": "en/19/132801379",
+    "id": "132801379",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Burial vaults, not of metal",
+    "harm": {
+      "id": "0058560",
+      "title": "132801379 - Burial vaults, not of metal",
+      "conceptLink": "/ec2/concept/6000053"
+    }
+  },
+  {
+    "uri": "en/19/611922",
+    "id": "611922",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Bus shelters [structures] made of non-metallic materials",
+    "harm": {
+      "id": "0013259",
+      "title": "611922 - Bus shelters [structures] made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5963594"
+    }
+  },
+  {
+    "uri": "en/19/611952",
+    "id": "611952",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Bus stops [signs or structures] of non-metallic materials",
+    "harm": {
+      "id": "0001690",
+      "title": "611952 - Bus stops [signs or structures] of non-metallic materials",
+      "conceptLink": "/ec2/concept/5953005"
+    }
+  },
+  {
+    "uri": "en/19/119538119",
+    "id": "119538119",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Busts of concrete",
+    "harm": {
+      "id": "0056113",
+      "title": "119538119 - Busts of concrete",
+      "conceptLink": "/ec2/concept/5997464"
+    }
+  },
+  {
+    "uri": "en/19/119538120",
+    "id": "119538120",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Busts of marble",
+    "harm": {
+      "id": "0056114",
+      "title": "119538120 - Busts of marble",
+      "conceptLink": "/ec2/concept/5997465"
+    }
+  },
+  {
+    "uri": "en/19/7967250",
+    "id": "7967250",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Busts of stone",
+    "harm": {
+      "id": "0056115",
+      "title": "7967250 - Busts of stone",
+      "conceptLink": "/ec2/concept/5997466"
+    }
+  },
+  {
+    "uri": "en/19/233664",
+    "id": "233664",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Busts of stone, concrete or marble",
+    "harm": {
+      "id": "0038420",
+      "title": "233664 - Busts of stone, concrete or marble",
+      "conceptLink": "/ec2/concept/5986590"
+    }
+  },
+  {
+    "uri": "en/19/132801150",
+    "id": "132801150",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cabanas, not of metal",
+    "harm": {
+      "id": "0003773",
+      "title": "132801150 - Cabanas, not of metal",
+      "conceptLink": "/ec2/concept/5954903"
+    }
+  },
+  {
+    "uri": "en/19/578372",
+    "id": "578372",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cages of non-metallic materials, other than for domestic use",
+    "harm": {
+      "id": "0023044",
+      "title": "578372 - Cages of non-metallic materials, other than for domestic use",
+      "conceptLink": "/ec2/concept/5972540"
+    }
+  },
+  {
+    "uri": "en/19/228208",
+    "id": "228208",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Caissons for construction work under water",
+    "harm": {
+      "id": "0037344",
+      "title": "228208 - Caissons for construction work under water",
+      "conceptLink": "/ec2/concept/5985603"
+    }
+  },
+  {
+    "uri": "en/19/233911",
+    "id": "233911",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Calcareous marl",
+    "harm": {
+      "id": "0009038",
+      "title": "233911 - Calcareous marl",
+      "conceptLink": "/ec2/concept/5959727"
+    }
+  },
+  {
+    "uri": "en/19/228235",
+    "id": "228235",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Calcareous stone",
+    "harm": {
+      "id": "0019093",
+      "title": "228235 - Calcareous stone",
+      "conceptLink": "/ec2/concept/5968944"
+    }
+  },
+  {
+    "uri": "en/19/346452",
+    "id": "346452",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Calcite",
+    "harm": {
+      "id": "0022723",
+      "title": "346452 - Calcite",
+      "conceptLink": "/ec2/concept/5972255"
+    }
+  },
+  {
+    "uri": "en/19/611994",
+    "id": "611994",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Canopies [structures] of non-metallic materials",
+    "harm": {
+      "id": "0037858",
+      "title": "611994 - Canopies [structures] of non-metallic materials",
+      "conceptLink": "/ec2/concept/5986067"
+    }
+  },
+  {
+    "uri": "en/19/124808918",
+    "id": "124808918",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Capitals (Non-metallic -) being parts of pilasters",
+    "harm": {
+      "id": "0023045",
+      "title": "124808918 - Capitals (Non-metallic -) being parts of pilasters",
+      "conceptLink": "/ec2/concept/5972541"
+    }
+  },
+  {
+    "uri": "en/19/124808905",
+    "id": "124808905",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Capitals (Non-metallic -) being parts of columns",
+    "harm": {
+      "id": "0040270",
+      "title": "124808905 - Capitals (Non-metallic -) being parts of columns",
+      "conceptLink": "/ec2/concept/5988279"
+    }
+  },
+  {
+    "uri": "en/19/578412",
+    "id": "578412",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Capping stones for support posts",
+    "harm": {
+      "id": "0034492",
+      "title": "578412 - Capping stones for support posts",
+      "conceptLink": "/ec2/concept/5983020"
+    }
+  },
+  {
+    "uri": "en/19/578425",
+    "id": "578425",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Capping stones for wall panels",
+    "harm": {
+      "id": "0045980",
+      "title": "578425 - Capping stones for wall panels",
+      "conceptLink": "/ec2/concept/5993498"
+    }
+  },
+  {
+    "uri": "en/19/228338",
+    "id": "228338",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cardboard (Building -)",
+    "harm": {
+      "id": "0057527",
+      "title": "228338 - Cardboard (Building -)",
+      "conceptLink": "/ec2/concept/5999032"
+    }
+  },
+  {
+    "uri": "en/19/578450",
+    "id": "578450",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Carvings of concrete",
+    "harm": {
+      "id": "0020891",
+      "title": "578450 - Carvings of concrete",
+      "conceptLink": "/ec2/concept/5970580"
+    }
+  },
+  {
+    "uri": "en/19/578464",
+    "id": "578464",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Carvings of marble",
+    "harm": {
+      "id": "0000299",
+      "title": "578464 - Carvings of marble",
+      "conceptLink": "/ec2/concept/5951763"
+    }
+  },
+  {
+    "uri": "en/19/578478",
+    "id": "578478",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Carvings of stone",
+    "harm": {
+      "id": "0057885",
+      "title": "578478 - Carvings of stone",
+      "conceptLink": "/ec2/concept/5999389"
+    }
+  },
+  {
+    "uri": "en/19/232890",
+    "id": "232890",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Casement windows, not of metal",
+    "harm": {
+      "id": "0058562",
+      "title": "232890 - Casement windows, not of metal",
+      "conceptLink": "/ec2/concept/6000055"
+    }
+  },
+  {
+    "uri": "en/19/229199",
+    "id": "229199",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Casements, not of metal",
+    "harm": {
+      "id": "0058562",
+      "title": "229199 - Casements, not of metal",
+      "conceptLink": "/ec2/concept/6000055"
+    }
+  },
+  {
+    "uri": "en/19/124809009",
+    "id": "124809009",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Casings (Non-metallic -) for use in building or construction",
+    "harm": {
+      "id": "0027226",
+      "title": "124809009 - Casings (Non-metallic -) for use in building or construction",
+      "conceptLink": "/ec2/concept/5976364"
+    }
+  },
+  {
+    "uri": "en/19/231255",
+    "id": "231255",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cask wood",
+    "harm": {
+      "id": "0041555",
+      "title": "231255 - Cask wood",
+      "conceptLink": "/ec2/concept/5989455"
+    }
+  },
+  {
+    "uri": "en/19/578510",
+    "id": "578510",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cast concrete decorative articles",
+    "harm": {
+      "id": "0004151",
+      "title": "578510 - Cast concrete decorative articles",
+      "conceptLink": "/ec2/concept/5955243"
+    }
+  },
+  {
+    "uri": "en/19/578524",
+    "id": "578524",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Castings of plaster for decorative purposes",
+    "harm": {
+      "id": "0004152",
+      "title": "578524 - Castings of plaster for decorative purposes",
+      "conceptLink": "/ec2/concept/5955244"
+    }
+  },
+  {
+    "uri": "en/19/137925939",
+    "id": "137925939",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling boards, not of metal",
+    "harm": {
+      "id": "0073007",
+      "title": "137925939 - Ceiling boards, not of metal",
+      "conceptLink": "/ec2/concept/6009182"
+    }
+  },
+  {
+    "uri": "en/19/502164",
+    "id": "502164",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling boards of wood",
+    "harm": {
+      "id": "0016399",
+      "title": "502164 - Ceiling boards of wood",
+      "conceptLink": "/ec2/concept/5966489"
+    }
+  },
+  {
+    "uri": "en/19/578540",
+    "id": "578540",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling coffers of non-metallic materials",
+    "harm": {
+      "id": "0015691",
+      "title": "578540 - Ceiling coffers of non-metallic materials",
+      "conceptLink": "/ec2/concept/5965825"
+    }
+  },
+  {
+    "uri": "en/19/124809058",
+    "id": "124809058",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling panels (Non-metallic -)",
+    "harm": {
+      "id": "0015691",
+      "title": "124809058 - Ceiling panels (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5965825"
+    }
+  },
+  {
+    "uri": "en/19/901585",
+    "id": "901585",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling panels, not of metal",
+    "harm": {
+      "id": "0015691",
+      "title": "901585 - Ceiling panels, not of metal",
+      "conceptLink": "/ec2/concept/5965825"
+    }
+  },
+  {
+    "uri": "en/19/124809094",
+    "id": "124809094",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceiling tiles (Non-metallic -)",
+    "harm": {
+      "id": "0015692",
+      "title": "124809094 - Ceiling tiles (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5965826"
+    }
+  },
+  {
+    "uri": "en/19/913780",
+    "id": "913780",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Ceilings, not of metal",
+    "harm": {
+      "id": "0028788",
+      "title": "913780 - Ceilings, not of metal",
+      "conceptLink": "/ec2/concept/5977820"
+    }
+  },
+  {
+    "uri": "en/19/119538129",
+    "id": "119538129",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement",
+    "harm": {
+      "id": "0025729",
+      "title": "119538129 - Cement",
+      "conceptLink": "/ec2/concept/5975011"
+    }
+  },
+  {
+    "uri": "en/19/228779",
+    "id": "228779",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement coatings (Fireproof -)",
+    "harm": {
+      "id": "0043062",
+      "title": "228779 - Cement coatings (Fireproof -)",
+      "conceptLink": "/ec2/concept/5990819"
+    }
+  },
+  {
+    "uri": "en/19/12959505",
+    "id": "12959505",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement for blast furnaces",
+    "harm": {
+      "id": "0011728",
+      "title": "12959505 - Cement for blast furnaces",
+      "conceptLink": "/ec2/concept/5962191"
+    }
+  },
+  {
+    "uri": "en/19/578581",
+    "id": "578581",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement for building",
+    "harm": {
+      "id": "0037860",
+      "title": "578581 - Cement for building",
+      "conceptLink": "/ec2/concept/5986069"
+    }
+  },
+  {
+    "uri": "en/19/5386621",
+    "id": "5386621",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement for furnaces",
+    "harm": {
+      "id": "0000170",
+      "title": "5386621 - Cement for furnaces",
+      "conceptLink": "/ec2/concept/5951645"
+    }
+  },
+  {
+    "uri": "en/19/423273",
+    "id": "423273",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement mixes",
+    "harm": {
+      "id": "0017311",
+      "title": "423273 - Cement mixes",
+      "conceptLink": "/ec2/concept/5967305"
+    }
+  },
+  {
+    "uri": "en/19/578600",
+    "id": "578600",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement mortar for use in construction",
+    "harm": {
+      "id": "0015693",
+      "title": "578600 - Cement mortar for use in construction",
+      "conceptLink": "/ec2/concept/5965827"
+    }
+  },
+  {
+    "uri": "en/19/346463",
+    "id": "346463",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement mortar pipes",
+    "harm": {
+      "id": "0039920",
+      "title": "346463 - Cement mortar pipes",
+      "conceptLink": "/ec2/concept/5987960"
+    }
+  },
+  {
+    "uri": "en/19/346477",
+    "id": "346477",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement mortar roofing tiles",
+    "harm": {
+      "id": "0016858",
+      "title": "346477 - Cement mortar roofing tiles",
+      "conceptLink": "/ec2/concept/5966900"
+    }
+  },
+  {
+    "uri": "en/19/346491",
+    "id": "346491",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement mortar slates",
+    "harm": {
+      "id": "0028390",
+      "title": "346491 - Cement mortar slates",
+      "conceptLink": "/ec2/concept/5977446"
+    }
+  },
+  {
+    "uri": "en/19/578615",
+    "id": "578615",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement plugs for use in filling",
+    "harm": {
+      "id": "0028461",
+      "title": "578615 - Cement plugs for use in filling",
+      "conceptLink": "/ec2/concept/5977511"
+    }
+  },
+  {
+    "uri": "en/19/228846",
+    "id": "228846",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement posts",
+    "harm": {
+      "id": "0020018",
+      "title": "228846 - Cement posts",
+      "conceptLink": "/ec2/concept/5969776"
+    }
+  },
+  {
+    "uri": "en/19/228817",
+    "id": "228817",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cement slabs",
+    "harm": {
+      "id": "0043063",
+      "title": "228817 - Cement slabs",
+      "conceptLink": "/ec2/concept/5990820"
+    }
+  },
+  {
+    "uri": "en/19/612067",
+    "id": "612067",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cementitious protective coatings",
+    "harm": {
+      "id": "0037859",
+      "title": "612067 - Cementitious protective coatings",
+      "conceptLink": "/ec2/concept/5986068"
+    }
+  },
+  {
+    "uri": "en/19/612081",
+    "id": "612081",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cementitious restorative coatings",
+    "harm": {
+      "id": "0014792",
+      "title": "612081 - Cementitious restorative coatings",
+      "conceptLink": "/ec2/concept/5965000"
+    }
+  },
+  {
+    "uri": "en/19/587605",
+    "id": "587605",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cementitious waterproofing coatings",
+    "harm": {
+      "id": "0003188",
+      "title": "587605 - Cementitious waterproofing coatings",
+      "conceptLink": "/ec2/concept/5954369"
+    }
+  },
+  {
+    "uri": "en/19/578582",
+    "id": "578582",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Cements for building",
+    "harm": {
+      "id": "0037860",
+      "title": "578582 - Cements for building",
+      "conceptLink": "/ec2/concept/5986069"
+    }
+  }
+]

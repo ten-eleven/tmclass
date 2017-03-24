@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/44/67774",
+    "id": "67774",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Physician services",
+    "harm": {
+      "id": "0004322",
+      "title": "67774 - Physician services",
+      "conceptLink": "/ec2/concept/5955405"
+    }
+  },
+  {
+    "uri": "en/44/67773",
+    "id": "67773",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Physicians' services",
+    "harm": {
+      "id": "0004322",
+      "title": "67773 - Physicians' services",
+      "conceptLink": "/ec2/concept/5955405"
+    }
+  },
+  {
+    "uri": "en/44/67957",
+    "id": "67957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Physiotherapy",
+    "harm": {
+      "id": "0000828",
+      "title": "67957 - Physiotherapy",
+      "conceptLink": "/ec2/concept/5952234"
+    }
+  },
+  {
+    "uri": "en/44/131086529",
+    "id": "131086529",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Physiotherapy [physical therapy]",
+    "harm": {
+      "id": "0000828",
+      "title": "131086529 - Physiotherapy [physical therapy]",
+      "conceptLink": "/ec2/concept/5952234"
+    }
+  },
+  {
+    "uri": "en/44/67960",
+    "id": "67960",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Physiotherapy services",
+    "harm": {
+      "id": "0000828",
+      "title": "67960 - Physiotherapy services",
+      "conceptLink": "/ec2/concept/5952234"
+    }
+  },
+  {
+    "uri": "en/44/137885416",
+    "id": "137885416",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Pig breeding services",
+    "harm": {
+      "id": "0071557",
+      "title": "137885416 - Pig breeding services",
+      "conceptLink": "/ec2/concept/6007748"
+    }
+  },
+  {
+    "uri": "en/44/878817",
+    "id": "878817",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Planning [design] of gardens",
+    "harm": {
+      "id": "0034051",
+      "title": "878817 - Planning [design] of gardens",
+      "conceptLink": "/ec2/concept/5982619"
+    }
+  },
+  {
+    "uri": "en/44/476692",
+    "id": "476692",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Plant care services [horticultural services]",
+    "harm": {
+      "id": "0005389",
+      "title": "476692 - Plant care services [horticultural services]",
+      "conceptLink": "/ec2/concept/5956390"
+    }
+  },
+  {
+    "uri": "en/44/67913",
+    "id": "67913",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Plant nurseries",
+    "harm": {
+      "id": "0057691",
+      "title": "67913 - Plant nurseries",
+      "conceptLink": "/ec2/concept/5999195"
+    }
+  },
+  {
+    "uri": "en/44/39078309",
+    "id": "39078309",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Plant nursery services",
+    "harm": {
+      "id": "0057691",
+      "title": "39078309 - Plant nursery services",
+      "conceptLink": "/ec2/concept/5999195"
+    }
+  },
+  {
+    "uri": "en/44/878844",
+    "id": "878844",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Planting of flora",
+    "harm": {
+      "id": "0016757",
+      "title": "878844 - Planting of flora",
+      "conceptLink": "/ec2/concept/5966808"
+    }
+  },
+  {
+    "uri": "en/44/375899",
+    "id": "375899",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Planting of trees",
+    "harm": {
+      "id": "0046278",
+      "title": "375899 - Planting of trees",
+      "conceptLink": "/ec2/concept/5993739"
+    }
+  },
+  {
+    "uri": "en/44/68650",
+    "id": "68650",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Plastic surgery",
+    "harm": {
+      "id": "0036267",
+      "title": "68650 - Plastic surgery",
+      "conceptLink": "/ec2/concept/5984623"
+    }
+  },
+  {
+    "uri": "en/44/49800656",
+    "id": "49800656",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Plastic surgery services",
+    "harm": {
+      "id": "0036267",
+      "title": "49800656 - Plastic surgery services",
+      "conceptLink": "/ec2/concept/5984623"
+    }
+  },
+  {
+    "uri": "en/44/135988549",
+    "id": "135988549",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Podiatrist",
+    "harm": {
+      "id": "0050219",
+      "title": "135988549 - Podiatrist",
+      "conceptLink": "/ec2/concept/5995478"
+    }
+  },
+  {
+    "uri": "en/44/878856",
+    "id": "878856",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Poultry breeding services",
+    "harm": {
+      "id": "0006818",
+      "title": "878856 - Poultry breeding services",
+      "conceptLink": "/ec2/concept/5957694"
+    }
+  },
+  {
+    "uri": "en/44/137887282",
+    "id": "137887282",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Pre-employment drug screening",
+    "harm": {
+      "id": "0071570",
+      "title": "137887282 - Pre-employment drug screening",
+      "conceptLink": "/ec2/concept/6007761"
+    }
+  },
+  {
+    "uri": "en/44/878870",
+    "id": "878870",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Pregnancy testing",
+    "harm": {
+      "id": "0024234",
+      "title": "878870 - Pregnancy testing",
+      "conceptLink": "/ec2/concept/5973643"
+    }
+  },
+  {
+    "uri": "en/44/375824",
+    "id": "375824",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation and dispensing of medications",
+    "harm": {
+      "id": "0060344",
+      "title": "375824 - Preparation and dispensing of medications",
+      "conceptLink": "/ec2/concept/5998320"
+    }
+  },
+  {
+    "uri": "en/44/18664890",
+    "id": "18664890",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of prescriptions in pharmacies",
+    "harm": {
+      "id": "0069630",
+      "title": "18664890 - Preparation of prescriptions in pharmacies",
+      "conceptLink": "/ec2/concept/6005833"
+    }
+  },
+  {
+    "uri": "en/44/233653288",
+    "id": "233653288",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of prescriptions by pharmacists",
+    "harm": {
+      "id": "0002892",
+      "title": "233653288 - Preparation of prescriptions by pharmacists",
+      "conceptLink": "/ec2/concept/5954090"
+    }
+  },
+  {
+    "uri": "en/44/878886",
+    "id": "878886",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of psychological profiles for medical purposes",
+    "harm": {
+      "id": "0029961",
+      "title": "878886 - Preparation of psychological profiles for medical purposes",
+      "conceptLink": "/ec2/concept/5978887"
+    }
+  },
+  {
+    "uri": "en/44/120888323",
+    "id": "120888323",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of psychological reports",
+    "harm": {
+      "id": "0069626",
+      "title": "120888323 - Preparation of psychological reports",
+      "conceptLink": "/ec2/concept/6005829"
+    }
+  },
+  {
+    "uri": "en/44/878901",
+    "id": "878901",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of reports relating to health care matters",
+    "harm": {
+      "id": "0018453",
+      "title": "878901 - Preparation of reports relating to health care matters",
+      "conceptLink": "/ec2/concept/5968350"
+    }
+  },
+  {
+    "uri": "en/44/878914",
+    "id": "878914",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparation of reports relating to medical matters",
+    "harm": {
+      "id": "0018454",
+      "title": "878914 - Preparation of reports relating to medical matters",
+      "conceptLink": "/ec2/concept/5968351"
+    }
+  },
+  {
+    "uri": "en/44/878927",
+    "id": "878927",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Preparing psychological profiles",
+    "harm": {
+      "id": "0024235",
+      "title": "878927 - Preparing psychological profiles",
+      "conceptLink": "/ec2/concept/5973644"
+    }
+  },
+  {
+    "uri": "en/44/878941",
+    "id": "878941",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Private hospital services",
+    "harm": {
+      "id": "0029962",
+      "title": "878941 - Private hospital services",
+      "conceptLink": "/ec2/concept/5978888"
+    }
+  },
+  {
+    "uri": "en/44/878953",
+    "id": "878953",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Professional consultancy relating to agriculture",
+    "harm": {
+      "id": "0012647",
+      "title": "878953 - Professional consultancy relating to agriculture",
+      "conceptLink": "/ec2/concept/5963036"
+    }
+  },
+  {
+    "uri": "en/44/878991",
+    "id": "878991",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Professional consultancy relating to health",
+    "harm": {
+      "id": "0018455",
+      "title": "878991 - Professional consultancy relating to health",
+      "conceptLink": "/ec2/concept/5968352"
+    }
+  },
+  {
+    "uri": "en/44/879020",
+    "id": "879020",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Professional consultancy relating to nutrition",
+    "harm": {
+      "id": "0018456",
+      "title": "879020 - Professional consultancy relating to nutrition",
+      "conceptLink": "/ec2/concept/5968353"
+    }
+  },
+  {
+    "uri": "en/44/879006",
+    "id": "879006",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Professional consultancy relating to health care",
+    "harm": {
+      "id": "0029963",
+      "title": "879006 - Professional consultancy relating to health care",
+      "conceptLink": "/ec2/concept/5978889"
+    }
+  },
+  {
+    "uri": "en/44/878968",
+    "id": "878968",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Professional consultancy relating to diet",
+    "harm": {
+      "id": "0058011",
+      "title": "878968 - Professional consultancy relating to diet",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/137887392",
+    "id": "137887392",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Prostate cancer screening services",
+    "harm": {
+      "id": "0071571",
+      "title": "137887392 - Prostate cancer screening services",
+      "conceptLink": "/ec2/concept/6007762"
+    }
+  },
+  {
+    "uri": "en/44/376153",
+    "id": "376153",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing bath houses",
+    "harm": {
+      "id": "0003496",
+      "title": "376153 - Providing bath houses",
+      "conceptLink": "/ec2/concept/5954647"
+    }
+  },
+  {
+    "uri": "en/44/906328",
+    "id": "906328",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing breastfeeding information",
+    "harm": {
+      "id": "0002457",
+      "title": "906328 - Providing breastfeeding information",
+      "conceptLink": "/ec2/concept/5953700"
+    }
+  },
+  {
+    "uri": "en/44/119556101",
+    "id": "119556101",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing cancer screening services",
+    "harm": {
+      "id": "0071572",
+      "title": "119556101 - Providing cancer screening services",
+      "conceptLink": "/ec2/concept/6007763"
+    }
+  },
+  {
+    "uri": "en/44/476706",
+    "id": "476706",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing health care information by telephone",
+    "harm": {
+      "id": "0022780",
+      "title": "476706 - Providing health care information by telephone",
+      "conceptLink": "/ec2/concept/5972307"
+    }
+  },
+  {
+    "uri": "en/44/476721",
+    "id": "476721",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing health information",
+    "harm": {
+      "id": "0045729",
+      "title": "476721 - Providing health information",
+      "conceptLink": "/ec2/concept/5993265"
+    }
+  },
+  {
+    "uri": "en/44/476741",
+    "id": "476741",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing hot tub facilities",
+    "harm": {
+      "id": "0034242",
+      "title": "476741 - Providing hot tub facilities",
+      "conceptLink": "/ec2/concept/5982792"
+    }
+  },
+  {
+    "uri": "en/44/476753",
+    "id": "476753",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about beauty",
+    "harm": {
+      "id": "0011125",
+      "title": "476753 - Providing information about beauty",
+      "conceptLink": "/ec2/concept/5961638"
+    }
+  },
+  {
+    "uri": "en/44/9776199",
+    "id": "9776199",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about dietary supplements and nutrition",
+    "harm": {
+      "id": "0069674",
+      "title": "9776199 - Providing information about dietary supplements and nutrition",
+      "conceptLink": "/ec2/concept/6005877"
+    }
+  },
+  {
+    "uri": "en/44/120888113",
+    "id": "120888113",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about public bath facilities",
+    "harm": {
+      "id": "0069648",
+      "title": "120888113 - Providing information about public bath facilities",
+      "conceptLink": "/ec2/concept/6005851"
+    }
+  },
+  {
+    "uri": "en/44/120888117",
+    "id": "120888117",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about Turkish bath facilities",
+    "harm": {
+      "id": "0069647",
+      "title": "120888117 - Providing information about Turkish bath facilities",
+      "conceptLink": "/ec2/concept/6005850"
+    }
+  },
+  {
+    "uri": "en/44/120885984",
+    "id": "120885984",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about agriculture, horticulture, and forestry services",
+    "harm": {
+      "id": "0069597",
+      "title": "120885984 - Providing information about agriculture, horticulture, and forestry services",
+      "conceptLink": "/ec2/concept/6005800"
+    }
+  },
+  {
+    "uri": "en/44/132696854",
+    "id": "132696854",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information about gardening",
+    "harm": {
+      "id": "0056745",
+      "title": "132696854 - Providing information about gardening",
+      "conceptLink": "/ec2/concept/5998027"
+    }
+  },
+  {
+    "uri": "en/44/119556109",
+    "id": "119556109",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information in the field of hair styling",
+    "harm": {
+      "id": "0069675",
+      "title": "119556109 - Providing information in the field of hair styling",
+      "conceptLink": "/ec2/concept/6005878"
+    }
+  },
+  {
+    "uri": "en/44/233406768",
+    "id": "233406768",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information in the field of health via a website",
+    "harm": {
+      "id": "0069604",
+      "title": "233406768 - Providing information in the field of health via a website",
+      "conceptLink": "/ec2/concept/6005807"
+    }
+  },
+  {
+    "uri": "en/44/906382",
+    "id": "906382",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information regarding plant and flower identification for horticultural purposes",
+    "harm": {
+      "id": "0037152",
+      "title": "906382 - Providing information regarding plant and flower identification for horticultural purposes",
+      "conceptLink": "/ec2/concept/5985431"
+    }
+  },
+  {
+    "uri": "en/44/120888351",
+    "id": "120888351",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to garden tree planting",
+    "harm": {
+      "id": "0069621",
+      "title": "120888351 - Providing information relating to garden tree planting",
+      "conceptLink": "/ec2/concept/6005824"
+    }
+  },
+  {
+    "uri": "en/44/120888344",
+    "id": "120888344",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to beauty salon services",
+    "harm": {
+      "id": "0069622",
+      "title": "120888344 - Providing information relating to beauty salon services",
+      "conceptLink": "/ec2/concept/6005825"
+    }
+  },
+  {
+    "uri": "en/44/120888355",
+    "id": "120888355",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to moxibustion",
+    "harm": {
+      "id": "0069620",
+      "title": "120888355 - Providing information relating to moxibustion",
+      "conceptLink": "/ec2/concept/6005823"
+    }
+  },
+  {
+    "uri": "en/44/120888056",
+    "id": "120888056",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to weed killing",
+    "harm": {
+      "id": "0069646",
+      "title": "120888056 - Providing information relating to weed killing",
+      "conceptLink": "/ec2/concept/6005849"
+    }
+  },
+  {
+    "uri": "en/44/120888067",
+    "id": "120888067",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to dietary and nutritional supplements",
+    "harm": {
+      "id": "0069638",
+      "title": "120888067 - Providing information relating to dietary and nutritional supplements",
+      "conceptLink": "/ec2/concept/6005841"
+    }
+  },
+  {
+    "uri": "en/44/120888206",
+    "id": "120888206",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to veterinary services",
+    "harm": {
+      "id": "0069635",
+      "title": "120888206 - Providing information relating to veterinary services",
+      "conceptLink": "/ec2/concept/6005838"
+    }
+  },
+  {
+    "uri": "en/44/120886284",
+    "id": "120886284",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to vermin exterminating for agriculture, horticulture or forestry",
+    "harm": {
+      "id": "0069563",
+      "title": "120886284 - Providing information relating to vermin exterminating for agriculture, horticulture or forestry",
+      "conceptLink": "/ec2/concept/6005766"
+    }
+  },
+  {
+    "uri": "en/44/120886306",
+    "id": "120886306",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the rental of lawnmowers",
+    "harm": {
+      "id": "0069565",
+      "title": "120886306 - Providing information relating to the rental of lawnmowers",
+      "conceptLink": "/ec2/concept/6005768"
+    }
+  },
+  {
+    "uri": "en/44/120885369",
+    "id": "120885369",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to animal breeding",
+    "harm": {
+      "id": "0069539",
+      "title": "120885369 - Providing information relating to animal breeding",
+      "conceptLink": "/ec2/concept/6005742"
+    }
+  },
+  {
+    "uri": "en/44/120885365",
+    "id": "120885365",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to farming equipment rental",
+    "harm": {
+      "id": "0069540",
+      "title": "120885365 - Providing information relating to farming equipment rental",
+      "conceptLink": "/ec2/concept/6005743"
+    }
+  },
+  {
+    "uri": "en/44/120885967",
+    "id": "120885967",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the spreading of fertilizers",
+    "harm": {
+      "id": "0069610",
+      "title": "120885967 - Providing information relating to the spreading of fertilizers",
+      "conceptLink": "/ec2/concept/6005813"
+    }
+  },
+  {
+    "uri": "en/44/120885980",
+    "id": "120885980",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to traditional Japanese massage",
+    "harm": {
+      "id": "0069607",
+      "title": "120885980 - Providing information relating to traditional Japanese massage",
+      "conceptLink": "/ec2/concept/6005810"
+    }
+  },
+  {
+    "uri": "en/44/120885976",
+    "id": "120885976",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the use of fertilizers",
+    "harm": {
+      "id": "0069609",
+      "title": "120885976 - Providing information relating to the use of fertilizers",
+      "conceptLink": "/ec2/concept/6005812"
+    }
+  },
+  {
+    "uri": "en/44/120885923",
+    "id": "120885923",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to dentistry",
+    "harm": {
+      "id": "0069606",
+      "title": "120885923 - Providing information relating to dentistry",
+      "conceptLink": "/ec2/concept/6005809"
+    }
+  },
+  {
+    "uri": "en/44/120885889",
+    "id": "120885889",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to medical services",
+    "harm": {
+      "id": "0069578",
+      "title": "120885889 - Providing information relating to medical services",
+      "conceptLink": "/ec2/concept/6005781"
+    }
+  },
+  {
+    "uri": "en/44/120885821",
+    "id": "120885821",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to dietary and nutritional guidance",
+    "harm": {
+      "id": "0069582",
+      "title": "120885821 - Providing information relating to dietary and nutritional guidance",
+      "conceptLink": "/ec2/concept/6005785"
+    }
+  },
+  {
+    "uri": "en/44/120886235",
+    "id": "120886235",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to acupuncture",
+    "harm": {
+      "id": "0069573",
+      "title": "120886235 - Providing information relating to acupuncture",
+      "conceptLink": "/ec2/concept/6005776"
+    }
+  },
+  {
+    "uri": "en/44/120886096",
+    "id": "120886096",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to nursing care services",
+    "harm": {
+      "id": "0069557",
+      "title": "120886096 - Providing information relating to nursing care services",
+      "conceptLink": "/ec2/concept/6005760"
+    }
+  },
+  {
+    "uri": "en/44/120886091",
+    "id": "120886091",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the rental of potted plants",
+    "harm": {
+      "id": "0069556",
+      "title": "120886091 - Providing information relating to the rental of potted plants",
+      "conceptLink": "/ec2/concept/6005759"
+    }
+  },
+  {
+    "uri": "en/44/120886072",
+    "id": "120886072",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to physical examinations",
+    "harm": {
+      "id": "0069554",
+      "title": "120886072 - Providing information relating to physical examinations",
+      "conceptLink": "/ec2/concept/6005757"
+    }
+  },
+  {
+    "uri": "en/44/120887971",
+    "id": "120887971",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to chiropractics",
+    "harm": {
+      "id": "0069658",
+      "title": "120887971 - Providing information relating to chiropractics",
+      "conceptLink": "/ec2/concept/6005861"
+    }
+  },
+  {
+    "uri": "en/44/120887963",
+    "id": "120887963",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the preparation and dispensing of medications",
+    "harm": {
+      "id": "0069656",
+      "title": "120887963 - Providing information relating to the preparation and dispensing of medications",
+      "conceptLink": "/ec2/concept/6005859"
+    }
+  },
+  {
+    "uri": "en/44/120887967",
+    "id": "120887967",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the treatment of dislocated joints, sprains or bone fractures",
+    "harm": {
+      "id": "0069657",
+      "title": "120887967 - Providing information relating to the treatment of dislocated joints, sprains or bone fractures",
+      "conceptLink": "/ec2/concept/6005860"
+    }
+  },
+  {
+    "uri": "en/44/100977962",
+    "id": "100977962",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information relating to the rental of medical machines and apparatus",
+    "harm": {
+      "id": "0069555",
+      "title": "100977962 - Providing information relating to the rental of medical machines and apparatus",
+      "conceptLink": "/ec2/concept/6005758"
+    }
+  },
+  {
+    "uri": "en/44/906383",
+    "id": "906383",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information to patients in the field of administering medications",
+    "harm": {
+      "id": "0014035",
+      "title": "906383 - Providing information to patients in the field of administering medications",
+      "conceptLink": "/ec2/concept/5964298"
+    }
+  },
+  {
+    "uri": "en/44/120888329",
+    "id": "120888329",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing information via the Internet in the field of diabetes",
+    "harm": {
+      "id": "0069625",
+      "title": "120888329 - Providing information via the Internet in the field of diabetes",
+      "conceptLink": "/ec2/concept/6005828"
+    }
+  },
+  {
+    "uri": "en/44/891893",
+    "id": "891893",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing laser therapy for treating medical conditions",
+    "harm": {
+      "id": "0042905",
+      "title": "891893 - Providing laser therapy for treating medical conditions",
+      "conceptLink": "/ec2/concept/5990676"
+    }
+  },
+  {
+    "uri": "en/44/906386",
+    "id": "906386",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing long-term care facilities",
+    "harm": {
+      "id": "0025569",
+      "title": "906386 - Providing long-term care facilities",
+      "conceptLink": "/ec2/concept/5974869"
+    }
+  },
+  {
+    "uri": "en/44/137773130",
+    "id": "137773130",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical advice in the field of weight loss",
+    "harm": {
+      "id": "0071575",
+      "title": "137773130 - Providing medical advice in the field of weight loss",
+      "conceptLink": "/ec2/concept/6007766"
+    }
+  },
+  {
+    "uri": "en/44/137773131",
+    "id": "137773131",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical advice in the field of dermatology",
+    "harm": {
+      "id": "0071573",
+      "title": "137773131 - Providing medical advice in the field of dermatology",
+      "conceptLink": "/ec2/concept/6007764"
+    }
+  },
+  {
+    "uri": "en/44/137773132",
+    "id": "137773132",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical advice in the field of geriatrics",
+    "harm": {
+      "id": "0071574",
+      "title": "137773132 - Providing medical advice in the field of geriatrics",
+      "conceptLink": "/ec2/concept/6007765"
+    }
+  },
+  {
+    "uri": "en/44/233249862",
+    "id": "233249862",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information in the healthcare sector",
+    "harm": {
+      "id": "0073184",
+      "title": "233249862 - Providing medical information in the healthcare sector",
+      "conceptLink": "/ec2/concept/6009357"
+    }
+  },
+  {
+    "uri": "en/44/137772779",
+    "id": "137772779",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information in the field of geriatrics",
+    "harm": {
+      "id": "0071577",
+      "title": "137772779 - Providing medical information in the field of geriatrics",
+      "conceptLink": "/ec2/concept/6007768"
+    }
+  },
+  {
+    "uri": "en/44/137772780",
+    "id": "137772780",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information in the field of dermatology",
+    "harm": {
+      "id": "0071576",
+      "title": "137772780 - Providing medical information in the field of dermatology",
+      "conceptLink": "/ec2/concept/6007767"
+    }
+  },
+  {
+    "uri": "en/44/137772781",
+    "id": "137772781",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information in the field of weight loss",
+    "harm": {
+      "id": "0071578",
+      "title": "137772781 - Providing medical information in the field of weight loss",
+      "conceptLink": "/ec2/concept/6007769"
+    }
+  },
+  {
+    "uri": "en/44/137895206",
+    "id": "137895206",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information from a web site",
+    "harm": {
+      "id": "0069604",
+      "title": "137895206 - Providing medical information from a web site",
+      "conceptLink": "/ec2/concept/6005807"
+    }
+  },
+  {
+    "uri": "en/44/906388",
+    "id": "906388",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical information",
+    "harm": {
+      "id": "0058401",
+      "title": "906388 - Providing medical information",
+      "conceptLink": "/ec2/concept/5999900"
+    }
+  },
+  {
+    "uri": "en/44/233249859",
+    "id": "233249859",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing medical support in the monitoring of patients receiving medical treatments",
+    "harm": {
+      "id": "0073182",
+      "title": "233249859 - Providing medical support in the monitoring of patients receiving medical treatments",
+      "conceptLink": "/ec2/concept/6009355"
+    }
+  },
+  {
+    "uri": "en/44/476768",
+    "id": "476768",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing mental rehabilitation facilities",
+    "harm": {
+      "id": "0034243",
+      "title": "476768 - Providing mental rehabilitation facilities",
+      "conceptLink": "/ec2/concept/5982793"
+    }
+  },
+  {
+    "uri": "en/44/906389",
+    "id": "906389",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing news and information in the field of medicine",
+    "harm": {
+      "id": "0029325",
+      "title": "906389 - Providing news and information in the field of medicine",
+      "conceptLink": "/ec2/concept/5978305"
+    }
+  },
+  {
+    "uri": "en/44/137760292",
+    "id": "137760292",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing nutritional information about drinks for medical weight loss purposes",
+    "harm": {
+      "id": "0071579",
+      "title": "137760292 - Providing nutritional information about drinks for medical weight loss purposes",
+      "conceptLink": "/ec2/concept/6007770"
+    }
+  },
+  {
+    "uri": "en/44/137760307",
+    "id": "137760307",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing nutritional information about food for medical weight loss purposes",
+    "harm": {
+      "id": "0071580",
+      "title": "137760307 - Providing nutritional information about food for medical weight loss purposes",
+      "conceptLink": "/ec2/concept/6007771"
+    }
+  },
+  {
+    "uri": "en/44/136113236",
+    "id": "136113236",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing nutritional information about food",
+    "harm": {
+      "id": "0056908",
+      "title": "136113236 - Providing nutritional information about food",
+      "conceptLink": "/ec2/concept/5998179"
+    }
+  },
+  {
+    "uri": "en/44/22599906",
+    "id": "22599906",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing on-line information relating to oncology",
+    "harm": {
+      "id": "0073183",
+      "title": "22599906 - Providing on-line information relating to oncology",
+      "conceptLink": "/ec2/concept/6009356"
+    }
+  },
+  {
+    "uri": "en/44/120887928",
+    "id": "120887928",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing on-line information relating to the prevention of cardiovascular disease and strokes",
+    "harm": {
+      "id": "0069661",
+      "title": "120887928 - Providing on-line information relating to the prevention of cardiovascular disease and strokes",
+      "conceptLink": "/ec2/concept/6005864"
+    }
+  },
+  {
+    "uri": "en/44/120885989",
+    "id": "120885989",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing online information about agriculture, horticulture, and forestry services",
+    "harm": {
+      "id": "0069596",
+      "title": "120885989 - Providing online information about agriculture, horticulture, and forestry services",
+      "conceptLink": "/ec2/concept/6005799"
+    }
+  },
+  {
+    "uri": "en/44/136149390",
+    "id": "136149390",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing online medical record services other than dentistry",
+    "harm": {
+      "id": "0050623",
+      "title": "136149390 - Providing online medical record services other than dentistry",
+      "conceptLink": "/ec2/concept/5995991"
+    }
+  },
+  {
+    "uri": "en/44/476780",
+    "id": "476780",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing physical rehabilitation facilities",
+    "harm": {
+      "id": "0022781",
+      "title": "476780 - Providing physical rehabilitation facilities",
+      "conceptLink": "/ec2/concept/5972308"
+    }
+  },
+  {
+    "uri": "en/44/137836753",
+    "id": "137836753",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing portable toilets for events",
+    "harm": {
+      "id": "0073814",
+      "title": "137836753 - Providing portable toilets for events",
+      "conceptLink": "/ec2/concept/6009983"
+    }
+  },
+  {
+    "uri": "en/44/120886207",
+    "id": "120886207",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing psychological treatment",
+    "harm": {
+      "id": "0069569",
+      "title": "120886207 - Providing psychological treatment",
+      "conceptLink": "/ec2/concept/6005772"
+    }
+  },
+  {
+    "uri": "en/44/476795",
+    "id": "476795",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing public bath facilities",
+    "harm": {
+      "id": "0005390",
+      "title": "476795 - Providing public bath facilities",
+      "conceptLink": "/ec2/concept/5956391"
+    }
+  },
+  {
+    "uri": "en/44/137544114",
+    "id": "137544114",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing public baths for sanitary purposes",
+    "harm": {
+      "id": "0031530",
+      "title": "137544114 - Providing public baths for sanitary purposes",
+      "conceptLink": "/ec2/concept/5980320"
+    }
+  }
+]

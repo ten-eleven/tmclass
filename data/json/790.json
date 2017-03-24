@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/45/881652",
+    "id": "881652",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Private investigation services",
+    "harm": {
+      "id": "0022021",
+      "title": "881652 - Private investigation services",
+      "conceptLink": "/ec2/concept/5971611"
+    }
+  },
+  {
+    "uri": "en/45/136189112",
+    "id": "136189112",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Pro bono legal services",
+    "harm": {
+      "id": "0050738",
+      "title": "136189112 - Pro bono legal services",
+      "conceptLink": "/ec2/concept/5996103"
+    }
+  },
+  {
+    "uri": "en/45/881665",
+    "id": "881665",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Professional advisory services relating to intellectual property rights",
+    "harm": {
+      "id": "0033387",
+      "title": "881665 - Professional advisory services relating to intellectual property rights",
+      "conceptLink": "/ec2/concept/5982012"
+    }
+  },
+  {
+    "uri": "en/45/906309",
+    "id": "906309",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Professional legal consultations relating to franchising",
+    "harm": {
+      "id": "0019861",
+      "title": "906309 - Professional legal consultations relating to franchising",
+      "conceptLink": "/ec2/concept/5969634"
+    }
+  },
+  {
+    "uri": "en/45/496820",
+    "id": "496820",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Protection of intellectual property",
+    "harm": {
+      "id": "0000498",
+      "title": "496820 - Protection of intellectual property",
+      "conceptLink": "/ec2/concept/5951935"
+    }
+  },
+  {
+    "uri": "en/45/119556671",
+    "id": "119556671",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing and conducting non-denominational, non-religious civil marriage ceremonies",
+    "harm": {
+      "id": "0056763",
+      "title": "119556671 - Providing and conducting non-denominational, non-religious civil marriage ceremonies",
+      "conceptLink": "/ec2/concept/5998045"
+    }
+  },
+  {
+    "uri": "en/45/120820958",
+    "id": "120820958",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing authentication of personal identification information [identification verification services]",
+    "harm": {
+      "id": "0069786",
+      "title": "120820958 - Providing authentication of personal identification information [identification verification services]",
+      "conceptLink": "/ec2/concept/6005989"
+    }
+  },
+  {
+    "uri": "en/45/881679",
+    "id": "881679",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing background check services",
+    "harm": {
+      "id": "0016094",
+      "title": "881679 - Providing background check services",
+      "conceptLink": "/ec2/concept/5966206"
+    }
+  },
+  {
+    "uri": "en/45/120820900",
+    "id": "120820900",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing clothing to needy persons [charitable services]",
+    "harm": {
+      "id": "0069792",
+      "title": "120820900 - Providing clothing to needy persons [charitable services]",
+      "conceptLink": "/ec2/concept/6005995"
+    }
+  },
+  {
+    "uri": "en/45/120886749",
+    "id": "120886749",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing emotional support to cancer patients and their families via interactive online forums",
+    "harm": {
+      "id": "0069706",
+      "title": "120886749 - Providing emotional support to cancer patients and their families via interactive online forums",
+      "conceptLink": "/ec2/concept/6005909"
+    }
+  },
+  {
+    "uri": "en/45/36108180",
+    "id": "36108180",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing fashion information",
+    "harm": {
+      "id": "0056764",
+      "title": "36108180 - Providing fashion information",
+      "conceptLink": "/ec2/concept/5998046"
+    }
+  },
+  {
+    "uri": "en/45/16063014",
+    "id": "16063014",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing grave spaces or charnel houses",
+    "harm": {
+      "id": "0056765",
+      "title": "16063014 - Providing grave spaces or charnel houses",
+      "conceptLink": "/ec2/concept/5998047"
+    }
+  },
+  {
+    "uri": "en/45/232620096",
+    "id": "232620096",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing guide-dogs to blind persons",
+    "harm": {
+      "id": "0071780",
+      "title": "232620096 - Providing guide-dogs to blind persons",
+      "conceptLink": "/ec2/concept/6007967"
+    }
+  },
+  {
+    "uri": "en/45/61847463",
+    "id": "61847463",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing horoscope information via computer networks",
+    "harm": {
+      "id": "0050311",
+      "title": "61847463 - Providing horoscope information via computer networks",
+      "conceptLink": "/ec2/concept/5995525"
+    }
+  },
+  {
+    "uri": "en/45/231736043",
+    "id": "231736043",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information about religion",
+    "harm": {
+      "id": "0070390",
+      "title": "231736043 - Providing information about religion",
+      "conceptLink": "/ec2/concept/6006583"
+    }
+  },
+  {
+    "uri": "en/45/95220034",
+    "id": "95220034",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information about fashion",
+    "harm": {
+      "id": "0056764",
+      "title": "95220034 - Providing information about fashion",
+      "conceptLink": "/ec2/concept/5998046"
+    }
+  },
+  {
+    "uri": "en/45/42443618",
+    "id": "42443618",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information in the field of law",
+    "harm": {
+      "id": "0008309",
+      "title": "42443618 - Providing information in the field of law",
+      "conceptLink": "/ec2/concept/5959058"
+    }
+  },
+  {
+    "uri": "en/45/115769636",
+    "id": "115769636",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information in the field of intellectual property",
+    "harm": {
+      "id": "0056766",
+      "title": "115769636 - Providing information in the field of intellectual property",
+      "conceptLink": "/ec2/concept/5998048"
+    }
+  },
+  {
+    "uri": "en/45/881691",
+    "id": "881691",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information on issues concerning human rights",
+    "harm": {
+      "id": "0010269",
+      "title": "881691 - Providing information on issues concerning human rights",
+      "conceptLink": "/ec2/concept/5960849"
+    }
+  },
+  {
+    "uri": "en/45/120885718",
+    "id": "120885718",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information on clothing rental",
+    "harm": {
+      "id": "0069741",
+      "title": "120885718 - Providing information on clothing rental",
+      "conceptLink": "/ec2/concept/6005944"
+    }
+  },
+  {
+    "uri": "en/45/120885632",
+    "id": "120885632",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information on industrial property rights",
+    "harm": {
+      "id": "0069748",
+      "title": "120885632 - Providing information on industrial property rights",
+      "conceptLink": "/ec2/concept/6005951"
+    }
+  },
+  {
+    "uri": "en/45/120886810",
+    "id": "120886810",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information on agencies for copyright licensing",
+    "harm": {
+      "id": "0069709",
+      "title": "120886810 - Providing information on agencies for copyright licensing",
+      "conceptLink": "/ec2/concept/6005912"
+    }
+  },
+  {
+    "uri": "en/45/790071",
+    "id": "790071",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information relating to legal affairs",
+    "harm": {
+      "id": "0022006",
+      "title": "790071 - Providing information relating to legal affairs",
+      "conceptLink": "/ec2/concept/5971597"
+    }
+  },
+  {
+    "uri": "en/45/120885323",
+    "id": "120885323",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information relating to security guard services",
+    "harm": {
+      "id": "0069759",
+      "title": "120885323 - Providing information relating to security guard services",
+      "conceptLink": "/ec2/concept/6005962"
+    }
+  },
+  {
+    "uri": "en/45/120885705",
+    "id": "120885705",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information relating to the rental of fire alarms",
+    "harm": {
+      "id": "0069745",
+      "title": "120885705 - Providing information relating to the rental of fire alarms",
+      "conceptLink": "/ec2/concept/6005948"
+    }
+  },
+  {
+    "uri": "en/45/120885760",
+    "id": "120885760",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information relating to the rental of fire extinguishers",
+    "harm": {
+      "id": "0069737",
+      "title": "120885760 - Providing information relating to the rental of fire extinguishers",
+      "conceptLink": "/ec2/concept/6005940"
+    }
+  },
+  {
+    "uri": "en/45/120886639",
+    "id": "120886639",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing information relating to personal body guarding services",
+    "harm": {
+      "id": "0069681",
+      "title": "120886639 - Providing information relating to personal body guarding services",
+      "conceptLink": "/ec2/concept/6005884"
+    }
+  },
+  {
+    "uri": "en/45/119556735",
+    "id": "119556735",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing patient advocate services to hospital patients and patients in long term care facilities",
+    "harm": {
+      "id": "0069782",
+      "title": "119556735 - Providing patient advocate services to hospital patients and patients in long term care facilities",
+      "conceptLink": "/ec2/concept/6005985"
+    }
+  },
+  {
+    "uri": "en/45/120820863",
+    "id": "120820863",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing personal support services for families of patients with life threatening disorders",
+    "harm": {
+      "id": "0069781",
+      "title": "120820863 - Providing personal support services for families of patients with life threatening disorders",
+      "conceptLink": "/ec2/concept/6005984"
+    }
+  },
+  {
+    "uri": "en/45/120886842",
+    "id": "120886842",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing personal support services for cancer patients and their families",
+    "harm": {
+      "id": "0069714",
+      "title": "120886842 - Providing personal support services for cancer patients and their families",
+      "conceptLink": "/ec2/concept/6005917"
+    }
+  },
+  {
+    "uri": "en/45/883664",
+    "id": "883664",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing reconnaissance and surveillance services",
+    "harm": {
+      "id": "0032044",
+      "title": "883664 - Providing reconnaissance and surveillance services",
+      "conceptLink": "/ec2/concept/5980782"
+    }
+  },
+  {
+    "uri": "en/45/137847203",
+    "id": "137847203",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing shoes to needy persons [charitable services]",
+    "harm": {
+      "id": "0071596",
+      "title": "137847203 - Providing shoes to needy persons [charitable services]",
+      "conceptLink": "/ec2/concept/6007787"
+    }
+  },
+  {
+    "uri": "en/45/119556750",
+    "id": "119556750",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Providing wedding officiant services",
+    "harm": {
+      "id": "0056767",
+      "title": "119556750 - Providing wedding officiant services",
+      "conceptLink": "/ec2/concept/5998049"
+    }
+  },
+  {
+    "uri": "en/45/110991161",
+    "id": "110991161",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of expert legal opinions",
+    "harm": {
+      "id": "0069704",
+      "title": "110991161 - Provision of expert legal opinions",
+      "conceptLink": "/ec2/concept/6005907"
+    }
+  },
+  {
+    "uri": "en/45/69845",
+    "id": "69845",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of horoscopes",
+    "harm": {
+      "id": "0057144",
+      "title": "69845 - Provision of horoscopes",
+      "conceptLink": "/ec2/concept/5998781"
+    }
+  },
+  {
+    "uri": "en/45/881705",
+    "id": "881705",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of information relating to legal services",
+    "harm": {
+      "id": "0016095",
+      "title": "881705 - Provision of information relating to legal services",
+      "conceptLink": "/ec2/concept/5966207"
+    }
+  },
+  {
+    "uri": "en/45/881212",
+    "id": "881212",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of judicial information",
+    "harm": {
+      "id": "0008309",
+      "title": "881212 - Provision of judicial information",
+      "conceptLink": "/ec2/concept/5959058"
+    }
+  },
+  {
+    "uri": "en/45/881213",
+    "id": "881213",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of legal information",
+    "harm": {
+      "id": "0008309",
+      "title": "881213 - Provision of legal information",
+      "conceptLink": "/ec2/concept/5959058"
+    }
+  },
+  {
+    "uri": "en/45/881718",
+    "id": "881718",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of legal research",
+    "harm": {
+      "id": "0059176",
+      "title": "881718 - Provision of legal research",
+      "conceptLink": "/ec2/concept/6000665"
+    }
+  },
+  {
+    "uri": "en/45/881733",
+    "id": "881733",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provision of personal tarot readings",
+    "harm": {
+      "id": "0004560",
+      "title": "881733 - Provision of personal tarot readings",
+      "conceptLink": "/ec2/concept/5955624"
+    }
+  },
+  {
+    "uri": "en/45/137172428",
+    "id": "137172428",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Provison of emotional support to families",
+    "harm": {
+      "id": "0060206",
+      "title": "137172428 - Provison of emotional support to families",
+      "conceptLink": "/ec2/concept/5998206"
+    }
+  },
+  {
+    "uri": "en/45/881748",
+    "id": "881748",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Psychic consultancy",
+    "harm": {
+      "id": "0010270",
+      "title": "881748 - Psychic consultancy",
+      "conceptLink": "/ec2/concept/5960850"
+    }
+  },
+  {
+    "uri": "en/45/906490",
+    "id": "906490",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Psychic reading services",
+    "harm": {
+      "id": "0040914",
+      "title": "906490 - Psychic reading services",
+      "conceptLink": "/ec2/concept/5988862"
+    }
+  },
+  {
+    "uri": "en/45/881761",
+    "id": "881761",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Public events security services",
+    "harm": {
+      "id": "0033388",
+      "title": "881761 - Public events security services",
+      "conceptLink": "/ec2/concept/5982013"
+    }
+  },
+  {
+    "uri": "en/45/906582",
+    "id": "906582",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Radiation safety consulting",
+    "harm": {
+      "id": "0031187",
+      "title": "906582 - Radiation safety consulting",
+      "conceptLink": "/ec2/concept/5980016"
+    }
+  },
+  {
+    "uri": "en/45/474398",
+    "id": "474398",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Registration of domain names for identification of users on a global computer network",
+    "harm": {
+      "id": "0014323",
+      "title": "474398 - Registration of domain names for identification of users on a global computer network",
+      "conceptLink": "/ec2/concept/5964570"
+    }
+  },
+  {
+    "uri": "en/45/883737",
+    "id": "883737",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Registration of domain names for identification of users on a global computer network [legal service]",
+    "harm": {
+      "id": "0038745",
+      "title": "883737 - Registration of domain names for identification of users on a global computer network [legal service]",
+      "conceptLink": "/ec2/concept/5986884"
+    }
+  },
+  {
+    "uri": "en/45/472277",
+    "id": "472277",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Registration of domain names",
+    "harm": {
+      "id": "0006283",
+      "title": "472277 - Registration of domain names",
+      "conceptLink": "/ec2/concept/5957210"
+    }
+  },
+  {
+    "uri": "en/45/496963",
+    "id": "496963",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Registration of domain names [legal services]",
+    "harm": {
+      "id": "0006283",
+      "title": "496963 - Registration of domain names [legal services]",
+      "conceptLink": "/ec2/concept/5957210"
+    }
+  },
+  {
+    "uri": "en/45/881775",
+    "id": "881775",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Registration services (legal)",
+    "harm": {
+      "id": "0000686",
+      "title": "881775 - Registration services (legal)",
+      "conceptLink": "/ec2/concept/5952105"
+    }
+  },
+  {
+    "uri": "en/45/135623831",
+    "id": "135623831",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Releasing doves for special occasions",
+    "harm": {
+      "id": "0050054",
+      "title": "135623831 - Releasing doves for special occasions",
+      "conceptLink": "/ec2/concept/5995463"
+    }
+  },
+  {
+    "uri": "en/45/881792",
+    "id": "881792",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Religious services",
+    "harm": {
+      "id": "0000687",
+      "title": "881792 - Religious services",
+      "conceptLink": "/ec2/concept/5952106"
+    }
+  },
+  {
+    "uri": "en/45/881826",
+    "id": "881826",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of alarms",
+    "harm": {
+      "id": "0041183",
+      "title": "881826 - Rental of alarms",
+      "conceptLink": "/ec2/concept/5989111"
+    }
+  },
+  {
+    "uri": "en/45/376378",
+    "id": "376378",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of altars",
+    "harm": {
+      "id": "0026281",
+      "title": "376378 - Rental of altars",
+      "conceptLink": "/ec2/concept/5975522"
+    }
+  },
+  {
+    "uri": "en/45/69618",
+    "id": "69618",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of clothing",
+    "harm": {
+      "id": "0018070",
+      "title": "69618 - Rental of clothing",
+      "conceptLink": "/ec2/concept/5967995"
+    }
+  },
+  {
+    "uri": "en/45/69620",
+    "id": "69620",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of costumes",
+    "harm": {
+      "id": "0018070",
+      "title": "69620 - Rental of costumes",
+      "conceptLink": "/ec2/concept/5967995"
+    }
+  },
+  {
+    "uri": "en/45/906727",
+    "id": "906727",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of crowd control barriers",
+    "harm": {
+      "id": "0030230",
+      "title": "906727 - Rental of crowd control barriers",
+      "conceptLink": "/ec2/concept/5979139"
+    }
+  },
+  {
+    "uri": "en/45/119556775",
+    "id": "119556775",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of dresses",
+    "harm": {
+      "id": "0071407",
+      "title": "119556775 - Rental of dresses",
+      "conceptLink": "/ec2/concept/6007598"
+    }
+  },
+  {
+    "uri": "en/45/114441180",
+    "id": "114441180",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of evening dresses",
+    "harm": {
+      "id": "0022415",
+      "title": "114441180 - Rental of evening dresses",
+      "conceptLink": "/ec2/concept/5971971"
+    }
+  },
+  {
+    "uri": "en/45/376402",
+    "id": "376402",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of fire alarms",
+    "harm": {
+      "id": "0015159",
+      "title": "376402 - Rental of fire alarms",
+      "conceptLink": "/ec2/concept/5965335"
+    }
+  },
+  {
+    "uri": "en/45/376453",
+    "id": "376453",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of fire extinguishers",
+    "harm": {
+      "id": "0021426",
+      "title": "376453 - Rental of fire extinguishers",
+      "conceptLink": "/ec2/concept/5971064"
+    }
+  },
+  {
+    "uri": "en/45/477361",
+    "id": "477361",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of formal wear",
+    "harm": {
+      "id": "0013841",
+      "title": "477361 - Rental of formal wear",
+      "conceptLink": "/ec2/concept/5964122"
+    }
+  },
+  {
+    "uri": "en/45/880991",
+    "id": "880991",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of jewellery",
+    "harm": {
+      "id": "0035404",
+      "title": "880991 - Rental of jewellery",
+      "conceptLink": "/ec2/concept/5983843"
+    }
+  },
+  {
+    "uri": "en/45/119556782",
+    "id": "119556782",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of jewelry",
+    "harm": {
+      "id": "0035404",
+      "title": "119556782 - Rental of jewelry",
+      "conceptLink": "/ec2/concept/5983843"
+    }
+  },
+  {
+    "uri": "en/45/136189294",
+    "id": "136189294",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of life jackets",
+    "harm": {
+      "id": "0071597",
+      "title": "136189294 - Rental of life jackets",
+      "conceptLink": "/ec2/concept/6007788"
+    }
+  },
+  {
+    "uri": "en/45/881841",
+    "id": "881841",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of protective clothing",
+    "harm": {
+      "id": "0006465",
+      "title": "881841 - Rental of protective clothing",
+      "conceptLink": "/ec2/concept/5957375"
+    }
+  },
+  {
+    "uri": "en/45/120820883",
+    "id": "120820883",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of protective clothing and equipment",
+    "harm": {
+      "id": "0069780",
+      "title": "120820883 - Rental of protective clothing and equipment",
+      "conceptLink": "/ec2/concept/6005983"
+    }
+  },
+  {
+    "uri": "en/45/120885479",
+    "id": "120885479",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of protective helmets",
+    "harm": {
+      "id": "0069733",
+      "title": "120885479 - Rental of protective helmets",
+      "conceptLink": "/ec2/concept/6005936"
+    }
+  },
+  {
+    "uri": "en/45/120885470",
+    "id": "120885470",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of protective masks",
+    "harm": {
+      "id": "0069732",
+      "title": "120885470 - Rental of protective masks",
+      "conceptLink": "/ec2/concept/6005935"
+    }
+  },
+  {
+    "uri": "en/45/912273",
+    "id": "912273",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of safes",
+    "harm": {
+      "id": "0018804",
+      "title": "912273 - Rental of safes",
+      "conceptLink": "/ec2/concept/5968679"
+    }
+  },
+  {
+    "uri": "en/45/881857",
+    "id": "881857",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of safety equipment",
+    "harm": {
+      "id": "0018071",
+      "title": "881857 - Rental of safety equipment",
+      "conceptLink": "/ec2/concept/5967996"
+    }
+  },
+  {
+    "uri": "en/45/881858",
+    "id": "881858",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of security apparatus",
+    "harm": {
+      "id": "0047230",
+      "title": "881858 - Rental of security apparatus",
+      "conceptLink": "/ec2/concept/5994595"
+    }
+  },
+  {
+    "uri": "en/45/881880",
+    "id": "881880",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of security surveillance apparatus",
+    "harm": {
+      "id": "0023880",
+      "title": "881880 - Rental of security surveillance apparatus",
+      "conceptLink": "/ec2/concept/5973311"
+    }
+  },
+  {
+    "uri": "en/45/119556785",
+    "id": "119556785",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of security surveillance equipment",
+    "harm": {
+      "id": "0023880",
+      "title": "119556785 - Rental of security surveillance equipment",
+      "conceptLink": "/ec2/concept/5973311"
+    }
+  },
+  {
+    "uri": "en/45/16063374",
+    "id": "16063374",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of shoes",
+    "harm": {
+      "id": "0056911",
+      "title": "16063374 - Rental of shoes",
+      "conceptLink": "/ec2/concept/5998182"
+    }
+  },
+  {
+    "uri": "en/45/906828",
+    "id": "906828",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of uniforms",
+    "harm": {
+      "id": "0021015",
+      "title": "906828 - Rental of uniforms",
+      "conceptLink": "/ec2/concept/5970691"
+    }
+  },
+  {
+    "uri": "en/45/119556789",
+    "id": "119556789",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of watches",
+    "harm": {
+      "id": "0056768",
+      "title": "119556789 - Rental of watches",
+      "conceptLink": "/ec2/concept/5998050"
+    }
+  },
+  {
+    "uri": "en/45/136189303",
+    "id": "136189303",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rental of wedding huppahs",
+    "harm": {
+      "id": "0071598",
+      "title": "136189303 - Rental of wedding huppahs",
+      "conceptLink": "/ec2/concept/6007789"
+    }
+  },
+  {
+    "uri": "en/45/881903",
+    "id": "881903",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Rescue of people",
+    "harm": {
+      "id": "0029608",
+      "title": "881903 - Rescue of people",
+      "conceptLink": "/ec2/concept/5978568"
+    }
+  },
+  {
+    "uri": "en/45/63499504",
+    "id": "63499504",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Reviewing standards and practices to assure compliance with laws and regulations",
+    "harm": {
+      "id": "0069776",
+      "title": "63499504 - Reviewing standards and practices to assure compliance with laws and regulations",
+      "conceptLink": "/ec2/concept/6005979"
+    }
+  },
+  {
+    "uri": "en/45/912272",
+    "id": "912272",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Safes (Rental of -)",
+    "harm": {
+      "id": "0018804",
+      "title": "912272 - Safes (Rental of -)",
+      "conceptLink": "/ec2/concept/5968679"
+    }
+  },
+  {
+    "uri": "en/45/881915",
+    "id": "881915",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Safety evaluation",
+    "harm": {
+      "id": "0046123",
+      "title": "881915 - Safety evaluation",
+      "conceptLink": "/ec2/concept/5993633"
+    }
+  },
+  {
+    "uri": "en/45/496687",
+    "id": "496687",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Safety (Inspection of factories for -) purposes",
+    "harm": {
+      "id": "0037567",
+      "title": "496687 - Safety (Inspection of factories for -) purposes",
+      "conceptLink": "/ec2/concept/5985804"
+    }
+  },
+  {
+    "uri": "en/45/131126527",
+    "id": "131126527",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Safety, rescue, security and enforcement services",
+    "harm": {
+      "id": "0048073",
+      "title": "131126527 - Safety, rescue, security and enforcement services",
+      "conceptLink": "/ec2/concept/5995332"
+    }
+  },
+  {
+    "uri": "en/45/881931",
+    "id": "881931",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security assessment of risks",
+    "harm": {
+      "id": "0023151",
+      "title": "881931 - Security assessment of risks",
+      "conceptLink": "/ec2/concept/5972640"
+    }
+  },
+  {
+    "uri": "en/45/907138",
+    "id": "907138",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security clearance for preparation of identification cards",
+    "harm": {
+      "id": "0031253",
+      "title": "907138 - Security clearance for preparation of identification cards",
+      "conceptLink": "/ec2/concept/5980078"
+    }
+  },
+  {
+    "uri": "en/45/69789",
+    "id": "69789",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security consultancy",
+    "harm": {
+      "id": "0023890",
+      "title": "69789 - Security consultancy",
+      "conceptLink": "/ec2/concept/5973320"
+    }
+  },
+  {
+    "uri": "en/45/36108136",
+    "id": "36108136",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security control of persons and luggage in airports",
+    "harm": {
+      "id": "0056769",
+      "title": "36108136 - Security control of persons and luggage in airports",
+      "conceptLink": "/ec2/concept/5998051"
+    }
+  },
+  {
+    "uri": "en/45/477393",
+    "id": "477393",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security guard services",
+    "harm": {
+      "id": "0041635",
+      "title": "477393 - Security guard services",
+      "conceptLink": "/ec2/concept/5989528"
+    }
+  },
+  {
+    "uri": "en/45/23029983",
+    "id": "23029983",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security guard services for buildings",
+    "harm": {
+      "id": "0071410",
+      "title": "23029983 - Security guard services for buildings",
+      "conceptLink": "/ec2/concept/6007601"
+    }
+  },
+  {
+    "uri": "en/45/120885683",
+    "id": "120885683",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security guard services for the protection of property and individuals",
+    "harm": {
+      "id": "0071409",
+      "title": "120885683 - Security guard services for the protection of property and individuals",
+      "conceptLink": "/ec2/concept/6007600"
+    }
+  },
+  {
+    "uri": "en/45/16063074",
+    "id": "16063074",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security guarding for facilities",
+    "harm": {
+      "id": "0056770",
+      "title": "16063074 - Security guarding for facilities",
+      "conceptLink": "/ec2/concept/5998052"
+    }
+  },
+  {
+    "uri": "en/45/883842",
+    "id": "883842",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security inspection services for others",
+    "harm": {
+      "id": "0037789",
+      "title": "883842 - Security inspection services for others",
+      "conceptLink": "/ec2/concept/5986007"
+    }
+  },
+  {
+    "uri": "en/45/881945",
+    "id": "881945",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security marking of documents",
+    "harm": {
+      "id": "0040400",
+      "title": "881945 - Security marking of documents",
+      "conceptLink": "/ec2/concept/5988394"
+    }
+  },
+  {
+    "uri": "en/45/881959",
+    "id": "881959",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security marking of goods",
+    "harm": {
+      "id": "0023152",
+      "title": "881959 - Security marking of goods",
+      "conceptLink": "/ec2/concept/5972641"
+    }
+  },
+  {
+    "uri": "en/45/10754371",
+    "id": "10754371",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security monitoring services",
+    "harm": {
+      "id": "0036974",
+      "title": "10754371 - Security monitoring services",
+      "conceptLink": "/ec2/concept/5985272"
+    }
+  },
+  {
+    "uri": "en/45/233654205",
+    "id": "233654205",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security screening of baggage",
+    "harm": {
+      "id": "0025966",
+      "title": "233654205 - Security screening of baggage",
+      "conceptLink": "/ec2/concept/5975231"
+    }
+  },
+  {
+    "uri": "en/45/477394",
+    "id": "477394",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security services",
+    "harm": {
+      "id": "0041635",
+      "title": "477394 - Security services",
+      "conceptLink": "/ec2/concept/5989528"
+    }
+  },
+  {
+    "uri": "en/45/881974",
+    "id": "881974",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security services for buildings",
+    "harm": {
+      "id": "0034610",
+      "title": "881974 - Security services for buildings",
+      "conceptLink": "/ec2/concept/5983124"
+    }
+  },
+  {
+    "uri": "en/45/505388",
+    "id": "505388",
+    "lang": "en",
+    "classNumber": "45",
+    "term": "Security services for the protection of property",
+    "harm": {
+      "id": "0009291",
+      "title": "505388 - Security services for the protection of property",
+      "conceptLink": "/ec2/concept/5959964"
+    }
+  }
+]

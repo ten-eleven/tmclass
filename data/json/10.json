@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/617258",
+    "id": "617258",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for food",
+    "harm": {
+      "id": "0034648",
+      "title": "617258 - Chemical additives for food",
+      "conceptLink": "/ec2/concept/5983157"
+    }
+  },
+  {
+    "uri": "en/1/617259",
+    "id": "617259",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for foodstuffs",
+    "harm": {
+      "id": "0034648",
+      "title": "617259 - Chemical additives for foodstuffs",
+      "conceptLink": "/ec2/concept/5983157"
+    }
+  },
+  {
+    "uri": "en/1/901652",
+    "id": "901652",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for fuel treatment",
+    "harm": {
+      "id": "0011154",
+      "title": "901652 - Chemical additives for fuel treatment",
+      "conceptLink": "/ec2/concept/5961666"
+    }
+  },
+  {
+    "uri": "en/1/781",
+    "id": "781",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for fuel",
+    "harm": {
+      "id": "0058312",
+      "title": "781 - Chemical additives for fuel",
+      "conceptLink": "/ec2/concept/5999811"
+    }
+  },
+  {
+    "uri": "en/1/132872586",
+    "id": "132872586",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for fuel injection system cleaners",
+    "harm": {
+      "id": "0065055",
+      "title": "132872586 - Chemical additives for fuel injection system cleaners",
+      "conceptLink": "/ec2/concept/6001258"
+    }
+  },
+  {
+    "uri": "en/1/119773636",
+    "id": "119773636",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for gasoline",
+    "harm": {
+      "id": "0058313",
+      "title": "119773636 - Chemical additives for gasoline",
+      "conceptLink": "/ec2/concept/5999812"
+    }
+  },
+  {
+    "uri": "en/1/617289",
+    "id": "617289",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for greases",
+    "harm": {
+      "id": "0005803",
+      "title": "617289 - Chemical additives for greases",
+      "conceptLink": "/ec2/concept/5956770"
+    }
+  },
+  {
+    "uri": "en/1/621312",
+    "id": "621312",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for heating oils",
+    "harm": {
+      "id": "0040446",
+      "title": "621312 - Chemical additives for heating oils",
+      "conceptLink": "/ec2/concept/5988439"
+    }
+  },
+  {
+    "uri": "en/1/621329",
+    "id": "621329",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for lacquers",
+    "harm": {
+      "id": "0011538",
+      "title": "621329 - Chemical additives for lacquers",
+      "conceptLink": "/ec2/concept/5962015"
+    }
+  },
+  {
+    "uri": "en/1/621350",
+    "id": "621350",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for lubricants",
+    "harm": {
+      "id": "0016759",
+      "title": "621350 - Chemical additives for lubricants",
+      "conceptLink": "/ec2/concept/5966810"
+    }
+  },
+  {
+    "uri": "en/1/621366",
+    "id": "621366",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for meat processing",
+    "harm": {
+      "id": "0010966",
+      "title": "621366 - Chemical additives for meat processing",
+      "conceptLink": "/ec2/concept/5961494"
+    }
+  },
+  {
+    "uri": "en/1/777",
+    "id": "777",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for motor fuels",
+    "harm": {
+      "id": "0058312",
+      "title": "777 - Chemical additives for motor fuels",
+      "conceptLink": "/ec2/concept/5999811"
+    }
+  },
+  {
+    "uri": "en/1/617368",
+    "id": "617368",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for mortars",
+    "harm": {
+      "id": "0029125",
+      "title": "617368 - Chemical additives for mortars",
+      "conceptLink": "/ec2/concept/5978131"
+    }
+  },
+  {
+    "uri": "en/1/26010299",
+    "id": "26010299",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for motor fuel",
+    "harm": {
+      "id": "0058312",
+      "title": "26010299 - Chemical additives for motor fuel",
+      "conceptLink": "/ec2/concept/5999811"
+    }
+  },
+  {
+    "uri": "en/1/376884",
+    "id": "376884",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for oil well drilling fluid",
+    "harm": {
+      "id": "0033788",
+      "title": "376884 - Chemical additives for oil well drilling fluid",
+      "conceptLink": "/ec2/concept/5982380"
+    }
+  },
+  {
+    "uri": "en/1/119773682",
+    "id": "119773682",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for oil well drilling fluids",
+    "harm": {
+      "id": "0033788",
+      "title": "119773682 - Chemical additives for oil well drilling fluids",
+      "conceptLink": "/ec2/concept/5982380"
+    }
+  },
+  {
+    "uri": "en/1/621379",
+    "id": "621379",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for oil well cements",
+    "harm": {
+      "id": "0045579",
+      "title": "621379 - Chemical additives for oil well cements",
+      "conceptLink": "/ec2/concept/5993126"
+    }
+  },
+  {
+    "uri": "en/1/492484",
+    "id": "492484",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for oils",
+    "harm": {
+      "id": "0035092",
+      "title": "492484 - Chemical additives for oils",
+      "conceptLink": "/ec2/concept/5983560"
+    }
+  },
+  {
+    "uri": "en/1/488312",
+    "id": "488312",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for paints and surface coatings",
+    "harm": {
+      "id": "0038524",
+      "title": "488312 - Chemical additives for paints and surface coatings",
+      "conceptLink": "/ec2/concept/5986685"
+    }
+  },
+  {
+    "uri": "en/1/621391",
+    "id": "621391",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for paint",
+    "harm": {
+      "id": "0022632",
+      "title": "621391 - Chemical additives for paint",
+      "conceptLink": "/ec2/concept/5972168"
+    }
+  },
+  {
+    "uri": "en/1/137871466",
+    "id": "137871466",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for pesticides",
+    "harm": {
+      "id": "0073620",
+      "title": "137871466 - Chemical additives for pesticides",
+      "conceptLink": "/ec2/concept/6009792"
+    }
+  },
+  {
+    "uri": "en/1/119773637",
+    "id": "119773637",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for petrol",
+    "harm": {
+      "id": "0058313",
+      "title": "119773637 - Chemical additives for petrol",
+      "conceptLink": "/ec2/concept/5999812"
+    }
+  },
+  {
+    "uri": "en/1/621407",
+    "id": "621407",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for the production metal working fluids",
+    "harm": {
+      "id": "0022633",
+      "title": "621407 - Chemical additives for the production metal working fluids",
+      "conceptLink": "/ec2/concept/5972169"
+    }
+  },
+  {
+    "uri": "en/1/137871349",
+    "id": "137871349",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for transmission fluids",
+    "harm": {
+      "id": "0073632",
+      "title": "137871349 - Chemical additives for transmission fluids",
+      "conceptLink": "/ec2/concept/6009804"
+    }
+  },
+  {
+    "uri": "en/1/621524",
+    "id": "621524",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the production of lubricants",
+    "harm": {
+      "id": "0001763",
+      "title": "621524 - Chemical additives for use in the production of lubricants",
+      "conceptLink": "/ec2/concept/5953071"
+    }
+  },
+  {
+    "uri": "en/1/621469",
+    "id": "621469",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in manufacture",
+    "harm": {
+      "id": "0005217",
+      "title": "621469 - Chemical additives for use in manufacture",
+      "conceptLink": "/ec2/concept/5956232"
+    }
+  },
+  {
+    "uri": "en/1/621432",
+    "id": "621432",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in boilers to inhibit corrosion",
+    "harm": {
+      "id": "0005216",
+      "title": "621432 - Chemical additives for use in boilers to inhibit corrosion",
+      "conceptLink": "/ec2/concept/5956231"
+    }
+  },
+  {
+    "uri": "en/1/376899",
+    "id": "376899",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use with internal combustion engine fuels",
+    "harm": {
+      "id": "0033789",
+      "title": "376899 - Chemical additives for use with internal combustion engine fuels",
+      "conceptLink": "/ec2/concept/5982381"
+    }
+  },
+  {
+    "uri": "en/1/621481",
+    "id": "621481",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the production of coatings",
+    "harm": {
+      "id": "0034054",
+      "title": "621481 - Chemical additives for use in the production of coatings",
+      "conceptLink": "/ec2/concept/5982622"
+    }
+  },
+  {
+    "uri": "en/1/119744020",
+    "id": "119744020",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the manufacture of food",
+    "harm": {
+      "id": "0034648",
+      "title": "119744020 - Chemical additives for use in the manufacture of food",
+      "conceptLink": "/ec2/concept/5983157"
+    }
+  },
+  {
+    "uri": "en/1/621511",
+    "id": "621511",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the production of inks",
+    "harm": {
+      "id": "0030653",
+      "title": "621511 - Chemical additives for use in the production of inks",
+      "conceptLink": "/ec2/concept/5979530"
+    }
+  },
+  {
+    "uri": "en/1/621496",
+    "id": "621496",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the production of fuels",
+    "harm": {
+      "id": "0022634",
+      "title": "621496 - Chemical additives for use in the production of fuels",
+      "conceptLink": "/ec2/concept/5972170"
+    }
+  },
+  {
+    "uri": "en/1/11855400",
+    "id": "11855400",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the manufacture of pharmaceuticals",
+    "harm": {
+      "id": "0000450",
+      "title": "11855400 - Chemical additives for use in the manufacture of pharmaceuticals",
+      "conceptLink": "/ec2/concept/5951890"
+    }
+  },
+  {
+    "uri": "en/1/621457",
+    "id": "621457",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in industry",
+    "harm": {
+      "id": "0010967",
+      "title": "621457 - Chemical additives for use in industry",
+      "conceptLink": "/ec2/concept/5961495"
+    }
+  },
+  {
+    "uri": "en/1/137765846",
+    "id": "137765846",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the manufacture of fabrics",
+    "harm": {
+      "id": "0073401",
+      "title": "137765846 - Chemical additives for use in the manufacture of fabrics",
+      "conceptLink": "/ec2/concept/6009574"
+    }
+  },
+  {
+    "uri": "en/1/19340642",
+    "id": "19340642",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in the manufacture of cosmetics",
+    "harm": {
+      "id": "0060157",
+      "title": "19340642 - Chemical additives for use in the manufacture of cosmetics",
+      "conceptLink": "/ec2/concept/5996419"
+    }
+  },
+  {
+    "uri": "en/1/621445",
+    "id": "621445",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use in fuels to inhibit corrosion",
+    "harm": {
+      "id": "0045581",
+      "title": "621445 - Chemical additives for use in fuels to inhibit corrosion",
+      "conceptLink": "/ec2/concept/5993128"
+    }
+  },
+  {
+    "uri": "en/1/621419",
+    "id": "621419",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use as defoaming agents",
+    "harm": {
+      "id": "0045580",
+      "title": "621419 - Chemical additives for use as defoaming agents",
+      "conceptLink": "/ec2/concept/5993127"
+    }
+  },
+  {
+    "uri": "en/1/132870755",
+    "id": "132870755",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for use as binding agents for feed pellets",
+    "harm": {
+      "id": "0065005",
+      "title": "132870755 - Chemical additives for use as binding agents for feed pellets",
+      "conceptLink": "/ec2/concept/6001208"
+    }
+  },
+  {
+    "uri": "en/1/621330",
+    "id": "621330",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives for varnishes",
+    "harm": {
+      "id": "0011538",
+      "title": "621330 - Chemical additives for varnishes",
+      "conceptLink": "/ec2/concept/5962015"
+    }
+  },
+  {
+    "uri": "en/1/48690756",
+    "id": "48690756",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives to drilling muds",
+    "harm": {
+      "id": "0057104",
+      "title": "48690756 - Chemical additives to drilling muds",
+      "conceptLink": "/ec2/concept/5998739"
+    }
+  },
+  {
+    "uri": "en/1/6257059",
+    "id": "6257059",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives to fungicides",
+    "harm": {
+      "id": "0042863",
+      "title": "6257059 - Chemical additives to fungicides",
+      "conceptLink": "/ec2/concept/5990637"
+    }
+  },
+  {
+    "uri": "en/1/6257147",
+    "id": "6257147",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives to insecticides",
+    "harm": {
+      "id": "0035530",
+      "title": "6257147 - Chemical additives to insecticides",
+      "conceptLink": "/ec2/concept/5983960"
+    }
+  },
+  {
+    "uri": "en/1/1063068",
+    "id": "1063068",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives to motor fuel",
+    "harm": {
+      "id": "0058312",
+      "title": "1063068 - Chemical additives to motor fuel",
+      "conceptLink": "/ec2/concept/5999811"
+    }
+  },
+  {
+    "uri": "en/1/488330",
+    "id": "488330",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical additives to polymers",
+    "harm": {
+      "id": "0017760",
+      "title": "488330 - Chemical additives to polymers",
+      "conceptLink": "/ec2/concept/5967713"
+    }
+  },
+  {
+    "uri": "en/1/621553",
+    "id": "621553",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adjuvants for use in forestry",
+    "harm": {
+      "id": "0007509",
+      "title": "621553 - Chemical adjuvants for use in forestry",
+      "conceptLink": "/ec2/concept/5958330"
+    }
+  },
+  {
+    "uri": "en/1/621592",
+    "id": "621592",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adjuvants for use in science",
+    "harm": {
+      "id": "0024927",
+      "title": "621592 - Chemical adjuvants for use in science",
+      "conceptLink": "/ec2/concept/5974283"
+    }
+  },
+  {
+    "uri": "en/1/621566",
+    "id": "621566",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adjuvants for use in horticulture",
+    "harm": {
+      "id": "0030655",
+      "title": "621566 - Chemical adjuvants for use in horticulture",
+      "conceptLink": "/ec2/concept/5979532"
+    }
+  },
+  {
+    "uri": "en/1/621540",
+    "id": "621540",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adjuvants for use in agriculture",
+    "harm": {
+      "id": "0030654",
+      "title": "621540 - Chemical adjuvants for use in agriculture",
+      "conceptLink": "/ec2/concept/5979531"
+    }
+  },
+  {
+    "uri": "en/1/621579",
+    "id": "621579",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adjuvants for use in industry",
+    "harm": {
+      "id": "0010967",
+      "title": "621579 - Chemical adjuvants for use in industry",
+      "conceptLink": "/ec2/concept/5961495"
+    }
+  },
+  {
+    "uri": "en/1/617151",
+    "id": "617151",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical admixtures for concrete",
+    "harm": {
+      "id": "0000791",
+      "title": "617151 - Chemical admixtures for concrete",
+      "conceptLink": "/ec2/concept/5952200"
+    }
+  },
+  {
+    "uri": "en/1/621604",
+    "id": "621604",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adsorbents",
+    "harm": {
+      "id": "0011537",
+      "title": "621604 - Chemical adsorbents",
+      "conceptLink": "/ec2/concept/5962014"
+    }
+  },
+  {
+    "uri": "en/1/119520511",
+    "id": "119520511",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical adsorbents for removing impurities from fuel",
+    "harm": {
+      "id": "0065004",
+      "title": "119520511 - Chemical adsorbents for removing impurities from fuel",
+      "conceptLink": "/ec2/concept/6001207"
+    }
+  },
+  {
+    "uri": "en/1/132870738",
+    "id": "132870738",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for acid removal in industrial manufacturing applications",
+    "harm": {
+      "id": "0065002",
+      "title": "132870738 - Chemical agents for acid removal in industrial manufacturing applications",
+      "conceptLink": "/ec2/concept/6001205"
+    }
+  },
+  {
+    "uri": "en/1/119520516",
+    "id": "119520516",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for carbon dioxide sequestration",
+    "harm": {
+      "id": "0065003",
+      "title": "119520516 - Chemical agents for carbon dioxide sequestration",
+      "conceptLink": "/ec2/concept/6001206"
+    }
+  },
+  {
+    "uri": "en/1/901665",
+    "id": "901665",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for coating textiles, furs, leather, non-wovens and fabrics",
+    "harm": {
+      "id": "0005418",
+      "title": "901665 - Chemical agents for coating textiles, furs, leather, non-wovens and fabrics",
+      "conceptLink": "/ec2/concept/5956418"
+    }
+  },
+  {
+    "uri": "en/1/621616",
+    "id": "621616",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for hardening wood",
+    "harm": {
+      "id": "0042199",
+      "title": "621616 - Chemical agents for hardening wood",
+      "conceptLink": "/ec2/concept/5990041"
+    }
+  },
+  {
+    "uri": "en/1/901664",
+    "id": "901664",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for impregnating textiles, furs, leather, non-wovens and fabrics",
+    "harm": {
+      "id": "0011155",
+      "title": "901664 - Chemical agents for impregnating textiles, furs, leather, non-wovens and fabrics",
+      "conceptLink": "/ec2/concept/5961667"
+    }
+  },
+  {
+    "uri": "en/1/137543473",
+    "id": "137543473",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for impregnating cut flowers to preserve freshness",
+    "harm": {
+      "id": "0017941",
+      "title": "137543473 - Chemical agents for impregnating cut flowers to preserve freshness",
+      "conceptLink": "/ec2/concept/5967877"
+    }
+  },
+  {
+    "uri": "en/1/137772065",
+    "id": "137772065",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for impregnating cut Christmas trees to preserve freshness",
+    "harm": {
+      "id": "0073369",
+      "title": "137772065 - Chemical agents for impregnating cut Christmas trees to preserve freshness",
+      "conceptLink": "/ec2/concept/6009542"
+    }
+  },
+  {
+    "uri": "en/1/309772",
+    "id": "309772",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for manufacturing dyestuffs",
+    "harm": {
+      "id": "0012687",
+      "title": "309772 - Chemical agents for manufacturing dyestuffs",
+      "conceptLink": "/ec2/concept/5963074"
+    }
+  },
+  {
+    "uri": "en/1/618873",
+    "id": "618873",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for the flame-retardant coating of textiles",
+    "harm": {
+      "id": "0040710",
+      "title": "618873 - Chemical agents for the flame-retardant coating of textiles",
+      "conceptLink": "/ec2/concept/5988686"
+    }
+  },
+  {
+    "uri": "en/1/132868227",
+    "id": "132868227",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for the treatment of bilge water",
+    "harm": {
+      "id": "0065033",
+      "title": "132868227 - Chemical agents for the treatment of bilge water",
+      "conceptLink": "/ec2/concept/6001236"
+    }
+  },
+  {
+    "uri": "en/1/621628",
+    "id": "621628",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical agents for use in metal cutting",
+    "harm": {
+      "id": "0013336",
+      "title": "621628 - Chemical agents for use in metal cutting",
+      "conceptLink": "/ec2/concept/5963662"
+    }
+  },
+  {
+    "uri": "en/1/376914",
+    "id": "376914",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical analysis kit for testing swimming pool water",
+    "harm": {
+      "id": "0028056",
+      "title": "376914 - Chemical analysis kit for testing swimming pool water",
+      "conceptLink": "/ec2/concept/5977135"
+    }
+  },
+  {
+    "uri": "en/1/621641",
+    "id": "621641",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical anchoring compounds",
+    "harm": {
+      "id": "0013337",
+      "title": "621641 - Chemical anchoring compounds",
+      "conceptLink": "/ec2/concept/5963663"
+    }
+  },
+  {
+    "uri": "en/1/138391112",
+    "id": "138391112",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical and organic compositions for use in the manufacture of food and beverages",
+    "harm": {
+      "id": "0070143",
+      "title": "138391112 - Chemical and organic compositions for use in the manufacture of food and beverages",
+      "conceptLink": "/ec2/concept/6006337"
+    }
+  },
+  {
+    "uri": "en/1/138391113",
+    "id": "138391113",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical and organic compositions and substances for treatment of leather and textile",
+    "harm": {
+      "id": "0070144",
+      "title": "138391113 - Chemical and organic compositions and substances for treatment of leather and textile",
+      "conceptLink": "/ec2/concept/6006338"
+    }
+  },
+  {
+    "uri": "en/1/234033955",
+    "id": "234033955",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical anti-tarnishing preparations",
+    "harm": {
+      "id": "0041987",
+      "title": "234033955 - Chemical anti-tarnishing preparations",
+      "conceptLink": "/ec2/concept/5989845"
+    }
+  },
+  {
+    "uri": "en/1/10282268",
+    "id": "10282268",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical aquarium water conditioners",
+    "harm": {
+      "id": "0065009",
+      "title": "10282268 - Chemical aquarium water conditioners",
+      "conceptLink": "/ec2/concept/6001212"
+    }
+  },
+  {
+    "uri": "en/1/621666",
+    "id": "621666",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical auxiliaries for the textile industry",
+    "harm": {
+      "id": "0007510",
+      "title": "621666 - Chemical auxiliaries for the textile industry",
+      "conceptLink": "/ec2/concept/5958331"
+    }
+  },
+  {
+    "uri": "en/1/621679",
+    "id": "621679",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical auxiliaries for use in the coagulation of lacquers",
+    "harm": {
+      "id": "0024928",
+      "title": "621679 - Chemical auxiliaries for use in the coagulation of lacquers",
+      "conceptLink": "/ec2/concept/5974284"
+    }
+  },
+  {
+    "uri": "en/1/621654",
+    "id": "621654",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical auxiliaries for the paper industry",
+    "harm": {
+      "id": "0019156",
+      "title": "621654 - Chemical auxiliaries for the paper industry",
+      "conceptLink": "/ec2/concept/5969001"
+    }
+  },
+  {
+    "uri": "en/1/621692",
+    "id": "621692",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical based liquids for making tapes",
+    "harm": {
+      "id": "0008820",
+      "title": "621692 - Chemical based liquids for making tapes",
+      "conceptLink": "/ec2/concept/5959520"
+    }
+  },
+  {
+    "uri": "en/1/901698",
+    "id": "901698",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical-based rain repellent preparation to be applied to windshields",
+    "harm": {
+      "id": "0040898",
+      "title": "901698 - Chemical-based rain repellent preparation to be applied to windshields",
+      "conceptLink": "/ec2/concept/5988846"
+    }
+  },
+  {
+    "uri": "en/1/621704",
+    "id": "621704",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical bonding agents [other than for household or stationery use]",
+    "harm": {
+      "id": "0008821",
+      "title": "621704 - Chemical bonding agents [other than for household or stationery use]",
+      "conceptLink": "/ec2/concept/5959521"
+    }
+  },
+  {
+    "uri": "en/1/621720",
+    "id": "621720",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical brighteners for industrial use",
+    "harm": {
+      "id": "0008822",
+      "title": "621720 - Chemical brighteners for industrial use",
+      "conceptLink": "/ec2/concept/5959522"
+    }
+  },
+  {
+    "uri": "en/1/621732",
+    "id": "621732",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical brightening agents for use on metal surfaces",
+    "harm": {
+      "id": "0037740",
+      "title": "621732 - Chemical brightening agents for use on metal surfaces",
+      "conceptLink": "/ec2/concept/5985962"
+    }
+  },
+  {
+    "uri": "en/1/376952",
+    "id": "376952",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical catalysts for use in synthesis gas and olefin purification",
+    "harm": {
+      "id": "0016498",
+      "title": "376952 - Chemical catalysts for use in synthesis gas and olefin purification",
+      "conceptLink": "/ec2/concept/5966573"
+    }
+  },
+  {
+    "uri": "en/1/376931",
+    "id": "376931",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical catalysts for use in methanol synthesis plant operation",
+    "harm": {
+      "id": "0010695",
+      "title": "376931 - Chemical catalysts for use in methanol synthesis plant operation",
+      "conceptLink": "/ec2/concept/5961251"
+    }
+  },
+  {
+    "uri": "en/1/6454",
+    "id": "6454",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical chimney cleaners",
+    "harm": {
+      "id": "0023474",
+      "title": "6454 - Chemical chimney cleaners",
+      "conceptLink": "/ec2/concept/5972940"
+    }
+  },
+  {
+    "uri": "en/1/621745",
+    "id": "621745",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical cleaning agents for use in industrial manufacturing processes",
+    "harm": {
+      "id": "0014673",
+      "title": "621745 - Chemical cleaning agents for use in industrial manufacturing processes",
+      "conceptLink": "/ec2/concept/5964895"
+    }
+  },
+  {
+    "uri": "en/1/621757",
+    "id": "621757",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical cleaning agents for use in industrial processes",
+    "harm": {
+      "id": "0037741",
+      "title": "621757 - Chemical cleaning agents for use in industrial processes",
+      "conceptLink": "/ec2/concept/5985963"
+    }
+  },
+  {
+    "uri": "en/1/233467150",
+    "id": "233467150",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical coatings for ophthalmic lenses",
+    "harm": {
+      "id": "0052004",
+      "title": "233467150 - Chemical coatings for ophthalmic lenses",
+      "conceptLink": "/ec2/concept/6010904"
+    }
+  },
+  {
+    "uri": "en/1/901670",
+    "id": "901670",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical coatings used in the manufacture of printed circuit boards",
+    "harm": {
+      "id": "0028473",
+      "title": "901670 - Chemical coatings used in the manufacture of printed circuit boards",
+      "conceptLink": "/ec2/concept/5977523"
+    }
+  },
+  {
+    "uri": "en/1/127818726",
+    "id": "127818726",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical components for producing a radio-labelled monoclonal antibody for industrial or scientific use",
+    "harm": {
+      "id": "0026171",
+      "title": "127818726 - Chemical components for producing a radio-labelled monoclonal antibody for industrial or scientific use",
+      "conceptLink": "/ec2/concept/5975420"
+    }
+  },
+  {
+    "uri": "en/1/131127413",
+    "id": "131127413",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions and materials for use in cosmetics",
+    "harm": {
+      "id": "0047637",
+      "title": "131127413 - Chemical compositions and materials for use in cosmetics",
+      "conceptLink": "/ec2/concept/5994912"
+    }
+  },
+  {
+    "uri": "en/1/131127390",
+    "id": "131127390",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions and materials for use in science",
+    "harm": {
+      "id": "0047636",
+      "title": "131127390 - Chemical compositions and materials for use in science",
+      "conceptLink": "/ec2/concept/5994911"
+    }
+  },
+  {
+    "uri": "en/1/621782",
+    "id": "621782",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions containing derivatives of humic acids",
+    "harm": {
+      "id": "0008823",
+      "title": "621782 - Chemical compositions containing derivatives of humic acids",
+      "conceptLink": "/ec2/concept/5959523"
+    }
+  },
+  {
+    "uri": "en/1/621795",
+    "id": "621795",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions containing humic acids",
+    "harm": {
+      "id": "0037742",
+      "title": "621795 - Chemical compositions containing humic acids",
+      "conceptLink": "/ec2/concept/5985964"
+    }
+  },
+  {
+    "uri": "en/1/621944",
+    "id": "621944",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for reinforcing brickwork",
+    "harm": {
+      "id": "0003835",
+      "title": "621944 - Chemical compositions for reinforcing brickwork",
+      "conceptLink": "/ec2/concept/5954960"
+    }
+  },
+  {
+    "uri": "en/1/621928",
+    "id": "621928",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for preserving stonework",
+    "harm": {
+      "id": "0003834",
+      "title": "621928 - Chemical compositions for preserving stonework",
+      "conceptLink": "/ec2/concept/5954959"
+    }
+  },
+  {
+    "uri": "en/1/621890",
+    "id": "621890",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for injection into building structures",
+    "harm": {
+      "id": "0003833",
+      "title": "621890 - Chemical compositions for injection into building structures",
+      "conceptLink": "/ec2/concept/5954958"
+    }
+  },
+  {
+    "uri": "en/1/622009",
+    "id": "622009",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for the control of fuel spillages",
+    "harm": {
+      "id": "0003836",
+      "title": "622009 - Chemical compositions for the control of fuel spillages",
+      "conceptLink": "/ec2/concept/5954961"
+    }
+  },
+  {
+    "uri": "en/1/71999704",
+    "id": "71999704",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for water treatment",
+    "harm": {
+      "id": "0007526",
+      "title": "71999704 - Chemical compositions for water treatment",
+      "conceptLink": "/ec2/concept/5958347"
+    }
+  },
+  {
+    "uri": "en/1/627250",
+    "id": "627250",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for reinforcing cement",
+    "harm": {
+      "id": "0009243",
+      "title": "627250 - Chemical compositions for reinforcing cement",
+      "conceptLink": "/ec2/concept/5959917"
+    }
+  },
+  {
+    "uri": "en/1/488349",
+    "id": "488349",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for use in well drilling and well maintenance",
+    "harm": {
+      "id": "0021336",
+      "title": "488349 - Chemical compositions for use in well drilling and well maintenance",
+      "conceptLink": "/ec2/concept/5970985"
+    }
+  },
+  {
+    "uri": "en/1/621849",
+    "id": "621849",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for finishing textiles",
+    "harm": {
+      "id": "0014676",
+      "title": "621849 - Chemical compositions for finishing textiles",
+      "conceptLink": "/ec2/concept/5964898"
+    }
+  },
+  {
+    "uri": "en/1/621834",
+    "id": "621834",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for curing concrete",
+    "harm": {
+      "id": "0014675",
+      "title": "621834 - Chemical compositions for curing concrete",
+      "conceptLink": "/ec2/concept/5964897"
+    }
+  },
+  {
+    "uri": "en/1/621820",
+    "id": "621820",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Chemical compositions for controlling a spillage of hazardous wastes",
+    "harm": {
+      "id": "0014674",
+      "title": "621820 - Chemical compositions for controlling a spillage of hazardous wastes",
+      "conceptLink": "/ec2/concept/5964896"
+    }
+  }
+]

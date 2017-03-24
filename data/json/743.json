@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/41/3998384",
+    "id": "3998384",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video and DVD film production",
+    "harm": {
+      "id": "0069045",
+      "title": "3998384 - Video and DVD film production",
+      "conceptLink": "/ec2/concept/6005248"
+    }
+  },
+  {
+    "uri": "en/41/861428",
+    "id": "861428",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video arcade services",
+    "harm": {
+      "id": "0059005",
+      "title": "861428 - Video arcade services",
+      "conceptLink": "/ec2/concept/6000496"
+    }
+  },
+  {
+    "uri": "en/41/124344113",
+    "id": "124344113",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video cameras (Rental of -)",
+    "harm": {
+      "id": "0057079",
+      "title": "124344113 - Video cameras (Rental of -)",
+      "conceptLink": "/ec2/concept/5998704"
+    }
+  },
+  {
+    "uri": "en/41/468738",
+    "id": "468738",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video cassette hire",
+    "harm": {
+      "id": "0017357",
+      "title": "468738 - Video cassette hire",
+      "conceptLink": "/ec2/concept/5967346"
+    }
+  },
+  {
+    "uri": "en/41/468739",
+    "id": "468739",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video cassette leasing",
+    "harm": {
+      "id": "0017357",
+      "title": "468739 - Video cassette leasing",
+      "conceptLink": "/ec2/concept/5967346"
+    }
+  },
+  {
+    "uri": "en/41/468733",
+    "id": "468733",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video cassette rental",
+    "harm": {
+      "id": "0017357",
+      "title": "468733 - Video cassette rental",
+      "conceptLink": "/ec2/concept/5967346"
+    }
+  },
+  {
+    "uri": "en/41/125157682",
+    "id": "125157682",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video cassettes (Rental of -)",
+    "harm": {
+      "id": "0017357",
+      "title": "125157682 - Video cassettes (Rental of -)",
+      "conceptLink": "/ec2/concept/5967346"
+    }
+  },
+  {
+    "uri": "en/41/60539",
+    "id": "60539",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video editing",
+    "harm": {
+      "id": "0005394",
+      "title": "60539 - Video editing",
+      "conceptLink": "/ec2/concept/5956395"
+    }
+  },
+  {
+    "uri": "en/41/861410",
+    "id": "861410",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video entertainment services",
+    "harm": {
+      "id": "0033744",
+      "title": "861410 - Video entertainment services",
+      "conceptLink": "/ec2/concept/5982338"
+    }
+  },
+  {
+    "uri": "en/41/59352",
+    "id": "59352",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video equipment hire",
+    "harm": {
+      "id": "0016468",
+      "title": "59352 - Video equipment hire",
+      "conceptLink": "/ec2/concept/5966546"
+    }
+  },
+  {
+    "uri": "en/41/2446347",
+    "id": "2446347",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video film production",
+    "harm": {
+      "id": "0057015",
+      "title": "2446347 - Video film production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/861427",
+    "id": "861427",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video game arcade services",
+    "harm": {
+      "id": "0059005",
+      "title": "861427 - Video game arcade services",
+      "conceptLink": "/ec2/concept/6000496"
+    }
+  },
+  {
+    "uri": "en/41/861447",
+    "id": "861447",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video game entertainment services",
+    "harm": {
+      "id": "0033745",
+      "title": "861447 - Video game entertainment services",
+      "conceptLink": "/ec2/concept/5982339"
+    }
+  },
+  {
+    "uri": "en/41/233004215",
+    "id": "233004215",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video library services",
+    "harm": {
+      "id": "0072271",
+      "title": "233004215 - Video library services",
+      "conceptLink": "/ec2/concept/6008454"
+    }
+  },
+  {
+    "uri": "en/41/10883426",
+    "id": "10883426",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video production",
+    "harm": {
+      "id": "0057015",
+      "title": "10883426 - Video production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/861461",
+    "id": "861461",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video production services",
+    "harm": {
+      "id": "0039542",
+      "title": "861461 - Video production services",
+      "conceptLink": "/ec2/concept/5987609"
+    }
+  },
+  {
+    "uri": "en/41/125079694",
+    "id": "125079694",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video recorders (Rental of -)",
+    "harm": {
+      "id": "0040471",
+      "title": "125079694 - Video recorders (Rental of -)",
+      "conceptLink": "/ec2/concept/5988462"
+    }
+  },
+  {
+    "uri": "en/41/892194",
+    "id": "892194",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video recording services",
+    "harm": {
+      "id": "0037266",
+      "title": "892194 - Video recording services",
+      "conceptLink": "/ec2/concept/5985530"
+    }
+  },
+  {
+    "uri": "en/41/56006",
+    "id": "56006",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video rental services",
+    "harm": {
+      "id": "0015852",
+      "title": "56006 - Video rental services",
+      "conceptLink": "/ec2/concept/5965978"
+    }
+  },
+  {
+    "uri": "en/41/60542",
+    "id": "60542",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video tape editing",
+    "harm": {
+      "id": "0012932",
+      "title": "60542 - Video tape editing",
+      "conceptLink": "/ec2/concept/5963296"
+    }
+  },
+  {
+    "uri": "en/41/59706",
+    "id": "59706",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video tape film production",
+    "harm": {
+      "id": "0057015",
+      "title": "59706 - Video tape film production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/469762",
+    "id": "469762",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video tape film production and rental",
+    "harm": {
+      "id": "0045736",
+      "title": "469762 - Video tape film production and rental",
+      "conceptLink": "/ec2/concept/5993272"
+    }
+  },
+  {
+    "uri": "en/41/59707",
+    "id": "59707",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video tape production",
+    "harm": {
+      "id": "0057015",
+      "title": "59707 - Video tape production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/61198",
+    "id": "61198",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Video taping",
+    "harm": {
+      "id": "0031381",
+      "title": "61198 - Video taping",
+      "conceptLink": "/ec2/concept/5980192"
+    }
+  },
+  {
+    "uri": "en/41/60541",
+    "id": "60541",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Videotape editing",
+    "harm": {
+      "id": "0012932",
+      "title": "60541 - Videotape editing",
+      "conceptLink": "/ec2/concept/5963296"
+    }
+  },
+  {
+    "uri": "en/41/59702",
+    "id": "59702",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Videotape film production",
+    "harm": {
+      "id": "0057015",
+      "title": "59702 - Videotape film production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/59703",
+    "id": "59703",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Videotape production",
+    "harm": {
+      "id": "0057015",
+      "title": "59703 - Videotape production",
+      "conceptLink": "/ec2/concept/5998644"
+    }
+  },
+  {
+    "uri": "en/41/59345",
+    "id": "59345",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Videotapes (Rental of -)",
+    "harm": {
+      "id": "0017357",
+      "title": "59345 - Videotapes (Rental of -)",
+      "conceptLink": "/ec2/concept/5967346"
+    }
+  },
+  {
+    "uri": "en/41/61197",
+    "id": "61197",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Videotaping",
+    "harm": {
+      "id": "0031381",
+      "title": "61197 - Videotaping",
+      "conceptLink": "/ec2/concept/5980192"
+    }
+  },
+  {
+    "uri": "en/41/861475",
+    "id": "861475",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education",
+    "harm": {
+      "id": "0058466",
+      "title": "861475 - Vocational education",
+      "conceptLink": "/ec2/concept/5999965"
+    }
+  },
+  {
+    "uri": "en/41/120869562",
+    "id": "120869562",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education and training services",
+    "harm": {
+      "id": "0069025",
+      "title": "120869562 - Vocational education and training services",
+      "conceptLink": "/ec2/concept/6005228"
+    }
+  },
+  {
+    "uri": "en/41/861490",
+    "id": "861490",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education for young people",
+    "harm": {
+      "id": "0016469",
+      "title": "861490 - Vocational education for young people",
+      "conceptLink": "/ec2/concept/5966547"
+    }
+  },
+  {
+    "uri": "en/41/469782",
+    "id": "469782",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education in the field of mechanics",
+    "harm": {
+      "id": "0039983",
+      "title": "469782 - Vocational education in the field of mechanics",
+      "conceptLink": "/ec2/concept/5988018"
+    }
+  },
+  {
+    "uri": "en/41/861572",
+    "id": "861572",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to protection of personal property",
+    "harm": {
+      "id": "0003884",
+      "title": "861572 - Vocational education relating to protection of personal property",
+      "conceptLink": "/ec2/concept/5955007"
+    }
+  },
+  {
+    "uri": "en/41/861517",
+    "id": "861517",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to avoidance of health related problems",
+    "harm": {
+      "id": "0022355",
+      "title": "861517 - Vocational education relating to avoidance of health related problems",
+      "conceptLink": "/ec2/concept/5971916"
+    }
+  },
+  {
+    "uri": "en/41/861530",
+    "id": "861530",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to first aid",
+    "harm": {
+      "id": "0010656",
+      "title": "861530 - Vocational education relating to first aid",
+      "conceptLink": "/ec2/concept/5961212"
+    }
+  },
+  {
+    "uri": "en/41/861585",
+    "id": "861585",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to self-defence",
+    "harm": {
+      "id": "0032728",
+      "title": "861585 - Vocational education relating to self-defence",
+      "conceptLink": "/ec2/concept/5981404"
+    }
+  },
+  {
+    "uri": "en/41/861557",
+    "id": "861557",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to personal safety",
+    "harm": {
+      "id": "0032727",
+      "title": "861557 - Vocational education relating to personal safety",
+      "conceptLink": "/ec2/concept/5981403"
+    }
+  },
+  {
+    "uri": "en/41/861545",
+    "id": "861545",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to home safety",
+    "harm": {
+      "id": "0033746",
+      "title": "861545 - Vocational education relating to home safety",
+      "conceptLink": "/ec2/concept/5982340"
+    }
+  },
+  {
+    "uri": "en/41/861505",
+    "id": "861505",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational education relating to avoidance of drug related problems",
+    "harm": {
+      "id": "0045289",
+      "title": "861505 - Vocational education relating to avoidance of drug related problems",
+      "conceptLink": "/ec2/concept/5992867"
+    }
+  },
+  {
+    "uri": "en/41/60926",
+    "id": "60926",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational guidance",
+    "harm": {
+      "id": "0018321",
+      "title": "60926 - Vocational guidance",
+      "conceptLink": "/ec2/concept/5968227"
+    }
+  },
+  {
+    "uri": "en/41/60924",
+    "id": "60924",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational guidance [education or training advice]",
+    "harm": {
+      "id": "0018321",
+      "title": "60924 - Vocational guidance [education or training advice]",
+      "conceptLink": "/ec2/concept/5968227"
+    }
+  },
+  {
+    "uri": "en/41/912027",
+    "id": "912027",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational retraining",
+    "harm": {
+      "id": "0002377",
+      "title": "912027 - Vocational retraining",
+      "conceptLink": "/ec2/concept/5953627"
+    }
+  },
+  {
+    "uri": "en/41/465379",
+    "id": "465379",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational skills training",
+    "harm": {
+      "id": "0058467",
+      "title": "465379 - Vocational skills training",
+      "conceptLink": "/ec2/concept/5999966"
+    }
+  },
+  {
+    "uri": "en/41/125083252",
+    "id": "125083252",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational skills training (Provision of -)",
+    "harm": {
+      "id": "0032729",
+      "title": "125083252 - Vocational skills training (Provision of -)",
+      "conceptLink": "/ec2/concept/5981405"
+    }
+  },
+  {
+    "uri": "en/41/478303",
+    "id": "478303",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational testing",
+    "harm": {
+      "id": "0041411",
+      "title": "478303 - Vocational testing",
+      "conceptLink": "/ec2/concept/5989316"
+    }
+  },
+  {
+    "uri": "en/41/125083264",
+    "id": "125083264",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational training courses (Provision of -)",
+    "harm": {
+      "id": "0038529",
+      "title": "125083264 - Vocational training courses (Provision of -)",
+      "conceptLink": "/ec2/concept/5986690"
+    }
+  },
+  {
+    "uri": "en/41/465383",
+    "id": "465383",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Vocational training services",
+    "harm": {
+      "id": "0058466",
+      "title": "465383 - Vocational training services",
+      "conceptLink": "/ec2/concept/5999965"
+    }
+  },
+  {
+    "uri": "en/41/469800",
+    "id": "469800",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Voice training",
+    "harm": {
+      "id": "0024126",
+      "title": "469800 - Voice training",
+      "conceptLink": "/ec2/concept/5973545"
+    }
+  },
+  {
+    "uri": "en/41/479686",
+    "id": "479686",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wagering services",
+    "harm": {
+      "id": "0041769",
+      "title": "479686 - Wagering services",
+      "conceptLink": "/ec2/concept/5989645"
+    }
+  },
+  {
+    "uri": "en/41/861623",
+    "id": "861623",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "War game services",
+    "harm": {
+      "id": "0044305",
+      "title": "861623 - War game services",
+      "conceptLink": "/ec2/concept/5991961"
+    }
+  },
+  {
+    "uri": "en/41/861635",
+    "id": "861635",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Water chute complex operation",
+    "harm": {
+      "id": "0032730",
+      "title": "861635 - Water chute complex operation",
+      "conceptLink": "/ec2/concept/5981406"
+    }
+  },
+  {
+    "uri": "en/41/125083301",
+    "id": "125083301",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wedding celebrations (Organisation of entertainment for -)",
+    "harm": {
+      "id": "0015456",
+      "title": "125083301 - Wedding celebrations (Organisation of entertainment for -)",
+      "conceptLink": "/ec2/concept/5965609"
+    }
+  },
+  {
+    "uri": "en/41/861663",
+    "id": "861663",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wildlife centre services [for recreational purposes]",
+    "harm": {
+      "id": "0021344",
+      "title": "861663 - Wildlife centre services [for recreational purposes]",
+      "conceptLink": "/ec2/concept/5970992"
+    }
+  },
+  {
+    "uri": "en/41/120876212",
+    "id": "120876212",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wine tasting events for educational purposes",
+    "harm": {
+      "id": "0068947",
+      "title": "120876212 - Wine tasting events for educational purposes",
+      "conceptLink": "/ec2/concept/6005150"
+    }
+  },
+  {
+    "uri": "en/41/478319",
+    "id": "478319",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wine tasting services (education)",
+    "harm": {
+      "id": "0018322",
+      "title": "478319 - Wine tasting services (education)",
+      "conceptLink": "/ec2/concept/5968228"
+    }
+  },
+  {
+    "uri": "en/41/478320",
+    "id": "478320",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wine tastings [educational services]",
+    "harm": {
+      "id": "0018322",
+      "title": "478320 - Wine tastings [educational services]",
+      "conceptLink": "/ec2/concept/5968228"
+    }
+  },
+  {
+    "uri": "en/41/464847",
+    "id": "464847",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wine tastings [entertainment services]",
+    "harm": {
+      "id": "0027707",
+      "title": "464847 - Wine tastings [entertainment services]",
+      "conceptLink": "/ec2/concept/5976818"
+    }
+  },
+  {
+    "uri": "en/41/861677",
+    "id": "861677",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Winter sports instruction",
+    "harm": {
+      "id": "0044306",
+      "title": "861677 - Winter sports instruction",
+      "conceptLink": "/ec2/concept/5991962"
+    }
+  },
+  {
+    "uri": "en/41/861690",
+    "id": "861690",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Wood-working training",
+    "harm": {
+      "id": "0026988",
+      "title": "861690 - Wood-working training",
+      "conceptLink": "/ec2/concept/5976156"
+    }
+  },
+  {
+    "uri": "en/41/59855",
+    "id": "59855",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Workshops (Arranging and conducting of -) [training]",
+    "harm": {
+      "id": "0014121",
+      "title": "59855 - Workshops (Arranging and conducting of -) [training]",
+      "conceptLink": "/ec2/concept/5964381"
+    }
+  },
+  {
+    "uri": "en/41/861702",
+    "id": "861702",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Workshops for cultural purposes",
+    "harm": {
+      "id": "0026989",
+      "title": "861702 - Workshops for cultural purposes",
+      "conceptLink": "/ec2/concept/5976157"
+    }
+  },
+  {
+    "uri": "en/41/861714",
+    "id": "861714",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Workshops for educational purposes",
+    "harm": {
+      "id": "0021345",
+      "title": "861714 - Workshops for educational purposes",
+      "conceptLink": "/ec2/concept/5970993"
+    }
+  },
+  {
+    "uri": "en/41/861729",
+    "id": "861729",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Workshops for recreational purposes",
+    "harm": {
+      "id": "0021346",
+      "title": "861729 - Workshops for recreational purposes",
+      "conceptLink": "/ec2/concept/5970994"
+    }
+  },
+  {
+    "uri": "en/41/861741",
+    "id": "861741",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Workshops for training purposes",
+    "harm": {
+      "id": "0004650",
+      "title": "861741 - Workshops for training purposes",
+      "conceptLink": "/ec2/concept/5955711"
+    }
+  },
+  {
+    "uri": "en/41/120869814",
+    "id": "120869814",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing and publishing of texts, other than publicity texts",
+    "harm": {
+      "id": "0069044",
+      "title": "120869814 - Writing and publishing of texts, other than publicity texts",
+      "conceptLink": "/ec2/concept/6005247"
+    }
+  },
+  {
+    "uri": "en/41/45138591",
+    "id": "45138591",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing of texts",
+    "harm": {
+      "id": "0070172",
+      "title": "45138591 - Writing of texts",
+      "conceptLink": "/ec2/concept/6006366"
+    }
+  },
+  {
+    "uri": "en/41/496014",
+    "id": "496014",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing of texts [other than publicity texts]",
+    "harm": {
+      "id": "0029781",
+      "title": "496014 - Writing of texts [other than publicity texts]",
+      "conceptLink": "/ec2/concept/5978726"
+    }
+  },
+  {
+    "uri": "en/41/120870513",
+    "id": "120870513",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing of texts, other than publicity texts, for broadcast via teletext services",
+    "harm": {
+      "id": "0069080",
+      "title": "120870513 - Writing of texts, other than publicity texts, for broadcast via teletext services",
+      "conceptLink": "/ec2/concept/6005283"
+    }
+  },
+  {
+    "uri": "en/41/496016",
+    "id": "496016",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing of texts, other than publicity texts",
+    "harm": {
+      "id": "0029781",
+      "title": "496016 - Writing of texts, other than publicity texts",
+      "conceptLink": "/ec2/concept/5978726"
+    }
+  },
+  {
+    "uri": "en/41/60492",
+    "id": "60492",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing screenplays",
+    "harm": {
+      "id": "0057546",
+      "title": "60492 - Writing screenplays",
+      "conceptLink": "/ec2/concept/5999051"
+    }
+  },
+  {
+    "uri": "en/41/137968780",
+    "id": "137968780",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Writing services for blogs",
+    "harm": {
+      "id": "0060187",
+      "title": "137968780 - Writing services for blogs",
+      "conceptLink": "/ec2/concept/5996449"
+    }
+  },
+  {
+    "uri": "en/41/469835",
+    "id": "469835",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Written text editing",
+    "harm": {
+      "id": "0035660",
+      "title": "469835 - Written text editing",
+      "conceptLink": "/ec2/concept/5984076"
+    }
+  },
+  {
+    "uri": "en/41/861755",
+    "id": "861755",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Written training courses",
+    "harm": {
+      "id": "0039287",
+      "title": "861755 - Written training courses",
+      "conceptLink": "/ec2/concept/5987376"
+    }
+  },
+  {
+    "uri": "en/41/469861",
+    "id": "469861",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Yoga instruction",
+    "harm": {
+      "id": "0018338",
+      "title": "469861 - Yoga instruction",
+      "conceptLink": "/ec2/concept/5968244"
+    }
+  },
+  {
+    "uri": "en/41/57298",
+    "id": "57298",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Zoological garden services",
+    "harm": {
+      "id": "0041347",
+      "title": "57298 - Zoological garden services",
+      "conceptLink": "/ec2/concept/5989266"
+    }
+  },
+  {
+    "uri": "en/41/469884",
+    "id": "469884",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Zoos",
+    "harm": {
+      "id": "0041347",
+      "title": "469884 - Zoos",
+      "conceptLink": "/ec2/concept/5989266"
+    }
+  },
+  {
+    "uri": "en/42/137849901",
+    "id": "137849901",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Administration of mail servers",
+    "harm": {
+      "id": "0051645",
+      "title": "137849901 - Administration of mail servers",
+      "conceptLink": "/ec2/concept/6010631"
+    }
+  },
+  {
+    "uri": "en/42/120877757",
+    "id": "120877757",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Administration of user rights in computer networks",
+    "harm": {
+      "id": "0069286",
+      "title": "120877757 - Administration of user rights in computer networks",
+      "conceptLink": "/ec2/concept/6005489"
+    }
+  },
+  {
+    "uri": "en/42/469902",
+    "id": "469902",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advice and consultancy in relation to computer networking applications",
+    "harm": {
+      "id": "0035661",
+      "title": "469902 - Advice and consultancy in relation to computer networking applications",
+      "conceptLink": "/ec2/concept/5984077"
+    }
+  },
+  {
+    "uri": "en/42/120877745",
+    "id": "120877745",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advice and development services relating to computer software",
+    "harm": {
+      "id": "0069285",
+      "title": "120877745 - Advice and development services relating to computer software",
+      "conceptLink": "/ec2/concept/6005488"
+    }
+  },
+  {
+    "uri": "en/42/861769",
+    "id": "861769",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advice relating to the development of computer systems",
+    "harm": {
+      "id": "0027727",
+      "title": "861769 - Advice relating to the development of computer systems",
+      "conceptLink": "/ec2/concept/5976836"
+    }
+  },
+  {
+    "uri": "en/42/900272",
+    "id": "900272",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advice relating to the design of computer hardware",
+    "harm": {
+      "id": "0023900",
+      "title": "900272 - Advice relating to the design of computer hardware",
+      "conceptLink": "/ec2/concept/5973330"
+    }
+  },
+  {
+    "uri": "en/42/469923",
+    "id": "469923",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and consultancy services relating to computer hardware",
+    "harm": {
+      "id": "0024127",
+      "title": "469923 - Advisory and consultancy services relating to computer hardware",
+      "conceptLink": "/ec2/concept/5973546"
+    }
+  },
+  {
+    "uri": "en/42/137889545",
+    "id": "137889545",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and consultancy services relating to the design and development of computer hardware",
+    "harm": {
+      "id": "0051552",
+      "title": "137889545 - Advisory and consultancy services relating to the design and development of computer hardware",
+      "conceptLink": "/ec2/concept/6010538"
+    }
+  },
+  {
+    "uri": "en/42/120878032",
+    "id": "120878032",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and information services relating to computer peripherals",
+    "harm": {
+      "id": "0069366",
+      "title": "120878032 - Advisory and information services relating to computer peripherals",
+      "conceptLink": "/ec2/concept/6005569"
+    }
+  },
+  {
+    "uri": "en/42/120878019",
+    "id": "120878019",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and information services relating to computer software",
+    "harm": {
+      "id": "0069367",
+      "title": "120878019 - Advisory and information services relating to computer software",
+      "conceptLink": "/ec2/concept/6005570"
+    }
+  },
+  {
+    "uri": "en/42/137897495",
+    "id": "137897495",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and information services relating to the design and development of computer hardware",
+    "harm": {
+      "id": "0051491",
+      "title": "137897495 - Advisory and information services relating to the design and development of computer hardware",
+      "conceptLink": "/ec2/concept/6010477"
+    }
+  },
+  {
+    "uri": "en/42/137897485",
+    "id": "137897485",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory and information services relating to the design and development of computer peripherals",
+    "harm": {
+      "id": "0051492",
+      "title": "137897485 - Advisory and information services relating to the design and development of computer peripherals",
+      "conceptLink": "/ec2/concept/6010478"
+    }
+  },
+  {
+    "uri": "en/42/374255",
+    "id": "374255",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services in the field of product development and quality improvement of software",
+    "harm": {
+      "id": "0043660",
+      "title": "374255 - Advisory services in the field of product development and quality improvement of software",
+      "conceptLink": "/ec2/concept/5991370"
+    }
+  },
+  {
+    "uri": "en/42/862070",
+    "id": "862070",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to computer software used for printing",
+    "harm": {
+      "id": "0001550",
+      "title": "862070 - Advisory services relating to computer software used for printing",
+      "conceptLink": "/ec2/concept/5952882"
+    }
+  },
+  {
+    "uri": "en/42/861787",
+    "id": "861787",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to architecture",
+    "harm": {
+      "id": "0014091",
+      "title": "861787 - Advisory services relating to architecture",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/862302",
+    "id": "862302",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to pollution control",
+    "harm": {
+      "id": "0007311",
+      "title": "862302 - Advisory services relating to pollution control",
+      "conceptLink": "/ec2/concept/5958151"
+    }
+  },
+  {
+    "uri": "en/42/862197",
+    "id": "862197",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to industrial design",
+    "harm": {
+      "id": "0007310",
+      "title": "862197 - Advisory services relating to industrial design",
+      "conceptLink": "/ec2/concept/5958150"
+    }
+  },
+  {
+    "uri": "en/42/862466",
+    "id": "862466",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to the use of computer software",
+    "harm": {
+      "id": "0004581",
+      "title": "862466 - Advisory services relating to the use of computer software",
+      "conceptLink": "/ec2/concept/5955643"
+    }
+  },
+  {
+    "uri": "en/42/899036",
+    "id": "899036",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to the planning of premises",
+    "harm": {
+      "id": "0005500",
+      "title": "899036 - Advisory services relating to the planning of premises",
+      "conceptLink": "/ec2/concept/5956497"
+    }
+  },
+  {
+    "uri": "en/42/862228",
+    "id": "862228",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to interior design",
+    "harm": {
+      "id": "0013124",
+      "title": "862228 - Advisory services relating to interior design",
+      "conceptLink": "/ec2/concept/5963469"
+    }
+  },
+  {
+    "uri": "en/42/862119",
+    "id": "862119",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to computer systems design",
+    "harm": {
+      "id": "0013123",
+      "title": "862119 - Advisory services relating to computer systems design",
+      "conceptLink": "/ec2/concept/5963468"
+    }
+  },
+  {
+    "uri": "en/42/862393",
+    "id": "862393",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to technological research",
+    "harm": {
+      "id": "0027635",
+      "title": "862393 - Advisory services relating to technological research",
+      "conceptLink": "/ec2/concept/5976752"
+    }
+  },
+  {
+    "uri": "en/42/861913",
+    "id": "861913",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Advisory services relating to computer hardware design",
+    "harm": {
+      "id": "0027730",
+      "title": "861913 - Advisory services relating to computer hardware design",
+      "conceptLink": "/ec2/concept/5976839"
+    }
+  }
+]

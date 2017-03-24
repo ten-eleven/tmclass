@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/479248",
+    "id": "479248",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Application service provider services",
+    "harm": {
+      "id": "0017173",
+      "title": "479248 - Application service provider services",
+      "conceptLink": "/ec2/concept/5967180"
+    }
+  },
+  {
+    "uri": "en/42/478424",
+    "id": "478424",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Application service provider (ASP)",
+    "harm": {
+      "id": "0017173",
+      "title": "478424 - Application service provider (ASP)",
+      "conceptLink": "/ec2/concept/5967180"
+    }
+  },
+  {
+    "uri": "en/42/863014",
+    "id": "863014",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Application system testing consultancy",
+    "harm": {
+      "id": "0033107",
+      "title": "863014 - Application system testing consultancy",
+      "conceptLink": "/ec2/concept/5981754"
+    }
+  },
+  {
+    "uri": "en/42/863027",
+    "id": "863027",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Archaeological exploration",
+    "harm": {
+      "id": "0021726",
+      "title": "863027 - Archaeological exploration",
+      "conceptLink": "/ec2/concept/5971336"
+    }
+  },
+  {
+    "uri": "en/42/470017",
+    "id": "470017",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Archaeological exploration and research",
+    "harm": {
+      "id": "0034073",
+      "title": "470017 - Archaeological exploration and research",
+      "conceptLink": "/ec2/concept/5982639"
+    }
+  },
+  {
+    "uri": "en/42/863038",
+    "id": "863038",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Archaeological research",
+    "harm": {
+      "id": "0038916",
+      "title": "863038 - Archaeological research",
+      "conceptLink": "/ec2/concept/5987036"
+    }
+  },
+  {
+    "uri": "en/42/470046",
+    "id": "470046",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural advisory services",
+    "harm": {
+      "id": "0014091",
+      "title": "470046 - Architectural advisory services",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/868454",
+    "id": "868454",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural and engineering services",
+    "harm": {
+      "id": "0013655",
+      "title": "868454 - Architectural and engineering services",
+      "conceptLink": "/ec2/concept/5963947"
+    }
+  },
+  {
+    "uri": "en/42/120919192",
+    "id": "120919192",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural and urban planning services",
+    "harm": {
+      "id": "0048040",
+      "title": "120919192 - Architectural and urban planning services",
+      "conceptLink": "/ec2/concept/5995299"
+    }
+  },
+  {
+    "uri": "en/42/470044",
+    "id": "470044",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural consultancy services",
+    "harm": {
+      "id": "0014091",
+      "title": "470044 - Architectural consultancy services",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/470041",
+    "id": "470041",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural consultancy",
+    "harm": {
+      "id": "0014091",
+      "title": "470041 - Architectural consultancy",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/470045",
+    "id": "470045",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural consultation services",
+    "harm": {
+      "id": "0014091",
+      "title": "470045 - Architectural consultation services",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/470042",
+    "id": "470042",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural consultation",
+    "harm": {
+      "id": "0014091",
+      "title": "470042 - Architectural consultation",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/900586",
+    "id": "900586",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design",
+    "harm": {
+      "id": "0039537",
+      "title": "900586 - Architectural design",
+      "conceptLink": "/ec2/concept/5987604"
+    }
+  },
+  {
+    "uri": "en/42/61921",
+    "id": "61921",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design for interior decoration",
+    "harm": {
+      "id": "0020804",
+      "title": "61921 - Architectural design for interior decoration",
+      "conceptLink": "/ec2/concept/5970500"
+    }
+  },
+  {
+    "uri": "en/42/863052",
+    "id": "863052",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design for exterior decoration",
+    "harm": {
+      "id": "0003353",
+      "title": "863052 - Architectural design for exterior decoration",
+      "conceptLink": "/ec2/concept/5954517"
+    }
+  },
+  {
+    "uri": "en/42/863065",
+    "id": "863065",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design for town planning",
+    "harm": {
+      "id": "0038047",
+      "title": "863065 - Architectural design for town planning",
+      "conceptLink": "/ec2/concept/5986241"
+    }
+  },
+  {
+    "uri": "en/42/863112",
+    "id": "863112",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design services relating to exhibitions",
+    "harm": {
+      "id": "0026464",
+      "title": "863112 - Architectural design services relating to exhibitions",
+      "conceptLink": "/ec2/concept/5975684"
+    }
+  },
+  {
+    "uri": "en/42/119554321",
+    "id": "119554321",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design services in the fields of traffic and transportation",
+    "harm": {
+      "id": "0051406",
+      "title": "119554321 - Architectural design services in the fields of traffic and transportation",
+      "conceptLink": "/ec2/concept/6010392"
+    }
+  },
+  {
+    "uri": "en/42/863084",
+    "id": "863084",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural design services",
+    "harm": {
+      "id": "0043783",
+      "title": "863084 - Architectural design services",
+      "conceptLink": "/ec2/concept/5991477"
+    }
+  },
+  {
+    "uri": "en/42/863127",
+    "id": "863127",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural planning services",
+    "harm": {
+      "id": "0020805",
+      "title": "863127 - Architectural planning services",
+      "conceptLink": "/ec2/concept/5970501"
+    }
+  },
+  {
+    "uri": "en/42/125084686",
+    "id": "125084686",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural plans (Preparation of -)",
+    "harm": {
+      "id": "0035408",
+      "title": "125084686 - Architectural plans (Preparation of -)",
+      "conceptLink": "/ec2/concept/5983846"
+    }
+  },
+  {
+    "uri": "en/42/863156",
+    "id": "863156",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural project management",
+    "harm": {
+      "id": "0026465",
+      "title": "863156 - Architectural project management",
+      "conceptLink": "/ec2/concept/5975685"
+    }
+  },
+  {
+    "uri": "en/42/119554323",
+    "id": "119554323",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural research",
+    "harm": {
+      "id": "0051541",
+      "title": "119554323 - Architectural research",
+      "conceptLink": "/ec2/concept/6010527"
+    }
+  },
+  {
+    "uri": "en/42/61411",
+    "id": "61411",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services",
+    "harm": {
+      "id": "0057854",
+      "title": "61411 - Architectural services",
+      "conceptLink": "/ec2/concept/5999358"
+    }
+  },
+  {
+    "uri": "en/42/863198",
+    "id": "863198",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of office facilities",
+    "harm": {
+      "id": "0026466",
+      "title": "863198 - Architectural services for the design of office facilities",
+      "conceptLink": "/ec2/concept/5975686"
+    }
+  },
+  {
+    "uri": "en/42/863185",
+    "id": "863185",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of industrial buildings",
+    "harm": {
+      "id": "0032225",
+      "title": "863185 - Architectural services for the design of industrial buildings",
+      "conceptLink": "/ec2/concept/5980946"
+    }
+  },
+  {
+    "uri": "en/42/863171",
+    "id": "863171",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of commercial buildings",
+    "harm": {
+      "id": "0032224",
+      "title": "863171 - Architectural services for the design of commercial buildings",
+      "conceptLink": "/ec2/concept/5980945"
+    }
+  },
+  {
+    "uri": "en/42/120877940",
+    "id": "120877940",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of office buildings",
+    "harm": {
+      "id": "0071390",
+      "title": "120877940 - Architectural services for the design of office buildings",
+      "conceptLink": "/ec2/concept/6007581"
+    }
+  },
+  {
+    "uri": "en/42/120877948",
+    "id": "120877948",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of retail premises",
+    "harm": {
+      "id": "0069375",
+      "title": "120877948 - Architectural services for the design of retail premises",
+      "conceptLink": "/ec2/concept/6005578"
+    }
+  },
+  {
+    "uri": "en/42/120877921",
+    "id": "120877921",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of buildings",
+    "harm": {
+      "id": "0069377",
+      "title": "120877921 - Architectural services for the design of buildings",
+      "conceptLink": "/ec2/concept/6005580"
+    }
+  },
+  {
+    "uri": "en/42/120877925",
+    "id": "120877925",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the design of shopping centers",
+    "harm": {
+      "id": "0069376",
+      "title": "120877925 - Architectural services for the design of shopping centers",
+      "conceptLink": "/ec2/concept/6005579"
+    }
+  },
+  {
+    "uri": "en/42/863214",
+    "id": "863214",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services for the preparation of architectural plans",
+    "harm": {
+      "id": "0043784",
+      "title": "863214 - Architectural services for the preparation of architectural plans",
+      "conceptLink": "/ec2/concept/5991478"
+    }
+  },
+  {
+    "uri": "en/42/863236",
+    "id": "863236",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services relating to land development",
+    "harm": {
+      "id": "0007743",
+      "title": "863236 - Architectural services relating to land development",
+      "conceptLink": "/ec2/concept/5958542"
+    }
+  },
+  {
+    "uri": "en/42/863237",
+    "id": "863237",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architectural services relating to the development of land",
+    "harm": {
+      "id": "0007743",
+      "title": "863237 - Architectural services relating to the development of land",
+      "conceptLink": "/ec2/concept/5958542"
+    }
+  },
+  {
+    "uri": "en/42/61409",
+    "id": "61409",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architecture",
+    "harm": {
+      "id": "0057855",
+      "title": "61409 - Architecture",
+      "conceptLink": "/ec2/concept/5999359"
+    }
+  },
+  {
+    "uri": "en/42/470043",
+    "id": "470043",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architecture consultancy services",
+    "harm": {
+      "id": "0014091",
+      "title": "470043 - Architecture consultancy services",
+      "conceptLink": "/ec2/concept/5964352"
+    }
+  },
+  {
+    "uri": "en/42/863083",
+    "id": "863083",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architecture design services",
+    "harm": {
+      "id": "0043783",
+      "title": "863083 - Architecture design services",
+      "conceptLink": "/ec2/concept/5991477"
+    }
+  },
+  {
+    "uri": "en/42/61410",
+    "id": "61410",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architecture services",
+    "harm": {
+      "id": "0057854",
+      "title": "61410 - Architecture services",
+      "conceptLink": "/ec2/concept/5999358"
+    }
+  },
+  {
+    "uri": "en/42/863213",
+    "id": "863213",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Architecture services for the preparation of architectural plans",
+    "harm": {
+      "id": "0043784",
+      "title": "863213 - Architecture services for the preparation of architectural plans",
+      "conceptLink": "/ec2/concept/5991478"
+    }
+  },
+  {
+    "uri": "en/42/63988",
+    "id": "63988",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Art work design",
+    "harm": {
+      "id": "0058638",
+      "title": "63988 - Art work design",
+      "conceptLink": "/ec2/concept/6000131"
+    }
+  },
+  {
+    "uri": "en/42/473641",
+    "id": "473641",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assaying minerals or oils",
+    "harm": {
+      "id": "0032252",
+      "title": "473641 - Assaying minerals or oils",
+      "conceptLink": "/ec2/concept/5980971"
+    }
+  },
+  {
+    "uri": "en/42/863267",
+    "id": "863267",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessing chemical information in relation to risks",
+    "harm": {
+      "id": "0021349",
+      "title": "863267 - Assessing chemical information in relation to risks",
+      "conceptLink": "/ec2/concept/5970996"
+    }
+  },
+  {
+    "uri": "en/42/863254",
+    "id": "863254",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessing chemical information in relation to hazards",
+    "harm": {
+      "id": "0032737",
+      "title": "863254 - Assessing chemical information in relation to hazards",
+      "conceptLink": "/ec2/concept/5981413"
+    }
+  },
+  {
+    "uri": "en/42/863282",
+    "id": "863282",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessing toxicological information in relation to hazards",
+    "harm": {
+      "id": "0038537",
+      "title": "863282 - Assessing toxicological information in relation to hazards",
+      "conceptLink": "/ec2/concept/5986698"
+    }
+  },
+  {
+    "uri": "en/42/863296",
+    "id": "863296",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessing toxicological information in relation to risks",
+    "harm": {
+      "id": "0044310",
+      "title": "863296 - Assessing toxicological information in relation to risks",
+      "conceptLink": "/ec2/concept/5991966"
+    }
+  },
+  {
+    "uri": "en/42/233403201",
+    "id": "233403201",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessment in the field of technology provided by engineers",
+    "harm": {
+      "id": "0073533",
+      "title": "233403201 - Assessment in the field of technology provided by engineers",
+      "conceptLink": "/ec2/concept/6009706"
+    }
+  },
+  {
+    "uri": "en/42/233403164",
+    "id": "233403164",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Assessment in the field of science provided by engineers",
+    "harm": {
+      "id": "0073514",
+      "title": "233403164 - Assessment in the field of science provided by engineers",
+      "conceptLink": "/ec2/concept/6009687"
+    }
+  },
+  {
+    "uri": "en/42/470110",
+    "id": "470110",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Astronomy consultation",
+    "harm": {
+      "id": "0010984",
+      "title": "470110 - Astronomy consultation",
+      "conceptLink": "/ec2/concept/5961511"
+    }
+  },
+  {
+    "uri": "en/42/138174510",
+    "id": "138174510",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authenticating coins",
+    "harm": {
+      "id": "0004692",
+      "title": "138174510 - Authenticating coins",
+      "conceptLink": "/ec2/concept/5955751"
+    }
+  },
+  {
+    "uri": "en/42/63284",
+    "id": "63284",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authenticating fine art",
+    "harm": {
+      "id": "0018805",
+      "title": "63284 - Authenticating fine art",
+      "conceptLink": "/ec2/concept/5968680"
+    }
+  },
+  {
+    "uri": "en/42/63282",
+    "id": "63282",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authenticating works of art",
+    "harm": {
+      "id": "0018805",
+      "title": "63282 - Authenticating works of art",
+      "conceptLink": "/ec2/concept/5968680"
+    }
+  },
+  {
+    "uri": "en/42/63283",
+    "id": "63283",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication in the field of works of art",
+    "harm": {
+      "id": "0018805",
+      "title": "63283 - Authentication in the field of works of art",
+      "conceptLink": "/ec2/concept/5968680"
+    }
+  },
+  {
+    "uri": "en/42/137738744",
+    "id": "137738744",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication of diamonds",
+    "harm": {
+      "id": "0051408",
+      "title": "137738744 - Authentication of diamonds",
+      "conceptLink": "/ec2/concept/6010394"
+    }
+  },
+  {
+    "uri": "en/42/863308",
+    "id": "863308",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication of fine art objects",
+    "harm": {
+      "id": "0018805",
+      "title": "863308 - Authentication of fine art objects",
+      "conceptLink": "/ec2/concept/5968680"
+    }
+  },
+  {
+    "uri": "en/42/863321",
+    "id": "863321",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication of furniture",
+    "harm": {
+      "id": "0032738",
+      "title": "863321 - Authentication of furniture",
+      "conceptLink": "/ec2/concept/5981414"
+    }
+  },
+  {
+    "uri": "en/42/863336",
+    "id": "863336",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication of pictures",
+    "harm": {
+      "id": "0015463",
+      "title": "863336 - Authentication of pictures",
+      "conceptLink": "/ec2/concept/5965615"
+    }
+  },
+  {
+    "uri": "en/42/136221955",
+    "id": "136221955",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication of stamps",
+    "harm": {
+      "id": "0051704",
+      "title": "136221955 - Authentication of stamps",
+      "conceptLink": "/ec2/concept/6010690"
+    }
+  },
+  {
+    "uri": "en/42/233403189",
+    "id": "233403189",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication services (control) of data transmitted via telecommunications",
+    "harm": {
+      "id": "0073526",
+      "title": "233403189 - Authentication services (control) of data transmitted via telecommunications",
+      "conceptLink": "/ec2/concept/6009699"
+    }
+  },
+  {
+    "uri": "en/42/233403186",
+    "id": "233403186",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Authentication services (control) of messages transmitted via telecommunications",
+    "harm": {
+      "id": "0073525",
+      "title": "233403186 - Authentication services (control) of messages transmitted via telecommunications",
+      "conceptLink": "/ec2/concept/6009698"
+    }
+  },
+  {
+    "uri": "en/42/98601053",
+    "id": "98601053",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Automotive design",
+    "harm": {
+      "id": "0070766",
+      "title": "98601053 - Automotive design",
+      "conceptLink": "/ec2/concept/6006958"
+    }
+  },
+  {
+    "uri": "en/42/472850",
+    "id": "472850",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Automotive inspections",
+    "harm": {
+      "id": "0039954",
+      "title": "472850 - Automotive inspections",
+      "conceptLink": "/ec2/concept/5987991"
+    }
+  },
+  {
+    "uri": "en/42/132780734",
+    "id": "132780734",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Backup services for computer hard drive data",
+    "harm": {
+      "id": "0070767",
+      "title": "132780734 - Backup services for computer hard drive data",
+      "conceptLink": "/ec2/concept/6006959"
+    }
+  },
+  {
+    "uri": "en/42/901697",
+    "id": "901697",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriological analysis",
+    "harm": {
+      "id": "0017765",
+      "title": "901697 - Bacteriological analysis",
+      "conceptLink": "/ec2/concept/5967718"
+    }
+  },
+  {
+    "uri": "en/42/470161",
+    "id": "470161",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriological consultation and research",
+    "harm": {
+      "id": "0039824",
+      "title": "470161 - Bacteriological consultation and research",
+      "conceptLink": "/ec2/concept/5987865"
+    }
+  },
+  {
+    "uri": "en/42/61457",
+    "id": "61457",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriological research",
+    "harm": {
+      "id": "0029014",
+      "title": "61457 - Bacteriological research",
+      "conceptLink": "/ec2/concept/5978026"
+    }
+  },
+  {
+    "uri": "en/42/470175",
+    "id": "470175",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriological research and testing",
+    "harm": {
+      "id": "0016777",
+      "title": "470175 - Bacteriological research and testing",
+      "conceptLink": "/ec2/concept/5966827"
+    }
+  },
+  {
+    "uri": "en/42/137166216",
+    "id": "137166216",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriological research and analysis",
+    "harm": {
+      "id": "0070407",
+      "title": "137166216 - Bacteriological research and analysis",
+      "conceptLink": "/ec2/concept/6006600"
+    }
+  },
+  {
+    "uri": "en/42/137742634",
+    "id": "137742634",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bacteriology consultancy",
+    "harm": {
+      "id": "0051391",
+      "title": "137742634 - Bacteriology consultancy",
+      "conceptLink": "/ec2/concept/6010377"
+    }
+  },
+  {
+    "uri": "en/42/374330",
+    "id": "374330",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Basic and clinical research in the field of respiratory science and medicine",
+    "harm": {
+      "id": "0008984",
+      "title": "374330 - Basic and clinical research in the field of respiratory science and medicine",
+      "conceptLink": "/ec2/concept/5959679"
+    }
+  },
+  {
+    "uri": "en/42/863349",
+    "id": "863349",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Bathroom design services",
+    "harm": {
+      "id": "0039499",
+      "title": "863349 - Bathroom design services",
+      "conceptLink": "/ec2/concept/5987567"
+    }
+  },
+  {
+    "uri": "en/42/863365",
+    "id": "863365",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Behavioural analysis of chemicals",
+    "harm": {
+      "id": "0033697",
+      "title": "863365 - Behavioural analysis of chemicals",
+      "conceptLink": "/ec2/concept/5982294"
+    }
+  },
+  {
+    "uri": "en/42/901695",
+    "id": "901695",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemical analysis",
+    "harm": {
+      "id": "0040897",
+      "title": "901695 - Biochemical analysis",
+      "conceptLink": "/ec2/concept/5988845"
+    }
+  },
+  {
+    "uri": "en/42/863377",
+    "id": "863377",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemical engineering services",
+    "harm": {
+      "id": "0027975",
+      "title": "863377 - Biochemical engineering services",
+      "conceptLink": "/ec2/concept/5977060"
+    }
+  },
+  {
+    "uri": "en/42/901694",
+    "id": "901694",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemical research",
+    "harm": {
+      "id": "0039500",
+      "title": "901694 - Biochemical research",
+      "conceptLink": "/ec2/concept/5987568"
+    }
+  },
+  {
+    "uri": "en/42/901058",
+    "id": "901058",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemical research and development",
+    "harm": {
+      "id": "0020777",
+      "title": "901058 - Biochemical research and development",
+      "conceptLink": "/ec2/concept/5970476"
+    }
+  },
+  {
+    "uri": "en/42/137166217",
+    "id": "137166217",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemical research and analysis",
+    "harm": {
+      "id": "0070406",
+      "title": "137166217 - Biochemical research and analysis",
+      "conceptLink": "/ec2/concept/6006599"
+    }
+  },
+  {
+    "uri": "en/42/137742756",
+    "id": "137742756",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemistry consultancy",
+    "harm": {
+      "id": "0051394",
+      "title": "137742756 - Biochemistry consultancy",
+      "conceptLink": "/ec2/concept/6010380"
+    }
+  },
+  {
+    "uri": "en/42/863392",
+    "id": "863392",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemistry research services",
+    "harm": {
+      "id": "0039500",
+      "title": "863392 - Biochemistry research services",
+      "conceptLink": "/ec2/concept/5987568"
+    }
+  },
+  {
+    "uri": "en/42/863407",
+    "id": "863407",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biochemistry services",
+    "harm": {
+      "id": "0004889",
+      "title": "863407 - Biochemistry services",
+      "conceptLink": "/ec2/concept/5955935"
+    }
+  },
+  {
+    "uri": "en/42/901696",
+    "id": "901696",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological analysis",
+    "harm": {
+      "id": "0000416",
+      "title": "901696 - Biological analysis",
+      "conceptLink": "/ec2/concept/5951862"
+    }
+  },
+  {
+    "uri": "en/42/901063",
+    "id": "901063",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological cloning services",
+    "harm": {
+      "id": "0043764",
+      "title": "901063 - Biological cloning services",
+      "conceptLink": "/ec2/concept/5991460"
+    }
+  },
+  {
+    "uri": "en/42/863419",
+    "id": "863419",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological development services",
+    "harm": {
+      "id": "0033698",
+      "title": "863419 - Biological development services",
+      "conceptLink": "/ec2/concept/5982295"
+    }
+  },
+  {
+    "uri": "en/42/22204774",
+    "id": "22204774",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological laboratory services",
+    "harm": {
+      "id": "0069441",
+      "title": "22204774 - Biological laboratory services",
+      "conceptLink": "/ec2/concept/6005644"
+    }
+  },
+  {
+    "uri": "en/42/64662",
+    "id": "64662",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological research",
+    "harm": {
+      "id": "0024657",
+      "title": "64662 - Biological research",
+      "conceptLink": "/ec2/concept/5974033"
+    }
+  },
+  {
+    "uri": "en/42/56488342",
+    "id": "56488342",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological research and analysis",
+    "harm": {
+      "id": "0070405",
+      "title": "56488342 - Biological research and analysis",
+      "conceptLink": "/ec2/concept/6006598"
+    }
+  },
+  {
+    "uri": "en/42/499598",
+    "id": "499598",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological research, clinical research and medical research",
+    "harm": {
+      "id": "0020980",
+      "title": "499598 - Biological research, clinical research and medical research",
+      "conceptLink": "/ec2/concept/5970659"
+    }
+  },
+  {
+    "uri": "en/42/54926899",
+    "id": "54926899",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological research laboratory services",
+    "harm": {
+      "id": "0070768",
+      "title": "54926899 - Biological research laboratory services",
+      "conceptLink": "/ec2/concept/6006960"
+    }
+  },
+  {
+    "uri": "en/42/64663",
+    "id": "64663",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biological research services",
+    "harm": {
+      "id": "0024657",
+      "title": "64663 - Biological research services",
+      "conceptLink": "/ec2/concept/5974033"
+    }
+  },
+  {
+    "uri": "en/42/137742672",
+    "id": "137742672",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biology consultancy",
+    "harm": {
+      "id": "0051393",
+      "title": "137742672 - Biology consultancy",
+      "conceptLink": "/ec2/concept/6010379"
+    }
+  },
+  {
+    "uri": "en/42/901073",
+    "id": "901073",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biomedical research services",
+    "harm": {
+      "id": "0003326",
+      "title": "901073 - Biomedical research services",
+      "conceptLink": "/ec2/concept/5954493"
+    }
+  },
+  {
+    "uri": "en/42/863464",
+    "id": "863464",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to agriculture",
+    "harm": {
+      "id": "0016421",
+      "title": "863464 - Biotechnological research relating to agriculture",
+      "conceptLink": "/ec2/concept/5966510"
+    }
+  },
+  {
+    "uri": "en/42/863477",
+    "id": "863477",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to enzymatic synthesis",
+    "harm": {
+      "id": "0010611",
+      "title": "863477 - Biotechnological research relating to enzymatic synthesis",
+      "conceptLink": "/ec2/concept/5961169"
+    }
+  },
+  {
+    "uri": "en/42/863517",
+    "id": "863517",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to livestock",
+    "harm": {
+      "id": "0033700",
+      "title": "863517 - Biotechnological research relating to livestock",
+      "conceptLink": "/ec2/concept/5982297"
+    }
+  },
+  {
+    "uri": "en/42/863490",
+    "id": "863490",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to horticulture",
+    "harm": {
+      "id": "0033699",
+      "title": "863490 - Biotechnological research relating to horticulture",
+      "conceptLink": "/ec2/concept/5982296"
+    }
+  },
+  {
+    "uri": "en/42/863439",
+    "id": "863439",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research",
+    "harm": {
+      "id": "0031555",
+      "title": "863439 - Biotechnological research",
+      "conceptLink": "/ec2/concept/5980341"
+    }
+  },
+  {
+    "uri": "en/42/863503",
+    "id": "863503",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to industry",
+    "harm": {
+      "id": "0039501",
+      "title": "863503 - Biotechnological research relating to industry",
+      "conceptLink": "/ec2/concept/5987569"
+    }
+  },
+  {
+    "uri": "en/42/863532",
+    "id": "863532",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnological research relating to the petroleum industry",
+    "harm": {
+      "id": "0045247",
+      "title": "863532 - Biotechnological research relating to the petroleum industry",
+      "conceptLink": "/ec2/concept/5992827"
+    }
+  },
+  {
+    "uri": "en/42/863438",
+    "id": "863438",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnology research",
+    "harm": {
+      "id": "0031555",
+      "title": "863438 - Biotechnology research",
+      "conceptLink": "/ec2/concept/5980341"
+    }
+  },
+  {
+    "uri": "en/42/863547",
+    "id": "863547",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Biotechnology research for determining the neuronal survival of molecules in animal models",
+    "harm": {
+      "id": "0033109",
+      "title": "863547 - Biotechnology research for determining the neuronal survival of molecules in animal models",
+      "conceptLink": "/ec2/concept/5981756"
+    }
+  }
+]

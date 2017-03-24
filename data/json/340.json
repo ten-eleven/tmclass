@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/12/189471",
+    "id": "189471",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vans",
+    "harm": {
+      "id": "0001458",
+      "title": "189471 - Motor vans",
+      "conceptLink": "/ec2/concept/5952800"
+    }
+  },
+  {
+    "uri": "en/12/192850",
+    "id": "192850",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicle bodies",
+    "harm": {
+      "id": "0036735",
+      "title": "192850 - Motor vehicle bodies",
+      "conceptLink": "/ec2/concept/5985055"
+    }
+  },
+  {
+    "uri": "en/12/337669",
+    "id": "337669",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicle horns",
+    "harm": {
+      "id": "0004125",
+      "title": "337669 - Motor vehicle horns",
+      "conceptLink": "/ec2/concept/5955219"
+    }
+  },
+  {
+    "uri": "en/12/189742",
+    "id": "189742",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicles",
+    "harm": {
+      "id": "0018935",
+      "title": "189742 - Motor vehicles",
+      "conceptLink": "/ec2/concept/5968799"
+    }
+  },
+  {
+    "uri": "en/12/125176023",
+    "id": "125176023",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicles (Chassis for -)",
+    "harm": {
+      "id": "0047292",
+      "title": "125176023 - Motor vehicles (Chassis for -)",
+      "conceptLink": "/ec2/concept/5994646"
+    }
+  },
+  {
+    "uri": "en/12/124971478",
+    "id": "124971478",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicles (Coachwork for -)",
+    "harm": {
+      "id": "0036735",
+      "title": "124971478 - Motor vehicles (Coachwork for -)",
+      "conceptLink": "/ec2/concept/5985055"
+    }
+  },
+  {
+    "uri": "en/12/745015",
+    "id": "745015",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor vehicles in kit form",
+    "harm": {
+      "id": "0022486",
+      "title": "745015 - Motor vehicles in kit form",
+      "conceptLink": "/ec2/concept/5972035"
+    }
+  },
+  {
+    "uri": "en/12/189740",
+    "id": "189740",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor water vehicles",
+    "harm": {
+      "id": "0028139",
+      "title": "189740 - Motor water vehicles",
+      "conceptLink": "/ec2/concept/5977209"
+    }
+  },
+  {
+    "uri": "en/12/338015",
+    "id": "338015",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motor yachts",
+    "harm": {
+      "id": "0018076",
+      "title": "338015 - Motor yachts",
+      "conceptLink": "/ec2/concept/5968001"
+    }
+  },
+  {
+    "uri": "en/12/187944",
+    "id": "187944",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorbicycles",
+    "harm": {
+      "id": "0046456",
+      "title": "187944 - Motorbicycles",
+      "conceptLink": "/ec2/concept/5993905"
+    }
+  },
+  {
+    "uri": "en/12/185703",
+    "id": "185703",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorbikes",
+    "harm": {
+      "id": "0046456",
+      "title": "185703 - Motorbikes",
+      "conceptLink": "/ec2/concept/5993905"
+    }
+  },
+  {
+    "uri": "en/12/338012",
+    "id": "338012",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorboats",
+    "harm": {
+      "id": "0018076",
+      "title": "338012 - Motorboats",
+      "conceptLink": "/ec2/concept/5968001"
+    }
+  },
+  {
+    "uri": "en/12/68951610",
+    "id": "68951610",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle chains",
+    "harm": {
+      "id": "0069927",
+      "title": "68951610 - Motorcycle chains",
+      "conceptLink": "/ec2/concept/6006130"
+    }
+  },
+  {
+    "uri": "en/12/40281254",
+    "id": "40281254",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle drive chains",
+    "harm": {
+      "id": "0008948",
+      "title": "40281254 - Motorcycle drive chains",
+      "conceptLink": "/ec2/concept/5959643"
+    }
+  },
+  {
+    "uri": "en/12/1210131",
+    "id": "1210131",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle engines",
+    "harm": {
+      "id": "0070098",
+      "title": "1210131 - Motorcycle engines",
+      "conceptLink": "/ec2/concept/6006300"
+    }
+  },
+  {
+    "uri": "en/12/119534025",
+    "id": "119534025",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle foot pegs",
+    "harm": {
+      "id": "0056008",
+      "title": "119534025 - Motorcycle foot pegs",
+      "conceptLink": "/ec2/concept/5997373"
+    }
+  },
+  {
+    "uri": "en/12/2927202",
+    "id": "2927202",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle frames",
+    "harm": {
+      "id": "0069928",
+      "title": "2927202 - Motorcycle frames",
+      "conceptLink": "/ec2/concept/6006131"
+    }
+  },
+  {
+    "uri": "en/12/905399",
+    "id": "905399",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle grip tape",
+    "harm": {
+      "id": "0013594",
+      "title": "905399 - Motorcycle grip tape",
+      "conceptLink": "/ec2/concept/5963890"
+    }
+  },
+  {
+    "uri": "en/12/103263077",
+    "id": "103263077",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle handlebars",
+    "harm": {
+      "id": "0022519",
+      "title": "103263077 - Motorcycle handlebars",
+      "conceptLink": "/ec2/concept/5972065"
+    }
+  },
+  {
+    "uri": "en/12/412201",
+    "id": "412201",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle kickstands",
+    "harm": {
+      "id": "0013121",
+      "title": "412201 - Motorcycle kickstands",
+      "conceptLink": "/ec2/concept/5963466"
+    }
+  },
+  {
+    "uri": "en/12/576935",
+    "id": "576935",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle saddlebags",
+    "harm": {
+      "id": "0036732",
+      "title": "576935 - Motorcycle saddlebags",
+      "conceptLink": "/ec2/concept/5985053"
+    }
+  },
+  {
+    "uri": "en/12/89902010",
+    "id": "89902010",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle saddles",
+    "harm": {
+      "id": "0057539",
+      "title": "89902010 - Motorcycle saddles",
+      "conceptLink": "/ec2/concept/5999044"
+    }
+  },
+  {
+    "uri": "en/12/191915",
+    "id": "191915",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle sidecars",
+    "harm": {
+      "id": "0011922",
+      "title": "191915 - Motorcycle sidecars",
+      "conceptLink": "/ec2/concept/5962373"
+    }
+  },
+  {
+    "uri": "en/12/132759443",
+    "id": "132759443",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle swing arms",
+    "harm": {
+      "id": "0071709",
+      "title": "132759443 - Motorcycle swing arms",
+      "conceptLink": "/ec2/concept/6007897"
+    }
+  },
+  {
+    "uri": "en/12/44615270",
+    "id": "44615270",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycle tires",
+    "harm": {
+      "id": "0021100",
+      "title": "44615270 - Motorcycle tires",
+      "conceptLink": "/ec2/concept/5970771"
+    }
+  },
+  {
+    "uri": "en/12/185704",
+    "id": "185704",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycles",
+    "harm": {
+      "id": "0046456",
+      "title": "185704 - Motorcycles",
+      "conceptLink": "/ec2/concept/5993905"
+    }
+  },
+  {
+    "uri": "en/12/338066",
+    "id": "338066",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorcycles for motocross",
+    "harm": {
+      "id": "0006466",
+      "title": "338066 - Motorcycles for motocross",
+      "conceptLink": "/ec2/concept/5957376"
+    }
+  },
+  {
+    "uri": "en/12/187945",
+    "id": "187945",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorised bicycles",
+    "harm": {
+      "id": "0046462",
+      "title": "187945 - Motorised bicycles",
+      "conceptLink": "/ec2/concept/5993910"
+    }
+  },
+  {
+    "uri": "en/12/412234",
+    "id": "412234",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorised buggies for the disabled and those with mobility difficulties",
+    "harm": {
+      "id": "0008917",
+      "title": "412234 - Motorised buggies for the disabled and those with mobility difficulties",
+      "conceptLink": "/ec2/concept/5959613"
+    }
+  },
+  {
+    "uri": "en/12/497247",
+    "id": "497247",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorised scooters for the disabled and those with mobility difficulties",
+    "harm": {
+      "id": "0004386",
+      "title": "497247 - Motorised scooters for the disabled and those with mobility difficulties",
+      "conceptLink": "/ec2/concept/5955467"
+    }
+  },
+  {
+    "uri": "en/12/905418",
+    "id": "905418",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorised wheelchairs for the disabled and those with mobility difficulties",
+    "harm": {
+      "id": "0040296",
+      "title": "905418 - Motorised wheelchairs for the disabled and those with mobility difficulties",
+      "conceptLink": "/ec2/concept/5988303"
+    }
+  },
+  {
+    "uri": "en/12/338016",
+    "id": "338016",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorised yachts",
+    "harm": {
+      "id": "0018076",
+      "title": "338016 - Motorised yachts",
+      "conceptLink": "/ec2/concept/5968001"
+    }
+  },
+  {
+    "uri": "en/12/412245",
+    "id": "412245",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized and computerized golf carts",
+    "harm": {
+      "id": "0020620",
+      "title": "412245 - Motorized and computerized golf carts",
+      "conceptLink": "/ec2/concept/5970325"
+    }
+  },
+  {
+    "uri": "en/12/412262",
+    "id": "412262",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized and non-motorized scooters for personal transportation",
+    "harm": {
+      "id": "0020621",
+      "title": "412262 - Motorized and non-motorized scooters for personal transportation",
+      "conceptLink": "/ec2/concept/5970326"
+    }
+  },
+  {
+    "uri": "en/12/119534040",
+    "id": "119534040",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized bicycles",
+    "harm": {
+      "id": "0046462",
+      "title": "119534040 - Motorized bicycles",
+      "conceptLink": "/ec2/concept/5993910"
+    }
+  },
+  {
+    "uri": "en/12/120895074",
+    "id": "120895074",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized food carts",
+    "harm": {
+      "id": "0066326",
+      "title": "120895074 - Motorized food carts",
+      "conceptLink": "/ec2/concept/6002529"
+    }
+  },
+  {
+    "uri": "en/12/412281",
+    "id": "412281",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized golf carts",
+    "harm": {
+      "id": "0043598",
+      "title": "412281 - Motorized golf carts",
+      "conceptLink": "/ec2/concept/5991312"
+    }
+  },
+  {
+    "uri": "en/12/137399898",
+    "id": "137399898",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized golf carts [vehicles]",
+    "harm": {
+      "id": "0043598",
+      "title": "137399898 - Motorized golf carts [vehicles]",
+      "conceptLink": "/ec2/concept/5991312"
+    }
+  },
+  {
+    "uri": "en/12/905430",
+    "id": "905430",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized golf trolleys",
+    "harm": {
+      "id": "0043598",
+      "title": "905430 - Motorized golf trolleys",
+      "conceptLink": "/ec2/concept/5991312"
+    }
+  },
+  {
+    "uri": "en/12/412297",
+    "id": "412297",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized luggage carts",
+    "harm": {
+      "id": "0043599",
+      "title": "412297 - Motorized luggage carts",
+      "conceptLink": "/ec2/concept/5991313"
+    }
+  },
+  {
+    "uri": "en/12/412316",
+    "id": "412316",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized scooters",
+    "harm": {
+      "id": "0035898",
+      "title": "412316 - Motorized scooters",
+      "conceptLink": "/ec2/concept/5984287"
+    }
+  },
+  {
+    "uri": "en/12/412349",
+    "id": "412349",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorized tailgates for trucks",
+    "harm": {
+      "id": "0026257",
+      "title": "412349 - Motorized tailgates for trucks",
+      "conceptLink": "/ec2/concept/5975498"
+    }
+  },
+  {
+    "uri": "en/12/1010136",
+    "id": "1010136",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motors and engines for land vehicles",
+    "harm": {
+      "id": "0058481",
+      "title": "1010136 - Motors and engines for land vehicles",
+      "conceptLink": "/ec2/concept/5999980"
+    }
+  },
+  {
+    "uri": "en/12/188573",
+    "id": "188573",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motors, electric, for land vehicles",
+    "harm": {
+      "id": "0040904",
+      "title": "188573 - Motors, electric, for land vehicles",
+      "conceptLink": "/ec2/concept/5988852"
+    }
+  },
+  {
+    "uri": "en/12/336982",
+    "id": "336982",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motors for automobiles",
+    "harm": {
+      "id": "0046617",
+      "title": "336982 - Motors for automobiles",
+      "conceptLink": "/ec2/concept/5994043"
+    }
+  },
+  {
+    "uri": "en/12/187942",
+    "id": "187942",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motors for cycles",
+    "harm": {
+      "id": "0046449",
+      "title": "187942 - Motors for cycles",
+      "conceptLink": "/ec2/concept/5993900"
+    }
+  },
+  {
+    "uri": "en/12/189734",
+    "id": "189734",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motors for land vehicles",
+    "harm": {
+      "id": "0058481",
+      "title": "189734 - Motors for land vehicles",
+      "conceptLink": "/ec2/concept/5999980"
+    }
+  },
+  {
+    "uri": "en/12/412362",
+    "id": "412362",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorsailers",
+    "harm": {
+      "id": "0006190",
+      "title": "412362 - Motorsailers",
+      "conceptLink": "/ec2/concept/5957124"
+    }
+  },
+  {
+    "uri": "en/12/412317",
+    "id": "412317",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Motorscooters",
+    "harm": {
+      "id": "0035898",
+      "title": "412317 - Motorscooters",
+      "conceptLink": "/ec2/concept/5984287"
+    }
+  },
+  {
+    "uri": "en/12/338085",
+    "id": "338085",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mountain bicycles",
+    "harm": {
+      "id": "0018077",
+      "title": "338085 - Mountain bicycles",
+      "conceptLink": "/ec2/concept/5968002"
+    }
+  },
+  {
+    "uri": "en/12/338086",
+    "id": "338086",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mountain bikes",
+    "harm": {
+      "id": "0018077",
+      "title": "338086 - Mountain bikes",
+      "conceptLink": "/ec2/concept/5968002"
+    }
+  },
+  {
+    "uri": "en/12/412374",
+    "id": "412374",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flap brackets as structural parts of vehicles",
+    "harm": {
+      "id": "0017742",
+      "title": "412374 - Mud flap brackets as structural parts of vehicles",
+      "conceptLink": "/ec2/concept/5967695"
+    }
+  },
+  {
+    "uri": "en/12/412387",
+    "id": "412387",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flap hangers",
+    "harm": {
+      "id": "0011976",
+      "title": "412387 - Mud flap hangers",
+      "conceptLink": "/ec2/concept/5962424"
+    }
+  },
+  {
+    "uri": "en/12/412401",
+    "id": "412401",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flap hold-downs",
+    "harm": {
+      "id": "0011977",
+      "title": "412401 - Mud flap hold-downs",
+      "conceptLink": "/ec2/concept/5962425"
+    }
+  },
+  {
+    "uri": "en/12/412413",
+    "id": "412413",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flap holders",
+    "harm": {
+      "id": "0035083",
+      "title": "412413 - Mud flap holders",
+      "conceptLink": "/ec2/concept/5983551"
+    }
+  },
+  {
+    "uri": "en/12/412427",
+    "id": "412427",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flap weights",
+    "harm": {
+      "id": "0035084",
+      "title": "412427 - Mud flap weights",
+      "conceptLink": "/ec2/concept/5983552"
+    }
+  },
+  {
+    "uri": "en/12/412462",
+    "id": "412462",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud flaps for vehicles",
+    "harm": {
+      "id": "0023581",
+      "title": "412462 - Mud flaps for vehicles",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/411802",
+    "id": "411802",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mud guards [land vehicle parts]",
+    "harm": {
+      "id": "0020578",
+      "title": "411802 - Mud guards [land vehicle parts]",
+      "conceptLink": "/ec2/concept/5970284"
+    }
+  },
+  {
+    "uri": "en/12/186077",
+    "id": "186077",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards",
+    "harm": {
+      "id": "0006486",
+      "title": "186077 - Mudguards",
+      "conceptLink": "/ec2/concept/5957393"
+    }
+  },
+  {
+    "uri": "en/12/338114",
+    "id": "338114",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards [for automobiles]",
+    "harm": {
+      "id": "0023581",
+      "title": "338114 - Mudguards [for automobiles]",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/131101329",
+    "id": "131101329",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for automobiles",
+    "harm": {
+      "id": "0023581",
+      "title": "131101329 - Mudguards for automobiles",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/10390085",
+    "id": "10390085",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for bicycles",
+    "harm": {
+      "id": "0001982",
+      "title": "10390085 - Mudguards for bicycles",
+      "conceptLink": "/ec2/concept/5953273"
+    }
+  },
+  {
+    "uri": "en/12/120895068",
+    "id": "120895068",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for motorcycles",
+    "harm": {
+      "id": "0066328",
+      "title": "120895068 - Mudguards for motorcycles",
+      "conceptLink": "/ec2/concept/6002531"
+    }
+  },
+  {
+    "uri": "en/12/77869954",
+    "id": "77869954",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for trucks",
+    "harm": {
+      "id": "0066327",
+      "title": "77869954 - Mudguards for trucks",
+      "conceptLink": "/ec2/concept/6002530"
+    }
+  },
+  {
+    "uri": "en/12/137002946",
+    "id": "137002946",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for two-wheeled bicycles",
+    "harm": {
+      "id": "0001982",
+      "title": "137002946 - Mudguards for two-wheeled bicycles",
+      "conceptLink": "/ec2/concept/5953273"
+    }
+  },
+  {
+    "uri": "en/12/131041084",
+    "id": "131041084",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for two-wheeled motor vehicles or bicycles",
+    "harm": {
+      "id": "0056009",
+      "title": "131041084 - Mudguards for two-wheeled motor vehicles or bicycles",
+      "conceptLink": "/ec2/concept/5997374"
+    }
+  },
+  {
+    "uri": "en/12/338115",
+    "id": "338115",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudguards for vehicles",
+    "harm": {
+      "id": "0023581",
+      "title": "338115 - Mudguards for vehicles",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/412463",
+    "id": "412463",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Mudwings for vehicles",
+    "harm": {
+      "id": "0023581",
+      "title": "412463 - Mudwings for vehicles",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/745028",
+    "id": "745028",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Municipal tractors",
+    "harm": {
+      "id": "0029766",
+      "title": "745028 - Municipal tractors",
+      "conceptLink": "/ec2/concept/5978713"
+    }
+  },
+  {
+    "uri": "en/12/423067",
+    "id": "423067",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-motorized, collapsible luggage carts",
+    "harm": {
+      "id": "0036716",
+      "title": "423067 - Non-motorized, collapsible luggage carts",
+      "conceptLink": "/ec2/concept/5985040"
+    }
+  },
+  {
+    "uri": "en/12/412512",
+    "id": "412512",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-motorized food carts",
+    "harm": {
+      "id": "0011978",
+      "title": "412512 - Non-motorized food carts",
+      "conceptLink": "/ec2/concept/5962426"
+    }
+  },
+  {
+    "uri": "en/12/412524",
+    "id": "412524",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-motorized scooters [vehicles]",
+    "harm": {
+      "id": "0000405",
+      "title": "412524 - Non-motorized scooters [vehicles]",
+      "conceptLink": "/ec2/concept/5951852"
+    }
+  },
+  {
+    "uri": "en/12/740328",
+    "id": "740328",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid chains for vehicle wheels",
+    "harm": {
+      "id": "0035567",
+      "title": "740328 - Non-skid chains for vehicle wheels",
+      "conceptLink": "/ec2/concept/5983992"
+    }
+  },
+  {
+    "uri": "en/12/137846585",
+    "id": "137846585",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid devices for automobile tires",
+    "harm": {
+      "id": "0071702",
+      "title": "137846585 - Non-skid devices for automobile tires",
+      "conceptLink": "/ec2/concept/6007890"
+    }
+  },
+  {
+    "uri": "en/12/183750",
+    "id": "183750",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid devices for vehicle wheel tires",
+    "harm": {
+      "id": "0043216",
+      "title": "183750 - Non-skid devices for vehicle wheel tires",
+      "conceptLink": "/ec2/concept/5990960"
+    }
+  },
+  {
+    "uri": "en/12/183747",
+    "id": "183747",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid devices for vehicle tires [tyres]",
+    "harm": {
+      "id": "0043216",
+      "title": "183747 - Non-skid devices for vehicle tires [tyres]",
+      "conceptLink": "/ec2/concept/5990960"
+    }
+  },
+  {
+    "uri": "en/12/11472981",
+    "id": "11472981",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid devices for vehicle tyres",
+    "harm": {
+      "id": "0043216",
+      "title": "11472981 - Non-skid devices for vehicle tyres",
+      "conceptLink": "/ec2/concept/5990960"
+    }
+  },
+  {
+    "uri": "en/12/1466974",
+    "id": "1466974",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Non-skid devices for vehicle tires",
+    "harm": {
+      "id": "0043216",
+      "title": "1466974 - Non-skid devices for vehicle tires",
+      "conceptLink": "/ec2/concept/5990960"
+    }
+  },
+  {
+    "uri": "en/12/120904710",
+    "id": "120904710",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Numberplate fasteners",
+    "harm": {
+      "id": "0066366",
+      "title": "120904710 - Numberplate fasteners",
+      "conceptLink": "/ec2/concept/6002569"
+    }
+  },
+  {
+    "uri": "en/12/120904699",
+    "id": "120904699",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Numberplate holders",
+    "harm": {
+      "id": "0066365",
+      "title": "120904699 - Numberplate holders",
+      "conceptLink": "/ec2/concept/6002568"
+    }
+  },
+  {
+    "uri": "en/12/119534077",
+    "id": "119534077",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Oarlocks",
+    "harm": {
+      "id": "0011417",
+      "title": "119534077 - Oarlocks",
+      "conceptLink": "/ec2/concept/5961905"
+    }
+  },
+  {
+    "uri": "en/12/185453",
+    "id": "185453",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Oars",
+    "harm": {
+      "id": "0006485",
+      "title": "185453 - Oars",
+      "conceptLink": "/ec2/concept/5957392"
+    }
+  },
+  {
+    "uri": "en/12/745043",
+    "id": "745043",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Off-road vehicles",
+    "harm": {
+      "id": "0038935",
+      "title": "745043 - Off-road vehicles",
+      "conceptLink": "/ec2/concept/5987054"
+    }
+  },
+  {
+    "uri": "en/12/183992",
+    "id": "183992",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Omnibuses",
+    "harm": {
+      "id": "0059371",
+      "title": "183992 - Omnibuses",
+      "conceptLink": "/ec2/concept/6000853"
+    }
+  },
+  {
+    "uri": "en/12/900176",
+    "id": "900176",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Opening mechanisms roofs for vehicles",
+    "harm": {
+      "id": "0012290",
+      "title": "900176 - Opening mechanisms roofs for vehicles",
+      "conceptLink": "/ec2/concept/5962711"
+    }
+  },
+  {
+    "uri": "en/12/745062",
+    "id": "745062",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Ornamental hub caps for vehicles",
+    "harm": {
+      "id": "0029768",
+      "title": "745062 - Ornamental hub caps for vehicles",
+      "conceptLink": "/ec2/concept/5978714"
+    }
+  },
+  {
+    "uri": "en/12/745077",
+    "id": "745077",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Ornamental wheel covers for vehicles",
+    "harm": {
+      "id": "0029769",
+      "title": "745077 - Ornamental wheel covers for vehicles",
+      "conceptLink": "/ec2/concept/5978715"
+    }
+  },
+  {
+    "uri": "en/12/745078",
+    "id": "745078",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Ornamental wheel shields for vehicles",
+    "harm": {
+      "id": "0029769",
+      "title": "745078 - Ornamental wheel shields for vehicles",
+      "conceptLink": "/ec2/concept/5978715"
+    }
+  },
+  {
+    "uri": "en/12/136164677",
+    "id": "136164677",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Outriggers for watercraft",
+    "harm": {
+      "id": "0050745",
+      "title": "136164677 - Outriggers for watercraft",
+      "conceptLink": "/ec2/concept/5996110"
+    }
+  },
+  {
+    "uri": "en/12/745098",
+    "id": "745098",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Overdrive units for land vehicles",
+    "harm": {
+      "id": "0041334",
+      "title": "745098 - Overdrive units for land vehicles",
+      "conceptLink": "/ec2/concept/5989254"
+    }
+  },
+  {
+    "uri": "en/12/745116",
+    "id": "745116",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Paddle boats",
+    "harm": {
+      "id": "0024036",
+      "title": "745116 - Paddle boats",
+      "conceptLink": "/ec2/concept/5973460"
+    }
+  },
+  {
+    "uri": "en/12/137882547",
+    "id": "137882547",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Paddle steamers",
+    "harm": {
+      "id": "0071673",
+      "title": "137882547 - Paddle steamers",
+      "conceptLink": "/ec2/concept/6007862"
+    }
+  },
+  {
+    "uri": "en/12/190727",
+    "id": "190727",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Paddles for canoes",
+    "harm": {
+      "id": "0034116",
+      "title": "190727 - Paddles for canoes",
+      "conceptLink": "/ec2/concept/5982682"
+    }
+  },
+  {
+    "uri": "en/12/497232",
+    "id": "497232",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Paddles [kayak equipment]",
+    "harm": {
+      "id": "0015930",
+      "title": "497232 - Paddles [kayak equipment]",
+      "conceptLink": "/ec2/concept/5966054"
+    }
+  },
+  {
+    "uri": "en/12/745144",
+    "id": "745144",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Pallet transfer trucks",
+    "harm": {
+      "id": "0018229",
+      "title": "745144 - Pallet transfer trucks",
+      "conceptLink": "/ec2/concept/5968144"
+    }
+  },
+  {
+    "uri": "en/12/745159",
+    "id": "745159",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Panels for vehicle bodies [shaped]",
+    "harm": {
+      "id": "0006628",
+      "title": "745159 - Panels for vehicle bodies [shaped]",
+      "conceptLink": "/ec2/concept/5957525"
+    }
+  },
+  {
+    "uri": "en/12/18548965",
+    "id": "18548965",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Panniers adapted for bicycles",
+    "harm": {
+      "id": "0006397",
+      "title": "18548965 - Panniers adapted for bicycles",
+      "conceptLink": "/ec2/concept/5957316"
+    }
+  },
+  {
+    "uri": "en/12/194489",
+    "id": "194489",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Panniers adapted for cycles",
+    "harm": {
+      "id": "0006397",
+      "title": "194489 - Panniers adapted for cycles",
+      "conceptLink": "/ec2/concept/5957316"
+    }
+  },
+  {
+    "uri": "en/12/63450554",
+    "id": "63450554",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Panniers adapted for motorcycles",
+    "harm": {
+      "id": "0069929",
+      "title": "63450554 - Panniers adapted for motorcycles",
+      "conceptLink": "/ec2/concept/6006132"
+    }
+  },
+  {
+    "uri": "en/12/576934",
+    "id": "576934",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Panniers for motorcycles",
+    "harm": {
+      "id": "0036732",
+      "title": "576934 - Panniers for motorcycles",
+      "conceptLink": "/ec2/concept/5985053"
+    }
+  }
+]

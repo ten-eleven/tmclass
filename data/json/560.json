@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/30/441067",
+    "id": "441067",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for beverages",
+    "harm": {
+      "id": "0024168",
+      "title": "441067 - Flavourings for beverages",
+      "conceptLink": "/ec2/concept/5973585"
+    }
+  },
+  {
+    "uri": "en/30/360022",
+    "id": "360022",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for butter",
+    "harm": {
+      "id": "0026227",
+      "title": "360022 - Flavourings for butter",
+      "conceptLink": "/ec2/concept/5975472"
+    }
+  },
+  {
+    "uri": "en/30/441090",
+    "id": "441090",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for cakes",
+    "harm": {
+      "id": "0012552",
+      "title": "441090 - Flavourings for cakes",
+      "conceptLink": "/ec2/concept/5962949"
+    }
+  },
+  {
+    "uri": "en/30/295432",
+    "id": "295432",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for cakes other than essential oils",
+    "harm": {
+      "id": "0023877",
+      "title": "295432 - Flavourings for cakes other than essential oils",
+      "conceptLink": "/ec2/concept/5973310"
+    }
+  },
+  {
+    "uri": "en/30/360037",
+    "id": "360037",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for cheeses",
+    "harm": {
+      "id": "0014727",
+      "title": "360037 - Flavourings for cheeses",
+      "conceptLink": "/ec2/concept/5964938"
+    }
+  },
+  {
+    "uri": "en/30/903767",
+    "id": "903767",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for foods",
+    "harm": {
+      "id": "0008761",
+      "title": "903767 - Flavourings for foods",
+      "conceptLink": "/ec2/concept/5959465"
+    }
+  },
+  {
+    "uri": "en/30/782063",
+    "id": "782063",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for snack foods [other than essential oils]",
+    "harm": {
+      "id": "0022839",
+      "title": "782063 - Flavourings for snack foods [other than essential oils]",
+      "conceptLink": "/ec2/concept/5972359"
+    }
+  },
+  {
+    "uri": "en/30/360052",
+    "id": "360052",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for soups",
+    "harm": {
+      "id": "0043565",
+      "title": "360052 - Flavourings for soups",
+      "conceptLink": "/ec2/concept/5991284"
+    }
+  },
+  {
+    "uri": "en/30/782079",
+    "id": "782079",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings for soups [other than essential oils]",
+    "harm": {
+      "id": "0040038",
+      "title": "782079 - Flavourings for soups [other than essential oils]",
+      "conceptLink": "/ec2/concept/5988065"
+    }
+  },
+  {
+    "uri": "en/30/499117",
+    "id": "499117",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings in the form of dehydrated sauces",
+    "harm": {
+      "id": "0002764",
+      "title": "499117 - Flavourings in the form of dehydrated sauces",
+      "conceptLink": "/ec2/concept/5953975"
+    }
+  },
+  {
+    "uri": "en/30/441111",
+    "id": "441111",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings in the form of concentrated sauces",
+    "harm": {
+      "id": "0006754",
+      "title": "441111 - Flavourings in the form of concentrated sauces",
+      "conceptLink": "/ec2/concept/5957640"
+    }
+  },
+  {
+    "uri": "en/30/782094",
+    "id": "782094",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from fish",
+    "harm": {
+      "id": "0016976",
+      "title": "782094 - Flavourings made from fish",
+      "conceptLink": "/ec2/concept/5967003"
+    }
+  },
+  {
+    "uri": "en/30/782108",
+    "id": "782108",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from fruits [other than essential oils]",
+    "harm": {
+      "id": "0034294",
+      "title": "782108 - Flavourings made from fruits [other than essential oils]",
+      "conceptLink": "/ec2/concept/5982839"
+    }
+  },
+  {
+    "uri": "en/30/441128",
+    "id": "441128",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from fruits",
+    "harm": {
+      "id": "0006755",
+      "title": "441128 - Flavourings made from fruits",
+      "conceptLink": "/ec2/concept/5957641"
+    }
+  },
+  {
+    "uri": "en/30/782124",
+    "id": "782124",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from lobsters",
+    "harm": {
+      "id": "0034295",
+      "title": "782124 - Flavourings made from lobsters",
+      "conceptLink": "/ec2/concept/5982840"
+    }
+  },
+  {
+    "uri": "en/30/782136",
+    "id": "782136",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from meat",
+    "harm": {
+      "id": "0040039",
+      "title": "782136 - Flavourings made from meat",
+      "conceptLink": "/ec2/concept/5988066"
+    }
+  },
+  {
+    "uri": "en/30/782152",
+    "id": "782152",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from pickles",
+    "harm": {
+      "id": "0045785",
+      "title": "782152 - Flavourings made from pickles",
+      "conceptLink": "/ec2/concept/5993318"
+    }
+  },
+  {
+    "uri": "en/30/782165",
+    "id": "782165",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from poultry",
+    "harm": {
+      "id": "0028500",
+      "title": "782165 - Flavourings made from poultry",
+      "conceptLink": "/ec2/concept/5977548"
+    }
+  },
+  {
+    "uri": "en/30/782177",
+    "id": "782177",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from shrimps",
+    "harm": {
+      "id": "0038589",
+      "title": "782177 - Flavourings made from shrimps",
+      "conceptLink": "/ec2/concept/5986746"
+    }
+  },
+  {
+    "uri": "en/30/782190",
+    "id": "782190",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from snails",
+    "harm": {
+      "id": "0003931",
+      "title": "782190 - Flavourings made from snails",
+      "conceptLink": "/ec2/concept/5955048"
+    }
+  },
+  {
+    "uri": "en/30/782202",
+    "id": "782202",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings made from vegetables [other than essential oils]",
+    "harm": {
+      "id": "0009685",
+      "title": "782202 - Flavourings made from vegetables [other than essential oils]",
+      "conceptLink": "/ec2/concept/5960326"
+    }
+  },
+  {
+    "uri": "en/30/297993",
+    "id": "297993",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings [not essential oils]",
+    "harm": {
+      "id": "0073976",
+      "title": "297993 - Flavourings [not essential oils]",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/360068",
+    "id": "360068",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of almond",
+    "harm": {
+      "id": "0032012",
+      "title": "360068 - Flavourings of almond",
+      "conceptLink": "/ec2/concept/5980752"
+    }
+  },
+  {
+    "uri": "en/30/137173749",
+    "id": "137173749",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of almond for food or beverages",
+    "harm": {
+      "id": "0060335",
+      "title": "137173749 - Flavourings of almond for food or beverages",
+      "conceptLink": "/ec2/concept/5998311"
+    }
+  },
+  {
+    "uri": "en/30/232605481",
+    "id": "232605481",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of almond, other than essential oils, for food or beverages",
+    "harm": {
+      "id": "0060335",
+      "title": "232605481 - Flavourings of almond, other than essential oils, for food or beverages",
+      "conceptLink": "/ec2/concept/5998311"
+    }
+  },
+  {
+    "uri": "en/30/360080",
+    "id": "360080",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of lemons",
+    "harm": {
+      "id": "0037801",
+      "title": "360080 - Flavourings of lemons",
+      "conceptLink": "/ec2/concept/5986018"
+    }
+  },
+  {
+    "uri": "en/30/137176514",
+    "id": "137176514",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of lemons for food or beverages",
+    "harm": {
+      "id": "0060394",
+      "title": "137176514 - Flavourings of lemons for food or beverages",
+      "conceptLink": "/ec2/concept/5998368"
+    }
+  },
+  {
+    "uri": "en/30/232605482",
+    "id": "232605482",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of lemons, other than essential oils, for food or beverages",
+    "harm": {
+      "id": "0060394",
+      "title": "232605482 - Flavourings of lemons, other than essential oils, for food or beverages",
+      "conceptLink": "/ec2/concept/5998368"
+    }
+  },
+  {
+    "uri": "en/30/360092",
+    "id": "360092",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of tea",
+    "harm": {
+      "id": "0020576",
+      "title": "360092 - Flavourings of tea",
+      "conceptLink": "/ec2/concept/5970283"
+    }
+  },
+  {
+    "uri": "en/30/137173628",
+    "id": "137173628",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings of tea for food or beverages",
+    "harm": {
+      "id": "0020576",
+      "title": "137173628 - Flavourings of tea for food or beverages",
+      "conceptLink": "/ec2/concept/5970283"
+    }
+  },
+  {
+    "uri": "en/30/232605486",
+    "id": "232605486",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for cheeses",
+    "harm": {
+      "id": "0014727",
+      "title": "232605486 - Flavourings, other than essential oils, for cheeses",
+      "conceptLink": "/ec2/concept/5964938"
+    }
+  },
+  {
+    "uri": "en/30/232605485",
+    "id": "232605485",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for butter",
+    "harm": {
+      "id": "0026227",
+      "title": "232605485 - Flavourings, other than essential oils, for butter",
+      "conceptLink": "/ec2/concept/5975472"
+    }
+  },
+  {
+    "uri": "en/30/232605487",
+    "id": "232605487",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for foods",
+    "harm": {
+      "id": "0073976",
+      "title": "232605487 - Flavourings, other than essential oils, for foods",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/120897146",
+    "id": "120897146",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for soups",
+    "harm": {
+      "id": "0040038",
+      "title": "120897146 - Flavourings, other than essential oils, for soups",
+      "conceptLink": "/ec2/concept/5988065"
+    }
+  },
+  {
+    "uri": "en/30/298045",
+    "id": "298045",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for beverages",
+    "harm": {
+      "id": "0012284",
+      "title": "298045 - Flavourings, other than essential oils, for beverages",
+      "conceptLink": "/ec2/concept/5962705"
+    }
+  },
+  {
+    "uri": "en/30/295434",
+    "id": "295434",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flavourings, other than essential oils, for cakes",
+    "harm": {
+      "id": "0023877",
+      "title": "295434 - Flavourings, other than essential oils, for cakes",
+      "conceptLink": "/ec2/concept/5973310"
+    }
+  },
+  {
+    "uri": "en/30/232605490",
+    "id": "232605490",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flaxseed for culinary purposes [seasoning]",
+    "harm": {
+      "id": "0025489",
+      "title": "232605490 - Flaxseed for culinary purposes [seasoning]",
+      "conceptLink": "/ec2/concept/5974799"
+    }
+  },
+  {
+    "uri": "en/30/911489",
+    "id": "911489",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flaxseed for human consumption",
+    "harm": {
+      "id": "0025489",
+      "title": "911489 - Flaxseed for human consumption",
+      "conceptLink": "/ec2/concept/5974799"
+    }
+  },
+  {
+    "uri": "en/30/94379120",
+    "id": "94379120",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Floating islands",
+    "harm": {
+      "id": "0067628",
+      "title": "94379120 - Floating islands",
+      "conceptLink": "/ec2/concept/6003831"
+    }
+  },
+  {
+    "uri": "en/30/119546333",
+    "id": "119546333",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour",
+    "harm": {
+      "id": "0013151",
+      "title": "119546333 - Flour",
+      "conceptLink": "/ec2/concept/5963495"
+    }
+  },
+  {
+    "uri": "en/30/441178",
+    "id": "441178",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour based chips",
+    "harm": {
+      "id": "0018385",
+      "title": "441178 - Flour based chips",
+      "conceptLink": "/ec2/concept/5968284"
+    }
+  },
+  {
+    "uri": "en/30/120897092",
+    "id": "120897092",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour-based dumplings",
+    "harm": {
+      "id": "0067600",
+      "title": "120897092 - Flour-based dumplings",
+      "conceptLink": "/ec2/concept/6003803"
+    }
+  },
+  {
+    "uri": "en/30/94379164",
+    "id": "94379164",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour-based gnocchi",
+    "harm": {
+      "id": "0067626",
+      "title": "94379164 - Flour-based gnocchi",
+      "conceptLink": "/ec2/concept/6003829"
+    }
+  },
+  {
+    "uri": "en/30/782217",
+    "id": "782217",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour based savory snacks",
+    "harm": {
+      "id": "0009686",
+      "title": "782217 - Flour based savory snacks",
+      "conceptLink": "/ec2/concept/5960327"
+    }
+  },
+  {
+    "uri": "en/30/782232",
+    "id": "782232",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour concentrate for food",
+    "harm": {
+      "id": "0021397",
+      "title": "782232 - Flour concentrate for food",
+      "conceptLink": "/ec2/concept/5971038"
+    }
+  },
+  {
+    "uri": "en/30/782244",
+    "id": "782244",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour confectionery",
+    "harm": {
+      "id": "0044370",
+      "title": "782244 - Flour confectionery",
+      "conceptLink": "/ec2/concept/5992017"
+    }
+  },
+  {
+    "uri": "en/30/782263",
+    "id": "782263",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour for baking",
+    "harm": {
+      "id": "0009687",
+      "title": "782263 - Flour for baking",
+      "conceptLink": "/ec2/concept/5960328"
+    }
+  },
+  {
+    "uri": "en/30/782283",
+    "id": "782283",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour for doughnuts",
+    "harm": {
+      "id": "0038590",
+      "title": "782283 - Flour for doughnuts",
+      "conceptLink": "/ec2/concept/5986747"
+    }
+  },
+  {
+    "uri": "en/30/2352744",
+    "id": "2352744",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour for food",
+    "harm": {
+      "id": "0001165",
+      "title": "2352744 - Flour for food",
+      "conceptLink": "/ec2/concept/5952538"
+    }
+  },
+  {
+    "uri": "en/30/360106",
+    "id": "360106",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour for making dumplings of glutinous rice",
+    "harm": {
+      "id": "0043566",
+      "title": "360106 - Flour for making dumplings of glutinous rice",
+      "conceptLink": "/ec2/concept/5991285"
+    }
+  },
+  {
+    "uri": "en/30/782298",
+    "id": "782298",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour mixes",
+    "harm": {
+      "id": "0015513",
+      "title": "782298 - Flour mixes",
+      "conceptLink": "/ec2/concept/5965658"
+    }
+  },
+  {
+    "uri": "en/30/782312",
+    "id": "782312",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour mixtures for use in baking",
+    "harm": {
+      "id": "0038591",
+      "title": "782312 - Flour mixtures for use in baking",
+      "conceptLink": "/ec2/concept/5986748"
+    }
+  },
+  {
+    "uri": "en/30/295098",
+    "id": "295098",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour of barley",
+    "harm": {
+      "id": "0042036",
+      "title": "295098 - Flour of barley",
+      "conceptLink": "/ec2/concept/5989889"
+    }
+  },
+  {
+    "uri": "en/30/294994",
+    "id": "294994",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour of corn",
+    "harm": {
+      "id": "0012979",
+      "title": "294994 - Flour of corn",
+      "conceptLink": "/ec2/concept/5963336"
+    }
+  },
+  {
+    "uri": "en/30/782324",
+    "id": "782324",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour of millet",
+    "harm": {
+      "id": "0011519",
+      "title": "782324 - Flour of millet",
+      "conceptLink": "/ec2/concept/5961996"
+    }
+  },
+  {
+    "uri": "en/30/298281",
+    "id": "298281",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour of oats",
+    "harm": {
+      "id": "0028852",
+      "title": "298281 - Flour of oats",
+      "conceptLink": "/ec2/concept/5977879"
+    }
+  },
+  {
+    "uri": "en/30/361165",
+    "id": "361165",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour of rice",
+    "harm": {
+      "id": "0037166",
+      "title": "361165 - Flour of rice",
+      "conceptLink": "/ec2/concept/5985443"
+    }
+  },
+  {
+    "uri": "en/30/294921",
+    "id": "294921",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour preparations for food",
+    "harm": {
+      "id": "0013151",
+      "title": "294921 - Flour preparations for food",
+      "conceptLink": "/ec2/concept/5963495"
+    }
+  },
+  {
+    "uri": "en/30/782264",
+    "id": "782264",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flour ready for baking",
+    "harm": {
+      "id": "0009687",
+      "title": "782264 - Flour ready for baking",
+      "conceptLink": "/ec2/concept/5960328"
+    }
+  },
+  {
+    "uri": "en/30/135623008",
+    "id": "135623008",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Flowers or leaves for use as tea substitutes",
+    "harm": {
+      "id": "0050019",
+      "title": "135623008 - Flowers or leaves for use as tea substitutes",
+      "conceptLink": "/ec2/concept/5995429"
+    }
+  },
+  {
+    "uri": "en/30/782337",
+    "id": "782337",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foamed sugar pastilles",
+    "harm": {
+      "id": "0040426",
+      "title": "782337 - Foamed sugar pastilles",
+      "conceptLink": "/ec2/concept/5988419"
+    }
+  },
+  {
+    "uri": "en/30/782350",
+    "id": "782350",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foamed sugar sweets",
+    "harm": {
+      "id": "0017308",
+      "title": "782350 - Foamed sugar sweets",
+      "conceptLink": "/ec2/concept/5967302"
+    }
+  },
+  {
+    "uri": "en/30/295294",
+    "id": "295294",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fondants",
+    "harm": {
+      "id": "0029607",
+      "title": "295294 - Fondants",
+      "conceptLink": "/ec2/concept/5978567"
+    }
+  },
+  {
+    "uri": "en/30/295293",
+    "id": "295293",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fondants [confectionery]",
+    "harm": {
+      "id": "0029607",
+      "title": "295293 - Fondants [confectionery]",
+      "conceptLink": "/ec2/concept/5978567"
+    }
+  },
+  {
+    "uri": "en/30/903847",
+    "id": "903847",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food condiment consisting primarily of ketchup and salsa",
+    "harm": {
+      "id": "0026109",
+      "title": "903847 - Food condiment consisting primarily of ketchup and salsa",
+      "conceptLink": "/ec2/concept/5975362"
+    }
+  },
+  {
+    "uri": "en/30/782362",
+    "id": "782362",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food dressings [sauces]",
+    "harm": {
+      "id": "0028853",
+      "title": "782362 - Food dressings [sauces]",
+      "conceptLink": "/ec2/concept/5977880"
+    }
+  },
+  {
+    "uri": "en/30/294576",
+    "id": "294576",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food essences [except etheric essences and essential oils]",
+    "harm": {
+      "id": "0020466",
+      "title": "294576 - Food essences [except etheric essences and essential oils]",
+      "conceptLink": "/ec2/concept/5970185"
+    }
+  },
+  {
+    "uri": "en/30/441197",
+    "id": "441197",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food flavorings [non-essential oils]",
+    "harm": {
+      "id": "0073976",
+      "title": "441197 - Food flavorings [non-essential oils]",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/120814183",
+    "id": "120814183",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food flavorings, other than essential oils",
+    "harm": {
+      "id": "0073976",
+      "title": "120814183 - Food flavorings, other than essential oils",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/903766",
+    "id": "903766",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food flavourings",
+    "harm": {
+      "id": "0008761",
+      "title": "903766 - Food flavourings",
+      "conceptLink": "/ec2/concept/5959465"
+    }
+  },
+  {
+    "uri": "en/30/441198",
+    "id": "441198",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food flavourings [other than essential oils]",
+    "harm": {
+      "id": "0073976",
+      "title": "441198 - Food flavourings [other than essential oils]",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/132784748",
+    "id": "132784748",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food flavourings, other than essential oils",
+    "harm": {
+      "id": "0073976",
+      "title": "132784748 - Food flavourings, other than essential oils",
+      "conceptLink": "/ec2/concept/6011212"
+    }
+  },
+  {
+    "uri": "en/30/441225",
+    "id": "441225",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food leavening agents",
+    "harm": {
+      "id": "0045993",
+      "title": "441225 - Food leavening agents",
+      "conceptLink": "/ec2/concept/5993510"
+    }
+  },
+  {
+    "uri": "en/30/782377",
+    "id": "782377",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food mixtures consisting of cereal flakes and dried fruits",
+    "harm": {
+      "id": "0004385",
+      "title": "782377 - Food mixtures consisting of cereal flakes and dried fruits",
+      "conceptLink": "/ec2/concept/5955466"
+    }
+  },
+  {
+    "uri": "en/30/782391",
+    "id": "782391",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food preparations based on grains",
+    "harm": {
+      "id": "0021837",
+      "title": "782391 - Food preparations based on grains",
+      "conceptLink": "/ec2/concept/5971441"
+    }
+  },
+  {
+    "uri": "en/30/778385",
+    "id": "778385",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Food seasonings",
+    "harm": {
+      "id": "0036953",
+      "title": "778385 - Food seasonings",
+      "conceptLink": "/ec2/concept/5985253"
+    }
+  },
+  {
+    "uri": "en/30/295191",
+    "id": "295191",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foods (Farinaceous -)",
+    "harm": {
+      "id": "0018990",
+      "title": "295191 - Foods (Farinaceous -)",
+      "conceptLink": "/ec2/concept/5968849"
+    }
+  },
+  {
+    "uri": "en/30/782406",
+    "id": "782406",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foods produced from baked cereals",
+    "harm": {
+      "id": "0010105",
+      "title": "782406 - Foods produced from baked cereals",
+      "conceptLink": "/ec2/concept/5960704"
+    }
+  },
+  {
+    "uri": "en/30/782421",
+    "id": "782421",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foods with a cocoa base",
+    "harm": {
+      "id": "0039033",
+      "title": "782421 - Foods with a cocoa base",
+      "conceptLink": "/ec2/concept/5987145"
+    }
+  },
+  {
+    "uri": "en/30/782436",
+    "id": "782436",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs containing chocolate [as the main constituent]",
+    "harm": {
+      "id": "0015929",
+      "title": "782436 - Foodstuffs containing chocolate [as the main constituent]",
+      "conceptLink": "/ec2/concept/5966053"
+    }
+  },
+  {
+    "uri": "en/30/782447",
+    "id": "782447",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs containing cocoa [as the main constituent]",
+    "harm": {
+      "id": "0039034",
+      "title": "782447 - Foodstuffs containing cocoa [as the main constituent]",
+      "conceptLink": "/ec2/concept/5987146"
+    }
+  },
+  {
+    "uri": "en/30/294578",
+    "id": "294578",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs (Essences for -), except etheric essences and essential oils",
+    "harm": {
+      "id": "0020466",
+      "title": "294578 - Foodstuffs (Essences for -), except etheric essences and essential oils",
+      "conceptLink": "/ec2/concept/5970185"
+    }
+  },
+  {
+    "uri": "en/30/782462",
+    "id": "782462",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made from cereals",
+    "harm": {
+      "id": "0021838",
+      "title": "782462 - Foodstuffs made from cereals",
+      "conceptLink": "/ec2/concept/5971442"
+    }
+  },
+  {
+    "uri": "en/30/782478",
+    "id": "782478",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made from dough",
+    "harm": {
+      "id": "0040069",
+      "title": "782478 - Foodstuffs made from dough",
+      "conceptLink": "/ec2/concept/5988094"
+    }
+  },
+  {
+    "uri": "en/30/782494",
+    "id": "782494",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made from maize",
+    "harm": {
+      "id": "0034320",
+      "title": "782494 - Foodstuffs made from maize",
+      "conceptLink": "/ec2/concept/5982863"
+    }
+  },
+  {
+    "uri": "en/30/782506",
+    "id": "782506",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made from oats",
+    "harm": {
+      "id": "0028521",
+      "title": "782506 - Foodstuffs made from oats",
+      "conceptLink": "/ec2/concept/5977569"
+    }
+  },
+  {
+    "uri": "en/30/782558",
+    "id": "782558",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made of a sweetener for sweetening desserts",
+    "harm": {
+      "id": "0034321",
+      "title": "782558 - Foodstuffs made of a sweetener for sweetening desserts",
+      "conceptLink": "/ec2/concept/5982864"
+    }
+  },
+  {
+    "uri": "en/30/782546",
+    "id": "782546",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made of a sweetener for making a dessert",
+    "harm": {
+      "id": "0028522",
+      "title": "782546 - Foodstuffs made of a sweetener for making a dessert",
+      "conceptLink": "/ec2/concept/5977570"
+    }
+  },
+  {
+    "uri": "en/30/782572",
+    "id": "782572",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made of rice",
+    "harm": {
+      "id": "0005468",
+      "title": "782572 - Foodstuffs made of rice",
+      "conceptLink": "/ec2/concept/5956466"
+    }
+  },
+  {
+    "uri": "en/30/782600",
+    "id": "782600",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made of sugar for sweetening desserts",
+    "harm": {
+      "id": "0034322",
+      "title": "782600 - Foodstuffs made of sugar for sweetening desserts",
+      "conceptLink": "/ec2/concept/5982865"
+    }
+  },
+  {
+    "uri": "en/30/782587",
+    "id": "782587",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Foodstuffs made of sugar for making a dessert",
+    "harm": {
+      "id": "0022866",
+      "title": "782587 - Foodstuffs made of sugar for making a dessert",
+      "conceptLink": "/ec2/concept/5972386"
+    }
+  },
+  {
+    "uri": "en/30/890092",
+    "id": "890092",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fortune cookies",
+    "harm": {
+      "id": "0012267",
+      "title": "890092 - Fortune cookies",
+      "conceptLink": "/ec2/concept/5962688"
+    }
+  },
+  {
+    "uri": "en/30/441238",
+    "id": "441238",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frankfurter sandwiches",
+    "harm": {
+      "id": "0028707",
+      "title": "441238 - Frankfurter sandwiches",
+      "conceptLink": "/ec2/concept/5977742"
+    }
+  },
+  {
+    "uri": "en/30/903913",
+    "id": "903913",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Frappes",
+    "harm": {
+      "id": "0015613",
+      "title": "903913 - Frappes",
+      "conceptLink": "/ec2/concept/5965753"
+    }
+  },
+  {
+    "uri": "en/30/782612",
+    "id": "782612",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Freeze-dried coffee",
+    "harm": {
+      "id": "0022867",
+      "title": "782612 - Freeze-dried coffee",
+      "conceptLink": "/ec2/concept/5972387"
+    }
+  },
+  {
+    "uri": "en/30/233624720",
+    "id": "233624720",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Freeze-dried dishes with main ingredient being pasta",
+    "harm": {
+      "id": "0052159",
+      "title": "233624720 - Freeze-dried dishes with main ingredient being pasta",
+      "conceptLink": "/ec2/concept/6011059"
+    }
+  },
+  {
+    "uri": "en/30/233624680",
+    "id": "233624680",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Freeze-dried dishes with main ingredient being rice",
+    "harm": {
+      "id": "0052158",
+      "title": "233624680 - Freeze-dried dishes with main ingredient being rice",
+      "conceptLink": "/ec2/concept/6011058"
+    }
+  },
+  {
+    "uri": "en/30/15427718",
+    "id": "15427718",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "French toast",
+    "harm": {
+      "id": "0056478",
+      "title": "15427718 - French toast",
+      "conceptLink": "/ec2/concept/5997789"
+    }
+  },
+  {
+    "uri": "en/30/782627",
+    "id": "782627",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh bread",
+    "harm": {
+      "id": "0011204",
+      "title": "782627 - Fresh bread",
+      "conceptLink": "/ec2/concept/5961710"
+    }
+  },
+  {
+    "uri": "en/30/360121",
+    "id": "360121",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Fresh pasta",
+    "harm": {
+      "id": "0037802",
+      "title": "360121 - Fresh pasta",
+      "conceptLink": "/ec2/concept/5986019"
+    }
+  }
+]

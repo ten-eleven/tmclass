@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/472120",
+    "id": "472120",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software development for others",
+    "harm": {
+      "id": "0032529",
+      "title": "472120 - Computer software development for others",
+      "conceptLink": "/ec2/concept/5981225"
+    }
+  },
+  {
+    "uri": "en/42/63413",
+    "id": "63413",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software engineering",
+    "harm": {
+      "id": "0014918",
+      "title": "63413 - Computer software engineering",
+      "conceptLink": "/ec2/concept/5965115"
+    }
+  },
+  {
+    "uri": "en/42/471094",
+    "id": "471094",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software installation and maintenance",
+    "harm": {
+      "id": "0019474",
+      "title": "471094 - Computer software installation and maintenance",
+      "conceptLink": "/ec2/concept/5969285"
+    }
+  },
+  {
+    "uri": "en/42/65240",
+    "id": "65240",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software (Installation of -)",
+    "harm": {
+      "id": "0059071",
+      "title": "65240 - Computer software (Installation of -)",
+      "conceptLink": "/ec2/concept/6000562"
+    }
+  },
+  {
+    "uri": "en/42/1058648",
+    "id": "1058648",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software installation",
+    "harm": {
+      "id": "0059071",
+      "title": "1058648 - Computer software installation",
+      "conceptLink": "/ec2/concept/6000562"
+    }
+  },
+  {
+    "uri": "en/42/471237",
+    "id": "471237",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software integration",
+    "harm": {
+      "id": "0007862",
+      "title": "471237 - Computer software integration",
+      "conceptLink": "/ec2/concept/5958655"
+    }
+  },
+  {
+    "uri": "en/42/64511",
+    "id": "64511",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software maintenance services",
+    "harm": {
+      "id": "0058851",
+      "title": "64511 - Computer software maintenance services",
+      "conceptLink": "/ec2/concept/6000342"
+    }
+  },
+  {
+    "uri": "en/42/64509",
+    "id": "64509",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software (Maintenance of -)",
+    "harm": {
+      "id": "0058851",
+      "title": "64509 - Computer software (Maintenance of -)",
+      "conceptLink": "/ec2/concept/6000342"
+    }
+  },
+  {
+    "uri": "en/42/64508",
+    "id": "64508",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software maintenance",
+    "harm": {
+      "id": "0058851",
+      "title": "64508 - Computer software maintenance",
+      "conceptLink": "/ec2/concept/6000342"
+    }
+  },
+  {
+    "uri": "en/42/864437",
+    "id": "864437",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software programming services",
+    "harm": {
+      "id": "0039383",
+      "title": "864437 - Computer software programming services",
+      "conceptLink": "/ec2/concept/5987464"
+    }
+  },
+  {
+    "uri": "en/42/64210",
+    "id": "64210",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software rental",
+    "harm": {
+      "id": "0057847",
+      "title": "64210 - Computer software rental",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/64218",
+    "id": "64218",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software rental services",
+    "harm": {
+      "id": "0057847",
+      "title": "64218 - Computer software rental services",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/125159130",
+    "id": "125159130",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software (Rental of -)",
+    "harm": {
+      "id": "0057847",
+      "title": "125159130 - Computer software (Rental of -)",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/474660",
+    "id": "474660",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software research",
+    "harm": {
+      "id": "0026417",
+      "title": "474660 - Computer software research",
+      "conceptLink": "/ec2/concept/5975645"
+    }
+  },
+  {
+    "uri": "en/42/471309",
+    "id": "471309",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software technical support services",
+    "harm": {
+      "id": "0034482",
+      "title": "471309 - Computer software technical support services",
+      "conceptLink": "/ec2/concept/5983011"
+    }
+  },
+  {
+    "uri": "en/42/63627",
+    "id": "63627",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer software (Updating of -)",
+    "harm": {
+      "id": "0058057",
+      "title": "63627 - Computer software (Updating of -)",
+      "conceptLink": "/ec2/concept/5999558"
+    }
+  },
+  {
+    "uri": "en/42/864459",
+    "id": "864459",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer specification design",
+    "harm": {
+      "id": "0003911",
+      "title": "864459 - Computer specification design",
+      "conceptLink": "/ec2/concept/5955029"
+    }
+  },
+  {
+    "uri": "en/42/64612",
+    "id": "64612",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer system analysis",
+    "harm": {
+      "id": "0040470",
+      "title": "64612 - Computer system analysis",
+      "conceptLink": "/ec2/concept/5988461"
+    }
+  },
+  {
+    "uri": "en/42/64887",
+    "id": "64887",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer system design",
+    "harm": {
+      "id": "0035550",
+      "title": "64887 - Computer system design",
+      "conceptLink": "/ec2/concept/5983978"
+    }
+  },
+  {
+    "uri": "en/42/137891369",
+    "id": "137891369",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer system design and development",
+    "harm": {
+      "id": "0051499",
+      "title": "137891369 - Computer system design and development",
+      "conceptLink": "/ec2/concept/6010485"
+    }
+  },
+  {
+    "uri": "en/42/864471",
+    "id": "864471",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer system integration services",
+    "harm": {
+      "id": "0007862",
+      "title": "864471 - Computer system integration services",
+      "conceptLink": "/ec2/concept/5958655"
+    }
+  },
+  {
+    "uri": "en/42/499612",
+    "id": "499612",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer system monitoring services",
+    "harm": {
+      "id": "0038226",
+      "title": "499612 - Computer system monitoring services",
+      "conceptLink": "/ec2/concept/5986406"
+    }
+  },
+  {
+    "uri": "en/42/64611",
+    "id": "64611",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer systems analysis",
+    "harm": {
+      "id": "0040470",
+      "title": "64611 - Computer systems analysis",
+      "conceptLink": "/ec2/concept/5988461"
+    }
+  },
+  {
+    "uri": "en/42/64885",
+    "id": "64885",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer systems design",
+    "harm": {
+      "id": "0035550",
+      "title": "64885 - Computer systems design",
+      "conceptLink": "/ec2/concept/5983978"
+    }
+  },
+  {
+    "uri": "en/42/864488",
+    "id": "864488",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer systems development",
+    "harm": {
+      "id": "0042454",
+      "title": "864488 - Computer systems development",
+      "conceptLink": "/ec2/concept/5990276"
+    }
+  },
+  {
+    "uri": "en/42/864472",
+    "id": "864472",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer systems integration services",
+    "harm": {
+      "id": "0007862",
+      "title": "864472 - Computer systems integration services",
+      "conceptLink": "/ec2/concept/5958655"
+    }
+  },
+  {
+    "uri": "en/42/136628680",
+    "id": "136628680",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer technology consultancy",
+    "harm": {
+      "id": "0060091",
+      "title": "136628680 - Computer technology consultancy",
+      "conceptLink": "/ec2/concept/5996363"
+    }
+  },
+  {
+    "uri": "en/42/864508",
+    "id": "864508",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer testing",
+    "harm": {
+      "id": "0009660",
+      "title": "864508 - Computer testing",
+      "conceptLink": "/ec2/concept/5960302"
+    }
+  },
+  {
+    "uri": "en/42/864530",
+    "id": "864530",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer time sharing",
+    "harm": {
+      "id": "0036850",
+      "title": "864530 - Computer time sharing",
+      "conceptLink": "/ec2/concept/5985160"
+    }
+  },
+  {
+    "uri": "en/42/125086044",
+    "id": "125086044",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer time sharing facilities (Provision of -)",
+    "harm": {
+      "id": "0027011",
+      "title": "125086044 - Computer time sharing facilities (Provision of -)",
+      "conceptLink": "/ec2/concept/5976176"
+    }
+  },
+  {
+    "uri": "en/42/864531",
+    "id": "864531",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer time-sharing services",
+    "harm": {
+      "id": "0036850",
+      "title": "864531 - Computer time-sharing services",
+      "conceptLink": "/ec2/concept/5985160"
+    }
+  },
+  {
+    "uri": "en/42/496167",
+    "id": "496167",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer virus protection services",
+    "harm": {
+      "id": "0036326",
+      "title": "496167 - Computer virus protection services",
+      "conceptLink": "/ec2/concept/5984680"
+    }
+  },
+  {
+    "uri": "en/42/902174",
+    "id": "902174",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computer website design",
+    "harm": {
+      "id": "0013701",
+      "title": "902174 - Computer website design",
+      "conceptLink": "/ec2/concept/5963990"
+    }
+  },
+  {
+    "uri": "en/42/137885006",
+    "id": "137885006",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computerised business information storage",
+    "harm": {
+      "id": "0051567",
+      "title": "137885006 - Computerised business information storage",
+      "conceptLink": "/ec2/concept/6010553"
+    }
+  },
+  {
+    "uri": "en/42/137172388",
+    "id": "137172388",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computerised data storage",
+    "harm": {
+      "id": "0050035",
+      "title": "137172388 - Computerised data storage",
+      "conceptLink": "/ec2/concept/5995445"
+    }
+  },
+  {
+    "uri": "en/42/864614",
+    "id": "864614",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computerised food analysis services",
+    "harm": {
+      "id": "0009661",
+      "title": "864614 - Computerised food analysis services",
+      "conceptLink": "/ec2/concept/5960303"
+    }
+  },
+  {
+    "uri": "en/42/864629",
+    "id": "864629",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computerised information services relating to geophysical measurement",
+    "harm": {
+      "id": "0038556",
+      "title": "864629 - Computerised information services relating to geophysical measurement",
+      "conceptLink": "/ec2/concept/5986715"
+    }
+  },
+  {
+    "uri": "en/42/125158392",
+    "id": "125158392",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computers (Rental of -)",
+    "harm": {
+      "id": "0059221",
+      "title": "125158392 - Computers (Rental of -)",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/481037",
+    "id": "481037",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Computing consultancy",
+    "harm": {
+      "id": "0011653",
+      "title": "481037 - Computing consultancy",
+      "conceptLink": "/ec2/concept/5962119"
+    }
+  },
+  {
+    "uri": "en/42/899308",
+    "id": "899308",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Condition monitoring relating to oils",
+    "harm": {
+      "id": "0023535",
+      "title": "899308 - Condition monitoring relating to oils",
+      "conceptLink": "/ec2/concept/5972998"
+    }
+  },
+  {
+    "uri": "en/42/899270",
+    "id": "899270",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Condition monitoring relating to fluids",
+    "harm": {
+      "id": "0006128",
+      "title": "899270 - Condition monitoring relating to fluids",
+      "conceptLink": "/ec2/concept/5957070"
+    }
+  },
+  {
+    "uri": "en/42/899283",
+    "id": "899283",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Condition monitoring relating to greases",
+    "harm": {
+      "id": "0017672",
+      "title": "899283 - Condition monitoring relating to greases",
+      "conceptLink": "/ec2/concept/5967630"
+    }
+  },
+  {
+    "uri": "en/42/899296",
+    "id": "899296",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Condition monitoring relating to lubricants",
+    "harm": {
+      "id": "0029243",
+      "title": "899296 - Condition monitoring relating to lubricants",
+      "conceptLink": "/ec2/concept/5978235"
+    }
+  },
+  {
+    "uri": "en/42/473509",
+    "id": "473509",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting clinical trials",
+    "harm": {
+      "id": "0014979",
+      "title": "473509 - Conducting clinical trials",
+      "conceptLink": "/ec2/concept/5965169"
+    }
+  },
+  {
+    "uri": "en/42/137899399",
+    "id": "137899399",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting clinical trials in the field of cardiovascular disease",
+    "harm": {
+      "id": "0051618",
+      "title": "137899399 - Conducting clinical trials in the field of cardiovascular disease",
+      "conceptLink": "/ec2/concept/6010604"
+    }
+  },
+  {
+    "uri": "en/42/137899388",
+    "id": "137899388",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting clinical trials in the field of acupuncture therapy",
+    "harm": {
+      "id": "0051617",
+      "title": "137899388 - Conducting clinical trials in the field of acupuncture therapy",
+      "conceptLink": "/ec2/concept/6010603"
+    }
+  },
+  {
+    "uri": "en/42/120878039",
+    "id": "120878039",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting clinical trials for pharmaceutical products",
+    "harm": {
+      "id": "0069365",
+      "title": "120878039 - Conducting clinical trials for pharmaceutical products",
+      "conceptLink": "/ec2/concept/6005568"
+    }
+  },
+  {
+    "uri": "en/42/374425",
+    "id": "374425",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting early evaluations in the field of new pharmaceuticals",
+    "harm": {
+      "id": "0014833",
+      "title": "374425 - Conducting early evaluations in the field of new pharmaceuticals",
+      "conceptLink": "/ec2/concept/5965037"
+    }
+  },
+  {
+    "uri": "en/42/902196",
+    "id": "902196",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting engineering surveys",
+    "harm": {
+      "id": "0031004",
+      "title": "902196 - Conducting engineering surveys",
+      "conceptLink": "/ec2/concept/5979849"
+    }
+  },
+  {
+    "uri": "en/42/864736",
+    "id": "864736",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to mineral exploration",
+    "harm": {
+      "id": "0008412",
+      "title": "864736 - Conducting feasibility studies relative to mineral exploration",
+      "conceptLink": "/ec2/concept/5959151"
+    }
+  },
+  {
+    "uri": "en/42/864723",
+    "id": "864723",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to mineral exploitation",
+    "harm": {
+      "id": "0008411",
+      "title": "864723 - Conducting feasibility studies relative to mineral exploitation",
+      "conceptLink": "/ec2/concept/5959150"
+    }
+  },
+  {
+    "uri": "en/42/864667",
+    "id": "864667",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relating to computer software",
+    "harm": {
+      "id": "0021368",
+      "title": "864667 - Conducting feasibility studies relating to computer software",
+      "conceptLink": "/ec2/concept/5971011"
+    }
+  },
+  {
+    "uri": "en/42/864750",
+    "id": "864750",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to oil field exploitation",
+    "harm": {
+      "id": "0020109",
+      "title": "864750 - Conducting feasibility studies relative to oil field exploitation",
+      "conceptLink": "/ec2/concept/5969861"
+    }
+  },
+  {
+    "uri": "en/42/864643",
+    "id": "864643",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relating to computer hardware",
+    "harm": {
+      "id": "0009662",
+      "title": "864643 - Conducting feasibility studies relating to computer hardware",
+      "conceptLink": "/ec2/concept/5960304"
+    }
+  },
+  {
+    "uri": "en/42/864709",
+    "id": "864709",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to gas exploration",
+    "harm": {
+      "id": "0043147",
+      "title": "864709 - Conducting feasibility studies relative to gas exploration",
+      "conceptLink": "/ec2/concept/5990895"
+    }
+  },
+  {
+    "uri": "en/42/864765",
+    "id": "864765",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to oil field exploration",
+    "harm": {
+      "id": "0037393",
+      "title": "864765 - Conducting feasibility studies relative to oil field exploration",
+      "conceptLink": "/ec2/concept/5985649"
+    }
+  },
+  {
+    "uri": "en/42/864696",
+    "id": "864696",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relative to gas exploitation",
+    "harm": {
+      "id": "0025777",
+      "title": "864696 - Conducting feasibility studies relative to gas exploitation",
+      "conceptLink": "/ec2/concept/5975058"
+    }
+  },
+  {
+    "uri": "en/42/864655",
+    "id": "864655",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting feasibility studies relating to computer information systems",
+    "harm": {
+      "id": "0044344",
+      "title": "864655 - Conducting feasibility studies relating to computer information systems",
+      "conceptLink": "/ec2/concept/5991992"
+    }
+  },
+  {
+    "uri": "en/42/115595468",
+    "id": "115595468",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting geological surveys",
+    "harm": {
+      "id": "0058854",
+      "title": "115595468 - Conducting geological surveys",
+      "conceptLink": "/ec2/concept/6000345"
+    }
+  },
+  {
+    "uri": "en/42/864780",
+    "id": "864780",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting industrial experiments",
+    "harm": {
+      "id": "0014266",
+      "title": "864780 - Conducting industrial experiments",
+      "conceptLink": "/ec2/concept/5964519"
+    }
+  },
+  {
+    "uri": "en/42/864793",
+    "id": "864793",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting industrial tests",
+    "harm": {
+      "id": "0031569",
+      "title": "864793 - Conducting industrial tests",
+      "conceptLink": "/ec2/concept/5980353"
+    }
+  },
+  {
+    "uri": "en/42/119554501",
+    "id": "119554501",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting magnetic resonance imaging interpretation and analysis for the petroleum industry",
+    "harm": {
+      "id": "0051717",
+      "title": "119554501 - Conducting magnetic resonance imaging interpretation and analysis for the petroleum industry",
+      "conceptLink": "/ec2/concept/6010703"
+    }
+  },
+  {
+    "uri": "en/42/120875066",
+    "id": "120875066",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting of quality control tests",
+    "harm": {
+      "id": "0069417",
+      "title": "120875066 - Conducting of quality control tests",
+      "conceptLink": "/ec2/concept/6005620"
+    }
+  },
+  {
+    "uri": "en/42/120878233",
+    "id": "120878233",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting of scientific studies",
+    "harm": {
+      "id": "0069341",
+      "title": "120878233 - Conducting of scientific studies",
+      "conceptLink": "/ec2/concept/6005544"
+    }
+  },
+  {
+    "uri": "en/42/471343",
+    "id": "471343",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting of technical feasibility studies",
+    "harm": {
+      "id": "0011363",
+      "title": "471343 - Conducting of technical feasibility studies",
+      "conceptLink": "/ec2/concept/5961854"
+    }
+  },
+  {
+    "uri": "en/42/120876970",
+    "id": "120876970",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting research and technical project studies relating to the use of natural energy",
+    "harm": {
+      "id": "0069142",
+      "title": "120876970 - Conducting research and technical project studies relating to the use of natural energy",
+      "conceptLink": "/ec2/concept/6005345"
+    }
+  },
+  {
+    "uri": "en/42/120876946",
+    "id": "120876946",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting sampling and analysis services to assess pollution levels",
+    "harm": {
+      "id": "0071387",
+      "title": "120876946 - Conducting sampling and analysis services to assess pollution levels",
+      "conceptLink": "/ec2/concept/6007578"
+    }
+  },
+  {
+    "uri": "en/42/120876962",
+    "id": "120876962",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting sampling and analysis services to check for contamination",
+    "harm": {
+      "id": "0069139",
+      "title": "120876962 - Conducting sampling and analysis services to check for contamination",
+      "conceptLink": "/ec2/concept/6005342"
+    }
+  },
+  {
+    "uri": "en/42/120876785",
+    "id": "120876785",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting technical project studies for construction projects",
+    "harm": {
+      "id": "0069151",
+      "title": "120876785 - Conducting technical project studies for construction projects",
+      "conceptLink": "/ec2/concept/6005354"
+    }
+  },
+  {
+    "uri": "en/42/233649318",
+    "id": "233649318",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conducting technical project studies",
+    "harm": {
+      "id": "0029964",
+      "title": "233649318 - Conducting technical project studies",
+      "conceptLink": "/ec2/concept/5978890"
+    }
+  },
+  {
+    "uri": "en/42/864821",
+    "id": "864821",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Configuration of computer software",
+    "harm": {
+      "id": "0008414",
+      "title": "864821 - Configuration of computer software",
+      "conceptLink": "/ec2/concept/5959153"
+    }
+  },
+  {
+    "uri": "en/42/864806",
+    "id": "864806",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Configuration of computer firmware",
+    "harm": {
+      "id": "0008413",
+      "title": "864806 - Configuration of computer firmware",
+      "conceptLink": "/ec2/concept/5959152"
+    }
+  },
+  {
+    "uri": "en/42/471357",
+    "id": "471357",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Configuration of computer systems and networks",
+    "harm": {
+      "id": "0021428",
+      "title": "471357 - Configuration of computer systems and networks",
+      "conceptLink": "/ec2/concept/5971065"
+    }
+  },
+  {
+    "uri": "en/42/120875046",
+    "id": "120875046",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Configuration of computer networks by software",
+    "harm": {
+      "id": "0069414",
+      "title": "120875046 - Configuration of computer networks by software",
+      "conceptLink": "/ec2/concept/6005617"
+    }
+  },
+  {
+    "uri": "en/42/120875051",
+    "id": "120875051",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Configuring computer hardware using software",
+    "harm": {
+      "id": "0069413",
+      "title": "120875051 - Configuring computer hardware using software",
+      "conceptLink": "/ec2/concept/6005616"
+    }
+  },
+  {
+    "uri": "en/42/899322",
+    "id": "899322",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Conformance testing services",
+    "harm": {
+      "id": "0017673",
+      "title": "899322 - Conformance testing services",
+      "conceptLink": "/ec2/concept/5967631"
+    }
+  },
+  {
+    "uri": "en/42/471378",
+    "id": "471378",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Constructing an internet platform for electronic commerce",
+    "harm": {
+      "id": "0003959",
+      "title": "471378 - Constructing an internet platform for electronic commerce",
+      "conceptLink": "/ec2/concept/5955071"
+    }
+  },
+  {
+    "uri": "en/42/61629",
+    "id": "61629",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Construction design",
+    "harm": {
+      "id": "0000143",
+      "title": "61629 - Construction design",
+      "conceptLink": "/ec2/concept/5951619"
+    }
+  },
+  {
+    "uri": "en/42/61628",
+    "id": "61628",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Construction drafting",
+    "harm": {
+      "id": "0000143",
+      "title": "61628 - Construction drafting",
+      "conceptLink": "/ec2/concept/5951619"
+    }
+  },
+  {
+    "uri": "en/42/61626",
+    "id": "61626",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Construction draughting",
+    "harm": {
+      "id": "0000143",
+      "title": "61626 - Construction draughting",
+      "conceptLink": "/ec2/concept/5951619"
+    }
+  },
+  {
+    "uri": "en/42/8491866",
+    "id": "8491866",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Construction planning",
+    "harm": {
+      "id": "0071383",
+      "title": "8491866 - Construction planning",
+      "conceptLink": "/ec2/concept/6007574"
+    }
+  },
+  {
+    "uri": "en/42/471398",
+    "id": "471398",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and advice on computer software and hardware",
+    "harm": {
+      "id": "0032815",
+      "title": "471398 - Consultancy and advice on computer software and hardware",
+      "conceptLink": "/ec2/concept/5981485"
+    }
+  },
+  {
+    "uri": "en/42/120876706",
+    "id": "120876706",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to software rental",
+    "harm": {
+      "id": "0069185",
+      "title": "120876706 - Consultancy and information services relating to software rental",
+      "conceptLink": "/ec2/concept/6005388"
+    }
+  },
+  {
+    "uri": "en/42/120878386",
+    "id": "120878386",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to computer system integration",
+    "harm": {
+      "id": "0069325",
+      "title": "120878386 - Consultancy and information services relating to computer system integration",
+      "conceptLink": "/ec2/concept/6005528"
+    }
+  },
+  {
+    "uri": "en/42/120878377",
+    "id": "120878377",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to information technology architecture and infrastructure",
+    "harm": {
+      "id": "0069326",
+      "title": "120878377 - Consultancy and information services relating to information technology architecture and infrastructure",
+      "conceptLink": "/ec2/concept/6005529"
+    }
+  },
+  {
+    "uri": "en/42/120878380",
+    "id": "120878380",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to information technology",
+    "harm": {
+      "id": "0069327",
+      "title": "120878380 - Consultancy and information services relating to information technology",
+      "conceptLink": "/ec2/concept/6005530"
+    }
+  },
+  {
+    "uri": "en/42/120877132",
+    "id": "120877132",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to computer software design",
+    "harm": {
+      "id": "0069268",
+      "title": "120877132 - Consultancy and information services relating to computer software design",
+      "conceptLink": "/ec2/concept/6005471"
+    }
+  },
+  {
+    "uri": "en/42/120877142",
+    "id": "120877142",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to software maintenance",
+    "harm": {
+      "id": "0069266",
+      "title": "120877142 - Consultancy and information services relating to software maintenance",
+      "conceptLink": "/ec2/concept/6005469"
+    }
+  },
+  {
+    "uri": "en/42/120877136",
+    "id": "120877136",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to computer programming",
+    "harm": {
+      "id": "0069267",
+      "title": "120877136 - Consultancy and information services relating to computer programming",
+      "conceptLink": "/ec2/concept/6005470"
+    }
+  },
+  {
+    "uri": "en/42/120877146",
+    "id": "120877146",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy and information services relating to the design, programming and maintenance of computer software",
+    "harm": {
+      "id": "0069265",
+      "title": "120877146 - Consultancy and information services relating to the design, programming and maintenance of computer software",
+      "conceptLink": "/ec2/concept/6005468"
+    }
+  },
+  {
+    "uri": "en/42/470625",
+    "id": "470625",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy (Computer software -)",
+    "harm": {
+      "id": "0046585",
+      "title": "470625 - Consultancy (Computer software -)",
+      "conceptLink": "/ec2/concept/5994014"
+    }
+  },
+  {
+    "uri": "en/42/63738",
+    "id": "63738",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the design and development of computer hardware",
+    "harm": {
+      "id": "0024551",
+      "title": "63738 - Consultancy in the design and development of computer hardware",
+      "conceptLink": "/ec2/concept/5973930"
+    }
+  },
+  {
+    "uri": "en/42/6486869",
+    "id": "6486869",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of biotechnology",
+    "harm": {
+      "id": "0002704",
+      "title": "6486869 - Consultancy in the field of biotechnology",
+      "conceptLink": "/ec2/concept/5953921"
+    }
+  },
+  {
+    "uri": "en/42/481038",
+    "id": "481038",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of computers",
+    "harm": {
+      "id": "0011653",
+      "title": "481038 - Consultancy in the field of computers",
+      "conceptLink": "/ec2/concept/5962119"
+    }
+  },
+  {
+    "uri": "en/42/470945",
+    "id": "470945",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of computer hardware and computer software",
+    "harm": {
+      "id": "0011652",
+      "title": "470945 - Consultancy in the field of computer hardware and computer software",
+      "conceptLink": "/ec2/concept/5962118"
+    }
+  },
+  {
+    "uri": "en/42/1272492",
+    "id": "1272492",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of computer hardware",
+    "harm": {
+      "id": "0011653",
+      "title": "1272492 - Consultancy in the field of computer hardware",
+      "conceptLink": "/ec2/concept/5962119"
+    }
+  },
+  {
+    "uri": "en/42/137613667",
+    "id": "137613667",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of agricultural chemistry",
+    "harm": {
+      "id": "0028351",
+      "title": "137613667 - Consultancy in the field of agricultural chemistry",
+      "conceptLink": "/ec2/concept/5977409"
+    }
+  },
+  {
+    "uri": "en/42/120877034",
+    "id": "120877034",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of technological research",
+    "harm": {
+      "id": "0005902",
+      "title": "120877034 - Consultancy in the field of technological research",
+      "conceptLink": "/ec2/concept/5956856"
+    }
+  },
+  {
+    "uri": "en/42/137892730",
+    "id": "137892730",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of construction drafting",
+    "harm": {
+      "id": "0051511",
+      "title": "137892730 - Consultancy in the field of construction drafting",
+      "conceptLink": "/ec2/concept/6010497"
+    }
+  },
+  {
+    "uri": "en/42/137742008",
+    "id": "137742008",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Consultancy in the field of architectural design",
+    "harm": {
+      "id": "0051405",
+      "title": "137742008 - Consultancy in the field of architectural design",
+      "conceptLink": "/ec2/concept/6010391"
+    }
+  }
+]

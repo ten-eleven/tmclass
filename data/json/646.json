@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/814505",
+    "id": "814505",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of building sites",
+    "harm": {
+      "id": "0045291",
+      "title": "814505 - Cleaning of building sites",
+      "conceptLink": "/ec2/concept/5992869"
+    }
+  },
+  {
+    "uri": "en/37/41147",
+    "id": "41147",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of buildings",
+    "harm": {
+      "id": "0024467",
+      "title": "41147 - Cleaning of buildings",
+      "conceptLink": "/ec2/concept/5973852"
+    }
+  },
+  {
+    "uri": "en/37/41143",
+    "id": "41143",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of buildings [exterior surface]",
+    "harm": {
+      "id": "0058355",
+      "title": "41143 - Cleaning of buildings [exterior surface]",
+      "conceptLink": "/ec2/concept/5999854"
+    }
+  },
+  {
+    "uri": "en/37/36727",
+    "id": "36727",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of buildings [interior]",
+    "harm": {
+      "id": "0059339",
+      "title": "36727 - Cleaning of buildings [interior]",
+      "conceptLink": "/ec2/concept/6000821"
+    }
+  },
+  {
+    "uri": "en/37/814516",
+    "id": "814516",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of buildings soiled by birds",
+    "harm": {
+      "id": "0033747",
+      "title": "814516 - Cleaning of buildings soiled by birds",
+      "conceptLink": "/ec2/concept/5982341"
+    }
+  },
+  {
+    "uri": "en/37/814530",
+    "id": "814530",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of cargo holds",
+    "harm": {
+      "id": "0045292",
+      "title": "814530 - Cleaning of cargo holds",
+      "conceptLink": "/ec2/concept/5992870"
+    }
+  },
+  {
+    "uri": "en/37/814543",
+    "id": "814543",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of ceiling surfaces",
+    "harm": {
+      "id": "0028023",
+      "title": "814543 - Cleaning of ceiling surfaces",
+      "conceptLink": "/ec2/concept/5977104"
+    }
+  },
+  {
+    "uri": "en/37/38680",
+    "id": "38680",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of clothes",
+    "harm": {
+      "id": "0047368",
+      "title": "38680 - Cleaning of clothes",
+      "conceptLink": "/ec2/concept/5994704"
+    }
+  },
+  {
+    "uri": "en/37/38682",
+    "id": "38682",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of clothing",
+    "harm": {
+      "id": "0047368",
+      "title": "38682 - Cleaning of clothing",
+      "conceptLink": "/ec2/concept/5994704"
+    }
+  },
+  {
+    "uri": "en/37/814555",
+    "id": "814555",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of commercial premises",
+    "harm": {
+      "id": "0022356",
+      "title": "814555 - Cleaning of commercial premises",
+      "conceptLink": "/ec2/concept/5971917"
+    }
+  },
+  {
+    "uri": "en/37/814568",
+    "id": "814568",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of culverts",
+    "harm": {
+      "id": "0016470",
+      "title": "814568 - Cleaning of culverts",
+      "conceptLink": "/ec2/concept/5966548"
+    }
+  },
+  {
+    "uri": "en/37/814581",
+    "id": "814581",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of domestic premises",
+    "harm": {
+      "id": "0033748",
+      "title": "814581 - Cleaning of domestic premises",
+      "conceptLink": "/ec2/concept/5982342"
+    }
+  },
+  {
+    "uri": "en/37/814592",
+    "id": "814592",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of domestic utensils",
+    "harm": {
+      "id": "0022357",
+      "title": "814592 - Cleaning of domestic utensils",
+      "conceptLink": "/ec2/concept/5971918"
+    }
+  },
+  {
+    "uri": "en/37/814606",
+    "id": "814606",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of drains",
+    "harm": {
+      "id": "0028024",
+      "title": "814606 - Cleaning of drains",
+      "conceptLink": "/ec2/concept/5977105"
+    }
+  },
+  {
+    "uri": "en/37/814621",
+    "id": "814621",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of drains by high pressure water jetting",
+    "harm": {
+      "id": "0045293",
+      "title": "814621 - Cleaning of drains by high pressure water jetting",
+      "conceptLink": "/ec2/concept/5992871"
+    }
+  },
+  {
+    "uri": "en/37/814635",
+    "id": "814635",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of electrical motors",
+    "harm": {
+      "id": "0016471",
+      "title": "814635 - Cleaning of electrical motors",
+      "conceptLink": "/ec2/concept/5966549"
+    }
+  },
+  {
+    "uri": "en/37/120879812",
+    "id": "120879812",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of exhibition stands",
+    "harm": {
+      "id": "0068251",
+      "title": "120879812 - Cleaning of exhibition stands",
+      "conceptLink": "/ec2/concept/6004454"
+    }
+  },
+  {
+    "uri": "en/37/814648",
+    "id": "814648",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of exterior airport runways",
+    "harm": {
+      "id": "0039543",
+      "title": "814648 - Cleaning of exterior airport runways",
+      "conceptLink": "/ec2/concept/5987610"
+    }
+  },
+  {
+    "uri": "en/37/814661",
+    "id": "814661",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of exterior ships' decks",
+    "harm": {
+      "id": "0039544",
+      "title": "814661 - Cleaning of exterior ships' decks",
+      "conceptLink": "/ec2/concept/5987611"
+    }
+  },
+  {
+    "uri": "en/37/16134245",
+    "id": "16134245",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of exterior surfaces of buildings",
+    "harm": {
+      "id": "0058354",
+      "title": "16134245 - Cleaning of exterior surfaces of buildings",
+      "conceptLink": "/ec2/concept/5999853"
+    }
+  },
+  {
+    "uri": "en/37/814674",
+    "id": "814674",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of exterior wall surfaces",
+    "harm": {
+      "id": "0023561",
+      "title": "814674 - Cleaning of exterior wall surfaces",
+      "conceptLink": "/ec2/concept/5973021"
+    }
+  },
+  {
+    "uri": "en/37/41141",
+    "id": "41141",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of external surfaces of buildings",
+    "harm": {
+      "id": "0058354",
+      "title": "41141 - Cleaning of external surfaces of buildings",
+      "conceptLink": "/ec2/concept/5999853"
+    }
+  },
+  {
+    "uri": "en/37/38688",
+    "id": "38688",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of fabrics",
+    "harm": {
+      "id": "0046169",
+      "title": "38688 - Cleaning of fabrics",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/452468",
+    "id": "452468",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of facades",
+    "harm": {
+      "id": "0058354",
+      "title": "452468 - Cleaning of facades",
+      "conceptLink": "/ec2/concept/5999853"
+    }
+  },
+  {
+    "uri": "en/37/814691",
+    "id": "814691",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of factories",
+    "harm": {
+      "id": "0017701",
+      "title": "814691 - Cleaning of factories",
+      "conceptLink": "/ec2/concept/5967658"
+    }
+  },
+  {
+    "uri": "en/37/814710",
+    "id": "814710",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of floor coverings",
+    "harm": {
+      "id": "0006155",
+      "title": "814710 - Cleaning of floor coverings",
+      "conceptLink": "/ec2/concept/5957094"
+    }
+  },
+  {
+    "uri": "en/37/814722",
+    "id": "814722",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of floor surfaces",
+    "harm": {
+      "id": "0000367",
+      "title": "814722 - Cleaning of floor surfaces",
+      "conceptLink": "/ec2/concept/5951819"
+    }
+  },
+  {
+    "uri": "en/37/814739",
+    "id": "814739",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of footwear",
+    "harm": {
+      "id": "0035048",
+      "title": "814739 - Cleaning of footwear",
+      "conceptLink": "/ec2/concept/5983519"
+    }
+  },
+  {
+    "uri": "en/37/814761",
+    "id": "814761",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of furnishings",
+    "harm": {
+      "id": "0000368",
+      "title": "814761 - Cleaning of furnishings",
+      "conceptLink": "/ec2/concept/5951820"
+    }
+  },
+  {
+    "uri": "en/37/814760",
+    "id": "814760",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of furniture",
+    "harm": {
+      "id": "0000368",
+      "title": "814760 - Cleaning of furniture",
+      "conceptLink": "/ec2/concept/5951820"
+    }
+  },
+  {
+    "uri": "en/37/814780",
+    "id": "814780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of gullies",
+    "harm": {
+      "id": "0016470",
+      "title": "814780 - Cleaning of gullies",
+      "conceptLink": "/ec2/concept/5966548"
+    }
+  },
+  {
+    "uri": "en/37/814792",
+    "id": "814792",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of hospitals",
+    "harm": {
+      "id": "0006157",
+      "title": "814792 - Cleaning of hospitals",
+      "conceptLink": "/ec2/concept/5957095"
+    }
+  },
+  {
+    "uri": "en/37/814804",
+    "id": "814804",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of hotels",
+    "harm": {
+      "id": "0023562",
+      "title": "814804 - Cleaning of hotels",
+      "conceptLink": "/ec2/concept/5973022"
+    }
+  },
+  {
+    "uri": "en/37/814819",
+    "id": "814819",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of industrial boilers",
+    "harm": {
+      "id": "0000369",
+      "title": "814819 - Cleaning of industrial boilers",
+      "conceptLink": "/ec2/concept/5951821"
+    }
+  },
+  {
+    "uri": "en/37/814831",
+    "id": "814831",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of industrial plant",
+    "harm": {
+      "id": "0035049",
+      "title": "814831 - Cleaning of industrial plant",
+      "conceptLink": "/ec2/concept/5983520"
+    }
+  },
+  {
+    "uri": "en/37/367559",
+    "id": "367559",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of industrial premises",
+    "harm": {
+      "id": "0005061",
+      "title": "367559 - Cleaning of industrial premises",
+      "conceptLink": "/ec2/concept/5956091"
+    }
+  },
+  {
+    "uri": "en/37/814844",
+    "id": "814844",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of leather",
+    "harm": {
+      "id": "0000370",
+      "title": "814844 - Cleaning of leather",
+      "conceptLink": "/ec2/concept/5951822"
+    }
+  },
+  {
+    "uri": "en/37/814857",
+    "id": "814857",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of machines",
+    "harm": {
+      "id": "0035050",
+      "title": "814857 - Cleaning of machines",
+      "conceptLink": "/ec2/concept/5983521"
+    }
+  },
+  {
+    "uri": "en/37/454243",
+    "id": "454243",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of mats",
+    "harm": {
+      "id": "0000192",
+      "title": "454243 - Cleaning of mats",
+      "conceptLink": "/ec2/concept/5951667"
+    }
+  },
+  {
+    "uri": "en/37/814872",
+    "id": "814872",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of mobile sanitary facilities",
+    "harm": {
+      "id": "0006158",
+      "title": "814872 - Cleaning of mobile sanitary facilities",
+      "conceptLink": "/ec2/concept/5957096"
+    }
+  },
+  {
+    "uri": "en/37/814884",
+    "id": "814884",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of monuments",
+    "harm": {
+      "id": "0029268",
+      "title": "814884 - Cleaning of monuments",
+      "conceptLink": "/ec2/concept/5978254"
+    }
+  },
+  {
+    "uri": "en/37/40270",
+    "id": "40270",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of motor vehicles",
+    "harm": {
+      "id": "0058645",
+      "title": "40270 - Cleaning of motor vehicles",
+      "conceptLink": "/ec2/concept/6000138"
+    }
+  },
+  {
+    "uri": "en/37/814896",
+    "id": "814896",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of nuclear plant",
+    "harm": {
+      "id": "0000371",
+      "title": "814896 - Cleaning of nuclear plant",
+      "conceptLink": "/ec2/concept/5951823"
+    }
+  },
+  {
+    "uri": "en/37/120878728",
+    "id": "120878728",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of office buildings and commercial premises",
+    "harm": {
+      "id": "0068377",
+      "title": "120878728 - Cleaning of office buildings and commercial premises",
+      "conceptLink": "/ec2/concept/6004580"
+    }
+  },
+  {
+    "uri": "en/37/814915",
+    "id": "814915",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of offices",
+    "harm": {
+      "id": "0029270",
+      "title": "814915 - Cleaning of offices",
+      "conceptLink": "/ec2/concept/5978256"
+    }
+  },
+  {
+    "uri": "en/37/814943",
+    "id": "814943",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of property",
+    "harm": {
+      "id": "0006159",
+      "title": "814943 - Cleaning of property",
+      "conceptLink": "/ec2/concept/5957097"
+    }
+  },
+  {
+    "uri": "en/37/120892942",
+    "id": "120892942",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of public areas",
+    "harm": {
+      "id": "0068049",
+      "title": "120892942 - Cleaning of public areas",
+      "conceptLink": "/ec2/concept/6004252"
+    }
+  },
+  {
+    "uri": "en/37/814957",
+    "id": "814957",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of public buildings",
+    "harm": {
+      "id": "0000372",
+      "title": "814957 - Cleaning of public buildings",
+      "conceptLink": "/ec2/concept/5951824"
+    }
+  },
+  {
+    "uri": "en/37/452488",
+    "id": "452488",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of residential houses",
+    "harm": {
+      "id": "0015727",
+      "title": "452488 - Cleaning of residential houses",
+      "conceptLink": "/ec2/concept/5965859"
+    }
+  },
+  {
+    "uri": "en/37/814969",
+    "id": "814969",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of schools",
+    "harm": {
+      "id": "0047141",
+      "title": "814969 - Cleaning of schools",
+      "conceptLink": "/ec2/concept/5994510"
+    }
+  },
+  {
+    "uri": "en/37/814738",
+    "id": "814738",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of shoes",
+    "harm": {
+      "id": "0035048",
+      "title": "814738 - Cleaning of shoes",
+      "conceptLink": "/ec2/concept/5983519"
+    }
+  },
+  {
+    "uri": "en/37/814982",
+    "id": "814982",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of shops",
+    "harm": {
+      "id": "0038995",
+      "title": "814982 - Cleaning of shops",
+      "conceptLink": "/ec2/concept/5987110"
+    }
+  },
+  {
+    "uri": "en/37/814995",
+    "id": "814995",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of site roads",
+    "harm": {
+      "id": "0015902",
+      "title": "814995 - Cleaning of site roads",
+      "conceptLink": "/ec2/concept/5966027"
+    }
+  },
+  {
+    "uri": "en/37/815008",
+    "id": "815008",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of stone work",
+    "harm": {
+      "id": "0015903",
+      "title": "815008 - Cleaning of stone work",
+      "conceptLink": "/ec2/concept/5966028"
+    }
+  },
+  {
+    "uri": "en/37/815021",
+    "id": "815021",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of storage containers",
+    "harm": {
+      "id": "0038996",
+      "title": "815021 - Cleaning of storage containers",
+      "conceptLink": "/ec2/concept/5987111"
+    }
+  },
+  {
+    "uri": "en/37/369536",
+    "id": "369536",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of storage tanks",
+    "harm": {
+      "id": "0014680",
+      "title": "369536 - Cleaning of storage tanks",
+      "conceptLink": "/ec2/concept/5964902"
+    }
+  },
+  {
+    "uri": "en/37/41611",
+    "id": "41611",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of streets",
+    "harm": {
+      "id": "0057985",
+      "title": "41611 - Cleaning of streets",
+      "conceptLink": "/ec2/concept/5999489"
+    }
+  },
+  {
+    "uri": "en/37/815033",
+    "id": "815033",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of structures",
+    "harm": {
+      "id": "0058354",
+      "title": "815033 - Cleaning of structures",
+      "conceptLink": "/ec2/concept/5999853"
+    }
+  },
+  {
+    "uri": "en/37/120892786",
+    "id": "120892786",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of surgical instruments and equipment",
+    "harm": {
+      "id": "0068053",
+      "title": "120892786 - Cleaning of surgical instruments and equipment",
+      "conceptLink": "/ec2/concept/6004256"
+    }
+  },
+  {
+    "uri": "en/37/38684",
+    "id": "38684",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of textiles",
+    "harm": {
+      "id": "0046169",
+      "title": "38684 - Cleaning of textiles",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/41142",
+    "id": "41142",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of the exterior surfaces of buildings",
+    "harm": {
+      "id": "0058355",
+      "title": "41142 - Cleaning of the exterior surfaces of buildings",
+      "conceptLink": "/ec2/concept/5999854"
+    }
+  },
+  {
+    "uri": "en/37/815047",
+    "id": "815047",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of the interior surfaces of buildings",
+    "harm": {
+      "id": "0004358",
+      "title": "815047 - Cleaning of the interior surfaces of buildings",
+      "conceptLink": "/ec2/concept/5955439"
+    }
+  },
+  {
+    "uri": "en/37/815059",
+    "id": "815059",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of upholstery",
+    "harm": {
+      "id": "0033185",
+      "title": "815059 - Cleaning of upholstery",
+      "conceptLink": "/ec2/concept/5981827"
+    }
+  },
+  {
+    "uri": "en/37/23029565",
+    "id": "23029565",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of urban areas",
+    "harm": {
+      "id": "0068354",
+      "title": "23029565 - Cleaning of urban areas",
+      "conceptLink": "/ec2/concept/6004557"
+    }
+  },
+  {
+    "uri": "en/37/40264",
+    "id": "40264",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of vehicles",
+    "harm": {
+      "id": "0058644",
+      "title": "40264 - Cleaning of vehicles",
+      "conceptLink": "/ec2/concept/6000137"
+    }
+  },
+  {
+    "uri": "en/37/120892792",
+    "id": "120892792",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of venues before and after events",
+    "harm": {
+      "id": "0068050",
+      "title": "120892792 - Cleaning of venues before and after events",
+      "conceptLink": "/ec2/concept/6004253"
+    }
+  },
+  {
+    "uri": "en/37/815072",
+    "id": "815072",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of wall surfaces",
+    "harm": {
+      "id": "0039929",
+      "title": "815072 - Cleaning of wall surfaces",
+      "conceptLink": "/ec2/concept/5987969"
+    }
+  },
+  {
+    "uri": "en/37/815088",
+    "id": "815088",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of water cylinders",
+    "harm": {
+      "id": "0011062",
+      "title": "815088 - Cleaning of water cylinders",
+      "conceptLink": "/ec2/concept/5961582"
+    }
+  },
+  {
+    "uri": "en/37/815114",
+    "id": "815114",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of water supply plumbing",
+    "harm": {
+      "id": "0005331",
+      "title": "815114 - Cleaning of water supply plumbing",
+      "conceptLink": "/ec2/concept/5956337"
+    }
+  },
+  {
+    "uri": "en/37/815113",
+    "id": "815113",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of water supply pipework",
+    "harm": {
+      "id": "0005331",
+      "title": "815113 - Cleaning of water supply pipework",
+      "conceptLink": "/ec2/concept/5956337"
+    }
+  },
+  {
+    "uri": "en/37/815089",
+    "id": "815089",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of water tanks",
+    "harm": {
+      "id": "0011062",
+      "title": "815089 - Cleaning of water tanks",
+      "conceptLink": "/ec2/concept/5961582"
+    }
+  },
+  {
+    "uri": "en/37/38429",
+    "id": "38429",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning of windows",
+    "harm": {
+      "id": "0000164",
+      "title": "38429 - Cleaning of windows",
+      "conceptLink": "/ec2/concept/5951639"
+    }
+  },
+  {
+    "uri": "en/37/480422",
+    "id": "480422",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning services",
+    "harm": {
+      "id": "0030126",
+      "title": "480422 - Cleaning services",
+      "conceptLink": "/ec2/concept/5979040"
+    }
+  },
+  {
+    "uri": "en/37/815133",
+    "id": "815133",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleaning soft furnishings",
+    "harm": {
+      "id": "0028396",
+      "title": "815133 - Cleaning soft furnishings",
+      "conceptLink": "/ec2/concept/5977452"
+    }
+  },
+  {
+    "uri": "en/37/815145",
+    "id": "815145",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of baths",
+    "harm": {
+      "id": "0028397",
+      "title": "815145 - Cleansing of baths",
+      "conceptLink": "/ec2/concept/5977453"
+    }
+  },
+  {
+    "uri": "en/37/41146",
+    "id": "41146",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of buildings",
+    "harm": {
+      "id": "0024467",
+      "title": "41146 - Cleansing of buildings",
+      "conceptLink": "/ec2/concept/5973852"
+    }
+  },
+  {
+    "uri": "en/37/815159",
+    "id": "815159",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of mobile structures",
+    "harm": {
+      "id": "0039930",
+      "title": "815159 - Cleansing of mobile structures",
+      "conceptLink": "/ec2/concept/5987970"
+    }
+  },
+  {
+    "uri": "en/37/815172",
+    "id": "815172",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of pools",
+    "harm": {
+      "id": "0043286",
+      "title": "815172 - Cleansing of pools",
+      "conceptLink": "/ec2/concept/5991024"
+    }
+  },
+  {
+    "uri": "en/37/815193",
+    "id": "815193",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of public conveniences",
+    "harm": {
+      "id": "0005332",
+      "title": "815193 - Cleansing of public conveniences",
+      "conceptLink": "/ec2/concept/5956338"
+    }
+  },
+  {
+    "uri": "en/37/369537",
+    "id": "369537",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cleansing of tanks",
+    "harm": {
+      "id": "0014680",
+      "title": "369537 - Cleansing of tanks",
+      "conceptLink": "/ec2/concept/5964902"
+    }
+  },
+  {
+    "uri": "en/37/120893166",
+    "id": "120893166",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clearing and cleaning gutters",
+    "harm": {
+      "id": "0068066",
+      "title": "120893166 - Clearing and cleaning gutters",
+      "conceptLink": "/ec2/concept/6004269"
+    }
+  },
+  {
+    "uri": "en/37/815207",
+    "id": "815207",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clearing of pipework systems used in the manufacturing industries",
+    "harm": {
+      "id": "0018284",
+      "title": "815207 - Clearing of pipework systems used in the manufacturing industries",
+      "conceptLink": "/ec2/concept/5968193"
+    }
+  },
+  {
+    "uri": "en/37/815220",
+    "id": "815220",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clearing of pipework systems used in the refining industries",
+    "harm": {
+      "id": "0018285",
+      "title": "815220 - Clearing of pipework systems used in the refining industries",
+      "conceptLink": "/ec2/concept/5968194"
+    }
+  },
+  {
+    "uri": "en/37/815232",
+    "id": "815232",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clearing of tree-roots",
+    "harm": {
+      "id": "0012478",
+      "title": "815232 - Clearing of tree-roots",
+      "conceptLink": "/ec2/concept/5962882"
+    }
+  },
+  {
+    "uri": "en/37/38776",
+    "id": "38776",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock and watch mending",
+    "harm": {
+      "id": "0012479",
+      "title": "38776 - Clock and watch mending",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/38771",
+    "id": "38771",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock and watch repair",
+    "harm": {
+      "id": "0012479",
+      "title": "38771 - Clock and watch repair",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/2325475",
+    "id": "2325475",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock and watch repair or maintenance",
+    "harm": {
+      "id": "0071342",
+      "title": "2325475 - Clock and watch repair or maintenance",
+      "conceptLink": "/ec2/concept/6007533"
+    }
+  },
+  {
+    "uri": "en/37/100240617",
+    "id": "100240617",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock and watch repair services",
+    "harm": {
+      "id": "0012479",
+      "title": "100240617 - Clock and watch repair services",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/38772",
+    "id": "38772",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock repair",
+    "harm": {
+      "id": "0012479",
+      "title": "38772 - Clock repair",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/137140560",
+    "id": "137140560",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clock repair or maintenance",
+    "harm": {
+      "id": "0012479",
+      "title": "137140560 - Clock repair or maintenance",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/914672",
+    "id": "914672",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cloth ironing",
+    "harm": {
+      "id": "0027276",
+      "title": "914672 - Cloth ironing",
+      "conceptLink": "/ec2/concept/5976411"
+    }
+  },
+  {
+    "uri": "en/37/36778",
+    "id": "36778",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cloth laundering",
+    "harm": {
+      "id": "0046169",
+      "title": "36778 - Cloth laundering",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/36777",
+    "id": "36777",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cloth laundry",
+    "harm": {
+      "id": "0046169",
+      "title": "36777 - Cloth laundry",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/914691",
+    "id": "914691",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cloth pressing",
+    "harm": {
+      "id": "0010569",
+      "title": "914691 - Cloth pressing",
+      "conceptLink": "/ec2/concept/5961132"
+    }
+  },
+  {
+    "uri": "en/37/36781",
+    "id": "36781",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Cloth washing",
+    "harm": {
+      "id": "0046169",
+      "title": "36781 - Cloth washing",
+      "conceptLink": "/ec2/concept/5993672"
+    }
+  },
+  {
+    "uri": "en/37/38681",
+    "id": "38681",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing (Cleaning of -)",
+    "harm": {
+      "id": "0047368",
+      "title": "38681 - Clothing (Cleaning of -)",
+      "conceptLink": "/ec2/concept/5994704"
+    }
+  },
+  {
+    "uri": "en/37/39159",
+    "id": "39159",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing ironing",
+    "harm": {
+      "id": "0057461",
+      "title": "39159 - Clothing ironing",
+      "conceptLink": "/ec2/concept/5998967"
+    }
+  },
+  {
+    "uri": "en/37/36780",
+    "id": "36780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing laundering",
+    "harm": {
+      "id": "0047307",
+      "title": "36780 - Clothing laundering",
+      "conceptLink": "/ec2/concept/5994657"
+    }
+  },
+  {
+    "uri": "en/37/36779",
+    "id": "36779",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing laundry",
+    "harm": {
+      "id": "0047307",
+      "title": "36779 - Clothing laundry",
+      "conceptLink": "/ec2/concept/5994657"
+    }
+  },
+  {
+    "uri": "en/37/39157",
+    "id": "39157",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Clothing pressing",
+    "harm": {
+      "id": "0057460",
+      "title": "39157 - Clothing pressing",
+      "conceptLink": "/ec2/concept/5998966"
+    }
+  }
+]

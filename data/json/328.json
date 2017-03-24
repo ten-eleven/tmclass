@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/12/192766",
+    "id": "192766",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aeronautical apparatus, machines and appliances",
+    "harm": {
+      "id": "0020973",
+      "title": "192766 - Aeronautical apparatus, machines and appliances",
+      "conceptLink": "/ec2/concept/5970652"
+    }
+  },
+  {
+    "uri": "en/12/183281",
+    "id": "183281",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aeroplanes",
+    "harm": {
+      "id": "0072249",
+      "title": "183281 - Aeroplanes",
+      "conceptLink": "/ec2/concept/6008432"
+    }
+  },
+  {
+    "uri": "en/12/336773",
+    "id": "336773",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aeroplanes towing vehicles",
+    "harm": {
+      "id": "0055985",
+      "title": "336773 - Aeroplanes towing vehicles",
+      "conceptLink": "/ec2/concept/5997351"
+    }
+  },
+  {
+    "uri": "en/12/900296",
+    "id": "900296",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aerostats",
+    "harm": {
+      "id": "0023582",
+      "title": "900296 - Aerostats",
+      "conceptLink": "/ec2/concept/5973042"
+    }
+  },
+  {
+    "uri": "en/12/739991",
+    "id": "739991",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Afterburners for land vehicle engines",
+    "harm": {
+      "id": "0005047",
+      "title": "739991 - Afterburners for land vehicle engines",
+      "conceptLink": "/ec2/concept/5956078"
+    }
+  },
+  {
+    "uri": "en/12/120918972",
+    "id": "120918972",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air and space vehicles",
+    "harm": {
+      "id": "0047828",
+      "title": "120918972 - Air and space vehicles",
+      "conceptLink": "/ec2/concept/5995102"
+    }
+  },
+  {
+    "uri": "en/12/194288",
+    "id": "194288",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air bags [safety devices for automobiles]",
+    "harm": {
+      "id": "0004640",
+      "title": "194288 - Air bags [safety devices for automobiles]",
+      "conceptLink": "/ec2/concept/5955701"
+    }
+  },
+  {
+    "uri": "en/12/183356",
+    "id": "183356",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air balloons",
+    "harm": {
+      "id": "0023582",
+      "title": "183356 - Air balloons",
+      "conceptLink": "/ec2/concept/5973042"
+    }
+  },
+  {
+    "uri": "en/12/193994",
+    "id": "193994",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air cushion borne vehicles",
+    "harm": {
+      "id": "0046925",
+      "title": "193994 - Air cushion borne vehicles",
+      "conceptLink": "/ec2/concept/5994314"
+    }
+  },
+  {
+    "uri": "en/12/193990",
+    "id": "193990",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air-cushion vehicles",
+    "harm": {
+      "id": "0046925",
+      "title": "193990 - Air-cushion vehicles",
+      "conceptLink": "/ec2/concept/5994314"
+    }
+  },
+  {
+    "uri": "en/12/193992",
+    "id": "193992",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air cushion vehicles",
+    "harm": {
+      "id": "0046925",
+      "title": "193992 - Air cushion vehicles",
+      "conceptLink": "/ec2/concept/5994314"
+    }
+  },
+  {
+    "uri": "en/12/740010",
+    "id": "740010",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air deflector boxes for vehicles",
+    "harm": {
+      "id": "0046714",
+      "title": "740010 - Air deflector boxes for vehicles",
+      "conceptLink": "/ec2/concept/5994125"
+    }
+  },
+  {
+    "uri": "en/12/740011",
+    "id": "740011",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air deflectors for vehicles",
+    "harm": {
+      "id": "0046714",
+      "title": "740011 - Air deflectors for vehicles",
+      "conceptLink": "/ec2/concept/5994125"
+    }
+  },
+  {
+    "uri": "en/12/740040",
+    "id": "740040",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air flow spoilers",
+    "harm": {
+      "id": "0016585",
+      "title": "740040 - Air flow spoilers",
+      "conceptLink": "/ec2/concept/5966650"
+    }
+  },
+  {
+    "uri": "en/12/740055",
+    "id": "740055",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air flow spoilers for vehicles",
+    "harm": {
+      "id": "0033073",
+      "title": "740055 - Air flow spoilers for vehicles",
+      "conceptLink": "/ec2/concept/5981724"
+    }
+  },
+  {
+    "uri": "en/12/740066",
+    "id": "740066",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pressure pumps [vehicle accessories]",
+    "harm": {
+      "id": "0044628",
+      "title": "740066 - Air pressure pumps [vehicle accessories]",
+      "conceptLink": "/ec2/concept/5992260"
+    }
+  },
+  {
+    "uri": "en/12/119533517",
+    "id": "119533517",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for automobiles",
+    "harm": {
+      "id": "0055986",
+      "title": "119533517 - Air pumps for automobiles",
+      "conceptLink": "/ec2/concept/5997352"
+    }
+  },
+  {
+    "uri": "en/12/6705098",
+    "id": "6705098",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for bicycles",
+    "harm": {
+      "id": "0004247",
+      "title": "6705098 - Air pumps for bicycles",
+      "conceptLink": "/ec2/concept/5955335"
+    }
+  },
+  {
+    "uri": "en/12/740082",
+    "id": "740082",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for bicycles for the inflation of tyres",
+    "harm": {
+      "id": "0004247",
+      "title": "740082 - Air pumps for bicycles for the inflation of tyres",
+      "conceptLink": "/ec2/concept/5955335"
+    }
+  },
+  {
+    "uri": "en/12/740081",
+    "id": "740081",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for inflating bicycle tyres",
+    "harm": {
+      "id": "0004247",
+      "title": "740081 - Air pumps for inflating bicycle tyres",
+      "conceptLink": "/ec2/concept/5955335"
+    }
+  },
+  {
+    "uri": "en/12/137729041",
+    "id": "137729041",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for motorcycles",
+    "harm": {
+      "id": "0069863",
+      "title": "137729041 - Air pumps for motorcycles",
+      "conceptLink": "/ec2/concept/6006066"
+    }
+  },
+  {
+    "uri": "en/12/119533518",
+    "id": "119533518",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps for two-wheeled motor vehicles or bicycles",
+    "harm": {
+      "id": "0055987",
+      "title": "119533518 - Air pumps for two-wheeled motor vehicles or bicycles",
+      "conceptLink": "/ec2/concept/5997353"
+    }
+  },
+  {
+    "uri": "en/12/183513",
+    "id": "183513",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air pumps [vehicle accessories]",
+    "harm": {
+      "id": "0040890",
+      "title": "183513 - Air pumps [vehicle accessories]",
+      "conceptLink": "/ec2/concept/5988840"
+    }
+  },
+  {
+    "uri": "en/12/336788",
+    "id": "336788",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air springs for vehicle suspension components for cushioning driver's seats and cabs",
+    "harm": {
+      "id": "0027077",
+      "title": "336788 - Air springs for vehicle suspension components for cushioning driver's seats and cabs",
+      "conceptLink": "/ec2/concept/5976231"
+    }
+  },
+  {
+    "uri": "en/12/501679",
+    "id": "501679",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air turbines for land vehicles",
+    "harm": {
+      "id": "0041930",
+      "title": "501679 - Air turbines for land vehicles",
+      "conceptLink": "/ec2/concept/5989793"
+    }
+  },
+  {
+    "uri": "en/12/183282",
+    "id": "183282",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Air vehicles",
+    "harm": {
+      "id": "0072247",
+      "title": "183282 - Air vehicles",
+      "conceptLink": "/ec2/concept/6008430"
+    }
+  },
+  {
+    "uri": "en/12/900383",
+    "id": "900383",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airbags for vehicles",
+    "harm": {
+      "id": "0046900",
+      "title": "900383 - Airbags for vehicles",
+      "conceptLink": "/ec2/concept/5994291"
+    }
+  },
+  {
+    "uri": "en/12/183283",
+    "id": "183283",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft",
+    "harm": {
+      "id": "0072248",
+      "title": "183283 - Aircraft",
+      "conceptLink": "/ec2/concept/6008431"
+    }
+  },
+  {
+    "uri": "en/12/900395",
+    "id": "900395",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft carriers",
+    "harm": {
+      "id": "0022427",
+      "title": "900395 - Aircraft carriers",
+      "conceptLink": "/ec2/concept/5971982"
+    }
+  },
+  {
+    "uri": "en/12/131040708",
+    "id": "131040708",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft fuselages",
+    "harm": {
+      "id": "0039697",
+      "title": "131040708 - Aircraft fuselages",
+      "conceptLink": "/ec2/concept/5987750"
+    }
+  },
+  {
+    "uri": "en/12/78044419",
+    "id": "78044419",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft landing gear",
+    "harm": {
+      "id": "0045440",
+      "title": "78044419 - Aircraft landing gear",
+      "conceptLink": "/ec2/concept/5993005"
+    }
+  },
+  {
+    "uri": "en/12/131040692",
+    "id": "131040692",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft landing gear wheels",
+    "harm": {
+      "id": "0015802",
+      "title": "131040692 - Aircraft landing gear wheels",
+      "conceptLink": "/ec2/concept/5965931"
+    }
+  },
+  {
+    "uri": "en/12/740097",
+    "id": "740097",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aircraft landing wheels",
+    "harm": {
+      "id": "0015802",
+      "title": "740097 - Aircraft landing wheels",
+      "conceptLink": "/ec2/concept/5965931"
+    }
+  },
+  {
+    "uri": "en/12/120884048",
+    "id": "120884048",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airline seats with a massage function",
+    "harm": {
+      "id": "0066345",
+      "title": "120884048 - Airline seats with a massage function",
+      "conceptLink": "/ec2/concept/6002548"
+    }
+  },
+  {
+    "uri": "en/12/336804",
+    "id": "336804",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplane propellers",
+    "harm": {
+      "id": "0046300",
+      "title": "336804 - Airplane propellers",
+      "conceptLink": "/ec2/concept/5993760"
+    }
+  },
+  {
+    "uri": "en/12/136147260",
+    "id": "136147260",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplane seats",
+    "harm": {
+      "id": "0050518",
+      "title": "136147260 - Airplane seats",
+      "conceptLink": "/ec2/concept/5995887"
+    }
+  },
+  {
+    "uri": "en/12/120903702",
+    "id": "120903702",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplane towing vehicles",
+    "harm": {
+      "id": "0055985",
+      "title": "120903702 - Airplane towing vehicles",
+      "conceptLink": "/ec2/concept/5997351"
+    }
+  },
+  {
+    "uri": "en/12/183284",
+    "id": "183284",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplanes",
+    "harm": {
+      "id": "0072249",
+      "title": "183284 - Airplanes",
+      "conceptLink": "/ec2/concept/6008432"
+    }
+  },
+  {
+    "uri": "en/12/183708",
+    "id": "183708",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplanes (Amphibious -)",
+    "harm": {
+      "id": "0008933",
+      "title": "183708 - Airplanes (Amphibious -)",
+      "conceptLink": "/ec2/concept/5959629"
+    }
+  },
+  {
+    "uri": "en/12/410185",
+    "id": "410185",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airplanes and structural parts therefor",
+    "harm": {
+      "id": "0041215",
+      "title": "410185 - Airplanes and structural parts therefor",
+      "conceptLink": "/ec2/concept/5989142"
+    }
+  },
+  {
+    "uri": "en/12/184632",
+    "id": "184632",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airships",
+    "harm": {
+      "id": "0036278",
+      "title": "184632 - Airships",
+      "conceptLink": "/ec2/concept/5984634"
+    }
+  },
+  {
+    "uri": "en/12/184630",
+    "id": "184630",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airships [dirigible balloons]",
+    "harm": {
+      "id": "0036278",
+      "title": "184630 - Airships [dirigible balloons]",
+      "conceptLink": "/ec2/concept/5984634"
+    }
+  },
+  {
+    "uri": "en/12/740121",
+    "id": "740121",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airsprings for cushioning drivers seats",
+    "harm": {
+      "id": "0004248",
+      "title": "740121 - Airsprings for cushioning drivers seats",
+      "conceptLink": "/ec2/concept/5955336"
+    }
+  },
+  {
+    "uri": "en/12/740108",
+    "id": "740108",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Airsprings for cushioning drivers cabs",
+    "harm": {
+      "id": "0033074",
+      "title": "740108 - Airsprings for cushioning drivers cabs",
+      "conceptLink": "/ec2/concept/5981725"
+    }
+  },
+  {
+    "uri": "en/12/740133",
+    "id": "740133",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm instruments for vehicles",
+    "harm": {
+      "id": "0027325",
+      "title": "740133 - Alarm instruments for vehicles",
+      "conceptLink": "/ec2/concept/5976455"
+    }
+  },
+  {
+    "uri": "en/12/740147",
+    "id": "740147",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for aircraft",
+    "harm": {
+      "id": "0033075",
+      "title": "740147 - Alarm systems for aircraft",
+      "conceptLink": "/ec2/concept/5981726"
+    }
+  },
+  {
+    "uri": "en/12/740159",
+    "id": "740159",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for cars",
+    "harm": {
+      "id": "0004249",
+      "title": "740159 - Alarm systems for cars",
+      "conceptLink": "/ec2/concept/5955337"
+    }
+  },
+  {
+    "uri": "en/12/740176",
+    "id": "740176",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for land vehicles",
+    "harm": {
+      "id": "0033076",
+      "title": "740176 - Alarm systems for land vehicles",
+      "conceptLink": "/ec2/concept/5981727"
+    }
+  },
+  {
+    "uri": "en/12/740187",
+    "id": "740187",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for motor vehicles",
+    "harm": {
+      "id": "0039869",
+      "title": "740187 - Alarm systems for motor vehicles",
+      "conceptLink": "/ec2/concept/5987910"
+    }
+  },
+  {
+    "uri": "en/12/740201",
+    "id": "740201",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for trucks",
+    "harm": {
+      "id": "0016817",
+      "title": "740201 - Alarm systems for trucks",
+      "conceptLink": "/ec2/concept/5966860"
+    }
+  },
+  {
+    "uri": "en/12/101445022",
+    "id": "101445022",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for vehicles",
+    "harm": {
+      "id": "0040231",
+      "title": "101445022 - Alarm systems for vehicles",
+      "conceptLink": "/ec2/concept/5988244"
+    }
+  },
+  {
+    "uri": "en/12/740214",
+    "id": "740214",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarm systems for watercraft",
+    "harm": {
+      "id": "0045626",
+      "title": "740214 - Alarm systems for watercraft",
+      "conceptLink": "/ec2/concept/5993170"
+    }
+  },
+  {
+    "uri": "en/12/124455126",
+    "id": "124455126",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarms (Anti-theft -) for vehicles",
+    "harm": {
+      "id": "0029309",
+      "title": "124455126 - Alarms (Anti-theft -) for vehicles",
+      "conceptLink": "/ec2/concept/5978291"
+    }
+  },
+  {
+    "uri": "en/12/740241",
+    "id": "740241",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarms for motor vehicles",
+    "harm": {
+      "id": "0022685",
+      "title": "740241 - Alarms for motor vehicles",
+      "conceptLink": "/ec2/concept/5972217"
+    }
+  },
+  {
+    "uri": "en/12/740258",
+    "id": "740258",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarms for vehicles",
+    "harm": {
+      "id": "0011019",
+      "title": "740258 - Alarms for vehicles",
+      "conceptLink": "/ec2/concept/5961543"
+    }
+  },
+  {
+    "uri": "en/12/124449159",
+    "id": "124449159",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Alarms (Reversing -) for vehicles",
+    "harm": {
+      "id": "0036216",
+      "title": "124449159 - Alarms (Reversing -) for vehicles",
+      "conceptLink": "/ec2/concept/5984578"
+    }
+  },
+  {
+    "uri": "en/12/740274",
+    "id": "740274",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "All-terrain fork-lift trucks",
+    "harm": {
+      "id": "0034131",
+      "title": "740274 - All-terrain fork-lift trucks",
+      "conceptLink": "/ec2/concept/5982696"
+    }
+  },
+  {
+    "uri": "en/12/740287",
+    "id": "740287",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "All-terrain fork-lift trucks having a telescopic arm",
+    "harm": {
+      "id": "0039870",
+      "title": "740287 - All-terrain fork-lift trucks having a telescopic arm",
+      "conceptLink": "/ec2/concept/5987911"
+    }
+  },
+  {
+    "uri": "en/12/900460",
+    "id": "900460",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "All-terrain vehicles",
+    "harm": {
+      "id": "0038935",
+      "title": "900460 - All-terrain vehicles",
+      "conceptLink": "/ec2/concept/5987054"
+    }
+  },
+  {
+    "uri": "en/12/193841",
+    "id": "193841",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Ambulances",
+    "harm": {
+      "id": "0013153",
+      "title": "193841 - Ambulances",
+      "conceptLink": "/ec2/concept/5963497"
+    }
+  },
+  {
+    "uri": "en/12/183709",
+    "id": "183709",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Amphibious airplanes",
+    "harm": {
+      "id": "0008933",
+      "title": "183709 - Amphibious airplanes",
+      "conceptLink": "/ec2/concept/5959629"
+    }
+  },
+  {
+    "uri": "en/12/336832",
+    "id": "336832",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Amphibious craft",
+    "harm": {
+      "id": "0021448",
+      "title": "336832 - Amphibious craft",
+      "conceptLink": "/ec2/concept/5971083"
+    }
+  },
+  {
+    "uri": "en/12/336831",
+    "id": "336831",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Amphibious vehicles",
+    "harm": {
+      "id": "0021448",
+      "title": "336831 - Amphibious vehicles",
+      "conceptLink": "/ec2/concept/5971083"
+    }
+  },
+  {
+    "uri": "en/12/740300",
+    "id": "740300",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Animal transport containers in the nature of vehicle bodies",
+    "harm": {
+      "id": "0028342",
+      "title": "740300 - Animal transport containers in the nature of vehicle bodies",
+      "conceptLink": "/ec2/concept/5977400"
+    }
+  },
+  {
+    "uri": "en/12/125314448",
+    "id": "125314448",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-dazzle devices for vehicles",
+    "harm": {
+      "id": "0003538",
+      "title": "125314448 - Anti-dazzle devices for vehicles",
+      "conceptLink": "/ec2/concept/5954688"
+    }
+  },
+  {
+    "uri": "en/12/125314447",
+    "id": "125314447",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-glare devices for vehicles",
+    "harm": {
+      "id": "0003538",
+      "title": "125314447 - Anti-glare devices for vehicles",
+      "conceptLink": "/ec2/concept/5954688"
+    }
+  },
+  {
+    "uri": "en/12/740314",
+    "id": "740314",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-glare sunstrips for vehicles",
+    "harm": {
+      "id": "0006644",
+      "title": "740314 - Anti-glare sunstrips for vehicles",
+      "conceptLink": "/ec2/concept/5957539"
+    }
+  },
+  {
+    "uri": "en/12/183817",
+    "id": "183817",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-skid chains",
+    "harm": {
+      "id": "0032068",
+      "title": "183817 - Anti-skid chains",
+      "conceptLink": "/ec2/concept/5980805"
+    }
+  },
+  {
+    "uri": "en/12/900530",
+    "id": "900530",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-skid chains for vehicle tires",
+    "harm": {
+      "id": "0000411",
+      "title": "900530 - Anti-skid chains for vehicle tires",
+      "conceptLink": "/ec2/concept/5951858"
+    }
+  },
+  {
+    "uri": "en/12/119533551",
+    "id": "119533551",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-skid studs for vehicle tires",
+    "harm": {
+      "id": "0055988",
+      "title": "119533551 - Anti-skid studs for vehicle tires",
+      "conceptLink": "/ec2/concept/5997354"
+    }
+  },
+  {
+    "uri": "en/12/890594",
+    "id": "890594",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-skid textile covers for tires",
+    "harm": {
+      "id": "0041776",
+      "title": "890594 - Anti-skid textile covers for tires",
+      "conceptLink": "/ec2/concept/5989652"
+    }
+  },
+  {
+    "uri": "en/12/740329",
+    "id": "740329",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-slide chains for vehicle wheels",
+    "harm": {
+      "id": "0035567",
+      "title": "740329 - Anti-slide chains for vehicle wheels",
+      "conceptLink": "/ec2/concept/5983992"
+    }
+  },
+  {
+    "uri": "en/12/740348",
+    "id": "740348",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-static strips for vehicles",
+    "harm": {
+      "id": "0024060",
+      "title": "740348 - Anti-static strips for vehicles",
+      "conceptLink": "/ec2/concept/5973483"
+    }
+  },
+  {
+    "uri": "en/12/192997",
+    "id": "192997",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft alarms for vehicles",
+    "harm": {
+      "id": "0029309",
+      "title": "192997 - Anti-theft alarms for vehicles",
+      "conceptLink": "/ec2/concept/5978291"
+    }
+  },
+  {
+    "uri": "en/12/120903587",
+    "id": "120903587",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft devices for automobiles",
+    "harm": {
+      "id": "0070988",
+      "title": "120903587 - Anti-theft devices for automobiles",
+      "conceptLink": "/ec2/concept/6007180"
+    }
+  },
+  {
+    "uri": "en/12/136400398",
+    "id": "136400398",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft devices for land vehicles",
+    "harm": {
+      "id": "0021449",
+      "title": "136400398 - Anti-theft devices for land vehicles",
+      "conceptLink": "/ec2/concept/5971084"
+    }
+  },
+  {
+    "uri": "en/12/336857",
+    "id": "336857",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft devices for motor cars",
+    "harm": {
+      "id": "0021449",
+      "title": "336857 - Anti-theft devices for motor cars",
+      "conceptLink": "/ec2/concept/5971084"
+    }
+  },
+  {
+    "uri": "en/12/192707",
+    "id": "192707",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft devices for vehicles",
+    "harm": {
+      "id": "0023588",
+      "title": "192707 - Anti-theft devices for vehicles",
+      "conceptLink": "/ec2/concept/5973047"
+    }
+  },
+  {
+    "uri": "en/12/900560",
+    "id": "900560",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft locks for use on automobile steering wheels",
+    "harm": {
+      "id": "0023589",
+      "title": "900560 - Anti-theft locks for use on automobile steering wheels",
+      "conceptLink": "/ec2/concept/5973048"
+    }
+  },
+  {
+    "uri": "en/12/131133393",
+    "id": "131133393",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft, security and safety devices and equipment for vehicles",
+    "harm": {
+      "id": "0047809",
+      "title": "131133393 - Anti-theft, security and safety devices and equipment for vehicles",
+      "conceptLink": "/ec2/concept/5995084"
+    }
+  },
+  {
+    "uri": "en/12/336858",
+    "id": "336858",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Anti-theft warning apparatus for motor cars",
+    "harm": {
+      "id": "0021449",
+      "title": "336858 - Anti-theft warning apparatus for motor cars",
+      "conceptLink": "/ec2/concept/5971084"
+    }
+  },
+  {
+    "uri": "en/12/410214",
+    "id": "410214",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Antilock brake systems and components",
+    "harm": {
+      "id": "0028167",
+      "title": "410214 - Antilock brake systems and components",
+      "conceptLink": "/ec2/concept/5977236"
+    }
+  },
+  {
+    "uri": "en/12/193000",
+    "id": "193000",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Antitheft alarms for vehicles",
+    "harm": {
+      "id": "0029309",
+      "title": "193000 - Antitheft alarms for vehicles",
+      "conceptLink": "/ec2/concept/5978291"
+    }
+  },
+  {
+    "uri": "en/12/192709",
+    "id": "192709",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Antitheft devices for vehicles",
+    "harm": {
+      "id": "0023588",
+      "title": "192709 - Antitheft devices for vehicles",
+      "conceptLink": "/ec2/concept/5973047"
+    }
+  },
+  {
+    "uri": "en/12/491908",
+    "id": "491908",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Apparatus for locomotion by water",
+    "harm": {
+      "id": "0035881",
+      "title": "491908 - Apparatus for locomotion by water",
+      "conceptLink": "/ec2/concept/5984274"
+    }
+  },
+  {
+    "uri": "en/12/1150512",
+    "id": "1150512",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Apparatus for locomotion by land",
+    "harm": {
+      "id": "0048110",
+      "title": "1150512 - Apparatus for locomotion by land",
+      "conceptLink": "/ec2/concept/5995364"
+    }
+  },
+  {
+    "uri": "en/12/1257225",
+    "id": "1257225",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Apparatus for locomotion by air",
+    "harm": {
+      "id": "0048109",
+      "title": "1257225 - Apparatus for locomotion by air",
+      "conceptLink": "/ec2/concept/5995363"
+    }
+  },
+  {
+    "uri": "en/12/191441",
+    "id": "191441",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aprons for carry cot transporters",
+    "harm": {
+      "id": "0059202",
+      "title": "191441 - Aprons for carry cot transporters",
+      "conceptLink": "/ec2/concept/6000691"
+    }
+  },
+  {
+    "uri": "en/12/740363",
+    "id": "740363",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aprons for prams",
+    "harm": {
+      "id": "0059202",
+      "title": "740363 - Aprons for prams",
+      "conceptLink": "/ec2/concept/6000691"
+    }
+  },
+  {
+    "uri": "en/12/740364",
+    "id": "740364",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aprons for pushchairs",
+    "harm": {
+      "id": "0059202",
+      "title": "740364 - Aprons for pushchairs",
+      "conceptLink": "/ec2/concept/6000691"
+    }
+  },
+  {
+    "uri": "en/12/191338",
+    "id": "191338",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Aprons for strollers",
+    "harm": {
+      "id": "0059202",
+      "title": "191338 - Aprons for strollers",
+      "conceptLink": "/ec2/concept/6000691"
+    }
+  },
+  {
+    "uri": "en/12/740383",
+    "id": "740383",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Arm rests for vehicles",
+    "harm": {
+      "id": "0024061",
+      "title": "740383 - Arm rests for vehicles",
+      "conceptLink": "/ec2/concept/5973484"
+    }
+  },
+  {
+    "uri": "en/12/740397",
+    "id": "740397",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Arm rests for wheelchairs",
+    "harm": {
+      "id": "0000867",
+      "title": "740397 - Arm rests for wheelchairs",
+      "conceptLink": "/ec2/concept/5952268"
+    }
+  },
+  {
+    "uri": "en/12/336884",
+    "id": "336884",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armored vehicles",
+    "harm": {
+      "id": "0044412",
+      "title": "336884 - Armored vehicles",
+      "conceptLink": "/ec2/concept/5992058"
+    }
+  },
+  {
+    "uri": "en/12/740415",
+    "id": "740415",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armour protected land vehicles",
+    "harm": {
+      "id": "0029788",
+      "title": "740415 - Armour protected land vehicles",
+      "conceptLink": "/ec2/concept/5978733"
+    }
+  },
+  {
+    "uri": "en/12/740433",
+    "id": "740433",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armoured bodies for vehicles",
+    "harm": {
+      "id": "0029789",
+      "title": "740433 - Armoured bodies for vehicles",
+      "conceptLink": "/ec2/concept/5978734"
+    }
+  },
+  {
+    "uri": "en/12/336885",
+    "id": "336885",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armoured cars",
+    "harm": {
+      "id": "0044412",
+      "title": "336885 - Armoured cars",
+      "conceptLink": "/ec2/concept/5992058"
+    }
+  },
+  {
+    "uri": "en/12/740416",
+    "id": "740416",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armoured land vehicles",
+    "harm": {
+      "id": "0029788",
+      "title": "740416 - Armoured land vehicles",
+      "conceptLink": "/ec2/concept/5978733"
+    }
+  },
+  {
+    "uri": "en/12/13398722",
+    "id": "13398722",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armoured vehicles",
+    "harm": {
+      "id": "0044412",
+      "title": "13398722 - Armoured vehicles",
+      "conceptLink": "/ec2/concept/5992058"
+    }
+  },
+  {
+    "uri": "en/12/137846580",
+    "id": "137846580",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Armrests for automobile seats",
+    "harm": {
+      "id": "0071696",
+      "title": "137846580 - Armrests for automobile seats",
+      "conceptLink": "/ec2/concept/6007884"
+    }
+  }
+]

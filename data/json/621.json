@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/125025635",
+    "id": "125025635",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Assurance (Life -)",
+    "harm": {
+      "id": "0037944",
+      "title": "125025635 - Assurance (Life -)",
+      "conceptLink": "/ec2/concept/5986146"
+    }
+  },
+  {
+    "uri": "en/36/31584",
+    "id": "31584",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Assurance underwriting",
+    "harm": {
+      "id": "0021310",
+      "title": "31584 - Assurance underwriting",
+      "conceptLink": "/ec2/concept/5970960"
+    }
+  },
+  {
+    "uri": "en/36/446928",
+    "id": "446928",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "ATM banking services",
+    "harm": {
+      "id": "0000816",
+      "title": "446928 - ATM banking services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/478159",
+    "id": "478159",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Auto financing services",
+    "harm": {
+      "id": "0045865",
+      "title": "478159 - Auto financing services",
+      "conceptLink": "/ec2/concept/5993394"
+    }
+  },
+  {
+    "uri": "en/36/479576",
+    "id": "479576",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated banking services",
+    "harm": {
+      "id": "0026972",
+      "title": "479576 - Automated banking services",
+      "conceptLink": "/ec2/concept/5976142"
+    }
+  },
+  {
+    "uri": "en/36/800855",
+    "id": "800855",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated banking services relating to credit card transactions",
+    "harm": {
+      "id": "0034264",
+      "title": "800855 - Automated banking services relating to credit card transactions",
+      "conceptLink": "/ec2/concept/5982811"
+    }
+  },
+  {
+    "uri": "en/36/800840",
+    "id": "800840",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated banking services relating to charge card transactions",
+    "harm": {
+      "id": "0045755",
+      "title": "800840 - Automated banking services relating to charge card transactions",
+      "conceptLink": "/ec2/concept/5993291"
+    }
+  },
+  {
+    "uri": "en/36/800871",
+    "id": "800871",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated clearing house services",
+    "harm": {
+      "id": "0022809",
+      "title": "800871 - Automated clearing house services",
+      "conceptLink": "/ec2/concept/5972335"
+    }
+  },
+  {
+    "uri": "en/36/800883",
+    "id": "800883",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated funds transfer services",
+    "harm": {
+      "id": "0016944",
+      "title": "800883 - Automated funds transfer services",
+      "conceptLink": "/ec2/concept/5966975"
+    }
+  },
+  {
+    "uri": "en/36/800898",
+    "id": "800898",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated payment of accounts",
+    "harm": {
+      "id": "0034265",
+      "title": "800898 - Automated payment of accounts",
+      "conceptLink": "/ec2/concept/5982812"
+    }
+  },
+  {
+    "uri": "en/36/446876",
+    "id": "446876",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated payment services",
+    "harm": {
+      "id": "0032146",
+      "title": "446876 - Automated payment services",
+      "conceptLink": "/ec2/concept/5980876"
+    }
+  },
+  {
+    "uri": "en/36/446895",
+    "id": "446895",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated securities brokerage",
+    "harm": {
+      "id": "0003272",
+      "title": "446895 - Automated securities brokerage",
+      "conceptLink": "/ec2/concept/5954441"
+    }
+  },
+  {
+    "uri": "en/36/63917493",
+    "id": "63917493",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated securities trade execution services",
+    "harm": {
+      "id": "0067926",
+      "title": "63917493 - Automated securities trade execution services",
+      "conceptLink": "/ec2/concept/6004129"
+    }
+  },
+  {
+    "uri": "en/36/446929",
+    "id": "446929",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated teller machine services",
+    "harm": {
+      "id": "0000816",
+      "title": "446929 - Automated teller machine services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/367322",
+    "id": "367322",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated telling machine rental",
+    "harm": {
+      "id": "0016207",
+      "title": "367322 - Automated telling machine rental",
+      "conceptLink": "/ec2/concept/5966307"
+    }
+  },
+  {
+    "uri": "en/36/800913",
+    "id": "800913",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automated telling machine services",
+    "harm": {
+      "id": "0000816",
+      "title": "800913 - Automated telling machine services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/800940",
+    "id": "800940",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automatic banking services for change giving",
+    "harm": {
+      "id": "0040003",
+      "title": "800940 - Automatic banking services for change giving",
+      "conceptLink": "/ec2/concept/5988037"
+    }
+  },
+  {
+    "uri": "en/36/446927",
+    "id": "446927",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automatic cash dispensing",
+    "harm": {
+      "id": "0000816",
+      "title": "446927 - Automatic cash dispensing",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/446924",
+    "id": "446924",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automatic cash dispensing services",
+    "harm": {
+      "id": "0000816",
+      "title": "446924 - Automatic cash dispensing services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/800952",
+    "id": "800952",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automatic recording services for financial transactions",
+    "harm": {
+      "id": "0034266",
+      "title": "800952 - Automatic recording services for financial transactions",
+      "conceptLink": "/ec2/concept/5982813"
+    }
+  },
+  {
+    "uri": "en/36/113205493",
+    "id": "113205493",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automobile accident insurance underwriting",
+    "harm": {
+      "id": "0067832",
+      "title": "113205493 - Automobile accident insurance underwriting",
+      "conceptLink": "/ec2/concept/6004035"
+    }
+  },
+  {
+    "uri": "en/36/478177",
+    "id": "478177",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automobile lease financing",
+    "harm": {
+      "id": "0009101",
+      "title": "478177 - Automobile lease financing",
+      "conceptLink": "/ec2/concept/5959787"
+    }
+  },
+  {
+    "uri": "en/36/478176",
+    "id": "478176",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Automobile lease-purchase financing",
+    "harm": {
+      "id": "0009101",
+      "title": "478176 - Automobile lease-purchase financing",
+      "conceptLink": "/ec2/concept/5959787"
+    }
+  },
+  {
+    "uri": "en/36/800966",
+    "id": "800966",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Aviation insurance",
+    "harm": {
+      "id": "0046413",
+      "title": "800966 - Aviation insurance",
+      "conceptLink": "/ec2/concept/5993866"
+    }
+  },
+  {
+    "uri": "en/36/800967",
+    "id": "800967",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Aviation underwriting services",
+    "harm": {
+      "id": "0040004",
+      "title": "800967 - Aviation underwriting services",
+      "conceptLink": "/ec2/concept/5988038"
+    }
+  },
+  {
+    "uri": "en/36/32591",
+    "id": "32591",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bail bond services",
+    "harm": {
+      "id": "0009168",
+      "title": "32591 - Bail bond services",
+      "conceptLink": "/ec2/concept/5959851"
+    }
+  },
+  {
+    "uri": "en/36/32584",
+    "id": "32584",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bail bonding",
+    "harm": {
+      "id": "0072804",
+      "title": "32584 - Bail bonding",
+      "conceptLink": "/ec2/concept/6008979"
+    }
+  },
+  {
+    "uri": "en/36/32585",
+    "id": "32585",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bail-bonding",
+    "harm": {
+      "id": "0072804",
+      "title": "32585 - Bail-bonding",
+      "conceptLink": "/ec2/concept/6008979"
+    }
+  },
+  {
+    "uri": "en/36/32592",
+    "id": "32592",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bail bonding services",
+    "harm": {
+      "id": "0009168",
+      "title": "32592 - Bail bonding services",
+      "conceptLink": "/ec2/concept/5959851"
+    }
+  },
+  {
+    "uri": "en/36/800989",
+    "id": "800989",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bailiff services (debt collection)",
+    "harm": {
+      "id": "0001817",
+      "title": "800989 - Bailiff services (debt collection)",
+      "conceptLink": "/ec2/concept/5953120"
+    }
+  },
+  {
+    "uri": "en/36/446990",
+    "id": "446990",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank account and savings account services",
+    "harm": {
+      "id": "0026365",
+      "title": "446990 - Bank account and savings account services",
+      "conceptLink": "/ec2/concept/5975597"
+    }
+  },
+  {
+    "uri": "en/36/447011",
+    "id": "447011",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank account information services",
+    "harm": {
+      "id": "0003273",
+      "title": "447011 - Bank account information services",
+      "conceptLink": "/ec2/concept/5954442"
+    }
+  },
+  {
+    "uri": "en/36/801004",
+    "id": "801004",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank account services",
+    "harm": {
+      "id": "0036501",
+      "title": "801004 - Bank account services",
+      "conceptLink": "/ec2/concept/5984837"
+    }
+  },
+  {
+    "uri": "en/36/447032",
+    "id": "447032",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank card, credit card, debit card and electronic payment card services",
+    "harm": {
+      "id": "0014876",
+      "title": "447032 - Bank card, credit card, debit card and electronic payment card services",
+      "conceptLink": "/ec2/concept/5965076"
+    }
+  },
+  {
+    "uri": "en/36/801018",
+    "id": "801018",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank card services",
+    "harm": {
+      "id": "0042275",
+      "title": "801018 - Bank card services",
+      "conceptLink": "/ec2/concept/5990109"
+    }
+  },
+  {
+    "uri": "en/36/801034",
+    "id": "801034",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank cheque card services",
+    "harm": {
+      "id": "0036502",
+      "title": "801034 - Bank cheque card services",
+      "conceptLink": "/ec2/concept/5984838"
+    }
+  },
+  {
+    "uri": "en/36/801047",
+    "id": "801047",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bank note checking",
+    "harm": {
+      "id": "0042276",
+      "title": "801047 - Bank note checking",
+      "conceptLink": "/ec2/concept/5990110"
+    }
+  },
+  {
+    "uri": "en/36/479613",
+    "id": "479613",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bankers clearing house services",
+    "harm": {
+      "id": "0024192",
+      "title": "479613 - Bankers clearing house services",
+      "conceptLink": "/ec2/concept/5973607"
+    }
+  },
+  {
+    "uri": "en/36/479611",
+    "id": "479611",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bankers' clearing services",
+    "harm": {
+      "id": "0024192",
+      "title": "479611 - Bankers' clearing services",
+      "conceptLink": "/ec2/concept/5973607"
+    }
+  },
+  {
+    "uri": "en/36/31752",
+    "id": "31752",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking",
+    "harm": {
+      "id": "0046864",
+      "title": "31752 - Banking",
+      "conceptLink": "/ec2/concept/5994257"
+    }
+  },
+  {
+    "uri": "en/36/886411",
+    "id": "886411",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking and financing services",
+    "harm": {
+      "id": "0047189",
+      "title": "886411 - Banking and financing services",
+      "conceptLink": "/ec2/concept/5994554"
+    }
+  },
+  {
+    "uri": "en/36/36145",
+    "id": "36145",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking (Home -)",
+    "harm": {
+      "id": "0058605",
+      "title": "36145 - Banking (Home -)",
+      "conceptLink": "/ec2/concept/6000098"
+    }
+  },
+  {
+    "uri": "en/36/801059",
+    "id": "801059",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking insurance",
+    "harm": {
+      "id": "0013397",
+      "title": "801059 - Banking insurance",
+      "conceptLink": "/ec2/concept/5963717"
+    }
+  },
+  {
+    "uri": "en/36/882564",
+    "id": "882564",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services",
+    "harm": {
+      "id": "0046864",
+      "title": "882564 - Banking services",
+      "conceptLink": "/ec2/concept/5994257"
+    }
+  },
+  {
+    "uri": "en/36/447053",
+    "id": "447053",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services for deposit-taking",
+    "harm": {
+      "id": "0013398",
+      "title": "447053 - Banking services for deposit-taking",
+      "conceptLink": "/ec2/concept/5963718"
+    }
+  },
+  {
+    "uri": "en/36/801074",
+    "id": "801074",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services in relation to the electronic transfer of funds",
+    "harm": {
+      "id": "0019223",
+      "title": "801074 - Banking services in relation to the electronic transfer of funds",
+      "conceptLink": "/ec2/concept/5969064"
+    }
+  },
+  {
+    "uri": "en/36/801089",
+    "id": "801089",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services provided for paying bills by telephone",
+    "harm": {
+      "id": "0013399",
+      "title": "801089 - Banking services provided for paying bills by telephone",
+      "conceptLink": "/ec2/concept/5963719"
+    }
+  },
+  {
+    "uri": "en/36/801104",
+    "id": "801104",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services provided for schools",
+    "harm": {
+      "id": "0001818",
+      "title": "801104 - Banking services provided for schools",
+      "conceptLink": "/ec2/concept/5953121"
+    }
+  },
+  {
+    "uri": "en/36/801116",
+    "id": "801116",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services relating to the transfer of funds from accounts",
+    "harm": {
+      "id": "0013400",
+      "title": "801116 - Banking services relating to the transfer of funds from accounts",
+      "conceptLink": "/ec2/concept/5963720"
+    }
+  },
+  {
+    "uri": "en/36/801131",
+    "id": "801131",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services relating to travellers' cheques",
+    "harm": {
+      "id": "0010689",
+      "title": "801131 - Banking services relating to travellers' cheques",
+      "conceptLink": "/ec2/concept/5961245"
+    }
+  },
+  {
+    "uri": "en/36/120881393",
+    "id": "120881393",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services relating to the acceptance of fixed interval installment payments",
+    "harm": {
+      "id": "0067860",
+      "title": "120881393 - Banking services relating to the acceptance of fixed interval installment payments",
+      "conceptLink": "/ec2/concept/6004063"
+    }
+  },
+  {
+    "uri": "en/36/120881872",
+    "id": "120881872",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Banking services relating to the deposit of money",
+    "harm": {
+      "id": "0067810",
+      "title": "120881872 - Banking services relating to the deposit of money",
+      "conceptLink": "/ec2/concept/6004013"
+    }
+  },
+  {
+    "uri": "en/36/801145",
+    "id": "801145",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Benevolent fund services",
+    "harm": {
+      "id": "0028053",
+      "title": "801145 - Benevolent fund services",
+      "conceptLink": "/ec2/concept/5977133"
+    }
+  },
+  {
+    "uri": "en/36/447069",
+    "id": "447069",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bill consolidation services",
+    "harm": {
+      "id": "0032147",
+      "title": "447069 - Bill consolidation services",
+      "conceptLink": "/ec2/concept/5980877"
+    }
+  },
+  {
+    "uri": "en/36/901041",
+    "id": "901041",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bill payment services",
+    "harm": {
+      "id": "0038019",
+      "title": "901041 - Bill payment services",
+      "conceptLink": "/ec2/concept/5986216"
+    }
+  },
+  {
+    "uri": "en/36/886426",
+    "id": "886426",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bill payment services provided through a website",
+    "harm": {
+      "id": "0021939",
+      "title": "886426 - Bill payment services provided through a website",
+      "conceptLink": "/ec2/concept/5971535"
+    }
+  },
+  {
+    "uri": "en/36/801157",
+    "id": "801157",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bonding [provision of financial guarantees]",
+    "harm": {
+      "id": "0010690",
+      "title": "801157 - Bonding [provision of financial guarantees]",
+      "conceptLink": "/ec2/concept/5961246"
+    }
+  },
+  {
+    "uri": "en/36/32587",
+    "id": "32587",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bonding services",
+    "harm": {
+      "id": "0009168",
+      "title": "32587 - Bonding services",
+      "conceptLink": "/ec2/concept/5959851"
+    }
+  },
+  {
+    "uri": "en/36/447089",
+    "id": "447089",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bonds brokerage",
+    "harm": {
+      "id": "0023242",
+      "title": "447089 - Bonds brokerage",
+      "conceptLink": "/ec2/concept/5972721"
+    }
+  },
+  {
+    "uri": "en/36/801172",
+    "id": "801172",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bonds brokerage services",
+    "harm": {
+      "id": "0034745",
+      "title": "801172 - Bonds brokerage services",
+      "conceptLink": "/ec2/concept/5983245"
+    }
+  },
+  {
+    "uri": "en/36/125406159",
+    "id": "125406159",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage",
+    "harm": {
+      "id": "0012277",
+      "title": "125406159 - Brokerage",
+      "conceptLink": "/ec2/concept/5962698"
+    }
+  },
+  {
+    "uri": "en/36/801187",
+    "id": "801187",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage advisory services relating to insurance",
+    "harm": {
+      "id": "0004970",
+      "title": "801187 - Brokerage advisory services relating to insurance",
+      "conceptLink": "/ec2/concept/5956011"
+    }
+  },
+  {
+    "uri": "en/36/801202",
+    "id": "801202",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage agency relating to ship insurance",
+    "harm": {
+      "id": "0033783",
+      "title": "801202 - Brokerage agency relating to ship insurance",
+      "conceptLink": "/ec2/concept/5982375"
+    }
+  },
+  {
+    "uri": "en/36/125137966",
+    "id": "125137966",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage (Financial -)",
+    "harm": {
+      "id": "0047199",
+      "title": "125137966 - Brokerage (Financial -)",
+      "conceptLink": "/ec2/concept/5994564"
+    }
+  },
+  {
+    "uri": "en/36/366484",
+    "id": "366484",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage for hire-purchase",
+    "harm": {
+      "id": "0041303",
+      "title": "366484 - Brokerage for hire-purchase",
+      "conceptLink": "/ec2/concept/5989226"
+    }
+  },
+  {
+    "uri": "en/36/14833511",
+    "id": "14833511",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage for securities liquidation",
+    "harm": {
+      "id": "0056837",
+      "title": "14833511 - Brokerage for securities liquidation",
+      "conceptLink": "/ec2/concept/5998114"
+    }
+  },
+  {
+    "uri": "en/36/447120",
+    "id": "447120",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage house services",
+    "harm": {
+      "id": "0024002",
+      "title": "447120 - Brokerage house services",
+      "conceptLink": "/ec2/concept/5973427"
+    }
+  },
+  {
+    "uri": "en/36/120822566",
+    "id": "120822566",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage in the field of stocks",
+    "harm": {
+      "id": "0058325",
+      "title": "120822566 - Brokerage in the field of stocks",
+      "conceptLink": "/ec2/concept/5999824"
+    }
+  },
+  {
+    "uri": "en/36/124327388",
+    "id": "124327388",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage (Insurance -)",
+    "harm": {
+      "id": "0041198",
+      "title": "124327388 - Brokerage (Insurance -)",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/447090",
+    "id": "447090",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of bonds",
+    "harm": {
+      "id": "0023242",
+      "title": "447090 - Brokerage of bonds",
+      "conceptLink": "/ec2/concept/5972721"
+    }
+  },
+  {
+    "uri": "en/36/801215",
+    "id": "801215",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of building society savings agreements",
+    "harm": {
+      "id": "0033784",
+      "title": "801215 - Brokerage of building society savings agreements",
+      "conceptLink": "/ec2/concept/5982376"
+    }
+  },
+  {
+    "uri": "en/36/911803",
+    "id": "911803",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of carbon credits",
+    "harm": {
+      "id": "0002682",
+      "title": "911803 - Brokerage of carbon credits",
+      "conceptLink": "/ec2/concept/5953900"
+    }
+  },
+  {
+    "uri": "en/36/897009",
+    "id": "897009",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of carbon offsets",
+    "harm": {
+      "id": "0004013",
+      "title": "897009 - Brokerage of carbon offsets",
+      "conceptLink": "/ec2/concept/5955115"
+    }
+  },
+  {
+    "uri": "en/36/1599291",
+    "id": "1599291",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of casualty insurance",
+    "harm": {
+      "id": "0067834",
+      "title": "1599291 - Brokerage of casualty insurance",
+      "conceptLink": "/ec2/concept/6004037"
+    }
+  },
+  {
+    "uri": "en/36/447564",
+    "id": "447564",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of commodities",
+    "harm": {
+      "id": "0024967",
+      "title": "447564 - Brokerage of commodities",
+      "conceptLink": "/ec2/concept/5974319"
+    }
+  },
+  {
+    "uri": "en/36/120881832",
+    "id": "120881832",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of credit agreements",
+    "harm": {
+      "id": "0071334",
+      "title": "120881832 - Brokerage of credit agreements",
+      "conceptLink": "/ec2/concept/6007525"
+    }
+  },
+  {
+    "uri": "en/36/801227",
+    "id": "801227",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of currency",
+    "harm": {
+      "id": "0047199",
+      "title": "801227 - Brokerage of currency",
+      "conceptLink": "/ec2/concept/5994564"
+    }
+  },
+  {
+    "uri": "en/36/120883630",
+    "id": "120883630",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of emission rights",
+    "harm": {
+      "id": "0067991",
+      "title": "120883630 - Brokerage of emission rights",
+      "conceptLink": "/ec2/concept/6004194"
+    }
+  },
+  {
+    "uri": "en/36/120880544",
+    "id": "120880544",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of financial derivatives",
+    "harm": {
+      "id": "0067960",
+      "title": "120880544 - Brokerage of financial derivatives",
+      "conceptLink": "/ec2/concept/6004163"
+    }
+  },
+  {
+    "uri": "en/36/120883883",
+    "id": "120883883",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of financial investments in energy companies",
+    "harm": {
+      "id": "0068028",
+      "title": "120883883 - Brokerage of financial investments in energy companies",
+      "conceptLink": "/ec2/concept/6004231"
+    }
+  },
+  {
+    "uri": "en/36/801242",
+    "id": "801242",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of futures",
+    "harm": {
+      "id": "0018991",
+      "title": "801242 - Brokerage of futures",
+      "conceptLink": "/ec2/concept/5968850"
+    }
+  },
+  {
+    "uri": "en/36/801259",
+    "id": "801259",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of futures contracts",
+    "harm": {
+      "id": "0022390",
+      "title": "801259 - Brokerage of futures contracts",
+      "conceptLink": "/ec2/concept/5971947"
+    }
+  },
+  {
+    "uri": "en/36/31425",
+    "id": "31425",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of insurance",
+    "harm": {
+      "id": "0041198",
+      "title": "31425 - Brokerage of insurance",
+      "conceptLink": "/ec2/concept/5989126"
+    }
+  },
+  {
+    "uri": "en/36/120883482",
+    "id": "120883482",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of non-life insurance",
+    "harm": {
+      "id": "0067973",
+      "title": "120883482 - Brokerage of non-life insurance",
+      "conceptLink": "/ec2/concept/6004176"
+    }
+  },
+  {
+    "uri": "en/36/31142",
+    "id": "31142",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of real estate",
+    "harm": {
+      "id": "0011894",
+      "title": "31142 - Brokerage of real estate",
+      "conceptLink": "/ec2/concept/5962346"
+    }
+  },
+  {
+    "uri": "en/36/34212",
+    "id": "34212",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of securities",
+    "harm": {
+      "id": "0070221",
+      "title": "34212 - Brokerage of securities",
+      "conceptLink": "/ec2/concept/6006415"
+    }
+  },
+  {
+    "uri": "en/36/120883777",
+    "id": "120883777",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of share subscriptions",
+    "harm": {
+      "id": "0068009",
+      "title": "120883777 - Brokerage of share subscriptions",
+      "conceptLink": "/ec2/concept/6004212"
+    }
+  },
+  {
+    "uri": "en/36/366501",
+    "id": "366501",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of shares and other securities",
+    "harm": {
+      "id": "0000810",
+      "title": "366501 - Brokerage of shares and other securities",
+      "conceptLink": "/ec2/concept/5952219"
+    }
+  },
+  {
+    "uri": "en/36/34209",
+    "id": "34209",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage of shares or stocks and other securities",
+    "harm": {
+      "id": "0000810",
+      "title": "34209 - Brokerage of shares or stocks and other securities",
+      "conceptLink": "/ec2/concept/5952219"
+    }
+  },
+  {
+    "uri": "en/36/30783",
+    "id": "30783",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services",
+    "harm": {
+      "id": "0012277",
+      "title": "30783 - Brokerage services",
+      "conceptLink": "/ec2/concept/5962698"
+    }
+  },
+  {
+    "uri": "en/36/801306",
+    "id": "801306",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services for arranging financing by other financial institutions",
+    "harm": {
+      "id": "0011631",
+      "title": "801306 - Brokerage services for arranging financing by other financial institutions",
+      "conceptLink": "/ec2/concept/5962099"
+    }
+  },
+  {
+    "uri": "en/36/801173",
+    "id": "801173",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services for bonds",
+    "harm": {
+      "id": "0034745",
+      "title": "801173 - Brokerage services for bonds",
+      "conceptLink": "/ec2/concept/5983245"
+    }
+  },
+  {
+    "uri": "en/36/901245",
+    "id": "901245",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services for capital investments",
+    "harm": {
+      "id": "0057016",
+      "title": "901245 - Brokerage services for capital investments",
+      "conceptLink": "/ec2/concept/5998646"
+    }
+  },
+  {
+    "uri": "en/36/901246",
+    "id": "901246",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services for stocks and bonds",
+    "harm": {
+      "id": "0026134",
+      "title": "901246 - Brokerage services for stocks and bonds",
+      "conceptLink": "/ec2/concept/5975385"
+    }
+  },
+  {
+    "uri": "en/36/801319",
+    "id": "801319",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services for the purchase and sale of obligations",
+    "harm": {
+      "id": "0011632",
+      "title": "801319 - Brokerage services for the purchase and sale of obligations",
+      "conceptLink": "/ec2/concept/5962100"
+    }
+  },
+  {
+    "uri": "en/36/447134",
+    "id": "447134",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services in financial markets",
+    "harm": {
+      "id": "0006602",
+      "title": "447134 - Brokerage services in financial markets",
+      "conceptLink": "/ec2/concept/5957499"
+    }
+  },
+  {
+    "uri": "en/36/447157",
+    "id": "447157",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services in the field of financial instruments",
+    "harm": {
+      "id": "0017419",
+      "title": "447157 - Brokerage services in the field of financial instruments",
+      "conceptLink": "/ec2/concept/5967402"
+    }
+  },
+  {
+    "uri": "en/36/447135",
+    "id": "447135",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services on the financial markets",
+    "harm": {
+      "id": "0006602",
+      "title": "447135 - Brokerage services on the financial markets",
+      "conceptLink": "/ec2/concept/5957499"
+    }
+  },
+  {
+    "uri": "en/36/801385",
+    "id": "801385",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to mutual funds",
+    "harm": {
+      "id": "0005886",
+      "title": "801385 - Brokerage services relating to mutual funds",
+      "conceptLink": "/ec2/concept/5956840"
+    }
+  },
+  {
+    "uri": "en/36/801332",
+    "id": "801332",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to corporate bonds",
+    "harm": {
+      "id": "0017418",
+      "title": "801332 - Brokerage services relating to corporate bonds",
+      "conceptLink": "/ec2/concept/5967401"
+    }
+  }
+]

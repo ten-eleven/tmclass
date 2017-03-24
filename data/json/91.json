@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/40323736",
+    "id": "40323736",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibacterial substances for medical purposes",
+    "harm": {
+      "id": "0055416",
+      "title": "40323736 - Antibacterial substances for medical purposes",
+      "conceptLink": "/ec2/concept/5996819"
+    }
+  },
+  {
+    "uri": "en/5/120824876",
+    "id": "120824876",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibacterial substances for medical use",
+    "harm": {
+      "id": "0055416",
+      "title": "120824876 - Antibacterial substances for medical use",
+      "conceptLink": "/ec2/concept/5996819"
+    }
+  },
+  {
+    "uri": "en/5/233392595",
+    "id": "233392595",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibacterials for pharmaceutical use",
+    "harm": {
+      "id": "0026746",
+      "title": "233392595 - Antibacterials for pharmaceutical use",
+      "conceptLink": "/ec2/concept/5975940"
+    }
+  },
+  {
+    "uri": "en/5/35922287",
+    "id": "35922287",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic creams",
+    "harm": {
+      "id": "0065471",
+      "title": "35922287 - Antibiotic creams",
+      "conceptLink": "/ec2/concept/6001674"
+    }
+  },
+  {
+    "uri": "en/5/664004",
+    "id": "664004",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic dermatological products",
+    "harm": {
+      "id": "0002953",
+      "title": "664004 - Antibiotic dermatological products",
+      "conceptLink": "/ec2/concept/5954149"
+    }
+  },
+  {
+    "uri": "en/5/664016",
+    "id": "664016",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic food supplements for animals",
+    "harm": {
+      "id": "0031825",
+      "title": "664016 - Antibiotic food supplements for animals",
+      "conceptLink": "/ec2/concept/5980583"
+    }
+  },
+  {
+    "uri": "en/5/119523358",
+    "id": "119523358",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic handwash",
+    "harm": {
+      "id": "0065378",
+      "title": "119523358 - Antibiotic handwash",
+      "conceptLink": "/ec2/concept/6001581"
+    }
+  },
+  {
+    "uri": "en/5/35922309",
+    "id": "35922309",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic ointments",
+    "harm": {
+      "id": "0065470",
+      "title": "35922309 - Antibiotic ointments",
+      "conceptLink": "/ec2/concept/6001673"
+    }
+  },
+  {
+    "uri": "en/5/93065",
+    "id": "93065",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic preparations",
+    "harm": {
+      "id": "0001385",
+      "title": "93065 - Antibiotic preparations",
+      "conceptLink": "/ec2/concept/5952733"
+    }
+  },
+  {
+    "uri": "en/5/119523361",
+    "id": "119523361",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotic tablets",
+    "harm": {
+      "id": "0065469",
+      "title": "119523361 - Antibiotic tablets",
+      "conceptLink": "/ec2/concept/6001672"
+    }
+  },
+  {
+    "uri": "en/5/93064",
+    "id": "93064",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics",
+    "harm": {
+      "id": "0001385",
+      "title": "93064 - Antibiotics",
+      "conceptLink": "/ec2/concept/5952733"
+    }
+  },
+  {
+    "uri": "en/5/664032",
+    "id": "664032",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics for fish",
+    "harm": {
+      "id": "0037622",
+      "title": "664032 - Antibiotics for fish",
+      "conceptLink": "/ec2/concept/5985852"
+    }
+  },
+  {
+    "uri": "en/5/664044",
+    "id": "664044",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics for human use",
+    "harm": {
+      "id": "0002954",
+      "title": "664044 - Antibiotics for human use",
+      "conceptLink": "/ec2/concept/5954150"
+    }
+  },
+  {
+    "uri": "en/5/664057",
+    "id": "664057",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics for use in dentistry",
+    "harm": {
+      "id": "0002955",
+      "title": "664057 - Antibiotics for use in dentistry",
+      "conceptLink": "/ec2/concept/5954151"
+    }
+  },
+  {
+    "uri": "en/5/664067",
+    "id": "664067",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics for veterinary use",
+    "harm": {
+      "id": "0008675",
+      "title": "664067 - Antibiotics for veterinary use",
+      "conceptLink": "/ec2/concept/5959385"
+    }
+  },
+  {
+    "uri": "en/5/664080",
+    "id": "664080",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibiotics in the form of lotions",
+    "harm": {
+      "id": "0020358",
+      "title": "664080 - Antibiotics in the form of lotions",
+      "conceptLink": "/ec2/concept/5970087"
+    }
+  },
+  {
+    "uri": "en/5/664089",
+    "id": "664089",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antibodies",
+    "harm": {
+      "id": "0008676",
+      "title": "664089 - Antibodies",
+      "conceptLink": "/ec2/concept/5959386"
+    }
+  },
+  {
+    "uri": "en/5/12391689",
+    "id": "12391689",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticancer preparations",
+    "harm": {
+      "id": "0055417",
+      "title": "12391689 - Anticancer preparations",
+      "conceptLink": "/ec2/concept/5996820"
+    }
+  },
+  {
+    "uri": "en/5/137613636",
+    "id": "137613636",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticavity mouth rinses for medical purposes",
+    "harm": {
+      "id": "0040312",
+      "title": "137613636 - Anticavity mouth rinses for medical purposes",
+      "conceptLink": "/ec2/concept/5988317"
+    }
+  },
+  {
+    "uri": "en/5/233674807",
+    "id": "233674807",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticavity mouthwash",
+    "harm": {
+      "id": "0060411",
+      "title": "233674807 - Anticavity mouthwash",
+      "conceptLink": "/ec2/concept/5998384"
+    }
+  },
+  {
+    "uri": "en/5/119523363",
+    "id": "119523363",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticoagulants",
+    "harm": {
+      "id": "0055418",
+      "title": "119523363 - Anticoagulants",
+      "conceptLink": "/ec2/concept/5996821"
+    }
+  },
+  {
+    "uri": "en/5/64207878",
+    "id": "64207878",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticonvulsants",
+    "harm": {
+      "id": "0055419",
+      "title": "64207878 - Anticonvulsants",
+      "conceptLink": "/ec2/concept/5996822"
+    }
+  },
+  {
+    "uri": "en/5/86398",
+    "id": "86398",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Anticryptogamic preparations",
+    "harm": {
+      "id": "0021185",
+      "title": "86398 - Anticryptogamic preparations",
+      "conceptLink": "/ec2/concept/5970848"
+    }
+  },
+  {
+    "uri": "en/5/318126",
+    "id": "318126",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antidepressants",
+    "harm": {
+      "id": "0030605",
+      "title": "318126 - Antidepressants",
+      "conceptLink": "/ec2/concept/5979484"
+    }
+  },
+  {
+    "uri": "en/5/120824936",
+    "id": "120824936",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antidiabetic pharmaceuticals",
+    "harm": {
+      "id": "0055422",
+      "title": "120824936 - Antidiabetic pharmaceuticals",
+      "conceptLink": "/ec2/concept/5996825"
+    }
+  },
+  {
+    "uri": "en/5/14373011",
+    "id": "14373011",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antidiabetic preparations",
+    "harm": {
+      "id": "0055423",
+      "title": "14373011 - Antidiabetic preparations",
+      "conceptLink": "/ec2/concept/5996826"
+    }
+  },
+  {
+    "uri": "en/5/119523367",
+    "id": "119523367",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antidotes",
+    "harm": {
+      "id": "0055424",
+      "title": "119523367 - Antidotes",
+      "conceptLink": "/ec2/concept/5996827"
+    }
+  },
+  {
+    "uri": "en/5/119523369",
+    "id": "119523369",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiemetics",
+    "harm": {
+      "id": "0002956",
+      "title": "119523369 - Antiemetics",
+      "conceptLink": "/ec2/concept/5954152"
+    }
+  },
+  {
+    "uri": "en/5/233391588",
+    "id": "233391588",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiemetics for morning sickness",
+    "harm": {
+      "id": "0073353",
+      "title": "233391588 - Antiemetics for morning sickness",
+      "conceptLink": "/ec2/concept/6009526"
+    }
+  },
+  {
+    "uri": "en/5/64207900",
+    "id": "64207900",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiepileptic drugs",
+    "harm": {
+      "id": "0055426",
+      "title": "64207900 - Antiepileptic drugs",
+      "conceptLink": "/ec2/concept/5996828"
+    }
+  },
+  {
+    "uri": "en/5/119523370",
+    "id": "119523370",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiflatulants",
+    "harm": {
+      "id": "0065468",
+      "title": "119523370 - Antiflatulants",
+      "conceptLink": "/ec2/concept/6001671"
+    }
+  },
+  {
+    "uri": "en/5/138393220",
+    "id": "138393220",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antifungal antibiotics",
+    "harm": {
+      "id": "0017747",
+      "title": "138393220 - Antifungal antibiotics",
+      "conceptLink": "/ec2/concept/5967700"
+    }
+  },
+  {
+    "uri": "en/5/501294",
+    "id": "501294",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antifungal creams for medical use",
+    "harm": {
+      "id": "0040575",
+      "title": "501294 - Antifungal creams for medical use",
+      "conceptLink": "/ec2/concept/5988555"
+    }
+  },
+  {
+    "uri": "en/5/120912295",
+    "id": "120912295",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antifungal medication",
+    "harm": {
+      "id": "0070858",
+      "title": "120912295 - Antifungal medication",
+      "conceptLink": "/ec2/concept/6007050"
+    }
+  },
+  {
+    "uri": "en/5/86860",
+    "id": "86860",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antifungal preparations",
+    "harm": {
+      "id": "0017747",
+      "title": "86860 - Antifungal preparations",
+      "conceptLink": "/ec2/concept/5967700"
+    }
+  },
+  {
+    "uri": "en/5/664118",
+    "id": "664118",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antigens",
+    "harm": {
+      "id": "0037623",
+      "title": "664118 - Antigens",
+      "conceptLink": "/ec2/concept/5985853"
+    }
+  },
+  {
+    "uri": "en/5/233674802",
+    "id": "233674802",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antihemorrhoidal ointments",
+    "harm": {
+      "id": "0000952",
+      "title": "233674802 - Antihemorrhoidal ointments",
+      "conceptLink": "/ec2/concept/5952344"
+    }
+  },
+  {
+    "uri": "en/5/136152949",
+    "id": "136152949",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antihemorrhoidal preparations",
+    "harm": {
+      "id": "0014171",
+      "title": "136152949 - Antihemorrhoidal preparations",
+      "conceptLink": "/ec2/concept/5964429"
+    }
+  },
+  {
+    "uri": "en/5/233996644",
+    "id": "233996644",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antihemorrhoidal suppositories",
+    "harm": {
+      "id": "0074100",
+      "title": "233996644 - Antihemorrhoidal suppositories",
+      "conceptLink": "/ec2/concept/6011336"
+    }
+  },
+  {
+    "uri": "en/5/19671821",
+    "id": "19671821",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antihistamines",
+    "harm": {
+      "id": "0055427",
+      "title": "19671821 - Antihistamines",
+      "conceptLink": "/ec2/concept/5996829"
+    }
+  },
+  {
+    "uri": "en/5/104366197",
+    "id": "104366197",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antihypertensives",
+    "harm": {
+      "id": "0055429",
+      "title": "104366197 - Antihypertensives",
+      "conceptLink": "/ec2/concept/5996831"
+    }
+  },
+  {
+    "uri": "en/5/119523375",
+    "id": "119523375",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antimicrobial clay",
+    "harm": {
+      "id": "0065335",
+      "title": "119523375 - Antimicrobial clay",
+      "conceptLink": "/ec2/concept/6001538"
+    }
+  },
+  {
+    "uri": "en/5/233996824",
+    "id": "233996824",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antimicrobial facewashes",
+    "harm": {
+      "id": "0074130",
+      "title": "233996824 - Antimicrobial facewashes",
+      "conceptLink": "/ec2/concept/6011365"
+    }
+  },
+  {
+    "uri": "en/5/664146",
+    "id": "664146",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antimicrobial mouthwashes",
+    "harm": {
+      "id": "0043381",
+      "title": "664146 - Antimicrobial mouthwashes",
+      "conceptLink": "/ec2/concept/5991110"
+    }
+  },
+  {
+    "uri": "en/5/120824904",
+    "id": "120824904",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antimicrobial preparations for inhibiting microbiological decomposition",
+    "harm": {
+      "id": "0065375",
+      "title": "120824904 - Antimicrobial preparations for inhibiting microbiological decomposition",
+      "conceptLink": "/ec2/concept/6001578"
+    }
+  },
+  {
+    "uri": "en/5/40323802",
+    "id": "40323802",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antimicrobials for dermatologic use",
+    "harm": {
+      "id": "0055433",
+      "title": "40323802 - Antimicrobials for dermatologic use",
+      "conceptLink": "/ec2/concept/5996835"
+    }
+  },
+  {
+    "uri": "en/5/664187",
+    "id": "664187",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antineoplastics",
+    "harm": {
+      "id": "0015433",
+      "title": "664187 - Antineoplastics",
+      "conceptLink": "/ec2/concept/5965587"
+    }
+  },
+  {
+    "uri": "en/5/909399",
+    "id": "909399",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antioxidant pills",
+    "harm": {
+      "id": "0037708",
+      "title": "909399 - Antioxidant pills",
+      "conceptLink": "/ec2/concept/5985931"
+    }
+  },
+  {
+    "uri": "en/5/664198",
+    "id": "664198",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antioxidants",
+    "harm": {
+      "id": "0038502",
+      "title": "664198 - Antioxidants",
+      "conceptLink": "/ec2/concept/5986666"
+    }
+  },
+  {
+    "uri": "en/5/84860",
+    "id": "84860",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitic collars for animals",
+    "harm": {
+      "id": "0023310",
+      "title": "84860 - Antiparasitic collars for animals",
+      "conceptLink": "/ec2/concept/5972787"
+    }
+  },
+  {
+    "uri": "en/5/233996839",
+    "id": "233996839",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitic preparations from chemical sources",
+    "harm": {
+      "id": "0074144",
+      "title": "233996839 - Antiparasitic preparations from chemical sources",
+      "conceptLink": "/ec2/concept/6011379"
+    }
+  },
+  {
+    "uri": "en/5/233996838",
+    "id": "233996838",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitic preparations for pets",
+    "harm": {
+      "id": "0074143",
+      "title": "233996838 - Antiparasitic preparations for pets",
+      "conceptLink": "/ec2/concept/6011378"
+    }
+  },
+  {
+    "uri": "en/5/233996836",
+    "id": "233996836",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitic preparations from plant sources",
+    "harm": {
+      "id": "0074141",
+      "title": "233996836 - Antiparasitic preparations from plant sources",
+      "conceptLink": "/ec2/concept/6011376"
+    }
+  },
+  {
+    "uri": "en/5/83040",
+    "id": "83040",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitic preparations",
+    "harm": {
+      "id": "0047020",
+      "title": "83040 - Antiparasitic preparations",
+      "conceptLink": "/ec2/concept/5994399"
+    }
+  },
+  {
+    "uri": "en/5/83041",
+    "id": "83041",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiparasitics",
+    "harm": {
+      "id": "0047020",
+      "title": "83041 - Antiparasitics",
+      "conceptLink": "/ec2/concept/5994399"
+    }
+  },
+  {
+    "uri": "en/5/48839834",
+    "id": "48839834",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antipyretic analgesics",
+    "harm": {
+      "id": "0055434",
+      "title": "48839834 - Antipyretic analgesics",
+      "conceptLink": "/ec2/concept/5996836"
+    }
+  },
+  {
+    "uri": "en/5/120868944",
+    "id": "120868944",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antipyretic drugs with sedative effect",
+    "harm": {
+      "id": "0065282",
+      "title": "120868944 - Antipyretic drugs with sedative effect",
+      "conceptLink": "/ec2/concept/6001485"
+    }
+  },
+  {
+    "uri": "en/5/26677037",
+    "id": "26677037",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antipyretic preparations",
+    "harm": {
+      "id": "0060421",
+      "title": "26677037 - Antipyretic preparations",
+      "conceptLink": "/ec2/concept/5998394"
+    }
+  },
+  {
+    "uri": "en/5/120824939",
+    "id": "120824939",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antipyretics",
+    "harm": {
+      "id": "0070836",
+      "title": "120824939 - Antipyretics",
+      "conceptLink": "/ec2/concept/6007028"
+    }
+  },
+  {
+    "uri": "en/5/233996627",
+    "id": "233996627",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseizure drugs",
+    "harm": {
+      "id": "0074091",
+      "title": "233996627 - Antiseizure drugs",
+      "conceptLink": "/ec2/concept/6011327"
+    }
+  },
+  {
+    "uri": "en/5/664214",
+    "id": "664214",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic body care preparations",
+    "harm": {
+      "id": "0038503",
+      "title": "664214 - Antiseptic body care preparations",
+      "conceptLink": "/ec2/concept/5986667"
+    }
+  },
+  {
+    "uri": "en/5/664225",
+    "id": "664225",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic cleansers",
+    "harm": {
+      "id": "0021308",
+      "title": "664225 - Antiseptic cleansers",
+      "conceptLink": "/ec2/concept/5970958"
+    }
+  },
+  {
+    "uri": "en/5/83138",
+    "id": "83138",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic cotton",
+    "harm": {
+      "id": "0035197",
+      "title": "83138 - Antiseptic cotton",
+      "conceptLink": "/ec2/concept/5983653"
+    }
+  },
+  {
+    "uri": "en/5/119523386",
+    "id": "119523386",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic liquid bandages",
+    "harm": {
+      "id": "0055436",
+      "title": "119523386 - Antiseptic liquid bandages",
+      "conceptLink": "/ec2/concept/5996838"
+    }
+  },
+  {
+    "uri": "en/5/664237",
+    "id": "664237",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic mouthwashes",
+    "harm": {
+      "id": "0009590",
+      "title": "664237 - Antiseptic mouthwashes",
+      "conceptLink": "/ec2/concept/5960237"
+    }
+  },
+  {
+    "uri": "en/5/233674808",
+    "id": "233674808",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic mouthwashes for rinsing",
+    "harm": {
+      "id": "0009590",
+      "title": "233674808 - Antiseptic mouthwashes for rinsing",
+      "conceptLink": "/ec2/concept/5960237"
+    }
+  },
+  {
+    "uri": "en/5/664252",
+    "id": "664252",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic ointments",
+    "harm": {
+      "id": "0038504",
+      "title": "664252 - Antiseptic ointments",
+      "conceptLink": "/ec2/concept/5986668"
+    }
+  },
+  {
+    "uri": "en/5/83098",
+    "id": "83098",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic preparations",
+    "harm": {
+      "id": "0017887",
+      "title": "83098 - Antiseptic preparations",
+      "conceptLink": "/ec2/concept/5967829"
+    }
+  },
+  {
+    "uri": "en/5/664265",
+    "id": "664265",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic preparations for wound care",
+    "harm": {
+      "id": "0038505",
+      "title": "664265 - Antiseptic preparations for wound care",
+      "conceptLink": "/ec2/concept/5986669"
+    }
+  },
+  {
+    "uri": "en/5/664291",
+    "id": "664291",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic sprays in aerosol form for use on the skin",
+    "harm": {
+      "id": "0026938",
+      "title": "664291 - Antiseptic sprays in aerosol form for use on the skin",
+      "conceptLink": "/ec2/concept/5976112"
+    }
+  },
+  {
+    "uri": "en/5/664280",
+    "id": "664280",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic sprays in aerosol form for use on hard surfaces",
+    "harm": {
+      "id": "0044268",
+      "title": "664280 - Antiseptic sprays in aerosol form for use on hard surfaces",
+      "conceptLink": "/ec2/concept/5991927"
+    }
+  },
+  {
+    "uri": "en/5/664300",
+    "id": "664300",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptic washing preparations",
+    "harm": {
+      "id": "0003852",
+      "title": "664300 - Antiseptic washing preparations",
+      "conceptLink": "/ec2/concept/5954977"
+    }
+  },
+  {
+    "uri": "en/5/83097",
+    "id": "83097",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptics",
+    "harm": {
+      "id": "0017887",
+      "title": "83097 - Antiseptics",
+      "conceptLink": "/ec2/concept/5967829"
+    }
+  },
+  {
+    "uri": "en/5/664314",
+    "id": "664314",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptics with prophylactic effect",
+    "harm": {
+      "id": "0032698",
+      "title": "664314 - Antiseptics with prophylactic effect",
+      "conceptLink": "/ec2/concept/5981376"
+    }
+  },
+  {
+    "uri": "en/5/664325",
+    "id": "664325",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiseptics with therapeutic effect",
+    "harm": {
+      "id": "0021309",
+      "title": "664325 - Antiseptics with therapeutic effect",
+      "conceptLink": "/ec2/concept/5970959"
+    }
+  },
+  {
+    "uri": "en/5/664335",
+    "id": "664335",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiserums for diagnostic purposes",
+    "harm": {
+      "id": "0014851",
+      "title": "664335 - Antiserums for diagnostic purposes",
+      "conceptLink": "/ec2/concept/5965054"
+    }
+  },
+  {
+    "uri": "en/5/119624724",
+    "id": "119624724",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antispasmodics",
+    "harm": {
+      "id": "0055437",
+      "title": "119624724 - Antispasmodics",
+      "conceptLink": "/ec2/concept/5996839"
+    }
+  },
+  {
+    "uri": "en/5/119523391",
+    "id": "119523391",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antitoxic sera",
+    "harm": {
+      "id": "0055439",
+      "title": "119523391 - Antitoxic sera",
+      "conceptLink": "/ec2/concept/5996841"
+    }
+  },
+  {
+    "uri": "en/5/1058108",
+    "id": "1058108",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antitoxins",
+    "harm": {
+      "id": "0055440",
+      "title": "1058108 - Antitoxins",
+      "conceptLink": "/ec2/concept/5996842"
+    }
+  },
+  {
+    "uri": "en/5/137921771",
+    "id": "137921771",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antituberculous drugs",
+    "harm": {
+      "id": "0055441",
+      "title": "137921771 - Antituberculous drugs",
+      "conceptLink": "/ec2/concept/5996843"
+    }
+  },
+  {
+    "uri": "en/5/120911492",
+    "id": "120911492",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antitumor drugs",
+    "harm": {
+      "id": "0065477",
+      "title": "120911492 - Antitumor drugs",
+      "conceptLink": "/ec2/concept/6001680"
+    }
+  },
+  {
+    "uri": "en/5/664347",
+    "id": "664347",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antitussives",
+    "harm": {
+      "id": "0009011",
+      "title": "664347 - Antitussives",
+      "conceptLink": "/ec2/concept/5959705"
+    }
+  },
+  {
+    "uri": "en/5/120824911",
+    "id": "120824911",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antivenins",
+    "harm": {
+      "id": "0055424",
+      "title": "120824911 - Antivenins",
+      "conceptLink": "/ec2/concept/5996827"
+    }
+  },
+  {
+    "uri": "en/5/138393222",
+    "id": "138393222",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiviral antibiotics",
+    "harm": {
+      "id": "0020689",
+      "title": "138393222 - Antiviral antibiotics",
+      "conceptLink": "/ec2/concept/5970390"
+    }
+  },
+  {
+    "uri": "en/5/44171337",
+    "id": "44171337",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antiviral preparations",
+    "harm": {
+      "id": "0020689",
+      "title": "44171337 - Antiviral preparations",
+      "conceptLink": "/ec2/concept/5970390"
+    }
+  },
+  {
+    "uri": "en/5/382829",
+    "id": "382829",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Antivirals",
+    "harm": {
+      "id": "0020689",
+      "title": "382829 - Antivirals",
+      "conceptLink": "/ec2/concept/5970390"
+    }
+  },
+  {
+    "uri": "en/5/664362",
+    "id": "664362",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Appetite stimulant preparations",
+    "harm": {
+      "id": "0032123",
+      "title": "664362 - Appetite stimulant preparations",
+      "conceptLink": "/ec2/concept/5980854"
+    }
+  },
+  {
+    "uri": "en/5/909334",
+    "id": "909334",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Appetite suppressant pills",
+    "harm": {
+      "id": "0008773",
+      "title": "909334 - Appetite suppressant pills",
+      "conceptLink": "/ec2/concept/5959476"
+    }
+  },
+  {
+    "uri": "en/5/382850",
+    "id": "382850",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Appetite suppressants",
+    "harm": {
+      "id": "0033512",
+      "title": "382850 - Appetite suppressants",
+      "conceptLink": "/ec2/concept/5982126"
+    }
+  },
+  {
+    "uri": "en/5/93095",
+    "id": "93095",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Appetite suppressants for medical purposes",
+    "harm": {
+      "id": "0024539",
+      "title": "93095 - Appetite suppressants for medical purposes",
+      "conceptLink": "/ec2/concept/5973918"
+    }
+  },
+  {
+    "uri": "en/5/382867",
+    "id": "382867",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Aquatic herbicides",
+    "harm": {
+      "id": "0027769",
+      "title": "382867 - Aquatic herbicides",
+      "conceptLink": "/ec2/concept/5976873"
+    }
+  },
+  {
+    "uri": "en/5/233251074",
+    "id": "233251074",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Arachnicides",
+    "harm": {
+      "id": "0073202",
+      "title": "233251074 - Arachnicides",
+      "conceptLink": "/ec2/concept/6009375"
+    }
+  },
+  {
+    "uri": "en/5/136011006",
+    "id": "136011006",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Arsenic detoxification agents for medical purposes",
+    "harm": {
+      "id": "0055169",
+      "title": "136011006 - Arsenic detoxification agents for medical purposes",
+      "conceptLink": "/ec2/concept/5996606"
+    }
+  },
+  {
+    "uri": "en/5/119523433",
+    "id": "119523433",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Arterial grafts",
+    "harm": {
+      "id": "0065465",
+      "title": "119523433 - Arterial grafts",
+      "conceptLink": "/ec2/concept/6001668"
+    }
+  },
+  {
+    "uri": "en/5/664374",
+    "id": "664374",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Artificial sweeteners adapted for diabetics",
+    "harm": {
+      "id": "0020690",
+      "title": "664374 - Artificial sweeteners adapted for diabetics",
+      "conceptLink": "/ec2/concept/5970391"
+    }
+  },
+  {
+    "uri": "en/5/664389",
+    "id": "664389",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Artificial tea [for medicinal use]",
+    "harm": {
+      "id": "0009012",
+      "title": "664389 - Artificial tea [for medicinal use]",
+      "conceptLink": "/ec2/concept/5959706"
+    }
+  },
+  {
+    "uri": "en/5/382880",
+    "id": "382880",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Artificial tears",
+    "harm": {
+      "id": "0010401",
+      "title": "382880 - Artificial tears",
+      "conceptLink": "/ec2/concept/5960973"
+    }
+  },
+  {
+    "uri": "en/5/83207",
+    "id": "83207",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Aseptic cotton",
+    "harm": {
+      "id": "0000531",
+      "title": "83207 - Aseptic cotton",
+      "conceptLink": "/ec2/concept/5951964"
+    }
+  },
+  {
+    "uri": "en/5/664405",
+    "id": "664405",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Aspirin",
+    "harm": {
+      "id": "0009013",
+      "title": "664405 - Aspirin",
+      "conceptLink": "/ec2/concept/5959707"
+    }
+  },
+  {
+    "uri": "en/5/664417",
+    "id": "664417",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Aspirin in tablet form",
+    "harm": {
+      "id": "0032124",
+      "title": "664417 - Aspirin in tablet form",
+      "conceptLink": "/ec2/concept/5980855"
+    }
+  }
+]

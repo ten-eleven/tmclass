@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/710293",
+    "id": "710293",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Goniometers for surgical use",
+    "harm": {
+      "id": "0033867",
+      "title": "710293 - Goniometers for surgical use",
+      "conceptLink": "/ec2/concept/5982452"
+    }
+  },
+  {
+    "uri": "en/10/405521",
+    "id": "405521",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gowns for surgical use",
+    "harm": {
+      "id": "0018925",
+      "title": "405521 - Gowns for surgical use",
+      "conceptLink": "/ec2/concept/5968791"
+    }
+  },
+  {
+    "uri": "en/10/2431437",
+    "id": "2431437",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Graduated compression hosiery",
+    "harm": {
+      "id": "0070955",
+      "title": "2431437 - Graduated compression hosiery",
+      "conceptLink": "/ec2/concept/6007147"
+    }
+  },
+  {
+    "uri": "en/10/710305",
+    "id": "710305",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Grafts for surgical use",
+    "harm": {
+      "id": "0010787",
+      "title": "710305 - Grafts for surgical use",
+      "conceptLink": "/ec2/concept/5961333"
+    }
+  },
+  {
+    "uri": "en/10/136983913",
+    "id": "136983913",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Grinding discs for dental applications",
+    "harm": {
+      "id": "0060559",
+      "title": "136983913 - Grinding discs for dental applications",
+      "conceptLink": "/ec2/concept/5998531"
+    }
+  },
+  {
+    "uri": "en/10/120895310",
+    "id": "120895310",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Grinding discs for dental use",
+    "harm": {
+      "id": "0060559",
+      "title": "120895310 - Grinding discs for dental use",
+      "conceptLink": "/ec2/concept/5998531"
+    }
+  },
+  {
+    "uri": "en/10/710322",
+    "id": "710322",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Guide wires for use with balloon dilation catheters",
+    "harm": {
+      "id": "0016579",
+      "title": "710322 - Guide wires for use with balloon dilation catheters",
+      "conceptLink": "/ec2/concept/5966645"
+    }
+  },
+  {
+    "uri": "en/10/710323",
+    "id": "710323",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Guide wires for use with balloon dilatation catheters",
+    "harm": {
+      "id": "0016579",
+      "title": "710323 - Guide wires for use with balloon dilatation catheters",
+      "conceptLink": "/ec2/concept/5966645"
+    }
+  },
+  {
+    "uri": "en/10/169780",
+    "id": "169780",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Guidewires (Medical -)",
+    "harm": {
+      "id": "0007907",
+      "title": "169780 - Guidewires (Medical -)",
+      "conceptLink": "/ec2/concept/5958696"
+    }
+  },
+  {
+    "uri": "en/10/404212",
+    "id": "404212",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gum massaging instruments",
+    "harm": {
+      "id": "0030099",
+      "title": "404212 - Gum massaging instruments",
+      "conceptLink": "/ec2/concept/5979015"
+    }
+  },
+  {
+    "uri": "en/10/233535144",
+    "id": "233535144",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gurneys, wheeled",
+    "harm": {
+      "id": "0042176",
+      "title": "233535144 - Gurneys, wheeled",
+      "conceptLink": "/ec2/concept/5990020"
+    }
+  },
+  {
+    "uri": "en/10/710339",
+    "id": "710339",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gynaecological instruments",
+    "harm": {
+      "id": "0022469",
+      "title": "710339 - Gynaecological instruments",
+      "conceptLink": "/ec2/concept/5972021"
+    }
+  },
+  {
+    "uri": "en/10/131047826",
+    "id": "131047826",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gynecological dilators",
+    "harm": {
+      "id": "0055908",
+      "title": "131047826 - Gynecological dilators",
+      "conceptLink": "/ec2/concept/5997282"
+    }
+  },
+  {
+    "uri": "en/10/334255",
+    "id": "334255",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Gynecological medical instruments for examining women' s reproductive organs",
+    "harm": {
+      "id": "0003758",
+      "title": "334255 - Gynecological medical instruments for examining women' s reproductive organs",
+      "conceptLink": "/ec2/concept/5954890"
+    }
+  },
+  {
+    "uri": "en/10/165829",
+    "id": "165829",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haemacytometers",
+    "harm": {
+      "id": "0006406",
+      "title": "165829 - Haemacytometers",
+      "conceptLink": "/ec2/concept/5957321"
+    }
+  },
+  {
+    "uri": "en/10/710355",
+    "id": "710355",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haematology analysers",
+    "harm": {
+      "id": "0039652",
+      "title": "710355 - Haematology analysers",
+      "conceptLink": "/ec2/concept/5987708"
+    }
+  },
+  {
+    "uri": "en/10/134480977",
+    "id": "134480977",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haemocytometers",
+    "harm": {
+      "id": "0006406",
+      "title": "134480977 - Haemocytometers",
+      "conceptLink": "/ec2/concept/5957321"
+    }
+  },
+  {
+    "uri": "en/10/404226",
+    "id": "404226",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haemoglobinometers",
+    "harm": {
+      "id": "0041673",
+      "title": "404226 - Haemoglobinometers",
+      "conceptLink": "/ec2/concept/5989561"
+    }
+  },
+  {
+    "uri": "en/10/710376",
+    "id": "710376",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haemoperfusion cartridges",
+    "harm": {
+      "id": "0003519",
+      "title": "710376 - Haemoperfusion cartridges",
+      "conceptLink": "/ec2/concept/5954670"
+    }
+  },
+  {
+    "uri": "en/10/334268",
+    "id": "334268",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Haemostats",
+    "harm": {
+      "id": "0032601",
+      "title": "334268 - Haemostats",
+      "conceptLink": "/ec2/concept/5981288"
+    }
+  },
+  {
+    "uri": "en/10/169065",
+    "id": "169065",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hair prostheses",
+    "harm": {
+      "id": "0037401",
+      "title": "169065 - Hair prostheses",
+      "conceptLink": "/ec2/concept/5985657"
+    }
+  },
+  {
+    "uri": "en/10/710388",
+    "id": "710388",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hammers for medical or surgical use",
+    "harm": {
+      "id": "0009253",
+      "title": "710388 - Hammers for medical or surgical use",
+      "conceptLink": "/ec2/concept/5959927"
+    }
+  },
+  {
+    "uri": "en/10/710403",
+    "id": "710403",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hand exercisers for therapeutic use",
+    "harm": {
+      "id": "0026602",
+      "title": "710403 - Hand exercisers for therapeutic use",
+      "conceptLink": "/ec2/concept/5975812"
+    }
+  },
+  {
+    "uri": "en/10/710419",
+    "id": "710419",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hand held mirrors for use in dental inspection",
+    "harm": {
+      "id": "0026603",
+      "title": "710419 - Hand held mirrors for use in dental inspection",
+      "conceptLink": "/ec2/concept/5975813"
+    }
+  },
+  {
+    "uri": "en/10/124938031",
+    "id": "124938031",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hand sprayers (Hand operated -), for medical use",
+    "harm": {
+      "id": "0032364",
+      "title": "124938031 - Hand sprayers (Hand operated -), for medical use",
+      "conceptLink": "/ec2/concept/5981071"
+    }
+  },
+  {
+    "uri": "en/10/710472",
+    "id": "710472",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hard elastic sutures",
+    "harm": {
+      "id": "0009254",
+      "title": "710472 - Hard elastic sutures",
+      "conceptLink": "/ec2/concept/5959928"
+    }
+  },
+  {
+    "uri": "en/10/710485",
+    "id": "710485",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heads for hip prostheses",
+    "harm": {
+      "id": "0038201",
+      "title": "710485 - Heads for hip prostheses",
+      "conceptLink": "/ec2/concept/5986381"
+    }
+  },
+  {
+    "uri": "en/10/163847",
+    "id": "163847",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Health trusses",
+    "harm": {
+      "id": "0043712",
+      "title": "163847 - Health trusses",
+      "conceptLink": "/ec2/concept/5991414"
+    }
+  },
+  {
+    "uri": "en/10/710502",
+    "id": "710502",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heamostasis management apparatus",
+    "harm": {
+      "id": "0003520",
+      "title": "710502 - Heamostasis management apparatus",
+      "conceptLink": "/ec2/concept/5954671"
+    }
+  },
+  {
+    "uri": "en/10/710503",
+    "id": "710503",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heamostasis management instruments",
+    "harm": {
+      "id": "0003520",
+      "title": "710503 - Heamostasis management instruments",
+      "conceptLink": "/ec2/concept/5954671"
+    }
+  },
+  {
+    "uri": "en/10/904311",
+    "id": "904311",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing aids",
+    "harm": {
+      "id": "0006719",
+      "title": "904311 - Hearing aids",
+      "conceptLink": "/ec2/concept/5957607"
+    }
+  },
+  {
+    "uri": "en/10/334291",
+    "id": "334291",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing aids for the deaf [acoustic aids]",
+    "harm": {
+      "id": "0026838",
+      "title": "334291 - Hearing aids for the deaf [acoustic aids]",
+      "conceptLink": "/ec2/concept/5976020"
+    }
+  },
+  {
+    "uri": "en/10/710523",
+    "id": "710523",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing apparatus for the deaf",
+    "harm": {
+      "id": "0003521",
+      "title": "710523 - Hearing apparatus for the deaf",
+      "conceptLink": "/ec2/concept/5954672"
+    }
+  },
+  {
+    "uri": "en/10/114633582",
+    "id": "114633582",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing protection devices",
+    "harm": {
+      "id": "0044287",
+      "title": "114633582 - Hearing protection devices",
+      "conceptLink": "/ec2/concept/5991944"
+    }
+  },
+  {
+    "uri": "en/10/166804",
+    "id": "166804",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing protectors",
+    "harm": {
+      "id": "0044287",
+      "title": "166804 - Hearing protectors",
+      "conceptLink": "/ec2/concept/5991944"
+    }
+  },
+  {
+    "uri": "en/10/233310542",
+    "id": "233310542",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hearing protectors without the ability to reproduce or transmit sound",
+    "harm": {
+      "id": "0073866",
+      "title": "233310542 - Hearing protectors without the ability to reproduce or transmit sound",
+      "conceptLink": "/ec2/concept/6010823"
+    }
+  },
+  {
+    "uri": "en/10/404246",
+    "id": "404246",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart monitors",
+    "harm": {
+      "id": "0030100",
+      "title": "404246 - Heart monitors",
+      "conceptLink": "/ec2/concept/5979016"
+    }
+  },
+  {
+    "uri": "en/10/404265",
+    "id": "404265",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart monitors to be worn during exercise",
+    "harm": {
+      "id": "0035903",
+      "title": "404265 - Heart monitors to be worn during exercise",
+      "conceptLink": "/ec2/concept/5984292"
+    }
+  },
+  {
+    "uri": "en/10/169427",
+    "id": "169427",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart pacemakers",
+    "harm": {
+      "id": "0046918",
+      "title": "169427 - Heart pacemakers",
+      "conceptLink": "/ec2/concept/5994307"
+    }
+  },
+  {
+    "uri": "en/10/710536",
+    "id": "710536",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart rate calculators",
+    "harm": {
+      "id": "0026604",
+      "title": "710536 - Heart rate calculators",
+      "conceptLink": "/ec2/concept/5975814"
+    }
+  },
+  {
+    "uri": "en/10/136524584",
+    "id": "136524584",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart rate monitoring apparatus",
+    "harm": {
+      "id": "0060025",
+      "title": "136524584 - Heart rate monitoring apparatus",
+      "conceptLink": "/ec2/concept/5996293"
+    }
+  },
+  {
+    "uri": "en/10/893714",
+    "id": "893714",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart rate monitors",
+    "harm": {
+      "id": "0000946",
+      "title": "893714 - Heart rate monitors",
+      "conceptLink": "/ec2/concept/5952338"
+    }
+  },
+  {
+    "uri": "en/10/120865493",
+    "id": "120865493",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart rate recorders",
+    "harm": {
+      "id": "0070953",
+      "title": "120865493 - Heart rate recorders",
+      "conceptLink": "/ec2/concept/6007145"
+    }
+  },
+  {
+    "uri": "en/10/893713",
+    "id": "893713",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heart signal monitors",
+    "harm": {
+      "id": "0000946",
+      "title": "893713 - Heart signal monitors",
+      "conceptLink": "/ec2/concept/5952338"
+    }
+  },
+  {
+    "uri": "en/10/334307",
+    "id": "334307",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heartbeat measuring apparatus",
+    "harm": {
+      "id": "0009488",
+      "title": "334307 - Heartbeat measuring apparatus",
+      "conceptLink": "/ec2/concept/5960145"
+    }
+  },
+  {
+    "uri": "en/10/710549",
+    "id": "710549",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat beds for medical treatment",
+    "harm": {
+      "id": "0003522",
+      "title": "710549 - Heat beds for medical treatment",
+      "conceptLink": "/ec2/concept/5954673"
+    }
+  },
+  {
+    "uri": "en/10/710562",
+    "id": "710562",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat dispensing containers for relieving muscle pain",
+    "harm": {
+      "id": "0015115",
+      "title": "710562 - Heat dispensing containers for relieving muscle pain",
+      "conceptLink": "/ec2/concept/5965293"
+    }
+  },
+  {
+    "uri": "en/10/710575",
+    "id": "710575",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat dispensing containers for relieving pain in the ear",
+    "harm": {
+      "id": "0017227",
+      "title": "710575 - Heat dispensing containers for relieving pain in the ear",
+      "conceptLink": "/ec2/concept/5967229"
+    }
+  },
+  {
+    "uri": "en/10/710588",
+    "id": "710588",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat dispensing containers for relieving pressure on the ear",
+    "harm": {
+      "id": "0028767",
+      "title": "710588 - Heat dispensing containers for relieving pressure on the ear",
+      "conceptLink": "/ec2/concept/5977801"
+    }
+  },
+  {
+    "uri": "en/10/710601",
+    "id": "710601",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat exchange anti-bacterial filters for medical use",
+    "harm": {
+      "id": "0017228",
+      "title": "710601 - Heat exchange anti-bacterial filters for medical use",
+      "conceptLink": "/ec2/concept/5967230"
+    }
+  },
+  {
+    "uri": "en/10/710614",
+    "id": "710614",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat exchange anti-viral filters for medical use",
+    "harm": {
+      "id": "0034544",
+      "title": "710614 - Heat exchange anti-viral filters for medical use",
+      "conceptLink": "/ec2/concept/5983069"
+    }
+  },
+  {
+    "uri": "en/10/404282",
+    "id": "404282",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat lamps for medical use",
+    "harm": {
+      "id": "0018585",
+      "title": "404282 - Heat lamps for medical use",
+      "conceptLink": "/ec2/concept/5968473"
+    }
+  },
+  {
+    "uri": "en/10/710627",
+    "id": "710627",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat pads for therapeutic treatment",
+    "harm": {
+      "id": "0034545",
+      "title": "710627 - Heat pads for therapeutic treatment",
+      "conceptLink": "/ec2/concept/5983070"
+    }
+  },
+  {
+    "uri": "en/10/710644",
+    "id": "710644",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat therapy apparatus",
+    "harm": {
+      "id": "0040333",
+      "title": "710644 - Heat therapy apparatus",
+      "conceptLink": "/ec2/concept/5988337"
+    }
+  },
+  {
+    "uri": "en/10/710645",
+    "id": "710645",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat therapy instruments",
+    "harm": {
+      "id": "0040333",
+      "title": "710645 - Heat therapy instruments",
+      "conceptLink": "/ec2/concept/5988337"
+    }
+  },
+  {
+    "uri": "en/10/710670",
+    "id": "710670",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat treatment apparatus",
+    "harm": {
+      "id": "0040334",
+      "title": "710670 - Heat treatment apparatus",
+      "conceptLink": "/ec2/concept/5988338"
+    }
+  },
+  {
+    "uri": "en/10/710688",
+    "id": "710688",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heat wrap massage apparatus",
+    "harm": {
+      "id": "0023104",
+      "title": "710688 - Heat wrap massage apparatus",
+      "conceptLink": "/ec2/concept/5972595"
+    }
+  },
+  {
+    "uri": "en/10/129492904",
+    "id": "129492904",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heating cushions, electric, for medical purposes",
+    "harm": {
+      "id": "0047504",
+      "title": "129492904 - Heating cushions, electric, for medical purposes",
+      "conceptLink": "/ec2/concept/5994806"
+    }
+  },
+  {
+    "uri": "en/10/164278",
+    "id": "164278",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heating cushions [pads], electric, for medical purposes",
+    "harm": {
+      "id": "0047504",
+      "title": "164278 - Heating cushions [pads], electric, for medical purposes",
+      "conceptLink": "/ec2/concept/5994806"
+    }
+  },
+  {
+    "uri": "en/10/710703",
+    "id": "710703",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heating cushions [pads], non-electric for medical purposes",
+    "harm": {
+      "id": "0028768",
+      "title": "710703 - Heating cushions [pads], non-electric for medical purposes",
+      "conceptLink": "/ec2/concept/5977802"
+    }
+  },
+  {
+    "uri": "en/10/1230069",
+    "id": "1230069",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heating pads, electric, for medical purposes",
+    "harm": {
+      "id": "0047504",
+      "title": "1230069 - Heating pads, electric, for medical purposes",
+      "conceptLink": "/ec2/concept/5994806"
+    }
+  },
+  {
+    "uri": "en/10/710719",
+    "id": "710719",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heel pads for orthopaedic use",
+    "harm": {
+      "id": "0005710",
+      "title": "710719 - Heel pads for orthopaedic use",
+      "conceptLink": "/ec2/concept/5956686"
+    }
+  },
+  {
+    "uri": "en/10/710731",
+    "id": "710731",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heel supports for orthopaedic use",
+    "harm": {
+      "id": "0015590",
+      "title": "710731 - Heel supports for orthopaedic use",
+      "conceptLink": "/ec2/concept/5965731"
+    }
+  },
+  {
+    "uri": "en/10/165828",
+    "id": "165828",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hematimeters",
+    "harm": {
+      "id": "0006406",
+      "title": "165828 - Hematimeters",
+      "conceptLink": "/ec2/concept/5957321"
+    }
+  },
+  {
+    "uri": "en/10/134480974",
+    "id": "134480974",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hemocytometers",
+    "harm": {
+      "id": "0006406",
+      "title": "134480974 - Hemocytometers",
+      "conceptLink": "/ec2/concept/5957321"
+    }
+  },
+  {
+    "uri": "en/10/404294",
+    "id": "404294",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hemodialysis apparatus",
+    "harm": {
+      "id": "0024366",
+      "title": "404294 - Hemodialysis apparatus",
+      "conceptLink": "/ec2/concept/5973761"
+    }
+  },
+  {
+    "uri": "en/10/710748",
+    "id": "710748",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hemostatic devices",
+    "harm": {
+      "id": "0032601",
+      "title": "710748 - Hemostatic devices",
+      "conceptLink": "/ec2/concept/5981288"
+    }
+  },
+  {
+    "uri": "en/10/710749",
+    "id": "710749",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hemostatic instruments",
+    "harm": {
+      "id": "0032601",
+      "title": "710749 - Hemostatic instruments",
+      "conceptLink": "/ec2/concept/5981288"
+    }
+  },
+  {
+    "uri": "en/10/334269",
+    "id": "334269",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hemostats",
+    "harm": {
+      "id": "0032601",
+      "title": "334269 - Hemostats",
+      "conceptLink": "/ec2/concept/5981288"
+    }
+  },
+  {
+    "uri": "en/10/710767",
+    "id": "710767",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Heparin control apparatus for surgical procedures",
+    "harm": {
+      "id": "0015969",
+      "title": "710767 - Heparin control apparatus for surgical procedures",
+      "conceptLink": "/ec2/concept/5966090"
+    }
+  },
+  {
+    "uri": "en/10/163846",
+    "id": "163846",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hernia bandages",
+    "harm": {
+      "id": "0043712",
+      "title": "163846 - Hernia bandages",
+      "conceptLink": "/ec2/concept/5991414"
+    }
+  },
+  {
+    "uri": "en/10/710779",
+    "id": "710779",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High filter surgical masks",
+    "harm": {
+      "id": "0004439",
+      "title": "710779 - High filter surgical masks",
+      "conceptLink": "/ec2/concept/5955514"
+    }
+  },
+  {
+    "uri": "en/10/710795",
+    "id": "710795",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency coagulation instruments dental purposes",
+    "harm": {
+      "id": "0033273",
+      "title": "710795 - High frequency coagulation instruments dental purposes",
+      "conceptLink": "/ec2/concept/5981904"
+    }
+  },
+  {
+    "uri": "en/10/710808",
+    "id": "710808",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency coagulation instruments for medical purposes",
+    "harm": {
+      "id": "0039077",
+      "title": "710808 - High frequency coagulation instruments for medical purposes",
+      "conceptLink": "/ec2/concept/5987181"
+    }
+  },
+  {
+    "uri": "en/10/710821",
+    "id": "710821",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency cutting instruments for dental purposes",
+    "harm": {
+      "id": "0004440",
+      "title": "710821 - High frequency cutting instruments for dental purposes",
+      "conceptLink": "/ec2/concept/5955515"
+    }
+  },
+  {
+    "uri": "en/10/710834",
+    "id": "710834",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency cutting instruments for medical purposes",
+    "harm": {
+      "id": "0027504",
+      "title": "710834 - High frequency cutting instruments for medical purposes",
+      "conceptLink": "/ec2/concept/5976623"
+    }
+  },
+  {
+    "uri": "en/10/334319",
+    "id": "334319",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency electromagnetic therapy apparatus",
+    "harm": {
+      "id": "0010366",
+      "title": "334319 - High frequency electromagnetic therapy apparatus",
+      "conceptLink": "/ec2/concept/5960941"
+    }
+  },
+  {
+    "uri": "en/10/710847",
+    "id": "710847",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High frequency generators for use in medical treatment",
+    "harm": {
+      "id": "0021886",
+      "title": "710847 - High frequency generators for use in medical treatment",
+      "conceptLink": "/ec2/concept/5971486"
+    }
+  },
+  {
+    "uri": "en/10/710860",
+    "id": "710860",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "High risk delivery resuscitation instruments",
+    "harm": {
+      "id": "0039078",
+      "title": "710860 - High risk delivery resuscitation instruments",
+      "conceptLink": "/ec2/concept/5987182"
+    }
+  },
+  {
+    "uri": "en/10/710872",
+    "id": "710872",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hip implants",
+    "harm": {
+      "id": "0017232",
+      "title": "710872 - Hip implants",
+      "conceptLink": "/ec2/concept/5967234"
+    }
+  },
+  {
+    "uri": "en/10/710888",
+    "id": "710888",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hip joint endoprostheses",
+    "harm": {
+      "id": "0017233",
+      "title": "710888 - Hip joint endoprostheses",
+      "conceptLink": "/ec2/concept/5967235"
+    }
+  },
+  {
+    "uri": "en/10/119531665",
+    "id": "119531665",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hip joint implants and their parts made of artificial materials",
+    "harm": {
+      "id": "0071605",
+      "title": "119531665 - Hip joint implants and their parts made of artificial materials",
+      "conceptLink": "/ec2/concept/6007796"
+    }
+  },
+  {
+    "uri": "en/10/87446960",
+    "id": "87446960",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hip prostheses",
+    "harm": {
+      "id": "0002829",
+      "title": "87446960 - Hip prostheses",
+      "conceptLink": "/ec2/concept/5954035"
+    }
+  },
+  {
+    "uri": "en/10/710900",
+    "id": "710900",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Holders for x-ray films for use in the mouth",
+    "harm": {
+      "id": "0011441",
+      "title": "710900 - Holders for x-ray films for use in the mouth",
+      "conceptLink": "/ec2/concept/5961924"
+    }
+  },
+  {
+    "uri": "en/10/710913",
+    "id": "710913",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hooks being fracture fixation devices",
+    "harm": {
+      "id": "0046060",
+      "title": "710913 - Hooks being fracture fixation devices",
+      "conceptLink": "/ec2/concept/5993574"
+    }
+  },
+  {
+    "uri": "en/10/710925",
+    "id": "710925",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hooks for limb replacement",
+    "harm": {
+      "id": "0034556",
+      "title": "710925 - Hooks for limb replacement",
+      "conceptLink": "/ec2/concept/5983080"
+    }
+  },
+  {
+    "uri": "en/10/334334",
+    "id": "334334",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hooks for spondylolysis",
+    "harm": {
+      "id": "0033494",
+      "title": "334334 - Hooks for spondylolysis",
+      "conceptLink": "/ec2/concept/5982110"
+    }
+  },
+  {
+    "uri": "en/10/4759464",
+    "id": "4759464",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Horsehair gloves for massage",
+    "harm": {
+      "id": "0066173",
+      "title": "4759464 - Horsehair gloves for massage",
+      "conceptLink": "/ec2/concept/6002376"
+    }
+  },
+  {
+    "uri": "en/10/710938",
+    "id": "710938",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hose systems for peritoneal dialysis",
+    "harm": {
+      "id": "0046061",
+      "title": "710938 - Hose systems for peritoneal dialysis",
+      "conceptLink": "/ec2/concept/5993575"
+    }
+  },
+  {
+    "uri": "en/10/404307",
+    "id": "404307",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hospital beds for use by burn patients",
+    "harm": {
+      "id": "0012788",
+      "title": "404307 - Hospital beds for use by burn patients",
+      "conceptLink": "/ec2/concept/5963165"
+    }
+  },
+  {
+    "uri": "en/10/710951",
+    "id": "710951",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hospital examination chairs",
+    "harm": {
+      "id": "0040342",
+      "title": "710951 - Hospital examination chairs",
+      "conceptLink": "/ec2/concept/5988346"
+    }
+  },
+  {
+    "uri": "en/10/710963",
+    "id": "710963",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hospital examination tables",
+    "harm": {
+      "id": "0046062",
+      "title": "710963 - Hospital examination tables",
+      "conceptLink": "/ec2/concept/5993576"
+    }
+  },
+  {
+    "uri": "en/10/904380",
+    "id": "904380",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hospital gurneys",
+    "harm": {
+      "id": "0042554",
+      "title": "904380 - Hospital gurneys",
+      "conceptLink": "/ec2/concept/5990365"
+    }
+  },
+  {
+    "uri": "en/10/162830",
+    "id": "162830",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hot air therapeutic apparatus",
+    "harm": {
+      "id": "0035439",
+      "title": "162830 - Hot air therapeutic apparatus",
+      "conceptLink": "/ec2/concept/5983875"
+    }
+  },
+  {
+    "uri": "en/10/162851",
+    "id": "162851",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hot air vibrators for medical purposes",
+    "harm": {
+      "id": "0023907",
+      "title": "162851 - Hot air vibrators for medical purposes",
+      "conceptLink": "/ec2/concept/5973337"
+    }
+  },
+  {
+    "uri": "en/10/710977",
+    "id": "710977",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hot therapy apparatus",
+    "harm": {
+      "id": "0040333",
+      "title": "710977 - Hot therapy apparatus",
+      "conceptLink": "/ec2/concept/5988337"
+    }
+  },
+  {
+    "uri": "en/10/710646",
+    "id": "710646",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hot therapy instruments",
+    "harm": {
+      "id": "0040333",
+      "title": "710646 - Hot therapy instruments",
+      "conceptLink": "/ec2/concept/5988337"
+    }
+  },
+  {
+    "uri": "en/10/710989",
+    "id": "710989",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Humidifiers for use in medical treatment",
+    "harm": {
+      "id": "0034557",
+      "title": "710989 - Humidifiers for use in medical treatment",
+      "conceptLink": "/ec2/concept/5983081"
+    }
+  },
+  {
+    "uri": "en/10/711001",
+    "id": "711001",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Humidifiers for use with respiratory therapy apparatus",
+    "harm": {
+      "id": "0017234",
+      "title": "711001 - Humidifiers for use with respiratory therapy apparatus",
+      "conceptLink": "/ec2/concept/5967236"
+    }
+  },
+  {
+    "uri": "en/10/711015",
+    "id": "711015",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Humidifying apparatus for medical use",
+    "harm": {
+      "id": "0005713",
+      "title": "711015 - Humidifying apparatus for medical use",
+      "conceptLink": "/ec2/concept/5956689"
+    }
+  }
+]

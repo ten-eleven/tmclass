@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/44/137885784",
+    "id": "137885784",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cattle breeding services",
+    "harm": {
+      "id": "0071467",
+      "title": "137885784 - Cattle breeding services",
+      "conceptLink": "/ec2/concept/6007658"
+    }
+  },
+  {
+    "uri": "en/44/132782296",
+    "id": "132782296",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cattle farming services",
+    "harm": {
+      "id": "0071245",
+      "title": "132782296 - Cattle farming services",
+      "conceptLink": "/ec2/concept/6007437"
+    }
+  },
+  {
+    "uri": "en/44/137928917",
+    "id": "137928917",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cellulite treatment services",
+    "harm": {
+      "id": "0071468",
+      "title": "137928917 - Cellulite treatment services",
+      "conceptLink": "/ec2/concept/6007659"
+    }
+  },
+  {
+    "uri": "en/44/876727",
+    "id": "876727",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cellulitis treatment services",
+    "harm": {
+      "id": "0009595",
+      "title": "876727 - Cellulitis treatment services",
+      "conceptLink": "/ec2/concept/5960242"
+    }
+  },
+  {
+    "uri": "en/44/137887243",
+    "id": "137887243",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cervical cancer screening services",
+    "harm": {
+      "id": "0071469",
+      "title": "137887243 - Cervical cancer screening services",
+      "conceptLink": "/ec2/concept/6007660"
+    }
+  },
+  {
+    "uri": "en/44/475943",
+    "id": "475943",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Charitable services, namely, providing medical services to needy persons",
+    "harm": {
+      "id": "0021756",
+      "title": "475943 - Charitable services, namely, providing medical services to needy persons",
+      "conceptLink": "/ec2/concept/5971363"
+    }
+  },
+  {
+    "uri": "en/44/876739",
+    "id": "876739",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Charitable services, namely providing medical services",
+    "harm": {
+      "id": "0026945",
+      "title": "876739 - Charitable services, namely providing medical services",
+      "conceptLink": "/ec2/concept/5976116"
+    }
+  },
+  {
+    "uri": "en/44/119555721",
+    "id": "119555721",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chemotherapy services",
+    "harm": {
+      "id": "0071246",
+      "title": "119555721 - Chemotherapy services",
+      "conceptLink": "/ec2/concept/6007438"
+    }
+  },
+  {
+    "uri": "en/44/876752",
+    "id": "876752",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chiropody",
+    "harm": {
+      "id": "0036690",
+      "title": "876752 - Chiropody",
+      "conceptLink": "/ec2/concept/5985015"
+    }
+  },
+  {
+    "uri": "en/44/33035253",
+    "id": "33035253",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chiropractic",
+    "harm": {
+      "id": "0017768",
+      "title": "33035253 - Chiropractic",
+      "conceptLink": "/ec2/concept/5967721"
+    }
+  },
+  {
+    "uri": "en/44/67198",
+    "id": "67198",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chiropractic services",
+    "harm": {
+      "id": "0017768",
+      "title": "67198 - Chiropractic services",
+      "conceptLink": "/ec2/concept/5967721"
+    }
+  },
+  {
+    "uri": "en/44/67196",
+    "id": "67196",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chiropractics",
+    "harm": {
+      "id": "0017768",
+      "title": "67196 - Chiropractics",
+      "conceptLink": "/ec2/concept/5967721"
+    }
+  },
+  {
+    "uri": "en/44/67197",
+    "id": "67197",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Chiropractitioner services",
+    "harm": {
+      "id": "0017768",
+      "title": "67197 - Chiropractitioner services",
+      "conceptLink": "/ec2/concept/5967721"
+    }
+  },
+  {
+    "uri": "en/44/876767",
+    "id": "876767",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cholesterol testing",
+    "harm": {
+      "id": "0022111",
+      "title": "876767 - Cholesterol testing",
+      "conceptLink": "/ec2/concept/5971697"
+    }
+  },
+  {
+    "uri": "en/44/67123",
+    "id": "67123",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Clinic (Medical -) services",
+    "harm": {
+      "id": "0025760",
+      "title": "67123 - Clinic (Medical -) services",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/124348193",
+    "id": "124348193",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Clinic services (Medical -)",
+    "harm": {
+      "id": "0025760",
+      "title": "124348193 - Clinic services (Medical -)",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/616804",
+    "id": "616804",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Clinics",
+    "harm": {
+      "id": "0025760",
+      "title": "616804 - Clinics",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/125097991",
+    "id": "125097991",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Clinics (Medical -)",
+    "harm": {
+      "id": "0025760",
+      "title": "125097991 - Clinics (Medical -)",
+      "conceptLink": "/ec2/concept/5975042"
+    }
+  },
+  {
+    "uri": "en/44/233249863",
+    "id": "233249863",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Collation of information in the healthcare sector",
+    "harm": {
+      "id": "0033500",
+      "title": "233249863 - Collation of information in the healthcare sector",
+      "conceptLink": "/ec2/concept/5982115"
+    }
+  },
+  {
+    "uri": "en/44/901901",
+    "id": "901901",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Collection and preservation of human blood",
+    "harm": {
+      "id": "0040140",
+      "title": "901901 - Collection and preservation of human blood",
+      "conceptLink": "/ec2/concept/5988159"
+    }
+  },
+  {
+    "uri": "en/44/136073570",
+    "id": "136073570",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Colonoscopy screening services",
+    "harm": {
+      "id": "0050423",
+      "title": "136073570 - Colonoscopy screening services",
+      "conceptLink": "/ec2/concept/5995630"
+    }
+  },
+  {
+    "uri": "en/44/475957",
+    "id": "475957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Colour analysis [beauticians' services]",
+    "harm": {
+      "id": "0021757",
+      "title": "475957 - Colour analysis [beauticians' services]",
+      "conceptLink": "/ec2/concept/5971364"
+    }
+  },
+  {
+    "uri": "en/44/876793",
+    "id": "876793",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Compilation of information relating to birds",
+    "harm": {
+      "id": "0016193",
+      "title": "876793 - Compilation of information relating to birds",
+      "conceptLink": "/ec2/concept/5966294"
+    }
+  },
+  {
+    "uri": "en/44/876804",
+    "id": "876804",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Compilation of medical reports",
+    "harm": {
+      "id": "0033500",
+      "title": "876804 - Compilation of medical reports",
+      "conceptLink": "/ec2/concept/5982115"
+    }
+  },
+  {
+    "uri": "en/44/876818",
+    "id": "876818",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Conducting of medical examinations",
+    "harm": {
+      "id": "0045020",
+      "title": "876818 - Conducting of medical examinations",
+      "conceptLink": "/ec2/concept/5992615"
+    }
+  },
+  {
+    "uri": "en/44/120888288",
+    "id": "120888288",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Conducting of psychological assessments and examination",
+    "harm": {
+      "id": "0069614",
+      "title": "120888288 - Conducting of psychological assessments and examination",
+      "conceptLink": "/ec2/concept/6005817"
+    }
+  },
+  {
+    "uri": "en/44/120885847",
+    "id": "120885847",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Conducting screenings for cardiovascular disease risk factors",
+    "harm": {
+      "id": "0069591",
+      "title": "120885847 - Conducting screenings for cardiovascular disease risk factors",
+      "conceptLink": "/ec2/concept/6005794"
+    }
+  },
+  {
+    "uri": "en/44/136188112",
+    "id": "136188112",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Conducting sleep studies for medical diagnostic or treatment purposes",
+    "harm": {
+      "id": "0050650",
+      "title": "136188112 - Conducting sleep studies for medical diagnostic or treatment purposes",
+      "conceptLink": "/ec2/concept/5996016"
+    }
+  },
+  {
+    "uri": "en/44/120888284",
+    "id": "120888284",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy and advisory services relating to agriculture, horticulture and forestry",
+    "harm": {
+      "id": "0069616",
+      "title": "120888284 - Consultancy and advisory services relating to agriculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/6005819"
+    }
+  },
+  {
+    "uri": "en/44/120886218",
+    "id": "120886218",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy and information services relating to pharmaceutical products",
+    "harm": {
+      "id": "0069572",
+      "title": "120886218 - Consultancy and information services relating to pharmaceutical products",
+      "conceptLink": "/ec2/concept/6005775"
+    }
+  },
+  {
+    "uri": "en/44/120886198",
+    "id": "120886198",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy and information services provided via the Internet relating to pharmaceutical products",
+    "harm": {
+      "id": "0069571",
+      "title": "120886198 - Consultancy and information services provided via the Internet relating to pharmaceutical products",
+      "conceptLink": "/ec2/concept/6005774"
+    }
+  },
+  {
+    "uri": "en/44/120887957",
+    "id": "120887957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy and information services relating to biopharmaceutical products",
+    "harm": {
+      "id": "0069654",
+      "title": "120887957 - Consultancy and information services relating to biopharmaceutical products",
+      "conceptLink": "/ec2/concept/6005857"
+    }
+  },
+  {
+    "uri": "en/44/120887960",
+    "id": "120887960",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy and information services relating to medical products",
+    "harm": {
+      "id": "0069655",
+      "title": "120887960 - Consultancy and information services relating to medical products",
+      "conceptLink": "/ec2/concept/6005858"
+    }
+  },
+  {
+    "uri": "en/44/120887946",
+    "id": "120887946",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy in the field of body and beauty care",
+    "harm": {
+      "id": "0069663",
+      "title": "120887946 - Consultancy in the field of body and beauty care",
+      "conceptLink": "/ec2/concept/6005866"
+    }
+  },
+  {
+    "uri": "en/44/120886188",
+    "id": "120886188",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy in the field of nutrition",
+    "harm": {
+      "id": "0058011",
+      "title": "120886188 - Consultancy in the field of nutrition",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/120887949",
+    "id": "120887949",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy provided via the Internet in the field of body and beauty care",
+    "harm": {
+      "id": "0069664",
+      "title": "120887949 - Consultancy provided via the Internet in the field of body and beauty care",
+      "conceptLink": "/ec2/concept/6005867"
+    }
+  },
+  {
+    "uri": "en/44/26123875",
+    "id": "26123875",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to agriculture, horticulture and forestry",
+    "harm": {
+      "id": "0069623",
+      "title": "26123875 - Consultancy relating to agriculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/6005826"
+    }
+  },
+  {
+    "uri": "en/44/875770",
+    "id": "875770",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to cosmetics",
+    "harm": {
+      "id": "0031224",
+      "title": "875770 - Consultancy relating to cosmetics",
+      "conceptLink": "/ec2/concept/5980051"
+    }
+  },
+  {
+    "uri": "en/44/120885350",
+    "id": "120885350",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to farming",
+    "harm": {
+      "id": "0059342",
+      "title": "120885350 - Consultancy relating to farming",
+      "conceptLink": "/ec2/concept/6000824"
+    }
+  },
+  {
+    "uri": "en/44/876834",
+    "id": "876834",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to health care",
+    "harm": {
+      "id": "0019051",
+      "title": "876834 - Consultancy relating to health care",
+      "conceptLink": "/ec2/concept/5968906"
+    }
+  },
+  {
+    "uri": "en/44/120888257",
+    "id": "120888257",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to hearing tests",
+    "harm": {
+      "id": "0069618",
+      "title": "120888257 - Consultancy relating to hearing tests",
+      "conceptLink": "/ec2/concept/6005821"
+    }
+  },
+  {
+    "uri": "en/44/120886034",
+    "id": "120886034",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to integral psychology",
+    "harm": {
+      "id": "0069599",
+      "title": "120886034 - Consultancy relating to integral psychology",
+      "conceptLink": "/ec2/concept/6005802"
+    }
+  },
+  {
+    "uri": "en/44/120885912",
+    "id": "120885912",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to landscape design",
+    "harm": {
+      "id": "0069580",
+      "title": "120885912 - Consultancy relating to landscape design",
+      "conceptLink": "/ec2/concept/6005783"
+    }
+  },
+  {
+    "uri": "en/44/876024",
+    "id": "876024",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to nutrition",
+    "harm": {
+      "id": "0058011",
+      "title": "876024 - Consultancy relating to nutrition",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/120888179",
+    "id": "120888179",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to the cultivation of plants",
+    "harm": {
+      "id": "0069628",
+      "title": "120888179 - Consultancy relating to the cultivation of plants",
+      "conceptLink": "/ec2/concept/6005831"
+    }
+  },
+  {
+    "uri": "en/44/120885919",
+    "id": "120885919",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy relating to tree planting",
+    "harm": {
+      "id": "0069581",
+      "title": "120885919 - Consultancy relating to tree planting",
+      "conceptLink": "/ec2/concept/6005784"
+    }
+  },
+  {
+    "uri": "en/44/120886190",
+    "id": "120886190",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services in the field of nutrition",
+    "harm": {
+      "id": "0058011",
+      "title": "120886190 - Consultancy services in the field of nutrition",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/876902",
+    "id": "876902",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to personal behaviour",
+    "harm": {
+      "id": "0036335",
+      "title": "876902 - Consultancy services relating to personal behaviour",
+      "conceptLink": "/ec2/concept/5984689"
+    }
+  },
+  {
+    "uri": "en/44/876111",
+    "id": "876111",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to slimming",
+    "harm": {
+      "id": "0034769",
+      "title": "876111 - Consultancy services relating to slimming",
+      "conceptLink": "/ec2/concept/5983267"
+    }
+  },
+  {
+    "uri": "en/44/876930",
+    "id": "876930",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to surgery",
+    "harm": {
+      "id": "0030547",
+      "title": "876930 - Consultancy services relating to surgery",
+      "conceptLink": "/ec2/concept/5979431"
+    }
+  },
+  {
+    "uri": "en/44/876889",
+    "id": "876889",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to orthopaedic implants",
+    "harm": {
+      "id": "0007397",
+      "title": "876889 - Consultancy services relating to orthopaedic implants",
+      "conceptLink": "/ec2/concept/5958230"
+    }
+  },
+  {
+    "uri": "en/44/876916",
+    "id": "876916",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to prosthetic implants",
+    "harm": {
+      "id": "0007398",
+      "title": "876916 - Consultancy services relating to prosthetic implants",
+      "conceptLink": "/ec2/concept/5958231"
+    }
+  },
+  {
+    "uri": "en/44/875771",
+    "id": "875771",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to cosmetics",
+    "harm": {
+      "id": "0031224",
+      "title": "875771 - Consultancy services relating to cosmetics",
+      "conceptLink": "/ec2/concept/5980051"
+    }
+  },
+  {
+    "uri": "en/44/476179",
+    "id": "476179",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services related to nutrition",
+    "harm": {
+      "id": "0058011",
+      "title": "476179 - Consultancy services related to nutrition",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/120886192",
+    "id": "120886192",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to nutrition",
+    "harm": {
+      "id": "0058011",
+      "title": "120886192 - Consultancy services relating to nutrition",
+      "conceptLink": "/ec2/concept/5999515"
+    }
+  },
+  {
+    "uri": "en/44/120885351",
+    "id": "120885351",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to farming",
+    "harm": {
+      "id": "0059342",
+      "title": "120885351 - Consultancy services relating to farming",
+      "conceptLink": "/ec2/concept/6000824"
+    }
+  },
+  {
+    "uri": "en/44/876860",
+    "id": "876860",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to agriculture",
+    "harm": {
+      "id": "0059342",
+      "title": "876860 - Consultancy services relating to agriculture",
+      "conceptLink": "/ec2/concept/6000824"
+    }
+  },
+  {
+    "uri": "en/44/876874",
+    "id": "876874",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultancy services relating to beauty",
+    "harm": {
+      "id": "0045021",
+      "title": "876874 - Consultancy services relating to beauty",
+      "conceptLink": "/ec2/concept/5992616"
+    }
+  },
+  {
+    "uri": "en/44/876943",
+    "id": "876943",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultation relating to bio-rhythms",
+    "harm": {
+      "id": "0036336",
+      "title": "876943 - Consultation relating to bio-rhythms",
+      "conceptLink": "/ec2/concept/5984690"
+    }
+  },
+  {
+    "uri": "en/44/120888095",
+    "id": "120888095",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultation services in the field of make-up",
+    "harm": {
+      "id": "0069652",
+      "title": "120888095 - Consultation services in the field of make-up",
+      "conceptLink": "/ec2/concept/6005855"
+    }
+  },
+  {
+    "uri": "en/44/876957",
+    "id": "876957",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultation services relating to beauty care",
+    "harm": {
+      "id": "0031227",
+      "title": "876957 - Consultation services relating to beauty care",
+      "conceptLink": "/ec2/concept/5980054"
+    }
+  },
+  {
+    "uri": "en/44/876971",
+    "id": "876971",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consultation services relating to skin care",
+    "harm": {
+      "id": "0042100",
+      "title": "876971 - Consultation services relating to skin care",
+      "conceptLink": "/ec2/concept/5989949"
+    }
+  },
+  {
+    "uri": "en/44/876835",
+    "id": "876835",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Consulting services relating to health care",
+    "harm": {
+      "id": "0019051",
+      "title": "876835 - Consulting services relating to health care",
+      "conceptLink": "/ec2/concept/5968906"
+    }
+  },
+  {
+    "uri": "en/44/233249509",
+    "id": "233249509",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Control of infestations of fleas in agriculture",
+    "harm": {
+      "id": "0073146",
+      "title": "233249509 - Control of infestations of fleas in agriculture",
+      "conceptLink": "/ec2/concept/6009319"
+    }
+  },
+  {
+    "uri": "en/44/67385",
+    "id": "67385",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Convalescence homes",
+    "harm": {
+      "id": "0072511",
+      "title": "67385 - Convalescence homes",
+      "conceptLink": "/ec2/concept/6008688"
+    }
+  },
+  {
+    "uri": "en/44/67391",
+    "id": "67391",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Convalescent home services",
+    "harm": {
+      "id": "0072511",
+      "title": "67391 - Convalescent home services",
+      "conceptLink": "/ec2/concept/6008688"
+    }
+  },
+  {
+    "uri": "en/44/67387",
+    "id": "67387",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Convalescent homes",
+    "harm": {
+      "id": "0072511",
+      "title": "67387 - Convalescent homes",
+      "conceptLink": "/ec2/concept/6008688"
+    }
+  },
+  {
+    "uri": "en/44/74163744",
+    "id": "74163744",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cord blood bank services",
+    "harm": {
+      "id": "0050262",
+      "title": "74163744 - Cord blood bank services",
+      "conceptLink": "/ec2/concept/5995498"
+    }
+  },
+  {
+    "uri": "en/44/475971",
+    "id": "475971",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic analysis",
+    "harm": {
+      "id": "0038949",
+      "title": "475971 - Cosmetic analysis",
+      "conceptLink": "/ec2/concept/5987067"
+    }
+  },
+  {
+    "uri": "en/44/120888359",
+    "id": "120888359",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic and plastic surgery clinic services",
+    "harm": {
+      "id": "0069619",
+      "title": "120888359 - Cosmetic and plastic surgery clinic services",
+      "conceptLink": "/ec2/concept/6005822"
+    }
+  },
+  {
+    "uri": "en/44/16169358",
+    "id": "16169358",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic and plastic surgery",
+    "harm": {
+      "id": "0069678",
+      "title": "16169358 - Cosmetic and plastic surgery",
+      "conceptLink": "/ec2/concept/6005881"
+    }
+  },
+  {
+    "uri": "en/44/476323",
+    "id": "476323",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic body care services",
+    "harm": {
+      "id": "0032512",
+      "title": "476323 - Cosmetic body care services",
+      "conceptLink": "/ec2/concept/5981209"
+    }
+  },
+  {
+    "uri": "en/44/902348",
+    "id": "902348",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic dentistry",
+    "harm": {
+      "id": "0023541",
+      "title": "902348 - Cosmetic dentistry",
+      "conceptLink": "/ec2/concept/5973003"
+    }
+  },
+  {
+    "uri": "en/44/120820145",
+    "id": "120820145",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic dentistry services",
+    "harm": {
+      "id": "0023541",
+      "title": "120820145 - Cosmetic dentistry services",
+      "conceptLink": "/ec2/concept/5973003"
+    }
+  },
+  {
+    "uri": "en/44/475986",
+    "id": "475986",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic electrolysis",
+    "harm": {
+      "id": "0015853",
+      "title": "475986 - Cosmetic electrolysis",
+      "conceptLink": "/ec2/concept/5965979"
+    }
+  },
+  {
+    "uri": "en/44/876985",
+    "id": "876985",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic electrolysis for the removal of hair",
+    "harm": {
+      "id": "0001639",
+      "title": "876985 - Cosmetic electrolysis for the removal of hair",
+      "conceptLink": "/ec2/concept/5952963"
+    }
+  },
+  {
+    "uri": "en/44/120886142",
+    "id": "120886142",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic facial and body treatment services",
+    "harm": {
+      "id": "0069546",
+      "title": "120886142 - Cosmetic facial and body treatment services",
+      "conceptLink": "/ec2/concept/6005749"
+    }
+  },
+  {
+    "uri": "en/44/137927224",
+    "id": "137927224",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of skin",
+    "harm": {
+      "id": "0071471",
+      "title": "137927224 - Cosmetic laser treatment of skin",
+      "conceptLink": "/ec2/concept/6007662"
+    }
+  },
+  {
+    "uri": "en/44/137847189",
+    "id": "137847189",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of toenail fungus",
+    "harm": {
+      "id": "0071505",
+      "title": "137847189 - Cosmetic laser treatment of toenail fungus",
+      "conceptLink": "/ec2/concept/6007696"
+    }
+  },
+  {
+    "uri": "en/44/137847188",
+    "id": "137847188",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of varicose veins",
+    "harm": {
+      "id": "0071507",
+      "title": "137847188 - Cosmetic laser treatment of varicose veins",
+      "conceptLink": "/ec2/concept/6007698"
+    }
+  },
+  {
+    "uri": "en/44/137847195",
+    "id": "137847195",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment for hair growth",
+    "harm": {
+      "id": "0071470",
+      "title": "137847195 - Cosmetic laser treatment for hair growth",
+      "conceptLink": "/ec2/concept/6007661"
+    }
+  },
+  {
+    "uri": "en/44/137847194",
+    "id": "137847194",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of tattoos",
+    "harm": {
+      "id": "0071504",
+      "title": "137847194 - Cosmetic laser treatment of tattoos",
+      "conceptLink": "/ec2/concept/6007695"
+    }
+  },
+  {
+    "uri": "en/44/137847193",
+    "id": "137847193",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of unwanted hair",
+    "harm": {
+      "id": "0071506",
+      "title": "137847193 - Cosmetic laser treatment of unwanted hair",
+      "conceptLink": "/ec2/concept/6007697"
+    }
+  },
+  {
+    "uri": "en/44/137847192",
+    "id": "137847192",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic laser treatment of spider veins",
+    "harm": {
+      "id": "0071503",
+      "title": "137847192 - Cosmetic laser treatment of spider veins",
+      "conceptLink": "/ec2/concept/6007694"
+    }
+  },
+  {
+    "uri": "en/44/876999",
+    "id": "876999",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic make-up services",
+    "harm": {
+      "id": "0042101",
+      "title": "876999 - Cosmetic make-up services",
+      "conceptLink": "/ec2/concept/5989950"
+    }
+  },
+  {
+    "uri": "en/44/137544501",
+    "id": "137544501",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic skin tanning services for human beings",
+    "harm": {
+      "id": "0037790",
+      "title": "137544501 - Cosmetic skin tanning services for human beings",
+      "conceptLink": "/ec2/concept/5986008"
+    }
+  },
+  {
+    "uri": "en/44/49800678",
+    "id": "49800678",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic surgery services",
+    "harm": {
+      "id": "0018976",
+      "title": "49800678 - Cosmetic surgery services",
+      "conceptLink": "/ec2/concept/5968837"
+    }
+  },
+  {
+    "uri": "en/44/877012",
+    "id": "877012",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic treatment",
+    "harm": {
+      "id": "0019052",
+      "title": "877012 - Cosmetic treatment",
+      "conceptLink": "/ec2/concept/5968907"
+    }
+  },
+  {
+    "uri": "en/44/877026",
+    "id": "877026",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic treatment for the body",
+    "harm": {
+      "id": "0024798",
+      "title": "877026 - Cosmetic treatment for the body",
+      "conceptLink": "/ec2/concept/5974165"
+    }
+  },
+  {
+    "uri": "en/44/877038",
+    "id": "877038",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic treatment for the face",
+    "harm": {
+      "id": "0024799",
+      "title": "877038 - Cosmetic treatment for the face",
+      "conceptLink": "/ec2/concept/5974166"
+    }
+  },
+  {
+    "uri": "en/44/877052",
+    "id": "877052",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic treatment for the hair",
+    "harm": {
+      "id": "0030548",
+      "title": "877052 - Cosmetic treatment for the hair",
+      "conceptLink": "/ec2/concept/5979432"
+    }
+  },
+  {
+    "uri": "en/44/120887925",
+    "id": "120887925",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetic treatment services for the body, face and hair",
+    "harm": {
+      "id": "0069660",
+      "title": "120887925 - Cosmetic treatment services for the body, face and hair",
+      "conceptLink": "/ec2/concept/6005863"
+    }
+  },
+  {
+    "uri": "en/44/476004",
+    "id": "476004",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetician services",
+    "harm": {
+      "id": "0025759",
+      "title": "476004 - Cosmetician services",
+      "conceptLink": "/ec2/concept/5975041"
+    }
+  },
+  {
+    "uri": "en/44/476033",
+    "id": "476033",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cosmetics consultancy services",
+    "harm": {
+      "id": "0038950",
+      "title": "476033 - Cosmetics consultancy services",
+      "conceptLink": "/ec2/concept/5987068"
+    }
+  },
+  {
+    "uri": "en/44/120888088",
+    "id": "120888088",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Counseling relating to occupational therapy",
+    "harm": {
+      "id": "0069653",
+      "title": "120888088 - Counseling relating to occupational therapy",
+      "conceptLink": "/ec2/concept/6005856"
+    }
+  },
+  {
+    "uri": "en/44/876025",
+    "id": "876025",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Counselling relating to diet",
+    "harm": {
+      "id": "0058009",
+      "title": "876025 - Counselling relating to diet",
+      "conceptLink": "/ec2/concept/5999513"
+    }
+  },
+  {
+    "uri": "en/44/616503",
+    "id": "616503",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Counselling relating to nutrition",
+    "harm": {
+      "id": "0058009",
+      "title": "616503 - Counselling relating to nutrition",
+      "conceptLink": "/ec2/concept/5999513"
+    }
+  },
+  {
+    "uri": "en/44/877079",
+    "id": "877079",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Counselling relating to the psychological treatment of medical ailments",
+    "harm": {
+      "id": "0039299",
+      "title": "877079 - Counselling relating to the psychological treatment of medical ailments",
+      "conceptLink": "/ec2/concept/5987388"
+    }
+  },
+  {
+    "uri": "en/44/877066",
+    "id": "877066",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Counselling relating to the psychological relief of medical ailments",
+    "harm": {
+      "id": "0045024",
+      "title": "877066 - Counselling relating to the psychological relief of medical ailments",
+      "conceptLink": "/ec2/concept/5992619"
+    }
+  },
+  {
+    "uri": "en/44/232666837",
+    "id": "232666837",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Cryotherapy services",
+    "harm": {
+      "id": "0072503",
+      "title": "232666837 - Cryotherapy services",
+      "conceptLink": "/ec2/concept/6008680"
+    }
+  }
+]

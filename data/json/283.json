@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/334451",
+    "id": "334451",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection syringes [syringe barrels]",
+    "harm": {
+      "id": "0058673",
+      "title": "334451 - Injection syringes [syringe barrels]",
+      "conceptLink": "/ec2/concept/6000166"
+    }
+  },
+  {
+    "uri": "en/10/165972",
+    "id": "165972",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injectors for medical purposes",
+    "harm": {
+      "id": "0058675",
+      "title": "165972 - Injectors for medical purposes",
+      "conceptLink": "/ec2/concept/6000168"
+    }
+  },
+  {
+    "uri": "en/10/711824",
+    "id": "711824",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inner lumens for balloon catheters",
+    "harm": {
+      "id": "0002821",
+      "title": "711824 - Inner lumens for balloon catheters",
+      "conceptLink": "/ec2/concept/5954028"
+    }
+  },
+  {
+    "uri": "en/10/711843",
+    "id": "711843",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inoculating apparatus",
+    "harm": {
+      "id": "0006095",
+      "title": "711843 - Inoculating apparatus",
+      "conceptLink": "/ec2/concept/5957039"
+    }
+  },
+  {
+    "uri": "en/10/711844",
+    "id": "711844",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inoculating devices",
+    "harm": {
+      "id": "0006095",
+      "title": "711844 - Inoculating devices",
+      "conceptLink": "/ec2/concept/5957039"
+    }
+  },
+  {
+    "uri": "en/10/711845",
+    "id": "711845",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inoculators",
+    "harm": {
+      "id": "0006095",
+      "title": "711845 - Inoculators",
+      "conceptLink": "/ec2/concept/5957039"
+    }
+  },
+  {
+    "uri": "en/10/711884",
+    "id": "711884",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inserts for breathing masks for surgical use",
+    "harm": {
+      "id": "0011871",
+      "title": "711884 - Inserts for breathing masks for surgical use",
+      "conceptLink": "/ec2/concept/5962323"
+    }
+  },
+  {
+    "uri": "en/10/711871",
+    "id": "711871",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inserts for breathing masks for medical use",
+    "harm": {
+      "id": "0040776",
+      "title": "711871 - Inserts for breathing masks for medical use",
+      "conceptLink": "/ec2/concept/5988742"
+    }
+  },
+  {
+    "uri": "en/10/405046",
+    "id": "405046",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inserts for footwear [orthopaedic]",
+    "harm": {
+      "id": "0057348",
+      "title": "405046 - Inserts for footwear [orthopaedic]",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/163896",
+    "id": "163896",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inserts for shoes [orthopaedic]",
+    "harm": {
+      "id": "0057348",
+      "title": "163896 - Inserts for shoes [orthopaedic]",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/711896",
+    "id": "711896",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inserts for the nose",
+    "harm": {
+      "id": "0017634",
+      "title": "711896 - Inserts for the nose",
+      "conceptLink": "/ec2/concept/5967596"
+    }
+  },
+  {
+    "uri": "en/10/711964",
+    "id": "711964",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insole-shells [orthopaedic]",
+    "harm": {
+      "id": "0005627",
+      "title": "711964 - Insole-shells [orthopaedic]",
+      "conceptLink": "/ec2/concept/5956615"
+    }
+  },
+  {
+    "uri": "en/10/711908",
+    "id": "711908",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for corrective treatment of conditions of the feet",
+    "harm": {
+      "id": "0034980",
+      "title": "711908 - Insoles for corrective treatment of conditions of the feet",
+      "conceptLink": "/ec2/concept/5983460"
+    }
+  },
+  {
+    "uri": "en/10/711924",
+    "id": "711924",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for corrective treatment of conditions of the lower limbs",
+    "harm": {
+      "id": "0029201",
+      "title": "711924 - Insoles for corrective treatment of conditions of the lower limbs",
+      "conceptLink": "/ec2/concept/5978199"
+    }
+  },
+  {
+    "uri": "en/10/711939",
+    "id": "711939",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for footwear [orthopaedic]",
+    "harm": {
+      "id": "0057348",
+      "title": "711939 - Insoles for footwear [orthopaedic]",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/163897",
+    "id": "163897",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for orthopaedic shoes",
+    "harm": {
+      "id": "0057348",
+      "title": "163897 - Insoles for orthopaedic shoes",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/405048",
+    "id": "405048",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for orthopedic footwear",
+    "harm": {
+      "id": "0057348",
+      "title": "405048 - Insoles for orthopedic footwear",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/168453",
+    "id": "168453",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles for shoes [orthopaedic]",
+    "harm": {
+      "id": "0057348",
+      "title": "168453 - Insoles for shoes [orthopaedic]",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/168450",
+    "id": "168450",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insoles [orthopaedic]",
+    "harm": {
+      "id": "0057348",
+      "title": "168450 - Insoles [orthopaedic]",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/164485",
+    "id": "164485",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instrument cases for use by surgeons and doctors",
+    "harm": {
+      "id": "0020942",
+      "title": "164485 - Instrument cases for use by surgeons and doctors",
+      "conceptLink": "/ec2/concept/5970624"
+    }
+  },
+  {
+    "uri": "en/10/129143326",
+    "id": "129143326",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instrument cases for use by doctors",
+    "harm": {
+      "id": "0020942",
+      "title": "129143326 - Instrument cases for use by doctors",
+      "conceptLink": "/ec2/concept/5970624"
+    }
+  },
+  {
+    "uri": "en/10/711978",
+    "id": "711978",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for applying dental filling",
+    "harm": {
+      "id": "0023028",
+      "title": "711978 - Instruments for applying dental filling",
+      "conceptLink": "/ec2/concept/5972525"
+    }
+  },
+  {
+    "uri": "en/10/711991",
+    "id": "711991",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for cardiac stimulation",
+    "harm": {
+      "id": "0005628",
+      "title": "711991 - Instruments for cardiac stimulation",
+      "conceptLink": "/ec2/concept/5956616"
+    }
+  },
+  {
+    "uri": "en/10/404409",
+    "id": "404409",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for extracting human body fluids",
+    "harm": {
+      "id": "0002039",
+      "title": "404409 - Instruments for extracting human body fluids",
+      "conceptLink": "/ec2/concept/5953321"
+    }
+  },
+  {
+    "uri": "en/10/712004",
+    "id": "712004",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for intraluminar sclerosation of varicose veins",
+    "harm": {
+      "id": "0011351",
+      "title": "712004 - Instruments for intraluminar sclerosation of varicose veins",
+      "conceptLink": "/ec2/concept/5961843"
+    }
+  },
+  {
+    "uri": "en/10/166443",
+    "id": "166443",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for massage",
+    "harm": {
+      "id": "0019973",
+      "title": "166443 - Instruments for massage",
+      "conceptLink": "/ec2/concept/5969736"
+    }
+  },
+  {
+    "uri": "en/10/712017",
+    "id": "712017",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for rubber band ligation of haemorrhoids",
+    "harm": {
+      "id": "0023029",
+      "title": "712017 - Instruments for rubber band ligation of haemorrhoids",
+      "conceptLink": "/ec2/concept/5972526"
+    }
+  },
+  {
+    "uri": "en/10/405371",
+    "id": "405371",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for treating snake bites",
+    "harm": {
+      "id": "0009620",
+      "title": "405371 - Instruments for treating snake bites",
+      "conceptLink": "/ec2/concept/5960264"
+    }
+  },
+  {
+    "uri": "en/10/120894709",
+    "id": "120894709",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in gastrointestinal surgery",
+    "harm": {
+      "id": "0066110",
+      "title": "120894709 - Instruments for use in gastrointestinal surgery",
+      "conceptLink": "/ec2/concept/6002313"
+    }
+  },
+  {
+    "uri": "en/10/168793",
+    "id": "168793",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in medical analysis",
+    "harm": {
+      "id": "0011610",
+      "title": "168793 - Instruments for use in medical analysis",
+      "conceptLink": "/ec2/concept/5962079"
+    }
+  },
+  {
+    "uri": "en/10/120894742",
+    "id": "120894742",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in prosthetic dentistry",
+    "harm": {
+      "id": "0066104",
+      "title": "120894742 - Instruments for use in prosthetic dentistry",
+      "conceptLink": "/ec2/concept/6002307"
+    }
+  },
+  {
+    "uri": "en/10/703958",
+    "id": "703958",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in the preparation of artificial teeth",
+    "harm": {
+      "id": "0002311",
+      "title": "703958 - Instruments for use in the preparation of artificial teeth",
+      "conceptLink": "/ec2/concept/5953566"
+    }
+  },
+  {
+    "uri": "en/10/703906",
+    "id": "703906",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in the fitting of artificial teeth",
+    "harm": {
+      "id": "0031155",
+      "title": "703906 - Instruments for use in the fitting of artificial teeth",
+      "conceptLink": "/ec2/concept/5979988"
+    }
+  },
+  {
+    "uri": "en/10/712030",
+    "id": "712030",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Instruments for use in the fitting of dental protheses",
+    "harm": {
+      "id": "0042754",
+      "title": "712030 - Instruments for use in the fitting of dental protheses",
+      "conceptLink": "/ec2/concept/5990539"
+    }
+  },
+  {
+    "uri": "en/10/712042",
+    "id": "712042",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insufflation needles",
+    "harm": {
+      "id": "0044745",
+      "title": "712042 - Insufflation needles",
+      "conceptLink": "/ec2/concept/5992365"
+    }
+  },
+  {
+    "uri": "en/10/166061",
+    "id": "166061",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insufflators",
+    "harm": {
+      "id": "0006409",
+      "title": "166061 - Insufflators",
+      "conceptLink": "/ec2/concept/5957324"
+    }
+  },
+  {
+    "uri": "en/10/12524211",
+    "id": "12524211",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insulin pens",
+    "harm": {
+      "id": "0071609",
+      "title": "12524211 - Insulin pens",
+      "conceptLink": "/ec2/concept/6007799"
+    }
+  },
+  {
+    "uri": "en/10/137963980",
+    "id": "137963980",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insulin pens sold empty",
+    "harm": {
+      "id": "0071610",
+      "title": "137963980 - Insulin pens sold empty",
+      "conceptLink": "/ec2/concept/6007800"
+    }
+  },
+  {
+    "uri": "en/10/137963978",
+    "id": "137963978",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Insulin syringes",
+    "harm": {
+      "id": "0071611",
+      "title": "137963978 - Insulin syringes",
+      "conceptLink": "/ec2/concept/6007801"
+    }
+  },
+  {
+    "uri": "en/10/712055",
+    "id": "712055",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Interdental brushes for use in dental treatment",
+    "harm": {
+      "id": "0033200",
+      "title": "712055 - Interdental brushes for use in dental treatment",
+      "conceptLink": "/ec2/concept/5981839"
+    }
+  },
+  {
+    "uri": "en/10/712068",
+    "id": "712068",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Interdental immobilization instruments",
+    "harm": {
+      "id": "0010092",
+      "title": "712068 - Interdental immobilization instruments",
+      "conceptLink": "/ec2/concept/5960692"
+    }
+  },
+  {
+    "uri": "en/10/712080",
+    "id": "712080",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Interdental stimulators for use in dental treatment",
+    "harm": {
+      "id": "0021822",
+      "title": "712080 - Interdental stimulators for use in dental treatment",
+      "conceptLink": "/ec2/concept/5971426"
+    }
+  },
+  {
+    "uri": "en/10/136086888",
+    "id": "136086888",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Internal nasal dilators",
+    "harm": {
+      "id": "0071612",
+      "title": "136086888 - Internal nasal dilators",
+      "conceptLink": "/ec2/concept/6007802"
+    }
+  },
+  {
+    "uri": "en/10/334467",
+    "id": "334467",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Interpupillometers",
+    "harm": {
+      "id": "0004662",
+      "title": "334467 - Interpupillometers",
+      "conceptLink": "/ec2/concept/5955723"
+    }
+  },
+  {
+    "uri": "en/10/712094",
+    "id": "712094",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intra-aortic balloons",
+    "harm": {
+      "id": "0039019",
+      "title": "712094 - Intra-aortic balloons",
+      "conceptLink": "/ec2/concept/5987132"
+    }
+  },
+  {
+    "uri": "en/10/712106",
+    "id": "712106",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intra-corneal implants",
+    "harm": {
+      "id": "0010093",
+      "title": "712106 - Intra-corneal implants",
+      "conceptLink": "/ec2/concept/5960693"
+    }
+  },
+  {
+    "uri": "en/10/712130",
+    "id": "712130",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intra-ocular implants",
+    "harm": {
+      "id": "0021823",
+      "title": "712130 - Intra-ocular implants",
+      "conceptLink": "/ec2/concept/5971427"
+    }
+  },
+  {
+    "uri": "en/10/885105",
+    "id": "885105",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intra-ocular lenses",
+    "harm": {
+      "id": "0039910",
+      "title": "885105 - Intra-ocular lenses",
+      "conceptLink": "/ec2/concept/5987950"
+    }
+  },
+  {
+    "uri": "en/10/712162",
+    "id": "712162",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intra-vascular blood gas monitoring systems",
+    "harm": {
+      "id": "0039020",
+      "title": "712162 - Intra-vascular blood gas monitoring systems",
+      "conceptLink": "/ec2/concept/5987133"
+    }
+  },
+  {
+    "uri": "en/10/885094",
+    "id": "885094",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intracardiac catheter",
+    "harm": {
+      "id": "0034162",
+      "title": "885094 - Intracardiac catheter",
+      "conceptLink": "/ec2/concept/5982723"
+    }
+  },
+  {
+    "uri": "en/10/120894612",
+    "id": "120894612",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intracranial pressure measuring apparatus",
+    "harm": {
+      "id": "0055904",
+      "title": "120894612 - Intracranial pressure measuring apparatus",
+      "conceptLink": "/ec2/concept/5997278"
+    }
+  },
+  {
+    "uri": "en/10/334479",
+    "id": "334479",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intramedullary nails",
+    "harm": {
+      "id": "0004663",
+      "title": "334479 - Intramedullary nails",
+      "conceptLink": "/ec2/concept/5955724"
+    }
+  },
+  {
+    "uri": "en/10/712118",
+    "id": "712118",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intramedullary plugs",
+    "harm": {
+      "id": "0010094",
+      "title": "712118 - Intramedullary plugs",
+      "conceptLink": "/ec2/concept/5960694"
+    }
+  },
+  {
+    "uri": "en/10/137950003",
+    "id": "137950003",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intraocular implants for changing eye color made from artificial materials",
+    "harm": {
+      "id": "0071617",
+      "title": "137950003 - Intraocular implants for changing eye color made from artificial materials",
+      "conceptLink": "/ec2/concept/6007806"
+    }
+  },
+  {
+    "uri": "en/10/334493",
+    "id": "334493",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intraocular lens biometers",
+    "harm": {
+      "id": "0033496",
+      "title": "334493 - Intraocular lens biometers",
+      "conceptLink": "/ec2/concept/5982112"
+    }
+  },
+  {
+    "uri": "en/10/885106",
+    "id": "885106",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intraocular lenses",
+    "harm": {
+      "id": "0039910",
+      "title": "885106 - Intraocular lenses",
+      "conceptLink": "/ec2/concept/5987950"
+    }
+  },
+  {
+    "uri": "en/10/712146",
+    "id": "712146",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intraocular lenses for surgical implantation",
+    "harm": {
+      "id": "0010095",
+      "title": "712146 - Intraocular lenses for surgical implantation",
+      "conceptLink": "/ec2/concept/5960695"
+    }
+  },
+  {
+    "uri": "en/10/129496556",
+    "id": "129496556",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intraocular prostheses [lenses] for surgical implantation",
+    "harm": {
+      "id": "0014274",
+      "title": "129496556 - Intraocular prostheses [lenses] for surgical implantation",
+      "conceptLink": "/ec2/concept/5964526"
+    }
+  },
+  {
+    "uri": "en/10/120884855",
+    "id": "120884855",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravascular implants made from artificial materials",
+    "harm": {
+      "id": "0001994",
+      "title": "120884855 - Intravascular implants made from artificial materials",
+      "conceptLink": "/ec2/concept/5953284"
+    }
+  },
+  {
+    "uri": "en/10/712175",
+    "id": "712175",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous administration instruments for medical purposes",
+    "harm": {
+      "id": "0027454",
+      "title": "712175 - Intravenous administration instruments for medical purposes",
+      "conceptLink": "/ec2/concept/5976577"
+    }
+  },
+  {
+    "uri": "en/10/712187",
+    "id": "712187",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous bags for medical purposes",
+    "harm": {
+      "id": "0040102",
+      "title": "712187 - Intravenous bags for medical purposes",
+      "conceptLink": "/ec2/concept/5988125"
+    }
+  },
+  {
+    "uri": "en/10/712203",
+    "id": "712203",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous bags for surgical purposes",
+    "harm": {
+      "id": "0017023",
+      "title": "712203 - Intravenous bags for surgical purposes",
+      "conceptLink": "/ec2/concept/5967049"
+    }
+  },
+  {
+    "uri": "en/10/712216",
+    "id": "712216",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous catheter sets",
+    "harm": {
+      "id": "0034349",
+      "title": "712216 - Intravenous catheter sets",
+      "conceptLink": "/ec2/concept/5982889"
+    }
+  },
+  {
+    "uri": "en/10/404428",
+    "id": "404428",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous feeding bottles",
+    "harm": {
+      "id": "0019464",
+      "title": "404428 - Intravenous feeding bottles",
+      "conceptLink": "/ec2/concept/5969275"
+    }
+  },
+  {
+    "uri": "en/10/404444",
+    "id": "404444",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous feeding tubes",
+    "harm": {
+      "id": "0019465",
+      "title": "404444 - Intravenous feeding tubes",
+      "conceptLink": "/ec2/concept/5969276"
+    }
+  },
+  {
+    "uri": "en/10/712229",
+    "id": "712229",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Intravenous infusion pumps for medical purposes",
+    "harm": {
+      "id": "0040103",
+      "title": "712229 - Intravenous infusion pumps for medical purposes",
+      "conceptLink": "/ec2/concept/5988126"
+    }
+  },
+  {
+    "uri": "en/10/712255",
+    "id": "712255",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Introducers for implanting vena-cava filters",
+    "harm": {
+      "id": "0022899",
+      "title": "712255 - Introducers for implanting vena-cava filters",
+      "conceptLink": "/ec2/concept/5972415"
+    }
+  },
+  {
+    "uri": "en/10/712242",
+    "id": "712242",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Introducers for implanting anti-embolic filters",
+    "harm": {
+      "id": "0040104",
+      "title": "712242 - Introducers for implanting anti-embolic filters",
+      "conceptLink": "/ec2/concept/5988127"
+    }
+  },
+  {
+    "uri": "en/10/404456",
+    "id": "404456",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Invalid lifts",
+    "harm": {
+      "id": "0030906",
+      "title": "404456 - Invalid lifts",
+      "conceptLink": "/ec2/concept/5979765"
+    }
+  },
+  {
+    "uri": "en/10/404470",
+    "id": "404470",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Invalid walkers",
+    "harm": {
+      "id": "0042482",
+      "title": "404470 - Invalid walkers",
+      "conceptLink": "/ec2/concept/5990301"
+    }
+  },
+  {
+    "uri": "en/10/169488",
+    "id": "169488",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Invalids' hoists",
+    "harm": {
+      "id": "0006365",
+      "title": "169488 - Invalids' hoists",
+      "conceptLink": "/ec2/concept/5957284"
+    }
+  },
+  {
+    "uri": "en/10/712268",
+    "id": "712268",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Irrigation pouches for medical use",
+    "harm": {
+      "id": "0040105",
+      "title": "712268 - Irrigation pouches for medical use",
+      "conceptLink": "/ec2/concept/5988128"
+    }
+  },
+  {
+    "uri": "en/10/166084",
+    "id": "166084",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Irrigators for medical use",
+    "harm": {
+      "id": "0012213",
+      "title": "166084 - Irrigators for medical use",
+      "conceptLink": "/ec2/concept/5962639"
+    }
+  },
+  {
+    "uri": "en/10/712281",
+    "id": "712281",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Isolation bags for medical use",
+    "harm": {
+      "id": "0045828",
+      "title": "712281 - Isolation bags for medical use",
+      "conceptLink": "/ec2/concept/5993359"
+    }
+  },
+  {
+    "uri": "en/10/166368",
+    "id": "166368",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Jaws (Artificial -)",
+    "harm": {
+      "id": "0025653",
+      "title": "166368 - Jaws (Artificial -)",
+      "conceptLink": "/ec2/concept/5974945"
+    }
+  },
+  {
+    "uri": "en/10/137963972",
+    "id": "137963972",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Jet injectors for medical use",
+    "harm": {
+      "id": "0071614",
+      "title": "137963972 - Jet injectors for medical use",
+      "conceptLink": "/ec2/concept/6007803"
+    }
+  },
+  {
+    "uri": "en/10/712293",
+    "id": "712293",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Joint endoprostheses",
+    "harm": {
+      "id": "0022900",
+      "title": "712293 - Joint endoprostheses",
+      "conceptLink": "/ec2/concept/5972416"
+    }
+  },
+  {
+    "uri": "en/10/333458",
+    "id": "333458",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Joint prostheses",
+    "harm": {
+      "id": "0018650",
+      "title": "333458 - Joint prostheses",
+      "conceptLink": "/ec2/concept/5968532"
+    }
+  },
+  {
+    "uri": "en/10/712305",
+    "id": "712305",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Keratometers",
+    "harm": {
+      "id": "0009802",
+      "title": "712305 - Keratometers",
+      "conceptLink": "/ec2/concept/5960429"
+    }
+  },
+  {
+    "uri": "en/10/334505",
+    "id": "334505",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Keratoscopes",
+    "harm": {
+      "id": "0010369",
+      "title": "334505 - Keratoscopes",
+      "conceptLink": "/ec2/concept/5960944"
+    }
+  },
+  {
+    "uri": "en/10/712319",
+    "id": "712319",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Kidney horns",
+    "harm": {
+      "id": "0022901",
+      "title": "712319 - Kidney horns",
+      "conceptLink": "/ec2/concept/5972417"
+    }
+  },
+  {
+    "uri": "en/10/132812272",
+    "id": "132812272",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee bandages, orthopaedic",
+    "harm": {
+      "id": "0001049",
+      "title": "132812272 - Knee bandages, orthopaedic",
+      "conceptLink": "/ec2/concept/5952431"
+    }
+  },
+  {
+    "uri": "en/10/169096",
+    "id": "169096",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee bandages, orthopedic",
+    "harm": {
+      "id": "0001049",
+      "title": "169096 - Knee bandages, orthopedic",
+      "conceptLink": "/ec2/concept/5952431"
+    }
+  },
+  {
+    "uri": "en/10/712330",
+    "id": "712330",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee bandages [supportive]",
+    "harm": {
+      "id": "0034350",
+      "title": "712330 - Knee bandages [supportive]",
+      "conceptLink": "/ec2/concept/5982890"
+    }
+  },
+  {
+    "uri": "en/10/712359",
+    "id": "712359",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee crutches",
+    "harm": {
+      "id": "0040106",
+      "title": "712359 - Knee crutches",
+      "conceptLink": "/ec2/concept/5988129"
+    }
+  },
+  {
+    "uri": "en/10/712372",
+    "id": "712372",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee guards in the nature of supports [other than sports articles]",
+    "harm": {
+      "id": "0000989",
+      "title": "712372 - Knee guards in the nature of supports [other than sports articles]",
+      "conceptLink": "/ec2/concept/5952375"
+    }
+  },
+  {
+    "uri": "en/10/712384",
+    "id": "712384",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee prostheses",
+    "harm": {
+      "id": "0018377",
+      "title": "712384 - Knee prostheses",
+      "conceptLink": "/ec2/concept/5968278"
+    }
+  },
+  {
+    "uri": "en/10/120894591",
+    "id": "120894591",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knee supports for medical use",
+    "harm": {
+      "id": "0066117",
+      "title": "120894591 - Knee supports for medical use",
+      "conceptLink": "/ec2/concept/6002320"
+    }
+  },
+  {
+    "uri": "en/10/712399",
+    "id": "712399",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knife blades [surgical]",
+    "harm": {
+      "id": "0029892",
+      "title": "712399 - Knife blades [surgical]",
+      "conceptLink": "/ec2/concept/5978824"
+    }
+  },
+  {
+    "uri": "en/10/164717",
+    "id": "164717",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knives (Corn -)",
+    "harm": {
+      "id": "0042992",
+      "title": "164717 - Knives (Corn -)",
+      "conceptLink": "/ec2/concept/5990755"
+    }
+  },
+  {
+    "uri": "en/10/334516",
+    "id": "334516",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knives for medical use",
+    "harm": {
+      "id": "0022109",
+      "title": "334516 - Knives for medical use",
+      "conceptLink": "/ec2/concept/5971695"
+    }
+  },
+  {
+    "uri": "en/10/163520",
+    "id": "163520",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knives for surgical purposes",
+    "harm": {
+      "id": "0058078",
+      "title": "163520 - Knives for surgical purposes",
+      "conceptLink": "/ec2/concept/5999579"
+    }
+  },
+  {
+    "uri": "en/10/119697246",
+    "id": "119697246",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Knives for surgical use",
+    "harm": {
+      "id": "0058078",
+      "title": "119697246 - Knives for surgical use",
+      "conceptLink": "/ec2/concept/5999579"
+    }
+  },
+  {
+    "uri": "en/10/712413",
+    "id": "712413",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lab units for the dilution of liquids [for medical use]",
+    "harm": {
+      "id": "0035692",
+      "title": "712413 - Lab units for the dilution of liquids [for medical use]",
+      "conceptLink": "/ec2/concept/5984106"
+    }
+  },
+  {
+    "uri": "en/10/712425",
+    "id": "712425",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lab units for the dispensing of liquids [for medical use]",
+    "harm": {
+      "id": "0035693",
+      "title": "712425 - Lab units for the dispensing of liquids [for medical use]",
+      "conceptLink": "/ec2/concept/5984107"
+    }
+  },
+  {
+    "uri": "en/10/712437",
+    "id": "712437",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lab units for the incubation of liquids [for medical use]",
+    "harm": {
+      "id": "0041470",
+      "title": "712437 - Lab units for the incubation of liquids [for medical use]",
+      "conceptLink": "/ec2/concept/5989373"
+    }
+  },
+  {
+    "uri": "en/10/712449",
+    "id": "712449",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lab units for the mixing of liquids [for medical use]",
+    "harm": {
+      "id": "0041471",
+      "title": "712449 - Lab units for the mixing of liquids [for medical use]",
+      "conceptLink": "/ec2/concept/5989374"
+    }
+  },
+  {
+    "uri": "en/10/712461",
+    "id": "712461",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lab units for the transfer of liquids [for medical use]",
+    "harm": {
+      "id": "0041472",
+      "title": "712461 - Lab units for the transfer of liquids [for medical use]",
+      "conceptLink": "/ec2/concept/5989375"
+    }
+  },
+  {
+    "uri": "en/10/712473",
+    "id": "712473",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ladies' stockings [surgical]",
+    "harm": {
+      "id": "0024161",
+      "title": "712473 - Ladies' stockings [surgical]",
+      "conceptLink": "/ec2/concept/5973578"
+    }
+  },
+  {
+    "uri": "en/10/712502",
+    "id": "712502",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Lag screws in the nature of orthopaedic surgical instruments",
+    "harm": {
+      "id": "0012544",
+      "title": "712502 - Lag screws in the nature of orthopaedic surgical instruments",
+      "conceptLink": "/ec2/concept/5962941"
+    }
+  }
+]

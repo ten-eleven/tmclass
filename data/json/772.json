@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/43/119555532",
+    "id": "119555532",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Pet boarding services",
+    "harm": {
+      "id": "0069531",
+      "title": "119555532 - Pet boarding services",
+      "conceptLink": "/ec2/concept/6005734"
+    }
+  },
+  {
+    "uri": "en/43/119555533",
+    "id": "119555533",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Pet day care services",
+    "harm": {
+      "id": "0069530",
+      "title": "119555533 - Pet day care services",
+      "conceptLink": "/ec2/concept/6005733"
+    }
+  },
+  {
+    "uri": "en/43/119555534",
+    "id": "119555534",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Pet hotel services",
+    "harm": {
+      "id": "0007352",
+      "title": "119555534 - Pet hotel services",
+      "conceptLink": "/ec2/concept/5958188"
+    }
+  },
+  {
+    "uri": "en/43/906004",
+    "id": "906004",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Pizza parlors",
+    "harm": {
+      "id": "0031017",
+      "title": "906004 - Pizza parlors",
+      "conceptLink": "/ec2/concept/5979860"
+    }
+  },
+  {
+    "uri": "en/43/120888451",
+    "id": "120888451",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preparation and provision of food and drink for immediate consumption",
+    "harm": {
+      "id": "0069515",
+      "title": "120888451 - Preparation and provision of food and drink for immediate consumption",
+      "conceptLink": "/ec2/concept/6005718"
+    }
+  },
+  {
+    "uri": "en/43/8154888",
+    "id": "8154888",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preparation of food and beverages",
+    "harm": {
+      "id": "0008078",
+      "title": "8154888 - Preparation of food and beverages",
+      "conceptLink": "/ec2/concept/5958852"
+    }
+  },
+  {
+    "uri": "en/43/475533",
+    "id": "475533",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preparation of food and drink",
+    "harm": {
+      "id": "0008078",
+      "title": "475533 - Preparation of food and drink",
+      "conceptLink": "/ec2/concept/5958852"
+    }
+  },
+  {
+    "uri": "en/43/120888789",
+    "id": "120888789",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preparation of Japanese food for immediate consumption",
+    "harm": {
+      "id": "0069458",
+      "title": "120888789 - Preparation of Japanese food for immediate consumption",
+      "conceptLink": "/ec2/concept/6005661"
+    }
+  },
+  {
+    "uri": "en/43/120888547",
+    "id": "120888547",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preparation of Spanish food for immediate consumption",
+    "harm": {
+      "id": "0069494",
+      "title": "120888547 - Preparation of Spanish food for immediate consumption",
+      "conceptLink": "/ec2/concept/6005697"
+    }
+  },
+  {
+    "uri": "en/43/16061494",
+    "id": "16061494",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Preschooler and infant care at daycare centers",
+    "harm": {
+      "id": "0056729",
+      "title": "16061494 - Preschooler and infant care at daycare centers",
+      "conceptLink": "/ec2/concept/5998014"
+    }
+  },
+  {
+    "uri": "en/43/233110342",
+    "id": "233110342",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Private members dining club services",
+    "harm": {
+      "id": "0072566",
+      "title": "233110342 - Private members dining club services",
+      "conceptLink": "/ec2/concept/6008743"
+    }
+  },
+  {
+    "uri": "en/43/233110341",
+    "id": "233110341",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Private members drinking club services",
+    "harm": {
+      "id": "0072565",
+      "title": "233110341 - Private members drinking club services",
+      "conceptLink": "/ec2/concept/6008742"
+    }
+  },
+  {
+    "uri": "en/43/875163",
+    "id": "875163",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing accommodation for functions",
+    "harm": {
+      "id": "0023851",
+      "title": "875163 - Providing accommodation for functions",
+      "conceptLink": "/ec2/concept/5973286"
+    }
+  },
+  {
+    "uri": "en/43/875177",
+    "id": "875177",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing accommodation for meetings",
+    "harm": {
+      "id": "0000655",
+      "title": "875177 - Providing accommodation for meetings",
+      "conceptLink": "/ec2/concept/5952079"
+    }
+  },
+  {
+    "uri": "en/43/120888576",
+    "id": "120888576",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing accommodation in hotels and motels",
+    "harm": {
+      "id": "0069500",
+      "title": "120888576 - Providing accommodation in hotels and motels",
+      "conceptLink": "/ec2/concept/6005703"
+    }
+  },
+  {
+    "uri": "en/43/475560",
+    "id": "475560",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing assisted living facilities [temporary accommodation]",
+    "harm": {
+      "id": "0005236",
+      "title": "475560 - Providing assisted living facilities [temporary accommodation]",
+      "conceptLink": "/ec2/concept/5956247"
+    }
+  },
+  {
+    "uri": "en/43/3763905",
+    "id": "3763905",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing banquet and social function facilities for special occasions",
+    "harm": {
+      "id": "0069529",
+      "title": "3763905 - Providing banquet and social function facilities for special occasions",
+      "conceptLink": "/ec2/concept/6005732"
+    }
+  },
+  {
+    "uri": "en/43/65629",
+    "id": "65629",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing campground facilities",
+    "harm": {
+      "id": "0043072",
+      "title": "65629 - Providing campground facilities",
+      "conceptLink": "/ec2/concept/5990829"
+    }
+  },
+  {
+    "uri": "en/43/119555550",
+    "id": "119555550",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing child care centers",
+    "harm": {
+      "id": "0037322",
+      "title": "119555550 - Providing child care centers",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/119555551",
+    "id": "119555551",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing community centers for social gatherings and meetings",
+    "harm": {
+      "id": "0069528",
+      "title": "119555551 - Providing community centers for social gatherings and meetings",
+      "conceptLink": "/ec2/concept/6005731"
+    }
+  },
+  {
+    "uri": "en/43/375624",
+    "id": "375624",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing conference rooms",
+    "harm": {
+      "id": "0009863",
+      "title": "375624 - Providing conference rooms",
+      "conceptLink": "/ec2/concept/5960483"
+    }
+  },
+  {
+    "uri": "en/43/485374",
+    "id": "485374",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing convention facilities",
+    "harm": {
+      "id": "0057140",
+      "title": "485374 - Providing convention facilities",
+      "conceptLink": "/ec2/concept/5998762"
+    }
+  },
+  {
+    "uri": "en/43/138391008",
+    "id": "138391008",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing drink services",
+    "harm": {
+      "id": "0070135",
+      "title": "138391008 - Providing drink services",
+      "conceptLink": "/ec2/concept/6006329"
+    }
+  },
+  {
+    "uri": "en/43/137544586",
+    "id": "137544586",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing emergency shelter services in the nature of temporary housing",
+    "harm": {
+      "id": "0021754",
+      "title": "137544586 - Providing emergency shelter services in the nature of temporary housing",
+      "conceptLink": "/ec2/concept/5971361"
+    }
+  },
+  {
+    "uri": "en/43/120888838",
+    "id": "120888838",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing exhibition facilities in hotels",
+    "harm": {
+      "id": "0069461",
+      "title": "120888838 - Providing exhibition facilities in hotels",
+      "conceptLink": "/ec2/concept/6005664"
+    }
+  },
+  {
+    "uri": "en/43/375641",
+    "id": "375641",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing facilities for exhibitions",
+    "harm": {
+      "id": "0017782",
+      "title": "375641 - Providing facilities for exhibitions",
+      "conceptLink": "/ec2/concept/5967733"
+    }
+  },
+  {
+    "uri": "en/43/44354662",
+    "id": "44354662",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing facilities for fairs and exhibitions",
+    "harm": {
+      "id": "0056730",
+      "title": "44354662 - Providing facilities for fairs and exhibitions",
+      "conceptLink": "/ec2/concept/5998015"
+    }
+  },
+  {
+    "uri": "en/43/5591794",
+    "id": "5591794",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and beverages",
+    "harm": {
+      "id": "0059489",
+      "title": "5591794 - Providing food and beverages",
+      "conceptLink": "/ec2/concept/6000965"
+    }
+  },
+  {
+    "uri": "en/43/65991",
+    "id": "65991",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink",
+    "harm": {
+      "id": "0059489",
+      "title": "65991 - Providing food and drink",
+      "conceptLink": "/ec2/concept/6000965"
+    }
+  },
+  {
+    "uri": "en/43/120820420",
+    "id": "120820420",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink catering services for fair and exhibition facilities",
+    "harm": {
+      "id": "0069537",
+      "title": "120820420 - Providing food and drink catering services for fair and exhibition facilities",
+      "conceptLink": "/ec2/concept/6005740"
+    }
+  },
+  {
+    "uri": "en/43/120888424",
+    "id": "120888424",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink for guests",
+    "harm": {
+      "id": "0069512",
+      "title": "120888424 - Providing food and drink for guests",
+      "conceptLink": "/ec2/concept/6005715"
+    }
+  },
+  {
+    "uri": "en/43/120888476",
+    "id": "120888476",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink in restaurants and bars",
+    "harm": {
+      "id": "0069519",
+      "title": "120888476 - Providing food and drink in restaurants and bars",
+      "conceptLink": "/ec2/concept/6005722"
+    }
+  },
+  {
+    "uri": "en/43/120888608",
+    "id": "120888608",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink for guests in restaurants",
+    "harm": {
+      "id": "0069507",
+      "title": "120888608 - Providing food and drink for guests in restaurants",
+      "conceptLink": "/ec2/concept/6005710"
+    }
+  },
+  {
+    "uri": "en/43/120820554",
+    "id": "120820554",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink catering services for convention facilities",
+    "harm": {
+      "id": "0069527",
+      "title": "120820554 - Providing food and drink catering services for convention facilities",
+      "conceptLink": "/ec2/concept/6005730"
+    }
+  },
+  {
+    "uri": "en/43/120826005",
+    "id": "120826005",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink catering services for exhibition facilities",
+    "harm": {
+      "id": "0069523",
+      "title": "120826005 - Providing food and drink catering services for exhibition facilities",
+      "conceptLink": "/ec2/concept/6005726"
+    }
+  },
+  {
+    "uri": "en/43/120888809",
+    "id": "120888809",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink in bistros",
+    "harm": {
+      "id": "0069457",
+      "title": "120888809 - Providing food and drink in bistros",
+      "conceptLink": "/ec2/concept/6005660"
+    }
+  },
+  {
+    "uri": "en/43/120888830",
+    "id": "120888830",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink in doughnut shops",
+    "harm": {
+      "id": "0069463",
+      "title": "120888830 - Providing food and drink in doughnut shops",
+      "conceptLink": "/ec2/concept/6005666"
+    }
+  },
+  {
+    "uri": "en/43/132859283",
+    "id": "132859283",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food and drink in Internet cafes",
+    "harm": {
+      "id": "0069503",
+      "title": "132859283 - Providing food and drink in Internet cafes",
+      "conceptLink": "/ec2/concept/6005706"
+    }
+  },
+  {
+    "uri": "en/43/120820496",
+    "id": "120820496",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing food to needy persons [charitable services]",
+    "harm": {
+      "id": "0069536",
+      "title": "120820496 - Providing food to needy persons [charitable services]",
+      "conceptLink": "/ec2/concept/6005739"
+    }
+  },
+  {
+    "uri": "en/43/119555562",
+    "id": "119555562",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing guesthouse services",
+    "harm": {
+      "id": "0059300",
+      "title": "119555562 - Providing guesthouse services",
+      "conceptLink": "/ec2/concept/6000782"
+    }
+  },
+  {
+    "uri": "en/43/874546",
+    "id": "874546",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing hotel accommodation",
+    "harm": {
+      "id": "0006444",
+      "title": "874546 - Providing hotel accommodation",
+      "conceptLink": "/ec2/concept/5957354"
+    }
+  },
+  {
+    "uri": "en/43/120888579",
+    "id": "120888579",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing hotel and motel services",
+    "harm": {
+      "id": "0069501",
+      "title": "120888579 - Providing hotel and motel services",
+      "conceptLink": "/ec2/concept/6005704"
+    }
+  },
+  {
+    "uri": "en/43/137613567",
+    "id": "137613567",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about restaurant services",
+    "harm": {
+      "id": "0029582",
+      "title": "137613567 - Providing information about restaurant services",
+      "conceptLink": "/ec2/concept/5978542"
+    }
+  },
+  {
+    "uri": "en/43/137906349",
+    "id": "137906349",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about bartending",
+    "harm": {
+      "id": "0071447",
+      "title": "137906349 - Providing information about bartending",
+      "conceptLink": "/ec2/concept/6007638"
+    }
+  },
+  {
+    "uri": "en/43/136112536",
+    "id": "136112536",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about bar services",
+    "harm": {
+      "id": "0071446",
+      "title": "136112536 - Providing information about bar services",
+      "conceptLink": "/ec2/concept/6007637"
+    }
+  },
+  {
+    "uri": "en/43/120888587",
+    "id": "120888587",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about temporary accommodation services",
+    "harm": {
+      "id": "0069505",
+      "title": "120888587 - Providing information about temporary accommodation services",
+      "conceptLink": "/ec2/concept/6005708"
+    }
+  },
+  {
+    "uri": "en/43/120888689",
+    "id": "120888689",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about temporary accommodation via the Internet",
+    "harm": {
+      "id": "0069477",
+      "title": "120888689 - Providing information about temporary accommodation via the Internet",
+      "conceptLink": "/ec2/concept/6005680"
+    }
+  },
+  {
+    "uri": "en/43/132859125",
+    "id": "132859125",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information about creche services",
+    "harm": {
+      "id": "0069514",
+      "title": "132859125 - Providing information about creche services",
+      "conceptLink": "/ec2/concept/6005717"
+    }
+  },
+  {
+    "uri": "en/43/136112535",
+    "id": "136112535",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing information in the nature of recipes for drinks",
+    "harm": {
+      "id": "0071448",
+      "title": "136112535 - Providing information in the nature of recipes for drinks",
+      "conceptLink": "/ec2/concept/6007639"
+    }
+  },
+  {
+    "uri": "en/43/129854089",
+    "id": "129854089",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing lodging information via the Internet",
+    "harm": {
+      "id": "0069513",
+      "title": "129854089 - Providing lodging information via the Internet",
+      "conceptLink": "/ec2/concept/6005716"
+    }
+  },
+  {
+    "uri": "en/43/119555573",
+    "id": "119555573",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing of food and drink via a mobile truck",
+    "harm": {
+      "id": "0050701",
+      "title": "119555573 - Providing of food and drink via a mobile truck",
+      "conceptLink": "/ec2/concept/5996067"
+    }
+  },
+  {
+    "uri": "en/43/65993",
+    "id": "65993",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing of food and drink",
+    "harm": {
+      "id": "0059489",
+      "title": "65993 - Providing of food and drink",
+      "conceptLink": "/ec2/concept/6000965"
+    }
+  },
+  {
+    "uri": "en/43/120888775",
+    "id": "120888775",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing on-line information relating to holiday accommodation reservations",
+    "harm": {
+      "id": "0069454",
+      "title": "120888775 - Providing on-line information relating to holiday accommodation reservations",
+      "conceptLink": "/ec2/concept/6005657"
+    }
+  },
+  {
+    "uri": "en/43/120888393",
+    "id": "120888393",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing online information relating to hotel reservations",
+    "harm": {
+      "id": "0069509",
+      "title": "120888393 - Providing online information relating to hotel reservations",
+      "conceptLink": "/ec2/concept/6005712"
+    }
+  },
+  {
+    "uri": "en/43/136244681",
+    "id": "136244681",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing personalized meal planning services via a website",
+    "harm": {
+      "id": "0050706",
+      "title": "136244681 - Providing personalized meal planning services via a website",
+      "conceptLink": "/ec2/concept/5996072"
+    }
+  },
+  {
+    "uri": "en/43/120888466",
+    "id": "120888466",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing restaurant services",
+    "harm": {
+      "id": "0035102",
+      "title": "120888466 - Providing restaurant services",
+      "conceptLink": "/ec2/concept/5983568"
+    }
+  },
+  {
+    "uri": "en/43/132696244",
+    "id": "132696244",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing reviews of restaurants and bars",
+    "harm": {
+      "id": "0056731",
+      "title": "132696244 - Providing reviews of restaurants and bars",
+      "conceptLink": "/ec2/concept/5998016"
+    }
+  },
+  {
+    "uri": "en/43/47134708",
+    "id": "47134708",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing reviews of restaurants",
+    "harm": {
+      "id": "0050847",
+      "title": "47134708 - Providing reviews of restaurants",
+      "conceptLink": "/ec2/concept/5996211"
+    }
+  },
+  {
+    "uri": "en/43/65698",
+    "id": "65698",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary accommodation",
+    "harm": {
+      "id": "0058288",
+      "title": "65698 - Providing temporary accommodation",
+      "conceptLink": "/ec2/concept/5999787"
+    }
+  },
+  {
+    "uri": "en/43/120888511",
+    "id": "120888511",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary accommodation in holiday flats",
+    "harm": {
+      "id": "0069490",
+      "title": "120888511 - Providing temporary accommodation in holiday flats",
+      "conceptLink": "/ec2/concept/6005693"
+    }
+  },
+  {
+    "uri": "en/43/120888533",
+    "id": "120888533",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary accommodation in holiday homes",
+    "harm": {
+      "id": "0069491",
+      "title": "120888533 - Providing temporary accommodation in holiday homes",
+      "conceptLink": "/ec2/concept/6005694"
+    }
+  },
+  {
+    "uri": "en/43/120888582",
+    "id": "120888582",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary accommodation as part of hospitality packages",
+    "harm": {
+      "id": "0069504",
+      "title": "120888582 - Providing temporary accommodation as part of hospitality packages",
+      "conceptLink": "/ec2/concept/6005707"
+    }
+  },
+  {
+    "uri": "en/43/120888646",
+    "id": "120888646",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary accommodation in boarding houses",
+    "harm": {
+      "id": "0069474",
+      "title": "120888646 - Providing temporary accommodation in boarding houses",
+      "conceptLink": "/ec2/concept/6005677"
+    }
+  },
+  {
+    "uri": "en/43/65697",
+    "id": "65697",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary housing accommodations",
+    "harm": {
+      "id": "0038656",
+      "title": "65697 - Providing temporary housing accommodations",
+      "conceptLink": "/ec2/concept/5986807"
+    }
+  },
+  {
+    "uri": "en/43/119555584",
+    "id": "119555584",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary lodging at holiday camps",
+    "harm": {
+      "id": "0030518",
+      "title": "119555584 - Providing temporary lodging at holiday camps",
+      "conceptLink": "/ec2/concept/5979405"
+    }
+  },
+  {
+    "uri": "en/43/120888551",
+    "id": "120888551",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary lodging for guests",
+    "harm": {
+      "id": "0069498",
+      "title": "120888551 - Providing temporary lodging for guests",
+      "conceptLink": "/ec2/concept/6005701"
+    }
+  },
+  {
+    "uri": "en/43/475578",
+    "id": "475578",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing temporary trailer park facilities",
+    "harm": {
+      "id": "0046712",
+      "title": "475578 - Providing temporary trailer park facilities",
+      "conceptLink": "/ec2/concept/5994123"
+    }
+  },
+  {
+    "uri": "en/43/33280842",
+    "id": "33280842",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Providing travel lodging information services and travel lodging booking agency services for travelers",
+    "harm": {
+      "id": "0069526",
+      "title": "33280842 - Providing travel lodging information services and travel lodging booking agency services for travelers",
+      "conceptLink": "/ec2/concept/6005729"
+    }
+  },
+  {
+    "uri": "en/43/137885712",
+    "id": "137885712",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of after-school care",
+    "harm": {
+      "id": "0071449",
+      "title": "137885712 - Provision of after-school care",
+      "conceptLink": "/ec2/concept/6007640"
+    }
+  },
+  {
+    "uri": "en/43/137885713",
+    "id": "137885713",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of before-school care",
+    "harm": {
+      "id": "0071450",
+      "title": "137885713 - Provision of before-school care",
+      "conceptLink": "/ec2/concept/6007641"
+    }
+  },
+  {
+    "uri": "en/43/875191",
+    "id": "875191",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of camp ground facilities",
+    "harm": {
+      "id": "0046712",
+      "title": "875191 - Provision of camp ground facilities",
+      "conceptLink": "/ec2/concept/5994123"
+    }
+  },
+  {
+    "uri": "en/43/475580",
+    "id": "475580",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of caravan park facilities",
+    "harm": {
+      "id": "0018045",
+      "title": "475580 - Provision of caravan park facilities",
+      "conceptLink": "/ec2/concept/5967972"
+    }
+  },
+  {
+    "uri": "en/43/10920380",
+    "id": "10920380",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of conference, exhibition and meeting facilities",
+    "harm": {
+      "id": "0056732",
+      "title": "10920380 - Provision of conference, exhibition and meeting facilities",
+      "conceptLink": "/ec2/concept/5998017"
+    }
+  },
+  {
+    "uri": "en/43/375664",
+    "id": "375664",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of conference facilities",
+    "harm": {
+      "id": "0044519",
+      "title": "375664 - Provision of conference facilities",
+      "conceptLink": "/ec2/concept/5992159"
+    }
+  },
+  {
+    "uri": "en/43/875204",
+    "id": "875204",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of day nurseries [other than schools]",
+    "harm": {
+      "id": "0037322",
+      "title": "875204 - Provision of day nurseries [other than schools]",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/375640",
+    "id": "375640",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of exhibition facilities",
+    "harm": {
+      "id": "0017782",
+      "title": "375640 - Provision of exhibition facilities",
+      "conceptLink": "/ec2/concept/5967733"
+    }
+  },
+  {
+    "uri": "en/43/906438",
+    "id": "906438",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of facilities for conventions",
+    "harm": {
+      "id": "0057140",
+      "title": "906438 - Provision of facilities for conventions",
+      "conceptLink": "/ec2/concept/5998762"
+    }
+  },
+  {
+    "uri": "en/43/906439",
+    "id": "906439",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of facilities for exhibitions",
+    "harm": {
+      "id": "0017782",
+      "title": "906439 - Provision of facilities for exhibitions",
+      "conceptLink": "/ec2/concept/5967733"
+    }
+  },
+  {
+    "uri": "en/43/485996",
+    "id": "485996",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of facilities for board meetings",
+    "harm": {
+      "id": "0022697",
+      "title": "485996 - Provision of facilities for board meetings",
+      "conceptLink": "/ec2/concept/5972229"
+    }
+  },
+  {
+    "uri": "en/43/1449032",
+    "id": "1449032",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of food and beverages",
+    "harm": {
+      "id": "0059489",
+      "title": "1449032 - Provision of food and beverages",
+      "conceptLink": "/ec2/concept/6000965"
+    }
+  },
+  {
+    "uri": "en/43/65995",
+    "id": "65995",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of food and drink in restaurants",
+    "harm": {
+      "id": "0035102",
+      "title": "65995 - Provision of food and drink in restaurants",
+      "conceptLink": "/ec2/concept/5983568"
+    }
+  },
+  {
+    "uri": "en/43/65992",
+    "id": "65992",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of food and drink",
+    "harm": {
+      "id": "0059489",
+      "title": "65992 - Provision of food and drink",
+      "conceptLink": "/ec2/concept/6000965"
+    }
+  },
+  {
+    "uri": "en/43/486086",
+    "id": "486086",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of holiday accommodation",
+    "harm": {
+      "id": "0033293",
+      "title": "486086 - Provision of holiday accommodation",
+      "conceptLink": "/ec2/concept/5981924"
+    }
+  },
+  {
+    "uri": "en/43/875216",
+    "id": "875216",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of hotel accommodation",
+    "harm": {
+      "id": "0006444",
+      "title": "875216 - Provision of hotel accommodation",
+      "conceptLink": "/ec2/concept/5957354"
+    }
+  },
+  {
+    "uri": "en/43/875283",
+    "id": "875283",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of information relating to the booking of accommodation",
+    "harm": {
+      "id": "0012246",
+      "title": "875283 - Provision of information relating to the booking of accommodation",
+      "conceptLink": "/ec2/concept/5962668"
+    }
+  },
+  {
+    "uri": "en/43/875267",
+    "id": "875267",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of information relating to restaurants",
+    "harm": {
+      "id": "0029582",
+      "title": "875267 - Provision of information relating to restaurants",
+      "conceptLink": "/ec2/concept/5978542"
+    }
+  },
+  {
+    "uri": "en/43/875296",
+    "id": "875296",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of information relating to the preparation of food and drink",
+    "harm": {
+      "id": "0000658",
+      "title": "875296 - Provision of information relating to the preparation of food and drink",
+      "conceptLink": "/ec2/concept/5952081"
+    }
+  },
+  {
+    "uri": "en/43/875254",
+    "id": "875254",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of information relating to hotels",
+    "harm": {
+      "id": "0000657",
+      "title": "875254 - Provision of information relating to hotels",
+      "conceptLink": "/ec2/concept/5952080"
+    }
+  },
+  {
+    "uri": "en/43/875240",
+    "id": "875240",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of information relating to bars",
+    "harm": {
+      "id": "0041162",
+      "title": "875240 - Provision of information relating to bars",
+      "conceptLink": "/ec2/concept/5989090"
+    }
+  },
+  {
+    "uri": "en/43/65700",
+    "id": "65700",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of temporary accommodation",
+    "harm": {
+      "id": "0058288",
+      "title": "65700 - Provision of temporary accommodation",
+      "conceptLink": "/ec2/concept/5999787"
+    }
+  },
+  {
+    "uri": "en/43/875311",
+    "id": "875311",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of temporary furnished accommodation",
+    "harm": {
+      "id": "0004561",
+      "title": "875311 - Provision of temporary furnished accommodation",
+      "conceptLink": "/ec2/concept/5955625"
+    }
+  },
+  {
+    "uri": "en/43/475073",
+    "id": "475073",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of temporary lodgings",
+    "harm": {
+      "id": "0058288",
+      "title": "475073 - Provision of temporary lodgings",
+      "conceptLink": "/ec2/concept/5999787"
+    }
+  },
+  {
+    "uri": "en/43/875323",
+    "id": "875323",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of temporary work accommodation",
+    "harm": {
+      "id": "0027617",
+      "title": "875323 - Provision of temporary work accommodation",
+      "conceptLink": "/ec2/concept/5976734"
+    }
+  },
+  {
+    "uri": "en/43/875337",
+    "id": "875337",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Provision of trade show facilities [accommodation]",
+    "harm": {
+      "id": "0004562",
+      "title": "875337 - Provision of trade show facilities [accommodation]",
+      "conceptLink": "/ec2/concept/5955626"
+    }
+  },
+  {
+    "uri": "en/43/375690",
+    "id": "375690",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Public house services",
+    "harm": {
+      "id": "0058269",
+      "title": "375690 - Public house services",
+      "conceptLink": "/ec2/concept/5999768"
+    }
+  },
+  {
+    "uri": "en/43/375689",
+    "id": "375689",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Pubs",
+    "harm": {
+      "id": "0058269",
+      "title": "375689 - Pubs",
+      "conceptLink": "/ec2/concept/5999768"
+    }
+  },
+  {
+    "uri": "en/43/232620490",
+    "id": "232620490",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Ramen restaurant services",
+    "harm": {
+      "id": "0071800",
+      "title": "232620490 - Ramen restaurant services",
+      "conceptLink": "/ec2/concept/6007987"
+    }
+  },
+  {
+    "uri": "en/43/875350",
+    "id": "875350",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Rating holiday accommodation",
+    "harm": {
+      "id": "0027618",
+      "title": "875350 - Rating holiday accommodation",
+      "conceptLink": "/ec2/concept/5976735"
+    }
+  },
+  {
+    "uri": "en/43/233651990",
+    "id": "233651990",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Reception services for temporary accommodation [management of arrivals and departures]",
+    "harm": {
+      "id": "0052196",
+      "title": "233651990 - Reception services for temporary accommodation [management of arrivals and departures]",
+      "conceptLink": "/ec2/concept/6011096"
+    }
+  },
+  {
+    "uri": "en/43/65694",
+    "id": "65694",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Rental of accommodation [temporary]",
+    "harm": {
+      "id": "0043073",
+      "title": "65694 - Rental of accommodation [temporary]",
+      "conceptLink": "/ec2/concept/5990830"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/33344004",
+    "id": "33344004",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar heat collection panels",
+    "harm": {
+      "id": "0025483",
+      "title": "33344004 - Solar heat collection panels",
+      "conceptLink": "/ec2/concept/5974794"
+    }
+  },
+  {
+    "uri": "en/11/736580",
+    "id": "736580",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar heating apparatus",
+    "harm": {
+      "id": "0037237",
+      "title": "736580 - Solar heating apparatus",
+      "conceptLink": "/ec2/concept/5985503"
+    }
+  },
+  {
+    "uri": "en/11/736620",
+    "id": "736620",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar heating installations",
+    "harm": {
+      "id": "0037237",
+      "title": "736620 - Solar heating installations",
+      "conceptLink": "/ec2/concept/5985503"
+    }
+  },
+  {
+    "uri": "en/11/736642",
+    "id": "736642",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar heating panels",
+    "harm": {
+      "id": "0025483",
+      "title": "736642 - Solar heating panels",
+      "conceptLink": "/ec2/concept/5974794"
+    }
+  },
+  {
+    "uri": "en/11/736671",
+    "id": "736671",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar lamp units",
+    "harm": {
+      "id": "0046346",
+      "title": "736671 - Solar lamp units",
+      "conceptLink": "/ec2/concept/5993803"
+    }
+  },
+  {
+    "uri": "en/11/409283",
+    "id": "409283",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar lamps",
+    "harm": {
+      "id": "0046346",
+      "title": "409283 - Solar lamps",
+      "conceptLink": "/ec2/concept/5993803"
+    }
+  },
+  {
+    "uri": "en/11/409281",
+    "id": "409281",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar lights",
+    "harm": {
+      "id": "0046346",
+      "title": "409281 - Solar lights",
+      "conceptLink": "/ec2/concept/5993803"
+    }
+  },
+  {
+    "uri": "en/11/736643",
+    "id": "736643",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar panels for use in heating",
+    "harm": {
+      "id": "0025483",
+      "title": "736643 - Solar panels for use in heating",
+      "conceptLink": "/ec2/concept/5974794"
+    }
+  },
+  {
+    "uri": "en/11/409282",
+    "id": "409282",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar powered lamps",
+    "harm": {
+      "id": "0027932",
+      "title": "409282 - Solar powered lamps",
+      "conceptLink": "/ec2/concept/5977023"
+    }
+  },
+  {
+    "uri": "en/11/409318",
+    "id": "409318",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar powered torches",
+    "harm": {
+      "id": "0016366",
+      "title": "409318 - Solar powered torches",
+      "conceptLink": "/ec2/concept/5966457"
+    }
+  },
+  {
+    "uri": "en/11/736686",
+    "id": "736686",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar powered ventilation apparatus",
+    "harm": {
+      "id": "0005784",
+      "title": "736686 - Solar powered ventilation apparatus",
+      "conceptLink": "/ec2/concept/5956754"
+    }
+  },
+  {
+    "uri": "en/11/181251",
+    "id": "181251",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar thermal collectors [heating]",
+    "harm": {
+      "id": "0025483",
+      "title": "181251 - Solar thermal collectors [heating]",
+      "conceptLink": "/ec2/concept/5974794"
+    }
+  },
+  {
+    "uri": "en/11/336511",
+    "id": "336511",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solar water heaters",
+    "harm": {
+      "id": "0042490",
+      "title": "336511 - Solar water heaters",
+      "conceptLink": "/ec2/concept/5990309"
+    }
+  },
+  {
+    "uri": "en/11/736701",
+    "id": "736701",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solaria being suntanning apparatus, not for medical purposes",
+    "harm": {
+      "id": "0046140",
+      "title": "736701 - Solaria being suntanning apparatus, not for medical purposes",
+      "conceptLink": "/ec2/concept/5993647"
+    }
+  },
+  {
+    "uri": "en/11/736715",
+    "id": "736715",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solaria, other than for medical purposes",
+    "harm": {
+      "id": "0017295",
+      "title": "736715 - Solaria, other than for medical purposes",
+      "conceptLink": "/ec2/concept/5967290"
+    }
+  },
+  {
+    "uri": "en/11/409337",
+    "id": "409337",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Solid fuel burning stoves",
+    "harm": {
+      "id": "0045198",
+      "title": "409337 - Solid fuel burning stoves",
+      "conceptLink": "/ec2/concept/5992782"
+    }
+  },
+  {
+    "uri": "en/11/181596",
+    "id": "181596",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spa baths",
+    "harm": {
+      "id": "0035265",
+      "title": "181596 - Spa baths",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/181593",
+    "id": "181593",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spa baths [vessels]",
+    "harm": {
+      "id": "0035265",
+      "title": "181593 - Spa baths [vessels]",
+      "conceptLink": "/ec2/concept/5983719"
+    }
+  },
+  {
+    "uri": "en/11/736730",
+    "id": "736730",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spa pools",
+    "harm": {
+      "id": "0011503",
+      "title": "736730 - Spa pools",
+      "conceptLink": "/ec2/concept/5961981"
+    }
+  },
+  {
+    "uri": "en/11/173357",
+    "id": "173357",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Space heaters",
+    "harm": {
+      "id": "0058692",
+      "title": "173357 - Space heaters",
+      "conceptLink": "/ec2/concept/6000185"
+    }
+  },
+  {
+    "uri": "en/11/736744",
+    "id": "736744",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Space heaters for vehicles",
+    "harm": {
+      "id": "0034616",
+      "title": "736744 - Space heaters for vehicles",
+      "conceptLink": "/ec2/concept/5983129"
+    }
+  },
+  {
+    "uri": "en/11/736756",
+    "id": "736756",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Space heating apparatus",
+    "harm": {
+      "id": "0000649",
+      "title": "736756 - Space heating apparatus",
+      "conceptLink": "/ec2/concept/5952073"
+    }
+  },
+  {
+    "uri": "en/11/120894899",
+    "id": "120894899",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Space heating apparatus for industrial use",
+    "harm": {
+      "id": "0070983",
+      "title": "120894899 - Space heating apparatus for industrial use",
+      "conceptLink": "/ec2/concept/6007175"
+    }
+  },
+  {
+    "uri": "en/11/170701",
+    "id": "170701",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spark igniters for gas appliances",
+    "harm": {
+      "id": "0001386",
+      "title": "170701 - Spark igniters for gas appliances",
+      "conceptLink": "/ec2/concept/5952734"
+    }
+  },
+  {
+    "uri": "en/11/409348",
+    "id": "409348",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spas [heated pools]",
+    "harm": {
+      "id": "0033659",
+      "title": "409348 - Spas [heated pools]",
+      "conceptLink": "/ec2/concept/5982258"
+    }
+  },
+  {
+    "uri": "en/11/179351",
+    "id": "179351",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spigots",
+    "harm": {
+      "id": "0033660",
+      "title": "179351 - Spigots",
+      "conceptLink": "/ec2/concept/5982259"
+    }
+  },
+  {
+    "uri": "en/11/179353",
+    "id": "179353",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spigots [faucets]",
+    "harm": {
+      "id": "0012226",
+      "title": "179353 - Spigots [faucets]",
+      "conceptLink": "/ec2/concept/5962650"
+    }
+  },
+  {
+    "uri": "en/11/736768",
+    "id": "736768",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spits [cooking apparatus]",
+    "harm": {
+      "id": "0035367",
+      "title": "736768 - Spits [cooking apparatus]",
+      "conceptLink": "/ec2/concept/5983812"
+    }
+  },
+  {
+    "uri": "en/11/736783",
+    "id": "736783",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spits [parts of cooking apparatus]",
+    "harm": {
+      "id": "0006437",
+      "title": "736783 - Spits [parts of cooking apparatus]",
+      "conceptLink": "/ec2/concept/5957349"
+    }
+  },
+  {
+    "uri": "en/11/736798",
+    "id": "736798",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lamps",
+    "harm": {
+      "id": "0059350",
+      "title": "736798 - Spot lamps",
+      "conceptLink": "/ec2/concept/6000832"
+    }
+  },
+  {
+    "uri": "en/11/736815",
+    "id": "736815",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lamps for household illumination",
+    "harm": {
+      "id": "0018042",
+      "title": "736815 - Spot lamps for household illumination",
+      "conceptLink": "/ec2/concept/5967970"
+    }
+  },
+  {
+    "uri": "en/11/736834",
+    "id": "736834",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lamps for use on vehicles",
+    "harm": {
+      "id": "0035368",
+      "title": "736834 - Spot lamps for use on vehicles",
+      "conceptLink": "/ec2/concept/5983813"
+    }
+  },
+  {
+    "uri": "en/11/736846",
+    "id": "736846",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lights",
+    "harm": {
+      "id": "0059350",
+      "title": "736846 - Spot lights",
+      "conceptLink": "/ec2/concept/6000832"
+    }
+  },
+  {
+    "uri": "en/11/736816",
+    "id": "736816",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lights for household illumination",
+    "harm": {
+      "id": "0018042",
+      "title": "736816 - Spot lights for household illumination",
+      "conceptLink": "/ec2/concept/5967970"
+    }
+  },
+  {
+    "uri": "en/11/171543",
+    "id": "171543",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spot lights for use on vehicles",
+    "harm": {
+      "id": "0035368",
+      "title": "171543 - Spot lights for use on vehicles",
+      "conceptLink": "/ec2/concept/5983813"
+    }
+  },
+  {
+    "uri": "en/11/407845",
+    "id": "407845",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spotlights",
+    "harm": {
+      "id": "0059350",
+      "title": "407845 - Spotlights",
+      "conceptLink": "/ec2/concept/6000832"
+    }
+  },
+  {
+    "uri": "en/11/408803",
+    "id": "408803",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spouts [plumbing fittings]",
+    "harm": {
+      "id": "0012560",
+      "title": "408803 - Spouts [plumbing fittings]",
+      "conceptLink": "/ec2/concept/5962956"
+    }
+  },
+  {
+    "uri": "en/11/736862",
+    "id": "736862",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray fittings [parts of sanitary installations]",
+    "harm": {
+      "id": "0012242",
+      "title": "736862 - Spray fittings [parts of sanitary installations]",
+      "conceptLink": "/ec2/concept/5962664"
+    }
+  },
+  {
+    "uri": "en/11/736877",
+    "id": "736877",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray fittings [parts of shower installations]",
+    "harm": {
+      "id": "0041156",
+      "title": "736877 - Spray fittings [parts of shower installations]",
+      "conceptLink": "/ec2/concept/5989086"
+    }
+  },
+  {
+    "uri": "en/11/736891",
+    "id": "736891",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray handsets for showers",
+    "harm": {
+      "id": "0035369",
+      "title": "736891 - Spray handsets for showers",
+      "conceptLink": "/ec2/concept/5983814"
+    }
+  },
+  {
+    "uri": "en/11/409228",
+    "id": "409228",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray heads for showers",
+    "harm": {
+      "id": "0057882",
+      "title": "409228 - Spray heads for showers",
+      "conceptLink": "/ec2/concept/5999386"
+    }
+  },
+  {
+    "uri": "en/11/736903",
+    "id": "736903",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray installations for the automatic watering of fields",
+    "harm": {
+      "id": "0023843",
+      "title": "736903 - Spray installations for the automatic watering of fields",
+      "conceptLink": "/ec2/concept/5973278"
+    }
+  },
+  {
+    "uri": "en/11/736916",
+    "id": "736916",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Spray units being parts of water supply installations",
+    "harm": {
+      "id": "0035370",
+      "title": "736916 - Spray units being parts of water supply installations",
+      "conceptLink": "/ec2/concept/5983815"
+    }
+  },
+  {
+    "uri": "en/11/736928",
+    "id": "736928",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprayers [automatic installations] for watering",
+    "harm": {
+      "id": "0023844",
+      "title": "736928 - Sprayers [automatic installations] for watering",
+      "conceptLink": "/ec2/concept/5973279"
+    }
+  },
+  {
+    "uri": "en/11/736940",
+    "id": "736940",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler apparatus [automatic] for agricultural irrigation",
+    "harm": {
+      "id": "0002567",
+      "title": "736940 - Sprinkler apparatus [automatic] for agricultural irrigation",
+      "conceptLink": "/ec2/concept/5953799"
+    }
+  },
+  {
+    "uri": "en/11/736955",
+    "id": "736955",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler apparatus [automatic] for horticultural irrigation",
+    "harm": {
+      "id": "0002568",
+      "title": "736955 - Sprinkler apparatus [automatic] for horticultural irrigation",
+      "conceptLink": "/ec2/concept/5953800"
+    }
+  },
+  {
+    "uri": "en/11/736970",
+    "id": "736970",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler apparatus [automatic] for use on golf courses",
+    "harm": {
+      "id": "0008255",
+      "title": "736970 - Sprinkler apparatus [automatic] for use on golf courses",
+      "conceptLink": "/ec2/concept/5959008"
+    }
+  },
+  {
+    "uri": "en/11/737000",
+    "id": "737000",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler installations [automatic] for horticultural purposes",
+    "harm": {
+      "id": "0002568",
+      "title": "737000 - Sprinkler installations [automatic] for horticultural purposes",
+      "conceptLink": "/ec2/concept/5953800"
+    }
+  },
+  {
+    "uri": "en/11/736985",
+    "id": "736985",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler installations [automatic] for agricultural purposes",
+    "harm": {
+      "id": "0002567",
+      "title": "736985 - Sprinkler installations [automatic] for agricultural purposes",
+      "conceptLink": "/ec2/concept/5953799"
+    }
+  },
+  {
+    "uri": "en/11/737015",
+    "id": "737015",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler installations [automatic] for use on golf courses",
+    "harm": {
+      "id": "0008255",
+      "title": "737015 - Sprinkler installations [automatic] for use on golf courses",
+      "conceptLink": "/ec2/concept/5959008"
+    }
+  },
+  {
+    "uri": "en/11/737031",
+    "id": "737031",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler machines for agricultural irrigation",
+    "harm": {
+      "id": "0019986",
+      "title": "737031 - Sprinkler machines for agricultural irrigation",
+      "conceptLink": "/ec2/concept/5969747"
+    }
+  },
+  {
+    "uri": "en/11/737044",
+    "id": "737044",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler machines for horticultural irrigation",
+    "harm": {
+      "id": "0037261",
+      "title": "737044 - Sprinkler machines for horticultural irrigation",
+      "conceptLink": "/ec2/concept/5985526"
+    }
+  },
+  {
+    "uri": "en/11/737056",
+    "id": "737056",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler machines for use on golf courses",
+    "harm": {
+      "id": "0043014",
+      "title": "737056 - Sprinkler machines for use on golf courses",
+      "conceptLink": "/ec2/concept/5990773"
+    }
+  },
+  {
+    "uri": "en/11/120894046",
+    "id": "120894046",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler systems for irrigation",
+    "harm": {
+      "id": "0066196",
+      "title": "120894046 - Sprinkler systems for irrigation",
+      "conceptLink": "/ec2/concept/6002399"
+    }
+  },
+  {
+    "uri": "en/11/120894036",
+    "id": "120894036",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkler systems for lawn irrigation",
+    "harm": {
+      "id": "0066195",
+      "title": "120894036 - Sprinkler systems for lawn irrigation",
+      "conceptLink": "/ec2/concept/6002398"
+    }
+  },
+  {
+    "uri": "en/11/737083",
+    "id": "737083",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinklers [automatic] for surface installation",
+    "harm": {
+      "id": "0014148",
+      "title": "737083 - Sprinklers [automatic] for surface installation",
+      "conceptLink": "/ec2/concept/5964407"
+    }
+  },
+  {
+    "uri": "en/11/737098",
+    "id": "737098",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinklers [automatic] for underground installation",
+    "harm": {
+      "id": "0014149",
+      "title": "737098 - Sprinklers [automatic] for underground installation",
+      "conceptLink": "/ec2/concept/5964408"
+    }
+  },
+  {
+    "uri": "en/11/737068",
+    "id": "737068",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinklers [automatic installations] for watering flowers and plants",
+    "harm": {
+      "id": "0002569",
+      "title": "737068 - Sprinklers [automatic installations] for watering flowers and plants",
+      "conceptLink": "/ec2/concept/5953801"
+    }
+  },
+  {
+    "uri": "en/11/737113",
+    "id": "737113",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Sprinkling devices [automatic], other than machines",
+    "harm": {
+      "id": "0019987",
+      "title": "737113 - Sprinkling devices [automatic], other than machines",
+      "conceptLink": "/ec2/concept/5969748"
+    }
+  },
+  {
+    "uri": "en/11/173038",
+    "id": "173038",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stacks (Flare -) for use in oil refineries",
+    "harm": {
+      "id": "0034334",
+      "title": "173038 - Stacks (Flare -) for use in oil refineries",
+      "conceptLink": "/ec2/concept/5982877"
+    }
+  },
+  {
+    "uri": "en/11/24135727",
+    "id": "24135727",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stage lighting apparatus",
+    "harm": {
+      "id": "0050865",
+      "title": "24135727 - Stage lighting apparatus",
+      "conceptLink": "/ec2/concept/5996229"
+    }
+  },
+  {
+    "uri": "en/11/737130",
+    "id": "737130",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stainless steel sanitary ware",
+    "harm": {
+      "id": "0043015",
+      "title": "737130 - Stainless steel sanitary ware",
+      "conceptLink": "/ec2/concept/5990774"
+    }
+  },
+  {
+    "uri": "en/11/409367",
+    "id": "409367",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stainless steel sink tops",
+    "harm": {
+      "id": "0002570",
+      "title": "409367 - Stainless steel sink tops",
+      "conceptLink": "/ec2/concept/5953802"
+    }
+  },
+  {
+    "uri": "en/11/409368",
+    "id": "409368",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stainless steel sinks",
+    "harm": {
+      "id": "0002570",
+      "title": "409368 - Stainless steel sinks",
+      "conceptLink": "/ec2/concept/5953802"
+    }
+  },
+  {
+    "uri": "en/11/172048",
+    "id": "172048",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Standard lamps",
+    "harm": {
+      "id": "0004583",
+      "title": "172048 - Standard lamps",
+      "conceptLink": "/ec2/concept/5955645"
+    }
+  },
+  {
+    "uri": "en/11/732118",
+    "id": "732118",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Standing lamps",
+    "harm": {
+      "id": "0017422",
+      "title": "732118 - Standing lamps",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/336532",
+    "id": "336532",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Standing paper lanterns [andon]",
+    "harm": {
+      "id": "0013613",
+      "title": "336532 - Standing paper lanterns [andon]",
+      "conceptLink": "/ec2/concept/5963906"
+    }
+  },
+  {
+    "uri": "en/11/737143",
+    "id": "737143",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stands adapted for cookers",
+    "harm": {
+      "id": "0025662",
+      "title": "737143 - Stands adapted for cookers",
+      "conceptLink": "/ec2/concept/5974952"
+    }
+  },
+  {
+    "uri": "en/11/409397",
+    "id": "409397",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Stationary hair dryers",
+    "harm": {
+      "id": "0035195",
+      "title": "409397 - Stationary hair dryers",
+      "conceptLink": "/ec2/concept/5983651"
+    }
+  },
+  {
+    "uri": "en/11/180227",
+    "id": "180227",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam accumulators",
+    "harm": {
+      "id": "0040600",
+      "title": "180227 - Steam accumulators",
+      "conceptLink": "/ec2/concept/5988580"
+    }
+  },
+  {
+    "uri": "en/11/737155",
+    "id": "737155",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam baths",
+    "harm": {
+      "id": "0002571",
+      "title": "737155 - Steam baths",
+      "conceptLink": "/ec2/concept/5953803"
+    }
+  },
+  {
+    "uri": "en/11/131132979",
+    "id": "131132979",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam baths, saunas and spas",
+    "harm": {
+      "id": "0047817",
+      "title": "131132979 - Steam baths, saunas and spas",
+      "conceptLink": "/ec2/concept/5995091"
+    }
+  },
+  {
+    "uri": "en/11/737170",
+    "id": "737170",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam boilers for steam generating [other than parts of machines]",
+    "harm": {
+      "id": "0032899",
+      "title": "737170 - Steam boilers for steam generating [other than parts of machines]",
+      "conceptLink": "/ec2/concept/5981560"
+    }
+  },
+  {
+    "uri": "en/11/177675",
+    "id": "177675",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam boilers, other than parts of machines",
+    "harm": {
+      "id": "0032899",
+      "title": "177675 - Steam boilers, other than parts of machines",
+      "conceptLink": "/ec2/concept/5981560"
+    }
+  },
+  {
+    "uri": "en/11/737186",
+    "id": "737186",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam cabinets for the treatment of clothing",
+    "harm": {
+      "id": "0037262",
+      "title": "737186 - Steam cabinets for the treatment of clothing",
+      "conceptLink": "/ec2/concept/5985527"
+    }
+  },
+  {
+    "uri": "en/11/737198",
+    "id": "737198",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam cookers",
+    "harm": {
+      "id": "0029954",
+      "title": "737198 - Steam cookers",
+      "conceptLink": "/ec2/concept/5978880"
+    }
+  },
+  {
+    "uri": "en/11/737213",
+    "id": "737213",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam driers",
+    "harm": {
+      "id": "0029955",
+      "title": "737213 - Steam driers",
+      "conceptLink": "/ec2/concept/5978881"
+    }
+  },
+  {
+    "uri": "en/11/182023",
+    "id": "182023",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam facial apparatus [saunas]",
+    "harm": {
+      "id": "0020534",
+      "title": "182023 - Steam facial apparatus [saunas]",
+      "conceptLink": "/ec2/concept/5970246"
+    }
+  },
+  {
+    "uri": "en/11/179809",
+    "id": "179809",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam generating apparatus",
+    "harm": {
+      "id": "0058345",
+      "title": "179809 - Steam generating apparatus",
+      "conceptLink": "/ec2/concept/5999844"
+    }
+  },
+  {
+    "uri": "en/11/179808",
+    "id": "179808",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam generating installations",
+    "harm": {
+      "id": "0058344",
+      "title": "179808 - Steam generating installations",
+      "conceptLink": "/ec2/concept/5999843"
+    }
+  },
+  {
+    "uri": "en/11/907422",
+    "id": "907422",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam generators",
+    "harm": {
+      "id": "0058346",
+      "title": "907422 - Steam generators",
+      "conceptLink": "/ec2/concept/5999845"
+    }
+  },
+  {
+    "uri": "en/11/737225",
+    "id": "737225",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam generators for domestic use",
+    "harm": {
+      "id": "0041529",
+      "title": "737225 - Steam generators for domestic use",
+      "conceptLink": "/ec2/concept/5989430"
+    }
+  },
+  {
+    "uri": "en/11/737239",
+    "id": "737239",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam generators for use with steam baths",
+    "harm": {
+      "id": "0029956",
+      "title": "737239 - Steam generators for use with steam baths",
+      "conceptLink": "/ec2/concept/5978882"
+    }
+  },
+  {
+    "uri": "en/11/7874382",
+    "id": "7874382",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam heating apparatus",
+    "harm": {
+      "id": "0066267",
+      "title": "7874382 - Steam heating apparatus",
+      "conceptLink": "/ec2/concept/6002470"
+    }
+  },
+  {
+    "uri": "en/11/336550",
+    "id": "336550",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam heating apparatus [for industrial purposes]",
+    "harm": {
+      "id": "0025189",
+      "title": "336550 - Steam heating apparatus [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5974521"
+    }
+  },
+  {
+    "uri": "en/11/179810",
+    "id": "179810",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam producing apparatus",
+    "harm": {
+      "id": "0058345",
+      "title": "179810 - Steam producing apparatus",
+      "conceptLink": "/ec2/concept/5999844"
+    }
+  },
+  {
+    "uri": "en/11/179812",
+    "id": "179812",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam producing installations",
+    "harm": {
+      "id": "0058346",
+      "title": "179812 - Steam producing installations",
+      "conceptLink": "/ec2/concept/5999845"
+    }
+  },
+  {
+    "uri": "en/11/737253",
+    "id": "737253",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam producing machines",
+    "harm": {
+      "id": "0058346",
+      "title": "737253 - Steam producing machines",
+      "conceptLink": "/ec2/concept/5999845"
+    }
+  },
+  {
+    "uri": "en/11/409410",
+    "id": "409410",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam radiators for heating buildings",
+    "harm": {
+      "id": "0041004",
+      "title": "409410 - Steam radiators for heating buildings",
+      "conceptLink": "/ec2/concept/5988946"
+    }
+  },
+  {
+    "uri": "en/11/737267",
+    "id": "737267",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilisers",
+    "harm": {
+      "id": "0035757",
+      "title": "737267 - Steam sterilisers",
+      "conceptLink": "/ec2/concept/5984165"
+    }
+  },
+  {
+    "uri": "en/11/737268",
+    "id": "737268",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers",
+    "harm": {
+      "id": "0035757",
+      "title": "737268 - Steam sterilizers",
+      "conceptLink": "/ec2/concept/5984165"
+    }
+  },
+  {
+    "uri": "en/11/231735516",
+    "id": "231735516",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers for floors",
+    "harm": {
+      "id": "0070379",
+      "title": "231735516 - Steam sterilizers for floors",
+      "conceptLink": "/ec2/concept/6006572"
+    }
+  },
+  {
+    "uri": "en/11/120893570",
+    "id": "120893570",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers for household use",
+    "harm": {
+      "id": "0066192",
+      "title": "120893570 - Steam sterilizers for household use",
+      "conceptLink": "/ec2/concept/6002395"
+    }
+  },
+  {
+    "uri": "en/11/120893562",
+    "id": "120893562",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers for industrial use",
+    "harm": {
+      "id": "0066191",
+      "title": "120893562 - Steam sterilizers for industrial use",
+      "conceptLink": "/ec2/concept/6002394"
+    }
+  },
+  {
+    "uri": "en/11/120862148",
+    "id": "120862148",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers for laboratory use",
+    "harm": {
+      "id": "0066273",
+      "title": "120862148 - Steam sterilizers for laboratory use",
+      "conceptLink": "/ec2/concept/6002476"
+    }
+  },
+  {
+    "uri": "en/11/120862145",
+    "id": "120862145",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam sterilizers for medical use",
+    "harm": {
+      "id": "0066272",
+      "title": "120862145 - Steam sterilizers for medical use",
+      "conceptLink": "/ec2/concept/6002475"
+    }
+  },
+  {
+    "uri": "en/11/336565",
+    "id": "336565",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam superheaters [for industrial purposes]",
+    "harm": {
+      "id": "0019478",
+      "title": "336565 - Steam superheaters [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5969289"
+    }
+  },
+  {
+    "uri": "en/11/409429",
+    "id": "409429",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steam valves",
+    "harm": {
+      "id": "0029413",
+      "title": "409429 - Steam valves",
+      "conceptLink": "/ec2/concept/5978382"
+    }
+  },
+  {
+    "uri": "en/11/124963923",
+    "id": "124963923",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steamers (Electric -) for cooking",
+    "harm": {
+      "id": "0029957",
+      "title": "124963923 - Steamers (Electric -) for cooking",
+      "conceptLink": "/ec2/concept/5978883"
+    }
+  },
+  {
+    "uri": "en/11/910090",
+    "id": "910090",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Steamers (Fabric -)",
+    "harm": {
+      "id": "0044512",
+      "title": "910090 - Steamers (Fabric -)",
+      "conceptLink": "/ec2/concept/5992153"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/369155",
+    "id": "369155",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of power-driven floor cleaning machines",
+    "harm": {
+      "id": "0037179",
+      "title": "369155 - Repair or maintenance of power-driven floor cleaning machines",
+      "conceptLink": "/ec2/concept/5985454"
+    }
+  },
+  {
+    "uri": "en/37/368971",
+    "id": "368971",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of mining machines and apparatus",
+    "harm": {
+      "id": "0036073",
+      "title": "368971 - Repair or maintenance of mining machines and apparatus",
+      "conceptLink": "/ec2/concept/5984448"
+    }
+  },
+  {
+    "uri": "en/37/368869",
+    "id": "368869",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of industrial washing machines",
+    "harm": {
+      "id": "0036072",
+      "title": "368869 - Repair or maintenance of industrial washing machines",
+      "conceptLink": "/ec2/concept/5984447"
+    }
+  },
+  {
+    "uri": "en/37/368493",
+    "id": "368493",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of computers",
+    "harm": {
+      "id": "0058997",
+      "title": "368493 - Repair or maintenance of computers",
+      "conceptLink": "/ec2/concept/6000488"
+    }
+  },
+  {
+    "uri": "en/37/906884",
+    "id": "906884",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for processing foods",
+    "harm": {
+      "id": "0038269",
+      "title": "906884 - Repair or maintenance of machines and apparatus for processing foods",
+      "conceptLink": "/ec2/concept/5986448"
+    }
+  },
+  {
+    "uri": "en/37/906886",
+    "id": "906886",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for pulp-making",
+    "harm": {
+      "id": "0038270",
+      "title": "906886 - Repair or maintenance of machines and apparatus for pulp-making",
+      "conceptLink": "/ec2/concept/5986449"
+    }
+  },
+  {
+    "uri": "en/37/369413",
+    "id": "369413",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of waste compacting machines and apparatus",
+    "harm": {
+      "id": "0038194",
+      "title": "369413 - Repair or maintenance of waste compacting machines and apparatus",
+      "conceptLink": "/ec2/concept/5986374"
+    }
+  },
+  {
+    "uri": "en/37/369326",
+    "id": "369326",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of tobacco processing machines",
+    "harm": {
+      "id": "0038193",
+      "title": "369326 - Repair or maintenance of tobacco processing machines",
+      "conceptLink": "/ec2/concept/5986373"
+    }
+  },
+  {
+    "uri": "en/37/368472",
+    "id": "368472",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cinematographic machines and apparatus",
+    "harm": {
+      "id": "0033359",
+      "title": "368472 - Repair or maintenance of cinematographic machines and apparatus",
+      "conceptLink": "/ec2/concept/5981987"
+    }
+  },
+  {
+    "uri": "en/37/369339",
+    "id": "369339",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of two-wheeled motor vehicles",
+    "harm": {
+      "id": "0003513",
+      "title": "369339 - Repair or maintenance of two-wheeled motor vehicles",
+      "conceptLink": "/ec2/concept/5954664"
+    }
+  },
+  {
+    "uri": "en/37/369027",
+    "id": "369027",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of optical machines and instruments",
+    "harm": {
+      "id": "0019889",
+      "title": "369027 - Repair or maintenance of optical machines and instruments",
+      "conceptLink": "/ec2/concept/5969660"
+    }
+  },
+  {
+    "uri": "en/37/369195",
+    "id": "369195",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of rubber-goods manufacturing machines and apparatus",
+    "harm": {
+      "id": "0019891",
+      "title": "369195 - Repair or maintenance of rubber-goods manufacturing machines and apparatus",
+      "conceptLink": "/ec2/concept/5969662"
+    }
+  },
+  {
+    "uri": "en/37/369181",
+    "id": "369181",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of railway rolling stock",
+    "harm": {
+      "id": "0019890",
+      "title": "369181 - Repair or maintenance of railway rolling stock",
+      "conceptLink": "/ec2/concept/5969661"
+    }
+  },
+  {
+    "uri": "en/37/368898",
+    "id": "368898",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of laboratory apparatus and instruments",
+    "harm": {
+      "id": "0018765",
+      "title": "368898 - Repair or maintenance of laboratory apparatus and instruments",
+      "conceptLink": "/ec2/concept/5968644"
+    }
+  },
+  {
+    "uri": "en/37/368930",
+    "id": "368930",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of medical machines and apparatus",
+    "harm": {
+      "id": "0018766",
+      "title": "368930 - Repair or maintenance of medical machines and apparatus",
+      "conceptLink": "/ec2/concept/5968645"
+    }
+  },
+  {
+    "uri": "en/37/368744",
+    "id": "368744",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fodder mixers",
+    "harm": {
+      "id": "0018763",
+      "title": "368744 - Repair or maintenance of fodder mixers",
+      "conceptLink": "/ec2/concept/5968642"
+    }
+  },
+  {
+    "uri": "en/37/368797",
+    "id": "368797",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of gasoline station equipment",
+    "harm": {
+      "id": "0018764",
+      "title": "368797 - Repair or maintenance of gasoline station equipment",
+      "conceptLink": "/ec2/concept/5968643"
+    }
+  },
+  {
+    "uri": "en/37/368916",
+    "id": "368916",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of loading-unloading machines and apparatus",
+    "harm": {
+      "id": "0007129",
+      "title": "368916 - Repair or maintenance of loading-unloading machines and apparatus",
+      "conceptLink": "/ec2/concept/5957980"
+    }
+  },
+  {
+    "uri": "en/37/368956",
+    "id": "368956",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of milking machines",
+    "harm": {
+      "id": "0007130",
+      "title": "368956 - Repair or maintenance of milking machines",
+      "conceptLink": "/ec2/concept/5957981"
+    }
+  },
+  {
+    "uri": "en/37/368730",
+    "id": "368730",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fodder mills",
+    "harm": {
+      "id": "0007127",
+      "title": "368730 - Repair or maintenance of fodder mills",
+      "conceptLink": "/ec2/concept/5957978"
+    }
+  },
+  {
+    "uri": "en/37/368826",
+    "id": "368826",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of harvesting machines and implements",
+    "harm": {
+      "id": "0007128",
+      "title": "368826 - Repair or maintenance of harvesting machines and implements",
+      "conceptLink": "/ec2/concept/5957979"
+    }
+  },
+  {
+    "uri": "en/37/368601",
+    "id": "368601",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of diving machines and apparatus",
+    "harm": {
+      "id": "0010248",
+      "title": "368601 - Repair or maintenance of diving machines and apparatus",
+      "conceptLink": "/ec2/concept/5960831"
+    }
+  },
+  {
+    "uri": "en/37/368629",
+    "id": "368629",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of electric motors",
+    "harm": {
+      "id": "0010249",
+      "title": "368629 - Repair or maintenance of electric motors",
+      "conceptLink": "/ec2/concept/5960832"
+    }
+  },
+  {
+    "uri": "en/37/37461",
+    "id": "37461",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of boilers",
+    "harm": {
+      "id": "0058725",
+      "title": "37461 - Repair or maintenance of boilers",
+      "conceptLink": "/ec2/concept/6000218"
+    }
+  },
+  {
+    "uri": "en/37/368771",
+    "id": "368771",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of freezing machines and apparatus",
+    "harm": {
+      "id": "0030262",
+      "title": "368771 - Repair or maintenance of freezing machines and apparatus",
+      "conceptLink": "/ec2/concept/5979166"
+    }
+  },
+  {
+    "uri": "en/37/368615",
+    "id": "368615",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of electric lighting apparatus",
+    "harm": {
+      "id": "0033363",
+      "title": "368615 - Repair or maintenance of electric lighting apparatus",
+      "conceptLink": "/ec2/concept/5981991"
+    }
+  },
+  {
+    "uri": "en/37/368574",
+    "id": "368574",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cooking pots and pans",
+    "harm": {
+      "id": "0033361",
+      "title": "368574 - Repair or maintenance of cooking pots and pans",
+      "conceptLink": "/ec2/concept/5981989"
+    }
+  },
+  {
+    "uri": "en/37/368561",
+    "id": "368561",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cooking apparatus for industrial purposes",
+    "harm": {
+      "id": "0033360",
+      "title": "368561 - Repair or maintenance of cooking apparatus for industrial purposes",
+      "conceptLink": "/ec2/concept/5981988"
+    }
+  },
+  {
+    "uri": "en/37/368588",
+    "id": "368588",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cultivating machines and implements",
+    "harm": {
+      "id": "0033362",
+      "title": "368588 - Repair or maintenance of cultivating machines and implements",
+      "conceptLink": "/ec2/concept/5981990"
+    }
+  },
+  {
+    "uri": "en/37/369399",
+    "id": "369399",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of video frequency machines and apparatus",
+    "harm": {
+      "id": "0026597",
+      "title": "369399 - Repair or maintenance of video frequency machines and apparatus",
+      "conceptLink": "/ec2/concept/5975807"
+    }
+  },
+  {
+    "uri": "en/37/368402",
+    "id": "368402",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of amusement machines and apparatus",
+    "harm": {
+      "id": "0032548",
+      "title": "368402 - Repair or maintenance of amusement machines and apparatus",
+      "conceptLink": "/ec2/concept/5981241"
+    }
+  },
+  {
+    "uri": "en/37/369386",
+    "id": "369386",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of vessels",
+    "harm": {
+      "id": "0032361",
+      "title": "369386 - Repair or maintenance of vessels",
+      "conceptLink": "/ec2/concept/5981068"
+    }
+  },
+  {
+    "uri": "en/37/369352",
+    "id": "369352",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of vehicle washing installation",
+    "harm": {
+      "id": "0032360",
+      "title": "369352 - Repair or maintenance of vehicle washing installation",
+      "conceptLink": "/ec2/concept/5981067"
+    }
+  },
+  {
+    "uri": "en/37/369070",
+    "id": "369070",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of painting machines and apparatus",
+    "harm": {
+      "id": "0031327",
+      "title": "369070 - Repair or maintenance of painting machines and apparatus",
+      "conceptLink": "/ec2/concept/5980143"
+    }
+  },
+  {
+    "uri": "en/37/369111",
+    "id": "369111",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of plastic processing machines and apparatus",
+    "harm": {
+      "id": "0031328",
+      "title": "369111 - Repair or maintenance of plastic processing machines and apparatus",
+      "conceptLink": "/ec2/concept/5980144"
+    }
+  },
+  {
+    "uri": "en/37/368689",
+    "id": "368689",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of firearms",
+    "harm": {
+      "id": "0033365",
+      "title": "368689 - Repair or maintenance of firearms",
+      "conceptLink": "/ec2/concept/5981993"
+    }
+  },
+  {
+    "uri": "en/37/368673",
+    "id": "368673",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fire alarms",
+    "harm": {
+      "id": "0033364",
+      "title": "368673 - Repair or maintenance of fire alarms",
+      "conceptLink": "/ec2/concept/5981992"
+    }
+  },
+  {
+    "uri": "en/37/368984",
+    "id": "368984",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of musical instruments",
+    "harm": {
+      "id": "0042936",
+      "title": "368984 - Repair or maintenance of musical instruments",
+      "conceptLink": "/ec2/concept/5990703"
+    }
+  },
+  {
+    "uri": "en/37/369040",
+    "id": "369040",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of overhead projectors",
+    "harm": {
+      "id": "0042937",
+      "title": "369040 - Repair or maintenance of overhead projectors",
+      "conceptLink": "/ec2/concept/5990704"
+    }
+  },
+  {
+    "uri": "en/37/369054",
+    "id": "369054",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of packing or wrapping machines and apparatus",
+    "harm": {
+      "id": "0042938",
+      "title": "369054 - Repair or maintenance of packing or wrapping machines and apparatus",
+      "conceptLink": "/ec2/concept/5990705"
+    }
+  },
+  {
+    "uri": "en/37/369083",
+    "id": "369083",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of photographic machines and apparatus",
+    "harm": {
+      "id": "0042939",
+      "title": "369083 - Repair or maintenance of photographic machines and apparatus",
+      "conceptLink": "/ec2/concept/5990706"
+    }
+  },
+  {
+    "uri": "en/37/369142",
+    "id": "369142",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of power generators",
+    "harm": {
+      "id": "0025587",
+      "title": "369142 - Repair or maintenance of power generators",
+      "conceptLink": "/ec2/concept/5974884"
+    }
+  },
+  {
+    "uri": "en/37/369208",
+    "id": "369208",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of semiconductor manufacturing machines and systems",
+    "harm": {
+      "id": "0025588",
+      "title": "369208 - Repair or maintenance of semiconductor manufacturing machines and systems",
+      "conceptLink": "/ec2/concept/5974885"
+    }
+  },
+  {
+    "uri": "en/37/36401",
+    "id": "36401",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of automobiles",
+    "harm": {
+      "id": "0059358",
+      "title": "36401 - Repair or maintenance of automobiles",
+      "conceptLink": "/ec2/concept/6000840"
+    }
+  },
+  {
+    "uri": "en/37/369128",
+    "id": "369128",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of power distribution or control machines and apparatus",
+    "harm": {
+      "id": "0042940",
+      "title": "369128 - Repair or maintenance of power distribution or control machines and apparatus",
+      "conceptLink": "/ec2/concept/5990707"
+    }
+  },
+  {
+    "uri": "en/37/369271",
+    "id": "369271",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of storage tanks",
+    "harm": {
+      "id": "0038192",
+      "title": "369271 - Repair or maintenance of storage tanks",
+      "conceptLink": "/ec2/concept/5986372"
+    }
+  },
+  {
+    "uri": "en/37/368703",
+    "id": "368703",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fishing machines and instruments",
+    "harm": {
+      "id": "0039176",
+      "title": "368703 - Repair or maintenance of fishing machines and instruments",
+      "conceptLink": "/ec2/concept/5987272"
+    }
+  },
+  {
+    "uri": "en/37/908269",
+    "id": "908269",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for lumbering",
+    "harm": {
+      "id": "0039130",
+      "title": "908269 - Repair or maintenance of machines and apparatus for lumbering",
+      "conceptLink": "/ec2/concept/5987228"
+    }
+  },
+  {
+    "uri": "en/37/368716",
+    "id": "368716",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fodder cutters",
+    "harm": {
+      "id": "0039177",
+      "title": "368716 - Repair or maintenance of fodder cutters",
+      "conceptLink": "/ec2/concept/5987273"
+    }
+  },
+  {
+    "uri": "en/37/368448",
+    "id": "368448",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of egg incubators",
+    "harm": {
+      "id": "0039175",
+      "title": "368448 - Repair or maintenance of egg incubators",
+      "conceptLink": "/ec2/concept/5987271"
+    }
+  },
+  {
+    "uri": "en/37/368449",
+    "id": "368449",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of chick brooders",
+    "harm": {
+      "id": "0039175",
+      "title": "368449 - Repair or maintenance of chick brooders",
+      "conceptLink": "/ec2/concept/5987271"
+    }
+  },
+  {
+    "uri": "en/37/137140872",
+    "id": "137140872",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for use in barbers' shops",
+    "harm": {
+      "id": "0070413",
+      "title": "137140872 - Repair or maintenance of machines and apparatus for use in barbers' shops",
+      "conceptLink": "/ec2/concept/6006606"
+    }
+  },
+  {
+    "uri": "en/37/137140873",
+    "id": "137140873",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for use in beauty salons",
+    "harm": {
+      "id": "0070412",
+      "title": "137140873 - Repair or maintenance of machines and apparatus for use in beauty salons",
+      "conceptLink": "/ec2/concept/6006605"
+    }
+  },
+  {
+    "uri": "en/37/129849991",
+    "id": "129849991",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of air conditioning apparatus",
+    "harm": {
+      "id": "0068098",
+      "title": "129849991 - Repair or maintenance of air conditioning apparatus",
+      "conceptLink": "/ec2/concept/6004301"
+    }
+  },
+  {
+    "uri": "en/37/3161241",
+    "id": "3161241",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of consumer electric appliances",
+    "harm": {
+      "id": "0068212",
+      "title": "3161241 - Repair or maintenance of consumer electric appliances",
+      "conceptLink": "/ec2/concept/6004415"
+    }
+  },
+  {
+    "uri": "en/37/120879780",
+    "id": "120879780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of non-electric cooking apparatus and installations",
+    "harm": {
+      "id": "0068261",
+      "title": "120879780 - Repair or maintenance of non-electric cooking apparatus and installations",
+      "conceptLink": "/ec2/concept/6004464"
+    }
+  },
+  {
+    "uri": "en/37/120879777",
+    "id": "120879777",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of electric cooking apparatus and installations",
+    "harm": {
+      "id": "0068260",
+      "title": "120879777 - Repair or maintenance of electric cooking apparatus and installations",
+      "conceptLink": "/ec2/concept/6004463"
+    }
+  },
+  {
+    "uri": "en/37/120879758",
+    "id": "120879758",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cooking apparatus and installations",
+    "harm": {
+      "id": "0068259",
+      "title": "120879758 - Repair or maintenance of cooking apparatus and installations",
+      "conceptLink": "/ec2/concept/6004462"
+    }
+  },
+  {
+    "uri": "en/37/120882211",
+    "id": "120882211",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of building equipment",
+    "harm": {
+      "id": "0068431",
+      "title": "120882211 - Repair or maintenance of building equipment",
+      "conceptLink": "/ec2/concept/6004634"
+    }
+  },
+  {
+    "uri": "en/37/120878801",
+    "id": "120878801",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of cooking apparatus",
+    "harm": {
+      "id": "0068384",
+      "title": "120878801 - Repair or maintenance of cooking apparatus",
+      "conceptLink": "/ec2/concept/6004587"
+    }
+  },
+  {
+    "uri": "en/37/120882206",
+    "id": "120882206",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of fishing tackle",
+    "harm": {
+      "id": "0068430",
+      "title": "120882206 - Repair or maintenance of fishing tackle",
+      "conceptLink": "/ec2/concept/6004633"
+    }
+  },
+  {
+    "uri": "en/37/120882202",
+    "id": "120882202",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of snow plows",
+    "harm": {
+      "id": "0068433",
+      "title": "120882202 - Repair or maintenance of snow plows",
+      "conceptLink": "/ec2/concept/6004636"
+    }
+  },
+  {
+    "uri": "en/37/120882159",
+    "id": "120882159",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of bookbinding apparatus and machines",
+    "harm": {
+      "id": "0068439",
+      "title": "120882159 - Repair or maintenance of bookbinding apparatus and machines",
+      "conceptLink": "/ec2/concept/6004642"
+    }
+  },
+  {
+    "uri": "en/37/120882155",
+    "id": "120882155",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of printing machines",
+    "harm": {
+      "id": "0068440",
+      "title": "120882155 - Repair or maintenance of printing machines",
+      "conceptLink": "/ec2/concept/6004643"
+    }
+  },
+  {
+    "uri": "en/37/16056114",
+    "id": "16056114",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of bathtubs",
+    "harm": {
+      "id": "0068232",
+      "title": "16056114 - Repair or maintenance of bathtubs",
+      "conceptLink": "/ec2/concept/6004435"
+    }
+  },
+  {
+    "uri": "en/37/120822919",
+    "id": "120822919",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for processing food or beverages",
+    "harm": {
+      "id": "0068466",
+      "title": "120822919 - Repair or maintenance of machines and apparatus for processing food or beverages",
+      "conceptLink": "/ec2/concept/6004669"
+    }
+  },
+  {
+    "uri": "en/37/3162441",
+    "id": "3162441",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of signboards",
+    "harm": {
+      "id": "0068383",
+      "title": "3162441 - Repair or maintenance of signboards",
+      "conceptLink": "/ec2/concept/6004586"
+    }
+  },
+  {
+    "uri": "en/37/4298048",
+    "id": "4298048",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of electronic machines and apparatus",
+    "harm": {
+      "id": "0068166",
+      "title": "4298048 - Repair or maintenance of electronic machines and apparatus",
+      "conceptLink": "/ec2/concept/6004369"
+    }
+  },
+  {
+    "uri": "en/37/3161901",
+    "id": "3161901",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of bicycle parking apparatus",
+    "harm": {
+      "id": "0068385",
+      "title": "3161901 - Repair or maintenance of bicycle parking apparatus",
+      "conceptLink": "/ec2/concept/6004588"
+    }
+  },
+  {
+    "uri": "en/37/3161881",
+    "id": "3161881",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of mechanical parking systems",
+    "harm": {
+      "id": "0068187",
+      "title": "3161881 - Repair or maintenance of mechanical parking systems",
+      "conceptLink": "/ec2/concept/6004390"
+    }
+  },
+  {
+    "uri": "en/37/137140773",
+    "id": "137140773",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for plywood making",
+    "harm": {
+      "id": "0070424",
+      "title": "137140773 - Repair or maintenance of machines and apparatus for plywood making",
+      "conceptLink": "/ec2/concept/6006617"
+    }
+  },
+  {
+    "uri": "en/37/137140748",
+    "id": "137140748",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for veneer making",
+    "harm": {
+      "id": "0070426",
+      "title": "137140748 - Repair or maintenance of machines and apparatus for veneer making",
+      "conceptLink": "/ec2/concept/6006619"
+    }
+  },
+  {
+    "uri": "en/37/368648",
+    "id": "368648",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of elevators [lifts]",
+    "harm": {
+      "id": "0021990",
+      "title": "368648 - Repair or maintenance of elevators [lifts]",
+      "conceptLink": "/ec2/concept/5971583"
+    }
+  },
+  {
+    "uri": "en/37/369457",
+    "id": "369457",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of water purifying apparatus",
+    "harm": {
+      "id": "0032362",
+      "title": "369457 - Repair or maintenance of water purifying apparatus",
+      "conceptLink": "/ec2/concept/5981069"
+    }
+  },
+  {
+    "uri": "en/37/369248",
+    "id": "369248",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of shoe making machines and instruments",
+    "harm": {
+      "id": "0043923",
+      "title": "369248 - Repair or maintenance of shoe making machines and instruments",
+      "conceptLink": "/ec2/concept/5991612"
+    }
+  },
+  {
+    "uri": "en/37/369234",
+    "id": "369234",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of sewing machines",
+    "harm": {
+      "id": "0043922",
+      "title": "369234 - Repair or maintenance of sewing machines",
+      "conceptLink": "/ec2/concept/5991611"
+    }
+  },
+  {
+    "uri": "en/37/369311",
+    "id": "369311",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of textile machines and apparatus",
+    "harm": {
+      "id": "0043924",
+      "title": "369311 - Repair or maintenance of textile machines and apparatus",
+      "conceptLink": "/ec2/concept/5991613"
+    }
+  },
+  {
+    "uri": "en/37/908270",
+    "id": "908270",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of machines and apparatus for woodworking",
+    "harm": {
+      "id": "0044848",
+      "title": "908270 - Repair or maintenance of machines and apparatus for woodworking",
+      "conceptLink": "/ec2/concept/5992458"
+    }
+  },
+  {
+    "uri": "en/37/38476",
+    "id": "38476",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of movie projectors",
+    "harm": {
+      "id": "0040615",
+      "title": "38476 - Repair or maintenance of movie projectors",
+      "conceptLink": "/ec2/concept/5988595"
+    }
+  },
+  {
+    "uri": "en/37/368943",
+    "id": "368943",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of metalworking machines and tools",
+    "harm": {
+      "id": "0041841",
+      "title": "368943 - Repair or maintenance of metalworking machines and tools",
+      "conceptLink": "/ec2/concept/5989710"
+    }
+  },
+  {
+    "uri": "en/37/120823483",
+    "id": "120823483",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair or maintenance of aircraft",
+    "harm": {
+      "id": "0057869",
+      "title": "120823483 - Repair or maintenance of aircraft",
+      "conceptLink": "/ec2/concept/5999373"
+    }
+  },
+  {
+    "uri": "en/37/38777",
+    "id": "38777",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for clocks",
+    "harm": {
+      "id": "0012479",
+      "title": "38777 - Repair services for clocks",
+      "conceptLink": "/ec2/concept/5962883"
+    }
+  },
+  {
+    "uri": "en/37/823997",
+    "id": "823997",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for domestic electrical appliances",
+    "harm": {
+      "id": "0022161",
+      "title": "823997 - Repair services for domestic electrical appliances",
+      "conceptLink": "/ec2/concept/5971740"
+    }
+  },
+  {
+    "uri": "en/37/824012",
+    "id": "824012",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for electronic business equipment",
+    "harm": {
+      "id": "0016246",
+      "title": "824012 - Repair services for electronic business equipment",
+      "conceptLink": "/ec2/concept/5966346"
+    }
+  },
+  {
+    "uri": "en/37/892024",
+    "id": "892024",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for electric generators and wind turbines",
+    "harm": {
+      "id": "0029960",
+      "title": "892024 - Repair services for electric generators and wind turbines",
+      "conceptLink": "/ec2/concept/5978886"
+    }
+  },
+  {
+    "uri": "en/37/824025",
+    "id": "824025",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for fork lift trucks",
+    "harm": {
+      "id": "0045086",
+      "title": "824025 - Repair services for fork lift trucks",
+      "conceptLink": "/ec2/concept/5992675"
+    }
+  },
+  {
+    "uri": "en/37/824037",
+    "id": "824037",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for medical apparatus",
+    "harm": {
+      "id": "0027811",
+      "title": "824037 - Repair services for medical apparatus",
+      "conceptLink": "/ec2/concept/5976912"
+    }
+  },
+  {
+    "uri": "en/37/37520",
+    "id": "37520",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for shoes",
+    "harm": {
+      "id": "0011889",
+      "title": "37520 - Repair services for shoes",
+      "conceptLink": "/ec2/concept/5962341"
+    }
+  },
+  {
+    "uri": "en/37/824051",
+    "id": "824051",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services for toys",
+    "harm": {
+      "id": "0045087",
+      "title": "824051 - Repair services for toys",
+      "conceptLink": "/ec2/concept/5992676"
+    }
+  },
+  {
+    "uri": "en/37/824066",
+    "id": "824066",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair services relating to engines",
+    "harm": {
+      "id": "0010443",
+      "title": "824066 - Repair services relating to engines",
+      "conceptLink": "/ec2/concept/5961013"
+    }
+  },
+  {
+    "uri": "en/37/504459",
+    "id": "504459",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair, servicing and maintenance of vehicles and apparatus for locomotion by air",
+    "harm": {
+      "id": "0037633",
+      "title": "504459 - Repair, servicing and maintenance of vehicles and apparatus for locomotion by air",
+      "conceptLink": "/ec2/concept/5985862"
+    }
+  },
+  {
+    "uri": "en/37/41072",
+    "id": "41072",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair (Underwater -)",
+    "harm": {
+      "id": "0008272",
+      "title": "41072 - Repair (Underwater -)",
+      "conceptLink": "/ec2/concept/5959024"
+    }
+  },
+  {
+    "uri": "en/37/368196",
+    "id": "368196",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repair work on buildings",
+    "harm": {
+      "id": "0046926",
+      "title": "368196 - Repair work on buildings",
+      "conceptLink": "/ec2/concept/5994315"
+    }
+  },
+  {
+    "uri": "en/37/368198",
+    "id": "368198",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repairing construction works",
+    "harm": {
+      "id": "0019255",
+      "title": "368198 - Repairing construction works",
+      "conceptLink": "/ec2/concept/5969088"
+    }
+  },
+  {
+    "uri": "en/37/818090",
+    "id": "818090",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repairing of furniture",
+    "harm": {
+      "id": "0042290",
+      "title": "818090 - Repairing of furniture",
+      "conceptLink": "/ec2/concept/5990122"
+    }
+  },
+  {
+    "uri": "en/37/368195",
+    "id": "368195",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Repairs to buildings",
+    "harm": {
+      "id": "0046926",
+      "title": "368195 - Repairs to buildings",
+      "conceptLink": "/ec2/concept/5994315"
+    }
+  },
+  {
+    "uri": "en/37/824078",
+    "id": "824078",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Replacement of batteries",
+    "harm": {
+      "id": "0010444",
+      "title": "824078 - Replacement of batteries",
+      "conceptLink": "/ec2/concept/5961014"
+    }
+  },
+  {
+    "uri": "en/37/824091",
+    "id": "824091",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Replacement of brakes",
+    "harm": {
+      "id": "0036244",
+      "title": "824091 - Replacement of brakes",
+      "conceptLink": "/ec2/concept/5984602"
+    }
+  },
+  {
+    "uri": "en/37/824106",
+    "id": "824106",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Replacement of exhaust pipes",
+    "harm": {
+      "id": "0001544",
+      "title": "824106 - Replacement of exhaust pipes",
+      "conceptLink": "/ec2/concept/5952876"
+    }
+  },
+  {
+    "uri": "en/37/824119",
+    "id": "824119",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Replacement of lights",
+    "harm": {
+      "id": "0036245",
+      "title": "824119 - Replacement of lights",
+      "conceptLink": "/ec2/concept/5984603"
+    }
+  }
+]

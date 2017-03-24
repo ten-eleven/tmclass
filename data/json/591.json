@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/33/25199573",
+    "id": "25199573",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Table wines",
+    "harm": {
+      "id": "0056600",
+      "title": "25199573 - Table wines",
+      "conceptLink": "/ec2/concept/5997900"
+    }
+  },
+  {
+    "uri": "en/33/119547795",
+    "id": "119547795",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Tonic liquor containing herb extracts (homeishu)",
+    "harm": {
+      "id": "0056601",
+      "title": "119547795 - Tonic liquor containing herb extracts (homeishu)",
+      "conceptLink": "/ec2/concept/5997901"
+    }
+  },
+  {
+    "uri": "en/33/119547796",
+    "id": "119547796",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Tonic liquor containing mamushi-snake extracts (mamushi-zake)",
+    "harm": {
+      "id": "0056602",
+      "title": "119547796 - Tonic liquor containing mamushi-snake extracts (mamushi-zake)",
+      "conceptLink": "/ec2/concept/5997902"
+    }
+  },
+  {
+    "uri": "en/33/109106914",
+    "id": "109106914",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Tonic liquor flavored with japanese plum extracts (umeshu)",
+    "harm": {
+      "id": "0056603",
+      "title": "109106914 - Tonic liquor flavored with japanese plum extracts (umeshu)",
+      "conceptLink": "/ec2/concept/5997903"
+    }
+  },
+  {
+    "uri": "en/33/119547798",
+    "id": "119547798",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Tonic liquor flavored with pine needle extracts (matsuba-zake)",
+    "harm": {
+      "id": "0056604",
+      "title": "119547798 - Tonic liquor flavored with pine needle extracts (matsuba-zake)",
+      "conceptLink": "/ec2/concept/5997904"
+    }
+  },
+  {
+    "uri": "en/33/907958",
+    "id": "907958",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Vermouth",
+    "harm": {
+      "id": "0042055",
+      "title": "907958 - Vermouth",
+      "conceptLink": "/ec2/concept/5989906"
+    }
+  },
+  {
+    "uri": "en/33/306840",
+    "id": "306840",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Vodka",
+    "harm": {
+      "id": "0042793",
+      "title": "306840 - Vodka",
+      "conceptLink": "/ec2/concept/5990573"
+    }
+  },
+  {
+    "uri": "en/33/5652213",
+    "id": "5652213",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Whiskey",
+    "harm": {
+      "id": "0006168",
+      "title": "5652213 - Whiskey",
+      "conceptLink": "/ec2/concept/5957106"
+    }
+  },
+  {
+    "uri": "en/33/119547803",
+    "id": "119547803",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Whiskey [whisky]",
+    "harm": {
+      "id": "0006168",
+      "title": "119547803 - Whiskey [whisky]",
+      "conceptLink": "/ec2/concept/5957106"
+    }
+  },
+  {
+    "uri": "en/33/306654",
+    "id": "306654",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Whisky",
+    "harm": {
+      "id": "0006168",
+      "title": "306654 - Whisky",
+      "conceptLink": "/ec2/concept/5957106"
+    }
+  },
+  {
+    "uri": "en/33/610975",
+    "id": "610975",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "White wine",
+    "harm": {
+      "id": "0010324",
+      "title": "610975 - White wine",
+      "conceptLink": "/ec2/concept/5960902"
+    }
+  },
+  {
+    "uri": "en/33/39666120",
+    "id": "39666120",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "White wines",
+    "harm": {
+      "id": "0010324",
+      "title": "39666120 - White wines",
+      "conceptLink": "/ec2/concept/5960902"
+    }
+  },
+  {
+    "uri": "en/33/306379",
+    "id": "306379",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wine",
+    "harm": {
+      "id": "0016148",
+      "title": "306379 - Wine",
+      "conceptLink": "/ec2/concept/5966258"
+    }
+  },
+  {
+    "uri": "en/33/129848249",
+    "id": "129848249",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wine-based aperitifs",
+    "harm": {
+      "id": "0067710",
+      "title": "129848249 - Wine-based aperitifs",
+      "conceptLink": "/ec2/concept/6003913"
+    }
+  },
+  {
+    "uri": "en/33/119547816",
+    "id": "119547816",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wine-based drinks",
+    "harm": {
+      "id": "0067706",
+      "title": "119547816 - Wine-based drinks",
+      "conceptLink": "/ec2/concept/6003909"
+    }
+  },
+  {
+    "uri": "en/33/446300",
+    "id": "446300",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wine coolers [drinks]",
+    "harm": {
+      "id": "0039326",
+      "title": "446300 - Wine coolers [drinks]",
+      "conceptLink": "/ec2/concept/5987411"
+    }
+  },
+  {
+    "uri": "en/33/446316",
+    "id": "446316",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wine punch",
+    "harm": {
+      "id": "0022131",
+      "title": "446316 - Wine punch",
+      "conceptLink": "/ec2/concept/5971712"
+    }
+  },
+  {
+    "uri": "en/33/306378",
+    "id": "306378",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wines",
+    "harm": {
+      "id": "0016148",
+      "title": "306378 - Wines",
+      "conceptLink": "/ec2/concept/5966258"
+    }
+  },
+  {
+    "uri": "en/33/232006481",
+    "id": "232006481",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wines of protected appellation of origin",
+    "harm": {
+      "id": "0070691",
+      "title": "232006481 - Wines of protected appellation of origin",
+      "conceptLink": "/ec2/concept/6006883"
+    }
+  },
+  {
+    "uri": "en/33/231734421",
+    "id": "231734421",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Wines of protected geographical indication",
+    "harm": {
+      "id": "0070364",
+      "title": "231734421 - Wines of protected geographical indication",
+      "conceptLink": "/ec2/concept/6006557"
+    }
+  },
+  {
+    "uri": "en/33/11655057",
+    "id": "11655057",
+    "lang": "en",
+    "classNumber": "33",
+    "term": "Yellow rice wine",
+    "harm": {
+      "id": "0060146",
+      "title": "11655057 - Yellow rice wine",
+      "conceptLink": "/ec2/concept/5996408"
+    }
+  },
+  {
+    "uri": "en/34/610989",
+    "id": "610989",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Absorbent paper for tobacco",
+    "harm": {
+      "id": "0010325",
+      "title": "610989 - Absorbent paper for tobacco",
+      "conceptLink": "/ec2/concept/5960903"
+    }
+  },
+  {
+    "uri": "en/34/307253",
+    "id": "307253",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Absorbent paper for tobacco pipes",
+    "harm": {
+      "id": "0025238",
+      "title": "307253 - Absorbent paper for tobacco pipes",
+      "conceptLink": "/ec2/concept/5974565"
+    }
+  },
+  {
+    "uri": "en/34/131124388",
+    "id": "131124388",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Articles for use with tobacco",
+    "harm": {
+      "id": "0004020",
+      "title": "131124388 - Articles for use with tobacco",
+      "conceptLink": "/ec2/concept/5955122"
+    }
+  },
+  {
+    "uri": "en/34/308210",
+    "id": "308210",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays",
+    "harm": {
+      "id": "0046685",
+      "title": "308210 - Ashtrays",
+      "conceptLink": "/ec2/concept/5994102"
+    }
+  },
+  {
+    "uri": "en/34/308209",
+    "id": "308209",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays for smokers",
+    "harm": {
+      "id": "0046685",
+      "title": "308209 - Ashtrays for smokers",
+      "conceptLink": "/ec2/concept/5994102"
+    }
+  },
+  {
+    "uri": "en/34/119547819",
+    "id": "119547819",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays for smokers made of precious metals",
+    "harm": {
+      "id": "0003344",
+      "title": "119547819 - Ashtrays for smokers made of precious metals",
+      "conceptLink": "/ec2/concept/5954509"
+    }
+  },
+  {
+    "uri": "en/34/362683",
+    "id": "362683",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays for smokers made of non-precious metals",
+    "harm": {
+      "id": "0017488",
+      "title": "362683 - Ashtrays for smokers made of non-precious metals",
+      "conceptLink": "/ec2/concept/5967465"
+    }
+  },
+  {
+    "uri": "en/34/11099749",
+    "id": "11099749",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays, not of precious metal",
+    "harm": {
+      "id": "0017488",
+      "title": "11099749 - Ashtrays, not of precious metal",
+      "conceptLink": "/ec2/concept/5967465"
+    }
+  },
+  {
+    "uri": "en/34/882853",
+    "id": "882853",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Ashtrays of precious metal",
+    "harm": {
+      "id": "0003344",
+      "title": "882853 - Ashtrays of precious metal",
+      "conceptLink": "/ec2/concept/5954509"
+    }
+  },
+  {
+    "uri": "en/34/91938835",
+    "id": "91938835",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Asian long tobacco pipe sheaths",
+    "harm": {
+      "id": "0056605",
+      "title": "91938835 - Asian long tobacco pipe sheaths",
+      "conceptLink": "/ec2/concept/5997905"
+    }
+  },
+  {
+    "uri": "en/34/29540364",
+    "id": "29540364",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Asian long tobacco pipes (kiseru)",
+    "harm": {
+      "id": "0056606",
+      "title": "29540364 - Asian long tobacco pipes (kiseru)",
+      "conceptLink": "/ec2/concept/5997906"
+    }
+  },
+  {
+    "uri": "en/34/132797062",
+    "id": "132797062",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Asian long tobacco pipes [kiseru]",
+    "harm": {
+      "id": "0056606",
+      "title": "132797062 - Asian long tobacco pipes [kiseru]",
+      "conceptLink": "/ec2/concept/5997906"
+    }
+  },
+  {
+    "uri": "en/34/362840",
+    "id": "362840",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Bags for pipes",
+    "harm": {
+      "id": "0040629",
+      "title": "362840 - Bags for pipes",
+      "conceptLink": "/ec2/concept/5988609"
+    }
+  },
+  {
+    "uri": "en/34/307222",
+    "id": "307222",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Books of cigarette papers",
+    "harm": {
+      "id": "0025237",
+      "title": "307222 - Books of cigarette papers",
+      "conceptLink": "/ec2/concept/5974564"
+    }
+  },
+  {
+    "uri": "en/34/307400",
+    "id": "307400",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cases (Cigar -)",
+    "harm": {
+      "id": "0046347",
+      "title": "307400 - Cases (Cigar -)",
+      "conceptLink": "/ec2/concept/5993804"
+    }
+  },
+  {
+    "uri": "en/34/307477",
+    "id": "307477",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cases (Cigarette -)",
+    "harm": {
+      "id": "0002124",
+      "title": "307477 - Cases (Cigarette -)",
+      "conceptLink": "/ec2/concept/5953399"
+    }
+  },
+  {
+    "uri": "en/34/611000",
+    "id": "611000",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cases, not of precious metal for pipes",
+    "harm": {
+      "id": "0032624",
+      "title": "611000 - Cases, not of precious metal for pipes",
+      "conceptLink": "/ec2/concept/5981307"
+    }
+  },
+  {
+    "uri": "en/34/611014",
+    "id": "611014",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cases of precious metal for pipes",
+    "harm": {
+      "id": "0044197",
+      "title": "611014 - Cases of precious metal for pipes",
+      "conceptLink": "/ec2/concept/5991863"
+    }
+  },
+  {
+    "uri": "en/34/611025",
+    "id": "611025",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cheroots",
+    "harm": {
+      "id": "0032625",
+      "title": "611025 - Cheroots",
+      "conceptLink": "/ec2/concept/5981308"
+    }
+  },
+  {
+    "uri": "en/34/307283",
+    "id": "307283",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Chewing tobacco",
+    "harm": {
+      "id": "0002123",
+      "title": "307283 - Chewing tobacco",
+      "conceptLink": "/ec2/concept/5953398"
+    }
+  },
+  {
+    "uri": "en/34/307403",
+    "id": "307403",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar boxes",
+    "harm": {
+      "id": "0046386",
+      "title": "307403 - Cigar boxes",
+      "conceptLink": "/ec2/concept/5993840"
+    }
+  },
+  {
+    "uri": "en/34/901785",
+    "id": "901785",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar boxes of precious metal",
+    "harm": {
+      "id": "0029319",
+      "title": "901785 - Cigar boxes of precious metal",
+      "conceptLink": "/ec2/concept/5978300"
+    }
+  },
+  {
+    "uri": "en/34/307401",
+    "id": "307401",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar cases",
+    "harm": {
+      "id": "0046347",
+      "title": "307401 - Cigar cases",
+      "conceptLink": "/ec2/concept/5993804"
+    }
+  },
+  {
+    "uri": "en/34/886295",
+    "id": "886295",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar cases, not of precious metal",
+    "harm": {
+      "id": "0018431",
+      "title": "886295 - Cigar cases, not of precious metal",
+      "conceptLink": "/ec2/concept/5968329"
+    }
+  },
+  {
+    "uri": "en/34/307345",
+    "id": "307345",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar clippers",
+    "harm": {
+      "id": "0030980",
+      "title": "307345 - Cigar clippers",
+      "conceptLink": "/ec2/concept/5979827"
+    }
+  },
+  {
+    "uri": "en/34/307344",
+    "id": "307344",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar cutters",
+    "harm": {
+      "id": "0030980",
+      "title": "307344 - Cigar cutters",
+      "conceptLink": "/ec2/concept/5979827"
+    }
+  },
+  {
+    "uri": "en/34/611038",
+    "id": "611038",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar filters",
+    "harm": {
+      "id": "0026867",
+      "title": "611038 - Cigar filters",
+      "conceptLink": "/ec2/concept/5976046"
+    }
+  },
+  {
+    "uri": "en/34/307540",
+    "id": "307540",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar holders",
+    "harm": {
+      "id": "0046372",
+      "title": "307540 - Cigar holders",
+      "conceptLink": "/ec2/concept/5993827"
+    }
+  },
+  {
+    "uri": "en/34/4424728",
+    "id": "4424728",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar holders, not of precious metal",
+    "harm": {
+      "id": "0046372",
+      "title": "4424728 - Cigar holders, not of precious metal",
+      "conceptLink": "/ec2/concept/5993827"
+    }
+  },
+  {
+    "uri": "en/34/61689628",
+    "id": "61689628",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar holders of precious metal",
+    "harm": {
+      "id": "0067726",
+      "title": "61689628 - Cigar holders of precious metal",
+      "conceptLink": "/ec2/concept/6003929"
+    }
+  },
+  {
+    "uri": "en/34/362697",
+    "id": "362697",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar humidifiers",
+    "harm": {
+      "id": "0005970",
+      "title": "362697 - Cigar humidifiers",
+      "conceptLink": "/ec2/concept/5956919"
+    }
+  },
+  {
+    "uri": "en/34/611052",
+    "id": "611052",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar lighters",
+    "harm": {
+      "id": "0038427",
+      "title": "611052 - Cigar lighters",
+      "conceptLink": "/ec2/concept/5986597"
+    }
+  },
+  {
+    "uri": "en/34/307117",
+    "id": "307117",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar lighters (Gas containers for -)",
+    "harm": {
+      "id": "0019538",
+      "title": "307117 - Cigar lighters (Gas containers for -)",
+      "conceptLink": "/ec2/concept/5969345"
+    }
+  },
+  {
+    "uri": "en/34/914654",
+    "id": "914654",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar pouches",
+    "harm": {
+      "id": "0009139",
+      "title": "914654 - Cigar pouches",
+      "conceptLink": "/ec2/concept/5959824"
+    }
+  },
+  {
+    "uri": "en/34/307402",
+    "id": "307402",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigar tubes",
+    "harm": {
+      "id": "0046365",
+      "title": "307402 - Cigar tubes",
+      "conceptLink": "/ec2/concept/5993820"
+    }
+  },
+  {
+    "uri": "en/34/446327",
+    "id": "446327",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette ash receptacles",
+    "harm": {
+      "id": "0046685",
+      "title": "446327 - Cigarette ash receptacles",
+      "conceptLink": "/ec2/concept/5994102"
+    }
+  },
+  {
+    "uri": "en/34/307479",
+    "id": "307479",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette boxes",
+    "harm": {
+      "id": "0002124",
+      "title": "307479 - Cigarette boxes",
+      "conceptLink": "/ec2/concept/5953399"
+    }
+  },
+  {
+    "uri": "en/34/901786",
+    "id": "901786",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette boxes of precious metal",
+    "harm": {
+      "id": "0029320",
+      "title": "901786 - Cigarette boxes of precious metal",
+      "conceptLink": "/ec2/concept/5978301"
+    }
+  },
+  {
+    "uri": "en/34/307478",
+    "id": "307478",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette cases",
+    "harm": {
+      "id": "0002124",
+      "title": "307478 - Cigarette cases",
+      "conceptLink": "/ec2/concept/5953399"
+    }
+  },
+  {
+    "uri": "en/34/415436",
+    "id": "415436",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette cases made of precious metal",
+    "harm": {
+      "id": "0005373",
+      "title": "415436 - Cigarette cases made of precious metal",
+      "conceptLink": "/ec2/concept/5956374"
+    }
+  },
+  {
+    "uri": "en/34/886296",
+    "id": "886296",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette cases not of precious metal",
+    "harm": {
+      "id": "0018431",
+      "title": "886296 - Cigarette cases not of precious metal",
+      "conceptLink": "/ec2/concept/5968329"
+    }
+  },
+  {
+    "uri": "en/34/109874647",
+    "id": "109874647",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette cutters",
+    "harm": {
+      "id": "0071655",
+      "title": "109874647 - Cigarette cutters",
+      "conceptLink": "/ec2/concept/6007844"
+    }
+  },
+  {
+    "uri": "en/34/307022",
+    "id": "307022",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette filters",
+    "harm": {
+      "id": "0059395",
+      "title": "307022 - Cigarette filters",
+      "conceptLink": "/ec2/concept/6000875"
+    }
+  },
+  {
+    "uri": "en/34/307659",
+    "id": "307659",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette holders",
+    "harm": {
+      "id": "0023329",
+      "title": "307659 - Cigarette holders",
+      "conceptLink": "/ec2/concept/5972806"
+    }
+  },
+  {
+    "uri": "en/34/307708",
+    "id": "307708",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette holders (Mouthpieces for -)",
+    "harm": {
+      "id": "0009705",
+      "title": "307708 - Cigarette holders (Mouthpieces for -)",
+      "conceptLink": "/ec2/concept/5960343"
+    }
+  },
+  {
+    "uri": "en/34/307660",
+    "id": "307660",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette holders not of precious metal",
+    "harm": {
+      "id": "0046464",
+      "title": "307660 - Cigarette holders not of precious metal",
+      "conceptLink": "/ec2/concept/5993912"
+    }
+  },
+  {
+    "uri": "en/34/882953",
+    "id": "882953",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette holders of precious metal",
+    "harm": {
+      "id": "0041425",
+      "title": "882953 - Cigarette holders of precious metal",
+      "conceptLink": "/ec2/concept/5989330"
+    }
+  },
+  {
+    "uri": "en/34/120896021",
+    "id": "120896021",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighter holders of precious metal",
+    "harm": {
+      "id": "0067724",
+      "title": "120896021 - Cigarette lighter holders of precious metal",
+      "conceptLink": "/ec2/concept/6003927"
+    }
+  },
+  {
+    "uri": "en/34/120867208",
+    "id": "120867208",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighter holders",
+    "harm": {
+      "id": "0067732",
+      "title": "120867208 - Cigarette lighter holders",
+      "conceptLink": "/ec2/concept/6003935"
+    }
+  },
+  {
+    "uri": "en/34/120867222",
+    "id": "120867222",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighter holders, not of precious metal",
+    "harm": {
+      "id": "0067731",
+      "title": "120867222 - Cigarette lighter holders, not of precious metal",
+      "conceptLink": "/ec2/concept/6003934"
+    }
+  },
+  {
+    "uri": "en/34/890194",
+    "id": "890194",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighters",
+    "harm": {
+      "id": "0004490",
+      "title": "890194 - Cigarette lighters",
+      "conceptLink": "/ec2/concept/5955563"
+    }
+  },
+  {
+    "uri": "en/34/446343",
+    "id": "446343",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighters not for land vehicles",
+    "harm": {
+      "id": "0043810",
+      "title": "446343 - Cigarette lighters not for land vehicles",
+      "conceptLink": "/ec2/concept/5991503"
+    }
+  },
+  {
+    "uri": "en/34/132866708",
+    "id": "132866708",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighters, not of precious metal",
+    "harm": {
+      "id": "0067725",
+      "title": "132866708 - Cigarette lighters, not of precious metal",
+      "conceptLink": "/ec2/concept/6003928"
+    }
+  },
+  {
+    "uri": "en/34/18123872",
+    "id": "18123872",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette lighters of precious metal",
+    "harm": {
+      "id": "0071311",
+      "title": "18123872 - Cigarette lighters of precious metal",
+      "conceptLink": "/ec2/concept/6007502"
+    }
+  },
+  {
+    "uri": "en/34/611066",
+    "id": "611066",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette packets",
+    "harm": {
+      "id": "0002124",
+      "title": "611066 - Cigarette packets",
+      "conceptLink": "/ec2/concept/5953399"
+    }
+  },
+  {
+    "uri": "en/34/307751",
+    "id": "307751",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette paper",
+    "harm": {
+      "id": "0012626",
+      "title": "307751 - Cigarette paper",
+      "conceptLink": "/ec2/concept/5963016"
+    }
+  },
+  {
+    "uri": "en/34/307750",
+    "id": "307750",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette papers",
+    "harm": {
+      "id": "0012626",
+      "title": "307750 - Cigarette papers",
+      "conceptLink": "/ec2/concept/5963016"
+    }
+  },
+  {
+    "uri": "en/34/307221",
+    "id": "307221",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette papers (Books of -)",
+    "harm": {
+      "id": "0025237",
+      "title": "307221 - Cigarette papers (Books of -)",
+      "conceptLink": "/ec2/concept/5974564"
+    }
+  },
+  {
+    "uri": "en/34/14913396",
+    "id": "14913396",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette rolling machines",
+    "harm": {
+      "id": "0036862",
+      "title": "14913396 - Cigarette rolling machines",
+      "conceptLink": "/ec2/concept/5985170"
+    }
+  },
+  {
+    "uri": "en/34/307752",
+    "id": "307752",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette rolling papers",
+    "harm": {
+      "id": "0012626",
+      "title": "307752 - Cigarette rolling papers",
+      "conceptLink": "/ec2/concept/5963016"
+    }
+  },
+  {
+    "uri": "en/34/307020",
+    "id": "307020",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette tips",
+    "harm": {
+      "id": "0059396",
+      "title": "307020 - Cigarette tips",
+      "conceptLink": "/ec2/concept/6000876"
+    }
+  },
+  {
+    "uri": "en/34/611081",
+    "id": "611081",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette tobacco",
+    "harm": {
+      "id": "0038428",
+      "title": "611081 - Cigarette tobacco",
+      "conceptLink": "/ec2/concept/5986598"
+    }
+  },
+  {
+    "uri": "en/34/914169",
+    "id": "914169",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarette tubes",
+    "harm": {
+      "id": "0034837",
+      "title": "914169 - Cigarette tubes",
+      "conceptLink": "/ec2/concept/5983332"
+    }
+  },
+  {
+    "uri": "en/34/307603",
+    "id": "307603",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarettes",
+    "harm": {
+      "id": "0036131",
+      "title": "307603 - Cigarettes",
+      "conceptLink": "/ec2/concept/5984500"
+    }
+  },
+  {
+    "uri": "en/34/136245860",
+    "id": "136245860",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarettes, cigars, cigarillos and other ready-for-use smoking articles",
+    "harm": {
+      "id": "0050688",
+      "title": "136245860 - Cigarettes, cigars, cigarillos and other ready-for-use smoking articles",
+      "conceptLink": "/ec2/concept/5996054"
+    }
+  },
+  {
+    "uri": "en/34/890316",
+    "id": "890316",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarettes containing tobacco substitutes",
+    "harm": {
+      "id": "0034437",
+      "title": "890316 - Cigarettes containing tobacco substitutes",
+      "conceptLink": "/ec2/concept/5982969"
+    }
+  },
+  {
+    "uri": "en/34/307580",
+    "id": "307580",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarettes containing tobacco substitutes, not for medical purposes",
+    "harm": {
+      "id": "0027048",
+      "title": "307580 - Cigarettes containing tobacco substitutes, not for medical purposes",
+      "conceptLink": "/ec2/concept/5976207"
+    }
+  },
+  {
+    "uri": "en/34/307630",
+    "id": "307630",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarettes (Pocket machines for rolling -)",
+    "harm": {
+      "id": "0036862",
+      "title": "307630 - Cigarettes (Pocket machines for rolling -)",
+      "conceptLink": "/ec2/concept/5985170"
+    }
+  },
+  {
+    "uri": "en/34/307799",
+    "id": "307799",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigarillos",
+    "harm": {
+      "id": "0003945",
+      "title": "307799 - Cigarillos",
+      "conceptLink": "/ec2/concept/5955061"
+    }
+  },
+  {
+    "uri": "en/34/307312",
+    "id": "307312",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigars",
+    "harm": {
+      "id": "0025239",
+      "title": "307312 - Cigars",
+      "conceptLink": "/ec2/concept/5974566"
+    }
+  },
+  {
+    "uri": "en/34/233252304",
+    "id": "233252304",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cigars for use as an alternative to tobacco cigarettes",
+    "harm": {
+      "id": "0073256",
+      "title": "233252304 - Cigars for use as an alternative to tobacco cigarettes",
+      "conceptLink": "/ec2/concept/6009429"
+    }
+  },
+  {
+    "uri": "en/34/611108",
+    "id": "611108",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Containers for cigars",
+    "harm": {
+      "id": "0041893",
+      "title": "611108 - Containers for cigars",
+      "conceptLink": "/ec2/concept/5989757"
+    }
+  },
+  {
+    "uri": "en/34/307343",
+    "id": "307343",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Cutters (Cigar -)",
+    "harm": {
+      "id": "0030980",
+      "title": "307343 - Cutters (Cigar -)",
+      "conceptLink": "/ec2/concept/5979827"
+    }
+  },
+  {
+    "uri": "en/34/136400400",
+    "id": "136400400",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electric cigarettes [electronic cigarettes]",
+    "harm": {
+      "id": "0046272",
+      "title": "136400400 - Electric cigarettes [electronic cigarettes]",
+      "conceptLink": "/ec2/concept/5993733"
+    }
+  },
+  {
+    "uri": "en/34/136190040",
+    "id": "136190040",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electronic cigarette atomizers",
+    "harm": {
+      "id": "0073259",
+      "title": "136190040 - Electronic cigarette atomizers",
+      "conceptLink": "/ec2/concept/6009432"
+    }
+  },
+  {
+    "uri": "en/34/136318072",
+    "id": "136318072",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electronic cigarette boxes",
+    "harm": {
+      "id": "0050811",
+      "title": "136318072 - Electronic cigarette boxes",
+      "conceptLink": "/ec2/concept/5996175"
+    }
+  },
+  {
+    "uri": "en/34/167405346",
+    "id": "167405346",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electronic cigarette cartomizers",
+    "harm": {
+      "id": "0073260",
+      "title": "167405346 - Electronic cigarette cartomizers",
+      "conceptLink": "/ec2/concept/6009433"
+    }
+  },
+  {
+    "uri": "en/34/136318073",
+    "id": "136318073",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electronic cigarette cases",
+    "harm": {
+      "id": "0050812",
+      "title": "136318073 - Electronic cigarette cases",
+      "conceptLink": "/ec2/concept/5996176"
+    }
+  },
+  {
+    "uri": "en/34/233252311",
+    "id": "233252311",
+    "lang": "en",
+    "classNumber": "34",
+    "term": "Electronic cigarette cleaners",
+    "harm": {
+      "id": "0073263",
+      "title": "233252311 - Electronic cigarette cleaners",
+      "conceptLink": "/ec2/concept/6009436"
+    }
+  }
+]

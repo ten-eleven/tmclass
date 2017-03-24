@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/46784",
+    "id": "46784",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of storage space",
+    "harm": {
+      "id": "0046746",
+      "title": "46784 - Rental of storage space",
+      "conceptLink": "/ec2/concept/5994153"
+    }
+  },
+  {
+    "uri": "en/39/833921",
+    "id": "833921",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of storage units",
+    "harm": {
+      "id": "0046763",
+      "title": "833921 - Rental of storage units",
+      "conceptLink": "/ec2/concept/5994169"
+    }
+  },
+  {
+    "uri": "en/39/836450",
+    "id": "836450",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of strongrooms",
+    "harm": {
+      "id": "0020944",
+      "title": "836450 - Rental of strongrooms",
+      "conceptLink": "/ec2/concept/5970626"
+    }
+  },
+  {
+    "uri": "en/39/836462",
+    "id": "836462",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of tankers",
+    "harm": {
+      "id": "0038191",
+      "title": "836462 - Rental of tankers",
+      "conceptLink": "/ec2/concept/5986371"
+    }
+  },
+  {
+    "uri": "en/39/371285",
+    "id": "371285",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of traction vehicle and trailers",
+    "harm": {
+      "id": "0043352",
+      "title": "371285 - Rental of traction vehicle and trailers",
+      "conceptLink": "/ec2/concept/5991083"
+    }
+  },
+  {
+    "uri": "en/39/136633309",
+    "id": "136633309",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of tractors",
+    "harm": {
+      "id": "0060113",
+      "title": "136633309 - Rental of tractors",
+      "conceptLink": "/ec2/concept/5996375"
+    }
+  },
+  {
+    "uri": "en/39/836476",
+    "id": "836476",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of trains",
+    "harm": {
+      "id": "0032359",
+      "title": "836476 - Rental of trains",
+      "conceptLink": "/ec2/concept/5981066"
+    }
+  },
+  {
+    "uri": "en/39/836490",
+    "id": "836490",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of trams",
+    "harm": {
+      "id": "0026596",
+      "title": "836490 - Rental of trams",
+      "conceptLink": "/ec2/concept/5975806"
+    }
+  },
+  {
+    "uri": "en/39/459760",
+    "id": "459760",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of transport vehicles",
+    "harm": {
+      "id": "0047221",
+      "title": "459760 - Rental of transport vehicles",
+      "conceptLink": "/ec2/concept/5994586"
+    }
+  },
+  {
+    "uri": "en/39/370749",
+    "id": "370749",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of transportation vehicles",
+    "harm": {
+      "id": "0047221",
+      "title": "370749 - Rental of transportation vehicles",
+      "conceptLink": "/ec2/concept/5994586"
+    }
+  },
+  {
+    "uri": "en/39/44572",
+    "id": "44572",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of trolleys",
+    "harm": {
+      "id": "0047293",
+      "title": "44572 - Rental of trolleys",
+      "conceptLink": "/ec2/concept/5994647"
+    }
+  },
+  {
+    "uri": "en/39/44545",
+    "id": "44545",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of trucks",
+    "harm": {
+      "id": "0036980",
+      "title": "44545 - Rental of trucks",
+      "conceptLink": "/ec2/concept/5985278"
+    }
+  },
+  {
+    "uri": "en/39/459792",
+    "id": "459792",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicle accessories, in particular roof racks, children's safety seats, vehicle trailers",
+    "harm": {
+      "id": "0026306",
+      "title": "459792 - Rental of vehicle accessories, in particular roof racks, children's safety seats, vehicle trailers",
+      "conceptLink": "/ec2/concept/5975546"
+    }
+  },
+  {
+    "uri": "en/39/459811",
+    "id": "459811",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicle parking spaces",
+    "harm": {
+      "id": "0008969",
+      "title": "459811 - Rental of vehicle parking spaces",
+      "conceptLink": "/ec2/concept/5959664"
+    }
+  },
+  {
+    "uri": "en/39/836503",
+    "id": "836503",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicle parts",
+    "harm": {
+      "id": "0015108",
+      "title": "836503 - Rental of vehicle parts",
+      "conceptLink": "/ec2/concept/5965286"
+    }
+  },
+  {
+    "uri": "en/39/49497",
+    "id": "49497",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicle roof racks",
+    "harm": {
+      "id": "0057089",
+      "title": "49497 - Rental of vehicle roof racks",
+      "conceptLink": "/ec2/concept/5998721"
+    }
+  },
+  {
+    "uri": "en/39/44528",
+    "id": "44528",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles",
+    "harm": {
+      "id": "0058583",
+      "title": "44528 - Rental of vehicles",
+      "conceptLink": "/ec2/concept/6000076"
+    }
+  },
+  {
+    "uri": "en/39/371300",
+    "id": "371300",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles and apparatus for locomotion by air",
+    "harm": {
+      "id": "0020330",
+      "title": "371300 - Rental of vehicles and apparatus for locomotion by air",
+      "conceptLink": "/ec2/concept/5970061"
+    }
+  },
+  {
+    "uri": "en/39/836516",
+    "id": "836516",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles equipped with lifting platforms",
+    "harm": {
+      "id": "0031689",
+      "title": "836516 - Rental of vehicles equipped with lifting platforms",
+      "conceptLink": "/ec2/concept/5980461"
+    }
+  },
+  {
+    "uri": "en/39/836529",
+    "id": "836529",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles equipped with nacelles",
+    "harm": {
+      "id": "0043267",
+      "title": "836529 - Rental of vehicles equipped with nacelles",
+      "conceptLink": "/ec2/concept/5991008"
+    }
+  },
+  {
+    "uri": "en/39/370748",
+    "id": "370748",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles for transport",
+    "harm": {
+      "id": "0047221",
+      "title": "370748 - Rental of vehicles for transport",
+      "conceptLink": "/ec2/concept/5994586"
+    }
+  },
+  {
+    "uri": "en/39/370750",
+    "id": "370750",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles for transportation",
+    "harm": {
+      "id": "0047221",
+      "title": "370750 - Rental of vehicles for transportation",
+      "conceptLink": "/ec2/concept/5994586"
+    }
+  },
+  {
+    "uri": "en/39/459827",
+    "id": "459827",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vehicles, in particular automobiles and lorries",
+    "harm": {
+      "id": "0008970",
+      "title": "459827 - Rental of vehicles, in particular automobiles and lorries",
+      "conceptLink": "/ec2/concept/5959665"
+    }
+  },
+  {
+    "uri": "en/39/45154",
+    "id": "45154",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of vessels",
+    "harm": {
+      "id": "0046524",
+      "title": "45154 - Rental of vessels",
+      "conceptLink": "/ec2/concept/5993962"
+    }
+  },
+  {
+    "uri": "en/39/120891017",
+    "id": "120891017",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of wagons",
+    "harm": {
+      "id": "0071324",
+      "title": "120891017 - Rental of wagons",
+      "conceptLink": "/ec2/concept/6007515"
+    }
+  },
+  {
+    "uri": "en/39/906853",
+    "id": "906853",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of warehouse space",
+    "harm": {
+      "id": "0046722",
+      "title": "906853 - Rental of warehouse space",
+      "conceptLink": "/ec2/concept/5994131"
+    }
+  },
+  {
+    "uri": "en/39/46783",
+    "id": "46783",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of warehouses",
+    "harm": {
+      "id": "0046657",
+      "title": "46783 - Rental of warehouses",
+      "conceptLink": "/ec2/concept/5994079"
+    }
+  },
+  {
+    "uri": "en/39/46781",
+    "id": "46781",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of warehousing",
+    "harm": {
+      "id": "0046657",
+      "title": "46781 - Rental of warehousing",
+      "conceptLink": "/ec2/concept/5994079"
+    }
+  },
+  {
+    "uri": "en/39/458595",
+    "id": "458595",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of water craft",
+    "harm": {
+      "id": "0025887",
+      "title": "458595 - Rental of water craft",
+      "conceptLink": "/ec2/concept/5975158"
+    }
+  },
+  {
+    "uri": "en/39/836146",
+    "id": "836146",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of wheelbarrows",
+    "harm": {
+      "id": "0047324",
+      "title": "836146 - Rental of wheelbarrows",
+      "conceptLink": "/ec2/concept/5994672"
+    }
+  },
+  {
+    "uri": "en/39/49926",
+    "id": "49926",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rental of wheelchairs",
+    "harm": {
+      "id": "0012654",
+      "title": "49926 - Rental of wheelchairs",
+      "conceptLink": "/ec2/concept/5963043"
+    }
+  },
+  {
+    "uri": "en/39/836541",
+    "id": "836541",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Repatriation services for patients",
+    "harm": {
+      "id": "0008537",
+      "title": "836541 - Repatriation services for patients",
+      "conceptLink": "/ec2/concept/5959264"
+    }
+  },
+  {
+    "uri": "en/39/837219",
+    "id": "837219",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue of ships in distress",
+    "harm": {
+      "id": "0015181",
+      "title": "837219 - Rescue of ships in distress",
+      "conceptLink": "/ec2/concept/5965357"
+    }
+  },
+  {
+    "uri": "en/39/49557",
+    "id": "49557",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue operations [transport]",
+    "harm": {
+      "id": "0058679",
+      "title": "49557 - Rescue operations [transport]",
+      "conceptLink": "/ec2/concept/6000172"
+    }
+  },
+  {
+    "uri": "en/39/131140684",
+    "id": "131140684",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue, recovery, towing and salvage",
+    "harm": {
+      "id": "0048056",
+      "title": "131140684 - Rescue, recovery, towing and salvage",
+      "conceptLink": "/ec2/concept/5995315"
+    }
+  },
+  {
+    "uri": "en/39/215392950",
+    "id": "215392950",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue, recovery, towing and salvage services",
+    "harm": {
+      "id": "0073902",
+      "title": "215392950 - Rescue, recovery, towing and salvage services",
+      "conceptLink": "/ec2/concept/6010854"
+    }
+  },
+  {
+    "uri": "en/39/49559",
+    "id": "49559",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue services [transportation]",
+    "harm": {
+      "id": "0058679",
+      "title": "49559 - Rescue services [transportation]",
+      "conceptLink": "/ec2/concept/6000172"
+    }
+  },
+  {
+    "uri": "en/39/836568",
+    "id": "836568",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue [transport] of persons",
+    "harm": {
+      "id": "0008538",
+      "title": "836568 - Rescue [transport] of persons",
+      "conceptLink": "/ec2/concept/5959265"
+    }
+  },
+  {
+    "uri": "en/39/836597",
+    "id": "836597",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue [transport] of vehicles in the water",
+    "harm": {
+      "id": "0020229",
+      "title": "836597 - Rescue [transport] of vehicles in the water",
+      "conceptLink": "/ec2/concept/5969971"
+    }
+  },
+  {
+    "uri": "en/39/836611",
+    "id": "836611",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue [transport] of vehicles on the land",
+    "harm": {
+      "id": "0043269",
+      "title": "836611 - Rescue [transport] of vehicles on the land",
+      "conceptLink": "/ec2/concept/5991010"
+    }
+  },
+  {
+    "uri": "en/39/836582",
+    "id": "836582",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue [transport] of vehicles in the air",
+    "harm": {
+      "id": "0043268",
+      "title": "836582 - Rescue [transport] of vehicles in the air",
+      "conceptLink": "/ec2/concept/5991009"
+    }
+  },
+  {
+    "uri": "en/39/49558",
+    "id": "49558",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Rescue [transport] services",
+    "harm": {
+      "id": "0058679",
+      "title": "49558 - Rescue [transport] services",
+      "conceptLink": "/ec2/concept/6000172"
+    }
+  },
+  {
+    "uri": "en/39/48292",
+    "id": "48292",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation and booking of seats for travel",
+    "harm": {
+      "id": "0047547",
+      "title": "48292 - Reservation and booking of seats for travel",
+      "conceptLink": "/ec2/concept/5994841"
+    }
+  },
+  {
+    "uri": "en/39/460273",
+    "id": "460273",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation and booking services for transportation",
+    "harm": {
+      "id": "0047296",
+      "title": "460273 - Reservation and booking services for transportation",
+      "conceptLink": "/ec2/concept/5994650"
+    }
+  },
+  {
+    "uri": "en/39/830503",
+    "id": "830503",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of air transportation",
+    "harm": {
+      "id": "0024224",
+      "title": "830503 - Reservation of air transportation",
+      "conceptLink": "/ec2/concept/5973635"
+    }
+  },
+  {
+    "uri": "en/39/830502",
+    "id": "830502",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of air transport",
+    "harm": {
+      "id": "0024224",
+      "title": "830502 - Reservation of air transport",
+      "conceptLink": "/ec2/concept/5973635"
+    }
+  },
+  {
+    "uri": "en/39/48293",
+    "id": "48293",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of berths for travel",
+    "harm": {
+      "id": "0047308",
+      "title": "48293 - Reservation of berths for travel",
+      "conceptLink": "/ec2/concept/5994658"
+    }
+  },
+  {
+    "uri": "en/39/836626",
+    "id": "836626",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of coach transport",
+    "harm": {
+      "id": "0032908",
+      "title": "836626 - Reservation of coach transport",
+      "conceptLink": "/ec2/concept/5981569"
+    }
+  },
+  {
+    "uri": "en/39/836639",
+    "id": "836639",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of ferry transport",
+    "harm": {
+      "id": "0027150",
+      "title": "836639 - Reservation of ferry transport",
+      "conceptLink": "/ec2/concept/5976292"
+    }
+  },
+  {
+    "uri": "en/39/836651",
+    "id": "836651",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of rail transport",
+    "harm": {
+      "id": "0032909",
+      "title": "836651 - Reservation of rail transport",
+      "conceptLink": "/ec2/concept/5981570"
+    }
+  },
+  {
+    "uri": "en/39/48294",
+    "id": "48294",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation of seats for travel",
+    "harm": {
+      "id": "0047596",
+      "title": "48294 - Reservation of seats for travel",
+      "conceptLink": "/ec2/concept/5994879"
+    }
+  },
+  {
+    "uri": "en/39/836765",
+    "id": "836765",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for travel by land",
+    "harm": {
+      "id": "0021526",
+      "title": "836765 - Reservation services for travel by land",
+      "conceptLink": "/ec2/concept/5971155"
+    }
+  },
+  {
+    "uri": "en/39/836692",
+    "id": "836692",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for bus transportation",
+    "harm": {
+      "id": "0004078",
+      "title": "836692 - Reservation services for bus transportation",
+      "conceptLink": "/ec2/concept/5955173"
+    }
+  },
+  {
+    "uri": "en/39/836729",
+    "id": "836729",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for transportation by land",
+    "harm": {
+      "id": "0004079",
+      "title": "836729 - Reservation services for transportation by land",
+      "conceptLink": "/ec2/concept/5955174"
+    }
+  },
+  {
+    "uri": "en/39/836705",
+    "id": "836705",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for transportation by air",
+    "harm": {
+      "id": "0009809",
+      "title": "836705 - Reservation services for transportation by air",
+      "conceptLink": "/ec2/concept/5960436"
+    }
+  },
+  {
+    "uri": "en/39/836743",
+    "id": "836743",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for travel by sea",
+    "harm": {
+      "id": "0009810",
+      "title": "836743 - Reservation services for travel by sea",
+      "conceptLink": "/ec2/concept/5960437"
+    }
+  },
+  {
+    "uri": "en/39/836666",
+    "id": "836666",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for air travel",
+    "harm": {
+      "id": "0032910",
+      "title": "836666 - Reservation services for air travel",
+      "conceptLink": "/ec2/concept/5981571"
+    }
+  },
+  {
+    "uri": "en/39/836667",
+    "id": "836667",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for travel by air",
+    "harm": {
+      "id": "0032910",
+      "title": "836667 - Reservation services for travel by air",
+      "conceptLink": "/ec2/concept/5981571"
+    }
+  },
+  {
+    "uri": "en/39/836668",
+    "id": "836668",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for airline travel",
+    "harm": {
+      "id": "0032910",
+      "title": "836668 - Reservation services for airline travel",
+      "conceptLink": "/ec2/concept/5981571"
+    }
+  },
+  {
+    "uri": "en/39/836717",
+    "id": "836717",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for transportation by boat",
+    "harm": {
+      "id": "0027151",
+      "title": "836717 - Reservation services for transportation by boat",
+      "conceptLink": "/ec2/concept/5976293"
+    }
+  },
+  {
+    "uri": "en/39/120890435",
+    "id": "120890435",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for vehicle rental",
+    "harm": {
+      "id": "0068603",
+      "title": "120890435 - Reservation services for vehicle rental",
+      "conceptLink": "/ec2/concept/6004806"
+    }
+  },
+  {
+    "uri": "en/39/459872",
+    "id": "459872",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for travel",
+    "harm": {
+      "id": "0012010",
+      "title": "459872 - Reservation services for travel",
+      "conceptLink": "/ec2/concept/5962456"
+    }
+  },
+  {
+    "uri": "en/39/459878",
+    "id": "459878",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for tours",
+    "harm": {
+      "id": "0043989",
+      "title": "459878 - Reservation services for tours",
+      "conceptLink": "/ec2/concept/5991673"
+    }
+  },
+  {
+    "uri": "en/39/49602",
+    "id": "49602",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for transportation",
+    "harm": {
+      "id": "0047326",
+      "title": "49602 - Reservation services for transportation",
+      "conceptLink": "/ec2/concept/5994673"
+    }
+  },
+  {
+    "uri": "en/39/460458",
+    "id": "460458",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for booking seats [travel]",
+    "harm": {
+      "id": "0047596",
+      "title": "460458 - Reservation services for booking seats [travel]",
+      "conceptLink": "/ec2/concept/5994879"
+    }
+  },
+  {
+    "uri": "en/39/836744",
+    "id": "836744",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation services for transportation by sea",
+    "harm": {
+      "id": "0046741",
+      "title": "836744 - Reservation services for transportation by sea",
+      "conceptLink": "/ec2/concept/5994149"
+    }
+  },
+  {
+    "uri": "en/39/49599",
+    "id": "49599",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation (Transport -)",
+    "harm": {
+      "id": "0047326",
+      "title": "49599 - Reservation (Transport -)",
+      "conceptLink": "/ec2/concept/5994673"
+    }
+  },
+  {
+    "uri": "en/39/48287",
+    "id": "48287",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Reservation (Travel -)",
+    "harm": {
+      "id": "0012010",
+      "title": "48287 - Reservation (Travel -)",
+      "conceptLink": "/ec2/concept/5962456"
+    }
+  },
+  {
+    "uri": "en/39/46938",
+    "id": "46938",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "River transport",
+    "harm": {
+      "id": "0035867",
+      "title": "46938 - River transport",
+      "conceptLink": "/ec2/concept/5984264"
+    }
+  },
+  {
+    "uri": "en/39/459953",
+    "id": "459953",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "River transport by boat",
+    "harm": {
+      "id": "0026307",
+      "title": "459953 - River transport by boat",
+      "conceptLink": "/ec2/concept/5975547"
+    }
+  },
+  {
+    "uri": "en/39/46939",
+    "id": "46939",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "River transport services",
+    "harm": {
+      "id": "0035867",
+      "title": "46939 - River transport services",
+      "conceptLink": "/ec2/concept/5984264"
+    }
+  },
+  {
+    "uri": "en/39/836779",
+    "id": "836779",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road delivery of parcels",
+    "harm": {
+      "id": "0018399",
+      "title": "836779 - Road delivery of parcels",
+      "conceptLink": "/ec2/concept/5968297"
+    }
+  },
+  {
+    "uri": "en/39/832860",
+    "id": "832860",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road freight services",
+    "harm": {
+      "id": "0037525",
+      "title": "832860 - Road freight services",
+      "conceptLink": "/ec2/concept/5985769"
+    }
+  },
+  {
+    "uri": "en/39/833826",
+    "id": "833826",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road haulage services",
+    "harm": {
+      "id": "0025890",
+      "title": "833826 - Road haulage services",
+      "conceptLink": "/ec2/concept/5975161"
+    }
+  },
+  {
+    "uri": "en/39/836791",
+    "id": "836791",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road haulage services for containers",
+    "harm": {
+      "id": "0043273",
+      "title": "836791 - Road haulage services for containers",
+      "conceptLink": "/ec2/concept/5991013"
+    }
+  },
+  {
+    "uri": "en/39/836803",
+    "id": "836803",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road rescue [transport] services",
+    "harm": {
+      "id": "0002837",
+      "title": "836803 - Road rescue [transport] services",
+      "conceptLink": "/ec2/concept/5954041"
+    }
+  },
+  {
+    "uri": "en/39/834461",
+    "id": "834461",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road trailer leasing services",
+    "harm": {
+      "id": "0043274",
+      "title": "834461 - Road trailer leasing services",
+      "conceptLink": "/ec2/concept/5991014"
+    }
+  },
+  {
+    "uri": "en/39/459124",
+    "id": "459124",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road transport services",
+    "harm": {
+      "id": "0037525",
+      "title": "459124 - Road transport services",
+      "conceptLink": "/ec2/concept/5985769"
+    }
+  },
+  {
+    "uri": "en/39/836818",
+    "id": "836818",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road transport services for persons",
+    "harm": {
+      "id": "0031697",
+      "title": "836818 - Road transport services for persons",
+      "conceptLink": "/ec2/concept/5980468"
+    }
+  },
+  {
+    "uri": "en/39/835198",
+    "id": "835198",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Road transport services for passengers",
+    "harm": {
+      "id": "0001979",
+      "title": "835198 - Road transport services for passengers",
+      "conceptLink": "/ec2/concept/5953270"
+    }
+  },
+  {
+    "uri": "en/39/125059214",
+    "id": "125059214",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Roadways (Portable, rental of -)",
+    "harm": {
+      "id": "0007981",
+      "title": "125059214 - Roadways (Portable, rental of -)",
+      "conceptLink": "/ec2/concept/5958762"
+    }
+  },
+  {
+    "uri": "en/39/49496",
+    "id": "49496",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Roof racks (Rental of vehicle -)",
+    "harm": {
+      "id": "0057089",
+      "title": "49496 - Roof racks (Rental of vehicle -)",
+      "conceptLink": "/ec2/concept/5998721"
+    }
+  },
+  {
+    "uri": "en/39/459966",
+    "id": "459966",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Route planning [navigation services]",
+    "harm": {
+      "id": "0032098",
+      "title": "459966 - Route planning [navigation services]",
+      "conceptLink": "/ec2/concept/5980835"
+    }
+  },
+  {
+    "uri": "en/39/834326",
+    "id": "834326",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Route planning services",
+    "harm": {
+      "id": "0025891",
+      "title": "834326 - Route planning services",
+      "conceptLink": "/ec2/concept/5975162"
+    }
+  },
+  {
+    "uri": "en/39/459982",
+    "id": "459982",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Sailboat transportation services",
+    "harm": {
+      "id": "0026308",
+      "title": "459982 - Sailboat transportation services",
+      "conceptLink": "/ec2/concept/5975548"
+    }
+  },
+  {
+    "uri": "en/39/125059743",
+    "id": "125059743",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage diving apparatus (Rental of -)",
+    "harm": {
+      "id": "0031698",
+      "title": "125059743 - Salvage diving apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5980469"
+    }
+  },
+  {
+    "uri": "en/39/833395",
+    "id": "833395",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage diving services",
+    "harm": {
+      "id": "0020235",
+      "title": "833395 - Salvage diving services",
+      "conceptLink": "/ec2/concept/5969976"
+    }
+  },
+  {
+    "uri": "en/39/460618",
+    "id": "460618",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage of motor vehicles",
+    "harm": {
+      "id": "0014404",
+      "title": "460618 - Salvage of motor vehicles",
+      "conceptLink": "/ec2/concept/5964648"
+    }
+  },
+  {
+    "uri": "en/39/45305",
+    "id": "45305",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage of ships",
+    "harm": {
+      "id": "0057733",
+      "title": "45305 - Salvage of ships",
+      "conceptLink": "/ec2/concept/5999237"
+    }
+  },
+  {
+    "uri": "en/39/836844",
+    "id": "836844",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage of ships cargo",
+    "harm": {
+      "id": "0043275",
+      "title": "836844 - Salvage of ships cargo",
+      "conceptLink": "/ec2/concept/5991015"
+    }
+  },
+  {
+    "uri": "en/39/836859",
+    "id": "836859",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage of wrecks",
+    "harm": {
+      "id": "0008544",
+      "title": "836859 - Salvage of wrecks",
+      "conceptLink": "/ec2/concept/5959271"
+    }
+  },
+  {
+    "uri": "en/39/836872",
+    "id": "836872",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage of yachts",
+    "harm": {
+      "id": "0025892",
+      "title": "836872 - Salvage of yachts",
+      "conceptLink": "/ec2/concept/5975163"
+    }
+  },
+  {
+    "uri": "en/39/48435",
+    "id": "48435",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage services",
+    "harm": {
+      "id": "0058678",
+      "title": "48435 - Salvage services",
+      "conceptLink": "/ec2/concept/6000171"
+    }
+  },
+  {
+    "uri": "en/39/49659",
+    "id": "49659",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvage (Underwater -)",
+    "harm": {
+      "id": "0046416",
+      "title": "49659 - Salvage (Underwater -)",
+      "conceptLink": "/ec2/concept/5993869"
+    }
+  },
+  {
+    "uri": "en/39/48434",
+    "id": "48434",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvaging",
+    "harm": {
+      "id": "0058678",
+      "title": "48434 - Salvaging",
+      "conceptLink": "/ec2/concept/6000171"
+    }
+  },
+  {
+    "uri": "en/39/48436",
+    "id": "48436",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Salvaging services",
+    "harm": {
+      "id": "0058678",
+      "title": "48436 - Salvaging services",
+      "conceptLink": "/ec2/concept/6000171"
+    }
+  },
+  {
+    "uri": "en/39/836884",
+    "id": "836884",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Scheduled passenger airline services",
+    "harm": {
+      "id": "0018062",
+      "title": "836884 - Scheduled passenger airline services",
+      "conceptLink": "/ec2/concept/5967989"
+    }
+  },
+  {
+    "uri": "en/39/836899",
+    "id": "836899",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Sea freight forwarding services",
+    "harm": {
+      "id": "0046468",
+      "title": "836899 - Sea freight forwarding services",
+      "conceptLink": "/ec2/concept/5993915"
+    }
+  },
+  {
+    "uri": "en/39/486984",
+    "id": "486984",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Sea freight services",
+    "harm": {
+      "id": "0046509",
+      "title": "486984 - Sea freight services",
+      "conceptLink": "/ec2/concept/5993948"
+    }
+  },
+  {
+    "uri": "en/39/370833",
+    "id": "370833",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Sea towage services",
+    "harm": {
+      "id": "0059405",
+      "title": "370833 - Sea towage services",
+      "conceptLink": "/ec2/concept/6000883"
+    }
+  }
+]

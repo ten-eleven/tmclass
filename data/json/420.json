@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/19/612643",
+    "id": "612643",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fire surrounds [mantles and mantlepieces] of wood",
+    "harm": {
+      "id": "0022285",
+      "title": "612643 - Fire surrounds [mantles and mantlepieces] of wood",
+      "conceptLink": "/ec2/concept/5971853"
+    }
+  },
+  {
+    "uri": "en/19/612629",
+    "id": "612629",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fire surrounds [mantles and mantlepieces] of stone",
+    "harm": {
+      "id": "0039472",
+      "title": "612629 - Fire surrounds [mantles and mantlepieces] of stone",
+      "conceptLink": "/ec2/concept/5987543"
+    }
+  },
+  {
+    "uri": "en/19/612615",
+    "id": "612615",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fire surrounds [mantles and mantlepieces] of plastic",
+    "harm": {
+      "id": "0045214",
+      "title": "612615 - Fire surrounds [mantles and mantlepieces] of plastic",
+      "conceptLink": "/ec2/concept/5992798"
+    }
+  },
+  {
+    "uri": "en/19/612571",
+    "id": "612571",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fire surrounds [mantles and mantlepieces] of marble",
+    "harm": {
+      "id": "0042223",
+      "title": "612571 - Fire surrounds [mantles and mantlepieces] of marble",
+      "conceptLink": "/ec2/concept/5990061"
+    }
+  },
+  {
+    "uri": "en/19/228448",
+    "id": "228448",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireclay",
+    "harm": {
+      "id": "0026164",
+      "title": "228448 - Fireclay",
+      "conceptLink": "/ec2/concept/5975413"
+    }
+  },
+  {
+    "uri": "en/19/228066",
+    "id": "228066",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fired bricks",
+    "harm": {
+      "id": "0072340",
+      "title": "228066 - Fired bricks",
+      "conceptLink": "/ec2/concept/6008523"
+    }
+  },
+  {
+    "uri": "en/19/789820",
+    "id": "789820",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fired refractory materials, not of metal",
+    "harm": {
+      "id": "0024026",
+      "title": "789820 - Fired refractory materials, not of metal",
+      "conceptLink": "/ec2/concept/5973450"
+    }
+  },
+  {
+    "uri": "en/19/423652",
+    "id": "423652",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireplace bricks",
+    "harm": {
+      "id": "0044721",
+      "title": "423652 - Fireplace bricks",
+      "conceptLink": "/ec2/concept/5992342"
+    }
+  },
+  {
+    "uri": "en/19/228496",
+    "id": "228496",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireplace mantels",
+    "harm": {
+      "id": "0058469",
+      "title": "228496 - Fireplace mantels",
+      "conceptLink": "/ec2/concept/5999968"
+    }
+  },
+  {
+    "uri": "en/19/119693963",
+    "id": "119693963",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireplace mantles",
+    "harm": {
+      "id": "0058469",
+      "title": "119693963 - Fireplace mantles",
+      "conceptLink": "/ec2/concept/5999968"
+    }
+  },
+  {
+    "uri": "en/19/233575308",
+    "id": "233575308",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireplace mantles, not of metal",
+    "harm": {
+      "id": "0058469",
+      "title": "233575308 - Fireplace mantles, not of metal",
+      "conceptLink": "/ec2/concept/5999968"
+    }
+  },
+  {
+    "uri": "en/19/423665",
+    "id": "423665",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireplace surrounds",
+    "harm": {
+      "id": "0058468",
+      "title": "423665 - Fireplace surrounds",
+      "conceptLink": "/ec2/concept/5999967"
+    }
+  },
+  {
+    "uri": "en/19/580858",
+    "id": "580858",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof bricks",
+    "harm": {
+      "id": "0072340",
+      "title": "580858 - Fireproof bricks",
+      "conceptLink": "/ec2/concept/6008523"
+    }
+  },
+  {
+    "uri": "en/19/228780",
+    "id": "228780",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof cement coatings",
+    "harm": {
+      "id": "0043062",
+      "title": "228780 - Fireproof cement coatings",
+      "conceptLink": "/ec2/concept/5990819"
+    }
+  },
+  {
+    "uri": "en/19/228450",
+    "id": "228450",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof clays",
+    "harm": {
+      "id": "0026164",
+      "title": "228450 - Fireproof clays",
+      "conceptLink": "/ec2/concept/5975413"
+    }
+  },
+  {
+    "uri": "en/19/580744",
+    "id": "580744",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof doors, not of metal",
+    "harm": {
+      "id": "0038473",
+      "title": "580744 - Fireproof doors, not of metal",
+      "conceptLink": "/ec2/concept/5986639"
+    }
+  },
+  {
+    "uri": "en/19/124811256",
+    "id": "124811256",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof panels for use in building (Non-metallic -)",
+    "harm": {
+      "id": "0017196",
+      "title": "124811256 - Fireproof panels for use in building (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5967200"
+    }
+  },
+  {
+    "uri": "en/19/580889",
+    "id": "580889",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof seals in the nature of building materials",
+    "harm": {
+      "id": "0011396",
+      "title": "580889 - Fireproof seals in the nature of building materials",
+      "conceptLink": "/ec2/concept/5961885"
+    }
+  },
+  {
+    "uri": "en/19/347012",
+    "id": "347012",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fireproof tiles",
+    "harm": {
+      "id": "0066818",
+      "title": "347012 - Fireproof tiles",
+      "conceptLink": "/ec2/concept/6003021"
+    }
+  },
+  {
+    "uri": "en/19/233580194",
+    "id": "233580194",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flagpoles, not of metal",
+    "harm": {
+      "id": "0052279",
+      "title": "233580194 - Flagpoles, not of metal",
+      "conceptLink": "/ec2/concept/6011179"
+    }
+  },
+  {
+    "uri": "en/19/347511",
+    "id": "347511",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flagstones",
+    "harm": {
+      "id": "0026827",
+      "title": "347511 - Flagstones",
+      "conceptLink": "/ec2/concept/5976009"
+    }
+  },
+  {
+    "uri": "en/19/124811297",
+    "id": "124811297",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flashing frames (Non-metallic -)",
+    "harm": {
+      "id": "0034509",
+      "title": "124811297 - Flashing frames (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5983037"
+    }
+  },
+  {
+    "uri": "en/19/124811312",
+    "id": "124811312",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flashing holders (Non-metallic -)",
+    "harm": {
+      "id": "0028721",
+      "title": "124811312 - Flashing holders (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5977755"
+    }
+  },
+  {
+    "uri": "en/19/231398",
+    "id": "231398",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flashing, not of metal, for building",
+    "harm": {
+      "id": "0005785",
+      "title": "231398 - Flashing, not of metal, for building",
+      "conceptLink": "/ec2/concept/5956755"
+    }
+  },
+  {
+    "uri": "en/19/124811324",
+    "id": "124811324",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flashings (Non-metallic -) for waterproofing buildings",
+    "harm": {
+      "id": "0023062",
+      "title": "124811324 - Flashings (Non-metallic -) for waterproofing buildings",
+      "conceptLink": "/ec2/concept/5972556"
+    }
+  },
+  {
+    "uri": "en/19/580968",
+    "id": "580968",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Float glass for building",
+    "harm": {
+      "id": "0011397",
+      "title": "580968 - Float glass for building",
+      "conceptLink": "/ec2/concept/5961886"
+    }
+  },
+  {
+    "uri": "en/19/233216",
+    "id": "233216",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floating docks, not of metal, for mooring boats",
+    "harm": {
+      "id": "0024621",
+      "title": "233216 - Floating docks, not of metal, for mooring boats",
+      "conceptLink": "/ec2/concept/5973998"
+    }
+  },
+  {
+    "uri": "en/19/124811351",
+    "id": "124811351",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor boards (Non-metallic -)",
+    "harm": {
+      "id": "0019146",
+      "title": "124811351 - Floor boards (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5968991"
+    }
+  },
+  {
+    "uri": "en/19/581000",
+    "id": "581000",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor boards of non-metallic materials",
+    "harm": {
+      "id": "0024907",
+      "title": "581000 - Floor boards of non-metallic materials",
+      "conceptLink": "/ec2/concept/5974265"
+    }
+  },
+  {
+    "uri": "en/19/347024",
+    "id": "347024",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor boards [of wood]",
+    "harm": {
+      "id": "0023158",
+      "title": "347024 - Floor boards [of wood]",
+      "conceptLink": "/ec2/concept/5972646"
+    }
+  },
+  {
+    "uri": "en/19/230484",
+    "id": "230484",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor boards (Parquet -)",
+    "harm": {
+      "id": "0002846",
+      "title": "230484 - Floor boards (Parquet -)",
+      "conceptLink": "/ec2/concept/5954049"
+    }
+  },
+  {
+    "uri": "en/19/581014",
+    "id": "581014",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor coverings of wood",
+    "harm": {
+      "id": "0058505",
+      "title": "581014 - Floor coverings of wood",
+      "conceptLink": "/ec2/concept/6000004"
+    }
+  },
+  {
+    "uri": "en/19/581040",
+    "id": "581040",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor drainage channels made of non-metallic materials",
+    "harm": {
+      "id": "0019147",
+      "title": "581040 - Floor drainage channels made of non-metallic materials",
+      "conceptLink": "/ec2/concept/5968992"
+    }
+  },
+  {
+    "uri": "en/19/581054",
+    "id": "581054",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor drains of non-metallic materials",
+    "harm": {
+      "id": "0001753",
+      "title": "581054 - Floor drains of non-metallic materials",
+      "conceptLink": "/ec2/concept/5953061"
+    }
+  },
+  {
+    "uri": "en/19/581066",
+    "id": "581066",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor screed",
+    "harm": {
+      "id": "0013321",
+      "title": "581066 - Floor screed",
+      "conceptLink": "/ec2/concept/5963647"
+    }
+  },
+  {
+    "uri": "en/19/124489935",
+    "id": "124489935",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor tiles (Non-metallic -) for building",
+    "harm": {
+      "id": "0024909",
+      "title": "124489935 - Floor tiles (Non-metallic -) for building",
+      "conceptLink": "/ec2/concept/5974267"
+    }
+  },
+  {
+    "uri": "en/19/234033",
+    "id": "234033",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor tiles, not of metal",
+    "harm": {
+      "id": "0072342",
+      "title": "234033 - Floor tiles, not of metal",
+      "conceptLink": "/ec2/concept/6008525"
+    }
+  },
+  {
+    "uri": "en/19/347041",
+    "id": "347041",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floor tiles of wood",
+    "harm": {
+      "id": "0040406",
+      "title": "347041 - Floor tiles of wood",
+      "conceptLink": "/ec2/concept/5988400"
+    }
+  },
+  {
+    "uri": "en/19/903831",
+    "id": "903831",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floorboards",
+    "harm": {
+      "id": "0003025",
+      "title": "903831 - Floorboards",
+      "conceptLink": "/ec2/concept/5954216"
+    }
+  },
+  {
+    "uri": "en/19/581015",
+    "id": "581015",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring made of wood",
+    "harm": {
+      "id": "0058505",
+      "title": "581015 - Flooring made of wood",
+      "conceptLink": "/ec2/concept/6000004"
+    }
+  },
+  {
+    "uri": "en/19/124488012",
+    "id": "124488012",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring materials (Non-metallic -)",
+    "harm": {
+      "id": "0024907",
+      "title": "124488012 - Flooring materials (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5974265"
+    }
+  },
+  {
+    "uri": "en/19/124488011",
+    "id": "124488011",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring (Non-metallic -)",
+    "harm": {
+      "id": "0024907",
+      "title": "124488011 - Flooring (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5974265"
+    }
+  },
+  {
+    "uri": "en/19/230666",
+    "id": "230666",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring (Parquet -)",
+    "harm": {
+      "id": "0057488",
+      "title": "230666 - Flooring (Parquet -)",
+      "conceptLink": "/ec2/concept/5998994"
+    }
+  },
+  {
+    "uri": "en/19/581067",
+    "id": "581067",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring screeds",
+    "harm": {
+      "id": "0013321",
+      "title": "581067 - Flooring screeds",
+      "conceptLink": "/ec2/concept/5963647"
+    }
+  },
+  {
+    "uri": "en/19/124811412",
+    "id": "124811412",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring tiles (Non-metallic -)",
+    "harm": {
+      "id": "0036601",
+      "title": "124811412 - Flooring tiles (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5984929"
+    }
+  },
+  {
+    "uri": "en/19/137869023",
+    "id": "137869023",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring underlay",
+    "harm": {
+      "id": "0066811",
+      "title": "137869023 - Flooring underlay",
+      "conceptLink": "/ec2/concept/6003014"
+    }
+  },
+  {
+    "uri": "en/19/120909279",
+    "id": "120909279",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring underlay made of cork",
+    "harm": {
+      "id": "0066810",
+      "title": "120909279 - Flooring underlay made of cork",
+      "conceptLink": "/ec2/concept/6003013"
+    }
+  },
+  {
+    "uri": "en/19/120909286",
+    "id": "120909286",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flooring underlays",
+    "harm": {
+      "id": "0066811",
+      "title": "120909286 - Flooring underlays",
+      "conceptLink": "/ec2/concept/6003014"
+    }
+  },
+  {
+    "uri": "en/19/231927",
+    "id": "231927",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Floors, not of metal",
+    "harm": {
+      "id": "0024907",
+      "title": "231927 - Floors, not of metal",
+      "conceptLink": "/ec2/concept/5974265"
+    }
+  },
+  {
+    "uri": "en/19/124811428",
+    "id": "124811428",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flues (Non-metallic -) for use in building",
+    "harm": {
+      "id": "0039914",
+      "title": "124811428 - Flues (Non-metallic -) for use in building",
+      "conceptLink": "/ec2/concept/5987954"
+    }
+  },
+  {
+    "uri": "en/19/135988482",
+    "id": "135988482",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Flyscreens (non-metallic)",
+    "harm": {
+      "id": "0050218",
+      "title": "135988482 - Flyscreens (non-metallic)",
+      "conceptLink": "/ec2/concept/5995477"
+    }
+  },
+  {
+    "uri": "en/19/119538283",
+    "id": "119538283",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foam glass for building",
+    "harm": {
+      "id": "0056119",
+      "title": "119538283 - Foam glass for building",
+      "conceptLink": "/ec2/concept/5997470"
+    }
+  },
+  {
+    "uri": "en/19/580208",
+    "id": "580208",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foam plastic for use in building",
+    "harm": {
+      "id": "0022717",
+      "title": "580208 - Foam plastic for use in building",
+      "conceptLink": "/ec2/concept/5972249"
+    }
+  },
+  {
+    "uri": "en/19/581099",
+    "id": "581099",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foam plastic for use in construction",
+    "harm": {
+      "id": "0022717",
+      "title": "581099 - Foam plastic for use in construction",
+      "conceptLink": "/ec2/concept/5972249"
+    }
+  },
+  {
+    "uri": "en/19/227570",
+    "id": "227570",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Folding doors, not of metal",
+    "harm": {
+      "id": "0018662",
+      "title": "227570 - Folding doors, not of metal",
+      "conceptLink": "/ec2/concept/5968544"
+    }
+  },
+  {
+    "uri": "en/19/347056",
+    "id": "347056",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Footing stone",
+    "harm": {
+      "id": "0011496",
+      "title": "347056 - Footing stone",
+      "conceptLink": "/ec2/concept/5961975"
+    }
+  },
+  {
+    "uri": "en/19/581112",
+    "id": "581112",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Footpaths of non-metallic materials",
+    "harm": {
+      "id": "0033030",
+      "title": "581112 - Footpaths of non-metallic materials",
+      "conceptLink": "/ec2/concept/5981684"
+    }
+  },
+  {
+    "uri": "en/19/124811464",
+    "id": "124811464",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Forms (Non-metallic -) for concrete",
+    "harm": {
+      "id": "0045661",
+      "title": "124811464 - Forms (Non-metallic -) for concrete",
+      "conceptLink": "/ec2/concept/5993203"
+    }
+  },
+  {
+    "uri": "en/19/124487612",
+    "id": "124487612",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Formwork (Non-metallic -)",
+    "harm": {
+      "id": "0046429",
+      "title": "124487612 - Formwork (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5993882"
+    }
+  },
+  {
+    "uri": "en/19/124811481",
+    "id": "124811481",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foundation material (Non-metallic -) for use in building",
+    "harm": {
+      "id": "0016853",
+      "title": "124811481 - Foundation material (Non-metallic -) for use in building",
+      "conceptLink": "/ec2/concept/5966895"
+    }
+  },
+  {
+    "uri": "en/19/124811482",
+    "id": "124811482",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foundation material (Non-metallic -) for use in construction",
+    "harm": {
+      "id": "0016853",
+      "title": "124811482 - Foundation material (Non-metallic -) for use in construction",
+      "conceptLink": "/ec2/concept/5966895"
+    }
+  },
+  {
+    "uri": "en/19/230011",
+    "id": "230011",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foundry molds [moulds], not of metal",
+    "harm": {
+      "id": "0040624",
+      "title": "230011 - Foundry molds [moulds], not of metal",
+      "conceptLink": "/ec2/concept/5988604"
+    }
+  },
+  {
+    "uri": "en/19/124486175",
+    "id": "124486175",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Foundry moulds (Non-metallic -)",
+    "harm": {
+      "id": "0040624",
+      "title": "124486175 - Foundry moulds (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5988604"
+    }
+  },
+  {
+    "uri": "en/19/124489714",
+    "id": "124489714",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for doors",
+    "harm": {
+      "id": "0013514",
+      "title": "124489714 - Frames (Non-metallic -) for doors",
+      "conceptLink": "/ec2/concept/5963822"
+    }
+  },
+  {
+    "uri": "en/19/124811504",
+    "id": "124811504",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for glazed doors",
+    "harm": {
+      "id": "0024884",
+      "title": "124811504 - Frames (Non-metallic -) for glazed doors",
+      "conceptLink": "/ec2/concept/5974244"
+    }
+  },
+  {
+    "uri": "en/19/124811528",
+    "id": "124811528",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for glazed windows",
+    "harm": {
+      "id": "0058561",
+      "title": "124811528 - Frames (Non-metallic -) for glazed windows",
+      "conceptLink": "/ec2/concept/6000054"
+    }
+  },
+  {
+    "uri": "en/19/124811548",
+    "id": "124811548",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for porches",
+    "harm": {
+      "id": "0015076",
+      "title": "124811548 - Frames (Non-metallic -) for porches",
+      "conceptLink": "/ec2/concept/5965257"
+    }
+  },
+  {
+    "uri": "en/19/124811570",
+    "id": "124811570",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for shop fronts",
+    "harm": {
+      "id": "0009215",
+      "title": "124811570 - Frames (Non-metallic -) for shop fronts",
+      "conceptLink": "/ec2/concept/5959893"
+    }
+  },
+  {
+    "uri": "en/19/124811584",
+    "id": "124811584",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for skylights",
+    "harm": {
+      "id": "0043888",
+      "title": "124811584 - Frames (Non-metallic -) for skylights",
+      "conceptLink": "/ec2/concept/5991577"
+    }
+  },
+  {
+    "uri": "en/19/124811596",
+    "id": "124811596",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for use with partitions",
+    "harm": {
+      "id": "0026574",
+      "title": "124811596 - Frames (Non-metallic -) for use with partitions",
+      "conceptLink": "/ec2/concept/5975785"
+    }
+  },
+  {
+    "uri": "en/19/124811549",
+    "id": "124811549",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frames (Non-metallic -) for verandas",
+    "harm": {
+      "id": "0015076",
+      "title": "124811549 - Frames (Non-metallic -) for verandas",
+      "conceptLink": "/ec2/concept/5965257"
+    }
+  },
+  {
+    "uri": "en/19/28469006",
+    "id": "28469006",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Framework for building, not of metal",
+    "harm": {
+      "id": "0002717",
+      "title": "28469006 - Framework for building, not of metal",
+      "conceptLink": "/ec2/concept/5953934"
+    }
+  },
+  {
+    "uri": "en/19/228551",
+    "id": "228551",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Framework, not of metal, for building",
+    "harm": {
+      "id": "0002717",
+      "title": "228551 - Framework, not of metal, for building",
+      "conceptLink": "/ec2/concept/5953934"
+    }
+  },
+  {
+    "uri": "en/19/581300",
+    "id": "581300",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Frescos",
+    "harm": {
+      "id": "0038158",
+      "title": "581300 - Frescos",
+      "conceptLink": "/ec2/concept/5986344"
+    }
+  },
+  {
+    "uri": "en/19/581312",
+    "id": "581312",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Friezes [non-metallic building elements]",
+    "harm": {
+      "id": "0015077",
+      "title": "581312 - Friezes [non-metallic building elements]",
+      "conceptLink": "/ec2/concept/5965258"
+    }
+  },
+  {
+    "uri": "en/19/581327",
+    "id": "581327",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Furnace linings of non-metallic materials",
+    "harm": {
+      "id": "0043889",
+      "title": "581327 - Furnace linings of non-metallic materials",
+      "conceptLink": "/ec2/concept/5991578"
+    }
+  },
+  {
+    "uri": "en/19/230044",
+    "id": "230044",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Furnaces (Cement for -)",
+    "harm": {
+      "id": "0000170",
+      "title": "230044 - Furnaces (Cement for -)",
+      "conceptLink": "/ec2/concept/5951645"
+    }
+  },
+  {
+    "uri": "en/19/227357",
+    "id": "227357",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Furrings of wood",
+    "harm": {
+      "id": "0039235",
+      "title": "227357 - Furrings of wood",
+      "conceptLink": "/ec2/concept/5987330"
+    }
+  },
+  {
+    "uri": "en/19/137789609",
+    "id": "137789609",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Fusuma [Japanese indoor sliding partitions, not of metal]",
+    "harm": {
+      "id": "0022295",
+      "title": "137789609 - Fusuma [Japanese indoor sliding partitions, not of metal]",
+      "conceptLink": "/ec2/concept/5971863"
+    }
+  },
+  {
+    "uri": "en/19/124811652",
+    "id": "124811652",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Garage doors (Non-metallic -) for domestic use",
+    "harm": {
+      "id": "0009216",
+      "title": "124811652 - Garage doors (Non-metallic -) for domestic use",
+      "conceptLink": "/ec2/concept/5959894"
+    }
+  },
+  {
+    "uri": "en/19/124810198",
+    "id": "124810198",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Garage doors (Non-metallic -)",
+    "harm": {
+      "id": "0019351",
+      "title": "124810198 - Garage doors (Non-metallic -)",
+      "conceptLink": "/ec2/concept/5969173"
+    }
+  },
+  {
+    "uri": "en/19/581354",
+    "id": "581354",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Garden sheds of non-metallic materials",
+    "harm": {
+      "id": "0038159",
+      "title": "581354 - Garden sheds of non-metallic materials",
+      "conceptLink": "/ec2/concept/5986345"
+    }
+  },
+  {
+    "uri": "en/19/581368",
+    "id": "581368",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Garden sheds of wood",
+    "harm": {
+      "id": "0028338",
+      "title": "581368 - Garden sheds of wood",
+      "conceptLink": "/ec2/concept/5977396"
+    }
+  },
+  {
+    "uri": "en/19/581384",
+    "id": "581384",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Garden stakes of non-metallic materials",
+    "harm": {
+      "id": "0016813",
+      "title": "581384 - Garden stakes of non-metallic materials",
+      "conceptLink": "/ec2/concept/5966856"
+    }
+  },
+  {
+    "uri": "en/19/232219",
+    "id": "232219",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Gates, not of metal",
+    "harm": {
+      "id": "0059165",
+      "title": "232219 - Gates, not of metal",
+      "conceptLink": "/ec2/concept/6000654"
+    }
+  },
+  {
+    "uri": "en/19/915183",
+    "id": "915183",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Gazebo [non-metallic structures]",
+    "harm": {
+      "id": "0034122",
+      "title": "915183 - Gazebo [non-metallic structures]",
+      "conceptLink": "/ec2/concept/5982687"
+    }
+  },
+  {
+    "uri": "en/19/234666",
+    "id": "234666",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Geotextiles",
+    "harm": {
+      "id": "0017326",
+      "title": "234666 - Geotextiles",
+      "conceptLink": "/ec2/concept/5967319"
+    }
+  },
+  {
+    "uri": "en/19/137831062",
+    "id": "137831062",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Geotextiles for erosion control",
+    "harm": {
+      "id": "0073009",
+      "title": "137831062 - Geotextiles for erosion control",
+      "conceptLink": "/ec2/concept/6009184"
+    }
+  },
+  {
+    "uri": "en/19/137831054",
+    "id": "137831054",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Geotextiles for use in landscaping",
+    "harm": {
+      "id": "0073010",
+      "title": "137831054 - Geotextiles for use in landscaping",
+      "conceptLink": "/ec2/concept/6009185"
+    }
+  },
+  {
+    "uri": "en/19/229823",
+    "id": "229823",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Girders, not of metal",
+    "harm": {
+      "id": "0058108",
+      "title": "229823 - Girders, not of metal",
+      "conceptLink": "/ec2/concept/5999609"
+    }
+  },
+  {
+    "uri": "en/19/229824",
+    "id": "229824",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Girders of non-metallic materials",
+    "harm": {
+      "id": "0058108",
+      "title": "229824 - Girders of non-metallic materials",
+      "conceptLink": "/ec2/concept/5999609"
+    }
+  },
+  {
+    "uri": "en/19/226879",
+    "id": "226879",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass (Alabaster -)",
+    "harm": {
+      "id": "0015116",
+      "title": "226879 - Glass (Alabaster -)",
+      "conceptLink": "/ec2/concept/5965294"
+    }
+  },
+  {
+    "uri": "en/19/423726",
+    "id": "423726",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass blocks for building",
+    "harm": {
+      "id": "0027437",
+      "title": "423726 - Glass blocks for building",
+      "conceptLink": "/ec2/concept/5976562"
+    }
+  },
+  {
+    "uri": "en/19/347067",
+    "id": "347067",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass bricks",
+    "harm": {
+      "id": "0028842",
+      "title": "347067 - Glass bricks",
+      "conceptLink": "/ec2/concept/5977870"
+    }
+  },
+  {
+    "uri": "en/19/228992",
+    "id": "228992",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass (Building -)",
+    "harm": {
+      "id": "0030626",
+      "title": "228992 - Glass (Building -)",
+      "conceptLink": "/ec2/concept/5979503"
+    }
+  },
+  {
+    "uri": "en/19/578244",
+    "id": "578244",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass building materials",
+    "harm": {
+      "id": "0021280",
+      "title": "578244 - Glass building materials",
+      "conceptLink": "/ec2/concept/5970933"
+    }
+  },
+  {
+    "uri": "en/19/490736",
+    "id": "490736",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass doors",
+    "harm": {
+      "id": "0044814",
+      "title": "490736 - Glass doors",
+      "conceptLink": "/ec2/concept/5992428"
+    }
+  },
+  {
+    "uri": "en/19/581399",
+    "id": "581399",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass elements for building panels",
+    "harm": {
+      "id": "0045619",
+      "title": "581399 - Glass elements for building panels",
+      "conceptLink": "/ec2/concept/5993163"
+    }
+  },
+  {
+    "uri": "en/19/581412",
+    "id": "581412",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass elements for windows",
+    "harm": {
+      "id": "0011016",
+      "title": "581412 - Glass elements for windows",
+      "conceptLink": "/ec2/concept/5961540"
+    }
+  },
+  {
+    "uri": "en/19/228991",
+    "id": "228991",
+    "lang": "en",
+    "classNumber": "19",
+    "term": "Glass for building",
+    "harm": {
+      "id": "0030626",
+      "title": "228991 - Glass for building",
+      "conceptLink": "/ec2/concept/5979503"
+    }
+  }
+]

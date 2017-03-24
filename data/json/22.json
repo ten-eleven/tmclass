@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/488488",
+    "id": "488488",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for food or drinks",
+    "harm": {
+      "id": "0021632",
+      "title": "488488 - Enzymes for food or drinks",
+      "conceptLink": "/ec2/concept/5971247"
+    }
+  },
+  {
+    "uri": "en/1/10399",
+    "id": "10399",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for industrial purposes",
+    "harm": {
+      "id": "0007447",
+      "title": "10399 - Enzymes for industrial purposes",
+      "conceptLink": "/ec2/concept/5958275"
+    }
+  },
+  {
+    "uri": "en/1/630743",
+    "id": "630743",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for removing resins from pulp in the paper fabrication industry",
+    "harm": {
+      "id": "0043026",
+      "title": "630743 - Enzymes for removing resins from pulp in the paper fabrication industry",
+      "conceptLink": "/ec2/concept/5990785"
+    }
+  },
+  {
+    "uri": "en/1/630755",
+    "id": "630755",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for scientific purposes",
+    "harm": {
+      "id": "0002586",
+      "title": "630755 - Enzymes for scientific purposes",
+      "conceptLink": "/ec2/concept/5953812"
+    }
+  },
+  {
+    "uri": "en/1/630768",
+    "id": "630768",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for technical use",
+    "harm": {
+      "id": "0031425",
+      "title": "630768 - Enzymes for technical use",
+      "conceptLink": "/ec2/concept/5980234"
+    }
+  },
+  {
+    "uri": "en/1/310454",
+    "id": "310454",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for the brewing industry",
+    "harm": {
+      "id": "0027179",
+      "title": "310454 - Enzymes for the brewing industry",
+      "conceptLink": "/ec2/concept/5976321"
+    }
+  },
+  {
+    "uri": "en/1/908508",
+    "id": "908508",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for the food industry",
+    "harm": {
+      "id": "0000717",
+      "title": "908508 - Enzymes for the food industry",
+      "conceptLink": "/ec2/concept/5952133"
+    }
+  },
+  {
+    "uri": "en/1/630781",
+    "id": "630781",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in binding",
+    "harm": {
+      "id": "0043027",
+      "title": "630781 - Enzymes for use in binding",
+      "conceptLink": "/ec2/concept/5990786"
+    }
+  },
+  {
+    "uri": "en/1/630794",
+    "id": "630794",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in colouring",
+    "harm": {
+      "id": "0014158",
+      "title": "630794 - Enzymes for use in colouring",
+      "conceptLink": "/ec2/concept/5964416"
+    }
+  },
+  {
+    "uri": "en/1/630807",
+    "id": "630807",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in drinks",
+    "harm": {
+      "id": "0014159",
+      "title": "630807 - Enzymes for use in drinks",
+      "conceptLink": "/ec2/concept/5964417"
+    }
+  },
+  {
+    "uri": "en/1/630820",
+    "id": "630820",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in fermentation",
+    "harm": {
+      "id": "0037273",
+      "title": "630820 - Enzymes for use in fermentation",
+      "conceptLink": "/ec2/concept/5985537"
+    }
+  },
+  {
+    "uri": "en/1/630832",
+    "id": "630832",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in flavouring",
+    "harm": {
+      "id": "0014160",
+      "title": "630832 - Enzymes for use in flavouring",
+      "conceptLink": "/ec2/concept/5964418"
+    }
+  },
+  {
+    "uri": "en/1/630844",
+    "id": "630844",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in foodstuffs",
+    "harm": {
+      "id": "0019992",
+      "title": "630844 - Enzymes for use in foodstuffs",
+      "conceptLink": "/ec2/concept/5969753"
+    }
+  },
+  {
+    "uri": "en/1/630857",
+    "id": "630857",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in ice cream",
+    "harm": {
+      "id": "0043028",
+      "title": "630857 - Enzymes for use in ice cream",
+      "conceptLink": "/ec2/concept/5990787"
+    }
+  },
+  {
+    "uri": "en/1/630869",
+    "id": "630869",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in isothermal amplifications [for industrial use]",
+    "harm": {
+      "id": "0024422",
+      "title": "630869 - Enzymes for use in isothermal amplifications [for industrial use]",
+      "conceptLink": "/ec2/concept/5973813"
+    }
+  },
+  {
+    "uri": "en/1/119520778",
+    "id": "119520778",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in protein hydrolysis",
+    "harm": {
+      "id": "0065024",
+      "title": "119520778 - Enzymes for use in protein hydrolysis",
+      "conceptLink": "/ec2/concept/6001227"
+    }
+  },
+  {
+    "uri": "en/1/119520779",
+    "id": "119520779",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in starch hydrolysis",
+    "harm": {
+      "id": "0065023",
+      "title": "119520779 - Enzymes for use in starch hydrolysis",
+      "conceptLink": "/ec2/concept/6001226"
+    }
+  },
+  {
+    "uri": "en/1/310467",
+    "id": "310467",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the bakery industry",
+    "harm": {
+      "id": "0027180",
+      "title": "310467 - Enzymes for use in the bakery industry",
+      "conceptLink": "/ec2/concept/5976322"
+    }
+  },
+  {
+    "uri": "en/1/20272784",
+    "id": "20272784",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the dairy industry",
+    "harm": {
+      "id": "0065017",
+      "title": "20272784 - Enzymes for use in the dairy industry",
+      "conceptLink": "/ec2/concept/6001220"
+    }
+  },
+  {
+    "uri": "en/1/903531",
+    "id": "903531",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the detergent industry",
+    "harm": {
+      "id": "0043045",
+      "title": "903531 - Enzymes for use in the detergent industry",
+      "conceptLink": "/ec2/concept/5990804"
+    }
+  },
+  {
+    "uri": "en/1/119520783",
+    "id": "119520783",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the manufacture of fruit juice",
+    "harm": {
+      "id": "0065020",
+      "title": "119520783 - Enzymes for use in the manufacture of fruit juice",
+      "conceptLink": "/ec2/concept/6001223"
+    }
+  },
+  {
+    "uri": "en/1/119520789",
+    "id": "119520789",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the manufacture of nutraceuticals",
+    "harm": {
+      "id": "0065016",
+      "title": "119520789 - Enzymes for use in the manufacture of nutraceuticals",
+      "conceptLink": "/ec2/concept/6001219"
+    }
+  },
+  {
+    "uri": "en/1/119520784",
+    "id": "119520784",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the manufacture of pet food",
+    "harm": {
+      "id": "0065019",
+      "title": "119520784 - Enzymes for use in the manufacture of pet food",
+      "conceptLink": "/ec2/concept/6001222"
+    }
+  },
+  {
+    "uri": "en/1/119520781",
+    "id": "119520781",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the processing of sugar cane",
+    "harm": {
+      "id": "0065022",
+      "title": "119520781 - Enzymes for use in the processing of sugar cane",
+      "conceptLink": "/ec2/concept/6001225"
+    }
+  },
+  {
+    "uri": "en/1/119520785",
+    "id": "119520785",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the processing of food by-products",
+    "harm": {
+      "id": "0065018",
+      "title": "119520785 - Enzymes for use in the processing of food by-products",
+      "conceptLink": "/ec2/concept/6001221"
+    }
+  },
+  {
+    "uri": "en/1/630880",
+    "id": "630880",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the tanning industry",
+    "harm": {
+      "id": "0018632",
+      "title": "630880 - Enzymes for use in the tanning industry",
+      "conceptLink": "/ec2/concept/5968514"
+    }
+  },
+  {
+    "uri": "en/1/119520782",
+    "id": "119520782",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in the tanning of leather",
+    "harm": {
+      "id": "0065021",
+      "title": "119520782 - Enzymes for use in the tanning of leather",
+      "conceptLink": "/ec2/concept/6001224"
+    }
+  },
+  {
+    "uri": "en/1/137771651",
+    "id": "137771651",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes for use in water treatment",
+    "harm": {
+      "id": "0073391",
+      "title": "137771651 - Enzymes for use in water treatment",
+      "conceptLink": "/ec2/concept/6009564"
+    }
+  },
+  {
+    "uri": "en/1/630893",
+    "id": "630893",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes in liquid form for industrial use",
+    "harm": {
+      "id": "0018633",
+      "title": "630893 - Enzymes in liquid form for industrial use",
+      "conceptLink": "/ec2/concept/5968515"
+    }
+  },
+  {
+    "uri": "en/1/630716",
+    "id": "630716",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] in detecting proteins",
+    "harm": {
+      "id": "0002585",
+      "title": "630716 - Enzymes [other than for medical use] in detecting proteins",
+      "conceptLink": "/ec2/concept/5953811"
+    }
+  },
+  {
+    "uri": "en/1/630689",
+    "id": "630689",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for use in the continuous homogenous isothermal amplifications of specific dna templates",
+    "harm": {
+      "id": "0037271",
+      "title": "630689 - Enzymes [other than for medical use] for use in the continuous homogenous isothermal amplifications of specific dna templates",
+      "conceptLink": "/ec2/concept/5985535"
+    }
+  },
+  {
+    "uri": "en/1/630704",
+    "id": "630704",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for use in the continuous homogenous isothermal amplifications of specific rna templates",
+    "harm": {
+      "id": "0031424",
+      "title": "630704 - Enzymes [other than for medical use] for use in the continuous homogenous isothermal amplifications of specific rna templates",
+      "conceptLink": "/ec2/concept/5980233"
+    }
+  },
+  {
+    "uri": "en/1/630619",
+    "id": "630619",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for detecting protein fractions",
+    "harm": {
+      "id": "0043025",
+      "title": "630619 - Enzymes [other than for medical use] for detecting protein fractions",
+      "conceptLink": "/ec2/concept/5990784"
+    }
+  },
+  {
+    "uri": "en/1/630604",
+    "id": "630604",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical or veterinary use]",
+    "harm": {
+      "id": "0043024",
+      "title": "630604 - Enzymes [other than for medical or veterinary use]",
+      "conceptLink": "/ec2/concept/5990783"
+    }
+  },
+  {
+    "uri": "en/1/630647",
+    "id": "630647",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for labelling proteins",
+    "harm": {
+      "id": "0025673",
+      "title": "630647 - Enzymes [other than for medical use] for labelling proteins",
+      "conceptLink": "/ec2/concept/5974962"
+    }
+  },
+  {
+    "uri": "en/1/630633",
+    "id": "630633",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for labelling protein fractions",
+    "harm": {
+      "id": "0025672",
+      "title": "630633 - Enzymes [other than for medical use] for labelling protein fractions",
+      "conceptLink": "/ec2/concept/5974961"
+    }
+  },
+  {
+    "uri": "en/1/630675",
+    "id": "630675",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for measuring proteins",
+    "harm": {
+      "id": "0025675",
+      "title": "630675 - Enzymes [other than for medical use] for measuring proteins",
+      "conceptLink": "/ec2/concept/5974964"
+    }
+  },
+  {
+    "uri": "en/1/630661",
+    "id": "630661",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes [other than for medical use] for measuring protein fractions",
+    "harm": {
+      "id": "0025674",
+      "title": "630661 - Enzymes [other than for medical use] for measuring protein fractions",
+      "conceptLink": "/ec2/concept/5974963"
+    }
+  },
+  {
+    "uri": "en/1/119520792",
+    "id": "119520792",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Enzymes to assist in digestion for use in the manufacture of animal feeds",
+    "harm": {
+      "id": "0065026",
+      "title": "119520792 - Enzymes to assist in digestion for use in the manufacture of animal feeds",
+      "conceptLink": "/ec2/concept/6001229"
+    }
+  },
+  {
+    "uri": "en/1/630905",
+    "id": "630905",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Epoxide adhesives for use with concrete",
+    "harm": {
+      "id": "0012842",
+      "title": "630905 - Epoxide adhesives for use with concrete",
+      "conceptLink": "/ec2/concept/5963214"
+    }
+  },
+  {
+    "uri": "en/1/377445",
+    "id": "377445",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Epoxy glue for general bonding and repair purposes",
+    "harm": {
+      "id": "0023635",
+      "title": "377445 - Epoxy glue for general bonding and repair purposes",
+      "conceptLink": "/ec2/concept/5973087"
+    }
+  },
+  {
+    "uri": "en/1/377459",
+    "id": "377459",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Epoxy resin based preparations for use on wood",
+    "harm": {
+      "id": "0012029",
+      "title": "377459 - Epoxy resin based preparations for use on wood",
+      "conceptLink": "/ec2/concept/5962473"
+    }
+  },
+  {
+    "uri": "en/1/310481",
+    "id": "310481",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Epoxy resins",
+    "harm": {
+      "id": "0032933",
+      "title": "310481 - Epoxy resins",
+      "conceptLink": "/ec2/concept/5981592"
+    }
+  },
+  {
+    "uri": "en/1/10434",
+    "id": "10434",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Epoxy resins, unprocessed",
+    "harm": {
+      "id": "0001283",
+      "title": "10434 - Epoxy resins, unprocessed",
+      "conceptLink": "/ec2/concept/5952640"
+    }
+  },
+  {
+    "uri": "en/1/10512",
+    "id": "10512",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Erbium",
+    "harm": {
+      "id": "0019103",
+      "title": "10512 - Erbium",
+      "conceptLink": "/ec2/concept/5968954"
+    }
+  },
+  {
+    "uri": "en/1/310501",
+    "id": "310501",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Erythritol",
+    "harm": {
+      "id": "0015660",
+      "title": "310501 - Erythritol",
+      "conceptLink": "/ec2/concept/5965796"
+    }
+  },
+  {
+    "uri": "en/1/119684671",
+    "id": "119684671",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esparto pulp",
+    "harm": {
+      "id": "0055234",
+      "title": "119684671 - Esparto pulp",
+      "conceptLink": "/ec2/concept/5996666"
+    }
+  },
+  {
+    "uri": "en/1/125207239",
+    "id": "125207239",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters",
+    "harm": {
+      "id": "0038008",
+      "title": "125207239 - Esters",
+      "conceptLink": "/ec2/concept/5986206"
+    }
+  },
+  {
+    "uri": "en/1/630932",
+    "id": "630932",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters for use in the manufacture of pharmaceutical products",
+    "harm": {
+      "id": "0030143",
+      "title": "630932 - Esters for use in the manufacture of pharmaceutical products",
+      "conceptLink": "/ec2/concept/5979056"
+    }
+  },
+  {
+    "uri": "en/1/630956",
+    "id": "630956",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters of fatty acids for use in manufacture",
+    "harm": {
+      "id": "0035955",
+      "title": "630956 - Esters of fatty acids for use in manufacture",
+      "conceptLink": "/ec2/concept/5984339"
+    }
+  },
+  {
+    "uri": "en/1/630944",
+    "id": "630944",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters of fatty acids for industrial use",
+    "harm": {
+      "id": "0001247",
+      "title": "630944 - Esters of fatty acids for industrial use",
+      "conceptLink": "/ec2/concept/5952610"
+    }
+  },
+  {
+    "uri": "en/1/630969",
+    "id": "630969",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters of fatty acids for use in pharmaceuticals",
+    "harm": {
+      "id": "0007018",
+      "title": "630969 - Esters of fatty acids for use in pharmaceuticals",
+      "conceptLink": "/ec2/concept/5957877"
+    }
+  },
+  {
+    "uri": "en/1/630981",
+    "id": "630981",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters of polyols for use as ingredients in foodstuffs",
+    "harm": {
+      "id": "0035956",
+      "title": "630981 - Esters of polyols for use as ingredients in foodstuffs",
+      "conceptLink": "/ec2/concept/5984340"
+    }
+  },
+  {
+    "uri": "en/1/630993",
+    "id": "630993",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Esters produced from fatty acids [for use in manufacture]",
+    "harm": {
+      "id": "0007019",
+      "title": "630993 - Esters produced from fatty acids [for use in manufacture]",
+      "conceptLink": "/ec2/concept/5957878"
+    }
+  },
+  {
+    "uri": "en/1/631005",
+    "id": "631005",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etchants for industrial use",
+    "harm": {
+      "id": "0035957",
+      "title": "631005 - Etchants for industrial use",
+      "conceptLink": "/ec2/concept/5984341"
+    }
+  },
+  {
+    "uri": "en/1/631017",
+    "id": "631017",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etchants for use in manufacture",
+    "harm": {
+      "id": "0030144",
+      "title": "631017 - Etchants for use in manufacture",
+      "conceptLink": "/ec2/concept/5979057"
+    }
+  },
+  {
+    "uri": "en/1/903588",
+    "id": "903588",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etchants for use in the manufacture of semiconductors",
+    "harm": {
+      "id": "0014183",
+      "title": "903588 - Etchants for use in the manufacture of semiconductors",
+      "conceptLink": "/ec2/concept/5964441"
+    }
+  },
+  {
+    "uri": "en/1/903576",
+    "id": "903576",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etchants for use in the manufacture of printed circuit boards",
+    "harm": {
+      "id": "0025685",
+      "title": "903576 - Etchants for use in the manufacture of printed circuit boards",
+      "conceptLink": "/ec2/concept/5974974"
+    }
+  },
+  {
+    "uri": "en/1/631029",
+    "id": "631029",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching agents",
+    "harm": {
+      "id": "0041724",
+      "title": "631029 - Etching agents",
+      "conceptLink": "/ec2/concept/5989607"
+    }
+  },
+  {
+    "uri": "en/1/631043",
+    "id": "631043",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching chemicals",
+    "harm": {
+      "id": "0012843",
+      "title": "631043 - Etching chemicals",
+      "conceptLink": "/ec2/concept/5963215"
+    }
+  },
+  {
+    "uri": "en/1/631055",
+    "id": "631055",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching compounds",
+    "harm": {
+      "id": "0030145",
+      "title": "631055 - Etching compounds",
+      "conceptLink": "/ec2/concept/5979058"
+    }
+  },
+  {
+    "uri": "en/1/377479",
+    "id": "377479",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching gels",
+    "harm": {
+      "id": "0029350",
+      "title": "377479 - Etching gels",
+      "conceptLink": "/ec2/concept/5978326"
+    }
+  },
+  {
+    "uri": "en/1/137543690",
+    "id": "137543690",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching gels for industrial purposes",
+    "harm": {
+      "id": "0029350",
+      "title": "137543690 - Etching gels for industrial purposes",
+      "conceptLink": "/ec2/concept/5978326"
+    }
+  },
+  {
+    "uri": "en/1/891285",
+    "id": "891285",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Etching mordants [acids]",
+    "harm": {
+      "id": "0041772",
+      "title": "891285 - Etching mordants [acids]",
+      "conceptLink": "/ec2/concept/5989648"
+    }
+  },
+  {
+    "uri": "en/1/10614",
+    "id": "10614",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethane",
+    "harm": {
+      "id": "0038009",
+      "title": "10614 - Ethane",
+      "conceptLink": "/ec2/concept/5986207"
+    }
+  },
+  {
+    "uri": "en/1/137771610",
+    "id": "137771610",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethanol for scientific purposes",
+    "harm": {
+      "id": "0073590",
+      "title": "137771610 - Ethanol for scientific purposes",
+      "conceptLink": "/ec2/concept/6009762"
+    }
+  },
+  {
+    "uri": "en/1/631068",
+    "id": "631068",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ether alcohols",
+    "harm": {
+      "id": "0001248",
+      "title": "631068 - Ether alcohols",
+      "conceptLink": "/ec2/concept/5952611"
+    }
+  },
+  {
+    "uri": "en/1/125207285",
+    "id": "125207285",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethers",
+    "harm": {
+      "id": "0020770",
+      "title": "125207285 - Ethers",
+      "conceptLink": "/ec2/concept/5970469"
+    }
+  },
+  {
+    "uri": "en/1/631081",
+    "id": "631081",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethers for industrial use",
+    "harm": {
+      "id": "0024424",
+      "title": "631081 - Ethers for industrial use",
+      "conceptLink": "/ec2/concept/5973814"
+    }
+  },
+  {
+    "uri": "en/1/631095",
+    "id": "631095",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethycellosolve",
+    "harm": {
+      "id": "0018634",
+      "title": "631095 - Ethycellosolve",
+      "conceptLink": "/ec2/concept/5968516"
+    }
+  },
+  {
+    "uri": "en/1/1836",
+    "id": "1836",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl alcohol",
+    "harm": {
+      "id": "0007535",
+      "title": "1836 - Ethyl alcohol",
+      "conceptLink": "/ec2/concept/5958354"
+    }
+  },
+  {
+    "uri": "en/1/137871774",
+    "id": "137871774",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl carbamate",
+    "harm": {
+      "id": "0073603",
+      "title": "137871774 - Ethyl carbamate",
+      "conceptLink": "/ec2/concept/6009775"
+    }
+  },
+  {
+    "uri": "en/1/310514",
+    "id": "310514",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl chloride",
+    "harm": {
+      "id": "0032934",
+      "title": "310514 - Ethyl chloride",
+      "conceptLink": "/ec2/concept/5981593"
+    }
+  },
+  {
+    "uri": "en/1/10657",
+    "id": "10657",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl ether",
+    "harm": {
+      "id": "0032197",
+      "title": "10657 - Ethyl ether",
+      "conceptLink": "/ec2/concept/5980922"
+    }
+  },
+  {
+    "uri": "en/1/310527",
+    "id": "310527",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl malonate",
+    "harm": {
+      "id": "0021565",
+      "title": "310527 - Ethyl malonate",
+      "conceptLink": "/ec2/concept/5971186"
+    }
+  },
+  {
+    "uri": "en/1/310540",
+    "id": "310540",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl phthalate",
+    "harm": {
+      "id": "0009841",
+      "title": "310540 - Ethyl phthalate",
+      "conceptLink": "/ec2/concept/5960463"
+    }
+  },
+  {
+    "uri": "en/1/310553",
+    "id": "310553",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl urethane",
+    "harm": {
+      "id": "0032935",
+      "title": "310553 - Ethyl urethane",
+      "conceptLink": "/ec2/concept/5981594"
+    }
+  },
+  {
+    "uri": "en/1/310566",
+    "id": "310566",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethyl zinc iodide",
+    "harm": {
+      "id": "0038725",
+      "title": "310566 - Ethyl zinc iodide",
+      "conceptLink": "/ec2/concept/5986866"
+    }
+  },
+  {
+    "uri": "en/1/310579",
+    "id": "310579",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylamine",
+    "harm": {
+      "id": "0027181",
+      "title": "310579 - Ethylamine",
+      "conceptLink": "/ec2/concept/5976323"
+    }
+  },
+  {
+    "uri": "en/1/310593",
+    "id": "310593",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylene",
+    "harm": {
+      "id": "0027182",
+      "title": "310593 - Ethylene",
+      "conceptLink": "/ec2/concept/5976324"
+    }
+  },
+  {
+    "uri": "en/1/310614",
+    "id": "310614",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylene chlorohydrin",
+    "harm": {
+      "id": "0032936",
+      "title": "310614 - Ethylene chlorohydrin",
+      "conceptLink": "/ec2/concept/5981595"
+    }
+  },
+  {
+    "uri": "en/1/310627",
+    "id": "310627",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylene dichloride",
+    "harm": {
+      "id": "0027183",
+      "title": "310627 - Ethylene dichloride",
+      "conceptLink": "/ec2/concept/5976325"
+    }
+  },
+  {
+    "uri": "en/1/310641",
+    "id": "310641",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylene glycol",
+    "harm": {
+      "id": "0045341",
+      "title": "310641 - Ethylene glycol",
+      "conceptLink": "/ec2/concept/5992917"
+    }
+  },
+  {
+    "uri": "en/1/310663",
+    "id": "310663",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ethylene oxide",
+    "harm": {
+      "id": "0016522",
+      "title": "310663 - Ethylene oxide",
+      "conceptLink": "/ec2/concept/5966593"
+    }
+  },
+  {
+    "uri": "en/1/10796",
+    "id": "10796",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Europium",
+    "harm": {
+      "id": "0032198",
+      "title": "10796 - Europium",
+      "conceptLink": "/ec2/concept/5980923"
+    }
+  },
+  {
+    "uri": "en/1/9731",
+    "id": "9731",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Exchangers (Ion -) [chemicals]",
+    "harm": {
+      "id": "0035398",
+      "title": "9731 - Exchangers (Ion -) [chemicals]",
+      "conceptLink": "/ec2/concept/5983839"
+    }
+  },
+  {
+    "uri": "en/1/377499",
+    "id": "377499",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded-clay for hydroponic plant growing [substrates]",
+    "harm": {
+      "id": "0006240",
+      "title": "377499 - Expanded-clay for hydroponic plant growing [substrates]",
+      "conceptLink": "/ec2/concept/5957170"
+    }
+  },
+  {
+    "uri": "en/1/377498",
+    "id": "377498",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded clay for hydroponic plant growing [substrates]",
+    "harm": {
+      "id": "0006240",
+      "title": "377498 - Expanded clay for hydroponic plant growing [substrates]",
+      "conceptLink": "/ec2/concept/5957170"
+    }
+  },
+  {
+    "uri": "en/1/132820432",
+    "id": "132820432",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded clay for hydroponic plant growing [substrate]",
+    "harm": {
+      "id": "0006240",
+      "title": "132820432 - Expanded clay for hydroponic plant growing [substrate]",
+      "conceptLink": "/ec2/concept/5957170"
+    }
+  },
+  {
+    "uri": "en/1/631108",
+    "id": "631108",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded graphites",
+    "harm": {
+      "id": "0030146",
+      "title": "631108 - Expanded graphites",
+      "conceptLink": "/ec2/concept/5979059"
+    }
+  },
+  {
+    "uri": "en/1/631120",
+    "id": "631120",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded synthetic resins [unprocessed]",
+    "harm": {
+      "id": "0042710",
+      "title": "631120 - Expanded synthetic resins [unprocessed]",
+      "conceptLink": "/ec2/concept/5990501"
+    }
+  },
+  {
+    "uri": "en/1/631134",
+    "id": "631134",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Expanded unsaturated polyester resins [unprocessed]",
+    "harm": {
+      "id": "0019672",
+      "title": "631134 - Expanded unsaturated polyester resins [unprocessed]",
+      "conceptLink": "/ec2/concept/5969465"
+    }
+  },
+  {
+    "uri": "en/1/631148",
+    "id": "631148",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Extenders [chemical substances]",
+    "harm": {
+      "id": "0013835",
+      "title": "631148 - Extenders [chemical substances]",
+      "conceptLink": "/ec2/concept/5964116"
+    }
+  },
+  {
+    "uri": "en/1/10835",
+    "id": "10835",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Extinguishing compositions (Fire -)",
+    "harm": {
+      "id": "0058336",
+      "title": "10835 - Extinguishing compositions (Fire -)",
+      "conceptLink": "/ec2/concept/5999835"
+    }
+  },
+  {
+    "uri": "en/1/10839",
+    "id": "10839",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Extinguishing compositions",
+    "harm": {
+      "id": "0058336",
+      "title": "10839 - Extinguishing compositions",
+      "conceptLink": "/ec2/concept/5999835"
+    }
+  },
+  {
+    "uri": "en/1/631163",
+    "id": "631163",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Extraction chemicals",
+    "harm": {
+      "id": "0042711",
+      "title": "631163 - Extraction chemicals",
+      "conceptLink": "/ec2/concept/5990502"
+    }
+  },
+  {
+    "uri": "en/1/631175",
+    "id": "631175",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Extracts of yucca schidigera",
+    "harm": {
+      "id": "0013836",
+      "title": "631175 - Extracts of yucca schidigera",
+      "conceptLink": "/ec2/concept/5964117"
+    }
+  },
+  {
+    "uri": "en/1/233248761",
+    "id": "233248761",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabric glues for industrial use",
+    "harm": {
+      "id": "0073134",
+      "title": "233248761 - Fabric glues for industrial use",
+      "conceptLink": "/ec2/concept/6009307"
+    }
+  },
+  {
+    "uri": "en/1/377541",
+    "id": "377541",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabric protectant for commercial dry cleaning use",
+    "harm": {
+      "id": "0029351",
+      "title": "377541 - Fabric protectant for commercial dry cleaning use",
+      "conceptLink": "/ec2/concept/5978327"
+    }
+  },
+  {
+    "uri": "en/1/132872506",
+    "id": "132872506",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabric protectants",
+    "harm": {
+      "id": "0065057",
+      "title": "132872506 - Fabric protectants",
+      "conceptLink": "/ec2/concept/6001260"
+    }
+  }
+]

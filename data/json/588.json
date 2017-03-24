@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/32/362589",
+    "id": "362589",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral water",
+    "harm": {
+      "id": "0058752",
+      "title": "362589 - Mineral water",
+      "conceptLink": "/ec2/concept/6000243"
+    }
+  },
+  {
+    "uri": "en/32/305136",
+    "id": "305136",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral water [beverages]",
+    "harm": {
+      "id": "0058752",
+      "title": "305136 - Mineral water [beverages]",
+      "conceptLink": "/ec2/concept/6000243"
+    }
+  },
+  {
+    "uri": "en/32/124840522",
+    "id": "124840522",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral water (Non-medicated -)",
+    "harm": {
+      "id": "0042077",
+      "title": "124840522 - Mineral water (Non-medicated -)",
+      "conceptLink": "/ec2/concept/5989927"
+    }
+  },
+  {
+    "uri": "en/32/305161",
+    "id": "305161",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral water (Preparations for making -)",
+    "harm": {
+      "id": "0031040",
+      "title": "305161 - Mineral water (Preparations for making -)",
+      "conceptLink": "/ec2/concept/5979882"
+    }
+  },
+  {
+    "uri": "en/32/362590",
+    "id": "362590",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral waters",
+    "harm": {
+      "id": "0058752",
+      "title": "362590 - Mineral waters",
+      "conceptLink": "/ec2/concept/6000243"
+    }
+  },
+  {
+    "uri": "en/32/132817789",
+    "id": "132817789",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mineral waters [beverages]",
+    "harm": {
+      "id": "0058752",
+      "title": "132817789 - Mineral waters [beverages]",
+      "conceptLink": "/ec2/concept/6000243"
+    }
+  },
+  {
+    "uri": "en/32/119547570",
+    "id": "119547570",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mixed fruit juice",
+    "harm": {
+      "id": "0056561",
+      "title": "119547570 - Mixed fruit juice",
+      "conceptLink": "/ec2/concept/5997863"
+    }
+  },
+  {
+    "uri": "en/32/11408858",
+    "id": "11408858",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mixed fruit juices",
+    "harm": {
+      "id": "0056561",
+      "title": "11408858 - Mixed fruit juices",
+      "conceptLink": "/ec2/concept/5997863"
+    }
+  },
+  {
+    "uri": "en/32/137819718",
+    "id": "137819718",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Mixes for making sorbet beverages",
+    "harm": {
+      "id": "0071880",
+      "title": "137819718 - Mixes for making sorbet beverages",
+      "conceptLink": "/ec2/concept/6008064"
+    }
+  },
+  {
+    "uri": "en/32/305258",
+    "id": "305258",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Must",
+    "harm": {
+      "id": "0047275",
+      "title": "305258 - Must",
+      "conceptLink": "/ec2/concept/5994634"
+    }
+  },
+  {
+    "uri": "en/32/305928",
+    "id": "305928",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Nectars (Fruit -), non-alcoholic",
+    "harm": {
+      "id": "0045809",
+      "title": "305928 - Nectars (Fruit -), non-alcoholic",
+      "conceptLink": "/ec2/concept/5993341"
+    }
+  },
+  {
+    "uri": "en/32/445921",
+    "id": "445921",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beer",
+    "harm": {
+      "id": "0014519",
+      "title": "445921 - Non-alcoholic beer",
+      "conceptLink": "/ec2/concept/5964754"
+    }
+  },
+  {
+    "uri": "en/32/129943954",
+    "id": "129943954",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beer flavored beverages",
+    "harm": {
+      "id": "0056562",
+      "title": "129943954 - Non-alcoholic beer flavored beverages",
+      "conceptLink": "/ec2/concept/5997864"
+    }
+  },
+  {
+    "uri": "en/32/610571",
+    "id": "610571",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages",
+    "harm": {
+      "id": "0014090",
+      "title": "610571 - Non-alcoholic beverages",
+      "conceptLink": "/ec2/concept/5964351"
+    }
+  },
+  {
+    "uri": "en/32/4093243",
+    "id": "4093243",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages containing fruit juices",
+    "harm": {
+      "id": "0056563",
+      "title": "4093243 - Non-alcoholic beverages containing fruit juices",
+      "conceptLink": "/ec2/concept/5997865"
+    }
+  },
+  {
+    "uri": "en/32/137760386",
+    "id": "137760386",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages containing vegetable juices",
+    "harm": {
+      "id": "0071881",
+      "title": "137760386 - Non-alcoholic beverages containing vegetable juices",
+      "conceptLink": "/ec2/concept/6008065"
+    }
+  },
+  {
+    "uri": "en/32/120825148",
+    "id": "120825148",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages flavored with tea",
+    "harm": {
+      "id": "0056564",
+      "title": "120825148 - Non-alcoholic beverages flavored with tea",
+      "conceptLink": "/ec2/concept/5997866"
+    }
+  },
+  {
+    "uri": "en/32/8541230",
+    "id": "8541230",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages flavoured with tea",
+    "harm": {
+      "id": "0056564",
+      "title": "8541230 - Non-alcoholic beverages flavoured with tea",
+      "conceptLink": "/ec2/concept/5997866"
+    }
+  },
+  {
+    "uri": "en/32/137728950",
+    "id": "137728950",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages flavoured with coffee",
+    "harm": {
+      "id": "0067690",
+      "title": "137728950 - Non-alcoholic beverages flavoured with coffee",
+      "conceptLink": "/ec2/concept/6003893"
+    }
+  },
+  {
+    "uri": "en/32/137728951",
+    "id": "137728951",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages flavored with coffee",
+    "harm": {
+      "id": "0067690",
+      "title": "137728951 - Non-alcoholic beverages flavored with coffee",
+      "conceptLink": "/ec2/concept/6003893"
+    }
+  },
+  {
+    "uri": "en/32/8012866",
+    "id": "8012866",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic beverages with tea flavor",
+    "harm": {
+      "id": "0056564",
+      "title": "8012866 - Non-alcoholic beverages with tea flavor",
+      "conceptLink": "/ec2/concept/5997866"
+    }
+  },
+  {
+    "uri": "en/32/37489304",
+    "id": "37489304",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic carbonated beverages",
+    "harm": {
+      "id": "0037495",
+      "title": "37489304 - Non-alcoholic carbonated beverages",
+      "conceptLink": "/ec2/concept/5985741"
+    }
+  },
+  {
+    "uri": "en/32/131041173",
+    "id": "131041173",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic cinnamon punch with dried persimmon (sujeonggwa)",
+    "harm": {
+      "id": "0056565",
+      "title": "131041173 - Non-alcoholic cinnamon punch with dried persimmon (sujeonggwa)",
+      "conceptLink": "/ec2/concept/5997867"
+    }
+  },
+  {
+    "uri": "en/32/96774959",
+    "id": "96774959",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic cocktail bases",
+    "harm": {
+      "id": "0056566",
+      "title": "96774959 - Non-alcoholic cocktail bases",
+      "conceptLink": "/ec2/concept/5997868"
+    }
+  },
+  {
+    "uri": "en/32/305884",
+    "id": "305884",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic cocktail mixes",
+    "harm": {
+      "id": "0035765",
+      "title": "305884 - Non-alcoholic cocktail mixes",
+      "conceptLink": "/ec2/concept/5984173"
+    }
+  },
+  {
+    "uri": "en/32/305885",
+    "id": "305885",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic cocktails",
+    "harm": {
+      "id": "0035765",
+      "title": "305885 - Non-alcoholic cocktails",
+      "conceptLink": "/ec2/concept/5984173"
+    }
+  },
+  {
+    "uri": "en/32/27342694",
+    "id": "27342694",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic cordials",
+    "harm": {
+      "id": "0008501",
+      "title": "27342694 - Non-alcoholic cordials",
+      "conceptLink": "/ec2/concept/5959233"
+    }
+  },
+  {
+    "uri": "en/32/1562663",
+    "id": "1562663",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic drinks",
+    "harm": {
+      "id": "0014090",
+      "title": "1562663 - Non-alcoholic drinks",
+      "conceptLink": "/ec2/concept/5964351"
+    }
+  },
+  {
+    "uri": "en/32/137927963",
+    "id": "137927963",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic flavored carbonated beverages",
+    "harm": {
+      "id": "0071882",
+      "title": "137927963 - Non-alcoholic flavored carbonated beverages",
+      "conceptLink": "/ec2/concept/6008066"
+    }
+  },
+  {
+    "uri": "en/32/102595869",
+    "id": "102595869",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit cocktails",
+    "harm": {
+      "id": "0067687",
+      "title": "102595869 - Non-alcoholic fruit cocktails",
+      "conceptLink": "/ec2/concept/6003890"
+    }
+  },
+  {
+    "uri": "en/32/445950",
+    "id": "445950",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit drinks",
+    "harm": {
+      "id": "0017349",
+      "title": "445950 - Non-alcoholic fruit drinks",
+      "conceptLink": "/ec2/concept/5967339"
+    }
+  },
+  {
+    "uri": "en/32/5960246",
+    "id": "5960246",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit extracts used in the preparation of beverages",
+    "harm": {
+      "id": "0067694",
+      "title": "5960246 - Non-alcoholic fruit extracts used in the preparation of beverages",
+      "conceptLink": "/ec2/concept/6003897"
+    }
+  },
+  {
+    "uri": "en/32/304677",
+    "id": "304677",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit extracts",
+    "harm": {
+      "id": "0034654",
+      "title": "304677 - Non-alcoholic fruit extracts",
+      "conceptLink": "/ec2/concept/5983162"
+    }
+  },
+  {
+    "uri": "en/32/445949",
+    "id": "445949",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit juice beverages",
+    "harm": {
+      "id": "0017349",
+      "title": "445949 - Non-alcoholic fruit juice beverages",
+      "conceptLink": "/ec2/concept/5967339"
+    }
+  },
+  {
+    "uri": "en/32/76217365",
+    "id": "76217365",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic fruit punch",
+    "harm": {
+      "id": "0067695",
+      "title": "76217365 - Non-alcoholic fruit punch",
+      "conceptLink": "/ec2/concept/6003898"
+    }
+  },
+  {
+    "uri": "en/32/120825124",
+    "id": "120825124",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic grape juice beverages",
+    "harm": {
+      "id": "0067685",
+      "title": "120825124 - Non-alcoholic grape juice beverages",
+      "conceptLink": "/ec2/concept/6003888"
+    }
+  },
+  {
+    "uri": "en/32/506988",
+    "id": "506988",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic honey-based beverages",
+    "harm": {
+      "id": "0030828",
+      "title": "506988 - Non-alcoholic honey-based beverages",
+      "conceptLink": "/ec2/concept/5979694"
+    }
+  },
+  {
+    "uri": "en/32/132797581",
+    "id": "132797581",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic malt beverages",
+    "harm": {
+      "id": "0067684",
+      "title": "132797581 - Non-alcoholic malt beverages",
+      "conceptLink": "/ec2/concept/6003887"
+    }
+  },
+  {
+    "uri": "en/32/120825161",
+    "id": "120825161",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic malt drinks",
+    "harm": {
+      "id": "0067684",
+      "title": "120825161 - Non-alcoholic malt drinks",
+      "conceptLink": "/ec2/concept/6003887"
+    }
+  },
+  {
+    "uri": "en/32/610785",
+    "id": "610785",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic malt free beverages [other than for medical use]",
+    "harm": {
+      "id": "0042078",
+      "title": "610785 - Non-alcoholic malt free beverages [other than for medical use]",
+      "conceptLink": "/ec2/concept/5989928"
+    }
+  },
+  {
+    "uri": "en/32/120825169",
+    "id": "120825169",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic punch",
+    "harm": {
+      "id": "0067683",
+      "title": "120825169 - Non-alcoholic punch",
+      "conceptLink": "/ec2/concept/6003886"
+    }
+  },
+  {
+    "uri": "en/32/131041168",
+    "id": "131041168",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic rice punch (sikhye)",
+    "harm": {
+      "id": "0056567",
+      "title": "131041168 - Non-alcoholic rice punch (sikhye)",
+      "conceptLink": "/ec2/concept/5997869"
+    }
+  },
+  {
+    "uri": "en/32/232668593",
+    "id": "232668593",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic soda beverages flavoured with tea",
+    "harm": {
+      "id": "0072171",
+      "title": "232668593 - Non-alcoholic soda beverages flavoured with tea",
+      "conceptLink": "/ec2/concept/6008354"
+    }
+  },
+  {
+    "uri": "en/32/137847152",
+    "id": "137847152",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic sparkling fruit juice drinks",
+    "harm": {
+      "id": "0071890",
+      "title": "137847152 - Non-alcoholic sparkling fruit juice drinks",
+      "conceptLink": "/ec2/concept/6008074"
+    }
+  },
+  {
+    "uri": "en/32/120825175",
+    "id": "120825175",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic vegetable juice drinks",
+    "harm": {
+      "id": "0067682",
+      "title": "120825175 - Non-alcoholic vegetable juice drinks",
+      "conceptLink": "/ec2/concept/6003885"
+    }
+  },
+  {
+    "uri": "en/32/15762721",
+    "id": "15762721",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic wine",
+    "harm": {
+      "id": "0001562",
+      "title": "15762721 - Non-alcoholic wine",
+      "conceptLink": "/ec2/concept/5952890"
+    }
+  },
+  {
+    "uri": "en/32/305259",
+    "id": "305259",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-alcoholic wines",
+    "harm": {
+      "id": "0001562",
+      "title": "305259 - Non-alcoholic wines",
+      "conceptLink": "/ec2/concept/5952890"
+    }
+  },
+  {
+    "uri": "en/32/7403924",
+    "id": "7403924",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Non-carbonated soft drinks",
+    "harm": {
+      "id": "0067680",
+      "title": "7403924 - Non-carbonated soft drinks",
+      "conceptLink": "/ec2/concept/6003883"
+    }
+  },
+  {
+    "uri": "en/32/233656142",
+    "id": "233656142",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Nut and soy based beverages",
+    "harm": {
+      "id": "0073886",
+      "title": "233656142 - Nut and soy based beverages",
+      "conceptLink": "/ec2/concept/6010838"
+    }
+  },
+  {
+    "uri": "en/32/5960386",
+    "id": "5960386",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Nutritionally fortified beverages",
+    "harm": {
+      "id": "0071883",
+      "title": "5960386 - Nutritionally fortified beverages",
+      "conceptLink": "/ec2/concept/6008067"
+    }
+  },
+  {
+    "uri": "en/32/3482287",
+    "id": "3482287",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Nutritionally fortified water",
+    "harm": {
+      "id": "0071884",
+      "title": "3482287 - Nutritionally fortified water",
+      "conceptLink": "/ec2/concept/6008068"
+    }
+  },
+  {
+    "uri": "en/32/610798",
+    "id": "610798",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orange barley water",
+    "harm": {
+      "id": "0001605",
+      "title": "610798 - Orange barley water",
+      "conceptLink": "/ec2/concept/5952932"
+    }
+  },
+  {
+    "uri": "en/32/446003",
+    "id": "446003",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orange juice",
+    "harm": {
+      "id": "0046447",
+      "title": "446003 - Orange juice",
+      "conceptLink": "/ec2/concept/5993898"
+    }
+  },
+  {
+    "uri": "en/32/12417607",
+    "id": "12417607",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orange juice beverages",
+    "harm": {
+      "id": "0046447",
+      "title": "12417607 - Orange juice beverages",
+      "conceptLink": "/ec2/concept/5993898"
+    }
+  },
+  {
+    "uri": "en/32/120824403",
+    "id": "120824403",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orange juice drinks",
+    "harm": {
+      "id": "0067696",
+      "title": "120824403 - Orange juice drinks",
+      "conceptLink": "/ec2/concept/6003899"
+    }
+  },
+  {
+    "uri": "en/32/446004",
+    "id": "446004",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orange squash",
+    "harm": {
+      "id": "0019023",
+      "title": "446004 - Orange squash",
+      "conceptLink": "/ec2/concept/5968880"
+    }
+  },
+  {
+    "uri": "en/32/305532",
+    "id": "305532",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Orgeat",
+    "harm": {
+      "id": "0045790",
+      "title": "305532 - Orgeat",
+      "conceptLink": "/ec2/concept/5993322"
+    }
+  },
+  {
+    "uri": "en/32/120825164",
+    "id": "120825164",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Pale ale",
+    "harm": {
+      "id": "0070141",
+      "title": "120825164 - Pale ale",
+      "conceptLink": "/ec2/concept/6006335"
+    }
+  },
+  {
+    "uri": "en/32/610810",
+    "id": "610810",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Part frozen slush drinks",
+    "harm": {
+      "id": "0019024",
+      "title": "610810 - Part frozen slush drinks",
+      "conceptLink": "/ec2/concept/5968881"
+    }
+  },
+  {
+    "uri": "en/32/305722",
+    "id": "305722",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Pastilles for effervescing beverages",
+    "harm": {
+      "id": "0035764",
+      "title": "305722 - Pastilles for effervescing beverages",
+      "conceptLink": "/ec2/concept/5984172"
+    }
+  },
+  {
+    "uri": "en/32/362627",
+    "id": "362627",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Pineapple juice beverages",
+    "harm": {
+      "id": "0042952",
+      "title": "362627 - Pineapple juice beverages",
+      "conceptLink": "/ec2/concept/5990716"
+    }
+  },
+  {
+    "uri": "en/32/137736107",
+    "id": "137736107",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Pomegranate juice",
+    "harm": {
+      "id": "0071885",
+      "title": "137736107 - Pomegranate juice",
+      "conceptLink": "/ec2/concept/6008069"
+    }
+  },
+  {
+    "uri": "en/32/906119",
+    "id": "906119",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Porter",
+    "harm": {
+      "id": "0025279",
+      "title": "906119 - Porter",
+      "conceptLink": "/ec2/concept/5974601"
+    }
+  },
+  {
+    "uri": "en/32/305759",
+    "id": "305759",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders for effervescing beverages",
+    "harm": {
+      "id": "0041540",
+      "title": "305759 - Powders for effervescing beverages",
+      "conceptLink": "/ec2/concept/5989440"
+    }
+  },
+  {
+    "uri": "en/32/231788838",
+    "id": "231788838",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders for the preparation of beverages",
+    "harm": {
+      "id": "0070529",
+      "title": "231788838 - Powders for the preparation of beverages",
+      "conceptLink": "/ec2/concept/6006721"
+    }
+  },
+  {
+    "uri": "en/32/137950052",
+    "id": "137950052",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders used in the preparation of coconut water drinks",
+    "harm": {
+      "id": "0071886",
+      "title": "137950052 - Powders used in the preparation of coconut water drinks",
+      "conceptLink": "/ec2/concept/6008070"
+    }
+  },
+  {
+    "uri": "en/32/120871205",
+    "id": "120871205",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders used in the preparation of soft drinks",
+    "harm": {
+      "id": "0067681",
+      "title": "120871205 - Powders used in the preparation of soft drinks",
+      "conceptLink": "/ec2/concept/6003884"
+    }
+  },
+  {
+    "uri": "en/32/119547605",
+    "id": "119547605",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders used in the preparation of fruit-based beverages",
+    "harm": {
+      "id": "0056568",
+      "title": "119547605 - Powders used in the preparation of fruit-based beverages",
+      "conceptLink": "/ec2/concept/5997870"
+    }
+  },
+  {
+    "uri": "en/32/120883372",
+    "id": "120883372",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Powders used in the preparation of fruit-based drinks",
+    "harm": {
+      "id": "0056568",
+      "title": "120883372 - Powders used in the preparation of fruit-based drinks",
+      "conceptLink": "/ec2/concept/5997870"
+    }
+  },
+  {
+    "uri": "en/32/5242929",
+    "id": "5242929",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Preparations for making aerated water",
+    "harm": {
+      "id": "0040450",
+      "title": "5242929 - Preparations for making aerated water",
+      "conceptLink": "/ec2/concept/5988443"
+    }
+  },
+  {
+    "uri": "en/32/1584472",
+    "id": "1584472",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Preparations for making beverages",
+    "harm": {
+      "id": "0040449",
+      "title": "1584472 - Preparations for making beverages",
+      "conceptLink": "/ec2/concept/5988442"
+    }
+  },
+  {
+    "uri": "en/32/1049510",
+    "id": "1049510",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Preparations for making liqueurs",
+    "harm": {
+      "id": "0022851",
+      "title": "1049510 - Preparations for making liqueurs",
+      "conceptLink": "/ec2/concept/5972371"
+    }
+  },
+  {
+    "uri": "en/32/1554903",
+    "id": "1554903",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Preparations for making mineral water",
+    "harm": {
+      "id": "0031040",
+      "title": "1554903 - Preparations for making mineral water",
+      "conceptLink": "/ec2/concept/5979882"
+    }
+  },
+  {
+    "uri": "en/32/137728946",
+    "id": "137728946",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Protein-enriched sports beverages",
+    "harm": {
+      "id": "0070037",
+      "title": "137728946 - Protein-enriched sports beverages",
+      "conceptLink": "/ec2/concept/6006239"
+    }
+  },
+  {
+    "uri": "en/32/446030",
+    "id": "446030",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Quinine water",
+    "harm": {
+      "id": "0038713",
+      "title": "446030 - Quinine water",
+      "conceptLink": "/ec2/concept/5986854"
+    }
+  },
+  {
+    "uri": "en/32/119547613",
+    "id": "119547613",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Ramune (Japanese soda pops)",
+    "harm": {
+      "id": "0056569",
+      "title": "119547613 - Ramune (Japanese soda pops)",
+      "conceptLink": "/ec2/concept/5997871"
+    }
+  },
+  {
+    "uri": "en/32/136073584",
+    "id": "136073584",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Red ginseng juice beverages",
+    "harm": {
+      "id": "0050450",
+      "title": "136073584 - Red ginseng juice beverages",
+      "conceptLink": "/ec2/concept/5995657"
+    }
+  },
+  {
+    "uri": "en/32/137728948",
+    "id": "137728948",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Rice-based beverages, other than milk substitutes",
+    "harm": {
+      "id": "0070038",
+      "title": "137728948 - Rice-based beverages, other than milk substitutes",
+      "conceptLink": "/ec2/concept/6006240"
+    }
+  },
+  {
+    "uri": "en/32/610824",
+    "id": "610824",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Root beer",
+    "harm": {
+      "id": "0013196",
+      "title": "610824 - Root beer",
+      "conceptLink": "/ec2/concept/5963538"
+    }
+  },
+  {
+    "uri": "en/32/305834",
+    "id": "305834",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sarsaparilla [non-alcoholic beverage]",
+    "harm": {
+      "id": "0012646",
+      "title": "305834 - Sarsaparilla [non-alcoholic beverage]",
+      "conceptLink": "/ec2/concept/5963035"
+    }
+  },
+  {
+    "uri": "en/32/305189",
+    "id": "305189",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Seltzer water",
+    "harm": {
+      "id": "0036886",
+      "title": "305189 - Seltzer water",
+      "conceptLink": "/ec2/concept/5985192"
+    }
+  },
+  {
+    "uri": "en/32/907175",
+    "id": "907175",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Shandy",
+    "harm": {
+      "id": "0013968",
+      "title": "907175 - Shandy",
+      "conceptLink": "/ec2/concept/5964238"
+    }
+  },
+  {
+    "uri": "en/32/305601",
+    "id": "305601",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sherbet beverages",
+    "harm": {
+      "id": "0024772",
+      "title": "305601 - Sherbet beverages",
+      "conceptLink": "/ec2/concept/5974140"
+    }
+  },
+  {
+    "uri": "en/32/305602",
+    "id": "305602",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sherbets [beverages]",
+    "harm": {
+      "id": "0024772",
+      "title": "305602 - Sherbets [beverages]",
+      "conceptLink": "/ec2/concept/5974140"
+    }
+  },
+  {
+    "uri": "en/32/136010607",
+    "id": "136010607",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoked plum beverages",
+    "harm": {
+      "id": "0060145",
+      "title": "136010607 - Smoked plum beverages",
+      "conceptLink": "/ec2/concept/5996407"
+    }
+  },
+  {
+    "uri": "en/32/137493029",
+    "id": "137493029",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoked plum juice beverages",
+    "harm": {
+      "id": "0060145",
+      "title": "137493029 - Smoked plum juice beverages",
+      "conceptLink": "/ec2/concept/5996407"
+    }
+  },
+  {
+    "uri": "en/32/911698",
+    "id": "911698",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoothies",
+    "harm": {
+      "id": "0018707",
+      "title": "911698 - Smoothies",
+      "conceptLink": "/ec2/concept/5968588"
+    }
+  },
+  {
+    "uri": "en/32/119547621",
+    "id": "119547621",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoothies containing grains and oats",
+    "harm": {
+      "id": "0067675",
+      "title": "119547621 - Smoothies containing grains and oats",
+      "conceptLink": "/ec2/concept/6003878"
+    }
+  },
+  {
+    "uri": "en/32/114891942",
+    "id": "114891942",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoothies [fruit beverages, fruit predominating]",
+    "harm": {
+      "id": "0018707",
+      "title": "114891942 - Smoothies [fruit beverages, fruit predominating]",
+      "conceptLink": "/ec2/concept/5968588"
+    }
+  },
+  {
+    "uri": "en/32/446043",
+    "id": "446043",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Smoothies [non-alcoholic fruit beverages]",
+    "harm": {
+      "id": "0018707",
+      "title": "446043 - Smoothies [non-alcoholic fruit beverages]",
+      "conceptLink": "/ec2/concept/5968588"
+    }
+  },
+  {
+    "uri": "en/32/1836486",
+    "id": "1836486",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soda pops",
+    "harm": {
+      "id": "0073691",
+      "title": "1836486 - Soda pops",
+      "conceptLink": "/ec2/concept/6009863"
+    }
+  },
+  {
+    "uri": "en/32/305559",
+    "id": "305559",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soda water",
+    "harm": {
+      "id": "0016984",
+      "title": "305559 - Soda water",
+      "conceptLink": "/ec2/concept/5967011"
+    }
+  },
+  {
+    "uri": "en/32/305558",
+    "id": "305558",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soft drinks",
+    "harm": {
+      "id": "0073691",
+      "title": "305558 - Soft drinks",
+      "conceptLink": "/ec2/concept/6009863"
+    }
+  },
+  {
+    "uri": "en/32/37433710",
+    "id": "37433710",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soft drinks flavored with tea",
+    "harm": {
+      "id": "0056564",
+      "title": "37433710 - Soft drinks flavored with tea",
+      "conceptLink": "/ec2/concept/5997866"
+    }
+  },
+  {
+    "uri": "en/32/232619639",
+    "id": "232619639",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soft drinks for energy supply",
+    "harm": {
+      "id": "0020349",
+      "title": "232619639 - Soft drinks for energy supply",
+      "conceptLink": "/ec2/concept/5970079"
+    }
+  },
+  {
+    "uri": "en/32/305603",
+    "id": "305603",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sorbets [beverages]",
+    "harm": {
+      "id": "0024772",
+      "title": "305603 - Sorbets [beverages]",
+      "conceptLink": "/ec2/concept/5974140"
+    }
+  },
+  {
+    "uri": "en/32/907314",
+    "id": "907314",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Sorbets in the nature of beverages",
+    "harm": {
+      "id": "0025713",
+      "title": "907314 - Sorbets in the nature of beverages",
+      "conceptLink": "/ec2/concept/5974997"
+    }
+  },
+  {
+    "uri": "en/32/132797604",
+    "id": "132797604",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soy-based beverages, not being milk substitutes",
+    "harm": {
+      "id": "0060072",
+      "title": "132797604 - Soy-based beverages, not being milk substitutes",
+      "conceptLink": "/ec2/concept/5996335"
+    }
+  },
+  {
+    "uri": "en/32/137173603",
+    "id": "137173603",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soy beverage",
+    "harm": {
+      "id": "0060072",
+      "title": "137173603 - Soy beverage",
+      "conceptLink": "/ec2/concept/5996335"
+    }
+  },
+  {
+    "uri": "en/32/120825184",
+    "id": "120825184",
+    "lang": "en",
+    "classNumber": "32",
+    "term": "Soya-based beverages, other than milk substitutes",
+    "harm": {
+      "id": "0060072",
+      "title": "120825184 - Soya-based beverages, other than milk substitutes",
+      "conceptLink": "/ec2/concept/5996335"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/676104",
+    "id": "676104",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting rollers [parts of machines]",
+    "harm": {
+      "id": "0006425",
+      "title": "676104 - Cutting rollers [parts of machines]",
+      "conceptLink": "/ec2/concept/5957339"
+    }
+  },
+  {
+    "uri": "en/7/676118",
+    "id": "676118",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting shoes [parts of machines]",
+    "harm": {
+      "id": "0018031",
+      "title": "676118 - Cutting shoes [parts of machines]",
+      "conceptLink": "/ec2/concept/5967960"
+    }
+  },
+  {
+    "uri": "en/7/676132",
+    "id": "676132",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting strips [parts of machines]",
+    "harm": {
+      "id": "0006426",
+      "title": "676132 - Cutting strips [parts of machines]",
+      "conceptLink": "/ec2/concept/5957340"
+    }
+  },
+  {
+    "uri": "en/7/676146",
+    "id": "676146",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tips [parts of machines]",
+    "harm": {
+      "id": "0023831",
+      "title": "676146 - Cutting tips [parts of machines]",
+      "conceptLink": "/ec2/concept/5973266"
+    }
+  },
+  {
+    "uri": "en/7/676160",
+    "id": "676160",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tool blocks [parts of machines]",
+    "harm": {
+      "id": "0035347",
+      "title": "676160 - Cutting tool blocks [parts of machines]",
+      "conceptLink": "/ec2/concept/5983793"
+    }
+  },
+  {
+    "uri": "en/7/676215",
+    "id": "676215",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools being gas-operated blow pipes",
+    "harm": {
+      "id": "0002965",
+      "title": "676215 - Cutting tools being gas-operated blow pipes",
+      "conceptLink": "/ec2/concept/5954161"
+    }
+  },
+  {
+    "uri": "en/7/675885",
+    "id": "675885",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools being parts of machines",
+    "harm": {
+      "id": "0007826",
+      "title": "675885 - Cutting tools being parts of machines",
+      "conceptLink": "/ec2/concept/5958620"
+    }
+  },
+  {
+    "uri": "en/7/676239",
+    "id": "676239",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools being power-operated",
+    "harm": {
+      "id": "0014073",
+      "title": "676239 - Cutting tools being power-operated",
+      "conceptLink": "/ec2/concept/5964334"
+    }
+  },
+  {
+    "uri": "en/7/676281",
+    "id": "676281",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools for machine centres",
+    "harm": {
+      "id": "0020372",
+      "title": "676281 - Cutting tools for machine centres",
+      "conceptLink": "/ec2/concept/5970101"
+    }
+  },
+  {
+    "uri": "en/7/676293",
+    "id": "676293",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools for use in powered hand-held tools",
+    "harm": {
+      "id": "0031830",
+      "title": "676293 - Cutting tools for use in powered hand-held tools",
+      "conceptLink": "/ec2/concept/5980588"
+    }
+  },
+  {
+    "uri": "en/7/676187",
+    "id": "676187",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools [machine] in the form of end mills",
+    "harm": {
+      "id": "0012231",
+      "title": "676187 - Cutting tools [machine] in the form of end mills",
+      "conceptLink": "/ec2/concept/5962655"
+    }
+  },
+  {
+    "uri": "en/7/676173",
+    "id": "676173",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools [machine] in the form of drill bits",
+    "harm": {
+      "id": "0018032",
+      "title": "676173 - Cutting tools [machine] in the form of drill bits",
+      "conceptLink": "/ec2/concept/5967961"
+    }
+  },
+  {
+    "uri": "en/7/676201",
+    "id": "676201",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting tools [machine] made of sintered materials based on nitrides",
+    "harm": {
+      "id": "0008692",
+      "title": "676201 - Cutting tools [machine] made of sintered materials based on nitrides",
+      "conceptLink": "/ec2/concept/5959400"
+    }
+  },
+  {
+    "uri": "en/7/388379",
+    "id": "388379",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting torches",
+    "harm": {
+      "id": "0019466",
+      "title": "388379 - Cutting torches",
+      "conceptLink": "/ec2/concept/5969277"
+    }
+  },
+  {
+    "uri": "en/7/676306",
+    "id": "676306",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cyclone coolant purifying machines",
+    "harm": {
+      "id": "0002967",
+      "title": "676306 - Cyclone coolant purifying machines",
+      "conceptLink": "/ec2/concept/5954162"
+    }
+  },
+  {
+    "uri": "en/7/388393",
+    "id": "388393",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cyclone separators",
+    "harm": {
+      "id": "0036751",
+      "title": "388393 - Cyclone separators",
+      "conceptLink": "/ec2/concept/5985070"
+    }
+  },
+  {
+    "uri": "en/7/388408",
+    "id": "388408",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cyclones",
+    "harm": {
+      "id": "0007754",
+      "title": "388408 - Cyclones",
+      "conceptLink": "/ec2/concept/5958549"
+    }
+  },
+  {
+    "uri": "en/7/676318",
+    "id": "676318",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cyclones for particle collection in grinding operations",
+    "harm": {
+      "id": "0002968",
+      "title": "676318 - Cyclones for particle collection in grinding operations",
+      "conceptLink": "/ec2/concept/5954163"
+    }
+  },
+  {
+    "uri": "en/7/676333",
+    "id": "676333",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder blocks [parts of machines]",
+    "harm": {
+      "id": "0026039",
+      "title": "676333 - Cylinder blocks [parts of machines]",
+      "conceptLink": "/ec2/concept/5975298"
+    }
+  },
+  {
+    "uri": "en/7/676347",
+    "id": "676347",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder covers [parts of machines]",
+    "harm": {
+      "id": "0031831",
+      "title": "676347 - Cylinder covers [parts of machines]",
+      "conceptLink": "/ec2/concept/5980589"
+    }
+  },
+  {
+    "uri": "en/7/232623629",
+    "id": "232623629",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder head gaskets",
+    "harm": {
+      "id": "0072077",
+      "title": "232623629 - Cylinder head gaskets",
+      "conceptLink": "/ec2/concept/6008260"
+    }
+  },
+  {
+    "uri": "en/7/116519",
+    "id": "116519",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder heads for engines",
+    "harm": {
+      "id": "0011640",
+      "title": "116519 - Cylinder heads for engines",
+      "conceptLink": "/ec2/concept/5962108"
+    }
+  },
+  {
+    "uri": "en/7/676362",
+    "id": "676362",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder heads made of castings of light metal alloys [parts of machines]",
+    "harm": {
+      "id": "0008693",
+      "title": "676362 - Cylinder heads made of castings of light metal alloys [parts of machines]",
+      "conceptLink": "/ec2/concept/5959401"
+    }
+  },
+  {
+    "uri": "en/7/676376",
+    "id": "676376",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinder liners",
+    "harm": {
+      "id": "0031832",
+      "title": "676376 - Cylinder liners",
+      "conceptLink": "/ec2/concept/5980590"
+    }
+  },
+  {
+    "uri": "en/7/390232",
+    "id": "390232",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders being parts of machines",
+    "harm": {
+      "id": "0037634",
+      "title": "390232 - Cylinders being parts of machines",
+      "conceptLink": "/ec2/concept/5985863"
+    }
+  },
+  {
+    "uri": "en/7/116581",
+    "id": "116581",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for machines",
+    "harm": {
+      "id": "0010178",
+      "title": "116581 - Cylinders for machines",
+      "conceptLink": "/ec2/concept/5960770"
+    }
+  },
+  {
+    "uri": "en/7/902509",
+    "id": "902509",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for mills",
+    "harm": {
+      "id": "0036270",
+      "title": "902509 - Cylinders for mills",
+      "conceptLink": "/ec2/concept/5984626"
+    }
+  },
+  {
+    "uri": "en/7/127946",
+    "id": "127946",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for motors and engines",
+    "harm": {
+      "id": "0003452",
+      "title": "127946 - Cylinders for motors and engines",
+      "conceptLink": "/ec2/concept/5954608"
+    }
+  },
+  {
+    "uri": "en/7/676391",
+    "id": "676391",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for use in printing machines",
+    "harm": {
+      "id": "0031833",
+      "title": "676391 - Cylinders for use in printing machines",
+      "conceptLink": "/ec2/concept/5980591"
+    }
+  },
+  {
+    "uri": "en/7/902510",
+    "id": "902510",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for use in the manufacture of colorants",
+    "harm": {
+      "id": "0001561",
+      "title": "902510 - Cylinders for use in the manufacture of colorants",
+      "conceptLink": "/ec2/concept/5952889"
+    }
+  },
+  {
+    "uri": "en/7/902511",
+    "id": "902511",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for use in the manufacture of chocolate",
+    "harm": {
+      "id": "0024720",
+      "title": "902511 - Cylinders for use in the manufacture of chocolate",
+      "conceptLink": "/ec2/concept/5974092"
+    }
+  },
+  {
+    "uri": "en/7/388423",
+    "id": "388423",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders for vehicles other than land vehicles",
+    "harm": {
+      "id": "0025181",
+      "title": "388423 - Cylinders for vehicles other than land vehicles",
+      "conceptLink": "/ec2/concept/5974513"
+    }
+  },
+  {
+    "uri": "en/7/390230",
+    "id": "390230",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders [machine parts]",
+    "harm": {
+      "id": "0037634",
+      "title": "390230 - Cylinders [machine parts]",
+      "conceptLink": "/ec2/concept/5985863"
+    }
+  },
+  {
+    "uri": "en/7/118588",
+    "id": "118588",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cylinders (Pistons for -)",
+    "harm": {
+      "id": "0002969",
+      "title": "118588 - Cylinders (Pistons for -)",
+      "conceptLink": "/ec2/concept/5954164"
+    }
+  },
+  {
+    "uri": "en/7/119408",
+    "id": "119408",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dairy machines",
+    "harm": {
+      "id": "0028460",
+      "title": "119408 - Dairy machines",
+      "conceptLink": "/ec2/concept/5977510"
+    }
+  },
+  {
+    "uri": "en/7/676403",
+    "id": "676403",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dampening units for offset presses",
+    "harm": {
+      "id": "0042003",
+      "title": "676403 - Dampening units for offset presses",
+      "conceptLink": "/ec2/concept/5989860"
+    }
+  },
+  {
+    "uri": "en/7/676415",
+    "id": "676415",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dampers [parts of machines]",
+    "harm": {
+      "id": "0030445",
+      "title": "676415 - Dampers [parts of machines]",
+      "conceptLink": "/ec2/concept/5979336"
+    }
+  },
+  {
+    "uri": "en/7/676430",
+    "id": "676430",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Damping rollers being parts of machines",
+    "harm": {
+      "id": "0007304",
+      "title": "676430 - Damping rollers being parts of machines",
+      "conceptLink": "/ec2/concept/5958145"
+    }
+  },
+  {
+    "uri": "en/7/123546",
+    "id": "123546",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Darning machines",
+    "harm": {
+      "id": "0036424",
+      "title": "123546 - Darning machines",
+      "conceptLink": "/ec2/concept/5984767"
+    }
+  },
+  {
+    "uri": "en/7/676443",
+    "id": "676443",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dashpot plungers [parts of engines or motors]",
+    "harm": {
+      "id": "0030446",
+      "title": "676443 - Dashpot plungers [parts of engines or motors]",
+      "conceptLink": "/ec2/concept/5979337"
+    }
+  },
+  {
+    "uri": "en/7/125965",
+    "id": "125965",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dashpot plungers [parts of machines]",
+    "harm": {
+      "id": "0023752",
+      "title": "125965 - Dashpot plungers [parts of machines]",
+      "conceptLink": "/ec2/concept/5973195"
+    }
+  },
+  {
+    "uri": "en/7/119525856",
+    "id": "119525856",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "DC generators",
+    "harm": {
+      "id": "0003448",
+      "title": "119525856 - DC generators",
+      "conceptLink": "/ec2/concept/5954604"
+    }
+  },
+  {
+    "uri": "en/7/116812",
+    "id": "116812",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "De-aerators for feedwater",
+    "harm": {
+      "id": "0045313",
+      "title": "116812 - De-aerators for feedwater",
+      "conceptLink": "/ec2/concept/5992891"
+    }
+  },
+  {
+    "uri": "en/7/676455",
+    "id": "676455",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Deburring machines",
+    "harm": {
+      "id": "0030447",
+      "title": "676455 - Deburring machines",
+      "conceptLink": "/ec2/concept/5979338"
+    }
+  },
+  {
+    "uri": "en/7/676467",
+    "id": "676467",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Deburring tools [parts of machines]",
+    "harm": {
+      "id": "0013113",
+      "title": "676467 - Deburring tools [parts of machines]",
+      "conceptLink": "/ec2/concept/5963459"
+    }
+  },
+  {
+    "uri": "en/7/676480",
+    "id": "676480",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Decanter centrifuges incorporating screw conveyors",
+    "harm": {
+      "id": "0030448",
+      "title": "676480 - Decanter centrifuges incorporating screw conveyors",
+      "conceptLink": "/ec2/concept/5979339"
+    }
+  },
+  {
+    "uri": "en/7/120895148",
+    "id": "120895148",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Decatizing machines",
+    "harm": {
+      "id": "0003987",
+      "title": "120895148 - Decatizing machines",
+      "conceptLink": "/ec2/concept/5955093"
+    }
+  },
+  {
+    "uri": "en/7/116870",
+    "id": "116870",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Degreasers [machines]",
+    "harm": {
+      "id": "0024699",
+      "title": "116870 - Degreasers [machines]",
+      "conceptLink": "/ec2/concept/5974074"
+    }
+  },
+  {
+    "uri": "en/7/116869",
+    "id": "116869",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Degreasing machines",
+    "harm": {
+      "id": "0024699",
+      "title": "116869 - Degreasing machines",
+      "conceptLink": "/ec2/concept/5974074"
+    }
+  },
+  {
+    "uri": "en/7/676493",
+    "id": "676493",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Deionizing machines",
+    "harm": {
+      "id": "0030449",
+      "title": "676493 - Deionizing machines",
+      "conceptLink": "/ec2/concept/5979340"
+    }
+  },
+  {
+    "uri": "en/7/676505",
+    "id": "676505",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Demolition hammers [machines]",
+    "harm": {
+      "id": "0042004",
+      "title": "676505 - Demolition hammers [machines]",
+      "conceptLink": "/ec2/concept/5989861"
+    }
+  },
+  {
+    "uri": "en/7/676520",
+    "id": "676520",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Densifiers",
+    "harm": {
+      "id": "0036237",
+      "title": "676520 - Densifiers",
+      "conceptLink": "/ec2/concept/5984597"
+    }
+  },
+  {
+    "uri": "en/7/676532",
+    "id": "676532",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Depalletisers [machines]",
+    "harm": {
+      "id": "0001539",
+      "title": "676532 - Depalletisers [machines]",
+      "conceptLink": "/ec2/concept/5952872"
+    }
+  },
+  {
+    "uri": "en/7/120514",
+    "id": "120514",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Derricks",
+    "harm": {
+      "id": "0017396",
+      "title": "120514 - Derricks",
+      "conceptLink": "/ec2/concept/5967380"
+    }
+  },
+  {
+    "uri": "en/7/676546",
+    "id": "676546",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diamond cutting tools for machines",
+    "harm": {
+      "id": "0036238",
+      "title": "676546 - Diamond cutting tools for machines",
+      "conceptLink": "/ec2/concept/5984598"
+    }
+  },
+  {
+    "uri": "en/7/676561",
+    "id": "676561",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diamond drill bits for machines",
+    "harm": {
+      "id": "0001540",
+      "title": "676561 - Diamond drill bits for machines",
+      "conceptLink": "/ec2/concept/5952873"
+    }
+  },
+  {
+    "uri": "en/7/321373",
+    "id": "321373",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diamond-pointed metal-cutting tools",
+    "harm": {
+      "id": "0038136",
+      "title": "321373 - Diamond-pointed metal-cutting tools",
+      "conceptLink": "/ec2/concept/5986323"
+    }
+  },
+  {
+    "uri": "en/7/124402522",
+    "id": "124402522",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diamonds (glaziers' -) [parts of machines]",
+    "harm": {
+      "id": "0041189",
+      "title": "124402522 - Diamonds (glaziers' -) [parts of machines]",
+      "conceptLink": "/ec2/concept/5989117"
+    }
+  },
+  {
+    "uri": "en/7/676575",
+    "id": "676575",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphgram pumps",
+    "harm": {
+      "id": "0013114",
+      "title": "676575 - Diaphgram pumps",
+      "conceptLink": "/ec2/concept/5963460"
+    }
+  },
+  {
+    "uri": "en/7/124904929",
+    "id": "124904929",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphgrams (Pump -)",
+    "harm": {
+      "id": "0013114",
+      "title": "124904929 - Diaphgrams (Pump -)",
+      "conceptLink": "/ec2/concept/5963460"
+    }
+  },
+  {
+    "uri": "en/7/676591",
+    "id": "676591",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphragm pumps for pumping liquid material",
+    "harm": {
+      "id": "0036239",
+      "title": "676591 - Diaphragm pumps for pumping liquid material",
+      "conceptLink": "/ec2/concept/5984599"
+    }
+  },
+  {
+    "uri": "en/7/676590",
+    "id": "676590",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphragm pumps for pumping fluid material",
+    "harm": {
+      "id": "0036239",
+      "title": "676590 - Diaphragm pumps for pumping fluid material",
+      "conceptLink": "/ec2/concept/5984599"
+    }
+  },
+  {
+    "uri": "en/7/676610",
+    "id": "676610",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphragm pumps for pumping semi-liquid material",
+    "harm": {
+      "id": "0026042",
+      "title": "676610 - Diaphragm pumps for pumping semi-liquid material",
+      "conceptLink": "/ec2/concept/5975301"
+    }
+  },
+  {
+    "uri": "en/7/120788",
+    "id": "120788",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diaphragms (Pump -)",
+    "harm": {
+      "id": "0039584",
+      "title": "120788 - Diaphragms (Pump -)",
+      "conceptLink": "/ec2/concept/5987646"
+    }
+  },
+  {
+    "uri": "en/7/676640",
+    "id": "676640",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die-casting machines",
+    "harm": {
+      "id": "0018855",
+      "title": "676640 - Die-casting machines",
+      "conceptLink": "/ec2/concept/5968727"
+    }
+  },
+  {
+    "uri": "en/7/117529",
+    "id": "117529",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die-cutting and tapping machines",
+    "harm": {
+      "id": "0038011",
+      "title": "117529 - Die-cutting and tapping machines",
+      "conceptLink": "/ec2/concept/5986209"
+    }
+  },
+  {
+    "uri": "en/7/118047",
+    "id": "118047",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die-cutting machines",
+    "harm": {
+      "id": "0047265",
+      "title": "118047 - Die-cutting machines",
+      "conceptLink": "/ec2/concept/5994625"
+    }
+  },
+  {
+    "uri": "en/7/676624",
+    "id": "676624",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die holders for use with machines",
+    "harm": {
+      "id": "0036411",
+      "title": "676624 - Die holders for use with machines",
+      "conceptLink": "/ec2/concept/5984756"
+    }
+  },
+  {
+    "uri": "en/7/118045",
+    "id": "118045",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die-stamping machines",
+    "harm": {
+      "id": "0047257",
+      "title": "118045 - Die-stamping machines",
+      "conceptLink": "/ec2/concept/5994617"
+    }
+  },
+  {
+    "uri": "en/7/113518",
+    "id": "113518",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Die-tapping machines",
+    "harm": {
+      "id": "0002972",
+      "title": "113518 - Die-tapping machines",
+      "conceptLink": "/ec2/concept/5954167"
+    }
+  },
+  {
+    "uri": "en/7/676655",
+    "id": "676655",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dies for machine tools",
+    "harm": {
+      "id": "0043396",
+      "title": "676655 - Dies for machine tools",
+      "conceptLink": "/ec2/concept/5991125"
+    }
+  },
+  {
+    "uri": "en/7/388435",
+    "id": "388435",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dies for use with machine tools",
+    "harm": {
+      "id": "0043396",
+      "title": "388435 - Dies for use with machine tools",
+      "conceptLink": "/ec2/concept/5991125"
+    }
+  },
+  {
+    "uri": "en/7/676669",
+    "id": "676669",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel electric generators",
+    "harm": {
+      "id": "0043397",
+      "title": "676669 - Diesel electric generators",
+      "conceptLink": "/ec2/concept/5991126"
+    }
+  },
+  {
+    "uri": "en/7/113460",
+    "id": "113460",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel-engine heating plugs",
+    "harm": {
+      "id": "0019594",
+      "title": "113460 - Diesel-engine heating plugs",
+      "conceptLink": "/ec2/concept/5969397"
+    }
+  },
+  {
+    "uri": "en/7/676686",
+    "id": "676686",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel engines for air vehicles",
+    "harm": {
+      "id": "0031835",
+      "title": "676686 - Diesel engines for air vehicles",
+      "conceptLink": "/ec2/concept/5980593"
+    }
+  },
+  {
+    "uri": "en/7/388451",
+    "id": "388451",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel engines for machines",
+    "harm": {
+      "id": "0036753",
+      "title": "388451 - Diesel engines for machines",
+      "conceptLink": "/ec2/concept/5985071"
+    }
+  },
+  {
+    "uri": "en/7/676706",
+    "id": "676706",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel engines for water vehicles",
+    "harm": {
+      "id": "0002971",
+      "title": "676706 - Diesel engines for water vehicles",
+      "conceptLink": "/ec2/concept/5954166"
+    }
+  },
+  {
+    "uri": "en/7/902950",
+    "id": "902950",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel engines not for land vehicles",
+    "harm": {
+      "id": "0007725",
+      "title": "902950 - Diesel engines not for land vehicles",
+      "conceptLink": "/ec2/concept/5958526"
+    }
+  },
+  {
+    "uri": "en/7/676723",
+    "id": "676723",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel injection devices",
+    "harm": {
+      "id": "0037640",
+      "title": "676723 - Diesel injection devices",
+      "conceptLink": "/ec2/concept/5985869"
+    }
+  },
+  {
+    "uri": "en/7/676687",
+    "id": "676687",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel motors for air vehicles",
+    "harm": {
+      "id": "0031835",
+      "title": "676687 - Diesel motors for air vehicles",
+      "conceptLink": "/ec2/concept/5980593"
+    }
+  },
+  {
+    "uri": "en/7/388452",
+    "id": "388452",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel motors for machines",
+    "harm": {
+      "id": "0036753",
+      "title": "388452 - Diesel motors for machines",
+      "conceptLink": "/ec2/concept/5985071"
+    }
+  },
+  {
+    "uri": "en/7/676707",
+    "id": "676707",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diesel motors for water vehicles",
+    "harm": {
+      "id": "0002971",
+      "title": "676707 - Diesel motors for water vehicles",
+      "conceptLink": "/ec2/concept/5954166"
+    }
+  },
+  {
+    "uri": "en/7/676775",
+    "id": "676775",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential gear mechanisms for water vehicles",
+    "harm": {
+      "id": "0002973",
+      "title": "676775 - Differential gear mechanisms for water vehicles",
+      "conceptLink": "/ec2/concept/5954168"
+    }
+  },
+  {
+    "uri": "en/7/676762",
+    "id": "676762",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential gear mechanisms for sea craft",
+    "harm": {
+      "id": "0002973",
+      "title": "676762 - Differential gear mechanisms for sea craft",
+      "conceptLink": "/ec2/concept/5954168"
+    }
+  },
+  {
+    "uri": "en/7/676736",
+    "id": "676736",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential gear mechanisms for air vehicles",
+    "harm": {
+      "id": "0020376",
+      "title": "676736 - Differential gear mechanisms for air vehicles",
+      "conceptLink": "/ec2/concept/5970105"
+    }
+  },
+  {
+    "uri": "en/7/676749",
+    "id": "676749",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential gear mechanisms for machines",
+    "harm": {
+      "id": "0031836",
+      "title": "676749 - Differential gear mechanisms for machines",
+      "conceptLink": "/ec2/concept/5980594"
+    }
+  },
+  {
+    "uri": "en/7/676827",
+    "id": "676827",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential transmissions for water vehicles",
+    "harm": {
+      "id": "0002973",
+      "title": "676827 - Differential transmissions for water vehicles",
+      "conceptLink": "/ec2/concept/5954168"
+    }
+  },
+  {
+    "uri": "en/7/676814",
+    "id": "676814",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential transmissions for sea craft",
+    "harm": {
+      "id": "0002973",
+      "title": "676814 - Differential transmissions for sea craft",
+      "conceptLink": "/ec2/concept/5954168"
+    }
+  },
+  {
+    "uri": "en/7/676788",
+    "id": "676788",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential transmissions for air vehicles",
+    "harm": {
+      "id": "0020376",
+      "title": "676788 - Differential transmissions for air vehicles",
+      "conceptLink": "/ec2/concept/5970105"
+    }
+  },
+  {
+    "uri": "en/7/676801",
+    "id": "676801",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Differential transmissions for machines",
+    "harm": {
+      "id": "0031836",
+      "title": "676801 - Differential transmissions for machines",
+      "conceptLink": "/ec2/concept/5980594"
+    }
+  },
+  {
+    "uri": "en/7/47136094",
+    "id": "47136094",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diffusion pumps",
+    "harm": {
+      "id": "0056852",
+      "title": "47136094 - Diffusion pumps",
+      "conceptLink": "/ec2/concept/5998127"
+    }
+  },
+  {
+    "uri": "en/7/126074",
+    "id": "126074",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Diggers [machines]",
+    "harm": {
+      "id": "0058932",
+      "title": "126074 - Diggers [machines]",
+      "conceptLink": "/ec2/concept/6000423"
+    }
+  },
+  {
+    "uri": "en/7/676840",
+    "id": "676840",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Digital electro-hydraulic proportioning valves",
+    "harm": {
+      "id": "0043911",
+      "title": "676840 - Digital electro-hydraulic proportioning valves",
+      "conceptLink": "/ec2/concept/5991600"
+    }
+  },
+  {
+    "uri": "en/7/321389",
+    "id": "321389",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Dip-dyeing machines",
+    "harm": {
+      "id": "0038137",
+      "title": "321389 - Dip-dyeing machines",
+      "conceptLink": "/ec2/concept/5986324"
+    }
+  },
+  {
+    "uri": "en/7/676852",
+    "id": "676852",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Direct current generator brushes [parts of machines]",
+    "harm": {
+      "id": "0043912",
+      "title": "676852 - Direct current generator brushes [parts of machines]",
+      "conceptLink": "/ec2/concept/5991601"
+    }
+  },
+  {
+    "uri": "en/7/321347",
+    "id": "321347",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Direct current generators",
+    "harm": {
+      "id": "0003448",
+      "title": "321347 - Direct current generators",
+      "conceptLink": "/ec2/concept/5954604"
+    }
+  },
+  {
+    "uri": "en/7/321402",
+    "id": "321402",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Direct current motors",
+    "harm": {
+      "id": "0015041",
+      "title": "321402 - Direct current motors",
+      "conceptLink": "/ec2/concept/5965224"
+    }
+  },
+  {
+    "uri": "en/7/676868",
+    "id": "676868",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Disc brakes being parts of machines",
+    "harm": {
+      "id": "0015104",
+      "title": "676868 - Disc brakes being parts of machines",
+      "conceptLink": "/ec2/concept/5965282"
+    }
+  },
+  {
+    "uri": "en/7/388468",
+    "id": "388468",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Disc brakes for machines",
+    "harm": {
+      "id": "0013604",
+      "title": "388468 - Disc brakes for machines",
+      "conceptLink": "/ec2/concept/5963899"
+    }
+  },
+  {
+    "uri": "en/7/13634960",
+    "id": "13634960",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Disc harrows",
+    "harm": {
+      "id": "0065547",
+      "title": "13634960 - Disc harrows",
+      "conceptLink": "/ec2/concept/6001750"
+    }
+  }
+]

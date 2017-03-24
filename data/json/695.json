@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/45011",
+    "id": "45011",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by bus",
+    "harm": {
+      "id": "0058780",
+      "title": "45011 - Transportation by bus",
+      "conceptLink": "/ec2/concept/6000271"
+    }
+  },
+  {
+    "uri": "en/39/838122",
+    "id": "838122",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by courier",
+    "harm": {
+      "id": "0043169",
+      "title": "838122 - Transportation by courier",
+      "conceptLink": "/ec2/concept/5990917"
+    }
+  },
+  {
+    "uri": "en/39/837889",
+    "id": "837889",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by land",
+    "harm": {
+      "id": "0008429",
+      "title": "837889 - Transportation by land",
+      "conceptLink": "/ec2/concept/5959167"
+    }
+  },
+  {
+    "uri": "en/39/838137",
+    "id": "838137",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by marine container ship",
+    "harm": {
+      "id": "0014284",
+      "title": "838137 - Transportation by marine container ship",
+      "conceptLink": "/ec2/concept/5964536"
+    }
+  },
+  {
+    "uri": "en/39/45449",
+    "id": "45449",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by rail",
+    "harm": {
+      "id": "0046495",
+      "title": "45449 - Transportation by rail",
+      "conceptLink": "/ec2/concept/5993936"
+    }
+  },
+  {
+    "uri": "en/39/44900",
+    "id": "44900",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation by road",
+    "harm": {
+      "id": "0046459",
+      "title": "44900 - Transportation by road",
+      "conceptLink": "/ec2/concept/5993907"
+    }
+  },
+  {
+    "uri": "en/39/80155913",
+    "id": "80155913",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation check-in services",
+    "harm": {
+      "id": "0068750",
+      "title": "80155913 - Transportation check-in services",
+      "conceptLink": "/ec2/concept/6004953"
+    }
+  },
+  {
+    "uri": "en/39/49208",
+    "id": "49208",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation information",
+    "harm": {
+      "id": "0047059",
+      "title": "49208 - Transportation information",
+      "conceptLink": "/ec2/concept/5994436"
+    }
+  },
+  {
+    "uri": "en/39/458108",
+    "id": "458108",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation logistics",
+    "harm": {
+      "id": "0006019",
+      "title": "458108 - Transportation logistics",
+      "conceptLink": "/ec2/concept/5956968"
+    }
+  },
+  {
+    "uri": "en/39/838150",
+    "id": "838150",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of animals",
+    "harm": {
+      "id": "0043170",
+      "title": "838150 - Transportation of animals",
+      "conceptLink": "/ec2/concept/5990918"
+    }
+  },
+  {
+    "uri": "en/39/45661",
+    "id": "45661",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of baggage",
+    "harm": {
+      "id": "0033520",
+      "title": "45661 - Transportation of baggage",
+      "conceptLink": "/ec2/concept/5982134"
+    }
+  },
+  {
+    "uri": "en/39/838166",
+    "id": "838166",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of bitumen",
+    "harm": {
+      "id": "0043172",
+      "title": "838166 - Transportation of bitumen",
+      "conceptLink": "/ec2/concept/5990919"
+    }
+  },
+  {
+    "uri": "en/39/838178",
+    "id": "838178",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of books",
+    "harm": {
+      "id": "0020132",
+      "title": "838178 - Transportation of books",
+      "conceptLink": "/ec2/concept/5969884"
+    }
+  },
+  {
+    "uri": "en/39/46193",
+    "id": "46193",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of cargo",
+    "harm": {
+      "id": "0041785",
+      "title": "46193 - Transportation of cargo",
+      "conceptLink": "/ec2/concept/5989660"
+    }
+  },
+  {
+    "uri": "en/39/830231",
+    "id": "830231",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of cargo by air",
+    "harm": {
+      "id": "0057426",
+      "title": "830231 - Transportation of cargo by air",
+      "conceptLink": "/ec2/concept/5998933"
+    }
+  },
+  {
+    "uri": "en/39/838193",
+    "id": "838193",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of cargo by land vehicle",
+    "harm": {
+      "id": "0037414",
+      "title": "838193 - Transportation of cargo by land vehicle",
+      "conceptLink": "/ec2/concept/5985670"
+    }
+  },
+  {
+    "uri": "en/39/838206",
+    "id": "838206",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of clothing",
+    "harm": {
+      "id": "0008430",
+      "title": "838206 - Transportation of clothing",
+      "conceptLink": "/ec2/concept/5959168"
+    }
+  },
+  {
+    "uri": "en/39/838219",
+    "id": "838219",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of containers",
+    "harm": {
+      "id": "0002729",
+      "title": "838219 - Transportation of containers",
+      "conceptLink": "/ec2/concept/5953945"
+    }
+  },
+  {
+    "uri": "en/39/838232",
+    "id": "838232",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of cosmetics",
+    "harm": {
+      "id": "0043173",
+      "title": "838232 - Transportation of cosmetics",
+      "conceptLink": "/ec2/concept/5990920"
+    }
+  },
+  {
+    "uri": "en/39/838245",
+    "id": "838245",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of crude oil",
+    "harm": {
+      "id": "0012905",
+      "title": "838245 - Transportation of crude oil",
+      "conceptLink": "/ec2/concept/5963272"
+    }
+  },
+  {
+    "uri": "en/39/838259",
+    "id": "838259",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of dry gas",
+    "harm": {
+      "id": "0007077",
+      "title": "838259 - Transportation of dry gas",
+      "conceptLink": "/ec2/concept/5957931"
+    }
+  },
+  {
+    "uri": "en/39/495822",
+    "id": "495822",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of flowers",
+    "harm": {
+      "id": "0001305",
+      "title": "495822 - Transportation of flowers",
+      "conceptLink": "/ec2/concept/5952658"
+    }
+  },
+  {
+    "uri": "en/39/835341",
+    "id": "835341",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of fluids by pipeline",
+    "harm": {
+      "id": "0012906",
+      "title": "835341 - Transportation of fluids by pipeline",
+      "conceptLink": "/ec2/concept/5963273"
+    }
+  },
+  {
+    "uri": "en/39/458958",
+    "id": "458958",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of food",
+    "harm": {
+      "id": "0000125",
+      "title": "458958 - Transportation of food",
+      "conceptLink": "/ec2/concept/5951601"
+    }
+  },
+  {
+    "uri": "en/39/838286",
+    "id": "838286",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of freight by water",
+    "harm": {
+      "id": "0007078",
+      "title": "838286 - Transportation of freight by water",
+      "conceptLink": "/ec2/concept/5957932"
+    }
+  },
+  {
+    "uri": "en/39/838271",
+    "id": "838271",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of freight by road",
+    "harm": {
+      "id": "0018700",
+      "title": "838271 - Transportation of freight by road",
+      "conceptLink": "/ec2/concept/5968581"
+    }
+  },
+  {
+    "uri": "en/39/830235",
+    "id": "830235",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of freight by air",
+    "harm": {
+      "id": "0057427",
+      "title": "830235 - Transportation of freight by air",
+      "conceptLink": "/ec2/concept/5998934"
+    }
+  },
+  {
+    "uri": "en/39/832912",
+    "id": "832912",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of freight by land",
+    "harm": {
+      "id": "0018699",
+      "title": "832912 - Transportation of freight by land",
+      "conceptLink": "/ec2/concept/5968580"
+    }
+  },
+  {
+    "uri": "en/39/46190",
+    "id": "46190",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of freight",
+    "harm": {
+      "id": "0041785",
+      "title": "46190 - Transportation of freight",
+      "conceptLink": "/ec2/concept/5989660"
+    }
+  },
+  {
+    "uri": "en/39/838300",
+    "id": "838300",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of fruit",
+    "harm": {
+      "id": "0041786",
+      "title": "838300 - Transportation of fruit",
+      "conceptLink": "/ec2/concept/5989661"
+    }
+  },
+  {
+    "uri": "en/39/460218",
+    "id": "460218",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of furniture of others by trucks",
+    "harm": {
+      "id": "0015011",
+      "title": "460218 - Transportation of furniture of others by trucks",
+      "conceptLink": "/ec2/concept/5965200"
+    }
+  },
+  {
+    "uri": "en/39/47299",
+    "id": "47299",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of furniture",
+    "harm": {
+      "id": "0018292",
+      "title": "47299 - Transportation of furniture",
+      "conceptLink": "/ec2/concept/5968200"
+    }
+  },
+  {
+    "uri": "en/39/46194",
+    "id": "46194",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of goods",
+    "harm": {
+      "id": "0046729",
+      "title": "46194 - Transportation of goods",
+      "conceptLink": "/ec2/concept/5994138"
+    }
+  },
+  {
+    "uri": "en/39/120863875",
+    "id": "120863875",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of goods by rail",
+    "harm": {
+      "id": "0068781",
+      "title": "120863875 - Transportation of goods by rail",
+      "conceptLink": "/ec2/concept/6004984"
+    }
+  },
+  {
+    "uri": "en/39/137148980",
+    "id": "137148980",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of goods in refrigerated conditions",
+    "harm": {
+      "id": "0069834",
+      "title": "137148980 - Transportation of goods in refrigerated conditions",
+      "conceptLink": "/ec2/concept/6006037"
+    }
+  },
+  {
+    "uri": "en/39/838317",
+    "id": "838317",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of heavy fuel-oil",
+    "harm": {
+      "id": "0007079",
+      "title": "838317 - Transportation of heavy fuel-oil",
+      "conceptLink": "/ec2/concept/5957933"
+    }
+  },
+  {
+    "uri": "en/39/838330",
+    "id": "838330",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of household effects",
+    "harm": {
+      "id": "0001306",
+      "title": "838330 - Transportation of household effects",
+      "conceptLink": "/ec2/concept/5952659"
+    }
+  },
+  {
+    "uri": "en/39/45662",
+    "id": "45662",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of luggage",
+    "harm": {
+      "id": "0033520",
+      "title": "45662 - Transportation of luggage",
+      "conceptLink": "/ec2/concept/5982134"
+    }
+  },
+  {
+    "uri": "en/39/120889563",
+    "id": "120889563",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of mechanics to grounded aircraft via airplane",
+    "harm": {
+      "id": "0068714",
+      "title": "120889563 - Transportation of mechanics to grounded aircraft via airplane",
+      "conceptLink": "/ec2/concept/6004917"
+    }
+  },
+  {
+    "uri": "en/39/460231",
+    "id": "460231",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of medical waste and special waste",
+    "harm": {
+      "id": "0043844",
+      "title": "460231 - Transportation of medical waste and special waste",
+      "conceptLink": "/ec2/concept/5991537"
+    }
+  },
+  {
+    "uri": "en/39/458023",
+    "id": "458023",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of money",
+    "harm": {
+      "id": "0047376",
+      "title": "458023 - Transportation of money",
+      "conceptLink": "/ec2/concept/5994710"
+    }
+  },
+  {
+    "uri": "en/39/835307",
+    "id": "835307",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of oil by pipeline",
+    "harm": {
+      "id": "0010405",
+      "title": "835307 - Transportation of oil by pipeline",
+      "conceptLink": "/ec2/concept/5960977"
+    }
+  },
+  {
+    "uri": "en/39/838343",
+    "id": "838343",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of parcels overnight",
+    "harm": {
+      "id": "0027777",
+      "title": "838343 - Transportation of parcels overnight",
+      "conceptLink": "/ec2/concept/5976880"
+    }
+  },
+  {
+    "uri": "en/39/45560",
+    "id": "45560",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of parcels",
+    "harm": {
+      "id": "0057588",
+      "title": "45560 - Transportation of parcels",
+      "conceptLink": "/ec2/concept/5999093"
+    }
+  },
+  {
+    "uri": "en/39/838414",
+    "id": "838414",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by ferryboat",
+    "harm": {
+      "id": "0004695",
+      "title": "838414 - Transportation of passengers by ferryboat",
+      "conceptLink": "/ec2/concept/5955754"
+    }
+  },
+  {
+    "uri": "en/39/838402",
+    "id": "838402",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by airship",
+    "harm": {
+      "id": "0016219",
+      "title": "838402 - Transportation of passengers by airship",
+      "conceptLink": "/ec2/concept/5966319"
+    }
+  },
+  {
+    "uri": "en/39/838426",
+    "id": "838426",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by minibus",
+    "harm": {
+      "id": "0027778",
+      "title": "838426 - Transportation of passengers by minibus",
+      "conceptLink": "/ec2/concept/5976881"
+    }
+  },
+  {
+    "uri": "en/39/830370",
+    "id": "830370",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by air",
+    "harm": {
+      "id": "0035650",
+      "title": "830370 - Transportation of passengers by air",
+      "conceptLink": "/ec2/concept/5984067"
+    }
+  },
+  {
+    "uri": "en/39/838438",
+    "id": "838438",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers in chauffeur driven vehicles",
+    "harm": {
+      "id": "0028958",
+      "title": "838438 - Transportation of passengers in chauffeur driven vehicles",
+      "conceptLink": "/ec2/concept/5977977"
+    }
+  },
+  {
+    "uri": "en/39/835255",
+    "id": "835255",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by rail",
+    "harm": {
+      "id": "0057329",
+      "title": "835255 - Transportation of passengers by rail",
+      "conceptLink": "/ec2/concept/5998838"
+    }
+  },
+  {
+    "uri": "en/39/835199",
+    "id": "835199",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by road",
+    "harm": {
+      "id": "0033521",
+      "title": "835199 - Transportation of passengers by road",
+      "conceptLink": "/ec2/concept/5982135"
+    }
+  },
+  {
+    "uri": "en/39/48020",
+    "id": "48020",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers",
+    "harm": {
+      "id": "0072827",
+      "title": "48020 - Transportation of passengers",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/370926",
+    "id": "370926",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by boat",
+    "harm": {
+      "id": "0005974",
+      "title": "370926 - Transportation of passengers by boat",
+      "conceptLink": "/ec2/concept/5956923"
+    }
+  },
+  {
+    "uri": "en/39/838364",
+    "id": "838364",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers' baggage",
+    "harm": {
+      "id": "0000100",
+      "title": "838364 - Transportation of passengers' baggage",
+      "conceptLink": "/ec2/concept/5951577"
+    }
+  },
+  {
+    "uri": "en/39/120889216",
+    "id": "120889216",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by cruise ship",
+    "harm": {
+      "id": "0068687",
+      "title": "120889216 - Transportation of passengers by cruise ship",
+      "conceptLink": "/ec2/concept/6004890"
+    }
+  },
+  {
+    "uri": "en/39/837971",
+    "id": "837971",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by coach",
+    "harm": {
+      "id": "0004694",
+      "title": "837971 - Transportation of passengers by coach",
+      "conceptLink": "/ec2/concept/5955753"
+    }
+  },
+  {
+    "uri": "en/39/837936",
+    "id": "837936",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by bus",
+    "harm": {
+      "id": "0004694",
+      "title": "837936 - Transportation of passengers by bus",
+      "conceptLink": "/ec2/concept/5955753"
+    }
+  },
+  {
+    "uri": "en/39/837939",
+    "id": "837939",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by omnibus",
+    "harm": {
+      "id": "0004694",
+      "title": "837939 - Transportation of passengers by omnibus",
+      "conceptLink": "/ec2/concept/5955753"
+    }
+  },
+  {
+    "uri": "en/39/835228",
+    "id": "835228",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by land",
+    "harm": {
+      "id": "0013548",
+      "title": "835228 - Transportation of passengers by land",
+      "conceptLink": "/ec2/concept/5963853"
+    }
+  },
+  {
+    "uri": "en/39/838365",
+    "id": "838365",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers' luggage",
+    "harm": {
+      "id": "0000100",
+      "title": "838365 - Transportation of passengers' luggage",
+      "conceptLink": "/ec2/concept/5951577"
+    }
+  },
+  {
+    "uri": "en/39/838367",
+    "id": "838367",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers and passengers' luggage",
+    "harm": {
+      "id": "0000100",
+      "title": "838367 - Transportation of passengers and passengers' luggage",
+      "conceptLink": "/ec2/concept/5951577"
+    }
+  },
+  {
+    "uri": "en/39/24022874",
+    "id": "24022874",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of passengers by train",
+    "harm": {
+      "id": "0057330",
+      "title": "24022874 - Transportation of passengers by train",
+      "conceptLink": "/ec2/concept/5998839"
+    }
+  },
+  {
+    "uri": "en/39/838477",
+    "id": "838477",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of patients by minibus",
+    "harm": {
+      "id": "0034747",
+      "title": "838477 - Transportation of patients by minibus",
+      "conceptLink": "/ec2/concept/5983246"
+    }
+  },
+  {
+    "uri": "en/39/838452",
+    "id": "838452",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of patients by ambulance",
+    "harm": {
+      "id": "0028959",
+      "title": "838452 - Transportation of patients by ambulance",
+      "conceptLink": "/ec2/concept/5977978"
+    }
+  },
+  {
+    "uri": "en/39/838464",
+    "id": "838464",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of patients by car",
+    "harm": {
+      "id": "0023251",
+      "title": "838464 - Transportation of patients by car",
+      "conceptLink": "/ec2/concept/5972730"
+    }
+  },
+  {
+    "uri": "en/39/48027",
+    "id": "48027",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of people",
+    "harm": {
+      "id": "0072827",
+      "title": "48027 - Transportation of people",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/48024",
+    "id": "48024",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of persons",
+    "harm": {
+      "id": "0072827",
+      "title": "48024 - Transportation of persons",
+      "conceptLink": "/ec2/concept/6009002"
+    }
+  },
+  {
+    "uri": "en/39/838489",
+    "id": "838489",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of pet animals",
+    "harm": {
+      "id": "0034748",
+      "title": "838489 - Transportation of pet animals",
+      "conceptLink": "/ec2/concept/5983247"
+    }
+  },
+  {
+    "uri": "en/39/838502",
+    "id": "838502",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of petroleum",
+    "harm": {
+      "id": "0011635",
+      "title": "838502 - Transportation of petroleum",
+      "conceptLink": "/ec2/concept/5962103"
+    }
+  },
+  {
+    "uri": "en/39/838515",
+    "id": "838515",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of pharmaceuticals by road",
+    "harm": {
+      "id": "0028960",
+      "title": "838515 - Transportation of pharmaceuticals by road",
+      "conceptLink": "/ec2/concept/5977979"
+    }
+  },
+  {
+    "uri": "en/39/838528",
+    "id": "838528",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of plants",
+    "harm": {
+      "id": "0028961",
+      "title": "838528 - Transportation of plants",
+      "conceptLink": "/ec2/concept/5977980"
+    }
+  },
+  {
+    "uri": "en/39/48028",
+    "id": "48028",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of travellers",
+    "harm": {
+      "id": "0072826",
+      "title": "48028 - Transportation of travellers",
+      "conceptLink": "/ec2/concept/6009001"
+    }
+  },
+  {
+    "uri": "en/39/838366",
+    "id": "838366",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of travellers' baggage",
+    "harm": {
+      "id": "0000100",
+      "title": "838366 - Transportation of travellers' baggage",
+      "conceptLink": "/ec2/concept/5951577"
+    }
+  },
+  {
+    "uri": "en/39/458024",
+    "id": "458024",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of valuables",
+    "harm": {
+      "id": "0047388",
+      "title": "458024 - Transportation of valuables",
+      "conceptLink": "/ec2/concept/5994719"
+    }
+  },
+  {
+    "uri": "en/39/44901",
+    "id": "44901",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of vehicles",
+    "harm": {
+      "id": "0039632",
+      "title": "44901 - Transportation of vehicles",
+      "conceptLink": "/ec2/concept/5987689"
+    }
+  },
+  {
+    "uri": "en/39/838546",
+    "id": "838546",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of waste",
+    "harm": {
+      "id": "0032761",
+      "title": "838546 - Transportation of waste",
+      "conceptLink": "/ec2/concept/5981436"
+    }
+  },
+  {
+    "uri": "en/39/838565",
+    "id": "838565",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of waste to disposal sites",
+    "harm": {
+      "id": "0016557",
+      "title": "838565 - Transportation of waste to disposal sites",
+      "conceptLink": "/ec2/concept/5966624"
+    }
+  },
+  {
+    "uri": "en/39/838578",
+    "id": "838578",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation of works of art",
+    "harm": {
+      "id": "0016558",
+      "title": "838578 - Transportation of works of art",
+      "conceptLink": "/ec2/concept/5966625"
+    }
+  },
+  {
+    "uri": "en/39/49601",
+    "id": "49601",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation reservation services",
+    "harm": {
+      "id": "0047326",
+      "title": "49601 - Transportation reservation services",
+      "conceptLink": "/ec2/concept/5994673"
+    }
+  },
+  {
+    "uri": "en/39/47385",
+    "id": "47385",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services",
+    "harm": {
+      "id": "0029041",
+      "title": "47385 - Transportation services",
+      "conceptLink": "/ec2/concept/5978053"
+    }
+  },
+  {
+    "uri": "en/39/47521",
+    "id": "47521",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services by boat",
+    "harm": {
+      "id": "0058382",
+      "title": "47521 - Transportation services by boat",
+      "conceptLink": "/ec2/concept/5999881"
+    }
+  },
+  {
+    "uri": "en/39/44290",
+    "id": "44290",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services for the sick",
+    "harm": {
+      "id": "0012515",
+      "title": "44290 - Transportation services for the sick",
+      "conceptLink": "/ec2/concept/5962914"
+    }
+  },
+  {
+    "uri": "en/39/838606",
+    "id": "838606",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services for nursing staff",
+    "harm": {
+      "id": "0010763",
+      "title": "838606 - Transportation services for nursing staff",
+      "conceptLink": "/ec2/concept/5961310"
+    }
+  },
+  {
+    "uri": "en/39/838619",
+    "id": "838619",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services for the injured",
+    "harm": {
+      "id": "0010764",
+      "title": "838619 - Transportation services for the injured",
+      "conceptLink": "/ec2/concept/5961311"
+    }
+  },
+  {
+    "uri": "en/39/838593",
+    "id": "838593",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transportation services for medical staff",
+    "harm": {
+      "id": "0033848",
+      "title": "838593 - Transportation services for medical staff",
+      "conceptLink": "/ec2/concept/5982434"
+    }
+  },
+  {
+    "uri": "en/39/47302",
+    "id": "47302",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transporting furniture",
+    "harm": {
+      "id": "0018292",
+      "title": "47302 - Transporting furniture",
+      "conceptLink": "/ec2/concept/5968200"
+    }
+  },
+  {
+    "uri": "en/39/487834",
+    "id": "487834",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Transshipment services",
+    "harm": {
+      "id": "0017477",
+      "title": "487834 - Transshipment services",
+      "conceptLink": "/ec2/concept/5967455"
+    }
+  },
+  {
+    "uri": "en/39/458408",
+    "id": "458408",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agencies",
+    "harm": {
+      "id": "0029042",
+      "title": "458408 - Travel agencies",
+      "conceptLink": "/ec2/concept/5978054"
+    }
+  },
+  {
+    "uri": "en/39/458409",
+    "id": "458409",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency",
+    "harm": {
+      "id": "0029042",
+      "title": "458409 - Travel agency",
+      "conceptLink": "/ec2/concept/5978054"
+    }
+  },
+  {
+    "uri": "en/39/458406",
+    "id": "458406",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency and booking services",
+    "harm": {
+      "id": "0040614",
+      "title": "458406 - Travel agency and booking services",
+      "conceptLink": "/ec2/concept/5988594"
+    }
+  },
+  {
+    "uri": "en/39/458410",
+    "id": "458410",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services",
+    "harm": {
+      "id": "0029042",
+      "title": "458410 - Travel agency services",
+      "conceptLink": "/ec2/concept/5978054"
+    }
+  },
+  {
+    "uri": "en/39/838657",
+    "id": "838657",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services for business travel",
+    "harm": {
+      "id": "0016559",
+      "title": "838657 - Travel agency services for business travel",
+      "conceptLink": "/ec2/concept/5966626"
+    }
+  },
+  {
+    "uri": "en/39/838643",
+    "id": "838643",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services for arranging holiday travel",
+    "harm": {
+      "id": "0010765",
+      "title": "838643 - Travel agency services for arranging holiday travel",
+      "conceptLink": "/ec2/concept/5961312"
+    }
+  },
+  {
+    "uri": "en/39/460247",
+    "id": "460247",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services for arranging travel",
+    "harm": {
+      "id": "0042302",
+      "title": "460247 - Travel agency services for arranging travel",
+      "conceptLink": "/ec2/concept/5990133"
+    }
+  },
+  {
+    "uri": "en/39/907791",
+    "id": "907791",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services, namely, making reservations and bookings for transportation",
+    "harm": {
+      "id": "0005069",
+      "title": "907791 - Travel agency services, namely, making reservations and bookings for transportation",
+      "conceptLink": "/ec2/concept/5956099"
+    }
+  },
+  {
+    "uri": "en/39/838685",
+    "id": "838685",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agency services relating to travel by omnibus",
+    "harm": {
+      "id": "0028106",
+      "title": "838685 - Travel agency services relating to travel by omnibus",
+      "conceptLink": "/ec2/concept/5977177"
+    }
+  },
+  {
+    "uri": "en/39/460248",
+    "id": "460248",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel agents services for arranging travel",
+    "harm": {
+      "id": "0042302",
+      "title": "460248 - Travel agents services for arranging travel",
+      "conceptLink": "/ec2/concept/5990133"
+    }
+  },
+  {
+    "uri": "en/39/131140661",
+    "id": "131140661",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel and passenger transportation",
+    "harm": {
+      "id": "0070512",
+      "title": "131140661 - Travel and passenger transportation",
+      "conceptLink": "/ec2/concept/6006704"
+    }
+  },
+  {
+    "uri": "en/39/371444",
+    "id": "371444",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel and tour ticket reservation service",
+    "harm": {
+      "id": "0018777",
+      "title": "371444 - Travel and tour ticket reservation service",
+      "conceptLink": "/ec2/concept/5968656"
+    }
+  },
+  {
+    "uri": "en/39/460311",
+    "id": "460311",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Travel and transport reservation services",
+    "harm": {
+      "id": "0043845",
+      "title": "460311 - Travel and transport reservation services",
+      "conceptLink": "/ec2/concept/5991538"
+    }
+  }
+]

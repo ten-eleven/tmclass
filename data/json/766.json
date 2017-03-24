@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/233249858",
+    "id": "233249858",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific and technological design",
+    "harm": {
+      "id": "0073181",
+      "title": "233249858 - Scientific and technological design",
+      "conceptLink": "/ec2/concept/6009354"
+    }
+  },
+  {
+    "uri": "en/42/872733",
+    "id": "872733",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific computer programming services",
+    "harm": {
+      "id": "0013383",
+      "title": "872733 - Scientific computer programming services",
+      "conceptLink": "/ec2/concept/5963705"
+    }
+  },
+  {
+    "uri": "en/42/872747",
+    "id": "872747",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific consultancy",
+    "harm": {
+      "id": "0019207",
+      "title": "872747 - Scientific consultancy",
+      "conceptLink": "/ec2/concept/5969048"
+    }
+  },
+  {
+    "uri": "en/42/17618701",
+    "id": "17618701",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific investigations for medical purposes",
+    "harm": {
+      "id": "0056720",
+      "title": "17618701 - Scientific investigations for medical purposes",
+      "conceptLink": "/ec2/concept/5998007"
+    }
+  },
+  {
+    "uri": "en/42/52614252",
+    "id": "52614252",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific laboratory services",
+    "harm": {
+      "id": "0046132",
+      "title": "52614252 - Scientific laboratory services",
+      "conceptLink": "/ec2/concept/5993639"
+    }
+  },
+  {
+    "uri": "en/42/474525",
+    "id": "474525",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research",
+    "harm": {
+      "id": "0057139",
+      "title": "474525 - Scientific research",
+      "conceptLink": "/ec2/concept/5998759"
+    }
+  },
+  {
+    "uri": "en/42/21849213",
+    "id": "21849213",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research and analysis",
+    "harm": {
+      "id": "0069290",
+      "title": "21849213 - Scientific research and analysis",
+      "conceptLink": "/ec2/concept/6005493"
+    }
+  },
+  {
+    "uri": "en/42/1246228",
+    "id": "1246228",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research and development",
+    "harm": {
+      "id": "0056721",
+      "title": "1246228 - Scientific research and development",
+      "conceptLink": "/ec2/concept/5998008"
+    }
+  },
+  {
+    "uri": "en/42/137891342",
+    "id": "137891342",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research conducted using databases",
+    "harm": {
+      "id": "0051505",
+      "title": "137891342 - Scientific research conducted using databases",
+      "conceptLink": "/ec2/concept/6010491"
+    }
+  },
+  {
+    "uri": "en/42/907127",
+    "id": "907127",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research for medical purposes in the area of cancerous diseases",
+    "harm": {
+      "id": "0027070",
+      "title": "907127 - Scientific research for medical purposes in the area of cancerous diseases",
+      "conceptLink": "/ec2/concept/5976226"
+    }
+  },
+  {
+    "uri": "en/42/2147657",
+    "id": "2147657",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research for medical purposes",
+    "harm": {
+      "id": "0071379",
+      "title": "2147657 - Scientific research for medical purposes",
+      "conceptLink": "/ec2/concept/6007570"
+    }
+  },
+  {
+    "uri": "en/42/375287",
+    "id": "375287",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research in the field of genetics and genetic engineering",
+    "harm": {
+      "id": "0008892",
+      "title": "375287 - Scientific research in the field of genetics and genetic engineering",
+      "conceptLink": "/ec2/concept/5959589"
+    }
+  },
+  {
+    "uri": "en/42/872785",
+    "id": "872785",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research in the field of social medicine",
+    "harm": {
+      "id": "0013384",
+      "title": "872785 - Scientific research in the field of social medicine",
+      "conceptLink": "/ec2/concept/5963706"
+    }
+  },
+  {
+    "uri": "en/42/872770",
+    "id": "872770",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research in the field of pharmacy",
+    "harm": {
+      "id": "0042258",
+      "title": "872770 - Scientific research in the field of pharmacy",
+      "conceptLink": "/ec2/concept/5990092"
+    }
+  },
+  {
+    "uri": "en/42/872882",
+    "id": "872882",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to genetics of plants",
+    "harm": {
+      "id": "0020598",
+      "title": "872882 - Scientific research relating to genetics of plants",
+      "conceptLink": "/ec2/concept/5970303"
+    }
+  },
+  {
+    "uri": "en/42/872825",
+    "id": "872825",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to chemistry",
+    "harm": {
+      "id": "0013385",
+      "title": "872825 - Scientific research relating to chemistry",
+      "conceptLink": "/ec2/concept/5963707"
+    }
+  },
+  {
+    "uri": "en/42/872800",
+    "id": "872800",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to bacteriology",
+    "harm": {
+      "id": "0019208",
+      "title": "872800 - Scientific research relating to bacteriology",
+      "conceptLink": "/ec2/concept/5969049"
+    }
+  },
+  {
+    "uri": "en/42/872812",
+    "id": "872812",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to biology",
+    "harm": {
+      "id": "0030695",
+      "title": "872812 - Scientific research relating to biology",
+      "conceptLink": "/ec2/concept/5979570"
+    }
+  },
+  {
+    "uri": "en/42/872840",
+    "id": "872840",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to cosmetics",
+    "harm": {
+      "id": "0030696",
+      "title": "872840 - Scientific research relating to cosmetics",
+      "conceptLink": "/ec2/concept/5979571"
+    }
+  },
+  {
+    "uri": "en/42/872853",
+    "id": "872853",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to ecology",
+    "harm": {
+      "id": "0030697",
+      "title": "872853 - Scientific research relating to ecology",
+      "conceptLink": "/ec2/concept/5979572"
+    }
+  },
+  {
+    "uri": "en/42/120876936",
+    "id": "120876936",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to hair care preparations",
+    "harm": {
+      "id": "0069138",
+      "title": "120876936 - Scientific research relating to hair care preparations",
+      "conceptLink": "/ec2/concept/6005341"
+    }
+  },
+  {
+    "uri": "en/42/872867",
+    "id": "872867",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research relating to genetics",
+    "harm": {
+      "id": "0042259",
+      "title": "872867 - Scientific research relating to genetics",
+      "conceptLink": "/ec2/concept/5990093"
+    }
+  },
+  {
+    "uri": "en/42/474574",
+    "id": "474574",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific research services",
+    "harm": {
+      "id": "0057139",
+      "title": "474574 - Scientific research services",
+      "conceptLink": "/ec2/concept/5998759"
+    }
+  },
+  {
+    "uri": "en/42/132420273",
+    "id": "132420273",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific services and design relating thereto",
+    "harm": {
+      "id": "0048135",
+      "title": "132420273 - Scientific services and design relating thereto",
+      "conceptLink": "/ec2/concept/5995386"
+    }
+  },
+  {
+    "uri": "en/42/16378165",
+    "id": "16378165",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific services and research relating thereto",
+    "harm": {
+      "id": "0048133",
+      "title": "16378165 - Scientific services and research relating thereto",
+      "conceptLink": "/ec2/concept/5995384"
+    }
+  },
+  {
+    "uri": "en/42/120876715",
+    "id": "120876715",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific services relating to the isolation and cultivation of human tissues and cells",
+    "harm": {
+      "id": "0069191",
+      "title": "120876715 - Scientific services relating to the isolation and cultivation of human tissues and cells",
+      "conceptLink": "/ec2/concept/6005394"
+    }
+  },
+  {
+    "uri": "en/42/872899",
+    "id": "872899",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Scientific testing services",
+    "harm": {
+      "id": "0020599",
+      "title": "872899 - Scientific testing services",
+      "conceptLink": "/ec2/concept/5970304"
+    }
+  },
+  {
+    "uri": "en/42/233252376",
+    "id": "233252376",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Search engine design services",
+    "harm": {
+      "id": "0073277",
+      "title": "233252376 - Search engine design services",
+      "conceptLink": "/ec2/concept/6009450"
+    }
+  },
+  {
+    "uri": "en/42/496332",
+    "id": "496332",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Search engines (Providing -) for the internet",
+    "harm": {
+      "id": "0029328",
+      "title": "496332 - Search engines (Providing -) for the internet",
+      "conceptLink": "/ec2/concept/5978308"
+    }
+  },
+  {
+    "uri": "en/42/872913",
+    "id": "872913",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Seed testing services",
+    "harm": {
+      "id": "0008902",
+      "title": "872913 - Seed testing services",
+      "conceptLink": "/ec2/concept/5959599"
+    }
+  },
+  {
+    "uri": "en/42/65329",
+    "id": "65329",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Seeding of clouds",
+    "harm": {
+      "id": "0043584",
+      "title": "65329 - Seeding of clouds",
+      "conceptLink": "/ec2/concept/5991300"
+    }
+  },
+  {
+    "uri": "en/42/1504595",
+    "id": "1504595",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Server administration",
+    "harm": {
+      "id": "0069443",
+      "title": "1504595 - Server administration",
+      "conceptLink": "/ec2/concept/6005646"
+    }
+  },
+  {
+    "uri": "en/42/3929479",
+    "id": "3929479",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Server hosting",
+    "harm": {
+      "id": "0046255",
+      "title": "3929479 - Server hosting",
+      "conceptLink": "/ec2/concept/5993721"
+    }
+  },
+  {
+    "uri": "en/42/496114",
+    "id": "496114",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Servers (Rental of Web -)",
+    "harm": {
+      "id": "0008903",
+      "title": "496114 - Servers (Rental of Web -)",
+      "conceptLink": "/ec2/concept/5959600"
+    }
+  },
+  {
+    "uri": "en/42/872969",
+    "id": "872969",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for assessing the efficiency of veterinary drugs",
+    "harm": {
+      "id": "0008904",
+      "title": "872969 - Services for assessing the efficiency of veterinary drugs",
+      "conceptLink": "/ec2/concept/5959601"
+    }
+  },
+  {
+    "uri": "en/42/872954",
+    "id": "872954",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for assessing the efficiency of pharmaceuticals",
+    "harm": {
+      "id": "0014758",
+      "title": "872954 - Services for assessing the efficiency of pharmaceuticals",
+      "conceptLink": "/ec2/concept/5964968"
+    }
+  },
+  {
+    "uri": "en/42/872926",
+    "id": "872926",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for assessing the efficiency of agricultural chemicals",
+    "harm": {
+      "id": "0014757",
+      "title": "872926 - Services for assessing the efficiency of agricultural chemicals",
+      "conceptLink": "/ec2/concept/5964967"
+    }
+  },
+  {
+    "uri": "en/42/872939",
+    "id": "872939",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for assessing the efficiency of industrial chemicals",
+    "harm": {
+      "id": "0037823",
+      "title": "872939 - Services for assessing the efficiency of industrial chemicals",
+      "conceptLink": "/ec2/concept/5986037"
+    }
+  },
+  {
+    "uri": "en/42/470808",
+    "id": "470808",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for designing computer software",
+    "harm": {
+      "id": "0057033",
+      "title": "470808 - Services for designing computer software",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/907148",
+    "id": "907148",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for maintenance of computer software",
+    "harm": {
+      "id": "0058851",
+      "title": "907148 - Services for maintenance of computer software",
+      "conceptLink": "/ec2/concept/6000342"
+    }
+  },
+  {
+    "uri": "en/42/899939",
+    "id": "899939",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for monitoring industrial processes",
+    "harm": {
+      "id": "0004705",
+      "title": "899939 - Services for monitoring industrial processes",
+      "conceptLink": "/ec2/concept/5955763"
+    }
+  },
+  {
+    "uri": "en/42/471175",
+    "id": "471175",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for renting computers",
+    "harm": {
+      "id": "0059221",
+      "title": "471175 - Services for renting computers",
+      "conceptLink": "/ec2/concept/6000710"
+    }
+  },
+  {
+    "uri": "en/42/907149",
+    "id": "907149",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for reproducing computer programs",
+    "harm": {
+      "id": "0013967",
+      "title": "907149 - Services for reproducing computer programs",
+      "conceptLink": "/ec2/concept/5964237"
+    }
+  },
+  {
+    "uri": "en/42/64888",
+    "id": "64888",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the design of computer systems",
+    "harm": {
+      "id": "0035550",
+      "title": "64888 - Services for the design of computer systems",
+      "conceptLink": "/ec2/concept/5983978"
+    }
+  },
+  {
+    "uri": "en/42/865621",
+    "id": "865621",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the design of business premises",
+    "harm": {
+      "id": "0037824",
+      "title": "865621 - Services for the design of business premises",
+      "conceptLink": "/ec2/concept/5986038"
+    }
+  },
+  {
+    "uri": "en/42/63402",
+    "id": "63402",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the design of computer software",
+    "harm": {
+      "id": "0057033",
+      "title": "63402 - Services for the design of computer software",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/872982",
+    "id": "872982",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the design of electronic data processing software",
+    "harm": {
+      "id": "0040539",
+      "title": "872982 - Services for the design of electronic data processing software",
+      "conceptLink": "/ec2/concept/5988522"
+    }
+  },
+  {
+    "uri": "en/42/872998",
+    "id": "872998",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the design of maps",
+    "harm": {
+      "id": "0040540",
+      "title": "872998 - Services for the design of maps",
+      "conceptLink": "/ec2/concept/5988523"
+    }
+  },
+  {
+    "uri": "en/42/873013",
+    "id": "873013",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the development of methods of testing",
+    "harm": {
+      "id": "0005890",
+      "title": "873013 - Services for the development of methods of testing",
+      "conceptLink": "/ec2/concept/5956844"
+    }
+  },
+  {
+    "uri": "en/42/873025",
+    "id": "873025",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the digitalization of charts",
+    "harm": {
+      "id": "0034755",
+      "title": "873025 - Services for the digitalization of charts",
+      "conceptLink": "/ec2/concept/5983254"
+    }
+  },
+  {
+    "uri": "en/42/873037",
+    "id": "873037",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the digitalization of maps",
+    "harm": {
+      "id": "0023255",
+      "title": "873037 - Services for the digitalization of maps",
+      "conceptLink": "/ec2/concept/5972734"
+    }
+  },
+  {
+    "uri": "en/42/873051",
+    "id": "873051",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the industrial design of computers",
+    "harm": {
+      "id": "0011638",
+      "title": "873051 - Services for the industrial design of computers",
+      "conceptLink": "/ec2/concept/5962106"
+    }
+  },
+  {
+    "uri": "en/42/64217",
+    "id": "64217",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the leasing of computer software",
+    "harm": {
+      "id": "0057847",
+      "title": "64217 - Services for the leasing of computer software",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/873065",
+    "id": "873065",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of catering establishments",
+    "harm": {
+      "id": "0034756",
+      "title": "873065 - Services for the planning [design] of catering establishments",
+      "conceptLink": "/ec2/concept/5983255"
+    }
+  },
+  {
+    "uri": "en/42/873093",
+    "id": "873093",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of hotels",
+    "harm": {
+      "id": "0034758",
+      "title": "873093 - Services for the planning [design] of hotels",
+      "conceptLink": "/ec2/concept/5983257"
+    }
+  },
+  {
+    "uri": "en/42/873122",
+    "id": "873122",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning of residential communities",
+    "harm": {
+      "id": "0034759",
+      "title": "873122 - Services for the planning of residential communities",
+      "conceptLink": "/ec2/concept/5983258"
+    }
+  },
+  {
+    "uri": "en/42/870509",
+    "id": "870509",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of clubs",
+    "harm": {
+      "id": "0034757",
+      "title": "870509 - Services for the planning [design] of clubs",
+      "conceptLink": "/ec2/concept/5983256"
+    }
+  },
+  {
+    "uri": "en/42/873107",
+    "id": "873107",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of public houses",
+    "harm": {
+      "id": "0023256",
+      "title": "873107 - Services for the planning [design] of public houses",
+      "conceptLink": "/ec2/concept/5972735"
+    }
+  },
+  {
+    "uri": "en/42/873079",
+    "id": "873079",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of hospitals",
+    "harm": {
+      "id": "0000105",
+      "title": "873079 - Services for the planning [design] of hospitals",
+      "conceptLink": "/ec2/concept/5951581"
+    }
+  },
+  {
+    "uri": "en/42/870592",
+    "id": "870592",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the planning [design] of offices",
+    "harm": {
+      "id": "0040541",
+      "title": "870592 - Services for the planning [design] of offices",
+      "conceptLink": "/ec2/concept/5988524"
+    }
+  },
+  {
+    "uri": "en/42/873134",
+    "id": "873134",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the provision of technological information",
+    "harm": {
+      "id": "0017427",
+      "title": "873134 - Services for the provision of technological information",
+      "conceptLink": "/ec2/concept/5967410"
+    }
+  },
+  {
+    "uri": "en/42/63633",
+    "id": "63633",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the updating of computer programmes",
+    "harm": {
+      "id": "0015094",
+      "title": "63633 - Services for the updating of computer programmes",
+      "conceptLink": "/ec2/concept/5965273"
+    }
+  },
+  {
+    "uri": "en/42/873167",
+    "id": "873167",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the writing of computer software",
+    "harm": {
+      "id": "0020260",
+      "title": "873167 - Services for the writing of computer software",
+      "conceptLink": "/ec2/concept/5969997"
+    }
+  },
+  {
+    "uri": "en/42/873166",
+    "id": "873166",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for the writing of computer programs",
+    "harm": {
+      "id": "0025918",
+      "title": "873166 - Services for the writing of computer programs",
+      "conceptLink": "/ec2/concept/5975186"
+    }
+  },
+  {
+    "uri": "en/42/907150",
+    "id": "907150",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services for updating computer software",
+    "harm": {
+      "id": "0058057",
+      "title": "907150 - Services for updating computer software",
+      "conceptLink": "/ec2/concept/5999558"
+    }
+  },
+  {
+    "uri": "en/42/474594",
+    "id": "474594",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services of a chemical and/or biological laboratory",
+    "harm": {
+      "id": "0021191",
+      "title": "474594 - Services of a chemical and/or biological laboratory",
+      "conceptLink": "/ec2/concept/5970854"
+    }
+  },
+  {
+    "uri": "en/42/120819908",
+    "id": "120819908",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services of a chemical laboratory",
+    "harm": {
+      "id": "0057593",
+      "title": "120819908 - Services of a chemical laboratory",
+      "conceptLink": "/ec2/concept/5999098"
+    }
+  },
+  {
+    "uri": "en/42/119695871",
+    "id": "119695871",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services of a chemist",
+    "harm": {
+      "id": "0057592",
+      "title": "119695871 - Services of a chemist",
+      "conceptLink": "/ec2/concept/5999097"
+    }
+  },
+  {
+    "uri": "en/42/91375225",
+    "id": "91375225",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services of a graphic designer",
+    "harm": {
+      "id": "0058636",
+      "title": "91375225 - Services of a graphic designer",
+      "conceptLink": "/ec2/concept/6000129"
+    }
+  },
+  {
+    "uri": "en/42/45673226",
+    "id": "45673226",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Services of an architect",
+    "harm": {
+      "id": "0057854",
+      "title": "45673226 - Services of an architect",
+      "conceptLink": "/ec2/concept/5999358"
+    }
+  },
+  {
+    "uri": "en/42/907152",
+    "id": "907152",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Set design for theatrical enterprises",
+    "harm": {
+      "id": "0019826",
+      "title": "907152 - Set design for theatrical enterprises",
+      "conceptLink": "/ec2/concept/5969601"
+    }
+  },
+  {
+    "uri": "en/42/865572",
+    "id": "865572",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Ship design",
+    "harm": {
+      "id": "0031726",
+      "title": "865572 - Ship design",
+      "conceptLink": "/ec2/concept/5980492"
+    }
+  },
+  {
+    "uri": "en/42/873191",
+    "id": "873191",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Ship design consultancy services",
+    "harm": {
+      "id": "0025919",
+      "title": "873191 - Ship design consultancy services",
+      "conceptLink": "/ec2/concept/5975187"
+    }
+  },
+  {
+    "uri": "en/42/866656",
+    "id": "866656",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Shop design",
+    "harm": {
+      "id": "0001964",
+      "title": "866656 - Shop design",
+      "conceptLink": "/ec2/concept/5953255"
+    }
+  },
+  {
+    "uri": "en/42/375310",
+    "id": "375310",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Shop interior design",
+    "harm": {
+      "id": "0006255",
+      "title": "375310 - Shop interior design",
+      "conceptLink": "/ec2/concept/5957185"
+    }
+  },
+  {
+    "uri": "en/42/873203",
+    "id": "873203",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Shopfitting design consultancy services",
+    "harm": {
+      "id": "0037540",
+      "title": "873203 - Shopfitting design consultancy services",
+      "conceptLink": "/ec2/concept/5985781"
+    }
+  },
+  {
+    "uri": "en/42/873218",
+    "id": "873218",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Shopfitting design services",
+    "harm": {
+      "id": "0006255",
+      "title": "873218 - Shopfitting design services",
+      "conceptLink": "/ec2/concept/5957185"
+    }
+  },
+  {
+    "uri": "en/42/873232",
+    "id": "873232",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Shopping centre design",
+    "harm": {
+      "id": "0037541",
+      "title": "873232 - Shopping centre design",
+      "conceptLink": "/ec2/concept/5985782"
+    }
+  },
+  {
+    "uri": "en/42/233656295",
+    "id": "233656295",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Smartphone software design",
+    "harm": {
+      "id": "0073896",
+      "title": "233656295 - Smartphone software design",
+      "conceptLink": "/ec2/concept/6010848"
+    }
+  },
+  {
+    "uri": "en/42/94857099",
+    "id": "94857099",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software as a service",
+    "harm": {
+      "id": "0046252",
+      "title": "94857099 - Software as a service",
+      "conceptLink": "/ec2/concept/5993720"
+    }
+  },
+  {
+    "uri": "en/42/129398758",
+    "id": "129398758",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software as a service [SaaS]",
+    "harm": {
+      "id": "0046252",
+      "title": "129398758 - Software as a service [SaaS]",
+      "conceptLink": "/ec2/concept/5993720"
+    }
+  },
+  {
+    "uri": "en/42/63405",
+    "id": "63405",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software authoring",
+    "harm": {
+      "id": "0037542",
+      "title": "63405 - Software authoring",
+      "conceptLink": "/ec2/concept/5985783"
+    }
+  },
+  {
+    "uri": "en/42/470631",
+    "id": "470631",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software consultancy services",
+    "harm": {
+      "id": "0046585",
+      "title": "470631 - Software consultancy services",
+      "conceptLink": "/ec2/concept/5994014"
+    }
+  },
+  {
+    "uri": "en/42/470632",
+    "id": "470632",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software consulting services",
+    "harm": {
+      "id": "0046585",
+      "title": "470632 - Software consulting services",
+      "conceptLink": "/ec2/concept/5994014"
+    }
+  },
+  {
+    "uri": "en/42/63409",
+    "id": "63409",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software creation",
+    "harm": {
+      "id": "0037542",
+      "title": "63409 - Software creation",
+      "conceptLink": "/ec2/concept/5985783"
+    }
+  },
+  {
+    "uri": "en/42/474636",
+    "id": "474636",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software customisation services",
+    "harm": {
+      "id": "0003305",
+      "title": "474636 - Software customisation services",
+      "conceptLink": "/ec2/concept/5954474"
+    }
+  },
+  {
+    "uri": "en/42/63404",
+    "id": "63404",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software design",
+    "harm": {
+      "id": "0057033",
+      "title": "63404 - Software design",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/902718",
+    "id": "902718",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software design and development",
+    "harm": {
+      "id": "0002640",
+      "title": "902718 - Software design and development",
+      "conceptLink": "/ec2/concept/5953864"
+    }
+  },
+  {
+    "uri": "en/42/63398",
+    "id": "63398",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software design (Computer -)",
+    "harm": {
+      "id": "0057033",
+      "title": "63398 - Software design (Computer -)",
+      "conceptLink": "/ec2/concept/5998664"
+    }
+  },
+  {
+    "uri": "en/42/374400",
+    "id": "374400",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software design for others",
+    "harm": {
+      "id": "0026322",
+      "title": "374400 - Software design for others",
+      "conceptLink": "/ec2/concept/5975560"
+    }
+  },
+  {
+    "uri": "en/42/63406",
+    "id": "63406",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software development",
+    "harm": {
+      "id": "0058434",
+      "title": "63406 - Software development",
+      "conceptLink": "/ec2/concept/5999933"
+    }
+  },
+  {
+    "uri": "en/42/131125745",
+    "id": "131125745",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software development, programming and implementation",
+    "harm": {
+      "id": "0048030",
+      "title": "131125745 - Software development, programming and implementation",
+      "conceptLink": "/ec2/concept/5995289"
+    }
+  },
+  {
+    "uri": "en/42/470806",
+    "id": "470806",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software development services",
+    "harm": {
+      "id": "0058434",
+      "title": "470806 - Software development services",
+      "conceptLink": "/ec2/concept/5999933"
+    }
+  },
+  {
+    "uri": "en/42/63408",
+    "id": "63408",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software engineering",
+    "harm": {
+      "id": "0014918",
+      "title": "63408 - Software engineering",
+      "conceptLink": "/ec2/concept/5965115"
+    }
+  },
+  {
+    "uri": "en/42/120878265",
+    "id": "120878265",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software engineering services for data processing programs",
+    "harm": {
+      "id": "0069338",
+      "title": "120878265 - Software engineering services for data processing programs",
+      "conceptLink": "/ec2/concept/6005541"
+    }
+  },
+  {
+    "uri": "en/42/65244",
+    "id": "65244",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software installation",
+    "harm": {
+      "id": "0059071",
+      "title": "65244 - Software installation",
+      "conceptLink": "/ec2/concept/6000562"
+    }
+  },
+  {
+    "uri": "en/42/64512",
+    "id": "64512",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software maintenance services",
+    "harm": {
+      "id": "0058851",
+      "title": "64512 - Software maintenance services",
+      "conceptLink": "/ec2/concept/6000342"
+    }
+  },
+  {
+    "uri": "en/42/64211",
+    "id": "64211",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software (Rental of computer -)",
+    "harm": {
+      "id": "0057847",
+      "title": "64211 - Software (Rental of computer -)",
+      "conceptLink": "/ec2/concept/5999351"
+    }
+  },
+  {
+    "uri": "en/42/474659",
+    "id": "474659",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software research",
+    "harm": {
+      "id": "0026417",
+      "title": "474659 - Software research",
+      "conceptLink": "/ec2/concept/5975645"
+    }
+  },
+  {
+    "uri": "en/42/63628",
+    "id": "63628",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Software (Updating of computer -)",
+    "harm": {
+      "id": "0058057",
+      "title": "63628 - Software (Updating of computer -)",
+      "conceptLink": "/ec2/concept/5999558"
+    }
+  }
+]

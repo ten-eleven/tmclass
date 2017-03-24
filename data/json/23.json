@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/631189",
+    "id": "631189",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabric stiffeners for artistic work",
+    "harm": {
+      "id": "0031116",
+      "title": "631189 - Fabric stiffeners for artistic work",
+      "conceptLink": "/ec2/concept/5979952"
+    }
+  },
+  {
+    "uri": "en/1/631203",
+    "id": "631203",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabric stiffeners for decorative work",
+    "harm": {
+      "id": "0031117",
+      "title": "631203 - Fabric stiffeners for decorative work",
+      "conceptLink": "/ec2/concept/5979953"
+    }
+  },
+  {
+    "uri": "en/1/10757",
+    "id": "10757",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fabrics (Stain-preventing chemicals for use on -)",
+    "harm": {
+      "id": "0031118",
+      "title": "10757 - Fabrics (Stain-preventing chemicals for use on -)",
+      "conceptLink": "/ec2/concept/5979954"
+    }
+  },
+  {
+    "uri": "en/1/12431",
+    "id": "12431",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fat-bleaching chemicals",
+    "harm": {
+      "id": "0024429",
+      "title": "12431 - Fat-bleaching chemicals",
+      "conceptLink": "/ec2/concept/5973819"
+    }
+  },
+  {
+    "uri": "en/1/132868252",
+    "id": "132868252",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acid-based diesel fuel conditioners",
+    "harm": {
+      "id": "0065030",
+      "title": "132868252 - Fatty acid-based diesel fuel conditioners",
+      "conceptLink": "/ec2/concept/6001233"
+    }
+  },
+  {
+    "uri": "en/1/132868247",
+    "id": "132868247",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acid-based gasoline fuel conditioners",
+    "harm": {
+      "id": "0065029",
+      "title": "132868247 - Fatty acid-based gasoline fuel conditioners",
+      "conceptLink": "/ec2/concept/6001232"
+    }
+  },
+  {
+    "uri": "en/1/631215",
+    "id": "631215",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acid esters",
+    "harm": {
+      "id": "0019673",
+      "title": "631215 - Fatty acid esters",
+      "conceptLink": "/ec2/concept/5969466"
+    }
+  },
+  {
+    "uri": "en/1/12470",
+    "id": "12470",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acids",
+    "harm": {
+      "id": "0042990",
+      "title": "12470 - Fatty acids",
+      "conceptLink": "/ec2/concept/5990753"
+    }
+  },
+  {
+    "uri": "en/1/119731634",
+    "id": "119731634",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acids for industrial purposes",
+    "harm": {
+      "id": "0042990",
+      "title": "119731634 - Fatty acids for industrial purposes",
+      "conceptLink": "/ec2/concept/5990753"
+    }
+  },
+  {
+    "uri": "en/1/119731635",
+    "id": "119731635",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fatty acids for industrial use",
+    "harm": {
+      "id": "0065047",
+      "title": "119731635 - Fatty acids for industrial use",
+      "conceptLink": "/ec2/concept/6001250"
+    }
+  },
+  {
+    "uri": "en/1/377554",
+    "id": "377554",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fermentation extract",
+    "harm": {
+      "id": "0017809",
+      "title": "377554 - Fermentation extract",
+      "conceptLink": "/ec2/concept/5967758"
+    }
+  },
+  {
+    "uri": "en/1/132868347",
+    "id": "132868347",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fermentation extracts for industrial purposes",
+    "harm": {
+      "id": "0070809",
+      "title": "132868347 - Fermentation extracts for industrial purposes",
+      "conceptLink": "/ec2/concept/6007001"
+    }
+  },
+  {
+    "uri": "en/1/119520827",
+    "id": "119520827",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fermented rice bran for use in the manufacture of cosmetics",
+    "harm": {
+      "id": "0065056",
+      "title": "119520827 - Fermented rice bran for use in the manufacture of cosmetics",
+      "conceptLink": "/ec2/concept/6001259"
+    }
+  },
+  {
+    "uri": "en/1/3945",
+    "id": "3945",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fermenting wine (Chemicals used in -)",
+    "harm": {
+      "id": "0000418",
+      "title": "3945 - Fermenting wine (Chemicals used in -)",
+      "conceptLink": "/ec2/concept/5951864"
+    }
+  },
+  {
+    "uri": "en/1/10958",
+    "id": "10958",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferments for chemical purposes",
+    "harm": {
+      "id": "0040587",
+      "title": "10958 - Ferments for chemical purposes",
+      "conceptLink": "/ec2/concept/5988567"
+    }
+  },
+  {
+    "uri": "en/1/13647",
+    "id": "13647",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferments (Milk -) for chemical purposes",
+    "harm": {
+      "id": "0012902",
+      "title": "13647 - Ferments (Milk -) for chemical purposes",
+      "conceptLink": "/ec2/concept/5963269"
+    }
+  },
+  {
+    "uri": "en/1/908789",
+    "id": "908789",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferments (Milk -) for industrial purposes",
+    "harm": {
+      "id": "0013578",
+      "title": "908789 - Ferments (Milk -) for industrial purposes",
+      "conceptLink": "/ec2/concept/5963878"
+    }
+  },
+  {
+    "uri": "en/1/908768",
+    "id": "908768",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferments (Milk -) for the food industry",
+    "harm": {
+      "id": "0036721",
+      "title": "908768 - Ferments (Milk -) for the food industry",
+      "conceptLink": "/ec2/concept/5985045"
+    }
+  },
+  {
+    "uri": "en/1/5974",
+    "id": "5974",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fermium",
+    "harm": {
+      "id": "0031432",
+      "title": "5974 - Fermium",
+      "conceptLink": "/ec2/concept/5980241"
+    }
+  },
+  {
+    "uri": "en/1/137871754",
+    "id": "137871754",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferric chloride",
+    "harm": {
+      "id": "0073606",
+      "title": "137871754 - Ferric chloride",
+      "conceptLink": "/ec2/concept/6009778"
+    }
+  },
+  {
+    "uri": "en/1/137871748",
+    "id": "137871748",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferric nitrate",
+    "harm": {
+      "id": "0073605",
+      "title": "137871748 - Ferric nitrate",
+      "conceptLink": "/ec2/concept/6009777"
+    }
+  },
+  {
+    "uri": "en/1/8694",
+    "id": "8694",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrocyanides",
+    "harm": {
+      "id": "0013125",
+      "title": "8694 - Ferrocyanides",
+      "conceptLink": "/ec2/concept/5963470"
+    }
+  },
+  {
+    "uri": "en/1/10980",
+    "id": "10980",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrotype plates [photography]",
+    "harm": {
+      "id": "0029009",
+      "title": "10980 - Ferrotype plates [photography]",
+      "conceptLink": "/ec2/concept/5978023"
+    }
+  },
+  {
+    "uri": "en/1/137543685",
+    "id": "137543685",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrous sulfate preparations to prevent chlorosis in plants",
+    "harm": {
+      "id": "0039603",
+      "title": "137543685 - Ferrous sulfate preparations to prevent chlorosis in plants",
+      "conceptLink": "/ec2/concept/5987663"
+    }
+  },
+  {
+    "uri": "en/1/310684",
+    "id": "310684",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrous sulfates against yellowing of plant leaves",
+    "harm": {
+      "id": "0039603",
+      "title": "310684 - Ferrous sulfates against yellowing of plant leaves",
+      "conceptLink": "/ec2/concept/5987663"
+    }
+  },
+  {
+    "uri": "en/1/137871750",
+    "id": "137871750",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrous sulfide",
+    "harm": {
+      "id": "0073607",
+      "title": "137871750 - Ferrous sulfide",
+      "conceptLink": "/ec2/concept/6009779"
+    }
+  },
+  {
+    "uri": "en/1/310696",
+    "id": "310696",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Ferrous sulphate",
+    "harm": {
+      "id": "0004994",
+      "title": "310696 - Ferrous sulphate",
+      "conceptLink": "/ec2/concept/5956032"
+    }
+  },
+  {
+    "uri": "en/1/310710",
+    "id": "310710",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertiliser for soil and potting soil",
+    "harm": {
+      "id": "0022411",
+      "title": "310710 - Fertiliser for soil and potting soil",
+      "conceptLink": "/ec2/concept/5971967"
+    }
+  },
+  {
+    "uri": "en/1/10177",
+    "id": "10177",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilisers",
+    "harm": {
+      "id": "0058757",
+      "title": "10177 - Fertilisers",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/135985632",
+    "id": "135985632",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilisers, and chemicals for use in agriculture, horticulture and forestry",
+    "harm": {
+      "id": "0047628",
+      "title": "135985632 - Fertilisers, and chemicals for use in agriculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/5994903"
+    }
+  },
+  {
+    "uri": "en/1/631245",
+    "id": "631245",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilisers consisting of compounds of nitrogen",
+    "harm": {
+      "id": "0025379",
+      "title": "631245 - Fertilisers consisting of compounds of nitrogen",
+      "conceptLink": "/ec2/concept/5974692"
+    }
+  },
+  {
+    "uri": "en/1/83523860",
+    "id": "83523860",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilisers for soil and potting soil",
+    "harm": {
+      "id": "0022411",
+      "title": "83523860 - Fertilisers for soil and potting soil",
+      "conceptLink": "/ec2/concept/5971967"
+    }
+  },
+  {
+    "uri": "en/1/884224",
+    "id": "884224",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilising preparations",
+    "harm": {
+      "id": "0058756",
+      "title": "884224 - Fertilising preparations",
+      "conceptLink": "/ec2/concept/6000247"
+    }
+  },
+  {
+    "uri": "en/1/631257",
+    "id": "631257",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilized bases made of mineral wool for growing plants",
+    "harm": {
+      "id": "0036973",
+      "title": "631257 - Fertilized bases made of mineral wool for growing plants",
+      "conceptLink": "/ec2/concept/5985271"
+    }
+  },
+  {
+    "uri": "en/1/631271",
+    "id": "631271",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilized preparations of mineral wool for growing plants",
+    "harm": {
+      "id": "0042712",
+      "title": "631271 - Fertilized preparations of mineral wool for growing plants",
+      "conceptLink": "/ec2/concept/5990503"
+    }
+  },
+  {
+    "uri": "en/1/631284",
+    "id": "631284",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizer compositions",
+    "harm": {
+      "id": "0042713",
+      "title": "631284 - Fertilizer compositions",
+      "conceptLink": "/ec2/concept/5990504"
+    }
+  },
+  {
+    "uri": "en/1/10178",
+    "id": "10178",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers",
+    "harm": {
+      "id": "0058757",
+      "title": "10178 - Fertilizers",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/10188",
+    "id": "10188",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers and manures",
+    "harm": {
+      "id": "0058757",
+      "title": "10188 - Fertilizers and manures",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/631296",
+    "id": "631296",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers containing nitrogen and magnesium",
+    "harm": {
+      "id": "0019674",
+      "title": "631296 - Fertilizers containing nitrogen and magnesium",
+      "conceptLink": "/ec2/concept/5969467"
+    }
+  },
+  {
+    "uri": "en/1/488504",
+    "id": "488504",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for agriculture made of seaweed",
+    "harm": {
+      "id": "0015724",
+      "title": "488504 - Fertilizers for agriculture made of seaweed",
+      "conceptLink": "/ec2/concept/5965856"
+    }
+  },
+  {
+    "uri": "en/1/10176",
+    "id": "10176",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for agricultural use",
+    "harm": {
+      "id": "0058757",
+      "title": "10176 - Fertilizers for agricultural use",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/377565",
+    "id": "377565",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for domestic use",
+    "harm": {
+      "id": "0035132",
+      "title": "377565 - Fertilizers for domestic use",
+      "conceptLink": "/ec2/concept/5983592"
+    }
+  },
+  {
+    "uri": "en/1/137867769",
+    "id": "137867769",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for household plants",
+    "harm": {
+      "id": "0074021",
+      "title": "137867769 - Fertilizers for household plants",
+      "conceptLink": "/ec2/concept/6011257"
+    }
+  },
+  {
+    "uri": "en/1/10184",
+    "id": "10184",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for soil",
+    "harm": {
+      "id": "0031120",
+      "title": "10184 - Fertilizers for soil",
+      "conceptLink": "/ec2/concept/5979955"
+    }
+  },
+  {
+    "uri": "en/1/10186",
+    "id": "10186",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers for the land",
+    "harm": {
+      "id": "0040755",
+      "title": "10186 - Fertilizers for the land",
+      "conceptLink": "/ec2/concept/5988723"
+    }
+  },
+  {
+    "uri": "en/1/377582",
+    "id": "377582",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizers, lawn fertilizers, grass fertilizers",
+    "harm": {
+      "id": "0012030",
+      "title": "377582 - Fertilizers, lawn fertilizers, grass fertilizers",
+      "conceptLink": "/ec2/concept/5962474"
+    }
+  },
+  {
+    "uri": "en/1/10183",
+    "id": "10183",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fertilizing preparations",
+    "harm": {
+      "id": "0058756",
+      "title": "10183 - Fertilizing preparations",
+      "conceptLink": "/ec2/concept/6000247"
+    }
+  },
+  {
+    "uri": "en/1/892334",
+    "id": "892334",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fibres of inorganic material for separation purposes",
+    "harm": {
+      "id": "0006481",
+      "title": "892334 - Fibres of inorganic material for separation purposes",
+      "conceptLink": "/ec2/concept/5957388"
+    }
+  },
+  {
+    "uri": "en/1/892346",
+    "id": "892346",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fibres of organic material for separation purposes",
+    "harm": {
+      "id": "0000702",
+      "title": "892346 - Fibres of organic material for separation purposes",
+      "conceptLink": "/ec2/concept/5952120"
+    }
+  },
+  {
+    "uri": "en/1/631326",
+    "id": "631326",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fibrous material for use as soil conditioning agents",
+    "harm": {
+      "id": "0011852",
+      "title": "631326 - Fibrous material for use as soil conditioning agents",
+      "conceptLink": "/ec2/concept/5962305"
+    }
+  },
+  {
+    "uri": "en/1/631311",
+    "id": "631311",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fibrous material for use as manures",
+    "harm": {
+      "id": "0011851",
+      "title": "631311 - Fibrous material for use as manures",
+      "conceptLink": "/ec2/concept/5962304"
+    }
+  },
+  {
+    "uri": "en/1/377611",
+    "id": "377611",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filler for automotive body repair",
+    "harm": {
+      "id": "0008165",
+      "title": "377611 - Filler for automotive body repair",
+      "conceptLink": "/ec2/concept/5958928"
+    }
+  },
+  {
+    "uri": "en/1/631338",
+    "id": "631338",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers derived from calcitic calcium carbonate",
+    "harm": {
+      "id": "0023467",
+      "title": "631338 - Fillers derived from calcitic calcium carbonate",
+      "conceptLink": "/ec2/concept/5972933"
+    }
+  },
+  {
+    "uri": "en/1/631351",
+    "id": "631351",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers derived from calcium carbonate",
+    "harm": {
+      "id": "0029179",
+      "title": "631351 - Fillers derived from calcium carbonate",
+      "conceptLink": "/ec2/concept/5978178"
+    }
+  },
+  {
+    "uri": "en/1/631365",
+    "id": "631365",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers derived from white minerals",
+    "harm": {
+      "id": "0006074",
+      "title": "631365 - Fillers derived from white minerals",
+      "conceptLink": "/ec2/concept/5957018"
+    }
+  },
+  {
+    "uri": "en/1/631379",
+    "id": "631379",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for absorption agents",
+    "harm": {
+      "id": "0006075",
+      "title": "631379 - Fillers for absorption agents",
+      "conceptLink": "/ec2/concept/5957019"
+    }
+  },
+  {
+    "uri": "en/1/377613",
+    "id": "377613",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for automobile bodies",
+    "harm": {
+      "id": "0008165",
+      "title": "377613 - Fillers for automobile bodies",
+      "conceptLink": "/ec2/concept/5958928"
+    }
+  },
+  {
+    "uri": "en/1/631394",
+    "id": "631394",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for bleaching earths",
+    "harm": {
+      "id": "0034953",
+      "title": "631394 - Fillers for bleaching earths",
+      "conceptLink": "/ec2/concept/5983434"
+    }
+  },
+  {
+    "uri": "en/1/377615",
+    "id": "377615",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for car bodies",
+    "harm": {
+      "id": "0008165",
+      "title": "377615 - Fillers for car bodies",
+      "conceptLink": "/ec2/concept/5958928"
+    }
+  },
+  {
+    "uri": "en/1/631407",
+    "id": "631407",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for cardboard",
+    "harm": {
+      "id": "0000297",
+      "title": "631407 - Fillers for cardboard",
+      "conceptLink": "/ec2/concept/5951761"
+    }
+  },
+  {
+    "uri": "en/1/631420",
+    "id": "631420",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for drying agents",
+    "harm": {
+      "id": "0006076",
+      "title": "631420 - Fillers for drying agents",
+      "conceptLink": "/ec2/concept/5957020"
+    }
+  },
+  {
+    "uri": "en/1/631432",
+    "id": "631432",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for paper",
+    "harm": {
+      "id": "0034954",
+      "title": "631432 - Fillers for paper",
+      "conceptLink": "/ec2/concept/5983435"
+    }
+  },
+  {
+    "uri": "en/1/631447",
+    "id": "631447",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for rubber",
+    "harm": {
+      "id": "0034178",
+      "title": "631447 - Fillers for rubber",
+      "conceptLink": "/ec2/concept/5982737"
+    }
+  },
+  {
+    "uri": "en/1/631461",
+    "id": "631461",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for soaps",
+    "harm": {
+      "id": "0028399",
+      "title": "631461 - Fillers for soaps",
+      "conceptLink": "/ec2/concept/5977455"
+    }
+  },
+  {
+    "uri": "en/1/631474",
+    "id": "631474",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for toothpastes",
+    "harm": {
+      "id": "0016867",
+      "title": "631474 - Fillers for toothpastes",
+      "conceptLink": "/ec2/concept/5966907"
+    }
+  },
+  {
+    "uri": "en/1/131127298",
+    "id": "131127298",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers for vehicle body and tyre repair",
+    "harm": {
+      "id": "0047640",
+      "title": "131127298 - Fillers for vehicle body and tyre repair",
+      "conceptLink": "/ec2/concept/5994915"
+    }
+  },
+  {
+    "uri": "en/1/3438",
+    "id": "3438",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fillers (Tree cavity -) [forestry]",
+    "harm": {
+      "id": "0011853",
+      "title": "3438 - Fillers (Tree cavity -) [forestry]",
+      "conceptLink": "/ec2/concept/5962306"
+    }
+  },
+  {
+    "uri": "en/1/631485",
+    "id": "631485",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Film cleaners [chemicals]",
+    "harm": {
+      "id": "0016868",
+      "title": "631485 - Film cleaners [chemicals]",
+      "conceptLink": "/ec2/concept/5966908"
+    }
+  },
+  {
+    "uri": "en/1/631500",
+    "id": "631500",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Film strength improving agents",
+    "harm": {
+      "id": "0034179",
+      "title": "631500 - Film strength improving agents",
+      "conceptLink": "/ec2/concept/5982738"
+    }
+  },
+  {
+    "uri": "en/1/631512",
+    "id": "631512",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Film supports for holography",
+    "harm": {
+      "id": "0028400",
+      "title": "631512 - Film supports for holography",
+      "conceptLink": "/ec2/concept/5977456"
+    }
+  },
+  {
+    "uri": "en/1/19966",
+    "id": "19966",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Films (Cinematographic -), sensitized but not exposed",
+    "harm": {
+      "id": "0035819",
+      "title": "19966 - Films (Cinematographic -), sensitized but not exposed",
+      "conceptLink": "/ec2/concept/5984223"
+    }
+  },
+  {
+    "uri": "en/1/639500",
+    "id": "639500",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Films (Sensitized -), unexposed",
+    "harm": {
+      "id": "0024741",
+      "title": "639500 - Films (Sensitized -), unexposed",
+      "conceptLink": "/ec2/concept/5974113"
+    }
+  },
+  {
+    "uri": "en/1/124860976",
+    "id": "124860976",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Films (Sensitized, unexposed -) for use in photography",
+    "harm": {
+      "id": "0034180",
+      "title": "124860976 - Films (Sensitized, unexposed -) for use in photography",
+      "conceptLink": "/ec2/concept/5982739"
+    }
+  },
+  {
+    "uri": "en/1/16239",
+    "id": "16239",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Films (X-ray -), sensitized but not exposed",
+    "harm": {
+      "id": "0032424",
+      "title": "16239 - Films (X-ray -), sensitized but not exposed",
+      "conceptLink": "/ec2/concept/5981128"
+    }
+  },
+  {
+    "uri": "en/1/892938",
+    "id": "892938",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filter aids for liquid purification",
+    "harm": {
+      "id": "0002630",
+      "title": "892938 - Filter aids for liquid purification",
+      "conceptLink": "/ec2/concept/5953854"
+    }
+  },
+  {
+    "uri": "en/1/20700",
+    "id": "20700",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filter materials of ceramic [in particulate form]",
+    "harm": {
+      "id": "0031933",
+      "title": "20700 - Filter materials of ceramic [in particulate form]",
+      "conceptLink": "/ec2/concept/5980681"
+    }
+  },
+  {
+    "uri": "en/1/890405",
+    "id": "890405",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering compositions",
+    "harm": {
+      "id": "0001112",
+      "title": "890405 - Filtering compositions",
+      "conceptLink": "/ec2/concept/5952487"
+    }
+  },
+  {
+    "uri": "en/1/20412",
+    "id": "20412",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering materials [chemical preparations]",
+    "harm": {
+      "id": "0018108",
+      "title": "20412 - Filtering materials [chemical preparations]",
+      "conceptLink": "/ec2/concept/5968030"
+    }
+  },
+  {
+    "uri": "en/1/20434",
+    "id": "20434",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering materials [mineral substances]",
+    "harm": {
+      "id": "0008804",
+      "title": "20434 - Filtering materials [mineral substances]",
+      "conceptLink": "/ec2/concept/5959506"
+    }
+  },
+  {
+    "uri": "en/1/20391",
+    "id": "20391",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering materials [unprocessed plastics]",
+    "harm": {
+      "id": "0041223",
+      "title": "20391 - Filtering materials [unprocessed plastics]",
+      "conceptLink": "/ec2/concept/5989148"
+    }
+  },
+  {
+    "uri": "en/1/20458",
+    "id": "20458",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering materials [vegetable substances]",
+    "harm": {
+      "id": "0012285",
+      "title": "20458 - Filtering materials [vegetable substances]",
+      "conceptLink": "/ec2/concept/5962706"
+    }
+  },
+  {
+    "uri": "en/1/20698",
+    "id": "20698",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering media (Ceramic materials in particulate form, for use as -)",
+    "harm": {
+      "id": "0031933",
+      "title": "20698 - Filtering media (Ceramic materials in particulate form, for use as -)",
+      "conceptLink": "/ec2/concept/5980681"
+    }
+  },
+  {
+    "uri": "en/1/631538",
+    "id": "631538",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering media [chemical] for water",
+    "harm": {
+      "id": "0034181",
+      "title": "631538 - Filtering media [chemical] for water",
+      "conceptLink": "/ec2/concept/5982740"
+    }
+  },
+  {
+    "uri": "en/1/631553",
+    "id": "631553",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering media [mineral substances]",
+    "harm": {
+      "id": "0016869",
+      "title": "631553 - Filtering media [mineral substances]",
+      "conceptLink": "/ec2/concept/5966909"
+    }
+  },
+  {
+    "uri": "en/1/131116545",
+    "id": "131116545",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering media of chemical and non-chemical substances included in the class",
+    "harm": {
+      "id": "0047626",
+      "title": "131116545 - Filtering media of chemical and non-chemical substances included in the class",
+      "conceptLink": "/ec2/concept/5994901"
+    }
+  },
+  {
+    "uri": "en/1/20459",
+    "id": "20459",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering media [vegetable substances]",
+    "harm": {
+      "id": "0012285",
+      "title": "20459 - Filtering media [vegetable substances]",
+      "conceptLink": "/ec2/concept/5962706"
+    }
+  },
+  {
+    "uri": "en/1/11104",
+    "id": "11104",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtering preparations for the beverages industry",
+    "harm": {
+      "id": "0000141",
+      "title": "11104 - Filtering preparations for the beverages industry",
+      "conceptLink": "/ec2/concept/5951617"
+    }
+  },
+  {
+    "uri": "en/1/631568",
+    "id": "631568",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtration agents for enzymes",
+    "harm": {
+      "id": "0034182",
+      "title": "631568 - Filtration agents for enzymes",
+      "conceptLink": "/ec2/concept/5982741"
+    }
+  },
+  {
+    "uri": "en/1/631594",
+    "id": "631594",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtration control agents for drilling fluids for subterranean wells",
+    "harm": {
+      "id": "0021843",
+      "title": "631594 - Filtration control agents for drilling fluids for subterranean wells",
+      "conceptLink": "/ec2/concept/5971447"
+    }
+  },
+  {
+    "uri": "en/1/631607",
+    "id": "631607",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtration control agents for workover fluids for subterranean wells",
+    "harm": {
+      "id": "0033229",
+      "title": "631607 - Filtration control agents for workover fluids for subterranean wells",
+      "conceptLink": "/ec2/concept/5981864"
+    }
+  },
+  {
+    "uri": "en/1/631581",
+    "id": "631581",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Filtration control agents for completion fluids for subterranean wells",
+    "harm": {
+      "id": "0044765",
+      "title": "631581 - Filtration control agents for completion fluids for subterranean wells",
+      "conceptLink": "/ec2/concept/5992385"
+    }
+  },
+  {
+    "uri": "en/1/631619",
+    "id": "631619",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fine chemicals",
+    "harm": {
+      "id": "0044766",
+      "title": "631619 - Fine chemicals",
+      "conceptLink": "/ec2/concept/5992386"
+    }
+  },
+  {
+    "uri": "en/1/631634",
+    "id": "631634",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fining agents for beer",
+    "harm": {
+      "id": "0004395",
+      "title": "631634 - Fining agents for beer",
+      "conceptLink": "/ec2/concept/5955476"
+    }
+  },
+  {
+    "uri": "en/1/631647",
+    "id": "631647",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fining agents for cider",
+    "harm": {
+      "id": "0039041",
+      "title": "631647 - Fining agents for cider",
+      "conceptLink": "/ec2/concept/5987151"
+    }
+  },
+  {
+    "uri": "en/1/7681",
+    "id": "7681",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fining agents for wine",
+    "harm": {
+      "id": "0037688",
+      "title": "7681 - Fining agents for wine",
+      "conceptLink": "/ec2/concept/5985912"
+    }
+  },
+  {
+    "uri": "en/1/7496",
+    "id": "7496",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fining preparation (Must- -)",
+    "harm": {
+      "id": "0031890",
+      "title": "7496 - Fining preparation (Must- -)",
+      "conceptLink": "/ec2/concept/5980641"
+    }
+  },
+  {
+    "uri": "en/1/9670",
+    "id": "9670",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Finings",
+    "harm": {
+      "id": "0047295",
+      "title": "9670 - Finings",
+      "conceptLink": "/ec2/concept/5994649"
+    }
+  },
+  {
+    "uri": "en/1/7679",
+    "id": "7679",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Finings (Wine -)",
+    "harm": {
+      "id": "0037688",
+      "title": "7679 - Finings (Wine -)",
+      "conceptLink": "/ec2/concept/5985912"
+    }
+  },
+  {
+    "uri": "en/1/654",
+    "id": "654",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Finishing preparations for use in the manufacture of steel",
+    "harm": {
+      "id": "0027773",
+      "title": "654 - Finishing preparations for use in the manufacture of steel",
+      "conceptLink": "/ec2/concept/5976877"
+    }
+  },
+  {
+    "uri": "en/1/631731",
+    "id": "631731",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire retardant coatings",
+    "harm": {
+      "id": "0005497",
+      "title": "631731 - Fire absorbent chemicals for the manufacture of fire retardant coatings",
+      "conceptLink": "/ec2/concept/5956494"
+    }
+  }
+]

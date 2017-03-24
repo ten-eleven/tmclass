@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/170233",
+    "id": "170233",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for the cooling of air",
+    "harm": {
+      "id": "0047198",
+      "title": "170233 - Installations for the cooling of air",
+      "conceptLink": "/ec2/concept/5994563"
+    }
+  },
+  {
+    "uri": "en/11/132824047",
+    "id": "132824047",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for the cooling of water",
+    "harm": {
+      "id": "0058776",
+      "title": "132824047 - Installations for the cooling of water",
+      "conceptLink": "/ec2/concept/6000267"
+    }
+  },
+  {
+    "uri": "en/11/731753",
+    "id": "731753",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for the roasting of cocoa",
+    "harm": {
+      "id": "0014285",
+      "title": "731753 - Installations for the roasting of cocoa",
+      "conceptLink": "/ec2/concept/5964537"
+    }
+  },
+  {
+    "uri": "en/11/731766",
+    "id": "731766",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for the roasting of nuts",
+    "harm": {
+      "id": "0020134",
+      "title": "731766 - Installations for the roasting of nuts",
+      "conceptLink": "/ec2/concept/5969885"
+    }
+  },
+  {
+    "uri": "en/11/97019684",
+    "id": "97019684",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for water purification",
+    "harm": {
+      "id": "0058460",
+      "title": "97019684 - Installations for water purification",
+      "conceptLink": "/ec2/concept/5999959"
+    }
+  },
+  {
+    "uri": "en/11/180293",
+    "id": "180293",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for water softening",
+    "harm": {
+      "id": "0059414",
+      "title": "180293 - Installations for water softening",
+      "conceptLink": "/ec2/concept/6000892"
+    }
+  },
+  {
+    "uri": "en/11/731778",
+    "id": "731778",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Installations for water treatment under osmotic process",
+    "harm": {
+      "id": "0025797",
+      "title": "731778 - Installations for water treatment under osmotic process",
+      "conceptLink": "/ec2/concept/5975075"
+    }
+  },
+  {
+    "uri": "en/11/5642214",
+    "id": "5642214",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Instantaneous water heaters",
+    "harm": {
+      "id": "0073349",
+      "title": "5642214 - Instantaneous water heaters",
+      "conceptLink": "/ec2/concept/6009522"
+    }
+  },
+  {
+    "uri": "en/11/731791",
+    "id": "731791",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ion exchange installations",
+    "harm": {
+      "id": "0008431",
+      "title": "731791 - Ion exchange installations",
+      "conceptLink": "/ec2/concept/5959169"
+    }
+  },
+  {
+    "uri": "en/11/731803",
+    "id": "731803",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionic water generators",
+    "harm": {
+      "id": "0002730",
+      "title": "731803 - Ionic water generators",
+      "conceptLink": "/ec2/concept/5953946"
+    }
+  },
+  {
+    "uri": "en/11/3040214",
+    "id": "3040214",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionisation apparatus for the treatment of air",
+    "harm": {
+      "id": "0019543",
+      "title": "3040214 - Ionisation apparatus for the treatment of air",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/731816",
+    "id": "731816",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionisation chambers",
+    "harm": {
+      "id": "0037415",
+      "title": "731816 - Ionisation chambers",
+      "conceptLink": "/ec2/concept/5985671"
+    }
+  },
+  {
+    "uri": "en/11/731831",
+    "id": "731831",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionisers for air treatment",
+    "harm": {
+      "id": "0019543",
+      "title": "731831 - Ionisers for air treatment",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/721916",
+    "id": "721916",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionising air guns for the treatment of air",
+    "harm": {
+      "id": "0019543",
+      "title": "721916 - Ionising air guns for the treatment of air",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/731850",
+    "id": "731850",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionising brushes for the treatment of air",
+    "harm": {
+      "id": "0014286",
+      "title": "731850 - Ionising brushes for the treatment of air",
+      "conceptLink": "/ec2/concept/5964538"
+    }
+  },
+  {
+    "uri": "en/11/731863",
+    "id": "731863",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionising guns for the treatment of air",
+    "harm": {
+      "id": "0043174",
+      "title": "731863 - Ionising guns for the treatment of air",
+      "conceptLink": "/ec2/concept/5990921"
+    }
+  },
+  {
+    "uri": "en/11/2291603",
+    "id": "2291603",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionization apparatus for the treatment of air",
+    "harm": {
+      "id": "0066275",
+      "title": "2291603 - Ionization apparatus for the treatment of air",
+      "conceptLink": "/ec2/concept/6002478"
+    }
+  },
+  {
+    "uri": "en/11/120897870",
+    "id": "120897870",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionization apparatus for the treatment of water",
+    "harm": {
+      "id": "0066187",
+      "title": "120897870 - Ionization apparatus for the treatment of water",
+      "conceptLink": "/ec2/concept/6002390"
+    }
+  },
+  {
+    "uri": "en/11/178042",
+    "id": "178042",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionization apparatus for the treatment of air or water",
+    "harm": {
+      "id": "0019543",
+      "title": "178042 - Ionization apparatus for the treatment of air or water",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/178043",
+    "id": "178043",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionization instruments for the treatment of air",
+    "harm": {
+      "id": "0019543",
+      "title": "178043 - Ionization instruments for the treatment of air",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/731832",
+    "id": "731832",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ionizers for the treatment of air",
+    "harm": {
+      "id": "0019543",
+      "title": "731832 - Ionizers for the treatment of air",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/120894664",
+    "id": "120894664",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Irrigation apparatus for horticultural use",
+    "harm": {
+      "id": "0066249",
+      "title": "120894664 - Irrigation apparatus for horticultural use",
+      "conceptLink": "/ec2/concept/6002452"
+    }
+  },
+  {
+    "uri": "en/11/408430",
+    "id": "408430",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Irrigation spray nozzles",
+    "harm": {
+      "id": "0034884",
+      "title": "408430 - Irrigation spray nozzles",
+      "conceptLink": "/ec2/concept/5983374"
+    }
+  },
+  {
+    "uri": "en/11/408445",
+    "id": "408445",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Irrigation sprinklers",
+    "harm": {
+      "id": "0029098",
+      "title": "408445 - Irrigation sprinklers",
+      "conceptLink": "/ec2/concept/5978107"
+    }
+  },
+  {
+    "uri": "en/11/731874",
+    "id": "731874",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Isothermic cabinets",
+    "harm": {
+      "id": "0014287",
+      "title": "731874 - Isothermic cabinets",
+      "conceptLink": "/ec2/concept/5964539"
+    }
+  },
+  {
+    "uri": "en/11/501606",
+    "id": "501606",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese charcoal cooking stoves for household purposes (shichirin)",
+    "harm": {
+      "id": "0024607",
+      "title": "501606 - Japanese charcoal cooking stoves for household purposes (shichirin)",
+      "conceptLink": "/ec2/concept/5973985"
+    }
+  },
+  {
+    "uri": "en/11/501619",
+    "id": "501619",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese charcoal heaters for household purposes use (hibachi)",
+    "harm": {
+      "id": "0036160",
+      "title": "501619 - Japanese charcoal heaters for household purposes use (hibachi)",
+      "conceptLink": "/ec2/concept/5984528"
+    }
+  },
+  {
+    "uri": "en/11/501633",
+    "id": "501633",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese electric leg-warming apparatus for household purposes (electric kotatsu)",
+    "harm": {
+      "id": "0018878",
+      "title": "501633 - Japanese electric leg-warming apparatus for household purposes (electric kotatsu)",
+      "conceptLink": "/ec2/concept/5968748"
+    }
+  },
+  {
+    "uri": "en/11/501646",
+    "id": "501646",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese kitchen furnaces (kamado)",
+    "harm": {
+      "id": "0030366",
+      "title": "501646 - Japanese kitchen furnaces (kamado)",
+      "conceptLink": "/ec2/concept/5979263"
+    }
+  },
+  {
+    "uri": "en/11/120894174",
+    "id": "120894174",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese paper lanterns",
+    "harm": {
+      "id": "0066209",
+      "title": "120894174 - Japanese paper lanterns",
+      "conceptLink": "/ec2/concept/6002412"
+    }
+  },
+  {
+    "uri": "en/11/137843489",
+    "id": "137843489",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Japanese pocket warmers filled with fuel",
+    "harm": {
+      "id": "0071648",
+      "title": "137843489 - Japanese pocket warmers filled with fuel",
+      "conceptLink": "/ec2/concept/6007837"
+    }
+  },
+  {
+    "uri": "en/11/731886",
+    "id": "731886",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Jet nozzles for generating massage currents in spa baths",
+    "harm": {
+      "id": "0035760",
+      "title": "731886 - Jet nozzles for generating massage currents in spa baths",
+      "conceptLink": "/ec2/concept/5984168"
+    }
+  },
+  {
+    "uri": "en/11/731903",
+    "id": "731903",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Jet nozzles for warm air circulations in bubble baths",
+    "harm": {
+      "id": "0001062",
+      "title": "731903 - Jet nozzles for warm air circulations in bubble baths",
+      "conceptLink": "/ec2/concept/5952440"
+    }
+  },
+  {
+    "uri": "en/11/731920",
+    "id": "731920",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Jets for bath apparatus",
+    "harm": {
+      "id": "0001063",
+      "title": "731920 - Jets for bath apparatus",
+      "conceptLink": "/ec2/concept/5952441"
+    }
+  },
+  {
+    "uri": "en/11/731936",
+    "id": "731936",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Jets for hydrotherapy baths",
+    "harm": {
+      "id": "0024227",
+      "title": "731936 - Jets for hydrotherapy baths",
+      "conceptLink": "/ec2/concept/5973637"
+    }
+  },
+  {
+    "uri": "en/11/731952",
+    "id": "731952",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kebab cooking machines",
+    "harm": {
+      "id": "0029958",
+      "title": "731952 - Kebab cooking machines",
+      "conceptLink": "/ec2/concept/5978884"
+    }
+  },
+  {
+    "uri": "en/11/408459",
+    "id": "408459",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kerosene heaters",
+    "harm": {
+      "id": "0034885",
+      "title": "408459 - Kerosene heaters",
+      "conceptLink": "/ec2/concept/5983375"
+    }
+  },
+  {
+    "uri": "en/11/491840",
+    "id": "491840",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kettles",
+    "harm": {
+      "id": "0014059",
+      "title": "491840 - Kettles",
+      "conceptLink": "/ec2/concept/5964321"
+    }
+  },
+  {
+    "uri": "en/11/182136",
+    "id": "182136",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kettles, electric",
+    "harm": {
+      "id": "0017582",
+      "title": "182136 - Kettles, electric",
+      "conceptLink": "/ec2/concept/5967547"
+    }
+  },
+  {
+    "uri": "en/11/731965",
+    "id": "731965",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kiln boosters",
+    "harm": {
+      "id": "0018446",
+      "title": "731965 - Kiln boosters",
+      "conceptLink": "/ec2/concept/5968344"
+    }
+  },
+  {
+    "uri": "en/11/731977",
+    "id": "731977",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kiln furniture",
+    "harm": {
+      "id": "0001064",
+      "title": "731977 - Kiln furniture",
+      "conceptLink": "/ec2/concept/5952442"
+    }
+  },
+  {
+    "uri": "en/11/181530",
+    "id": "181530",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kiln furniture [supports]",
+    "harm": {
+      "id": "0023759",
+      "title": "181530 - Kiln furniture [supports]",
+      "conceptLink": "/ec2/concept/5973201"
+    }
+  },
+  {
+    "uri": "en/11/731996",
+    "id": "731996",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kiln supports",
+    "harm": {
+      "id": "0024228",
+      "title": "731996 - Kiln supports",
+      "conceptLink": "/ec2/concept/5973638"
+    }
+  },
+  {
+    "uri": "en/11/172473",
+    "id": "172473",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kilns",
+    "harm": {
+      "id": "0046702",
+      "title": "172473 - Kilns",
+      "conceptLink": "/ec2/concept/5994115"
+    }
+  },
+  {
+    "uri": "en/11/732013",
+    "id": "732013",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kilns for sale in kit form",
+    "harm": {
+      "id": "0041531",
+      "title": "732013 - Kilns for sale in kit form",
+      "conceptLink": "/ec2/concept/5989431"
+    }
+  },
+  {
+    "uri": "en/11/56486120",
+    "id": "56486120",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kimchi refrigerators",
+    "harm": {
+      "id": "0071649",
+      "title": "56486120 - Kimchi refrigerators",
+      "conceptLink": "/ec2/concept/6007838"
+    }
+  },
+  {
+    "uri": "en/11/137878059",
+    "id": "137878059",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen blow torches",
+    "harm": {
+      "id": "0071650",
+      "title": "137878059 - Kitchen blow torches",
+      "conceptLink": "/ec2/concept/6007839"
+    }
+  },
+  {
+    "uri": "en/11/124958980",
+    "id": "124958980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen machines (Electric -) for cooking",
+    "harm": {
+      "id": "0035761",
+      "title": "124958980 - Kitchen machines (Electric -) for cooking",
+      "conceptLink": "/ec2/concept/5984169"
+    }
+  },
+  {
+    "uri": "en/11/124958994",
+    "id": "124958994",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen machines (Gas -) for cooking",
+    "harm": {
+      "id": "0041532",
+      "title": "124958994 - Kitchen machines (Gas -) for cooking",
+      "conceptLink": "/ec2/concept/5989432"
+    }
+  },
+  {
+    "uri": "en/11/175379",
+    "id": "175379",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen ranges",
+    "harm": {
+      "id": "0059367",
+      "title": "175379 - Kitchen ranges",
+      "conceptLink": "/ec2/concept/6000849"
+    }
+  },
+  {
+    "uri": "en/11/175376",
+    "id": "175376",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen ranges [ovens]",
+    "harm": {
+      "id": "0059367",
+      "title": "175376 - Kitchen ranges [ovens]",
+      "conceptLink": "/ec2/concept/6000849"
+    }
+  },
+  {
+    "uri": "en/11/408475",
+    "id": "408475",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen sink sprayers",
+    "harm": {
+      "id": "0040678",
+      "title": "408475 - Kitchen sink sprayers",
+      "conceptLink": "/ec2/concept/5988656"
+    }
+  },
+  {
+    "uri": "en/11/181981",
+    "id": "181981",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen sinks",
+    "harm": {
+      "id": "0041036",
+      "title": "181981 - Kitchen sinks",
+      "conceptLink": "/ec2/concept/5988976"
+    }
+  },
+  {
+    "uri": "en/11/175380",
+    "id": "175380",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Kitchen stoves",
+    "harm": {
+      "id": "0059368",
+      "title": "175380 - Kitchen stoves",
+      "conceptLink": "/ec2/concept/6000850"
+    }
+  },
+  {
+    "uri": "en/11/407844",
+    "id": "407844",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Klieg lights",
+    "harm": {
+      "id": "0059351",
+      "title": "407844 - Klieg lights",
+      "conceptLink": "/ec2/concept/6000833"
+    }
+  },
+  {
+    "uri": "en/11/173003",
+    "id": "173003",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Laboratory burners",
+    "harm": {
+      "id": "0034333",
+      "title": "173003 - Laboratory burners",
+      "conceptLink": "/ec2/concept/5982876"
+    }
+  },
+  {
+    "uri": "en/11/178140",
+    "id": "178140",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Laboratory lamps",
+    "harm": {
+      "id": "0037379",
+      "title": "178140 - Laboratory lamps",
+      "conceptLink": "/ec2/concept/5985636"
+    }
+  },
+  {
+    "uri": "en/11/732120",
+    "id": "732120",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp bases",
+    "harm": {
+      "id": "0033912",
+      "title": "732120 - Lamp bases",
+      "conceptLink": "/ec2/concept/5982492"
+    }
+  },
+  {
+    "uri": "en/11/170827",
+    "id": "170827",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp bulbs",
+    "harm": {
+      "id": "0072556",
+      "title": "170827 - Lamp bulbs",
+      "conceptLink": "/ec2/concept/6008733"
+    }
+  },
+  {
+    "uri": "en/11/172187",
+    "id": "172187",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp casings",
+    "harm": {
+      "id": "0057577",
+      "title": "172187 - Lamp casings",
+      "conceptLink": "/ec2/concept/5999082"
+    }
+  },
+  {
+    "uri": "en/11/172189",
+    "id": "172189",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp chimneys",
+    "harm": {
+      "id": "0057579",
+      "title": "172189 - Lamp chimneys",
+      "conceptLink": "/ec2/concept/5999084"
+    }
+  },
+  {
+    "uri": "en/11/732054",
+    "id": "732054",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp chimneys made of glass",
+    "harm": {
+      "id": "0024229",
+      "title": "732054 - Lamp chimneys made of glass",
+      "conceptLink": "/ec2/concept/5973639"
+    }
+  },
+  {
+    "uri": "en/11/408487",
+    "id": "408487",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp finials",
+    "harm": {
+      "id": "0011785",
+      "title": "408487 - Lamp finials",
+      "conceptLink": "/ec2/concept/5962244"
+    }
+  },
+  {
+    "uri": "en/11/732071",
+    "id": "732071",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp fitments",
+    "harm": {
+      "id": "0012638",
+      "title": "732071 - Lamp fitments",
+      "conceptLink": "/ec2/concept/5963028"
+    }
+  },
+  {
+    "uri": "en/11/732072",
+    "id": "732072",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp fittings",
+    "harm": {
+      "id": "0012638",
+      "title": "732072 - Lamp fittings",
+      "conceptLink": "/ec2/concept/5963028"
+    }
+  },
+  {
+    "uri": "en/11/174726",
+    "id": "174726",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp glasses",
+    "harm": {
+      "id": "0057578",
+      "title": "174726 - Lamp glasses",
+      "conceptLink": "/ec2/concept/5999083"
+    }
+  },
+  {
+    "uri": "en/11/177834",
+    "id": "177834",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp globes",
+    "harm": {
+      "id": "0009797",
+      "title": "177834 - Lamp globes",
+      "conceptLink": "/ec2/concept/5960424"
+    }
+  },
+  {
+    "uri": "en/11/732073",
+    "id": "732073",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp holders",
+    "harm": {
+      "id": "0012638",
+      "title": "732073 - Lamp holders",
+      "conceptLink": "/ec2/concept/5963028"
+    }
+  },
+  {
+    "uri": "en/11/172185",
+    "id": "172185",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp mantles",
+    "harm": {
+      "id": "0057577",
+      "title": "172185 - Lamp mantles",
+      "conceptLink": "/ec2/concept/5999082"
+    }
+  },
+  {
+    "uri": "en/11/408505",
+    "id": "408505",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp posts",
+    "harm": {
+      "id": "0013446",
+      "title": "408505 - Lamp posts",
+      "conceptLink": "/ec2/concept/5963761"
+    }
+  },
+  {
+    "uri": "en/11/178374",
+    "id": "178374",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp reflectors",
+    "harm": {
+      "id": "0001864",
+      "title": "178374 - Lamp reflectors",
+      "conceptLink": "/ec2/concept/5953165"
+    }
+  },
+  {
+    "uri": "en/11/180062",
+    "id": "180062",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp shades",
+    "harm": {
+      "id": "0034809",
+      "title": "180062 - Lamp shades",
+      "conceptLink": "/ec2/concept/5983305"
+    }
+  },
+  {
+    "uri": "en/11/408506",
+    "id": "408506",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp standards",
+    "harm": {
+      "id": "0017422",
+      "title": "408506 - Lamp standards",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/732117",
+    "id": "732117",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamp stands",
+    "harm": {
+      "id": "0017422",
+      "title": "732117 - Lamp stands",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/172046",
+    "id": "172046",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps",
+    "harm": {
+      "id": "0017422",
+      "title": "172046 - Lamps",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/172333",
+    "id": "172333",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps (Burners for -)",
+    "harm": {
+      "id": "0016017",
+      "title": "172333 - Lamps (Burners for -)",
+      "conceptLink": "/ec2/concept/5966136"
+    }
+  },
+  {
+    "uri": "en/11/170997",
+    "id": "170997",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps (Electric -)",
+    "harm": {
+      "id": "0024226",
+      "title": "170997 - Lamps (Electric -)",
+      "conceptLink": "/ec2/concept/5973636"
+    }
+  },
+  {
+    "uri": "en/11/732163",
+    "id": "732163",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps fitted with extendible supports",
+    "harm": {
+      "id": "0037196",
+      "title": "732163 - Lamps fitted with extendible supports",
+      "conceptLink": "/ec2/concept/5985469"
+    }
+  },
+  {
+    "uri": "en/11/732175",
+    "id": "732175",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for christmas trees",
+    "harm": {
+      "id": "0025601",
+      "title": "732175 - Lamps for christmas trees",
+      "conceptLink": "/ec2/concept/5974895"
+    }
+  },
+  {
+    "uri": "en/11/119693598",
+    "id": "119693598",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for directional signals for automobiles",
+    "harm": {
+      "id": "0058971",
+      "title": "119693598 - Lamps for directional signals for automobiles",
+      "conceptLink": "/ec2/concept/6000462"
+    }
+  },
+  {
+    "uri": "en/11/173626",
+    "id": "173626",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for directional signals of automobiles",
+    "harm": {
+      "id": "0058971",
+      "title": "173626 - Lamps for directional signals of automobiles",
+      "conceptLink": "/ec2/concept/6000462"
+    }
+  },
+  {
+    "uri": "en/11/732188",
+    "id": "732188",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for electrical installations",
+    "harm": {
+      "id": "0008193",
+      "title": "732188 - Lamps for electrical installations",
+      "conceptLink": "/ec2/concept/5958953"
+    }
+  },
+  {
+    "uri": "en/11/732203",
+    "id": "732203",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for festive decoration",
+    "harm": {
+      "id": "0001497",
+      "title": "732203 - Lamps for festive decoration",
+      "conceptLink": "/ec2/concept/5952833"
+    }
+  },
+  {
+    "uri": "en/11/172049",
+    "id": "172049",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for lighting purposes",
+    "harm": {
+      "id": "0017422",
+      "title": "172049 - Lamps for lighting purposes",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/732223",
+    "id": "732223",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for motor land vehicles",
+    "harm": {
+      "id": "0037197",
+      "title": "732223 - Lamps for motor land vehicles",
+      "conceptLink": "/ec2/concept/5985470"
+    }
+  },
+  {
+    "uri": "en/11/335976",
+    "id": "335976",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for outdoor use",
+    "harm": {
+      "id": "0023737",
+      "title": "335976 - Lamps for outdoor use",
+      "conceptLink": "/ec2/concept/5973180"
+    }
+  },
+  {
+    "uri": "en/11/178335",
+    "id": "178335",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for security lighting",
+    "harm": {
+      "id": "0042953",
+      "title": "178335 - Lamps for security lighting",
+      "conceptLink": "/ec2/concept/5990717"
+    }
+  },
+  {
+    "uri": "en/11/233245003",
+    "id": "233245003",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for tents",
+    "harm": {
+      "id": "0072962",
+      "title": "233245003 - Lamps for tents",
+      "conceptLink": "/ec2/concept/6009137"
+    }
+  },
+  {
+    "uri": "en/11/173628",
+    "id": "173628",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for vehicle direction indicators",
+    "harm": {
+      "id": "0058970",
+      "title": "173628 - Lamps for vehicle direction indicators",
+      "conceptLink": "/ec2/concept/6000461"
+    }
+  },
+  {
+    "uri": "en/11/732235",
+    "id": "732235",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for vehicle lighting",
+    "harm": {
+      "id": "0014079",
+      "title": "732235 - Lamps for vehicle lighting",
+      "conceptLink": "/ec2/concept/5964340"
+    }
+  },
+  {
+    "uri": "en/11/171239",
+    "id": "171239",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps for vehicles",
+    "harm": {
+      "id": "0058360",
+      "title": "171239 - Lamps for vehicles",
+      "conceptLink": "/ec2/concept/5999859"
+    }
+  },
+  {
+    "uri": "en/11/177833",
+    "id": "177833",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lamps (Globes for -)",
+    "harm": {
+      "id": "0009797",
+      "title": "177833 - Lamps (Globes for -)",
+      "conceptLink": "/ec2/concept/5960424"
+    }
+  },
+  {
+    "uri": "en/11/180106",
+    "id": "180106",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lampshade holders",
+    "harm": {
+      "id": "0005947",
+      "title": "180106 - Lampshade holders",
+      "conceptLink": "/ec2/concept/5956899"
+    }
+  },
+  {
+    "uri": "en/11/180065",
+    "id": "180065",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lampshades",
+    "harm": {
+      "id": "0034809",
+      "title": "180065 - Lampshades",
+      "conceptLink": "/ec2/concept/5983305"
+    }
+  },
+  {
+    "uri": "en/11/732119",
+    "id": "732119",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lampstands",
+    "harm": {
+      "id": "0017422",
+      "title": "732119 - Lampstands",
+      "conceptLink": "/ec2/concept/5967405"
+    }
+  },
+  {
+    "uri": "en/11/172123",
+    "id": "172123",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lanterns",
+    "harm": {
+      "id": "0023825",
+      "title": "172123 - Lanterns",
+      "conceptLink": "/ec2/concept/5973260"
+    }
+  },
+  {
+    "uri": "en/11/172122",
+    "id": "172122",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lanterns for lighting",
+    "harm": {
+      "id": "0017423",
+      "title": "172122 - Lanterns for lighting",
+      "conceptLink": "/ec2/concept/5967406"
+    }
+  },
+  {
+    "uri": "en/11/732252",
+    "id": "732252",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Lanterns made of ceramics",
+    "harm": {
+      "id": "0042954",
+      "title": "732252 - Lanterns made of ceramics",
+      "conceptLink": "/ec2/concept/5990718"
+    }
+  },
+  {
+    "uri": "en/11/119533035",
+    "id": "119533035",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Laser light projectors",
+    "harm": {
+      "id": "0066287",
+      "title": "119533035 - Laser light projectors",
+      "conceptLink": "/ec2/concept/6002490"
+    }
+  },
+  {
+    "uri": "en/11/732265",
+    "id": "732265",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Launders for trapping impurities in molten metal",
+    "harm": {
+      "id": "0002502",
+      "title": "732265 - Launders for trapping impurities in molten metal",
+      "conceptLink": "/ec2/concept/5953741"
+    }
+  }
+]

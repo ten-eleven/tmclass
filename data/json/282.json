@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/711016",
+    "id": "711016",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Humidifying machines for medical use",
+    "harm": {
+      "id": "0005713",
+      "title": "711016 - Humidifying machines for medical use",
+      "conceptLink": "/ec2/concept/5956689"
+    }
+  },
+  {
+    "uri": "en/10/711035",
+    "id": "711035",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hybrid beds being soft sided waterbeds [for medical use]",
+    "harm": {
+      "id": "0021254",
+      "title": "711035 - Hybrid beds being soft sided waterbeds [for medical use]",
+      "conceptLink": "/ec2/concept/5970911"
+    }
+  },
+  {
+    "uri": "en/10/711047",
+    "id": "711047",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hydrocephalus valves",
+    "harm": {
+      "id": "0021255",
+      "title": "711047 - Hydrocephalus valves",
+      "conceptLink": "/ec2/concept/5970912"
+    }
+  },
+  {
+    "uri": "en/10/885081",
+    "id": "885081",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hydrophilic guide wire to track catheters",
+    "harm": {
+      "id": "0045659",
+      "title": "885081 - Hydrophilic guide wire to track catheters",
+      "conceptLink": "/ec2/concept/5993201"
+    }
+  },
+  {
+    "uri": "en/10/165874",
+    "id": "165874",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hydrostatic beds for medical purposes",
+    "harm": {
+      "id": "0006407",
+      "title": "165874 - Hydrostatic beds for medical purposes",
+      "conceptLink": "/ec2/concept/5957322"
+    }
+  },
+  {
+    "uri": "en/10/129494066",
+    "id": "129494066",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hydrostatic [water] beds for medical purposes",
+    "harm": {
+      "id": "0006407",
+      "title": "129494066 - Hydrostatic [water] beds for medical purposes",
+      "conceptLink": "/ec2/concept/5957322"
+    }
+  },
+  {
+    "uri": "en/10/163372",
+    "id": "163372",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hygienic basins",
+    "harm": {
+      "id": "0031998",
+      "title": "163372 - Hygienic basins",
+      "conceptLink": "/ec2/concept/5980741"
+    }
+  },
+  {
+    "uri": "en/10/404320",
+    "id": "404320",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hyperbaric oxygen chambers for medical purposes",
+    "harm": {
+      "id": "0035904",
+      "title": "404320 - Hyperbaric oxygen chambers for medical purposes",
+      "conceptLink": "/ec2/concept/5984293"
+    }
+  },
+  {
+    "uri": "en/10/711060",
+    "id": "711060",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic injection apparatus",
+    "harm": {
+      "id": "0015387",
+      "title": "711060 - Hypodermic injection apparatus",
+      "conceptLink": "/ec2/concept/5965543"
+    }
+  },
+  {
+    "uri": "en/10/137964346",
+    "id": "137964346",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic injectors",
+    "harm": {
+      "id": "0071606",
+      "title": "137964346 - Hypodermic injectors",
+      "conceptLink": "/ec2/concept/6007797"
+    }
+  },
+  {
+    "uri": "en/10/169303",
+    "id": "169303",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic needles",
+    "harm": {
+      "id": "0058937",
+      "title": "169303 - Hypodermic needles",
+      "conceptLink": "/ec2/concept/6000428"
+    }
+  },
+  {
+    "uri": "en/10/711072",
+    "id": "711072",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic needles for injection",
+    "harm": {
+      "id": "0021256",
+      "title": "711072 - Hypodermic needles for injection",
+      "conceptLink": "/ec2/concept/5970913"
+    }
+  },
+  {
+    "uri": "en/10/711085",
+    "id": "711085",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic needles for use in infusion therapy",
+    "harm": {
+      "id": "0003797",
+      "title": "711085 - Hypodermic needles for use in infusion therapy",
+      "conceptLink": "/ec2/concept/5954925"
+    }
+  },
+  {
+    "uri": "en/10/711111",
+    "id": "711111",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic needles for use in wound drainage",
+    "harm": {
+      "id": "0021257",
+      "title": "711111 - Hypodermic needles for use in wound drainage",
+      "conceptLink": "/ec2/concept/5970914"
+    }
+  },
+  {
+    "uri": "en/10/711098",
+    "id": "711098",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic needles for use in renal dialysis",
+    "harm": {
+      "id": "0044211",
+      "title": "711098 - Hypodermic needles for use in renal dialysis",
+      "conceptLink": "/ec2/concept/5991874"
+    }
+  },
+  {
+    "uri": "en/10/165306",
+    "id": "165306",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic syringes",
+    "harm": {
+      "id": "0058672",
+      "title": "165306 - Hypodermic syringes",
+      "conceptLink": "/ec2/concept/6000165"
+    }
+  },
+  {
+    "uri": "en/10/711124",
+    "id": "711124",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic syringes for injections for medical purposes",
+    "harm": {
+      "id": "0026879",
+      "title": "711124 - Hypodermic syringes for injections for medical purposes",
+      "conceptLink": "/ec2/concept/5976057"
+    }
+  },
+  {
+    "uri": "en/10/711136",
+    "id": "711136",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypodermic syringes for use in administering injection substances",
+    "harm": {
+      "id": "0003798",
+      "title": "711136 - Hypodermic syringes for use in administering injection substances",
+      "conceptLink": "/ec2/concept/5954926"
+    }
+  },
+  {
+    "uri": "en/10/162547",
+    "id": "162547",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypogastric belts",
+    "harm": {
+      "id": "0008763",
+      "title": "162547 - Hypogastric belts",
+      "conceptLink": "/ec2/concept/5959467"
+    }
+  },
+  {
+    "uri": "en/10/711149",
+    "id": "711149",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Hypothermia analysis instruments",
+    "harm": {
+      "id": "0026880",
+      "title": "711149 - Hypothermia analysis instruments",
+      "conceptLink": "/ec2/concept/5976058"
+    }
+  },
+  {
+    "uri": "en/10/131048157",
+    "id": "131048157",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ice bag pillows for medical purposes",
+    "harm": {
+      "id": "0055909",
+      "title": "131048157 - Ice bag pillows for medical purposes",
+      "conceptLink": "/ec2/concept/5997283"
+    }
+  },
+  {
+    "uri": "en/10/165791",
+    "id": "165791",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ice bags for medical purposes",
+    "harm": {
+      "id": "0057088",
+      "title": "165791 - Ice bags for medical purposes",
+      "conceptLink": "/ec2/concept/5998722"
+    }
+  },
+  {
+    "uri": "en/10/165792",
+    "id": "165792",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ice bags for medical use",
+    "harm": {
+      "id": "0057088",
+      "title": "165792 - Ice bags for medical use",
+      "conceptLink": "/ec2/concept/5998722"
+    }
+  },
+  {
+    "uri": "en/10/711161",
+    "id": "711161",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ice packs for the treatment of injuries",
+    "harm": {
+      "id": "0021258",
+      "title": "711161 - Ice packs for the treatment of injuries",
+      "conceptLink": "/ec2/concept/5970915"
+    }
+  },
+  {
+    "uri": "en/10/711177",
+    "id": "711177",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Immunoadsorption columns for diagnostic use",
+    "harm": {
+      "id": "0032639",
+      "title": "711177 - Immunoadsorption columns for diagnostic use",
+      "conceptLink": "/ec2/concept/5981319"
+    }
+  },
+  {
+    "uri": "en/10/711190",
+    "id": "711190",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Immunoadsorption columns for therapeutic use",
+    "harm": {
+      "id": "0044212",
+      "title": "711190 - Immunoadsorption columns for therapeutic use",
+      "conceptLink": "/ec2/concept/5991875"
+    }
+  },
+  {
+    "uri": "en/10/711202",
+    "id": "711202",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Immunological analysers",
+    "harm": {
+      "id": "0044213",
+      "title": "711202 - Immunological analysers",
+      "conceptLink": "/ec2/concept/5991876"
+    }
+  },
+  {
+    "uri": "en/10/136073630",
+    "id": "136073630",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant abutments",
+    "harm": {
+      "id": "0050474",
+      "title": "136073630 - Implant abutments",
+      "conceptLink": "/ec2/concept/5995680"
+    }
+  },
+  {
+    "uri": "en/10/137729093",
+    "id": "137729093",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant abutments for dental purposes",
+    "harm": {
+      "id": "0069939",
+      "title": "137729093 - Implant abutments for dental purposes",
+      "conceptLink": "/ec2/concept/6006142"
+    }
+  },
+  {
+    "uri": "en/10/137729092",
+    "id": "137729092",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant bridges for dental purposes",
+    "harm": {
+      "id": "0069938",
+      "title": "137729092 - Implant bridges for dental purposes",
+      "conceptLink": "/ec2/concept/6006141"
+    }
+  },
+  {
+    "uri": "en/10/711231",
+    "id": "711231",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant materials [prosthesis] for use in surgery",
+    "harm": {
+      "id": "0008704",
+      "title": "711231 - Implant materials [prosthesis] for use in surgery",
+      "conceptLink": "/ec2/concept/5959411"
+    }
+  },
+  {
+    "uri": "en/10/711216",
+    "id": "711216",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant materials [prosthesis] for use in dental surgery",
+    "harm": {
+      "id": "0014546",
+      "title": "711216 - Implant materials [prosthesis] for use in dental surgery",
+      "conceptLink": "/ec2/concept/5964778"
+    }
+  },
+  {
+    "uri": "en/10/711246",
+    "id": "711246",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implant models",
+    "harm": {
+      "id": "0014547",
+      "title": "711246 - Implant models",
+      "conceptLink": "/ec2/concept/5964779"
+    }
+  },
+  {
+    "uri": "en/10/711258",
+    "id": "711258",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable cardiac pulse generators",
+    "harm": {
+      "id": "0008705",
+      "title": "711258 - Implantable cardiac pulse generators",
+      "conceptLink": "/ec2/concept/5959412"
+    }
+  },
+  {
+    "uri": "en/10/404334",
+    "id": "404334",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable cardiac stimulators",
+    "harm": {
+      "id": "0043403",
+      "title": "404334 - Implantable cardiac stimulators",
+      "conceptLink": "/ec2/concept/5991132"
+    }
+  },
+  {
+    "uri": "en/10/404354",
+    "id": "404354",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable defibrillators",
+    "harm": {
+      "id": "0030904",
+      "title": "404354 - Implantable defibrillators",
+      "conceptLink": "/ec2/concept/5979763"
+    }
+  },
+  {
+    "uri": "en/10/404375",
+    "id": "404375",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable leads for cardiac pacing",
+    "harm": {
+      "id": "0025179",
+      "title": "404375 - Implantable leads for cardiac pacing",
+      "conceptLink": "/ec2/concept/5974511"
+    }
+  },
+  {
+    "uri": "en/10/711270",
+    "id": "711270",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable pacemakers",
+    "harm": {
+      "id": "0043403",
+      "title": "711270 - Implantable pacemakers",
+      "conceptLink": "/ec2/concept/5991132"
+    }
+  },
+  {
+    "uri": "en/10/711283",
+    "id": "711283",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable pacemaking leads",
+    "harm": {
+      "id": "0037646",
+      "title": "711283 - Implantable pacemaking leads",
+      "conceptLink": "/ec2/concept/5985874"
+    }
+  },
+  {
+    "uri": "en/10/137728787",
+    "id": "137728787",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable subcutaneous drug delivery devices",
+    "harm": {
+      "id": "0069912",
+      "title": "137728787 - Implantable subcutaneous drug delivery devices",
+      "conceptLink": "/ec2/concept/6006115"
+    }
+  },
+  {
+    "uri": "en/10/711297",
+    "id": "711297",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable urethral stents",
+    "harm": {
+      "id": "0020382",
+      "title": "711297 - Implantable urethral stents",
+      "conceptLink": "/ec2/concept/5970111"
+    }
+  },
+  {
+    "uri": "en/10/711310",
+    "id": "711310",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implantable urologic prostheses",
+    "harm": {
+      "id": "0031844",
+      "title": "711310 - Implantable urologic prostheses",
+      "conceptLink": "/ec2/concept/5980601"
+    }
+  },
+  {
+    "uri": "en/10/711328",
+    "id": "711328",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implanted prosthesis",
+    "harm": {
+      "id": "0026049",
+      "title": "711328 - Implanted prosthesis",
+      "conceptLink": "/ec2/concept/5975307"
+    }
+  },
+  {
+    "uri": "en/10/334346",
+    "id": "334346",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants consisting of artificial materials",
+    "harm": {
+      "id": "0010367",
+      "title": "334346 - Implants consisting of artificial materials",
+      "conceptLink": "/ec2/concept/5960942"
+    }
+  },
+  {
+    "uri": "en/10/711474",
+    "id": "711474",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants for osteosynthesis",
+    "harm": {
+      "id": "0013058",
+      "title": "711474 - Implants for osteosynthesis",
+      "conceptLink": "/ec2/concept/5963407"
+    }
+  },
+  {
+    "uri": "en/10/711326",
+    "id": "711326",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis]",
+    "harm": {
+      "id": "0026049",
+      "title": "711326 - Implants [prosthesis]",
+      "conceptLink": "/ec2/concept/5975307"
+    }
+  },
+  {
+    "uri": "en/10/711358",
+    "id": "711358",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for bone surgery",
+    "harm": {
+      "id": "0014548",
+      "title": "711358 - Implants [prosthesis] for bone surgery",
+      "conceptLink": "/ec2/concept/5964780"
+    }
+  },
+  {
+    "uri": "en/10/711373",
+    "id": "711373",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for dental surgery",
+    "harm": {
+      "id": "0037647",
+      "title": "711373 - Implants [prosthesis] for dental surgery",
+      "conceptLink": "/ec2/concept/5985875"
+    }
+  },
+  {
+    "uri": "en/10/711388",
+    "id": "711388",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for ligaments",
+    "harm": {
+      "id": "0002979",
+      "title": "711388 - Implants [prosthesis] for ligaments",
+      "conceptLink": "/ec2/concept/5954174"
+    }
+  },
+  {
+    "uri": "en/10/711432",
+    "id": "711432",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for use in facial surgery",
+    "harm": {
+      "id": "0008706",
+      "title": "711432 - Implants [prosthesis] for use in facial surgery",
+      "conceptLink": "/ec2/concept/5959413"
+    }
+  },
+  {
+    "uri": "en/10/711418",
+    "id": "711418",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for use in dentistry",
+    "harm": {
+      "id": "0020383",
+      "title": "711418 - Implants [prosthesis] for use in dentistry",
+      "conceptLink": "/ec2/concept/5970112"
+    }
+  },
+  {
+    "uri": "en/10/711460",
+    "id": "711460",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for use in tendons",
+    "harm": {
+      "id": "0018900",
+      "title": "711460 - Implants [prosthesis] for use in tendons",
+      "conceptLink": "/ec2/concept/5968769"
+    }
+  },
+  {
+    "uri": "en/10/711447",
+    "id": "711447",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for use in jawbone surgery",
+    "harm": {
+      "id": "0018899",
+      "title": "711447 - Implants [prosthesis] for use in jawbone surgery",
+      "conceptLink": "/ec2/concept/5968768"
+    }
+  },
+  {
+    "uri": "en/10/711403",
+    "id": "711403",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Implants [prosthesis] for use in bone grafting",
+    "harm": {
+      "id": "0043404",
+      "title": "711403 - Implants [prosthesis] for use in bone grafting",
+      "conceptLink": "/ec2/concept/5991133"
+    }
+  },
+  {
+    "uri": "en/10/711491",
+    "id": "711491",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Impulse measuring instruments for medical use",
+    "harm": {
+      "id": "0036180",
+      "title": "711491 - Impulse measuring instruments for medical use",
+      "conceptLink": "/ec2/concept/5984546"
+    }
+  },
+  {
+    "uri": "en/10/711504",
+    "id": "711504",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inadvertent peep reducers being parts of medical ventilators for maintaining pressure",
+    "harm": {
+      "id": "0013059",
+      "title": "711504 - Inadvertent peep reducers being parts of medical ventilators for maintaining pressure",
+      "conceptLink": "/ec2/concept/5963408"
+    }
+  },
+  {
+    "uri": "en/10/711517",
+    "id": "711517",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incentive spirometers for medical use",
+    "harm": {
+      "id": "0036181",
+      "title": "711517 - Incentive spirometers for medical use",
+      "conceptLink": "/ec2/concept/5984547"
+    }
+  },
+  {
+    "uri": "en/10/711530",
+    "id": "711530",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incision foils for surgical use",
+    "harm": {
+      "id": "0041956",
+      "title": "711530 - Incision foils for surgical use",
+      "conceptLink": "/ec2/concept/5989816"
+    }
+  },
+  {
+    "uri": "en/10/904436",
+    "id": "904436",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incontinence bed pads",
+    "harm": {
+      "id": "0013664",
+      "title": "904436 - Incontinence bed pads",
+      "conceptLink": "/ec2/concept/5963954"
+    }
+  },
+  {
+    "uri": "en/10/120894717",
+    "id": "120894717",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incontinence mattress protectors",
+    "harm": {
+      "id": "0066109",
+      "title": "120894717 - Incontinence mattress protectors",
+      "conceptLink": "/ec2/concept/6002312"
+    }
+  },
+  {
+    "uri": "en/10/162919",
+    "id": "162919",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incontinence sheets",
+    "harm": {
+      "id": "0041220",
+      "title": "162919 - Incontinence sheets",
+      "conceptLink": "/ec2/concept/5989146"
+    }
+  },
+  {
+    "uri": "en/10/711557",
+    "id": "711557",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incontinence sheets for use with infants",
+    "harm": {
+      "id": "0001494",
+      "title": "711557 - Incontinence sheets for use with infants",
+      "conceptLink": "/ec2/concept/5952830"
+    }
+  },
+  {
+    "uri": "en/10/711542",
+    "id": "711542",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incontinence sheets for use with babies",
+    "harm": {
+      "id": "0024633",
+      "title": "711542 - Incontinence sheets for use with babies",
+      "conceptLink": "/ec2/concept/5974010"
+    }
+  },
+  {
+    "uri": "en/10/711572",
+    "id": "711572",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incubation units",
+    "harm": {
+      "id": "0024634",
+      "title": "711572 - Incubation units",
+      "conceptLink": "/ec2/concept/5974011"
+    }
+  },
+  {
+    "uri": "en/10/168688",
+    "id": "168688",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incubators for babies",
+    "harm": {
+      "id": "0018721",
+      "title": "168688 - Incubators for babies",
+      "conceptLink": "/ec2/concept/5968602"
+    }
+  },
+  {
+    "uri": "en/10/164857",
+    "id": "164857",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Incubators for medical purposes",
+    "harm": {
+      "id": "0042993",
+      "title": "164857 - Incubators for medical purposes",
+      "conceptLink": "/ec2/concept/5990756"
+    }
+  },
+  {
+    "uri": "en/10/711584",
+    "id": "711584",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infants' feeding bottles",
+    "harm": {
+      "id": "0021246",
+      "title": "711584 - Infants' feeding bottles",
+      "conceptLink": "/ec2/concept/5970905"
+    }
+  },
+  {
+    "uri": "en/10/711602",
+    "id": "711602",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infants' neonatal pacifiers",
+    "harm": {
+      "id": "0004183",
+      "title": "711602 - Infants' neonatal pacifiers",
+      "conceptLink": "/ec2/concept/5955274"
+    }
+  },
+  {
+    "uri": "en/10/167517",
+    "id": "167517",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infants' pacifiers",
+    "harm": {
+      "id": "0023576",
+      "title": "167517 - Infants' pacifiers",
+      "conceptLink": "/ec2/concept/5973036"
+    }
+  },
+  {
+    "uri": "en/10/168132",
+    "id": "168132",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflatable cushions for medical purposes",
+    "harm": {
+      "id": "0058028",
+      "title": "168132 - Inflatable cushions for medical purposes",
+      "conceptLink": "/ec2/concept/5999532"
+    }
+  },
+  {
+    "uri": "en/10/81229046",
+    "id": "81229046",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflatable life-sized dolls used in sexual activity",
+    "harm": {
+      "id": "0032167",
+      "title": "81229046 - Inflatable life-sized dolls used in sexual activity",
+      "conceptLink": "/ec2/concept/5980894"
+    }
+  },
+  {
+    "uri": "en/10/711619",
+    "id": "711619",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflatable mattresses for orthopaedic purposes",
+    "harm": {
+      "id": "0014378",
+      "title": "711619 - Inflatable mattresses for orthopaedic purposes",
+      "conceptLink": "/ec2/concept/5964623"
+    }
+  },
+  {
+    "uri": "en/10/168198",
+    "id": "168198",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflatable mattresses for medical purposes",
+    "harm": {
+      "id": "0013060",
+      "title": "168198 - Inflatable mattresses for medical purposes",
+      "conceptLink": "/ec2/concept/5963409"
+    }
+  },
+  {
+    "uri": "en/10/138394413",
+    "id": "138394413",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflation devices for balloon catheters",
+    "harm": {
+      "id": "0070305",
+      "title": "138394413 - Inflation devices for balloon catheters",
+      "conceptLink": "/ec2/concept/6006498"
+    }
+  },
+  {
+    "uri": "en/10/711631",
+    "id": "711631",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inflation syringes for medical or surgical use",
+    "harm": {
+      "id": "0025874",
+      "title": "711631 - Inflation syringes for medical or surgical use",
+      "conceptLink": "/ec2/concept/5975146"
+    }
+  },
+  {
+    "uri": "en/10/711644",
+    "id": "711644",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared apparatus for curative purposes",
+    "harm": {
+      "id": "0043251",
+      "title": "711644 - Infrared apparatus for curative purposes",
+      "conceptLink": "/ec2/concept/5990993"
+    }
+  },
+  {
+    "uri": "en/10/711656",
+    "id": "711656",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared apparatus for medical purposes",
+    "harm": {
+      "id": "0025875",
+      "title": "711656 - Infrared apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5975147"
+    }
+  },
+  {
+    "uri": "en/10/711669",
+    "id": "711669",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared apparatus for surgical purposes",
+    "harm": {
+      "id": "0002818",
+      "title": "711669 - Infrared apparatus for surgical purposes",
+      "conceptLink": "/ec2/concept/5954025"
+    }
+  },
+  {
+    "uri": "en/10/711682",
+    "id": "711682",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared lamps for curative purposes",
+    "harm": {
+      "id": "0025876",
+      "title": "711682 - Infrared lamps for curative purposes",
+      "conceptLink": "/ec2/concept/5975148"
+    }
+  },
+  {
+    "uri": "en/10/711694",
+    "id": "711694",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared lamps for medical purposes",
+    "harm": {
+      "id": "0002819",
+      "title": "711694 - Infrared lamps for medical purposes",
+      "conceptLink": "/ec2/concept/5954026"
+    }
+  },
+  {
+    "uri": "en/10/711711",
+    "id": "711711",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared lamps for surgical purposes",
+    "harm": {
+      "id": "0014379",
+      "title": "711711 - Infrared lamps for surgical purposes",
+      "conceptLink": "/ec2/concept/5964624"
+    }
+  },
+  {
+    "uri": "en/10/334361",
+    "id": "334361",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared radiator units for therapeutic purposes",
+    "harm": {
+      "id": "0022108",
+      "title": "334361 - Infrared radiator units for therapeutic purposes",
+      "conceptLink": "/ec2/concept/5971694"
+    }
+  },
+  {
+    "uri": "en/10/136147183",
+    "id": "136147183",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infrared thermometers for medical purposes",
+    "harm": {
+      "id": "0050495",
+      "title": "136147183 - Infrared thermometers for medical purposes",
+      "conceptLink": "/ec2/concept/5995864"
+    }
+  },
+  {
+    "uri": "en/10/131048081",
+    "id": "131048081",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infusion apparatus for therapeutic purposes",
+    "harm": {
+      "id": "0055910",
+      "title": "131048081 - Infusion apparatus for therapeutic purposes",
+      "conceptLink": "/ec2/concept/5997284"
+    }
+  },
+  {
+    "uri": "en/10/711724",
+    "id": "711724",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infusion columns",
+    "harm": {
+      "id": "0020222",
+      "title": "711724 - Infusion columns",
+      "conceptLink": "/ec2/concept/5969964"
+    }
+  },
+  {
+    "uri": "en/10/711738",
+    "id": "711738",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infusion pumps",
+    "harm": {
+      "id": "0014380",
+      "title": "711738 - Infusion pumps",
+      "conceptLink": "/ec2/concept/5964625"
+    }
+  },
+  {
+    "uri": "en/10/711759",
+    "id": "711759",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Infusion pumps to deliver medication",
+    "harm": {
+      "id": "0014381",
+      "title": "711759 - Infusion pumps to deliver medication",
+      "conceptLink": "/ec2/concept/5964626"
+    }
+  },
+  {
+    "uri": "en/10/165947",
+    "id": "165947",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers",
+    "harm": {
+      "id": "0023811",
+      "title": "165947 - Inhalers",
+      "conceptLink": "/ec2/concept/5973248"
+    }
+  },
+  {
+    "uri": "en/10/501577",
+    "id": "501577",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers for medical purposes [sold empty]",
+    "harm": {
+      "id": "0001470",
+      "title": "501577 - Inhalers for medical purposes [sold empty]",
+      "conceptLink": "/ec2/concept/5952810"
+    }
+  },
+  {
+    "uri": "en/10/711771",
+    "id": "711771",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers for medical use",
+    "harm": {
+      "id": "0002820",
+      "title": "711771 - Inhalers for medical use",
+      "conceptLink": "/ec2/concept/5954027"
+    }
+  },
+  {
+    "uri": "en/10/711798",
+    "id": "711798",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers for the evaporation of para-medical substances",
+    "harm": {
+      "id": "0008515",
+      "title": "711798 - Inhalers for the evaporation of para-medical substances",
+      "conceptLink": "/ec2/concept/5959246"
+    }
+  },
+  {
+    "uri": "en/10/711785",
+    "id": "711785",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers for the evaporation of aromatherapeutical substances",
+    "harm": {
+      "id": "0014382",
+      "title": "711785 - Inhalers for the evaporation of aromatherapeutical substances",
+      "conceptLink": "/ec2/concept/5964627"
+    }
+  },
+  {
+    "uri": "en/10/404394",
+    "id": "404394",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Inhalers for therapeutic use",
+    "harm": {
+      "id": "0030905",
+      "title": "404394 - Inhalers for therapeutic use",
+      "conceptLink": "/ec2/concept/5979764"
+    }
+  },
+  {
+    "uri": "en/10/334376",
+    "id": "334376",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection device for pharmaceuticals",
+    "harm": {
+      "id": "0010368",
+      "title": "334376 - Injection device for pharmaceuticals",
+      "conceptLink": "/ec2/concept/5960943"
+    }
+  },
+  {
+    "uri": "en/10/334392",
+    "id": "334392",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection instruments without needles",
+    "harm": {
+      "id": "0033495",
+      "title": "334392 - Injection instruments without needles",
+      "conceptLink": "/ec2/concept/5982111"
+    }
+  },
+  {
+    "uri": "en/10/334411",
+    "id": "334411",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection needles",
+    "harm": {
+      "id": "0058937",
+      "title": "334411 - Injection needles",
+      "conceptLink": "/ec2/concept/6000428"
+    }
+  },
+  {
+    "uri": "en/10/334436",
+    "id": "334436",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection needles for medical use",
+    "harm": {
+      "id": "0004661",
+      "title": "334436 - Injection needles for medical use",
+      "conceptLink": "/ec2/concept/5955722"
+    }
+  },
+  {
+    "uri": "en/10/711811",
+    "id": "711811",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection sleeves for medical use",
+    "harm": {
+      "id": "0037511",
+      "title": "711811 - Injection sleeves for medical use",
+      "conceptLink": "/ec2/concept/5985757"
+    }
+  },
+  {
+    "uri": "en/10/4107923",
+    "id": "4107923",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection syringes",
+    "harm": {
+      "id": "0058673",
+      "title": "4107923 - Injection syringes",
+      "conceptLink": "/ec2/concept/6000166"
+    }
+  },
+  {
+    "uri": "en/10/165973",
+    "id": "165973",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Injection syringes for medical purposes",
+    "harm": {
+      "id": "0058674",
+      "title": "165973 - Injection syringes for medical purposes",
+      "conceptLink": "/ec2/concept/6000167"
+    }
+  }
+]

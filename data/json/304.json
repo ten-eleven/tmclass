@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/903293",
+    "id": "903293",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric autoclaves",
+    "harm": {
+      "id": "0059388",
+      "title": "903293 - Electric autoclaves",
+      "conceptLink": "/ec2/concept/6000870"
+    }
+  },
+  {
+    "uri": "en/11/335423",
+    "id": "335423",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric bath-water purifying apparatus for household purposes",
+    "harm": {
+      "id": "0002346",
+      "title": "335423 - Electric bath-water purifying apparatus for household purposes",
+      "conceptLink": "/ec2/concept/5953600"
+    }
+  },
+  {
+    "uri": "en/11/406735",
+    "id": "406735",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric beverage heaters",
+    "harm": {
+      "id": "0041661",
+      "title": "406735 - Electric beverage heaters",
+      "conceptLink": "/ec2/concept/5989552"
+    }
+  },
+  {
+    "uri": "en/11/47775326",
+    "id": "47775326",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric beverage warmers",
+    "harm": {
+      "id": "0069955",
+      "title": "47775326 - Electric beverage warmers",
+      "conceptLink": "/ec2/concept/6006158"
+    }
+  },
+  {
+    "uri": "en/11/489809",
+    "id": "489809",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric blankets",
+    "harm": {
+      "id": "0025056",
+      "title": "489809 - Electric blankets",
+      "conceptLink": "/ec2/concept/5974400"
+    }
+  },
+  {
+    "uri": "en/11/182251",
+    "id": "182251",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric blankets [bed], other than for medical use",
+    "harm": {
+      "id": "0024216",
+      "title": "182251 - Electric blankets [bed], other than for medical use",
+      "conceptLink": "/ec2/concept/5973627"
+    }
+  },
+  {
+    "uri": "en/11/182249",
+    "id": "182249",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric blankets not for medical purposes",
+    "harm": {
+      "id": "0024216",
+      "title": "182249 - Electric blankets not for medical purposes",
+      "conceptLink": "/ec2/concept/5973627"
+    }
+  },
+  {
+    "uri": "en/11/726201",
+    "id": "726201",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric boilers",
+    "harm": {
+      "id": "0017254",
+      "title": "726201 - Electric boilers",
+      "conceptLink": "/ec2/concept/5967254"
+    }
+  },
+  {
+    "uri": "en/11/726216",
+    "id": "726216",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric bottle heaters",
+    "harm": {
+      "id": "0011461",
+      "title": "726216 - Electric bottle heaters",
+      "conceptLink": "/ec2/concept/5961942"
+    }
+  },
+  {
+    "uri": "en/11/406749",
+    "id": "406749",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric bread cookers",
+    "harm": {
+      "id": "0002489",
+      "title": "406749 - Electric bread cookers",
+      "conceptLink": "/ec2/concept/5953728"
+    }
+  },
+  {
+    "uri": "en/11/406958",
+    "id": "406958",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric broilers",
+    "harm": {
+      "id": "0046999",
+      "title": "406958 - Electric broilers",
+      "conceptLink": "/ec2/concept/5994381"
+    }
+  },
+  {
+    "uri": "en/11/407494",
+    "id": "407494",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric broiling pans",
+    "harm": {
+      "id": "0026870",
+      "title": "407494 - Electric broiling pans",
+      "conceptLink": "/ec2/concept/5976048"
+    }
+  },
+  {
+    "uri": "en/11/170826",
+    "id": "170826",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric bulbs",
+    "harm": {
+      "id": "0072557",
+      "title": "170826 - Electric bulbs",
+      "conceptLink": "/ec2/concept/6008734"
+    }
+  },
+  {
+    "uri": "en/11/406764",
+    "id": "406764",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric candelabras",
+    "harm": {
+      "id": "0042933",
+      "title": "406764 - Electric candelabras",
+      "conceptLink": "/ec2/concept/5990700"
+    }
+  },
+  {
+    "uri": "en/11/406780",
+    "id": "406780",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric candles",
+    "harm": {
+      "id": "0031320",
+      "title": "406780 - Electric candles",
+      "conceptLink": "/ec2/concept/5980137"
+    }
+  },
+  {
+    "uri": "en/11/406799",
+    "id": "406799",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric casseroles",
+    "harm": {
+      "id": "0031321",
+      "title": "406799 - Electric casseroles",
+      "conceptLink": "/ec2/concept/5980138"
+    }
+  },
+  {
+    "uri": "en/11/726227",
+    "id": "726227",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric central heating boiler systems",
+    "harm": {
+      "id": "0009520",
+      "title": "726227 - Electric central heating boiler systems",
+      "conceptLink": "/ec2/concept/5960173"
+    }
+  },
+  {
+    "uri": "en/11/406835",
+    "id": "406835",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric chinese lanterns",
+    "harm": {
+      "id": "0031322",
+      "title": "406835 - Electric chinese lanterns",
+      "conceptLink": "/ec2/concept/5980139"
+    }
+  },
+  {
+    "uri": "en/11/726240",
+    "id": "726240",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric chocolate makers",
+    "harm": {
+      "id": "0038429",
+      "title": "726240 - Electric chocolate makers",
+      "conceptLink": "/ec2/concept/5986599"
+    }
+  },
+  {
+    "uri": "en/11/182659",
+    "id": "182659",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric clothes dryers",
+    "harm": {
+      "id": "0029513",
+      "title": "182659 - Electric clothes dryers",
+      "conceptLink": "/ec2/concept/5978476"
+    }
+  },
+  {
+    "uri": "en/11/726252",
+    "id": "726252",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric clothes dryers [heat drying]",
+    "harm": {
+      "id": "0009521",
+      "title": "726252 - Electric clothes dryers [heat drying]",
+      "conceptLink": "/ec2/concept/5960174"
+    }
+  },
+  {
+    "uri": "en/11/120902594",
+    "id": "120902594",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric clothes drying machines for household purposes",
+    "harm": {
+      "id": "0066310",
+      "title": "120902594 - Electric clothes drying machines for household purposes",
+      "conceptLink": "/ec2/concept/6002513"
+    }
+  },
+  {
+    "uri": "en/11/120902595",
+    "id": "120902595",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric clothes drying machines for household use",
+    "harm": {
+      "id": "0066310",
+      "title": "120902595 - Electric clothes drying machines for household use",
+      "conceptLink": "/ec2/concept/6002513"
+    }
+  },
+  {
+    "uri": "en/11/85458447",
+    "id": "85458447",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee brewers",
+    "harm": {
+      "id": "0059156",
+      "title": "85458447 - Electric coffee brewers",
+      "conceptLink": "/ec2/concept/6000645"
+    }
+  },
+  {
+    "uri": "en/11/180803",
+    "id": "180803",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee filters",
+    "harm": {
+      "id": "0007173",
+      "title": "180803 - Electric coffee filters",
+      "conceptLink": "/ec2/concept/5958017"
+    }
+  },
+  {
+    "uri": "en/11/180883",
+    "id": "180883",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee machines",
+    "harm": {
+      "id": "0059155",
+      "title": "180883 - Electric coffee machines",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/180888",
+    "id": "180888",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee makers",
+    "harm": {
+      "id": "0059155",
+      "title": "180888 - Electric coffee makers",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/120902633",
+    "id": "120902633",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee makers for household use",
+    "harm": {
+      "id": "0066309",
+      "title": "120902633 - Electric coffee makers for household use",
+      "conceptLink": "/ec2/concept/6002512"
+    }
+  },
+  {
+    "uri": "en/11/87735268",
+    "id": "87735268",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee makers [for household purposes]",
+    "harm": {
+      "id": "0059155",
+      "title": "87735268 - Electric coffee makers [for household purposes]",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/180889",
+    "id": "180889",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee making machines",
+    "harm": {
+      "id": "0059155",
+      "title": "180889 - Electric coffee making machines",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/180880",
+    "id": "180880",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee percolators",
+    "harm": {
+      "id": "0059154",
+      "title": "180880 - Electric coffee percolators",
+      "conceptLink": "/ec2/concept/6000643"
+    }
+  },
+  {
+    "uri": "en/11/180885",
+    "id": "180885",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee pots",
+    "harm": {
+      "id": "0059155",
+      "title": "180885 - Electric coffee pots",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/726267",
+    "id": "726267",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee roasters",
+    "harm": {
+      "id": "0003786",
+      "title": "726267 - Electric coffee roasters",
+      "conceptLink": "/ec2/concept/5954916"
+    }
+  },
+  {
+    "uri": "en/11/23798887",
+    "id": "23798887",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffee urns",
+    "harm": {
+      "id": "0050605",
+      "title": "23798887 - Electric coffee urns",
+      "conceptLink": "/ec2/concept/5995973"
+    }
+  },
+  {
+    "uri": "en/11/55149880",
+    "id": "55149880",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric coffeepots",
+    "harm": {
+      "id": "0059155",
+      "title": "55149880 - Electric coffeepots",
+      "conceptLink": "/ec2/concept/6000644"
+    }
+  },
+  {
+    "uri": "en/11/406886",
+    "id": "406886",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cookers",
+    "harm": {
+      "id": "0046548",
+      "title": "406886 - Electric cookers",
+      "conceptLink": "/ec2/concept/5993985"
+    }
+  },
+  {
+    "uri": "en/11/406882",
+    "id": "406882",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking ovens",
+    "harm": {
+      "id": "0046961",
+      "title": "406882 - Electric cooking ovens",
+      "conceptLink": "/ec2/concept/5994348"
+    }
+  },
+  {
+    "uri": "en/11/120902637",
+    "id": "120902637",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking ovens for household use",
+    "harm": {
+      "id": "0066308",
+      "title": "120902637 - Electric cooking ovens for household use",
+      "conceptLink": "/ec2/concept/6002511"
+    }
+  },
+  {
+    "uri": "en/11/726292",
+    "id": "726292",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking pots",
+    "harm": {
+      "id": "0037038",
+      "title": "726292 - Electric cooking pots",
+      "conceptLink": "/ec2/concept/5985332"
+    }
+  },
+  {
+    "uri": "en/11/136073574",
+    "id": "136073574",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking pots for industrial purposes",
+    "harm": {
+      "id": "0050431",
+      "title": "136073574 - Electric cooking pots for industrial purposes",
+      "conceptLink": "/ec2/concept/5995638"
+    }
+  },
+  {
+    "uri": "en/11/119532635",
+    "id": "119532635",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking pots [for household purposes]",
+    "harm": {
+      "id": "0055934",
+      "title": "119532635 - Electric cooking pots [for household purposes]",
+      "conceptLink": "/ec2/concept/5997306"
+    }
+  },
+  {
+    "uri": "en/11/120902621",
+    "id": "120902621",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking pots for household use",
+    "harm": {
+      "id": "0055934",
+      "title": "120902621 - Electric cooking pots for household use",
+      "conceptLink": "/ec2/concept/5997306"
+    }
+  },
+  {
+    "uri": "en/11/406887",
+    "id": "406887",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking stoves",
+    "harm": {
+      "id": "0046548",
+      "title": "406887 - Electric cooking stoves",
+      "conceptLink": "/ec2/concept/5993985"
+    }
+  },
+  {
+    "uri": "en/11/120902627",
+    "id": "120902627",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking stoves for household use",
+    "harm": {
+      "id": "0066307",
+      "title": "120902627 - Electric cooking stoves for household use",
+      "conceptLink": "/ec2/concept/6002510"
+    }
+  },
+  {
+    "uri": "en/11/119532636",
+    "id": "119532636",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking stoves [for household purposes]",
+    "harm": {
+      "id": "0055935",
+      "title": "119532636 - Electric cooking stoves [for household purposes]",
+      "conceptLink": "/ec2/concept/5997307"
+    }
+  },
+  {
+    "uri": "en/11/175305",
+    "id": "175305",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooking utensils",
+    "harm": {
+      "id": "0019886",
+      "title": "175305 - Electric cooking utensils",
+      "conceptLink": "/ec2/concept/5969657"
+    }
+  },
+  {
+    "uri": "en/11/32523404",
+    "id": "32523404",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooktops",
+    "harm": {
+      "id": "0070215",
+      "title": "32523404 - Electric cooktops",
+      "conceptLink": "/ec2/concept/6006409"
+    }
+  },
+  {
+    "uri": "en/11/726339",
+    "id": "726339",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric cooling fans",
+    "harm": {
+      "id": "0025485",
+      "title": "726339 - Electric cooling fans",
+      "conceptLink": "/ec2/concept/5974796"
+    }
+  },
+  {
+    "uri": "en/11/181102",
+    "id": "181102",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric deep fat fryers",
+    "harm": {
+      "id": "0008064",
+      "title": "181102 - Electric deep fat fryers",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/181096",
+    "id": "181096",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric deep fryers",
+    "harm": {
+      "id": "0008064",
+      "title": "181096 - Electric deep fryers",
+      "conceptLink": "/ec2/concept/5958838"
+    }
+  },
+  {
+    "uri": "en/11/24098425",
+    "id": "24098425",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dehumidifiers",
+    "harm": {
+      "id": "0074067",
+      "title": "24098425 - Electric dehumidifiers",
+      "conceptLink": "/ec2/concept/6011303"
+    }
+  },
+  {
+    "uri": "en/11/406990",
+    "id": "406990",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dehydrators",
+    "harm": {
+      "id": "0014061",
+      "title": "406990 - Electric dehydrators",
+      "conceptLink": "/ec2/concept/5964323"
+    }
+  },
+  {
+    "uri": "en/11/407004",
+    "id": "407004",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric discharge lamps",
+    "harm": {
+      "id": "0014062",
+      "title": "407004 - Electric discharge lamps",
+      "conceptLink": "/ec2/concept/5964324"
+    }
+  },
+  {
+    "uri": "en/11/175502",
+    "id": "175502",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric discharge tubes for lighting",
+    "harm": {
+      "id": "0034992",
+      "title": "175502 - Electric discharge tubes for lighting",
+      "conceptLink": "/ec2/concept/5983471"
+    }
+  },
+  {
+    "uri": "en/11/232623937",
+    "id": "232623937",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dish drying machines for household purposes",
+    "harm": {
+      "id": "0072145",
+      "title": "232623937 - Electric dish drying machines for household purposes",
+      "conceptLink": "/ec2/concept/6008328"
+    }
+  },
+  {
+    "uri": "en/11/120893961",
+    "id": "120893961",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dispensers for air fresheners",
+    "harm": {
+      "id": "0066226",
+      "title": "120893961 - Electric dispensers for air fresheners",
+      "conceptLink": "/ec2/concept/6002429"
+    }
+  },
+  {
+    "uri": "en/11/120893972",
+    "id": "120893972",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dispensers for room deodorants",
+    "harm": {
+      "id": "0066225",
+      "title": "120893972 - Electric dispensers for room deodorants",
+      "conceptLink": "/ec2/concept/6002428"
+    }
+  },
+  {
+    "uri": "en/11/726383",
+    "id": "726383",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric dryers for laundry use [heat drying]",
+    "harm": {
+      "id": "0038430",
+      "title": "726383 - Electric dryers for laundry use [heat drying]",
+      "conceptLink": "/ec2/concept/5986600"
+    }
+  },
+  {
+    "uri": "en/11/232623914",
+    "id": "232623914",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric drying apparatus for household purposes",
+    "harm": {
+      "id": "0072144",
+      "title": "232623914 - Electric drying apparatus for household purposes",
+      "conceptLink": "/ec2/concept/6008327"
+    }
+  },
+  {
+    "uri": "en/11/335439",
+    "id": "335439",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric egg boilers",
+    "harm": {
+      "id": "0008176",
+      "title": "335439 - Electric egg boilers",
+      "conceptLink": "/ec2/concept/5958937"
+    }
+  },
+  {
+    "uri": "en/11/335440",
+    "id": "335440",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric egg cookers",
+    "harm": {
+      "id": "0008176",
+      "title": "335440 - Electric egg cookers",
+      "conceptLink": "/ec2/concept/5958937"
+    }
+  },
+  {
+    "uri": "en/11/138391233",
+    "id": "138391233",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric egg steamers for household purposes",
+    "harm": {
+      "id": "0070214",
+      "title": "138391233 - Electric egg steamers for household purposes",
+      "conceptLink": "/ec2/concept/6006408"
+    }
+  },
+  {
+    "uri": "en/11/406855",
+    "id": "406855",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric espresso machines",
+    "harm": {
+      "id": "0014060",
+      "title": "406855 - Electric espresso machines",
+      "conceptLink": "/ec2/concept/5964322"
+    }
+  },
+  {
+    "uri": "en/11/726397",
+    "id": "726397",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fairy lights",
+    "harm": {
+      "id": "0015369",
+      "title": "726397 - Electric fairy lights",
+      "conceptLink": "/ec2/concept/5965525"
+    }
+  },
+  {
+    "uri": "en/11/726342",
+    "id": "726342",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans",
+    "harm": {
+      "id": "0025485",
+      "title": "726342 - Electric fans",
+      "conceptLink": "/ec2/concept/5974796"
+    }
+  },
+  {
+    "uri": "en/11/37036186",
+    "id": "37036186",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans for household use",
+    "harm": {
+      "id": "0055936",
+      "title": "37036186 - Electric fans for household use",
+      "conceptLink": "/ec2/concept/5997308"
+    }
+  },
+  {
+    "uri": "en/11/119532652",
+    "id": "119532652",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans [for household purposes]",
+    "harm": {
+      "id": "0055936",
+      "title": "119532652 - Electric fans [for household purposes]",
+      "conceptLink": "/ec2/concept/5997308"
+    }
+  },
+  {
+    "uri": "en/11/2434458",
+    "id": "2434458",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans for personal use",
+    "harm": {
+      "id": "0007332",
+      "title": "2434458 - Electric fans for personal use",
+      "conceptLink": "/ec2/concept/5958170"
+    }
+  },
+  {
+    "uri": "en/11/726340",
+    "id": "726340",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans for ventilation",
+    "harm": {
+      "id": "0025485",
+      "title": "726340 - Electric fans for ventilation",
+      "conceptLink": "/ec2/concept/5974796"
+    }
+  },
+  {
+    "uri": "en/11/138391226",
+    "id": "138391226",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fans with evaporative cooling devices",
+    "harm": {
+      "id": "0070204",
+      "title": "138391226 - Electric fans with evaporative cooling devices",
+      "conceptLink": "/ec2/concept/6006398"
+    }
+  },
+  {
+    "uri": "en/11/726409",
+    "id": "726409",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fiber lighting apparatus",
+    "harm": {
+      "id": "0033407",
+      "title": "726409 - Electric fiber lighting apparatus",
+      "conceptLink": "/ec2/concept/5982031"
+    }
+  },
+  {
+    "uri": "en/11/726421",
+    "id": "726421",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric firelighters",
+    "harm": {
+      "id": "0010290",
+      "title": "726421 - Electric firelighters",
+      "conceptLink": "/ec2/concept/5960870"
+    }
+  },
+  {
+    "uri": "en/11/407076",
+    "id": "407076",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric fires",
+    "harm": {
+      "id": "0027640",
+      "title": "407076 - Electric fires",
+      "conceptLink": "/ec2/concept/5976756"
+    }
+  },
+  {
+    "uri": "en/11/172626",
+    "id": "172626",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric flashlights",
+    "harm": {
+      "id": "0058927",
+      "title": "172626 - Electric flashlights",
+      "conceptLink": "/ec2/concept/6000418"
+    }
+  },
+  {
+    "uri": "en/11/407023",
+    "id": "407023",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric food steamer",
+    "harm": {
+      "id": "0042934",
+      "title": "407023 - Electric food steamer",
+      "conceptLink": "/ec2/concept/5990701"
+    }
+  },
+  {
+    "uri": "en/11/21866357",
+    "id": "21866357",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric food steamers",
+    "harm": {
+      "id": "0029957",
+      "title": "21866357 - Electric food steamers",
+      "conceptLink": "/ec2/concept/5978883"
+    }
+  },
+  {
+    "uri": "en/11/407038",
+    "id": "407038",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric food warmers",
+    "harm": {
+      "id": "0014063",
+      "title": "407038 - Electric food warmers",
+      "conceptLink": "/ec2/concept/5964325"
+    }
+  },
+  {
+    "uri": "en/11/407053",
+    "id": "407053",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric foot warmers",
+    "harm": {
+      "id": "0042935",
+      "title": "407053 - Electric foot warmers",
+      "conceptLink": "/ec2/concept/5990702"
+    }
+  },
+  {
+    "uri": "en/11/726436",
+    "id": "726436",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric foot warmers [other than for medical use]",
+    "harm": {
+      "id": "0022039",
+      "title": "726436 - Electric foot warmers [other than for medical use]",
+      "conceptLink": "/ec2/concept/5971629"
+    }
+  },
+  {
+    "uri": "en/11/37286558",
+    "id": "37286558",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric footwarmers [for personal use]",
+    "harm": {
+      "id": "0055937",
+      "title": "37286558 - Electric footwarmers [for personal use]",
+      "conceptLink": "/ec2/concept/5997309"
+    }
+  },
+  {
+    "uri": "en/11/120902646",
+    "id": "120902646",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric freezers for household use",
+    "harm": {
+      "id": "0066306",
+      "title": "120902646 - Electric freezers for household use",
+      "conceptLink": "/ec2/concept/6002509"
+    }
+  },
+  {
+    "uri": "en/11/407492",
+    "id": "407492",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric frying pans",
+    "harm": {
+      "id": "0024316",
+      "title": "407492 - Electric frying pans",
+      "conceptLink": "/ec2/concept/5973718"
+    }
+  },
+  {
+    "uri": "en/11/407075",
+    "id": "407075",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric furnaces",
+    "harm": {
+      "id": "0014064",
+      "title": "407075 - Electric furnaces",
+      "conceptLink": "/ec2/concept/5964326"
+    }
+  },
+  {
+    "uri": "en/11/120902706",
+    "id": "120902706",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric furnaces for industrial use",
+    "harm": {
+      "id": "0055938",
+      "title": "120902706 - Electric furnaces for industrial use",
+      "conceptLink": "/ec2/concept/5997310"
+    }
+  },
+  {
+    "uri": "en/11/119532662",
+    "id": "119532662",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric furnaces [for industrial purposes]",
+    "harm": {
+      "id": "0055938",
+      "title": "119532662 - Electric furnaces [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5997310"
+    }
+  },
+  {
+    "uri": "en/11/726452",
+    "id": "726452",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric furnaces for metallurgical purposes",
+    "harm": {
+      "id": "0039211",
+      "title": "726452 - Electric furnaces for metallurgical purposes",
+      "conceptLink": "/ec2/concept/5987306"
+    }
+  },
+  {
+    "uri": "en/11/407113",
+    "id": "407113",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric griddles",
+    "harm": {
+      "id": "0057034",
+      "title": "407113 - Electric griddles",
+      "conceptLink": "/ec2/concept/5998661"
+    }
+  },
+  {
+    "uri": "en/11/129928740",
+    "id": "129928740",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric griddles [cooking appliances]",
+    "harm": {
+      "id": "0057034",
+      "title": "129928740 - Electric griddles [cooking appliances]",
+      "conceptLink": "/ec2/concept/5998661"
+    }
+  },
+  {
+    "uri": "en/11/726463",
+    "id": "726463",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric grilling apparatus",
+    "harm": {
+      "id": "0046560",
+      "title": "726463 - Electric grilling apparatus",
+      "conceptLink": "/ec2/concept/5993994"
+    }
+  },
+  {
+    "uri": "en/11/406960",
+    "id": "406960",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric grills",
+    "harm": {
+      "id": "0046560",
+      "title": "406960 - Electric grills",
+      "conceptLink": "/ec2/concept/5993994"
+    }
+  },
+  {
+    "uri": "en/11/407157",
+    "id": "407157",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric hair dryers",
+    "harm": {
+      "id": "0017648",
+      "title": "407157 - Electric hair dryers",
+      "conceptLink": "/ec2/concept/5967608"
+    }
+  },
+  {
+    "uri": "en/11/489678",
+    "id": "489678",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric hand dryers",
+    "harm": {
+      "id": "0009175",
+      "title": "489678 - Electric hand dryers",
+      "conceptLink": "/ec2/concept/5959858"
+    }
+  },
+  {
+    "uri": "en/11/87735950",
+    "id": "87735950",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric hand drying apparatus for washrooms",
+    "harm": {
+      "id": "0058546",
+      "title": "87735950 - Electric hand drying apparatus for washrooms",
+      "conceptLink": "/ec2/concept/6000039"
+    }
+  },
+  {
+    "uri": "en/11/726479",
+    "id": "726479",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric hand lamps [other than for photographic use]",
+    "harm": {
+      "id": "0039212",
+      "title": "726479 - Electric hand lamps [other than for photographic use]",
+      "conceptLink": "/ec2/concept/5987307"
+    }
+  },
+  {
+    "uri": "en/11/407197",
+    "id": "407197",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heat-treating furnaces",
+    "harm": {
+      "id": "0000550",
+      "title": "407197 - Electric heat-treating furnaces",
+      "conceptLink": "/ec2/concept/5951982"
+    }
+  },
+  {
+    "uri": "en/11/726495",
+    "id": "726495",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heated urns",
+    "harm": {
+      "id": "0004587",
+      "title": "726495 - Electric heated urns",
+      "conceptLink": "/ec2/concept/5955649"
+    }
+  },
+  {
+    "uri": "en/11/176607",
+    "id": "176607",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heaters",
+    "harm": {
+      "id": "0047010",
+      "title": "176607 - Electric heaters",
+      "conceptLink": "/ec2/concept/5994390"
+    }
+  },
+  {
+    "uri": "en/11/903300",
+    "id": "903300",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heaters for babies' bottles",
+    "harm": {
+      "id": "0029457",
+      "title": "903300 - Electric heaters for babies' bottles",
+      "conceptLink": "/ec2/concept/5978421"
+    }
+  },
+  {
+    "uri": "en/11/180659",
+    "id": "180659",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heaters for baby bottles",
+    "harm": {
+      "id": "0029457",
+      "title": "180659 - Electric heaters for baby bottles",
+      "conceptLink": "/ec2/concept/5978421"
+    }
+  },
+  {
+    "uri": "en/11/174261",
+    "id": "174261",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Electric heating apparatus",
+    "harm": {
+      "id": "0039213",
+      "title": "174261 - Electric heating apparatus",
+      "conceptLink": "/ec2/concept/5987308"
+    }
+  }
+]

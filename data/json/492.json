@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/24/592751",
+    "id": "592751",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for the manufacture of furnishings",
+    "harm": {
+      "id": "0019664",
+      "title": "592751 - Fabrics for the manufacture of furnishings",
+      "conceptLink": "/ec2/concept/5969457"
+    }
+  },
+  {
+    "uri": "en/24/592766",
+    "id": "592766",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use as linings in clothing",
+    "harm": {
+      "id": "0023455",
+      "title": "592766 - Fabrics for use as linings in clothing",
+      "conceptLink": "/ec2/concept/5972923"
+    }
+  },
+  {
+    "uri": "en/24/592779",
+    "id": "592779",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use in covering armchairs",
+    "harm": {
+      "id": "0011843",
+      "title": "592779 - Fabrics for use in covering armchairs",
+      "conceptLink": "/ec2/concept/5962296"
+    }
+  },
+  {
+    "uri": "en/24/592805",
+    "id": "592805",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use in making incontinence pads",
+    "harm": {
+      "id": "0023456",
+      "title": "592805 - Fabrics for use in making incontinence pads",
+      "conceptLink": "/ec2/concept/5972924"
+    }
+  },
+  {
+    "uri": "en/24/592818",
+    "id": "592818",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use in making jerseys",
+    "harm": {
+      "id": "0017609",
+      "title": "592818 - Fabrics for use in making jerseys",
+      "conceptLink": "/ec2/concept/5967571"
+    }
+  },
+  {
+    "uri": "en/24/592792",
+    "id": "592792",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use in making diapers",
+    "harm": {
+      "id": "0017608",
+      "title": "592792 - Fabrics for use in making diapers",
+      "conceptLink": "/ec2/concept/5967570"
+    }
+  },
+  {
+    "uri": "en/24/592831",
+    "id": "592831",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics for use in the manufacture of exterior coverings for chairs",
+    "harm": {
+      "id": "0000287",
+      "title": "592831 - Fabrics for use in the manufacture of exterior coverings for chairs",
+      "conceptLink": "/ec2/concept/5951751"
+    }
+  },
+  {
+    "uri": "en/24/592844",
+    "id": "592844",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from acrylic, other than for insulation",
+    "harm": {
+      "id": "0029170",
+      "title": "592844 - Fabrics made from acrylic, other than for insulation",
+      "conceptLink": "/ec2/concept/5978169"
+    }
+  },
+  {
+    "uri": "en/24/592860",
+    "id": "592860",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from artificial fibres [for insulation]",
+    "harm": {
+      "id": "0006067",
+      "title": "592860 - Fabrics made from artificial fibres [for insulation]",
+      "conceptLink": "/ec2/concept/5957011"
+    }
+  },
+  {
+    "uri": "en/24/592861",
+    "id": "592861",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from artificial fibres [other than for insulation]",
+    "harm": {
+      "id": "0006067",
+      "title": "592861 - Fabrics made from artificial fibres [other than for insulation]",
+      "conceptLink": "/ec2/concept/5957011"
+    }
+  },
+  {
+    "uri": "en/24/592890",
+    "id": "592890",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from ceramic fibres, other than for insulation",
+    "harm": {
+      "id": "0040743",
+      "title": "592890 - Fabrics made from ceramic fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5988712"
+    }
+  },
+  {
+    "uri": "en/24/592913",
+    "id": "592913",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from cotton, other than for insulation",
+    "harm": {
+      "id": "0017610",
+      "title": "592913 - Fabrics made from cotton, other than for insulation",
+      "conceptLink": "/ec2/concept/5967572"
+    }
+  },
+  {
+    "uri": "en/24/592929",
+    "id": "592929",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from linen, other than for insulation",
+    "harm": {
+      "id": "0040744",
+      "title": "592929 - Fabrics made from linen, other than for insulation",
+      "conceptLink": "/ec2/concept/5988713"
+    }
+  },
+  {
+    "uri": "en/24/592944",
+    "id": "592944",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from natural fibres, other than for insulation",
+    "harm": {
+      "id": "0040745",
+      "title": "592944 - Fabrics made from natural fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5988714"
+    }
+  },
+  {
+    "uri": "en/24/592959",
+    "id": "592959",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from nylon, other than for insulation",
+    "harm": {
+      "id": "0028096",
+      "title": "592959 - Fabrics made from nylon, other than for insulation",
+      "conceptLink": "/ec2/concept/5977169"
+    }
+  },
+  {
+    "uri": "en/24/592975",
+    "id": "592975",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from polyester, other than for insulation",
+    "harm": {
+      "id": "0033835",
+      "title": "592975 - Fabrics made from polyester, other than for insulation",
+      "conceptLink": "/ec2/concept/5982422"
+    }
+  },
+  {
+    "uri": "en/24/592988",
+    "id": "592988",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from silk, other than for insulation",
+    "harm": {
+      "id": "0005017",
+      "title": "592988 - Fabrics made from silk, other than for insulation",
+      "conceptLink": "/ec2/concept/5956052"
+    }
+  },
+  {
+    "uri": "en/24/352468",
+    "id": "352468",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from synthetic yarns",
+    "harm": {
+      "id": "0003369",
+      "title": "352468 - Fabrics made from synthetic yarns",
+      "conceptLink": "/ec2/concept/5954533"
+    }
+  },
+  {
+    "uri": "en/24/593017",
+    "id": "593017",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from synthetic threads",
+    "harm": {
+      "id": "0003369",
+      "title": "593017 - Fabrics made from synthetic threads",
+      "conceptLink": "/ec2/concept/5954533"
+    }
+  },
+  {
+    "uri": "en/24/593003",
+    "id": "593003",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from synthetic fibres [other than insulation]",
+    "harm": {
+      "id": "0006067",
+      "title": "593003 - Fabrics made from synthetic fibres [other than insulation]",
+      "conceptLink": "/ec2/concept/5957011"
+    }
+  },
+  {
+    "uri": "en/24/593030",
+    "id": "593030",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made from wool, other than for insulation",
+    "harm": {
+      "id": "0016550",
+      "title": "593030 - Fabrics made from wool, other than for insulation",
+      "conceptLink": "/ec2/concept/5966617"
+    }
+  },
+  {
+    "uri": "en/24/593047",
+    "id": "593047",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics made of mixed synthetic and natural fibres, other than for insulation",
+    "harm": {
+      "id": "0028097",
+      "title": "593047 - Fabrics made of mixed synthetic and natural fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5977170"
+    }
+  },
+  {
+    "uri": "en/24/593060",
+    "id": "593060",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics of carbon fibre, other than for insulation",
+    "harm": {
+      "id": "0010752",
+      "title": "593060 - Fabrics of carbon fibre, other than for insulation",
+      "conceptLink": "/ec2/concept/5961299"
+    }
+  },
+  {
+    "uri": "en/24/593076",
+    "id": "593076",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics of chemically produced fibres, other than for insulation",
+    "harm": {
+      "id": "0005018",
+      "title": "593076 - Fabrics of chemically produced fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5956053"
+    }
+  },
+  {
+    "uri": "en/24/593089",
+    "id": "593089",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics of inorganic fibres, other than for insulation",
+    "harm": {
+      "id": "0010753",
+      "title": "593089 - Fabrics of inorganic fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5961300"
+    }
+  },
+  {
+    "uri": "en/24/593102",
+    "id": "593102",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics of man-made fibres being textile goods in piece form",
+    "harm": {
+      "id": "0005019",
+      "title": "593102 - Fabrics of man-made fibres being textile goods in piece form",
+      "conceptLink": "/ec2/concept/5956054"
+    }
+  },
+  {
+    "uri": "en/24/593114",
+    "id": "593114",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics of organic fibres, other than for insulation",
+    "harm": {
+      "id": "0039620",
+      "title": "593114 - Fabrics of organic fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5987677"
+    }
+  },
+  {
+    "uri": "en/24/612493",
+    "id": "612493",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics [piece goods]",
+    "harm": {
+      "id": "0046188",
+      "title": "612493 - Fabrics [piece goods]",
+      "conceptLink": "/ec2/concept/5993683"
+    }
+  },
+  {
+    "uri": "en/24/612516",
+    "id": "612516",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics [textile piece goods] made of carbon fibre",
+    "harm": {
+      "id": "0019174",
+      "title": "612516 - Fabrics [textile piece goods] made of carbon fibre",
+      "conceptLink": "/ec2/concept/5969017"
+    }
+  },
+  {
+    "uri": "en/24/592891",
+    "id": "592891",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fabrics woven from ceramic fibres, other than for insulation",
+    "harm": {
+      "id": "0040743",
+      "title": "592891 - Fabrics woven from ceramic fibres, other than for insulation",
+      "conceptLink": "/ec2/concept/5988712"
+    }
+  },
+  {
+    "uri": "en/24/885712",
+    "id": "885712",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face cloths",
+    "harm": {
+      "id": "0033579",
+      "title": "885712 - Face cloths",
+      "conceptLink": "/ec2/concept/5982190"
+    }
+  },
+  {
+    "uri": "en/24/266384",
+    "id": "266384",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face cloths of textile",
+    "harm": {
+      "id": "0025997",
+      "title": "266384 - Face cloths of textile",
+      "conceptLink": "/ec2/concept/5975262"
+    }
+  },
+  {
+    "uri": "en/24/593128",
+    "id": "593128",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face cloths of towelling",
+    "harm": {
+      "id": "0032989",
+      "title": "593128 - Face cloths of towelling",
+      "conceptLink": "/ec2/concept/5981645"
+    }
+  },
+  {
+    "uri": "en/24/593141",
+    "id": "593141",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face flannels in the form of gloves",
+    "harm": {
+      "id": "0027250",
+      "title": "593141 - Face flannels in the form of gloves",
+      "conceptLink": "/ec2/concept/5976387"
+    }
+  },
+  {
+    "uri": "en/24/593152",
+    "id": "593152",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face flannels of textile",
+    "harm": {
+      "id": "0025997",
+      "title": "593152 - Face flannels of textile",
+      "conceptLink": "/ec2/concept/5975262"
+    }
+  },
+  {
+    "uri": "en/24/885713",
+    "id": "885713",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face towels",
+    "harm": {
+      "id": "0003665",
+      "title": "885713 - Face towels",
+      "conceptLink": "/ec2/concept/5954804"
+    }
+  },
+  {
+    "uri": "en/24/266383",
+    "id": "266383",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face towels [made of textile materials]",
+    "harm": {
+      "id": "0025997",
+      "title": "266383 - Face towels [made of textile materials]",
+      "conceptLink": "/ec2/concept/5975262"
+    }
+  },
+  {
+    "uri": "en/24/266381",
+    "id": "266381",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face towels of textile",
+    "harm": {
+      "id": "0025997",
+      "title": "266381 - Face towels of textile",
+      "conceptLink": "/ec2/concept/5975262"
+    }
+  },
+  {
+    "uri": "en/24/266380",
+    "id": "266380",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Face towels of textiles",
+    "harm": {
+      "id": "0025997",
+      "title": "266380 - Face towels of textiles",
+      "conceptLink": "/ec2/concept/5975262"
+    }
+  },
+  {
+    "uri": "en/24/263163",
+    "id": "263163",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felt",
+    "harm": {
+      "id": "0035173",
+      "title": "263163 - Felt",
+      "conceptLink": "/ec2/concept/5983630"
+    }
+  },
+  {
+    "uri": "en/24/352796",
+    "id": "352796",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felt cloth",
+    "harm": {
+      "id": "0007765",
+      "title": "352796 - Felt cloth",
+      "conceptLink": "/ec2/concept/5958560"
+    }
+  },
+  {
+    "uri": "en/24/593168",
+    "id": "593168",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felt for use by papermakers",
+    "harm": {
+      "id": "0021620",
+      "title": "593168 - Felt for use by papermakers",
+      "conceptLink": "/ec2/concept/5971236"
+    }
+  },
+  {
+    "uri": "en/24/432261",
+    "id": "432261",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felt pennants",
+    "harm": {
+      "id": "0013612",
+      "title": "432261 - Felt pennants",
+      "conceptLink": "/ec2/concept/5963905"
+    }
+  },
+  {
+    "uri": "en/24/593180",
+    "id": "593180",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felt piece goods",
+    "harm": {
+      "id": "0044550",
+      "title": "593180 - Felt piece goods",
+      "conceptLink": "/ec2/concept/5992186"
+    }
+  },
+  {
+    "uri": "en/24/263162",
+    "id": "263162",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Felts",
+    "harm": {
+      "id": "0035173",
+      "title": "263162 - Felts",
+      "conceptLink": "/ec2/concept/5983630"
+    }
+  },
+  {
+    "uri": "en/24/267289",
+    "id": "267289",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fiberglass fabric for textile use",
+    "harm": {
+      "id": "0030884",
+      "title": "267289 - Fiberglass fabric for textile use",
+      "conceptLink": "/ec2/concept/5979745"
+    }
+  },
+  {
+    "uri": "en/24/267290",
+    "id": "267290",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fiberglass fabrics for textile use",
+    "harm": {
+      "id": "0030884",
+      "title": "267290 - Fiberglass fabrics for textile use",
+      "conceptLink": "/ec2/concept/5979745"
+    }
+  },
+  {
+    "uri": "en/24/267292",
+    "id": "267292",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fiberglass fabrics, for textile use",
+    "harm": {
+      "id": "0030884",
+      "title": "267292 - Fiberglass fabrics, for textile use",
+      "conceptLink": "/ec2/concept/5979745"
+    }
+  },
+  {
+    "uri": "en/24/593192",
+    "id": "593192",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fibre fabrics for the manufacture of the exterior coverings of furniture",
+    "harm": {
+      "id": "0009890",
+      "title": "593192 - Fibre fabrics for the manufacture of the exterior coverings of furniture",
+      "conceptLink": "/ec2/concept/5960507"
+    }
+  },
+  {
+    "uri": "en/24/593235",
+    "id": "593235",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fibre fabrics for use in the manufacture of linings of shoes",
+    "harm": {
+      "id": "0004173",
+      "title": "593235 - Fibre fabrics for use in the manufacture of linings of shoes",
+      "conceptLink": "/ec2/concept/5955265"
+    }
+  },
+  {
+    "uri": "en/24/593218",
+    "id": "593218",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fibre fabrics for use in the manufacture of linings of bags",
+    "harm": {
+      "id": "0032991",
+      "title": "593218 - Fibre fabrics for use in the manufacture of linings of bags",
+      "conceptLink": "/ec2/concept/5981647"
+    }
+  },
+  {
+    "uri": "en/24/593206",
+    "id": "593206",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fibre fabrics for use in the manufacture of articles of clothing",
+    "harm": {
+      "id": "0032990",
+      "title": "593206 - Fibre fabrics for use in the manufacture of articles of clothing",
+      "conceptLink": "/ec2/concept/5981646"
+    }
+  },
+  {
+    "uri": "en/24/267291",
+    "id": "267291",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fibreglass fabrics for textile use",
+    "harm": {
+      "id": "0030884",
+      "title": "267291 - Fibreglass fabrics for textile use",
+      "conceptLink": "/ec2/concept/5979745"
+    }
+  },
+  {
+    "uri": "en/24/267371",
+    "id": "267371",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Filter fibers [textile]",
+    "harm": {
+      "id": "0046939",
+      "title": "267371 - Filter fibers [textile]",
+      "conceptLink": "/ec2/concept/5994327"
+    }
+  },
+  {
+    "uri": "en/24/267372",
+    "id": "267372",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Filtering cloth",
+    "harm": {
+      "id": "0046939",
+      "title": "267372 - Filtering cloth",
+      "conceptLink": "/ec2/concept/5994327"
+    }
+  },
+  {
+    "uri": "en/24/267369",
+    "id": "267369",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Filtering materials of textile",
+    "harm": {
+      "id": "0046939",
+      "title": "267369 - Filtering materials of textile",
+      "conceptLink": "/ec2/concept/5994327"
+    }
+  },
+  {
+    "uri": "en/24/267373",
+    "id": "267373",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Filters made of textile materials",
+    "harm": {
+      "id": "0046939",
+      "title": "267373 - Filters made of textile materials",
+      "conceptLink": "/ec2/concept/5994327"
+    }
+  },
+  {
+    "uri": "en/24/593247",
+    "id": "593247",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fire-retardant textile shower curtains",
+    "harm": {
+      "id": "0008809",
+      "title": "593247 - Fire-retardant textile shower curtains",
+      "conceptLink": "/ec2/concept/5959511"
+    }
+  },
+  {
+    "uri": "en/24/77721248",
+    "id": "77721248",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fireproof upholstery fabrics",
+    "harm": {
+      "id": "0067130",
+      "title": "77721248 - Fireproof upholstery fabrics",
+      "conceptLink": "/ec2/concept/6003333"
+    }
+  },
+  {
+    "uri": "en/24/267695",
+    "id": "267695",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fitted toilet covers [fabric]",
+    "harm": {
+      "id": "0000213",
+      "title": "267695 - Fitted toilet covers [fabric]",
+      "conceptLink": "/ec2/concept/5951687"
+    }
+  },
+  {
+    "uri": "en/24/432278",
+    "id": "432278",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fitted toilet lid covers [made of fabric or fabric substitutes]",
+    "harm": {
+      "id": "0019475",
+      "title": "432278 - Fitted toilet lid covers [made of fabric or fabric substitutes]",
+      "conceptLink": "/ec2/concept/5969286"
+    }
+  },
+  {
+    "uri": "en/24/267691",
+    "id": "267691",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fitted toilet lid covers of fabric",
+    "harm": {
+      "id": "0000213",
+      "title": "267691 - Fitted toilet lid covers of fabric",
+      "conceptLink": "/ec2/concept/5951687"
+    }
+  },
+  {
+    "uri": "en/24/136073337",
+    "id": "136073337",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fitted toilet seat covers of textile",
+    "harm": {
+      "id": "0000213",
+      "title": "136073337 - Fitted toilet seat covers of textile",
+      "conceptLink": "/ec2/concept/5951687"
+    }
+  },
+  {
+    "uri": "en/24/888162",
+    "id": "888162",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flags and pennants of textile",
+    "harm": {
+      "id": "0010469",
+      "title": "888162 - Flags and pennants of textile",
+      "conceptLink": "/ec2/concept/5961038"
+    }
+  },
+  {
+    "uri": "en/24/264422",
+    "id": "264422",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flags, not of paper",
+    "harm": {
+      "id": "0003816",
+      "title": "264422 - Flags, not of paper",
+      "conceptLink": "/ec2/concept/5954944"
+    }
+  },
+  {
+    "uri": "en/24/900871",
+    "id": "900871",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flags of textile",
+    "harm": {
+      "id": "0003815",
+      "title": "900871 - Flags of textile",
+      "conceptLink": "/ec2/concept/5954943"
+    }
+  },
+  {
+    "uri": "en/24/233599856",
+    "id": "233599856",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flags of textile or plastic",
+    "harm": {
+      "id": "0003816",
+      "title": "233599856 - Flags of textile or plastic",
+      "conceptLink": "/ec2/concept/5954944"
+    }
+  },
+  {
+    "uri": "en/24/593261",
+    "id": "593261",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flame resistant fabrics",
+    "harm": {
+      "id": "0014662",
+      "title": "593261 - Flame resistant fabrics",
+      "conceptLink": "/ec2/concept/5964884"
+    }
+  },
+  {
+    "uri": "en/24/593276",
+    "id": "593276",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flame retardant fabrics [other than asbestos]",
+    "harm": {
+      "id": "0031935",
+      "title": "593276 - Flame retardant fabrics [other than asbestos]",
+      "conceptLink": "/ec2/concept/5980683"
+    }
+  },
+  {
+    "uri": "en/24/264763",
+    "id": "264763",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flannel",
+    "harm": {
+      "id": "0046419",
+      "title": "264763 - Flannel",
+      "conceptLink": "/ec2/concept/5993872"
+    }
+  },
+  {
+    "uri": "en/24/264762",
+    "id": "264762",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flannel [fabric]",
+    "harm": {
+      "id": "0046419",
+      "title": "264762 - Flannel [fabric]",
+      "conceptLink": "/ec2/concept/5993872"
+    }
+  },
+  {
+    "uri": "en/24/264820",
+    "id": "264820",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flannel (Sanitary -)",
+    "harm": {
+      "id": "0006260",
+      "title": "264820 - Flannel (Sanitary -)",
+      "conceptLink": "/ec2/concept/5957190"
+    }
+  },
+  {
+    "uri": "en/24/264224",
+    "id": "264224",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flax cloth",
+    "harm": {
+      "id": "0000985",
+      "title": "264224 - Flax cloth",
+      "conceptLink": "/ec2/concept/5952372"
+    }
+  },
+  {
+    "uri": "en/24/264223",
+    "id": "264223",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flax fabrics",
+    "harm": {
+      "id": "0000985",
+      "title": "264223 - Flax fabrics",
+      "conceptLink": "/ec2/concept/5952372"
+    }
+  },
+  {
+    "uri": "en/24/593289",
+    "id": "593289",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fleece made from copolymers",
+    "harm": {
+      "id": "0014663",
+      "title": "593289 - Fleece made from copolymers",
+      "conceptLink": "/ec2/concept/5964885"
+    }
+  },
+  {
+    "uri": "en/24/593302",
+    "id": "593302",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fleece made from polyester",
+    "harm": {
+      "id": "0026155",
+      "title": "593302 - Fleece made from polyester",
+      "conceptLink": "/ec2/concept/5975405"
+    }
+  },
+  {
+    "uri": "en/24/593315",
+    "id": "593315",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fleece made from polypropylene",
+    "harm": {
+      "id": "0014664",
+      "title": "593315 - Fleece made from polypropylene",
+      "conceptLink": "/ec2/concept/5964886"
+    }
+  },
+  {
+    "uri": "en/24/593328",
+    "id": "593328",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Flocked fabrics",
+    "harm": {
+      "id": "0031936",
+      "title": "593328 - Flocked fabrics",
+      "conceptLink": "/ec2/concept/5980684"
+    }
+  },
+  {
+    "uri": "en/24/593342",
+    "id": "593342",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fly netting of plastic",
+    "harm": {
+      "id": "0043512",
+      "title": "593342 - Fly netting of plastic",
+      "conceptLink": "/ec2/concept/5991233"
+    }
+  },
+  {
+    "uri": "en/24/593367",
+    "id": "593367",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Foils of plastics for the manufacture of disposable clothes",
+    "harm": {
+      "id": "0020501",
+      "title": "593367 - Foils of plastics for the manufacture of disposable clothes",
+      "conceptLink": "/ec2/concept/5970216"
+    }
+  },
+  {
+    "uri": "en/24/593355",
+    "id": "593355",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Foils of plastics for the manufacture of disposable capes",
+    "harm": {
+      "id": "0020500",
+      "title": "593355 - Foils of plastics for the manufacture of disposable capes",
+      "conceptLink": "/ec2/concept/5970215"
+    }
+  },
+  {
+    "uri": "en/24/593379",
+    "id": "593379",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Foils of plastics for the manufacture of disposable linen",
+    "harm": {
+      "id": "0020502",
+      "title": "593379 - Foils of plastics for the manufacture of disposable linen",
+      "conceptLink": "/ec2/concept/5970217"
+    }
+  },
+  {
+    "uri": "en/24/262989",
+    "id": "262989",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Footwear (Fabric for -)",
+    "harm": {
+      "id": "0012610",
+      "title": "262989 - Footwear (Fabric for -)",
+      "conceptLink": "/ec2/concept/5963002"
+    }
+  },
+  {
+    "uri": "en/24/888065",
+    "id": "888065",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Forming fabrics all for use in the paper making industry",
+    "harm": {
+      "id": "0032902",
+      "title": "888065 - Forming fabrics all for use in the paper making industry",
+      "conceptLink": "/ec2/concept/5981563"
+    }
+  },
+  {
+    "uri": "en/24/888078",
+    "id": "888078",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Forming felts all for use in the paper making industry",
+    "harm": {
+      "id": "0015630",
+      "title": "888078 - Forming felts all for use in the paper making industry",
+      "conceptLink": "/ec2/concept/5965768"
+    }
+  },
+  {
+    "uri": "en/24/432297",
+    "id": "432297",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Foulard [fabric]",
+    "harm": {
+      "id": "0042488",
+      "title": "432297 - Foulard [fabric]",
+      "conceptLink": "/ec2/concept/5990307"
+    }
+  },
+  {
+    "uri": "en/24/264856",
+    "id": "264856",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Frieze",
+    "harm": {
+      "id": "0017842",
+      "title": "264856 - Frieze",
+      "conceptLink": "/ec2/concept/5967789"
+    }
+  },
+  {
+    "uri": "en/24/264855",
+    "id": "264855",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Frieze [cloth]",
+    "harm": {
+      "id": "0017842",
+      "title": "264855 - Frieze [cloth]",
+      "conceptLink": "/ec2/concept/5967789"
+    }
+  },
+  {
+    "uri": "en/24/264857",
+    "id": "264857",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Friezes of textile",
+    "harm": {
+      "id": "0017842",
+      "title": "264857 - Friezes of textile",
+      "conceptLink": "/ec2/concept/5967789"
+    }
+  },
+  {
+    "uri": "en/24/593391",
+    "id": "593391",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Friezes [textile wall hangings]",
+    "harm": {
+      "id": "0044124",
+      "title": "593391 - Friezes [textile wall hangings]",
+      "conceptLink": "/ec2/concept/5991795"
+    }
+  },
+  {
+    "uri": "en/24/903946",
+    "id": "903946",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furnishing and upholstery fabrics",
+    "harm": {
+      "id": "0046725",
+      "title": "903946 - Furnishing and upholstery fabrics",
+      "conceptLink": "/ec2/concept/5994134"
+    }
+  },
+  {
+    "uri": "en/24/262299",
+    "id": "262299",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furnishing fabrics",
+    "harm": {
+      "id": "0046283",
+      "title": "262299 - Furnishing fabrics",
+      "conceptLink": "/ec2/concept/5993744"
+    }
+  },
+  {
+    "uri": "en/24/593420",
+    "id": "593420",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furnishing fabrics being textile piece goods",
+    "harm": {
+      "id": "0003718",
+      "title": "593420 - Furnishing fabrics being textile piece goods",
+      "conceptLink": "/ec2/concept/5954854"
+    }
+  },
+  {
+    "uri": "en/24/593431",
+    "id": "593431",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furnishing fabrics in the piece",
+    "harm": {
+      "id": "0003718",
+      "title": "593431 - Furnishing fabrics in the piece",
+      "conceptLink": "/ec2/concept/5954854"
+    }
+  },
+  {
+    "uri": "en/24/903947",
+    "id": "903947",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furniture coverings made of plastic materials",
+    "harm": {
+      "id": "0057111",
+      "title": "903947 - Furniture coverings made of plastic materials",
+      "conceptLink": "/ec2/concept/5998734"
+    }
+  },
+  {
+    "uri": "en/24/265777",
+    "id": "265777",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furniture coverings of plastic",
+    "harm": {
+      "id": "0057111",
+      "title": "265777 - Furniture coverings of plastic",
+      "conceptLink": "/ec2/concept/5998734"
+    }
+  },
+  {
+    "uri": "en/24/267637",
+    "id": "267637",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furniture coverings of textile",
+    "harm": {
+      "id": "0034865",
+      "title": "267637 - Furniture coverings of textile",
+      "conceptLink": "/ec2/concept/5983356"
+    }
+  },
+  {
+    "uri": "en/24/887825",
+    "id": "887825",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furniture coverings (unfitted)",
+    "harm": {
+      "id": "0031911",
+      "title": "887825 - Furniture coverings (unfitted)",
+      "conceptLink": "/ec2/concept/5980661"
+    }
+  },
+  {
+    "uri": "en/24/265147",
+    "id": "265147",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Furniture (Loose covers for -)",
+    "harm": {
+      "id": "0006304",
+      "title": "265147 - Furniture (Loose covers for -)",
+      "conceptLink": "/ec2/concept/5957230"
+    }
+  },
+  {
+    "uri": "en/24/264924",
+    "id": "264924",
+    "lang": "en",
+    "classNumber": "24",
+    "term": "Fustian",
+    "harm": {
+      "id": "0017844",
+      "title": "264924 - Fustian",
+      "conceptLink": "/ec2/concept/5967791"
+    }
+  }
+]

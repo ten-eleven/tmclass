@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/3040174",
+    "id": "3040174",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air driers",
+    "harm": {
+      "id": "0006759",
+      "title": "3040174 - Air driers",
+      "conceptLink": "/ec2/concept/5957644"
+    }
+  },
+  {
+    "uri": "en/11/170459",
+    "id": "170459",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air driers [dryers]",
+    "harm": {
+      "id": "0006759",
+      "title": "170459 - Air driers [dryers]",
+      "conceptLink": "/ec2/concept/5957644"
+    }
+  },
+  {
+    "uri": "en/11/170462",
+    "id": "170462",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air dryers",
+    "harm": {
+      "id": "0006759",
+      "title": "170462 - Air dryers",
+      "conceptLink": "/ec2/concept/5957644"
+    }
+  },
+  {
+    "uri": "en/11/170464",
+    "id": "170464",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air drying apparatus",
+    "harm": {
+      "id": "0046884",
+      "title": "170464 - Air drying apparatus",
+      "conceptLink": "/ec2/concept/5994276"
+    }
+  },
+  {
+    "uri": "en/11/124949067",
+    "id": "124949067",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air extractor hoods (Filters for -)",
+    "harm": {
+      "id": "0012565",
+      "title": "124949067 - Air extractor hoods (Filters for -)",
+      "conceptLink": "/ec2/concept/5962961"
+    }
+  },
+  {
+    "uri": "en/11/721698",
+    "id": "721698",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air extractor hoods for use with cookers",
+    "harm": {
+      "id": "0024173",
+      "title": "721698 - Air extractor hoods for use with cookers",
+      "conceptLink": "/ec2/concept/5973590"
+    }
+  },
+  {
+    "uri": "en/11/170601",
+    "id": "170601",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filter installations",
+    "harm": {
+      "id": "0046297",
+      "title": "170601 - Air filter installations",
+      "conceptLink": "/ec2/concept/5993757"
+    }
+  },
+  {
+    "uri": "en/11/170603",
+    "id": "170603",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filtering installations",
+    "harm": {
+      "id": "0046297",
+      "title": "170603 - Air filtering installations",
+      "conceptLink": "/ec2/concept/5993757"
+    }
+  },
+  {
+    "uri": "en/11/893794",
+    "id": "893794",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters",
+    "harm": {
+      "id": "0032802",
+      "title": "893794 - Air filters",
+      "conceptLink": "/ec2/concept/5981474"
+    }
+  },
+  {
+    "uri": "en/11/405822",
+    "id": "405822",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for air conditioning units",
+    "harm": {
+      "id": "0038114",
+      "title": "405822 - Air filters for air conditioning units",
+      "conceptLink": "/ec2/concept/5986306"
+    }
+  },
+  {
+    "uri": "en/11/120902298",
+    "id": "120902298",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for household use",
+    "harm": {
+      "id": "0066302",
+      "title": "120902298 - Air filters for household use",
+      "conceptLink": "/ec2/concept/6002505"
+    }
+  },
+  {
+    "uri": "en/11/65615481",
+    "id": "65615481",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for industrial use",
+    "harm": {
+      "id": "0066247",
+      "title": "65615481 - Air filters for industrial use",
+      "conceptLink": "/ec2/concept/6002450"
+    }
+  },
+  {
+    "uri": "en/11/14618982",
+    "id": "14618982",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for industrial installations",
+    "harm": {
+      "id": "0066301",
+      "title": "14618982 - Air filters for industrial installations",
+      "conceptLink": "/ec2/concept/6002504"
+    }
+  },
+  {
+    "uri": "en/11/721761",
+    "id": "721761",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for use as dust extractors in industrial processes",
+    "harm": {
+      "id": "0024174",
+      "title": "721761 - Air filters for use as dust extractors in industrial processes",
+      "conceptLink": "/ec2/concept/5973591"
+    }
+  },
+  {
+    "uri": "en/11/721749",
+    "id": "721749",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filters for use as dust arrestants in industrial processes",
+    "harm": {
+      "id": "0041480",
+      "title": "721749 - Air filters for use as dust arrestants in industrial processes",
+      "conceptLink": "/ec2/concept/5989382"
+    }
+  },
+  {
+    "uri": "en/11/170602",
+    "id": "170602",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air filtration installations",
+    "harm": {
+      "id": "0046297",
+      "title": "170602 - Air filtration installations",
+      "conceptLink": "/ec2/concept/5993757"
+    }
+  },
+  {
+    "uri": "en/11/721770",
+    "id": "721770",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air freezing apparatus",
+    "harm": {
+      "id": "0001001",
+      "title": "721770 - Air freezing apparatus",
+      "conceptLink": "/ec2/concept/5952387"
+    }
+  },
+  {
+    "uri": "en/11/721771",
+    "id": "721771",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air freezing installations",
+    "harm": {
+      "id": "0041481",
+      "title": "721771 - Air freezing installations",
+      "conceptLink": "/ec2/concept/5989383"
+    }
+  },
+  {
+    "uri": "en/11/120894007",
+    "id": "120894007",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air freshener dispensing systems",
+    "harm": {
+      "id": "0066228",
+      "title": "120894007 - Air freshener dispensing systems",
+      "conceptLink": "/ec2/concept/6002431"
+    }
+  },
+  {
+    "uri": "en/11/170234",
+    "id": "170234",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air freshening apparatus",
+    "harm": {
+      "id": "0012566",
+      "title": "170234 - Air freshening apparatus",
+      "conceptLink": "/ec2/concept/5962962"
+    }
+  },
+  {
+    "uri": "en/11/900379",
+    "id": "900379",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air handlers",
+    "harm": {
+      "id": "0033823",
+      "title": "900379 - Air handlers",
+      "conceptLink": "/ec2/concept/5982414"
+    }
+  },
+  {
+    "uri": "en/11/721775",
+    "id": "721775",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air handling installations",
+    "harm": {
+      "id": "0001002",
+      "title": "721775 - Air handling installations",
+      "conceptLink": "/ec2/concept/5952388"
+    }
+  },
+  {
+    "uri": "en/11/721792",
+    "id": "721792",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heat recovery apparatus",
+    "harm": {
+      "id": "0024175",
+      "title": "721792 - Air heat recovery apparatus",
+      "conceptLink": "/ec2/concept/5973592"
+    }
+  },
+  {
+    "uri": "en/11/721793",
+    "id": "721793",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heat recovery installations",
+    "harm": {
+      "id": "0024175",
+      "title": "721793 - Air heat recovery installations",
+      "conceptLink": "/ec2/concept/5973592"
+    }
+  },
+  {
+    "uri": "en/11/170399",
+    "id": "170399",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heaters",
+    "harm": {
+      "id": "0012567",
+      "title": "170399 - Air heaters",
+      "conceptLink": "/ec2/concept/5962963"
+    }
+  },
+  {
+    "uri": "en/11/721810",
+    "id": "721810",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heating apparatus",
+    "harm": {
+      "id": "0012567",
+      "title": "721810 - Air heating apparatus",
+      "conceptLink": "/ec2/concept/5962963"
+    }
+  },
+  {
+    "uri": "en/11/170154",
+    "id": "170154",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heating furnaces",
+    "harm": {
+      "id": "0046823",
+      "title": "170154 - Air heating furnaces",
+      "conceptLink": "/ec2/concept/5994222"
+    }
+  },
+  {
+    "uri": "en/11/721811",
+    "id": "721811",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air heating installations",
+    "harm": {
+      "id": "0024176",
+      "title": "721811 - Air heating installations",
+      "conceptLink": "/ec2/concept/5973593"
+    }
+  },
+  {
+    "uri": "en/11/408256",
+    "id": "408256",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air humidifiers",
+    "harm": {
+      "id": "0006010",
+      "title": "408256 - Air humidifiers",
+      "conceptLink": "/ec2/concept/5956959"
+    }
+  },
+  {
+    "uri": "en/11/721815",
+    "id": "721815",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air humidifiers [water containers for central heating radiators]",
+    "harm": {
+      "id": "0007844",
+      "title": "721815 - Air humidifiers [water containers for central heating radiators]",
+      "conceptLink": "/ec2/concept/5958638"
+    }
+  },
+  {
+    "uri": "en/11/721833",
+    "id": "721833",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air humidifying apparatus",
+    "harm": {
+      "id": "0002132",
+      "title": "721833 - Air humidifying apparatus",
+      "conceptLink": "/ec2/concept/5953405"
+    }
+  },
+  {
+    "uri": "en/11/721834",
+    "id": "721834",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air humidifying installations",
+    "harm": {
+      "id": "0002132",
+      "title": "721834 - Air humidifying installations",
+      "conceptLink": "/ec2/concept/5953405"
+    }
+  },
+  {
+    "uri": "en/11/721857",
+    "id": "721857",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air impellers for ventilation",
+    "harm": {
+      "id": "0042571",
+      "title": "721857 - Air impellers for ventilation",
+      "conceptLink": "/ec2/concept/5990379"
+    }
+  },
+  {
+    "uri": "en/11/721869",
+    "id": "721869",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air inductor apparatus [air conditioning]",
+    "harm": {
+      "id": "0007845",
+      "title": "721869 - Air inductor apparatus [air conditioning]",
+      "conceptLink": "/ec2/concept/5958639"
+    }
+  },
+  {
+    "uri": "en/11/721884",
+    "id": "721884",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air inductor apparatus [ventilation]",
+    "harm": {
+      "id": "0013672",
+      "title": "721884 - Air inductor apparatus [ventilation]",
+      "conceptLink": "/ec2/concept/5963961"
+    }
+  },
+  {
+    "uri": "en/11/721899",
+    "id": "721899",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air inlets [vents] for vehicles",
+    "harm": {
+      "id": "0036829",
+      "title": "721899 - Air inlets [vents] for vehicles",
+      "conceptLink": "/ec2/concept/5985139"
+    }
+  },
+  {
+    "uri": "en/11/721917",
+    "id": "721917",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air ionization apparatus",
+    "harm": {
+      "id": "0019543",
+      "title": "721917 - Air ionization apparatus",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/408257",
+    "id": "408257",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air moisturisers",
+    "harm": {
+      "id": "0006010",
+      "title": "408257 - Air moisturisers",
+      "conceptLink": "/ec2/concept/5956959"
+    }
+  },
+  {
+    "uri": "en/11/178041",
+    "id": "178041",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air or water (Ionization apparatus for the treatment of -)",
+    "harm": {
+      "id": "0019543",
+      "title": "178041 - Air or water (Ionization apparatus for the treatment of -)",
+      "conceptLink": "/ec2/concept/5969349"
+    }
+  },
+  {
+    "uri": "en/11/721953",
+    "id": "721953",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purgers for use with water supply installations",
+    "harm": {
+      "id": "0002133",
+      "title": "721953 - Air purgers for use with water supply installations",
+      "conceptLink": "/ec2/concept/5953406"
+    }
+  },
+  {
+    "uri": "en/11/721941",
+    "id": "721941",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purgers for use with water distribution installations",
+    "harm": {
+      "id": "0013673",
+      "title": "721941 - Air purgers for use with water distribution installations",
+      "conceptLink": "/ec2/concept/5963962"
+    }
+  },
+  {
+    "uri": "en/11/405871",
+    "id": "405871",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purification apparatus",
+    "harm": {
+      "id": "0058641",
+      "title": "405871 - Air purification apparatus",
+      "conceptLink": "/ec2/concept/6000134"
+    }
+  },
+  {
+    "uri": "en/11/721966",
+    "id": "721966",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purification installations",
+    "harm": {
+      "id": "0058641",
+      "title": "721966 - Air purification installations",
+      "conceptLink": "/ec2/concept/6000134"
+    }
+  },
+  {
+    "uri": "en/11/721980",
+    "id": "721980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purification machines",
+    "harm": {
+      "id": "0058640",
+      "title": "721980 - Air purification machines",
+      "conceptLink": "/ec2/concept/6000133"
+    }
+  },
+  {
+    "uri": "en/11/405864",
+    "id": "405864",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifiers",
+    "harm": {
+      "id": "0058640",
+      "title": "405864 - Air purifiers",
+      "conceptLink": "/ec2/concept/6000133"
+    }
+  },
+  {
+    "uri": "en/11/232623912",
+    "id": "232623912",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifiers for automobiles",
+    "harm": {
+      "id": "0072142",
+      "title": "232623912 - Air purifiers for automobiles",
+      "conceptLink": "/ec2/concept/6008325"
+    }
+  },
+  {
+    "uri": "en/11/120902610",
+    "id": "120902610",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifiers for household use",
+    "harm": {
+      "id": "0000226",
+      "title": "120902610 - Air purifiers for household use",
+      "conceptLink": "/ec2/concept/5951698"
+    }
+  },
+  {
+    "uri": "en/11/335271",
+    "id": "335271",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifiers [for household purposes]",
+    "harm": {
+      "id": "0000226",
+      "title": "335271 - Air purifiers [for household purposes]",
+      "conceptLink": "/ec2/concept/5951698"
+    }
+  },
+  {
+    "uri": "en/11/405868",
+    "id": "405868",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air-purifying apparatus",
+    "harm": {
+      "id": "0058641",
+      "title": "405868 - Air-purifying apparatus",
+      "conceptLink": "/ec2/concept/6000134"
+    }
+  },
+  {
+    "uri": "en/11/405869",
+    "id": "405869",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifying apparatus",
+    "harm": {
+      "id": "0058641",
+      "title": "405869 - Air purifying apparatus",
+      "conceptLink": "/ec2/concept/6000134"
+    }
+  },
+  {
+    "uri": "en/11/179082",
+    "id": "179082",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifying apparatus and machines",
+    "harm": {
+      "id": "0001160",
+      "title": "179082 - Air purifying apparatus and machines",
+      "conceptLink": "/ec2/concept/5952533"
+    }
+  },
+  {
+    "uri": "en/11/405865",
+    "id": "405865",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifying machines",
+    "harm": {
+      "id": "0058640",
+      "title": "405865 - Air purifying machines",
+      "conceptLink": "/ec2/concept/6000133"
+    }
+  },
+  {
+    "uri": "en/11/120863490",
+    "id": "120863490",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifying units for commercial use",
+    "harm": {
+      "id": "0066271",
+      "title": "120863490 - Air purifying units for commercial use",
+      "conceptLink": "/ec2/concept/6002474"
+    }
+  },
+  {
+    "uri": "en/11/120863445",
+    "id": "120863445",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air purifying units for household use",
+    "harm": {
+      "id": "0066270",
+      "title": "120863445 - Air purifying units for household use",
+      "conceptLink": "/ec2/concept/6002473"
+    }
+  },
+  {
+    "uri": "en/11/722004",
+    "id": "722004",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air recirculating apparatus",
+    "harm": {
+      "id": "0019544",
+      "title": "722004 - Air recirculating apparatus",
+      "conceptLink": "/ec2/concept/5969350"
+    }
+  },
+  {
+    "uri": "en/11/722005",
+    "id": "722005",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air recirculating installations",
+    "harm": {
+      "id": "0019544",
+      "title": "722005 - Air recirculating installations",
+      "conceptLink": "/ec2/concept/5969350"
+    }
+  },
+  {
+    "uri": "en/11/170398",
+    "id": "170398",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air reheaters",
+    "harm": {
+      "id": "0012567",
+      "title": "170398 - Air reheaters",
+      "conceptLink": "/ec2/concept/5962963"
+    }
+  },
+  {
+    "uri": "en/11/722024",
+    "id": "722024",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air separation apparatus",
+    "harm": {
+      "id": "0019545",
+      "title": "722024 - Air separation apparatus",
+      "conceptLink": "/ec2/concept/5969351"
+    }
+  },
+  {
+    "uri": "en/11/180403",
+    "id": "180403",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air sterilisers",
+    "harm": {
+      "id": "0025247",
+      "title": "180403 - Air sterilisers",
+      "conceptLink": "/ec2/concept/5974574"
+    }
+  },
+  {
+    "uri": "en/11/722036",
+    "id": "722036",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air sterilising apparatus",
+    "harm": {
+      "id": "0007846",
+      "title": "722036 - Air sterilising apparatus",
+      "conceptLink": "/ec2/concept/5958640"
+    }
+  },
+  {
+    "uri": "en/11/180402",
+    "id": "180402",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air sterilizers",
+    "harm": {
+      "id": "0025247",
+      "title": "180402 - Air sterilizers",
+      "conceptLink": "/ec2/concept/5974574"
+    }
+  },
+  {
+    "uri": "en/11/131133094",
+    "id": "131133094",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air treatment equipment",
+    "harm": {
+      "id": "0047824",
+      "title": "131133094 - Air treatment equipment",
+      "conceptLink": "/ec2/concept/5995098"
+    }
+  },
+  {
+    "uri": "en/11/179027",
+    "id": "179027",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air valves for steam heating installations",
+    "harm": {
+      "id": "0008570",
+      "title": "179027 - Air valves for steam heating installations",
+      "conceptLink": "/ec2/concept/5959293"
+    }
+  },
+  {
+    "uri": "en/11/170116",
+    "id": "170116",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air vehicles (Lighting installations for -)",
+    "harm": {
+      "id": "0028731",
+      "title": "170116 - Air vehicles (Lighting installations for -)",
+      "conceptLink": "/ec2/concept/5977765"
+    }
+  },
+  {
+    "uri": "en/11/722053",
+    "id": "722053",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Airstream generating apparatus",
+    "harm": {
+      "id": "0019546",
+      "title": "722053 - Airstream generating apparatus",
+      "conceptLink": "/ec2/concept/5969352"
+    }
+  },
+  {
+    "uri": "en/11/180430",
+    "id": "180430",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Alcohol burners",
+    "harm": {
+      "id": "0031490",
+      "title": "180430 - Alcohol burners",
+      "conceptLink": "/ec2/concept/5980288"
+    }
+  },
+  {
+    "uri": "en/11/722066",
+    "id": "722066",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Alcohol burners for laboratory use",
+    "harm": {
+      "id": "0036830",
+      "title": "722066 - Alcohol burners for laboratory use",
+      "conceptLink": "/ec2/concept/5985140"
+    }
+  },
+  {
+    "uri": "en/11/137801014",
+    "id": "137801014",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Animal feed drying apparatus",
+    "harm": {
+      "id": "0074054",
+      "title": "137801014 - Animal feed drying apparatus",
+      "conceptLink": "/ec2/concept/6011290"
+    }
+  },
+  {
+    "uri": "en/11/171455",
+    "id": "171455",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-dazzle devices for automobiles [lamp fittings]",
+    "harm": {
+      "id": "0059347",
+      "title": "171455 - Anti-dazzle devices for automobiles [lamp fittings]",
+      "conceptLink": "/ec2/concept/6000829"
+    }
+  },
+  {
+    "uri": "en/11/129504339",
+    "id": "129504339",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-dazzle devices for vehicles [lamp fittings]",
+    "harm": {
+      "id": "0059346",
+      "title": "129504339 - Anti-dazzle devices for vehicles [lamp fittings]",
+      "conceptLink": "/ec2/concept/6000828"
+    }
+  },
+  {
+    "uri": "en/11/233252609",
+    "id": "233252609",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-fog heating devices",
+    "harm": {
+      "id": "0073298",
+      "title": "233252609 - Anti-fog heating devices",
+      "conceptLink": "/ec2/concept/6009471"
+    }
+  },
+  {
+    "uri": "en/11/119693533",
+    "id": "119693533",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-glare devices for automobiles [lamp fittings]",
+    "harm": {
+      "id": "0059347",
+      "title": "119693533 - Anti-glare devices for automobiles [lamp fittings]",
+      "conceptLink": "/ec2/concept/6000829"
+    }
+  },
+  {
+    "uri": "en/11/171457",
+    "id": "171457",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-glare devices for vehicles [lamp fittings]",
+    "harm": {
+      "id": "0059346",
+      "title": "171457 - Anti-glare devices for vehicles [lamp fittings]",
+      "conceptLink": "/ec2/concept/6000828"
+    }
+  },
+  {
+    "uri": "en/11/172902",
+    "id": "172902",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Anti-splash tap nozzles",
+    "harm": {
+      "id": "0002391",
+      "title": "172902 - Anti-splash tap nozzles",
+      "conceptLink": "/ec2/concept/5953639"
+    }
+  },
+  {
+    "uri": "en/11/721718",
+    "id": "721718",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for clarifying air",
+    "harm": {
+      "id": "0058639",
+      "title": "721718 - Apparatus for clarifying air",
+      "conceptLink": "/ec2/concept/6000132"
+    }
+  },
+  {
+    "uri": "en/11/405872",
+    "id": "405872",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for cleaning air",
+    "harm": {
+      "id": "0058639",
+      "title": "405872 - Apparatus for cleaning air",
+      "conceptLink": "/ec2/concept/6000132"
+    }
+  },
+  {
+    "uri": "en/11/176674",
+    "id": "176674",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for cleaning gases",
+    "harm": {
+      "id": "0000092",
+      "title": "176674 - Apparatus for cleaning gases",
+      "conceptLink": "/ec2/concept/5951570"
+    }
+  },
+  {
+    "uri": "en/11/722100",
+    "id": "722100",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for controlling temperature in central heating radiators [valves]",
+    "harm": {
+      "id": "0011870",
+      "title": "722100 - Apparatus for controlling temperature in central heating radiators [valves]",
+      "conceptLink": "/ec2/concept/5962322"
+    }
+  },
+  {
+    "uri": "en/11/893809",
+    "id": "893809",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for controlling water supply",
+    "harm": {
+      "id": "0009701",
+      "title": "893809 - Apparatus for controlling water supply",
+      "conceptLink": "/ec2/concept/5960339"
+    }
+  },
+  {
+    "uri": "en/11/1198491",
+    "id": "1198491",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for cooking",
+    "harm": {
+      "id": "0020071",
+      "title": "1198491 - Apparatus for cooking",
+      "conceptLink": "/ec2/concept/5969825"
+    }
+  },
+  {
+    "uri": "en/11/722142",
+    "id": "722142",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for cooking out of doors",
+    "harm": {
+      "id": "0023485",
+      "title": "722142 - Apparatus for cooking out of doors",
+      "conceptLink": "/ec2/concept/5972951"
+    }
+  },
+  {
+    "uri": "en/11/722154",
+    "id": "722154",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for decalcifying water",
+    "harm": {
+      "id": "0023486",
+      "title": "722154 - Apparatus for decalcifying water",
+      "conceptLink": "/ec2/concept/5972952"
+    }
+  },
+  {
+    "uri": "en/11/129506109",
+    "id": "129506109",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for dehydrating food waste",
+    "harm": {
+      "id": "0044923",
+      "title": "129506109 - Apparatus for dehydrating food waste",
+      "conceptLink": "/ec2/concept/5992529"
+    }
+  },
+  {
+    "uri": "en/11/722169",
+    "id": "722169",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for descaling water",
+    "harm": {
+      "id": "0029200",
+      "title": "722169 - Apparatus for descaling water",
+      "conceptLink": "/ec2/concept/5978198"
+    }
+  },
+  {
+    "uri": "en/11/175718",
+    "id": "175718",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for desiccating",
+    "harm": {
+      "id": "0040774",
+      "title": "175718 - Apparatus for desiccating",
+      "conceptLink": "/ec2/concept/5988740"
+    }
+  },
+  {
+    "uri": "en/11/89789284",
+    "id": "89789284",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for disinfecting water",
+    "harm": {
+      "id": "0037680",
+      "title": "89789284 - Apparatus for disinfecting water",
+      "conceptLink": "/ec2/concept/5985904"
+    }
+  },
+  {
+    "uri": "en/11/491296",
+    "id": "491296",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for dispensing chilled beverages",
+    "harm": {
+      "id": "0036798",
+      "title": "491296 - Apparatus for dispensing chilled beverages",
+      "conceptLink": "/ec2/concept/5985112"
+    }
+  },
+  {
+    "uri": "en/11/497081",
+    "id": "497081",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for dispensing ice",
+    "harm": {
+      "id": "0029198",
+      "title": "497081 - Apparatus for dispensing ice",
+      "conceptLink": "/ec2/concept/5978196"
+    }
+  },
+  {
+    "uri": "en/11/175044",
+    "id": "175044",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for distilling",
+    "harm": {
+      "id": "0058101",
+      "title": "175044 - Apparatus for distilling",
+      "conceptLink": "/ec2/concept/5999602"
+    }
+  },
+  {
+    "uri": "en/11/2184838",
+    "id": "2184838",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for drying",
+    "harm": {
+      "id": "0048144",
+      "title": "2184838 - Apparatus for drying",
+      "conceptLink": "/ec2/concept/5995395"
+    }
+  },
+  {
+    "uri": "en/11/174864",
+    "id": "174864",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for drying the hair",
+    "harm": {
+      "id": "0040775",
+      "title": "174864 - Apparatus for drying the hair",
+      "conceptLink": "/ec2/concept/5988741"
+    }
+  },
+  {
+    "uri": "en/11/405948",
+    "id": "405948",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for filtering drinking water",
+    "harm": {
+      "id": "0032279",
+      "title": "405948 - Apparatus for filtering drinking water",
+      "conceptLink": "/ec2/concept/5980994"
+    }
+  },
+  {
+    "uri": "en/11/176060",
+    "id": "176060",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for filtering water",
+    "harm": {
+      "id": "0058885",
+      "title": "176060 - Apparatus for filtering water",
+      "conceptLink": "/ec2/concept/6000376"
+    }
+  },
+  {
+    "uri": "en/11/722192",
+    "id": "722192",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for freezing",
+    "harm": {
+      "id": "0023487",
+      "title": "722192 - Apparatus for freezing",
+      "conceptLink": "/ec2/concept/5972953"
+    }
+  },
+  {
+    "uri": "en/11/42978561",
+    "id": "42978561",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for freezing foodstuffs",
+    "harm": {
+      "id": "0050479",
+      "title": "42978561 - Apparatus for freezing foodstuffs",
+      "conceptLink": "/ec2/concept/5995848"
+    }
+  },
+  {
+    "uri": "en/11/173354",
+    "id": "173354",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for heating",
+    "harm": {
+      "id": "0047163",
+      "title": "173354 - Apparatus for heating",
+      "conceptLink": "/ec2/concept/5994531"
+    }
+  },
+  {
+    "uri": "en/11/46218935",
+    "id": "46218935",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for heating foodstuffs",
+    "harm": {
+      "id": "0050480",
+      "title": "46218935 - Apparatus for heating foodstuffs",
+      "conceptLink": "/ec2/concept/5995849"
+    }
+  },
+  {
+    "uri": "en/11/188184330",
+    "id": "188184330",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for heating milk",
+    "harm": {
+      "id": "0072915",
+      "title": "188184330 - Apparatus for heating milk",
+      "conceptLink": "/ec2/concept/6009090"
+    }
+  },
+  {
+    "uri": "en/11/722236",
+    "id": "722236",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for keeping hot drinks warm",
+    "harm": {
+      "id": "0010463",
+      "title": "722236 - Apparatus for keeping hot drinks warm",
+      "conceptLink": "/ec2/concept/5961032"
+    }
+  },
+  {
+    "uri": "en/11/336045",
+    "id": "336045",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Apparatus for lighting",
+    "harm": {
+      "id": "0058666",
+      "title": "336045 - Apparatus for lighting",
+      "conceptLink": "/ec2/concept/6000159"
+    }
+  }
+]

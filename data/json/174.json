@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/690207",
+    "id": "690207",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power transmissions for machines",
+    "harm": {
+      "id": "0013796",
+      "title": "690207 - Power transmissions for machines",
+      "conceptLink": "/ec2/concept/5964080"
+    }
+  },
+  {
+    "uri": "en/7/690224",
+    "id": "690224",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power transmissions for sea craft",
+    "harm": {
+      "id": "0002221",
+      "title": "690224 - Power transmissions for sea craft",
+      "conceptLink": "/ec2/concept/5953486"
+    }
+  },
+  {
+    "uri": "en/7/690225",
+    "id": "690225",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power transmissions for water vehicles",
+    "harm": {
+      "id": "0002221",
+      "title": "690225 - Power transmissions for water vehicles",
+      "conceptLink": "/ec2/concept/5953486"
+    }
+  },
+  {
+    "uri": "en/7/120608",
+    "id": "120608",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power transmissions [other than for land vehicles]",
+    "harm": {
+      "id": "0035833",
+      "title": "120608 - Power transmissions [other than for land vehicles]",
+      "conceptLink": "/ec2/concept/5984236"
+    }
+  },
+  {
+    "uri": "en/7/392339",
+    "id": "392339",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power valve for carburetors [vehicle parts]",
+    "harm": {
+      "id": "0041643",
+      "title": "392339 - Power valve for carburetors [vehicle parts]",
+      "conceptLink": "/ec2/concept/5989535"
+    }
+  },
+  {
+    "uri": "en/7/323717",
+    "id": "323717",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Power winches",
+    "harm": {
+      "id": "0040030",
+      "title": "323717 - Power winches",
+      "conceptLink": "/ec2/concept/5988057"
+    }
+  },
+  {
+    "uri": "en/7/690245",
+    "id": "690245",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Powered access work platforms",
+    "harm": {
+      "id": "0019641",
+      "title": "690245 - Powered access work platforms",
+      "conceptLink": "/ec2/concept/5969440"
+    }
+  },
+  {
+    "uri": "en/7/120387",
+    "id": "120387",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Powered hammers",
+    "harm": {
+      "id": "0057922",
+      "title": "120387 - Powered hammers",
+      "conceptLink": "/ec2/concept/5999426"
+    }
+  },
+  {
+    "uri": "en/7/120189",
+    "id": "120189",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Powered tools",
+    "harm": {
+      "id": "0008188",
+      "title": "120189 - Powered tools",
+      "conceptLink": "/ec2/concept/5958948"
+    }
+  },
+  {
+    "uri": "en/7/690454",
+    "id": "690454",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pre-insulated bonded metal pipes [fitted parts of machines]",
+    "harm": {
+      "id": "0002227",
+      "title": "690454 - Pre-insulated bonded metal pipes [fitted parts of machines]",
+      "conceptLink": "/ec2/concept/5953491"
+    }
+  },
+  {
+    "uri": "en/7/124918357",
+    "id": "124918357",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pre-insulated bonded pipes (non-metallic -) [parts of machines]",
+    "harm": {
+      "id": "0002228",
+      "title": "124918357 - Pre-insulated bonded pipes (non-metallic -) [parts of machines]",
+      "conceptLink": "/ec2/concept/5953492"
+    }
+  },
+  {
+    "uri": "en/7/690257",
+    "id": "690257",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision grinding machines",
+    "harm": {
+      "id": "0031085",
+      "title": "690257 - Precision grinding machines",
+      "conceptLink": "/ec2/concept/5979923"
+    }
+  },
+  {
+    "uri": "en/7/690283",
+    "id": "690283",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision grooving tools [parts of machines]",
+    "harm": {
+      "id": "0002223",
+      "title": "690283 - Precision grooving tools [parts of machines]",
+      "conceptLink": "/ec2/concept/5953488"
+    }
+  },
+  {
+    "uri": "en/7/690269",
+    "id": "690269",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision grooving tools [machines]",
+    "harm": {
+      "id": "0002222",
+      "title": "690269 - Precision grooving tools [machines]",
+      "conceptLink": "/ec2/concept/5953487"
+    }
+  },
+  {
+    "uri": "en/7/690297",
+    "id": "690297",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools",
+    "harm": {
+      "id": "0025338",
+      "title": "690297 - Precision machine tools",
+      "conceptLink": "/ec2/concept/5974654"
+    }
+  },
+  {
+    "uri": "en/7/690312",
+    "id": "690312",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools being parts of sets",
+    "harm": {
+      "id": "0002224",
+      "title": "690312 - Precision machine tools being parts of sets",
+      "conceptLink": "/ec2/concept/5953489"
+    }
+  },
+  {
+    "uri": "en/7/690325",
+    "id": "690325",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools for cutting materials",
+    "harm": {
+      "id": "0002225",
+      "title": "690325 - Precision machine tools for cutting materials",
+      "conceptLink": "/ec2/concept/5953490"
+    }
+  },
+  {
+    "uri": "en/7/690363",
+    "id": "690363",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools for machining workpieces",
+    "harm": {
+      "id": "0036928",
+      "title": "690363 - Precision machine tools for machining workpieces",
+      "conceptLink": "/ec2/concept/5985231"
+    }
+  },
+  {
+    "uri": "en/7/690351",
+    "id": "690351",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools for machining materials",
+    "harm": {
+      "id": "0036928",
+      "title": "690351 - Precision machine tools for machining materials",
+      "conceptLink": "/ec2/concept/5985231"
+    }
+  },
+  {
+    "uri": "en/7/690338",
+    "id": "690338",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machine tools for cutting workpieces",
+    "harm": {
+      "id": "0042664",
+      "title": "690338 - Precision machine tools for cutting workpieces",
+      "conceptLink": "/ec2/concept/5990460"
+    }
+  },
+  {
+    "uri": "en/7/690376",
+    "id": "690376",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision machines for producing parts for turbojets",
+    "harm": {
+      "id": "0042665",
+      "title": "690376 - Precision machines for producing parts for turbojets",
+      "conceptLink": "/ec2/concept/5990461"
+    }
+  },
+  {
+    "uri": "en/7/690388",
+    "id": "690388",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision parting tools [machines]",
+    "harm": {
+      "id": "0007943",
+      "title": "690388 - Precision parting tools [machines]",
+      "conceptLink": "/ec2/concept/5958727"
+    }
+  },
+  {
+    "uri": "en/7/690402",
+    "id": "690402",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision parting tools [parts of machines]",
+    "harm": {
+      "id": "0036929",
+      "title": "690402 - Precision parting tools [parts of machines]",
+      "conceptLink": "/ec2/concept/5985232"
+    }
+  },
+  {
+    "uri": "en/7/124918305",
+    "id": "124918305",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision screwdrivers (Electric -)",
+    "harm": {
+      "id": "0036930",
+      "title": "124918305 - Precision screwdrivers (Electric -)",
+      "conceptLink": "/ec2/concept/5985233"
+    }
+  },
+  {
+    "uri": "en/7/690428",
+    "id": "690428",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision turning tools [machines]",
+    "harm": {
+      "id": "0042666",
+      "title": "690428 - Precision turning tools [machines]",
+      "conceptLink": "/ec2/concept/5990462"
+    }
+  },
+  {
+    "uri": "en/7/690441",
+    "id": "690441",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Precision turning tools [parts of machines]",
+    "harm": {
+      "id": "0036931",
+      "title": "690441 - Precision turning tools [parts of machines]",
+      "conceptLink": "/ec2/concept/5985234"
+    }
+  },
+  {
+    "uri": "en/7/323755",
+    "id": "323755",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Press dies for metal forming",
+    "harm": {
+      "id": "0002473",
+      "title": "323755 - Press dies for metal forming",
+      "conceptLink": "/ec2/concept/5953714"
+    }
+  },
+  {
+    "uri": "en/7/391317",
+    "id": "391317",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Press fabric for paper making machines",
+    "harm": {
+      "id": "0000795",
+      "title": "391317 - Press fabric for paper making machines",
+      "conceptLink": "/ec2/concept/5952204"
+    }
+  },
+  {
+    "uri": "en/7/690480",
+    "id": "690480",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Press rollers [parts of machines]",
+    "harm": {
+      "id": "0013797",
+      "title": "690480 - Press rollers [parts of machines]",
+      "conceptLink": "/ec2/concept/5964081"
+    }
+  },
+  {
+    "uri": "en/7/690494",
+    "id": "690494",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Press tools [parts of machines]",
+    "harm": {
+      "id": "0003511",
+      "title": "690494 - Press tools [parts of machines]",
+      "conceptLink": "/ec2/concept/5954662"
+    }
+  },
+  {
+    "uri": "en/7/129922663",
+    "id": "129922663",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses for chemical processing",
+    "harm": {
+      "id": "0055683",
+      "title": "129922663 - Presses for chemical processing",
+      "conceptLink": "/ec2/concept/5997074"
+    }
+  },
+  {
+    "uri": "en/7/123131",
+    "id": "123131",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses for industrial purposes [machines]",
+    "harm": {
+      "id": "0059089",
+      "title": "123131 - Presses for industrial purposes [machines]",
+      "conceptLink": "/ec2/concept/6000580"
+    }
+  },
+  {
+    "uri": "en/7/123135",
+    "id": "123135",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses for industrial use [machines]",
+    "harm": {
+      "id": "0059089",
+      "title": "123135 - Presses for industrial use [machines]",
+      "conceptLink": "/ec2/concept/6000580"
+    }
+  },
+  {
+    "uri": "en/7/117971",
+    "id": "117971",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses [machines]",
+    "harm": {
+      "id": "0015107",
+      "title": "117971 - Presses [machines]",
+      "conceptLink": "/ec2/concept/5965285"
+    }
+  },
+  {
+    "uri": "en/7/123133",
+    "id": "123133",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses [machines for industrial purposes]",
+    "harm": {
+      "id": "0059089",
+      "title": "123133 - Presses [machines for industrial purposes]",
+      "conceptLink": "/ec2/concept/6000580"
+    }
+  },
+  {
+    "uri": "en/7/120075",
+    "id": "120075",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses (Smoothing -)",
+    "harm": {
+      "id": "0009247",
+      "title": "120075 - Presses (Smoothing -)",
+      "conceptLink": "/ec2/concept/5959921"
+    }
+  },
+  {
+    "uri": "en/7/690520",
+    "id": "690520",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Presses (Wine -)",
+    "harm": {
+      "id": "0059327",
+      "title": "690520 - Presses (Wine -)",
+      "conceptLink": "/ec2/concept/6000809"
+    }
+  },
+  {
+    "uri": "en/7/117972",
+    "id": "117972",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressing machines",
+    "harm": {
+      "id": "0015107",
+      "title": "117972 - Pressing machines",
+      "conceptLink": "/ec2/concept/5965285"
+    }
+  },
+  {
+    "uri": "en/7/123132",
+    "id": "123132",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressing machines for industrial purposes",
+    "harm": {
+      "id": "0059088",
+      "title": "123132 - Pressing machines for industrial purposes",
+      "conceptLink": "/ec2/concept/6000579"
+    }
+  },
+  {
+    "uri": "en/7/690567",
+    "id": "690567",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure cleaning machines",
+    "harm": {
+      "id": "0059194",
+      "title": "690567 - Pressure cleaning machines",
+      "conceptLink": "/ec2/concept/6000683"
+    }
+  },
+  {
+    "uri": "en/7/690593",
+    "id": "690593",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure control valves being parts of machines",
+    "harm": {
+      "id": "0034466",
+      "title": "690593 - Pressure control valves being parts of machines",
+      "conceptLink": "/ec2/concept/5982995"
+    }
+  },
+  {
+    "uri": "en/7/690621",
+    "id": "690621",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure controllers [regulators] being parts of machines",
+    "harm": {
+      "id": "0034466",
+      "title": "690621 - Pressure controllers [regulators] being parts of machines",
+      "conceptLink": "/ec2/concept/5982995"
+    }
+  },
+  {
+    "uri": "en/7/690644",
+    "id": "690644",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure controllers [valves] being parts of machines",
+    "harm": {
+      "id": "0034466",
+      "title": "690644 - Pressure controllers [valves] being parts of machines",
+      "conceptLink": "/ec2/concept/5982995"
+    }
+  },
+  {
+    "uri": "en/7/690659",
+    "id": "690659",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure intensifiers [machines]",
+    "harm": {
+      "id": "0040222",
+      "title": "690659 - Pressure intensifiers [machines]",
+      "conceptLink": "/ec2/concept/5988236"
+    }
+  },
+  {
+    "uri": "en/7/690688",
+    "id": "690688",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure multipliers for liquids",
+    "harm": {
+      "id": "0005607",
+      "title": "690688 - Pressure multipliers for liquids",
+      "conceptLink": "/ec2/concept/5956596"
+    }
+  },
+  {
+    "uri": "en/7/690675",
+    "id": "690675",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure multipliers for gases",
+    "harm": {
+      "id": "0045947",
+      "title": "690675 - Pressure multipliers for gases",
+      "conceptLink": "/ec2/concept/5993467"
+    }
+  },
+  {
+    "uri": "en/7/690700",
+    "id": "690700",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure pipes of metal [parts of machines]",
+    "harm": {
+      "id": "0017142",
+      "title": "690700 - Pressure pipes of metal [parts of machines]",
+      "conceptLink": "/ec2/concept/5967151"
+    }
+  },
+  {
+    "uri": "en/7/690715",
+    "id": "690715",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure pumps",
+    "harm": {
+      "id": "0034467",
+      "title": "690715 - Pressure pumps",
+      "conceptLink": "/ec2/concept/5982996"
+    }
+  },
+  {
+    "uri": "en/7/117103",
+    "id": "117103",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure reducer valves [parts of machines]",
+    "harm": {
+      "id": "0029368",
+      "title": "117103 - Pressure reducer valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5978343"
+    }
+  },
+  {
+    "uri": "en/7/117100",
+    "id": "117100",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure reducers as parts of machines",
+    "harm": {
+      "id": "0029368",
+      "title": "117100 - Pressure reducers as parts of machines",
+      "conceptLink": "/ec2/concept/5978343"
+    }
+  },
+  {
+    "uri": "en/7/117101",
+    "id": "117101",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure reducers [parts of machines]",
+    "harm": {
+      "id": "0029368",
+      "title": "117101 - Pressure reducers [parts of machines]",
+      "conceptLink": "/ec2/concept/5978343"
+    }
+  },
+  {
+    "uri": "en/7/690729",
+    "id": "690729",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure reducing valves [parts of machines]",
+    "harm": {
+      "id": "0029368",
+      "title": "690729 - Pressure reducing valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5978343"
+    }
+  },
+  {
+    "uri": "en/7/690744",
+    "id": "690744",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure regulating apparatus being parts of machines",
+    "harm": {
+      "id": "0023007",
+      "title": "690744 - Pressure regulating apparatus being parts of machines",
+      "conceptLink": "/ec2/concept/5972509"
+    }
+  },
+  {
+    "uri": "en/7/690594",
+    "id": "690594",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure regulating valves being parts of machines",
+    "harm": {
+      "id": "0034466",
+      "title": "690594 - Pressure regulating valves being parts of machines",
+      "conceptLink": "/ec2/concept/5982995"
+    }
+  },
+  {
+    "uri": "en/7/690622",
+    "id": "690622",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure regulating valves parts of machines",
+    "harm": {
+      "id": "0034466",
+      "title": "690622 - Pressure regulating valves parts of machines",
+      "conceptLink": "/ec2/concept/5982995"
+    }
+  },
+  {
+    "uri": "en/7/690756",
+    "id": "690756",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure regulators for lubricating installations",
+    "harm": {
+      "id": "0023008",
+      "title": "690756 - Pressure regulators for lubricating installations",
+      "conceptLink": "/ec2/concept/5972510"
+    }
+  },
+  {
+    "uri": "en/7/123178",
+    "id": "123178",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure regulators [parts of machines]",
+    "harm": {
+      "id": "0037982",
+      "title": "123178 - Pressure regulators [parts of machines]",
+      "conceptLink": "/ec2/concept/5986183"
+    }
+  },
+  {
+    "uri": "en/7/690769",
+    "id": "690769",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure release screws being parts of machines",
+    "harm": {
+      "id": "0045948",
+      "title": "690769 - Pressure release screws being parts of machines",
+      "conceptLink": "/ec2/concept/5993468"
+    }
+  },
+  {
+    "uri": "en/7/690782",
+    "id": "690782",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure transformers",
+    "harm": {
+      "id": "0005608",
+      "title": "690782 - Pressure transformers",
+      "conceptLink": "/ec2/concept/5956597"
+    }
+  },
+  {
+    "uri": "en/7/690794",
+    "id": "690794",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure vacuum pumps",
+    "harm": {
+      "id": "0039000",
+      "title": "690794 - Pressure vacuum pumps",
+      "conceptLink": "/ec2/concept/5987115"
+    }
+  },
+  {
+    "uri": "en/7/123201",
+    "id": "123201",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure valves [parts of machines]",
+    "harm": {
+      "id": "0003286",
+      "title": "123201 - Pressure valves [parts of machines]",
+      "conceptLink": "/ec2/concept/5954455"
+    }
+  },
+  {
+    "uri": "en/7/129553",
+    "id": "129553",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure washers",
+    "harm": {
+      "id": "0059195",
+      "title": "129553 - Pressure washers",
+      "conceptLink": "/ec2/concept/6000684"
+    }
+  },
+  {
+    "uri": "en/7/690568",
+    "id": "690568",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressure washing machines",
+    "harm": {
+      "id": "0059194",
+      "title": "690568 - Pressure washing machines",
+      "conceptLink": "/ec2/concept/6000683"
+    }
+  },
+  {
+    "uri": "en/7/690809",
+    "id": "690809",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pressurising machines for drums",
+    "harm": {
+      "id": "0039001",
+      "title": "690809 - Pressurising machines for drums",
+      "conceptLink": "/ec2/concept/5987116"
+    }
+  },
+  {
+    "uri": "en/7/690821",
+    "id": "690821",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Print finishing machines",
+    "harm": {
+      "id": "0021814",
+      "title": "690821 - Print finishing machines",
+      "conceptLink": "/ec2/concept/5971418"
+    }
+  },
+  {
+    "uri": "en/7/690833",
+    "id": "690833",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Print trimmers [machine]",
+    "harm": {
+      "id": "0004360",
+      "title": "690833 - Print trimmers [machine]",
+      "conceptLink": "/ec2/concept/5955441"
+    }
+  },
+  {
+    "uri": "en/7/690845",
+    "id": "690845",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Print trimmers [parts of machine]",
+    "harm": {
+      "id": "0044730",
+      "title": "690845 - Print trimmers [parts of machine]",
+      "conceptLink": "/ec2/concept/5992350"
+    }
+  },
+  {
+    "uri": "en/7/690857",
+    "id": "690857",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printed circuit board drilling machines",
+    "harm": {
+      "id": "0015906",
+      "title": "690857 - Printed circuit board drilling machines",
+      "conceptLink": "/ec2/concept/5966030"
+    }
+  },
+  {
+    "uri": "en/7/690873",
+    "id": "690873",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printed circuit board forming machines",
+    "harm": {
+      "id": "0039002",
+      "title": "690873 - Printed circuit board forming machines",
+      "conceptLink": "/ec2/concept/5987117"
+    }
+  },
+  {
+    "uri": "en/7/233250124",
+    "id": "233250124",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printheads for ink-jet printing machines",
+    "harm": {
+      "id": "0073200",
+      "title": "233250124 - Printheads for ink-jet printing machines",
+      "conceptLink": "/ec2/concept/6009373"
+    }
+  },
+  {
+    "uri": "en/7/131129805",
+    "id": "131129805",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing and bookbinding machines",
+    "harm": {
+      "id": "0047708",
+      "title": "131129805 - Printing and bookbinding machines",
+      "conceptLink": "/ec2/concept/5994983"
+    }
+  },
+  {
+    "uri": "en/7/116605",
+    "id": "116605",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing cylinders",
+    "harm": {
+      "id": "0059197",
+      "title": "116605 - Printing cylinders",
+      "conceptLink": "/ec2/concept/6000686"
+    }
+  },
+  {
+    "uri": "en/7/690898",
+    "id": "690898",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing frames [parts of machines]",
+    "harm": {
+      "id": "0027442",
+      "title": "690898 - Printing frames [parts of machines]",
+      "conceptLink": "/ec2/concept/5976567"
+    }
+  },
+  {
+    "uri": "en/7/118046",
+    "id": "118046",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines",
+    "harm": {
+      "id": "0001355",
+      "title": "118046 - Printing machines",
+      "conceptLink": "/ec2/concept/5952704"
+    }
+  },
+  {
+    "uri": "en/7/690929",
+    "id": "690929",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for bank notes",
+    "harm": {
+      "id": "0004361",
+      "title": "690929 - Printing machines for bank notes",
+      "conceptLink": "/ec2/concept/5955442"
+    }
+  },
+  {
+    "uri": "en/7/690941",
+    "id": "690941",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for electric duplicating processes",
+    "harm": {
+      "id": "0004362",
+      "title": "690941 - Printing machines for electric duplicating processes",
+      "conceptLink": "/ec2/concept/5955443"
+    }
+  },
+  {
+    "uri": "en/7/690954",
+    "id": "690954",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for electronic duplicating processes",
+    "harm": {
+      "id": "0010072",
+      "title": "690954 - Printing machines for electronic duplicating processes",
+      "conceptLink": "/ec2/concept/5960675"
+    }
+  },
+  {
+    "uri": "en/7/690971",
+    "id": "690971",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for fiduciary documents",
+    "harm": {
+      "id": "0039003",
+      "title": "690971 - Printing machines for fiduciary documents",
+      "conceptLink": "/ec2/concept/5987118"
+    }
+  },
+  {
+    "uri": "en/7/690997",
+    "id": "690997",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for printing on packaging",
+    "harm": {
+      "id": "0011137",
+      "title": "690997 - Printing machines for printing on packaging",
+      "conceptLink": "/ec2/concept/5961650"
+    }
+  },
+  {
+    "uri": "en/7/690983",
+    "id": "690983",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for printing on labels",
+    "harm": {
+      "id": "0028455",
+      "title": "690983 - Printing machines for printing on labels",
+      "conceptLink": "/ec2/concept/5977505"
+    }
+  },
+  {
+    "uri": "en/7/691010",
+    "id": "691010",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for printing on product substrates",
+    "harm": {
+      "id": "0045740",
+      "title": "691010 - Printing machines for printing on product substrates",
+      "conceptLink": "/ec2/concept/5993276"
+    }
+  },
+  {
+    "uri": "en/7/323770",
+    "id": "323770",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines [for textile]",
+    "harm": {
+      "id": "0008163",
+      "title": "323770 - Printing machines [for textile]",
+      "conceptLink": "/ec2/concept/5958926"
+    }
+  },
+  {
+    "uri": "en/7/120895493",
+    "id": "120895493",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for use with ceramics",
+    "harm": {
+      "id": "0065553",
+      "title": "120895493 - Printing machines for use with ceramics",
+      "conceptLink": "/ec2/concept/6001756"
+    }
+  },
+  {
+    "uri": "en/7/119241",
+    "id": "119241",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines for use on sheet metal",
+    "harm": {
+      "id": "0031047",
+      "title": "119241 - Printing machines for use on sheet metal",
+      "conceptLink": "/ec2/concept/5979889"
+    }
+  },
+  {
+    "uri": "en/7/690914",
+    "id": "690914",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing machines [other than for office use]",
+    "harm": {
+      "id": "0021815",
+      "title": "690914 - Printing machines [other than for office use]",
+      "conceptLink": "/ec2/concept/5971419"
+    }
+  },
+  {
+    "uri": "en/7/691022",
+    "id": "691022",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing masks [parts of machines]",
+    "harm": {
+      "id": "0045741",
+      "title": "691022 - Printing masks [parts of machines]",
+      "conceptLink": "/ec2/concept/5993277"
+    }
+  },
+  {
+    "uri": "en/7/119278",
+    "id": "119278",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing plates",
+    "harm": {
+      "id": "0007241",
+      "title": "119278 - Printing plates",
+      "conceptLink": "/ec2/concept/5958084"
+    }
+  },
+  {
+    "uri": "en/7/691037",
+    "id": "691037",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing plates [not sensitised]",
+    "harm": {
+      "id": "0005404",
+      "title": "691037 - Printing plates [not sensitised]",
+      "conceptLink": "/ec2/concept/5956405"
+    }
+  },
+  {
+    "uri": "en/7/119319",
+    "id": "119319",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing presses",
+    "harm": {
+      "id": "0071909",
+      "title": "119319 - Printing presses",
+      "conceptLink": "/ec2/concept/6008093"
+    }
+  },
+  {
+    "uri": "en/7/323787",
+    "id": "323787",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing presses for ceramic material",
+    "harm": {
+      "id": "0037164",
+      "title": "323787 - Printing presses for ceramic material",
+      "conceptLink": "/ec2/concept/5985441"
+    }
+  },
+  {
+    "uri": "en/7/116606",
+    "id": "116606",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing rollers",
+    "harm": {
+      "id": "0059196",
+      "title": "116606 - Printing rollers",
+      "conceptLink": "/ec2/concept/6000685"
+    }
+  },
+  {
+    "uri": "en/7/119371",
+    "id": "119371",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing rollers for machines",
+    "harm": {
+      "id": "0059196",
+      "title": "119371 - Printing rollers for machines",
+      "conceptLink": "/ec2/concept/6000685"
+    }
+  },
+  {
+    "uri": "en/7/691053",
+    "id": "691053",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printing works machines",
+    "harm": {
+      "id": "0001355",
+      "title": "691053 - Printing works machines",
+      "conceptLink": "/ec2/concept/5952704"
+    }
+  },
+  {
+    "uri": "en/7/125470",
+    "id": "125470",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Printshop machines",
+    "harm": {
+      "id": "0047237",
+      "title": "125470 - Printshop machines",
+      "conceptLink": "/ec2/concept/5994602"
+    }
+  },
+  {
+    "uri": "en/7/691131",
+    "id": "691131",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control instruments [pneumatic]",
+    "harm": {
+      "id": "0021248",
+      "title": "691131 - Process control instruments [pneumatic]",
+      "conceptLink": "/ec2/concept/5970907"
+    }
+  },
+  {
+    "uri": "en/7/691100",
+    "id": "691100",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control instruments [mechanical]",
+    "harm": {
+      "id": "0015382",
+      "title": "691100 - Process control instruments [mechanical]",
+      "conceptLink": "/ec2/concept/5965538"
+    }
+  },
+  {
+    "uri": "en/7/691070",
+    "id": "691070",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control instruments [hydraulic]",
+    "harm": {
+      "id": "0003795",
+      "title": "691070 - Process control instruments [hydraulic]",
+      "conceptLink": "/ec2/concept/5954923"
+    }
+  },
+  {
+    "uri": "en/7/691157",
+    "id": "691157",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control units [hydraulic]",
+    "harm": {
+      "id": "0028456",
+      "title": "691157 - Process control units [hydraulic]",
+      "conceptLink": "/ec2/concept/5977506"
+    }
+  },
+  {
+    "uri": "en/7/691171",
+    "id": "691171",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control units [mechanical]",
+    "harm": {
+      "id": "0005405",
+      "title": "691171 - Process control units [mechanical]",
+      "conceptLink": "/ec2/concept/5956406"
+    }
+  },
+  {
+    "uri": "en/7/691187",
+    "id": "691187",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Process control units [pneumatic]",
+    "harm": {
+      "id": "0039991",
+      "title": "691187 - Process control units [pneumatic]",
+      "conceptLink": "/ec2/concept/5988026"
+    }
+  }
+]

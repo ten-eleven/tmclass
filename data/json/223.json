@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/143695",
+    "id": "143695",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical connectors",
+    "harm": {
+      "id": "0058331",
+      "title": "143695 - Electrical connectors",
+      "conceptLink": "/ec2/concept/5999830"
+    }
+  },
+  {
+    "uri": "en/9/144076",
+    "id": "144076",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical contacts",
+    "harm": {
+      "id": "0000109",
+      "title": "144076 - Electrical contacts",
+      "conceptLink": "/ec2/concept/5951585"
+    }
+  },
+  {
+    "uri": "en/9/146832",
+    "id": "146832",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical control boards",
+    "harm": {
+      "id": "0046811",
+      "title": "146832 - Electrical control boards",
+      "conceptLink": "/ec2/concept/5994210"
+    }
+  },
+  {
+    "uri": "en/9/534244",
+    "id": "534244",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical control circuits",
+    "harm": {
+      "id": "0006535",
+      "title": "534244 - Electrical control circuits",
+      "conceptLink": "/ec2/concept/5957439"
+    }
+  },
+  {
+    "uri": "en/9/144001",
+    "id": "144001",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical control panels",
+    "harm": {
+      "id": "0046978",
+      "title": "144001 - Electrical control panels",
+      "conceptLink": "/ec2/concept/5994362"
+    }
+  },
+  {
+    "uri": "en/9/144230",
+    "id": "144230",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical controllers",
+    "harm": {
+      "id": "0046609",
+      "title": "144230 - Electrical controllers",
+      "conceptLink": "/ec2/concept/5994035"
+    }
+  },
+  {
+    "uri": "en/9/12004505",
+    "id": "12004505",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical controlling devices",
+    "harm": {
+      "id": "0046634",
+      "title": "12004505 - Electrical controlling devices",
+      "conceptLink": "/ec2/concept/5994060"
+    }
+  },
+  {
+    "uri": "en/9/397425",
+    "id": "397425",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical controls",
+    "harm": {
+      "id": "0046624",
+      "title": "397425 - Electrical controls",
+      "conceptLink": "/ec2/concept/5994050"
+    }
+  },
+  {
+    "uri": "en/9/11995745",
+    "id": "11995745",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical controls for irrigation sprinkler systems",
+    "harm": {
+      "id": "0066031",
+      "title": "11995745 - Electrical controls for irrigation sprinkler systems",
+      "conceptLink": "/ec2/concept/6002234"
+    }
+  },
+  {
+    "uri": "en/9/144459",
+    "id": "144459",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical converters",
+    "harm": {
+      "id": "0034765",
+      "title": "144459 - Electrical converters",
+      "conceptLink": "/ec2/concept/5983263"
+    }
+  },
+  {
+    "uri": "en/9/120918278",
+    "id": "120918278",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical cords",
+    "harm": {
+      "id": "0059120",
+      "title": "120918278 - Electrical cords",
+      "conceptLink": "/ec2/concept/6000611"
+    }
+  },
+  {
+    "uri": "en/9/534256",
+    "id": "534256",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical coupling sleeves",
+    "harm": {
+      "id": "0035489",
+      "title": "534256 - Electrical coupling sleeves",
+      "conceptLink": "/ec2/concept/5983922"
+    }
+  },
+  {
+    "uri": "en/9/143700",
+    "id": "143700",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical couplings",
+    "harm": {
+      "id": "0058329",
+      "title": "143700 - Electrical couplings",
+      "conceptLink": "/ec2/concept/5999828"
+    }
+  },
+  {
+    "uri": "en/9/534268",
+    "id": "534268",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical delay lines",
+    "harm": {
+      "id": "0035490",
+      "title": "534268 - Electrical delay lines",
+      "conceptLink": "/ec2/concept/5983923"
+    }
+  },
+  {
+    "uri": "en/9/534280",
+    "id": "534280",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical distributing busbars",
+    "harm": {
+      "id": "0006536",
+      "title": "534280 - Electrical distributing busbars",
+      "conceptLink": "/ec2/concept/5957440"
+    }
+  },
+  {
+    "uri": "en/9/139991",
+    "id": "139991",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical distribution boxes",
+    "harm": {
+      "id": "0057035",
+      "title": "139991 - Electrical distribution boxes",
+      "conceptLink": "/ec2/concept/5998662"
+    }
+  },
+  {
+    "uri": "en/9/534297",
+    "id": "534297",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical distributors",
+    "harm": {
+      "id": "0018136",
+      "title": "534297 - Electrical distributors",
+      "conceptLink": "/ec2/concept/5968057"
+    }
+  },
+  {
+    "uri": "en/9/143441",
+    "id": "143441",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical ducts",
+    "harm": {
+      "id": "0057052",
+      "title": "143441 - Electrical ducts",
+      "conceptLink": "/ec2/concept/5998684"
+    }
+  },
+  {
+    "uri": "en/9/233110612",
+    "id": "233110612",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical engineering software",
+    "harm": {
+      "id": "0072606",
+      "title": "233110612 - Electrical engineering software",
+      "conceptLink": "/ec2/concept/6008783"
+    }
+  },
+  {
+    "uri": "en/9/328655",
+    "id": "328655",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical extension leads",
+    "harm": {
+      "id": "0040715",
+      "title": "328655 - Electrical extension leads",
+      "conceptLink": "/ec2/concept/5988690"
+    }
+  },
+  {
+    "uri": "en/9/534321",
+    "id": "534321",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical frequency converters",
+    "harm": {
+      "id": "0029686",
+      "title": "534321 - Electrical frequency converters",
+      "conceptLink": "/ec2/concept/5978639"
+    }
+  },
+  {
+    "uri": "en/9/328126",
+    "id": "328126",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical fuses",
+    "harm": {
+      "id": "0018516",
+      "title": "328126 - Electrical fuses",
+      "conceptLink": "/ec2/concept/5968410"
+    }
+  },
+  {
+    "uri": "en/9/119528929",
+    "id": "119528929",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical header connectors",
+    "harm": {
+      "id": "0055072",
+      "title": "119528929 - Electrical header connectors",
+      "conceptLink": "/ec2/concept/5996521"
+    }
+  },
+  {
+    "uri": "en/9/149546",
+    "id": "149546",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical inductors",
+    "harm": {
+      "id": "0030352",
+      "title": "149546 - Electrical inductors",
+      "conceptLink": "/ec2/concept/5979250"
+    }
+  },
+  {
+    "uri": "en/9/144463",
+    "id": "144463",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical inverters",
+    "harm": {
+      "id": "0040716",
+      "title": "144463 - Electrical inverters",
+      "conceptLink": "/ec2/concept/5988691"
+    }
+  },
+  {
+    "uri": "en/9/142787",
+    "id": "142787",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical junction boxes",
+    "harm": {
+      "id": "0057076",
+      "title": "142787 - Electrical junction boxes",
+      "conceptLink": "/ec2/concept/5998701"
+    }
+  },
+  {
+    "uri": "en/9/144899",
+    "id": "144899",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical limiters",
+    "harm": {
+      "id": "0041259",
+      "title": "144899 - Electrical limiters",
+      "conceptLink": "/ec2/concept/5989184"
+    }
+  },
+  {
+    "uri": "en/9/153894",
+    "id": "153894",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical locks",
+    "harm": {
+      "id": "0057337",
+      "title": "153894 - Electrical locks",
+      "conceptLink": "/ec2/concept/5998844"
+    }
+  },
+  {
+    "uri": "en/9/146770",
+    "id": "146770",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical meters",
+    "harm": {
+      "id": "0011693",
+      "title": "146770 - Electrical meters",
+      "conceptLink": "/ec2/concept/5962158"
+    }
+  },
+  {
+    "uri": "en/9/144082",
+    "id": "144082",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical outlet plates",
+    "harm": {
+      "id": "0013020",
+      "title": "144082 - Electrical outlet plates",
+      "conceptLink": "/ec2/concept/5963373"
+    }
+  },
+  {
+    "uri": "en/9/903324",
+    "id": "903324",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical outlets",
+    "harm": {
+      "id": "0030028",
+      "title": "903324 - Electrical outlets",
+      "conceptLink": "/ec2/concept/5978949"
+    }
+  },
+  {
+    "uri": "en/9/119632876",
+    "id": "119632876",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical phonomotors",
+    "harm": {
+      "id": "0055080",
+      "title": "119632876 - Electrical phonomotors",
+      "conceptLink": "/ec2/concept/5996529"
+    }
+  },
+  {
+    "uri": "en/9/144080",
+    "id": "144080",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical plugs",
+    "harm": {
+      "id": "0035843",
+      "title": "144080 - Electrical plugs",
+      "conceptLink": "/ec2/concept/5984245"
+    }
+  },
+  {
+    "uri": "en/9/534335",
+    "id": "534335",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical power adaptors",
+    "harm": {
+      "id": "0058371",
+      "title": "534335 - Electrical power adaptors",
+      "conceptLink": "/ec2/concept/5999870"
+    }
+  },
+  {
+    "uri": "en/9/397604",
+    "id": "397604",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical power control apparatus",
+    "harm": {
+      "id": "0029685",
+      "title": "397604 - Electrical power control apparatus",
+      "conceptLink": "/ec2/concept/5978638"
+    }
+  },
+  {
+    "uri": "en/9/328147",
+    "id": "328147",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical power distribution blocks",
+    "harm": {
+      "id": "0024303",
+      "title": "328147 - Electrical power distribution blocks",
+      "conceptLink": "/ec2/concept/5973707"
+    }
+  },
+  {
+    "uri": "en/9/397638",
+    "id": "397638",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical power extension cords",
+    "harm": {
+      "id": "0040715",
+      "title": "397638 - Electrical power extension cords",
+      "conceptLink": "/ec2/concept/5988690"
+    }
+  },
+  {
+    "uri": "en/9/534348",
+    "id": "534348",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical power outlet boxes",
+    "harm": {
+      "id": "0031629",
+      "title": "534348 - Electrical power outlet boxes",
+      "conceptLink": "/ec2/concept/5980404"
+    }
+  },
+  {
+    "uri": "en/9/534359",
+    "id": "534359",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical receivers",
+    "harm": {
+      "id": "0025848",
+      "title": "534359 - Electrical receivers",
+      "conceptLink": "/ec2/concept/5975123"
+    }
+  },
+  {
+    "uri": "en/9/534374",
+    "id": "534374",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical recorders",
+    "harm": {
+      "id": "0014340",
+      "title": "534374 - Electrical recorders",
+      "conceptLink": "/ec2/concept/5964586"
+    }
+  },
+  {
+    "uri": "en/9/145005",
+    "id": "145005",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical rectifiers",
+    "harm": {
+      "id": "0031630",
+      "title": "145005 - Electrical rectifiers",
+      "conceptLink": "/ec2/concept/5980405"
+    }
+  },
+  {
+    "uri": "en/9/534387",
+    "id": "534387",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical reducing transformers",
+    "harm": {
+      "id": "0008474",
+      "title": "534387 - Electrical reducing transformers",
+      "conceptLink": "/ec2/concept/5959208"
+    }
+  },
+  {
+    "uri": "en/9/147027",
+    "id": "147027",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical relays",
+    "harm": {
+      "id": "0024724",
+      "title": "147027 - Electrical relays",
+      "conceptLink": "/ec2/concept/5974096"
+    }
+  },
+  {
+    "uri": "en/9/534407",
+    "id": "534407",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical remote control apparatus",
+    "harm": {
+      "id": "0020190",
+      "title": "534407 - Electrical remote control apparatus",
+      "conceptLink": "/ec2/concept/5969935"
+    }
+  },
+  {
+    "uri": "en/9/534073",
+    "id": "534073",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical resistance coils",
+    "harm": {
+      "id": "0025849",
+      "title": "534073 - Electrical resistance coils",
+      "conceptLink": "/ec2/concept/5975124"
+    }
+  },
+  {
+    "uri": "en/9/534436",
+    "id": "534436",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical resistance elements",
+    "harm": {
+      "id": "0040547",
+      "title": "534436 - Electrical resistance elements",
+      "conceptLink": "/ec2/concept/5988530"
+    }
+  },
+  {
+    "uri": "en/9/534074",
+    "id": "534074",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical resistance wire",
+    "harm": {
+      "id": "0046785",
+      "title": "534074 - Electrical resistance wire",
+      "conceptLink": "/ec2/concept/5994188"
+    }
+  },
+  {
+    "uri": "en/9/153483",
+    "id": "153483",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical resistors",
+    "harm": {
+      "id": "0040547",
+      "title": "153483 - Electrical resistors",
+      "conceptLink": "/ec2/concept/5988530"
+    }
+  },
+  {
+    "uri": "en/9/534451",
+    "id": "534451",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical scales",
+    "harm": {
+      "id": "0058623",
+      "title": "534451 - Electrical scales",
+      "conceptLink": "/ec2/concept/6000116"
+    }
+  },
+  {
+    "uri": "en/9/534479",
+    "id": "534479",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical sensors",
+    "harm": {
+      "id": "0002782",
+      "title": "534479 - Electrical sensors",
+      "conceptLink": "/ec2/concept/5953992"
+    }
+  },
+  {
+    "uri": "en/9/132754066",
+    "id": "132754066",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical signal attenuators",
+    "harm": {
+      "id": "0023479",
+      "title": "132754066 - Electrical signal attenuators",
+      "conceptLink": "/ec2/concept/5972945"
+    }
+  },
+  {
+    "uri": "en/9/534496",
+    "id": "534496",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical signalling apparatus",
+    "harm": {
+      "id": "0002783",
+      "title": "534496 - Electrical signalling apparatus",
+      "conceptLink": "/ec2/concept/5953993"
+    }
+  },
+  {
+    "uri": "en/9/144941",
+    "id": "144941",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical sockets",
+    "harm": {
+      "id": "0030028",
+      "title": "144941 - Electrical sockets",
+      "conceptLink": "/ec2/concept/5978949"
+    }
+  },
+  {
+    "uri": "en/9/53632384",
+    "id": "53632384",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical storage batteries",
+    "harm": {
+      "id": "0072821",
+      "title": "53632384 - Electrical storage batteries",
+      "conceptLink": "/ec2/concept/6008996"
+    }
+  },
+  {
+    "uri": "en/9/534509",
+    "id": "534509",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical surge arrestors",
+    "harm": {
+      "id": "0058551",
+      "title": "534509 - Electrical surge arrestors",
+      "conceptLink": "/ec2/concept/6000044"
+    }
+  },
+  {
+    "uri": "en/9/534522",
+    "id": "534522",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switch assemblies",
+    "harm": {
+      "id": "0037469",
+      "title": "534522 - Electrical switch assemblies",
+      "conceptLink": "/ec2/concept/5985720"
+    }
+  },
+  {
+    "uri": "en/9/146833",
+    "id": "146833",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switch boards",
+    "harm": {
+      "id": "0046978",
+      "title": "146833 - Electrical switch boards",
+      "conceptLink": "/ec2/concept/5994362"
+    }
+  },
+  {
+    "uri": "en/9/142788",
+    "id": "142788",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switch boxes",
+    "harm": {
+      "id": "0008845",
+      "title": "142788 - Electrical switch boxes",
+      "conceptLink": "/ec2/concept/5959544"
+    }
+  },
+  {
+    "uri": "en/9/531603",
+    "id": "531603",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switch cabinets",
+    "harm": {
+      "id": "0018983",
+      "title": "531603 - Electrical switch cabinets",
+      "conceptLink": "/ec2/concept/5968843"
+    }
+  },
+  {
+    "uri": "en/9/147030",
+    "id": "147030",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switch timers",
+    "harm": {
+      "id": "0046910",
+      "title": "147030 - Electrical switch timers",
+      "conceptLink": "/ec2/concept/5994299"
+    }
+  },
+  {
+    "uri": "en/9/327941",
+    "id": "327941",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switches",
+    "harm": {
+      "id": "0034766",
+      "title": "327941 - Electrical switches",
+      "conceptLink": "/ec2/concept/5983264"
+    }
+  },
+  {
+    "uri": "en/9/144856",
+    "id": "144856",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical switching apparatus",
+    "harm": {
+      "id": "0022605",
+      "title": "144856 - Electrical switching apparatus",
+      "conceptLink": "/ec2/concept/5972145"
+    }
+  },
+  {
+    "uri": "en/9/534534",
+    "id": "534534",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical tape jigs [measuring instruments]",
+    "harm": {
+      "id": "0007333",
+      "title": "534534 - Electrical tape jigs [measuring instruments]",
+      "conceptLink": "/ec2/concept/5958171"
+    }
+  },
+  {
+    "uri": "en/9/534549",
+    "id": "534549",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical telegraph wires",
+    "harm": {
+      "id": "0024725",
+      "title": "534549 - Electrical telegraph wires",
+      "conceptLink": "/ec2/concept/5974097"
+    }
+  },
+  {
+    "uri": "en/9/534562",
+    "id": "534562",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical telephone wires",
+    "harm": {
+      "id": "0007334",
+      "title": "534562 - Electrical telephone wires",
+      "conceptLink": "/ec2/concept/5958172"
+    }
+  },
+  {
+    "uri": "en/9/903326",
+    "id": "903326",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical terminal blocks",
+    "harm": {
+      "id": "0010357",
+      "title": "903326 - Electrical terminal blocks",
+      "conceptLink": "/ec2/concept/5960932"
+    }
+  },
+  {
+    "uri": "en/9/136634659",
+    "id": "136634659",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical terminal boxes",
+    "harm": {
+      "id": "0030128",
+      "title": "136634659 - Electrical terminal boxes",
+      "conceptLink": "/ec2/concept/5979042"
+    }
+  },
+  {
+    "uri": "en/9/143703",
+    "id": "143703",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical terminal connectors",
+    "harm": {
+      "id": "0024726",
+      "title": "143703 - Electrical terminal connectors",
+      "conceptLink": "/ec2/concept/5974098"
+    }
+  },
+  {
+    "uri": "en/9/141367",
+    "id": "141367",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical terminals",
+    "harm": {
+      "id": "0013147",
+      "title": "141367 - Electrical terminals",
+      "conceptLink": "/ec2/concept/5963491"
+    }
+  },
+  {
+    "uri": "en/9/903327",
+    "id": "903327",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical terminators",
+    "harm": {
+      "id": "0027722",
+      "title": "903327 - Electrical terminators",
+      "conceptLink": "/ec2/concept/5976831"
+    }
+  },
+  {
+    "uri": "en/9/534576",
+    "id": "534576",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical test apparatus",
+    "harm": {
+      "id": "0001568",
+      "title": "534576 - Electrical test apparatus",
+      "conceptLink": "/ec2/concept/5952896"
+    }
+  },
+  {
+    "uri": "en/9/139823",
+    "id": "139823",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical transformers",
+    "harm": {
+      "id": "0036151",
+      "title": "139823 - Electrical transformers",
+      "conceptLink": "/ec2/concept/5984519"
+    }
+  },
+  {
+    "uri": "en/9/131098125",
+    "id": "131098125",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical transformers for telecommunication apparatus",
+    "harm": {
+      "id": "0055082",
+      "title": "131098125 - Electrical transformers for telecommunication apparatus",
+      "conceptLink": "/ec2/concept/5996530"
+    }
+  },
+  {
+    "uri": "en/9/113857224",
+    "id": "113857224",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical transformers [for telecommunication apparatus]",
+    "harm": {
+      "id": "0055082",
+      "title": "113857224 - Electrical transformers [for telecommunication apparatus]",
+      "conceptLink": "/ec2/concept/5996530"
+    }
+  },
+  {
+    "uri": "en/9/139824",
+    "id": "139824",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical transmitters",
+    "harm": {
+      "id": "0046662",
+      "title": "139824 - Electrical transmitters",
+      "conceptLink": "/ec2/concept/5994084"
+    }
+  },
+  {
+    "uri": "en/9/534608",
+    "id": "534608",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical weighing apparatus",
+    "harm": {
+      "id": "0001569",
+      "title": "534608 - Electrical weighing apparatus",
+      "conceptLink": "/ec2/concept/5952897"
+    }
+  },
+  {
+    "uri": "en/9/143318",
+    "id": "143318",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical wires",
+    "harm": {
+      "id": "0059122",
+      "title": "143318 - Electrical wires",
+      "conceptLink": "/ec2/concept/6000613"
+    }
+  },
+  {
+    "uri": "en/9/534618",
+    "id": "534618",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrical wiring installations",
+    "harm": {
+      "id": "0024727",
+      "title": "534618 - Electrical wiring installations",
+      "conceptLink": "/ec2/concept/5974099"
+    }
+  },
+  {
+    "uri": "en/9/534632",
+    "id": "534632",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrically heated clothing for protection against accident or injury",
+    "harm": {
+      "id": "0018984",
+      "title": "534632 - Electrically heated clothing for protection against accident or injury",
+      "conceptLink": "/ec2/concept/5968844"
+    }
+  },
+  {
+    "uri": "en/9/143440",
+    "id": "143440",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity conduits",
+    "harm": {
+      "id": "0008392",
+      "title": "143440 - Electricity conduits",
+      "conceptLink": "/ec2/concept/5959133"
+    }
+  },
+  {
+    "uri": "en/9/143696",
+    "id": "143696",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity connectors",
+    "harm": {
+      "id": "0058330",
+      "title": "143696 - Electricity connectors",
+      "conceptLink": "/ec2/concept/5999829"
+    }
+  },
+  {
+    "uri": "en/9/144002",
+    "id": "144002",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity control panels",
+    "harm": {
+      "id": "0046988",
+      "title": "144002 - Electricity control panels",
+      "conceptLink": "/ec2/concept/5994370"
+    }
+  },
+  {
+    "uri": "en/9/143442",
+    "id": "143442",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity ducts",
+    "harm": {
+      "id": "0057052",
+      "title": "143442 - Electricity ducts",
+      "conceptLink": "/ec2/concept/5998684"
+    }
+  },
+  {
+    "uri": "en/9/534666",
+    "id": "534666",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity indicators",
+    "harm": {
+      "id": "0008420",
+      "title": "534666 - Electricity indicators",
+      "conceptLink": "/ec2/concept/5959158"
+    }
+  },
+  {
+    "uri": "en/9/144464",
+    "id": "144464",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity inverters",
+    "harm": {
+      "id": "0040716",
+      "title": "144464 - Electricity inverters",
+      "conceptLink": "/ec2/concept/5988691"
+    }
+  },
+  {
+    "uri": "en/9/144900",
+    "id": "144900",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity limiters",
+    "harm": {
+      "id": "0041259",
+      "title": "144900 - Electricity limiters",
+      "conceptLink": "/ec2/concept/5989184"
+    }
+  },
+  {
+    "uri": "en/9/534680",
+    "id": "534680",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity mains apparatus",
+    "harm": {
+      "id": "0025784",
+      "title": "534680 - Electricity mains apparatus",
+      "conceptLink": "/ec2/concept/5975063"
+    }
+  },
+  {
+    "uri": "en/9/157066",
+    "id": "157066",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity mains (Materials for -) [wires, cables]",
+    "harm": {
+      "id": "0040366",
+      "title": "157066 - Electricity mains (Materials for -) [wires, cables]",
+      "conceptLink": "/ec2/concept/5988365"
+    }
+  },
+  {
+    "uri": "en/9/2562536",
+    "id": "2562536",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity measuring instruments",
+    "harm": {
+      "id": "0011693",
+      "title": "2562536 - Electricity measuring instruments",
+      "conceptLink": "/ec2/concept/5962158"
+    }
+  },
+  {
+    "uri": "en/9/397667",
+    "id": "397667",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity metering apparatus",
+    "harm": {
+      "id": "0011693",
+      "title": "397667 - Electricity metering apparatus",
+      "conceptLink": "/ec2/concept/5962158"
+    }
+  },
+  {
+    "uri": "en/9/397670",
+    "id": "397670",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity meters",
+    "harm": {
+      "id": "0011693",
+      "title": "397670 - Electricity meters",
+      "conceptLink": "/ec2/concept/5962158"
+    }
+  },
+  {
+    "uri": "en/9/534695",
+    "id": "534695",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity storage apparatus",
+    "harm": {
+      "id": "0025785",
+      "title": "534695 - Electricity storage apparatus",
+      "conceptLink": "/ec2/concept/5975064"
+    }
+  },
+  {
+    "uri": "en/9/139825",
+    "id": "139825",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electricity transformers",
+    "harm": {
+      "id": "0036151",
+      "title": "139825 - Electricity transformers",
+      "conceptLink": "/ec2/concept/5984519"
+    }
+  },
+  {
+    "uri": "en/9/161862",
+    "id": "161862",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrified fences",
+    "harm": {
+      "id": "0026105",
+      "title": "161862 - Electrified fences",
+      "conceptLink": "/ec2/concept/5975359"
+    }
+  },
+  {
+    "uri": "en/9/160144",
+    "id": "160144",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electrified rails for mounting spot lights",
+    "harm": {
+      "id": "0001423",
+      "title": "160144 - Electrified rails for mounting spot lights",
+      "conceptLink": "/ec2/concept/5952770"
+    }
+  },
+  {
+    "uri": "en/9/138892",
+    "id": "138892",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electro-dynamic apparatus for the remote control of railway points",
+    "harm": {
+      "id": "0020454",
+      "title": "138892 - Electro-dynamic apparatus for the remote control of railway points",
+      "conceptLink": "/ec2/concept/5970176"
+    }
+  },
+  {
+    "uri": "en/9/154069",
+    "id": "154069",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electro-dynamic apparatus for the remote control of signals",
+    "harm": {
+      "id": "0025744",
+      "title": "154069 - Electro-dynamic apparatus for the remote control of signals",
+      "conceptLink": "/ec2/concept/5975026"
+    }
+  },
+  {
+    "uri": "en/9/534710",
+    "id": "534710",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electro-optic transducers",
+    "harm": {
+      "id": "0020117",
+      "title": "534710 - Electro-optic transducers",
+      "conceptLink": "/ec2/concept/5969869"
+    }
+  },
+  {
+    "uri": "en/9/534724",
+    "id": "534724",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electro-optical couplers",
+    "harm": {
+      "id": "0043155",
+      "title": "534724 - Electro-optical couplers",
+      "conceptLink": "/ec2/concept/5990903"
+    }
+  },
+  {
+    "uri": "en/9/534736",
+    "id": "534736",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Electro-optical sensors",
+    "harm": {
+      "id": "0008421",
+      "title": "534736 - Electro-optical sensors",
+      "conceptLink": "/ec2/concept/5959159"
+    }
+  }
+]

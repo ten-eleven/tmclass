@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/38/455959",
+    "id": "455959",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Internet service provider (isp) services",
+    "harm": {
+      "id": "0000588",
+      "title": "455959 - Internet service provider (isp) services",
+      "conceptLink": "/ec2/concept/5952018"
+    }
+  },
+  {
+    "uri": "en/38/827602",
+    "id": "827602",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Internet services providers (isps)",
+    "harm": {
+      "id": "0045765",
+      "title": "827602 - Internet services providers (isps)",
+      "conceptLink": "/ec2/concept/5993301"
+    }
+  },
+  {
+    "uri": "en/38/904607",
+    "id": "904607",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Internet telephony services",
+    "harm": {
+      "id": "0046154",
+      "title": "904607 - Internet telephony services",
+      "conceptLink": "/ec2/concept/5993659"
+    }
+  },
+  {
+    "uri": "en/38/456002",
+    "id": "456002",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Interstate telephone services",
+    "harm": {
+      "id": "0020124",
+      "title": "456002 - Interstate telephone services",
+      "conceptLink": "/ec2/concept/5969876"
+    }
+  },
+  {
+    "uri": "en/38/914724",
+    "id": "914724",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Intrastate telephone services",
+    "harm": {
+      "id": "0020124",
+      "title": "914724 - Intrastate telephone services",
+      "conceptLink": "/ec2/concept/5969876"
+    }
+  },
+  {
+    "uri": "en/38/455958",
+    "id": "455958",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "ISP services",
+    "harm": {
+      "id": "0000588",
+      "title": "455958 - ISP services",
+      "conceptLink": "/ec2/concept/5952018"
+    }
+  },
+  {
+    "uri": "en/38/478198",
+    "id": "478198",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing access time to a computer database",
+    "harm": {
+      "id": "0019856",
+      "title": "478198 - Leasing access time to a computer database",
+      "conceptLink": "/ec2/concept/5969629"
+    }
+  },
+  {
+    "uri": "en/38/827616",
+    "id": "827616",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing access time to web sites [isps]",
+    "harm": {
+      "id": "0034276",
+      "title": "827616 - Leasing access time to web sites [isps]",
+      "conceptLink": "/ec2/concept/5982823"
+    }
+  },
+  {
+    "uri": "en/38/827617",
+    "id": "827617",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing access time to web sites [isp's]",
+    "harm": {
+      "id": "0034276",
+      "title": "827617 - Leasing access time to web sites [isp's]",
+      "conceptLink": "/ec2/concept/5982823"
+    }
+  },
+  {
+    "uri": "en/38/495718",
+    "id": "495718",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of access time to global computer networks",
+    "harm": {
+      "id": "0034805",
+      "title": "495718 - Leasing of access time to global computer networks",
+      "conceptLink": "/ec2/concept/5983301"
+    }
+  },
+  {
+    "uri": "en/38/478199",
+    "id": "478199",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of access time to a computer database",
+    "harm": {
+      "id": "0019856",
+      "title": "478199 - Leasing of access time to a computer database",
+      "conceptLink": "/ec2/concept/5969629"
+    }
+  },
+  {
+    "uri": "en/38/827635",
+    "id": "827635",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of cable television equipment",
+    "harm": {
+      "id": "0005423",
+      "title": "827635 - Leasing of cable television equipment",
+      "conceptLink": "/ec2/concept/5956423"
+    }
+  },
+  {
+    "uri": "en/38/827648",
+    "id": "827648",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of cellular communications equipment",
+    "harm": {
+      "id": "0040021",
+      "title": "827648 - Leasing of cellular communications equipment",
+      "conceptLink": "/ec2/concept/5988051"
+    }
+  },
+  {
+    "uri": "en/38/826756",
+    "id": "826756",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of communications apparatus",
+    "harm": {
+      "id": "0024040",
+      "title": "826756 - Leasing of communications apparatus",
+      "conceptLink": "/ec2/concept/5973464"
+    }
+  },
+  {
+    "uri": "en/38/43449",
+    "id": "43449",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of facsimile machines",
+    "harm": {
+      "id": "0041337",
+      "title": "43449 - Leasing of facsimile machines",
+      "conceptLink": "/ec2/concept/5989257"
+    }
+  },
+  {
+    "uri": "en/38/827665",
+    "id": "827665",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of paging equipment",
+    "harm": {
+      "id": "0000850",
+      "title": "827665 - Leasing of paging equipment",
+      "conceptLink": "/ec2/concept/5952252"
+    }
+  },
+  {
+    "uri": "en/38/827686",
+    "id": "827686",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of radio telephones",
+    "harm": {
+      "id": "0006630",
+      "title": "827686 - Leasing of radio telephones",
+      "conceptLink": "/ec2/concept/5957527"
+    }
+  },
+  {
+    "uri": "en/38/43549",
+    "id": "43549",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telecommunication apparatus",
+    "harm": {
+      "id": "0057675",
+      "title": "43549 - Leasing of telecommunication apparatus",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/43545",
+    "id": "43545",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telecommunication equipment",
+    "harm": {
+      "id": "0057675",
+      "title": "43545 - Leasing of telecommunication equipment",
+      "conceptLink": "/ec2/concept/5999179"
+    }
+  },
+  {
+    "uri": "en/38/827700",
+    "id": "827700",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telecommunication lines for access to computer networks",
+    "harm": {
+      "id": "0029772",
+      "title": "827700 - Leasing of telecommunication lines for access to computer networks",
+      "conceptLink": "/ec2/concept/5978718"
+    }
+  },
+  {
+    "uri": "en/38/43660",
+    "id": "43660",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telephone apparatus",
+    "harm": {
+      "id": "0035568",
+      "title": "43660 - Leasing of telephone apparatus",
+      "conceptLink": "/ec2/concept/5983993"
+    }
+  },
+  {
+    "uri": "en/38/827716",
+    "id": "827716",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telephone circuits",
+    "harm": {
+      "id": "0024041",
+      "title": "827716 - Leasing of telephone circuits",
+      "conceptLink": "/ec2/concept/5973465"
+    }
+  },
+  {
+    "uri": "en/38/827717",
+    "id": "827717",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing of telephone lines",
+    "harm": {
+      "id": "0024041",
+      "title": "827717 - Leasing of telephone lines",
+      "conceptLink": "/ec2/concept/5973465"
+    }
+  },
+  {
+    "uri": "en/38/137729083",
+    "id": "137729083",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Leasing satellite transmission capacity",
+    "harm": {
+      "id": "0069931",
+      "title": "137729083 - Leasing satellite transmission capacity",
+      "conceptLink": "/ec2/concept/6006134"
+    }
+  },
+  {
+    "uri": "en/38/456017",
+    "id": "456017",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Live transmissions accessible via home pages on the internet [webcam]",
+    "harm": {
+      "id": "0037408",
+      "title": "456017 - Live transmissions accessible via home pages on the internet [webcam]",
+      "conceptLink": "/ec2/concept/5985664"
+    }
+  },
+  {
+    "uri": "en/38/456036",
+    "id": "456036",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Local and long distance telephone services",
+    "harm": {
+      "id": "0025792",
+      "title": "456036 - Local and long distance telephone services",
+      "conceptLink": "/ec2/concept/5975070"
+    }
+  },
+  {
+    "uri": "en/38/125051576",
+    "id": "125051576",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Local area networks (Leasing of -)",
+    "harm": {
+      "id": "0035569",
+      "title": "125051576 - Local area networks (Leasing of -)",
+      "conceptLink": "/ec2/concept/5983994"
+    }
+  },
+  {
+    "uri": "en/38/125051589",
+    "id": "125051589",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Local area networks (Operation of -)",
+    "harm": {
+      "id": "0041338",
+      "title": "125051589 - Local area networks (Operation of -)",
+      "conceptLink": "/ec2/concept/5989258"
+    }
+  },
+  {
+    "uri": "en/38/456049",
+    "id": "456049",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Long distance telephone communication services",
+    "harm": {
+      "id": "0043162",
+      "title": "456049 - Long distance telephone communication services",
+      "conceptLink": "/ec2/concept/5990910"
+    }
+  },
+  {
+    "uri": "en/38/456063",
+    "id": "456063",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Long distance telephone services",
+    "harm": {
+      "id": "0014275",
+      "title": "456063 - Long distance telephone services",
+      "conceptLink": "/ec2/concept/5964527"
+    }
+  },
+  {
+    "uri": "en/38/42942",
+    "id": "42942",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mail (Electronic -)",
+    "harm": {
+      "id": "0058342",
+      "title": "42942 - Mail (Electronic -)",
+      "conceptLink": "/ec2/concept/5999841"
+    }
+  },
+  {
+    "uri": "en/38/483460",
+    "id": "483460",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mail services utilising the internet and other communications networks",
+    "harm": {
+      "id": "0009830",
+      "title": "483460 - Mail services utilising the internet and other communications networks",
+      "conceptLink": "/ec2/concept/5960455"
+    }
+  },
+  {
+    "uri": "en/38/827769",
+    "id": "827769",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Maritime radio-telephone network services",
+    "harm": {
+      "id": "0023094",
+      "title": "827769 - Maritime radio-telephone network services",
+      "conceptLink": "/ec2/concept/5972586"
+    }
+  },
+  {
+    "uri": "en/38/125051618",
+    "id": "125051618",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Megaphones (Rental of -)",
+    "harm": {
+      "id": "0036003",
+      "title": "125051618 - Megaphones (Rental of -)",
+      "conceptLink": "/ec2/concept/5984385"
+    }
+  },
+  {
+    "uri": "en/38/456087",
+    "id": "456087",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message collection and transmission",
+    "harm": {
+      "id": "0030859",
+      "title": "456087 - Message collection and transmission",
+      "conceptLink": "/ec2/concept/5979723"
+    }
+  },
+  {
+    "uri": "en/38/456086",
+    "id": "456086",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message collection and transmission services",
+    "harm": {
+      "id": "0030859",
+      "title": "456086 - Message collection and transmission services",
+      "conceptLink": "/ec2/concept/5979723"
+    }
+  },
+  {
+    "uri": "en/38/41882",
+    "id": "41882",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending",
+    "harm": {
+      "id": "0001339",
+      "title": "41882 - Message sending",
+      "conceptLink": "/ec2/concept/5952691"
+    }
+  },
+  {
+    "uri": "en/38/905222",
+    "id": "905222",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending and receiving services",
+    "harm": {
+      "id": "0018302",
+      "title": "905222 - Message sending and receiving services",
+      "conceptLink": "/ec2/concept/5968209"
+    }
+  },
+  {
+    "uri": "en/38/124333831",
+    "id": "124333831",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending apparatus (Rental of -)",
+    "harm": {
+      "id": "0000688",
+      "title": "124333831 - Message sending apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5952107"
+    }
+  },
+  {
+    "uri": "en/38/905224",
+    "id": "905224",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending, receiving and forwarding",
+    "harm": {
+      "id": "0035630",
+      "title": "905224 - Message sending, receiving and forwarding",
+      "conceptLink": "/ec2/concept/5984050"
+    }
+  },
+  {
+    "uri": "en/38/456111",
+    "id": "456111",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending services",
+    "harm": {
+      "id": "0014276",
+      "title": "456111 - Message sending services",
+      "conceptLink": "/ec2/concept/5964528"
+    }
+  },
+  {
+    "uri": "en/38/905223",
+    "id": "905223",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending via a website",
+    "harm": {
+      "id": "0035629",
+      "title": "905223 - Message sending via a website",
+      "conceptLink": "/ec2/concept/5984049"
+    }
+  },
+  {
+    "uri": "en/38/456132",
+    "id": "456132",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message sending via computer networks",
+    "harm": {
+      "id": "0037409",
+      "title": "456132 - Message sending via computer networks",
+      "conceptLink": "/ec2/concept/5985665"
+    }
+  },
+  {
+    "uri": "en/38/456153",
+    "id": "456153",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message services",
+    "harm": {
+      "id": "0043163",
+      "title": "456153 - Message services",
+      "conceptLink": "/ec2/concept/5990911"
+    }
+  },
+  {
+    "uri": "en/38/124611561",
+    "id": "124611561",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message transmission (Electronic -)",
+    "harm": {
+      "id": "0037732",
+      "title": "124611561 - Message transmission (Electronic -)",
+      "conceptLink": "/ec2/concept/5985955"
+    }
+  },
+  {
+    "uri": "en/38/124611563",
+    "id": "124611563",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Message transmittal (Electronic -)",
+    "harm": {
+      "id": "0037732",
+      "title": "124611563 - Message transmittal (Electronic -)",
+      "conceptLink": "/ec2/concept/5985955"
+    }
+  },
+  {
+    "uri": "en/38/10731760",
+    "id": "10731760",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile communication services",
+    "harm": {
+      "id": "0058619",
+      "title": "10731760 - Mobile communication services",
+      "conceptLink": "/ec2/concept/6000112"
+    }
+  },
+  {
+    "uri": "en/38/456174",
+    "id": "456174",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile communications services",
+    "harm": {
+      "id": "0058619",
+      "title": "456174 - Mobile communications services",
+      "conceptLink": "/ec2/concept/6000112"
+    }
+  },
+  {
+    "uri": "en/38/456199",
+    "id": "456199",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile radio communication",
+    "harm": {
+      "id": "0030246",
+      "title": "456199 - Mobile radio communication",
+      "conceptLink": "/ec2/concept/5979153"
+    }
+  },
+  {
+    "uri": "en/38/456200",
+    "id": "456200",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile radio communications",
+    "harm": {
+      "id": "0030246",
+      "title": "456200 - Mobile radio communications",
+      "conceptLink": "/ec2/concept/5979153"
+    }
+  },
+  {
+    "uri": "en/38/369958",
+    "id": "369958",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile radio telephone services",
+    "harm": {
+      "id": "0058621",
+      "title": "369958 - Mobile radio telephone services",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/456226",
+    "id": "456226",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telecommunication network services",
+    "harm": {
+      "id": "0036046",
+      "title": "456226 - Mobile telecommunication network services",
+      "conceptLink": "/ec2/concept/5984424"
+    }
+  },
+  {
+    "uri": "en/38/1666071",
+    "id": "1666071",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telecommunications network services",
+    "harm": {
+      "id": "0036046",
+      "title": "1666071 - Mobile telecommunications network services",
+      "conceptLink": "/ec2/concept/5984424"
+    }
+  },
+  {
+    "uri": "en/38/42643",
+    "id": "42643",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telephone communication",
+    "harm": {
+      "id": "0058621",
+      "title": "42643 - Mobile telephone communication",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/827799",
+    "id": "827799",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telephone communication services",
+    "harm": {
+      "id": "0058621",
+      "title": "827799 - Mobile telephone communication services",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/42654",
+    "id": "42654",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telephone services",
+    "harm": {
+      "id": "0058621",
+      "title": "42654 - Mobile telephone services",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/42650",
+    "id": "42650",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Mobile telephony",
+    "harm": {
+      "id": "0058621",
+      "title": "42650 - Mobile telephony",
+      "conceptLink": "/ec2/concept/6000114"
+    }
+  },
+  {
+    "uri": "en/38/15883035",
+    "id": "15883035",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Multimedia messaging services",
+    "harm": {
+      "id": "0068515",
+      "title": "15883035 - Multimedia messaging services",
+      "conceptLink": "/ec2/concept/6004718"
+    }
+  },
+  {
+    "uri": "en/38/10825048",
+    "id": "10825048",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Multimedia messaging services (MMS)",
+    "harm": {
+      "id": "0068515",
+      "title": "10825048 - Multimedia messaging services (MMS)",
+      "conceptLink": "/ec2/concept/6004718"
+    }
+  },
+  {
+    "uri": "en/38/827814",
+    "id": "827814",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Music broadcasting",
+    "harm": {
+      "id": "0005700",
+      "title": "827814 - Music broadcasting",
+      "conceptLink": "/ec2/concept/5956677"
+    }
+  },
+  {
+    "uri": "en/38/136399847",
+    "id": "136399847",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Narrowband radio communication services",
+    "harm": {
+      "id": "0050889",
+      "title": "136399847 - Narrowband radio communication services",
+      "conceptLink": "/ec2/concept/5996253"
+    }
+  },
+  {
+    "uri": "en/38/456245",
+    "id": "456245",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Network conferencing services",
+    "harm": {
+      "id": "0024498",
+      "title": "456245 - Network conferencing services",
+      "conceptLink": "/ec2/concept/5973881"
+    }
+  },
+  {
+    "uri": "en/38/907103",
+    "id": "907103",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Network transmission of sounds, images, signals and data",
+    "harm": {
+      "id": "0015547",
+      "title": "907103 - Network transmission of sounds, images, signals and data",
+      "conceptLink": "/ec2/concept/5965689"
+    }
+  },
+  {
+    "uri": "en/38/42447",
+    "id": "42447",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agencies",
+    "harm": {
+      "id": "0000146",
+      "title": "42447 - News agencies",
+      "conceptLink": "/ec2/concept/5951622"
+    }
+  },
+  {
+    "uri": "en/38/42446",
+    "id": "42446",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agency",
+    "harm": {
+      "id": "0000146",
+      "title": "42446 - News agency",
+      "conceptLink": "/ec2/concept/5951622"
+    }
+  },
+  {
+    "uri": "en/38/42450",
+    "id": "42450",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agency services",
+    "harm": {
+      "id": "0000146",
+      "title": "42450 - News agency services",
+      "conceptLink": "/ec2/concept/5951622"
+    }
+  },
+  {
+    "uri": "en/38/905518",
+    "id": "905518",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agency services for electronic transmission",
+    "harm": {
+      "id": "0006185",
+      "title": "905518 - News agency services for electronic transmission",
+      "conceptLink": "/ec2/concept/5957120"
+    }
+  },
+  {
+    "uri": "en/38/827850",
+    "id": "827850",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agency services for telecommunications",
+    "harm": {
+      "id": "0046040",
+      "title": "827850 - News agency services for telecommunications",
+      "conceptLink": "/ec2/concept/5993555"
+    }
+  },
+  {
+    "uri": "en/38/827833",
+    "id": "827833",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "News agency services [transmission of news]",
+    "harm": {
+      "id": "0034533",
+      "title": "827833 - News agency services [transmission of news]",
+      "conceptLink": "/ec2/concept/5983059"
+    }
+  },
+  {
+    "uri": "en/38/484139",
+    "id": "484139",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "On-line communication services",
+    "harm": {
+      "id": "0015667",
+      "title": "484139 - On-line communication services",
+      "conceptLink": "/ec2/concept/5965803"
+    }
+  },
+  {
+    "uri": "en/38/456275",
+    "id": "456275",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "On-line information services relating to telecommunications",
+    "harm": {
+      "id": "0018741",
+      "title": "456275 - On-line information services relating to telecommunications",
+      "conceptLink": "/ec2/concept/5968621"
+    }
+  },
+  {
+    "uri": "en/38/886880",
+    "id": "886880",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "On-line services, namely, message sending",
+    "harm": {
+      "id": "0007706",
+      "title": "886880 - On-line services, namely, message sending",
+      "conceptLink": "/ec2/concept/5958509"
+    }
+  },
+  {
+    "uri": "en/38/456259",
+    "id": "456259",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Online document delivery via a global computer network",
+    "harm": {
+      "id": "0041823",
+      "title": "456259 - Online document delivery via a global computer network",
+      "conceptLink": "/ec2/concept/5989693"
+    }
+  },
+  {
+    "uri": "en/38/456295",
+    "id": "456295",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Online messaging services",
+    "harm": {
+      "id": "0001346",
+      "title": "456295 - Online messaging services",
+      "conceptLink": "/ec2/concept/5952696"
+    }
+  },
+  {
+    "uri": "en/38/484219",
+    "id": "484219",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operating chat rooms",
+    "harm": {
+      "id": "0009100",
+      "title": "484219 - Operating chat rooms",
+      "conceptLink": "/ec2/concept/5959786"
+    }
+  },
+  {
+    "uri": "en/38/827864",
+    "id": "827864",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operating of electronic communications networks",
+    "harm": {
+      "id": "0028756",
+      "title": "827864 - Operating of electronic communications networks",
+      "conceptLink": "/ec2/concept/5977790"
+    }
+  },
+  {
+    "uri": "en/38/827877",
+    "id": "827877",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operating of electronic communications systems",
+    "harm": {
+      "id": "0007556",
+      "title": "827877 - Operating of electronic communications systems",
+      "conceptLink": "/ec2/concept/5958373"
+    }
+  },
+  {
+    "uri": "en/38/61140754",
+    "id": "61140754",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of a network, being telecommunication services",
+    "harm": {
+      "id": "0030247",
+      "title": "61140754 - Operation of a network, being telecommunication services",
+      "conceptLink": "/ec2/concept/5979154"
+    }
+  },
+  {
+    "uri": "en/38/456314",
+    "id": "456314",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of a telecommunications network",
+    "harm": {
+      "id": "0030247",
+      "title": "456314 - Operation of a telecommunications network",
+      "conceptLink": "/ec2/concept/5979154"
+    }
+  },
+  {
+    "uri": "en/38/456350",
+    "id": "456350",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of broadcasting facilities",
+    "harm": {
+      "id": "0036047",
+      "title": "456350 - Operation of broadcasting facilities",
+      "conceptLink": "/ec2/concept/5984425"
+    }
+  },
+  {
+    "uri": "en/38/827891",
+    "id": "827891",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of cable television systems",
+    "harm": {
+      "id": "0030704",
+      "title": "827891 - Operation of cable television systems",
+      "conceptLink": "/ec2/concept/5979578"
+    }
+  },
+  {
+    "uri": "en/38/827903",
+    "id": "827903",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of cellular communications systems",
+    "harm": {
+      "id": "0042270",
+      "title": "827903 - Operation of cellular communications systems",
+      "conceptLink": "/ec2/concept/5990104"
+    }
+  },
+  {
+    "uri": "en/38/827918",
+    "id": "827918",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of earth-to-satellite television transmitters",
+    "harm": {
+      "id": "0019220",
+      "title": "827918 - Operation of earth-to-satellite television transmitters",
+      "conceptLink": "/ec2/concept/5969061"
+    }
+  },
+  {
+    "uri": "en/38/827930",
+    "id": "827930",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of paging systems",
+    "harm": {
+      "id": "0007557",
+      "title": "827930 - Operation of paging systems",
+      "conceptLink": "/ec2/concept/5958374"
+    }
+  },
+  {
+    "uri": "en/38/120868031",
+    "id": "120868031",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of radio broadcasting equipment",
+    "harm": {
+      "id": "0068507",
+      "title": "120868031 - Operation of radio broadcasting equipment",
+      "conceptLink": "/ec2/concept/6004710"
+    }
+  },
+  {
+    "uri": "en/38/827943",
+    "id": "827943",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of radio frequency communications systems",
+    "harm": {
+      "id": "0042271",
+      "title": "827943 - Operation of radio frequency communications systems",
+      "conceptLink": "/ec2/concept/5990105"
+    }
+  },
+  {
+    "uri": "en/38/827956",
+    "id": "827956",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of satellite-to-earth receiver aerials",
+    "harm": {
+      "id": "0030705",
+      "title": "827956 - Operation of satellite-to-earth receiver aerials",
+      "conceptLink": "/ec2/concept/5979579"
+    }
+  },
+  {
+    "uri": "en/38/456371",
+    "id": "456371",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of telecommunications satellites",
+    "harm": {
+      "id": "0036048",
+      "title": "456371 - Operation of telecommunications satellites",
+      "conceptLink": "/ec2/concept/5984426"
+    }
+  },
+  {
+    "uri": "en/38/827982",
+    "id": "827982",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of telecommunications systems",
+    "harm": {
+      "id": "0019221",
+      "title": "827982 - Operation of telecommunications systems",
+      "conceptLink": "/ec2/concept/5969062"
+    }
+  },
+  {
+    "uri": "en/38/827996",
+    "id": "827996",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of television cable networks",
+    "harm": {
+      "id": "0030707",
+      "title": "827996 - Operation of television cable networks",
+      "conceptLink": "/ec2/concept/5979580"
+    }
+  },
+  {
+    "uri": "en/38/828008",
+    "id": "828008",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Operation of wide-band telecommunications networks",
+    "harm": {
+      "id": "0013393",
+      "title": "828008 - Operation of wide-band telecommunications networks",
+      "conceptLink": "/ec2/concept/5963714"
+    }
+  },
+  {
+    "uri": "en/38/827402",
+    "id": "827402",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Optical fibre telecommunications services",
+    "harm": {
+      "id": "0036500",
+      "title": "827402 - Optical fibre telecommunications services",
+      "conceptLink": "/ec2/concept/5984836"
+    }
+  },
+  {
+    "uri": "en/38/233392256",
+    "id": "233392256",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Packet transmission of data and images",
+    "harm": {
+      "id": "0073404",
+      "title": "233392256 - Packet transmission of data and images",
+      "conceptLink": "/ec2/concept/6009577"
+    }
+  },
+  {
+    "uri": "en/38/370177",
+    "id": "370177",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Paging by radio",
+    "harm": {
+      "id": "0042438",
+      "title": "370177 - Paging by radio",
+      "conceptLink": "/ec2/concept/5990260"
+    }
+  },
+  {
+    "uri": "en/38/369977",
+    "id": "369977",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Paging services",
+    "harm": {
+      "id": "0042438",
+      "title": "369977 - Paging services",
+      "conceptLink": "/ec2/concept/5990260"
+    }
+  },
+  {
+    "uri": "en/38/43293",
+    "id": "43293",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Paging services [radio, telephone or other means of electronic communication]",
+    "harm": {
+      "id": "0026240",
+      "title": "43293 - Paging services [radio, telephone or other means of electronic communication]",
+      "conceptLink": "/ec2/concept/5975484"
+    }
+  },
+  {
+    "uri": "en/38/456407",
+    "id": "456407",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Pay-per-view television transmission services",
+    "harm": {
+      "id": "0001348",
+      "title": "456407 - Pay-per-view television transmission services",
+      "conceptLink": "/ec2/concept/5952697"
+    }
+  },
+  {
+    "uri": "en/38/828022",
+    "id": "828022",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Pay-telephone communication services",
+    "harm": {
+      "id": "0042272",
+      "title": "828022 - Pay-telephone communication services",
+      "conceptLink": "/ec2/concept/5990106"
+    }
+  },
+  {
+    "uri": "en/38/456432",
+    "id": "456432",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Pbx dialing services",
+    "harm": {
+      "id": "0007105",
+      "title": "456432 - Pbx dialing services",
+      "conceptLink": "/ec2/concept/5957958"
+    }
+  },
+  {
+    "uri": "en/38/233004213",
+    "id": "233004213",
+    "lang": "en",
+    "classNumber": "38",
+    "term": "Photo uploading services",
+    "harm": {
+      "id": "0072269",
+      "title": "233004213 - Photo uploading services",
+      "conceptLink": "/ec2/concept/6008452"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/552725",
+    "id": "552725",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone cable heads",
+    "harm": {
+      "id": "0043511",
+      "title": "552725 - Telephone cable heads",
+      "conceptLink": "/ec2/concept/5991232"
+    }
+  },
+  {
+    "uri": "en/9/157567",
+    "id": "157567",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone cables",
+    "harm": {
+      "id": "0013868",
+      "title": "157567 - Telephone cables",
+      "conceptLink": "/ec2/concept/5964147"
+    }
+  },
+  {
+    "uri": "en/9/398120",
+    "id": "398120",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone cards (coded)",
+    "harm": {
+      "id": "0000522",
+      "title": "398120 - Telephone cards (coded)",
+      "conceptLink": "/ec2/concept/5951957"
+    }
+  },
+  {
+    "uri": "en/9/552738",
+    "id": "552738",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone concentrators",
+    "harm": {
+      "id": "0014661",
+      "title": "552738 - Telephone concentrators",
+      "conceptLink": "/ec2/concept/5964883"
+    }
+  },
+  {
+    "uri": "en/9/552750",
+    "id": "552750",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone connecting cords",
+    "harm": {
+      "id": "0026154",
+      "title": "552750 - Telephone connecting cords",
+      "conceptLink": "/ec2/concept/5975404"
+    }
+  },
+  {
+    "uri": "en/9/332340",
+    "id": "332340",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone connectors",
+    "harm": {
+      "id": "0040996",
+      "title": "332340 - Telephone connectors",
+      "conceptLink": "/ec2/concept/5988939"
+    }
+  },
+  {
+    "uri": "en/9/2207037",
+    "id": "2207037",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone credit cards",
+    "harm": {
+      "id": "0071497",
+      "title": "2207037 - Telephone credit cards",
+      "conceptLink": "/ec2/concept/6007688"
+    }
+  },
+  {
+    "uri": "en/9/146483",
+    "id": "146483",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone earpieces",
+    "harm": {
+      "id": "0046727",
+      "title": "146483 - Telephone earpieces",
+      "conceptLink": "/ec2/concept/5994136"
+    }
+  },
+  {
+    "uri": "en/9/329188",
+    "id": "329188",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone headsets",
+    "harm": {
+      "id": "0046750",
+      "title": "329188 - Telephone headsets",
+      "conceptLink": "/ec2/concept/5994157"
+    }
+  },
+  {
+    "uri": "en/9/552762",
+    "id": "552762",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone intercom apparatus",
+    "harm": {
+      "id": "0009343",
+      "title": "552762 - Telephone intercom apparatus",
+      "conceptLink": "/ec2/concept/5960012"
+    }
+  },
+  {
+    "uri": "en/9/552778",
+    "id": "552778",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone modems",
+    "harm": {
+      "id": "0021040",
+      "title": "552778 - Telephone modems",
+      "conceptLink": "/ec2/concept/5970713"
+    }
+  },
+  {
+    "uri": "en/9/146482",
+    "id": "146482",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone receivers",
+    "harm": {
+      "id": "0000065",
+      "title": "146482 - Telephone receivers",
+      "conceptLink": "/ec2/concept/5951544"
+    }
+  },
+  {
+    "uri": "en/9/332354",
+    "id": "332354",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone recorders",
+    "harm": {
+      "id": "0006296",
+      "title": "332354 - Telephone recorders",
+      "conceptLink": "/ec2/concept/5957222"
+    }
+  },
+  {
+    "uri": "en/9/552792",
+    "id": "552792",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone ring tones [downloadable]",
+    "harm": {
+      "id": "0003611",
+      "title": "552792 - Telephone ring tones [downloadable]",
+      "conceptLink": "/ec2/concept/5954755"
+    }
+  },
+  {
+    "uri": "en/9/146484",
+    "id": "146484",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone sets",
+    "harm": {
+      "id": "0046768",
+      "title": "146484 - Telephone sets",
+      "conceptLink": "/ec2/concept/5994174"
+    }
+  },
+  {
+    "uri": "en/9/12004945",
+    "id": "12004945",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone sets with screen and keyboard",
+    "harm": {
+      "id": "0055867",
+      "title": "12004945 - Telephone sets with screen and keyboard",
+      "conceptLink": "/ec2/concept/5997245"
+    }
+  },
+  {
+    "uri": "en/9/552806",
+    "id": "552806",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone socket outlets",
+    "harm": {
+      "id": "0026680",
+      "title": "552806 - Telephone socket outlets",
+      "conceptLink": "/ec2/concept/5975879"
+    }
+  },
+  {
+    "uri": "en/9/402358",
+    "id": "402358",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone switchboards",
+    "harm": {
+      "id": "0025509",
+      "title": "402358 - Telephone switchboards",
+      "conceptLink": "/ec2/concept/5974816"
+    }
+  },
+  {
+    "uri": "en/9/12000085",
+    "id": "12000085",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone terminal",
+    "harm": {
+      "id": "0017875",
+      "title": "12000085 - Telephone terminal",
+      "conceptLink": "/ec2/concept/5967818"
+    }
+  },
+  {
+    "uri": "en/9/332369",
+    "id": "332369",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone terminals",
+    "harm": {
+      "id": "0017875",
+      "title": "332369 - Telephone terminals",
+      "conceptLink": "/ec2/concept/5967818"
+    }
+  },
+  {
+    "uri": "en/9/154968",
+    "id": "154968",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone transmitters",
+    "harm": {
+      "id": "0021503",
+      "title": "154968 - Telephone transmitters",
+      "conceptLink": "/ec2/concept/5971133"
+    }
+  },
+  {
+    "uri": "en/9/552819",
+    "id": "552819",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone wire connection boxes",
+    "harm": {
+      "id": "0003612",
+      "title": "552819 - Telephone wire connection boxes",
+      "conceptLink": "/ec2/concept/5954756"
+    }
+  },
+  {
+    "uri": "en/9/157566",
+    "id": "157566",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephone wires",
+    "harm": {
+      "id": "0013868",
+      "title": "157566 - Telephone wires",
+      "conceptLink": "/ec2/concept/5964147"
+    }
+  },
+  {
+    "uri": "en/9/146480",
+    "id": "146480",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephones",
+    "harm": {
+      "id": "0046768",
+      "title": "146480 - Telephones",
+      "conceptLink": "/ec2/concept/5994174"
+    }
+  },
+  {
+    "uri": "en/9/552831",
+    "id": "552831",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telephones incorporating intercommunication systems",
+    "harm": {
+      "id": "0026681",
+      "title": "552831 - Telephones incorporating intercommunication systems",
+      "conceptLink": "/ec2/concept/5975880"
+    }
+  },
+  {
+    "uri": "en/9/154616",
+    "id": "154616",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Teleprinters",
+    "harm": {
+      "id": "0017794",
+      "title": "154616 - Teleprinters",
+      "conceptLink": "/ec2/concept/5967743"
+    }
+  },
+  {
+    "uri": "en/9/154945",
+    "id": "154945",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Teleprompters",
+    "harm": {
+      "id": "0040070",
+      "title": "154945 - Teleprompters",
+      "conceptLink": "/ec2/concept/5988095"
+    }
+  },
+  {
+    "uri": "en/9/154992",
+    "id": "154992",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telerupters",
+    "harm": {
+      "id": "0071948",
+      "title": "154992 - Telerupters",
+      "conceptLink": "/ec2/concept/6008132"
+    }
+  },
+  {
+    "uri": "en/9/155037",
+    "id": "155037",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopes",
+    "harm": {
+      "id": "0013522",
+      "title": "155037 - Telescopes",
+      "conceptLink": "/ec2/concept/5963830"
+    }
+  },
+  {
+    "uri": "en/9/155797",
+    "id": "155797",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopes for firearms (Sighting -)",
+    "harm": {
+      "id": "0059056",
+      "title": "155797 - Telescopes for firearms (Sighting -)",
+      "conceptLink": "/ec2/concept/6000547"
+    }
+  },
+  {
+    "uri": "en/9/394235",
+    "id": "394235",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic bow sights",
+    "harm": {
+      "id": "0045455",
+      "title": "394235 - Telescopic bow sights",
+      "conceptLink": "/ec2/concept/5993019"
+    }
+  },
+  {
+    "uri": "en/9/155799",
+    "id": "155799",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic gun sights",
+    "harm": {
+      "id": "0059055",
+      "title": "155799 - Telescopic gun sights",
+      "conceptLink": "/ec2/concept/6000546"
+    }
+  },
+  {
+    "uri": "en/9/552844",
+    "id": "552844",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic measures with a digital read out",
+    "harm": {
+      "id": "0003613",
+      "title": "552844 - Telescopic measures with a digital read out",
+      "conceptLink": "/ec2/concept/5954757"
+    }
+  },
+  {
+    "uri": "en/9/552859",
+    "id": "552859",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic rules",
+    "harm": {
+      "id": "0015207",
+      "title": "552859 - Telescopic rules",
+      "conceptLink": "/ec2/concept/5965381"
+    }
+  },
+  {
+    "uri": "en/9/332386",
+    "id": "332386",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic sights",
+    "harm": {
+      "id": "0031109",
+      "title": "332386 - Telescopic sights",
+      "conceptLink": "/ec2/concept/5979946"
+    }
+  },
+  {
+    "uri": "en/9/136519431",
+    "id": "136519431",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic sights for artillery",
+    "harm": {
+      "id": "0060019",
+      "title": "136519431 - Telescopic sights for artillery",
+      "conceptLink": "/ec2/concept/5996287"
+    }
+  },
+  {
+    "uri": "en/9/51514068",
+    "id": "51514068",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic sights for firearms",
+    "harm": {
+      "id": "0059056",
+      "title": "51514068 - Telescopic sights for firearms",
+      "conceptLink": "/ec2/concept/6000547"
+    }
+  },
+  {
+    "uri": "en/9/120901800",
+    "id": "120901800",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telescopic sights for guns",
+    "harm": {
+      "id": "0059055",
+      "title": "120901800 - Telescopic sights for guns",
+      "conceptLink": "/ec2/concept/6000546"
+    }
+  },
+  {
+    "uri": "en/9/154617",
+    "id": "154617",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Teletypewriters",
+    "harm": {
+      "id": "0017794",
+      "title": "154617 - Teletypewriters",
+      "conceptLink": "/ec2/concept/5967743"
+    }
+  },
+  {
+    "uri": "en/9/402383",
+    "id": "402383",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television aerials",
+    "harm": {
+      "id": "0042836",
+      "title": "402383 - Television aerials",
+      "conceptLink": "/ec2/concept/5990611"
+    }
+  },
+  {
+    "uri": "en/9/402382",
+    "id": "402382",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television antennas",
+    "harm": {
+      "id": "0042836",
+      "title": "402382 - Television antennas",
+      "conceptLink": "/ec2/concept/5990611"
+    }
+  },
+  {
+    "uri": "en/9/154763",
+    "id": "154763",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television apparatus",
+    "harm": {
+      "id": "0058808",
+      "title": "154763 - Television apparatus",
+      "conceptLink": "/ec2/concept/6000299"
+    }
+  },
+  {
+    "uri": "en/9/552873",
+    "id": "552873",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television camera tubes",
+    "harm": {
+      "id": "0032458",
+      "title": "552873 - Television camera tubes",
+      "conceptLink": "/ec2/concept/5981159"
+    }
+  },
+  {
+    "uri": "en/9/332228",
+    "id": "332228",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television cameras",
+    "harm": {
+      "id": "0044313",
+      "title": "332228 - Television cameras",
+      "conceptLink": "/ec2/concept/5991969"
+    }
+  },
+  {
+    "uri": "en/9/332411",
+    "id": "332411",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television decoder",
+    "harm": {
+      "id": "0057100",
+      "title": "332411 - Television decoder",
+      "conceptLink": "/ec2/concept/5998727"
+    }
+  },
+  {
+    "uri": "en/9/73610805",
+    "id": "73610805",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television decoders",
+    "harm": {
+      "id": "0057100",
+      "title": "73610805 - Television decoders",
+      "conceptLink": "/ec2/concept/5998727"
+    }
+  },
+  {
+    "uri": "en/9/552892",
+    "id": "552892",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television display apparatus",
+    "harm": {
+      "id": "0058808",
+      "title": "552892 - Television display apparatus",
+      "conceptLink": "/ec2/concept/6000299"
+    }
+  },
+  {
+    "uri": "en/9/552920",
+    "id": "552920",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television monitoring apparatus",
+    "harm": {
+      "id": "0021041",
+      "title": "552920 - Television monitoring apparatus",
+      "conceptLink": "/ec2/concept/5970714"
+    }
+  },
+  {
+    "uri": "en/9/332445",
+    "id": "332445",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television monitors",
+    "harm": {
+      "id": "0058808",
+      "title": "332445 - Television monitors",
+      "conceptLink": "/ec2/concept/6000299"
+    }
+  },
+  {
+    "uri": "en/9/552934",
+    "id": "552934",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television outlets",
+    "harm": {
+      "id": "0044017",
+      "title": "552934 - Television outlets",
+      "conceptLink": "/ec2/concept/5991693"
+    }
+  },
+  {
+    "uri": "en/9/154764",
+    "id": "154764",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television receivers",
+    "harm": {
+      "id": "0058809",
+      "title": "154764 - Television receivers",
+      "conceptLink": "/ec2/concept/6000300"
+    }
+  },
+  {
+    "uri": "en/9/332484",
+    "id": "332484",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television receivers [tv sets]",
+    "harm": {
+      "id": "0058809",
+      "title": "332484 - Television receivers [tv sets]",
+      "conceptLink": "/ec2/concept/6000300"
+    }
+  },
+  {
+    "uri": "en/9/129841709",
+    "id": "129841709",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television receivers [TV sets]",
+    "harm": {
+      "id": "0058809",
+      "title": "129841709 - Television receivers [TV sets]",
+      "conceptLink": "/ec2/concept/6000300"
+    }
+  },
+  {
+    "uri": "en/9/552946",
+    "id": "552946",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television receiving dishes",
+    "harm": {
+      "id": "0009344",
+      "title": "552946 - Television receiving dishes",
+      "conceptLink": "/ec2/concept/5960013"
+    }
+  },
+  {
+    "uri": "en/9/552959",
+    "id": "552959",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television recorders",
+    "harm": {
+      "id": "0032460",
+      "title": "552959 - Television recorders",
+      "conceptLink": "/ec2/concept/5981161"
+    }
+  },
+  {
+    "uri": "en/9/50140346",
+    "id": "50140346",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television remote controllers",
+    "harm": {
+      "id": "0065786",
+      "title": "50140346 - Television remote controllers",
+      "conceptLink": "/ec2/concept/6001989"
+    }
+  },
+  {
+    "uri": "en/9/154766",
+    "id": "154766",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television sets",
+    "harm": {
+      "id": "0058808",
+      "title": "154766 - Television sets",
+      "conceptLink": "/ec2/concept/6000299"
+    }
+  },
+  {
+    "uri": "en/9/552971",
+    "id": "552971",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television signal amplifiers",
+    "harm": {
+      "id": "0026682",
+      "title": "552971 - Television signal amplifiers",
+      "conceptLink": "/ec2/concept/5975881"
+    }
+  },
+  {
+    "uri": "en/9/402408",
+    "id": "402408",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television standards converters",
+    "harm": {
+      "id": "0013957",
+      "title": "402408 - Television standards converters",
+      "conceptLink": "/ec2/concept/5964229"
+    }
+  },
+  {
+    "uri": "en/9/332501",
+    "id": "332501",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Television transmitters",
+    "harm": {
+      "id": "0002258",
+      "title": "332501 - Television transmitters",
+      "conceptLink": "/ec2/concept/5953517"
+    }
+  },
+  {
+    "uri": "en/9/154765",
+    "id": "154765",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Televisions",
+    "harm": {
+      "id": "0058808",
+      "title": "154765 - Televisions",
+      "conceptLink": "/ec2/concept/6000299"
+    }
+  },
+  {
+    "uri": "en/9/154615",
+    "id": "154615",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telewriters",
+    "harm": {
+      "id": "0017794",
+      "title": "154615 - Telewriters",
+      "conceptLink": "/ec2/concept/5967743"
+    }
+  },
+  {
+    "uri": "en/9/154618",
+    "id": "154618",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Telex apparatus",
+    "harm": {
+      "id": "0017794",
+      "title": "154618 - Telex apparatus",
+      "conceptLink": "/ec2/concept/5967743"
+    }
+  },
+  {
+    "uri": "en/9/394359",
+    "id": "394359",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Teller machines (Automated -) [ATM]",
+    "harm": {
+      "id": "0023810",
+      "title": "394359 - Teller machines (Automated -) [ATM]",
+      "conceptLink": "/ec2/concept/5973247"
+    }
+  },
+  {
+    "uri": "en/9/552985",
+    "id": "552985",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature compensated crystal oscillators",
+    "harm": {
+      "id": "0032461",
+      "title": "552985 - Temperature compensated crystal oscillators",
+      "conceptLink": "/ec2/concept/5981162"
+    }
+  },
+  {
+    "uri": "en/9/615617",
+    "id": "615617",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [thermostats] for vehicles",
+    "harm": {
+      "id": "0016374",
+      "title": "615617 - Temperature control apparatus [thermostats] for vehicles",
+      "conceptLink": "/ec2/concept/5966464"
+    }
+  },
+  {
+    "uri": "en/9/615574",
+    "id": "615574",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [electric switches] for machines",
+    "harm": {
+      "id": "0010572",
+      "title": "615574 - Temperature control apparatus [electric switches] for machines",
+      "conceptLink": "/ec2/concept/5961135"
+    }
+  },
+  {
+    "uri": "en/9/615603",
+    "id": "615603",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [thermostats] for machines",
+    "harm": {
+      "id": "0010573",
+      "title": "615603 - Temperature control apparatus [thermostats] for machines",
+      "conceptLink": "/ec2/concept/5961136"
+    }
+  },
+  {
+    "uri": "en/9/552999",
+    "id": "552999",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [electric switches]",
+    "harm": {
+      "id": "0044018",
+      "title": "552999 - Temperature control apparatus [electric switches]",
+      "conceptLink": "/ec2/concept/5991694"
+    }
+  },
+  {
+    "uri": "en/9/553013",
+    "id": "553013",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [thermostats]",
+    "harm": {
+      "id": "0044019",
+      "title": "553013 - Temperature control apparatus [thermostats]",
+      "conceptLink": "/ec2/concept/5991695"
+    }
+  },
+  {
+    "uri": "en/9/615588",
+    "id": "615588",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature control apparatus [electric switches] for vehicles",
+    "harm": {
+      "id": "0045211",
+      "title": "615588 - Temperature control apparatus [electric switches] for vehicles",
+      "conceptLink": "/ec2/concept/5992795"
+    }
+  },
+  {
+    "uri": "en/9/553045",
+    "id": "553045",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controllers",
+    "harm": {
+      "id": "0007848",
+      "title": "553045 - Temperature controllers",
+      "conceptLink": "/ec2/concept/5958641"
+    }
+  },
+  {
+    "uri": "en/9/553088",
+    "id": "553088",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controllers apparatus for use in vehicle engines",
+    "harm": {
+      "id": "0013675",
+      "title": "553088 - Temperature controllers apparatus for use in vehicle engines",
+      "conceptLink": "/ec2/concept/5963964"
+    }
+  },
+  {
+    "uri": "en/9/553102",
+    "id": "553102",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controllers apparatus for use in vehicle heating systems",
+    "harm": {
+      "id": "0013676",
+      "title": "553102 - Temperature controllers apparatus for use in vehicle heating systems",
+      "conceptLink": "/ec2/concept/5963965"
+    }
+  },
+  {
+    "uri": "en/9/553071",
+    "id": "553071",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controllers apparatus for machines",
+    "harm": {
+      "id": "0019547",
+      "title": "553071 - Temperature controllers apparatus for machines",
+      "conceptLink": "/ec2/concept/5969353"
+    }
+  },
+  {
+    "uri": "en/9/553072",
+    "id": "553072",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controlling apparatus for machines",
+    "harm": {
+      "id": "0019547",
+      "title": "553072 - Temperature controlling apparatus for machines",
+      "conceptLink": "/ec2/concept/5969353"
+    }
+  },
+  {
+    "uri": "en/9/402429",
+    "id": "402429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature controlling apparatus",
+    "harm": {
+      "id": "0042837",
+      "title": "402429 - Temperature controlling apparatus",
+      "conceptLink": "/ec2/concept/5990612"
+    }
+  },
+  {
+    "uri": "en/9/553115",
+    "id": "553115",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature display units",
+    "harm": {
+      "id": "0030992",
+      "title": "553115 - Temperature display units",
+      "conceptLink": "/ec2/concept/5979838"
+    }
+  },
+  {
+    "uri": "en/9/553130",
+    "id": "553130",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature feedback units",
+    "harm": {
+      "id": "0013677",
+      "title": "553130 - Temperature feedback units",
+      "conceptLink": "/ec2/concept/5963966"
+    }
+  },
+  {
+    "uri": "en/9/155137",
+    "id": "155137",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature gauges",
+    "harm": {
+      "id": "0030992",
+      "title": "155137 - Temperature gauges",
+      "conceptLink": "/ec2/concept/5979838"
+    }
+  },
+  {
+    "uri": "en/9/553142",
+    "id": "553142",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature indicating apparatus",
+    "harm": {
+      "id": "0030992",
+      "title": "553142 - Temperature indicating apparatus",
+      "conceptLink": "/ec2/concept/5979838"
+    }
+  },
+  {
+    "uri": "en/9/129398202",
+    "id": "129398202",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature indicator labels, not for medical purposes",
+    "harm": {
+      "id": "0046228",
+      "title": "129398202 - Temperature indicator labels, not for medical purposes",
+      "conceptLink": "/ec2/concept/5993708"
+    }
+  },
+  {
+    "uri": "en/9/155136",
+    "id": "155136",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature indicators",
+    "harm": {
+      "id": "0030992",
+      "title": "155136 - Temperature indicators",
+      "conceptLink": "/ec2/concept/5979838"
+    }
+  },
+  {
+    "uri": "en/9/553158",
+    "id": "553158",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature limiters for machines",
+    "harm": {
+      "id": "0019548",
+      "title": "553158 - Temperature limiters for machines",
+      "conceptLink": "/ec2/concept/5969354"
+    }
+  },
+  {
+    "uri": "en/9/553170",
+    "id": "553170",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature logging apparatus",
+    "harm": {
+      "id": "0042572",
+      "title": "553170 - Temperature logging apparatus",
+      "conceptLink": "/ec2/concept/5990380"
+    }
+  },
+  {
+    "uri": "en/9/553183",
+    "id": "553183",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature matrix regulators",
+    "harm": {
+      "id": "0025249",
+      "title": "553183 - Temperature matrix regulators",
+      "conceptLink": "/ec2/concept/5974576"
+    }
+  },
+  {
+    "uri": "en/9/553220",
+    "id": "553220",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature measuring apparatus for scientific use",
+    "harm": {
+      "id": "0013678",
+      "title": "553220 - Temperature measuring apparatus for scientific use",
+      "conceptLink": "/ec2/concept/5963967"
+    }
+  },
+  {
+    "uri": "en/9/553208",
+    "id": "553208",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature measuring apparatus for industrial use",
+    "harm": {
+      "id": "0030993",
+      "title": "553208 - Temperature measuring apparatus for industrial use",
+      "conceptLink": "/ec2/concept/5979839"
+    }
+  },
+  {
+    "uri": "en/9/553196",
+    "id": "553196",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature measuring apparatus for household use",
+    "harm": {
+      "id": "0025250",
+      "title": "553196 - Temperature measuring apparatus for household use",
+      "conceptLink": "/ec2/concept/5974577"
+    }
+  },
+  {
+    "uri": "en/9/120918932",
+    "id": "120918932",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature measuring instruments",
+    "harm": {
+      "id": "0047779",
+      "title": "120918932 - Temperature measuring instruments",
+      "conceptLink": "/ec2/concept/5995054"
+    }
+  },
+  {
+    "uri": "en/9/553233",
+    "id": "553233",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature meters for household use",
+    "harm": {
+      "id": "0025250",
+      "title": "553233 - Temperature meters for household use",
+      "conceptLink": "/ec2/concept/5974577"
+    }
+  },
+  {
+    "uri": "en/9/553246",
+    "id": "553246",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature meters for industrial use",
+    "harm": {
+      "id": "0030993",
+      "title": "553246 - Temperature meters for industrial use",
+      "conceptLink": "/ec2/concept/5979839"
+    }
+  },
+  {
+    "uri": "en/9/553259",
+    "id": "553259",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature meters for scientific use",
+    "harm": {
+      "id": "0007849",
+      "title": "553259 - Temperature meters for scientific use",
+      "conceptLink": "/ec2/concept/5958642"
+    }
+  },
+  {
+    "uri": "en/9/553283",
+    "id": "553283",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature monitors for industrial use",
+    "harm": {
+      "id": "0002136",
+      "title": "553283 - Temperature monitors for industrial use",
+      "conceptLink": "/ec2/concept/5953408"
+    }
+  },
+  {
+    "uri": "en/9/553271",
+    "id": "553271",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature monitors for household use",
+    "harm": {
+      "id": "0002135",
+      "title": "553271 - Temperature monitors for household use",
+      "conceptLink": "/ec2/concept/5953407"
+    }
+  },
+  {
+    "uri": "en/9/553296",
+    "id": "553296",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature monitors for scientific use",
+    "harm": {
+      "id": "0002137",
+      "title": "553296 - Temperature monitors for scientific use",
+      "conceptLink": "/ec2/concept/5953409"
+    }
+  },
+  {
+    "uri": "en/9/615632",
+    "id": "615632",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature monitors [valves] for central heating radiators",
+    "harm": {
+      "id": "0045212",
+      "title": "615632 - Temperature monitors [valves] for central heating radiators",
+      "conceptLink": "/ec2/concept/5992796"
+    }
+  },
+  {
+    "uri": "en/9/553309",
+    "id": "553309",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature regulators for vehicle engines",
+    "harm": {
+      "id": "0025252",
+      "title": "553309 - Temperature regulators for vehicle engines",
+      "conceptLink": "/ec2/concept/5974578"
+    }
+  },
+  {
+    "uri": "en/9/553321",
+    "id": "553321",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature sensing apparatus for scientific use",
+    "harm": {
+      "id": "0030994",
+      "title": "553321 - Temperature sensing apparatus for scientific use",
+      "conceptLink": "/ec2/concept/5979840"
+    }
+  },
+  {
+    "uri": "en/9/553344",
+    "id": "553344",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Temperature sensitive testing apparatus for scientific use",
+    "harm": {
+      "id": "0024396",
+      "title": "553344 - Temperature sensitive testing apparatus for scientific use",
+      "conceptLink": "/ec2/concept/5973789"
+    }
+  }
+]

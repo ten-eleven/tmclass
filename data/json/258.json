@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/35034195",
+    "id": "35034195",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar cell panels",
+    "harm": {
+      "id": "0033401",
+      "title": "35034195 - Solar cell panels",
+      "conceptLink": "/ec2/concept/5982025"
+    }
+  },
+  {
+    "uri": "en/9/232028909",
+    "id": "232028909",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar cell plates",
+    "harm": {
+      "id": "0033401",
+      "title": "232028909 - Solar cell plates",
+      "conceptLink": "/ec2/concept/5982025"
+    }
+  },
+  {
+    "uri": "en/9/907312",
+    "id": "907312",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar cells",
+    "harm": {
+      "id": "0025712",
+      "title": "907312 - Solar cells",
+      "conceptLink": "/ec2/concept/5974996"
+    }
+  },
+  {
+    "uri": "en/9/551000",
+    "id": "551000",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar cells for electricity generation",
+    "harm": {
+      "id": "0044794",
+      "title": "551000 - Solar cells for electricity generation",
+      "conceptLink": "/ec2/concept/5992411"
+    }
+  },
+  {
+    "uri": "en/9/551013",
+    "id": "551013",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar energy collectors for electricity generation",
+    "harm": {
+      "id": "0015958",
+      "title": "551013 - Solar energy collectors for electricity generation",
+      "conceptLink": "/ec2/concept/5966079"
+    }
+  },
+  {
+    "uri": "en/9/401739",
+    "id": "401739",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar modules",
+    "harm": {
+      "id": "0039203",
+      "title": "401739 - Solar modules",
+      "conceptLink": "/ec2/concept/5987298"
+    }
+  },
+  {
+    "uri": "en/9/401760",
+    "id": "401760",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar panel arrays",
+    "harm": {
+      "id": "0027632",
+      "title": "401760 - Solar panel arrays",
+      "conceptLink": "/ec2/concept/5976749"
+    }
+  },
+  {
+    "uri": "en/9/401781",
+    "id": "401781",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar panels",
+    "harm": {
+      "id": "0033401",
+      "title": "401781 - Solar panels",
+      "conceptLink": "/ec2/concept/5982025"
+    }
+  },
+  {
+    "uri": "en/9/551027",
+    "id": "551027",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar panels for electricity generation",
+    "harm": {
+      "id": "0033401",
+      "title": "551027 - Solar panels for electricity generation",
+      "conceptLink": "/ec2/concept/5982025"
+    }
+  },
+  {
+    "uri": "en/9/67507603",
+    "id": "67507603",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar panels for the production of electricity",
+    "harm": {
+      "id": "0060018",
+      "title": "67507603 - Solar panels for the production of electricity",
+      "conceptLink": "/ec2/concept/5996284"
+    }
+  },
+  {
+    "uri": "en/9/53219764",
+    "id": "53219764",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar-powered battery chargers",
+    "harm": {
+      "id": "0020958",
+      "title": "53219764 - Solar-powered battery chargers",
+      "conceptLink": "/ec2/concept/5970638"
+    }
+  },
+  {
+    "uri": "en/9/401803",
+    "id": "401803",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar powered radios",
+    "harm": {
+      "id": "0010285",
+      "title": "401803 - Solar powered radios",
+      "conceptLink": "/ec2/concept/5960865"
+    }
+  },
+  {
+    "uri": "en/9/136161050",
+    "id": "136161050",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar-powered rechargeable batteries",
+    "harm": {
+      "id": "0070581",
+      "title": "136161050 - Solar-powered rechargeable batteries",
+      "conceptLink": "/ec2/concept/6006773"
+    }
+  },
+  {
+    "uri": "en/9/401823",
+    "id": "401823",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar powered telephones",
+    "harm": {
+      "id": "0039204",
+      "title": "401823 - Solar powered telephones",
+      "conceptLink": "/ec2/concept/5987299"
+    }
+  },
+  {
+    "uri": "en/9/907313",
+    "id": "907313",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solar wafers",
+    "harm": {
+      "id": "0043077",
+      "title": "907313 - Solar wafers",
+      "conceptLink": "/ec2/concept/5990834"
+    }
+  },
+  {
+    "uri": "en/9/142245",
+    "id": "142245",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solderers' helmets",
+    "harm": {
+      "id": "0047274",
+      "title": "142245 - Solderers' helmets",
+      "conceptLink": "/ec2/concept/5994633"
+    }
+  },
+  {
+    "uri": "en/9/551044",
+    "id": "551044",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solenoid operated valves",
+    "harm": {
+      "id": "0057115",
+      "title": "551044 - Solenoid operated valves",
+      "conceptLink": "/ec2/concept/5998745"
+    }
+  },
+  {
+    "uri": "en/9/551045",
+    "id": "551045",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solenoid valves",
+    "harm": {
+      "id": "0057115",
+      "title": "551045 - Solenoid valves",
+      "conceptLink": "/ec2/concept/5998745"
+    }
+  },
+  {
+    "uri": "en/9/162179",
+    "id": "162179",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solenoid valves [electromagnetic switches]",
+    "harm": {
+      "id": "0057115",
+      "title": "162179 - Solenoid valves [electromagnetic switches]",
+      "conceptLink": "/ec2/concept/5998745"
+    }
+  },
+  {
+    "uri": "en/9/401844",
+    "id": "401844",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solenoids",
+    "harm": {
+      "id": "0022031",
+      "title": "401844 - Solenoids",
+      "conceptLink": "/ec2/concept/5971621"
+    }
+  },
+  {
+    "uri": "en/9/615064",
+    "id": "615064",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid ink cartridges [empty] for ink-jet printers",
+    "harm": {
+      "id": "0019160",
+      "title": "615064 - Solid ink cartridges [empty] for ink-jet printers",
+      "conceptLink": "/ec2/concept/5969005"
+    }
+  },
+  {
+    "uri": "en/9/137493084",
+    "id": "137493084",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state drive [SSD]",
+    "harm": {
+      "id": "0060776",
+      "title": "137493084 - Solid-state drive [SSD]",
+      "conceptLink": "/ec2/concept/6001096"
+    }
+  },
+  {
+    "uri": "en/9/27053715",
+    "id": "27053715",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid state drives",
+    "harm": {
+      "id": "0060776",
+      "title": "27053715 - Solid state drives",
+      "conceptLink": "/ec2/concept/6001096"
+    }
+  },
+  {
+    "uri": "en/9/137493085",
+    "id": "137493085",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state hybrid drive [SSHD]",
+    "harm": {
+      "id": "0060777",
+      "title": "137493085 - Solid-state hybrid drive [SSHD]",
+      "conceptLink": "/ec2/concept/6001097"
+    }
+  },
+  {
+    "uri": "en/9/401867",
+    "id": "401867",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state lasers",
+    "harm": {
+      "id": "0021869",
+      "title": "401867 - Solid-state lasers",
+      "conceptLink": "/ec2/concept/5971472"
+    }
+  },
+  {
+    "uri": "en/9/551065",
+    "id": "551065",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state memories",
+    "harm": {
+      "id": "0015959",
+      "title": "551065 - Solid-state memories",
+      "conceptLink": "/ec2/concept/5966080"
+    }
+  },
+  {
+    "uri": "en/9/551077",
+    "id": "551077",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state relays",
+    "harm": {
+      "id": "0004423",
+      "title": "551077 - Solid-state relays",
+      "conceptLink": "/ec2/concept/5955502"
+    }
+  },
+  {
+    "uri": "en/9/551093",
+    "id": "551093",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Solid-state video recorders",
+    "harm": {
+      "id": "0039061",
+      "title": "551093 - Solid-state video recorders",
+      "conceptLink": "/ec2/concept/5987168"
+    }
+  },
+  {
+    "uri": "en/9/145417",
+    "id": "145417",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sonar apparatus",
+    "harm": {
+      "id": "0020772",
+      "title": "145417 - Sonar apparatus",
+      "conceptLink": "/ec2/concept/5970471"
+    }
+  },
+  {
+    "uri": "en/9/145415",
+    "id": "145415",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sonars",
+    "harm": {
+      "id": "0020772",
+      "title": "145415 - Sonars",
+      "conceptLink": "/ec2/concept/5970471"
+    }
+  },
+  {
+    "uri": "en/9/138477",
+    "id": "138477",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound alarms",
+    "harm": {
+      "id": "0001685",
+      "title": "138477 - Sound alarms",
+      "conceptLink": "/ec2/concept/5953000"
+    }
+  },
+  {
+    "uri": "en/9/527866",
+    "id": "527866",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound alarms, other than for vehicles",
+    "harm": {
+      "id": "0031932",
+      "title": "527866 - Sound alarms, other than for vehicles",
+      "conceptLink": "/ec2/concept/5980680"
+    }
+  },
+  {
+    "uri": "en/9/139359",
+    "id": "139359",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound amplifiers",
+    "harm": {
+      "id": "0000071",
+      "title": "139359 - Sound amplifiers",
+      "conceptLink": "/ec2/concept/5951549"
+    }
+  },
+  {
+    "uri": "en/9/139361",
+    "id": "139361",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound amplifying apparatus",
+    "harm": {
+      "id": "0000071",
+      "title": "139361 - Sound amplifying apparatus",
+      "conceptLink": "/ec2/concept/5951549"
+    }
+  },
+  {
+    "uri": "en/9/551105",
+    "id": "551105",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound amplifying receivers",
+    "harm": {
+      "id": "0015960",
+      "title": "551105 - Sound amplifying receivers",
+      "conceptLink": "/ec2/concept/5966081"
+    }
+  },
+  {
+    "uri": "en/9/119530726",
+    "id": "119530726",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound and picture recording apparatus",
+    "harm": {
+      "id": "0055859",
+      "title": "119530726 - Sound and picture recording apparatus",
+      "conceptLink": "/ec2/concept/5997237"
+    }
+  },
+  {
+    "uri": "en/9/401904",
+    "id": "401904",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound cards",
+    "harm": {
+      "id": "0004575",
+      "title": "401904 - Sound cards",
+      "conceptLink": "/ec2/concept/5955638"
+    }
+  },
+  {
+    "uri": "en/9/142068",
+    "id": "142068",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound carriers",
+    "harm": {
+      "id": "0043151",
+      "title": "142068 - Sound carriers",
+      "conceptLink": "/ec2/concept/5990899"
+    }
+  },
+  {
+    "uri": "en/9/489429",
+    "id": "489429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound cassettes",
+    "harm": {
+      "id": "0046816",
+      "title": "489429 - Sound cassettes",
+      "conceptLink": "/ec2/concept/5994215"
+    }
+  },
+  {
+    "uri": "en/9/551119",
+    "id": "551119",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound discs",
+    "harm": {
+      "id": "0038362",
+      "title": "551119 - Sound discs",
+      "conceptLink": "/ec2/concept/5986537"
+    }
+  },
+  {
+    "uri": "en/9/93757108",
+    "id": "93757108",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound filters made of cloth, for radio apparatus",
+    "harm": {
+      "id": "0055860",
+      "title": "93757108 - Sound filters made of cloth, for radio apparatus",
+      "conceptLink": "/ec2/concept/5997238"
+    }
+  },
+  {
+    "uri": "en/9/154270",
+    "id": "154270",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound generation apparatus",
+    "harm": {
+      "id": "0019852",
+      "title": "154270 - Sound generation apparatus",
+      "conceptLink": "/ec2/concept/5969625"
+    }
+  },
+  {
+    "uri": "en/9/332055",
+    "id": "332055",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound level meters",
+    "harm": {
+      "id": "0002664",
+      "title": "332055 - Sound level meters",
+      "conceptLink": "/ec2/concept/5953885"
+    }
+  },
+  {
+    "uri": "en/9/154395",
+    "id": "154395",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound locating apparatus",
+    "harm": {
+      "id": "0047233",
+      "title": "154395 - Sound locating apparatus",
+      "conceptLink": "/ec2/concept/5994598"
+    }
+  },
+  {
+    "uri": "en/9/154394",
+    "id": "154394",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound locating instruments",
+    "harm": {
+      "id": "0047233",
+      "title": "154394 - Sound locating instruments",
+      "conceptLink": "/ec2/concept/5994598"
+    }
+  },
+  {
+    "uri": "en/9/120874084",
+    "id": "120874084",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound measuring apparatus",
+    "harm": {
+      "id": "0006089",
+      "title": "120874084 - Sound measuring apparatus",
+      "conceptLink": "/ec2/concept/5957033"
+    }
+  },
+  {
+    "uri": "en/9/332072",
+    "id": "332072",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound mixers",
+    "harm": {
+      "id": "0015305",
+      "title": "332072 - Sound mixers",
+      "conceptLink": "/ec2/concept/5965469"
+    }
+  },
+  {
+    "uri": "en/9/332096",
+    "id": "332096",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound mixers with integrated amplifiers",
+    "harm": {
+      "id": "0027584",
+      "title": "332096 - Sound mixers with integrated amplifiers",
+      "conceptLink": "/ec2/concept/5976702"
+    }
+  },
+  {
+    "uri": "en/9/551131",
+    "id": "551131",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound mixing apparatus",
+    "harm": {
+      "id": "0045732",
+      "title": "551131 - Sound mixing apparatus",
+      "conceptLink": "/ec2/concept/5993268"
+    }
+  },
+  {
+    "uri": "en/9/401924",
+    "id": "401924",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound processors",
+    "harm": {
+      "id": "0016105",
+      "title": "401924 - Sound processors",
+      "conceptLink": "/ec2/concept/5966216"
+    }
+  },
+  {
+    "uri": "en/9/120885203",
+    "id": "120885203",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound projectors",
+    "harm": {
+      "id": "0060521",
+      "title": "120885203 - Sound projectors",
+      "conceptLink": "/ec2/concept/5998494"
+    }
+  },
+  {
+    "uri": "en/9/154202",
+    "id": "154202",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recorders",
+    "harm": {
+      "id": "0046877",
+      "title": "154202 - Sound recorders",
+      "conceptLink": "/ec2/concept/5994269"
+    }
+  },
+  {
+    "uri": "en/9/154200",
+    "id": "154200",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recording apparatus",
+    "harm": {
+      "id": "0031511",
+      "title": "154200 - Sound recording apparatus",
+      "conceptLink": "/ec2/concept/5980304"
+    }
+  },
+  {
+    "uri": "en/9/142067",
+    "id": "142067",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recording carriers",
+    "harm": {
+      "id": "0043151",
+      "title": "142067 - Sound recording carriers",
+      "conceptLink": "/ec2/concept/5990899"
+    }
+  },
+  {
+    "uri": "en/9/138565",
+    "id": "138565",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recording discs",
+    "harm": {
+      "id": "0007421",
+      "title": "138565 - Sound recording discs",
+      "conceptLink": "/ec2/concept/5958252"
+    }
+  },
+  {
+    "uri": "en/9/147288",
+    "id": "147288",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recording strips",
+    "harm": {
+      "id": "0042115",
+      "title": "147288 - Sound recording strips",
+      "conceptLink": "/ec2/concept/5989963"
+    }
+  },
+  {
+    "uri": "en/9/147289",
+    "id": "147289",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recording tapes",
+    "harm": {
+      "id": "0046783",
+      "title": "147289 - Sound recording tapes",
+      "conceptLink": "/ec2/concept/5994186"
+    }
+  },
+  {
+    "uri": "en/9/489177",
+    "id": "489177",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound recordings",
+    "harm": {
+      "id": "0026221",
+      "title": "489177 - Sound recordings",
+      "conceptLink": "/ec2/concept/5975467"
+    }
+  },
+  {
+    "uri": "en/9/489176",
+    "id": "489176",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound records",
+    "harm": {
+      "id": "0046888",
+      "title": "489176 - Sound records",
+      "conceptLink": "/ec2/concept/5994280"
+    }
+  },
+  {
+    "uri": "en/9/551146",
+    "id": "551146",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound registering discs",
+    "harm": {
+      "id": "0005393",
+      "title": "551146 - Sound registering discs",
+      "conceptLink": "/ec2/concept/5956394"
+    }
+  },
+  {
+    "uri": "en/9/147290",
+    "id": "147290",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound registering tapes",
+    "harm": {
+      "id": "0046783",
+      "title": "147290 - Sound registering tapes",
+      "conceptLink": "/ec2/concept/5994186"
+    }
+  },
+  {
+    "uri": "en/9/139364",
+    "id": "139364",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound reinforcement apparatus",
+    "harm": {
+      "id": "0000071",
+      "title": "139364 - Sound reinforcement apparatus",
+      "conceptLink": "/ec2/concept/5951549"
+    }
+  },
+  {
+    "uri": "en/9/154266",
+    "id": "154266",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound reproducing apparatus",
+    "harm": {
+      "id": "0019852",
+      "title": "154266 - Sound reproducing apparatus",
+      "conceptLink": "/ec2/concept/5969625"
+    }
+  },
+  {
+    "uri": "en/9/154268",
+    "id": "154268",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound reproduction apparatus",
+    "harm": {
+      "id": "0019852",
+      "title": "154268 - Sound reproduction apparatus",
+      "conceptLink": "/ec2/concept/5969625"
+    }
+  },
+  {
+    "uri": "en/9/551157",
+    "id": "551157",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound reverberation units",
+    "harm": {
+      "id": "0045733",
+      "title": "551157 - Sound reverberation units",
+      "conceptLink": "/ec2/concept/5993269"
+    }
+  },
+  {
+    "uri": "en/9/551170",
+    "id": "551170",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound samplers",
+    "harm": {
+      "id": "0035626",
+      "title": "551170 - Sound samplers",
+      "conceptLink": "/ec2/concept/5984046"
+    }
+  },
+  {
+    "uri": "en/9/154158",
+    "id": "154158",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sound transmitting apparatus",
+    "harm": {
+      "id": "0001874",
+      "title": "154158 - Sound transmitting apparatus",
+      "conceptLink": "/ec2/concept/5953175"
+    }
+  },
+  {
+    "uri": "en/9/234038363",
+    "id": "234038363",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Soundbar speakers",
+    "harm": {
+      "id": "0070582",
+      "title": "234038363 - Soundbar speakers",
+      "conceptLink": "/ec2/concept/6006774"
+    }
+  },
+  {
+    "uri": "en/9/137756531",
+    "id": "137756531",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Soundbars",
+    "harm": {
+      "id": "0070582",
+      "title": "137756531 - Soundbars",
+      "conceptLink": "/ec2/concept/6006774"
+    }
+  },
+  {
+    "uri": "en/9/154333",
+    "id": "154333",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sounding apparatus and machines",
+    "harm": {
+      "id": "0037354",
+      "title": "154333 - Sounding apparatus and machines",
+      "conceptLink": "/ec2/concept/5985613"
+    }
+  },
+  {
+    "uri": "en/9/154355",
+    "id": "154355",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sounding leads",
+    "harm": {
+      "id": "0002663",
+      "title": "154355 - Sounding leads",
+      "conceptLink": "/ec2/concept/5953884"
+    }
+  },
+  {
+    "uri": "en/9/150234",
+    "id": "150234",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sounding lines",
+    "harm": {
+      "id": "0022974",
+      "title": "150234 - Sounding lines",
+      "conceptLink": "/ec2/concept/5972478"
+    }
+  },
+  {
+    "uri": "en/9/551183",
+    "id": "551183",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spark gap tubes",
+    "harm": {
+      "id": "0012492",
+      "title": "551183 - Spark gap tubes",
+      "conceptLink": "/ec2/concept/5962895"
+    }
+  },
+  {
+    "uri": "en/9/153556106",
+    "id": "153556106",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spark gaps",
+    "harm": {
+      "id": "0012492",
+      "title": "153556106 - Spark gaps",
+      "conceptLink": "/ec2/concept/5962895"
+    }
+  },
+  {
+    "uri": "en/9/147655",
+    "id": "147655",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spark-guards",
+    "harm": {
+      "id": "0032211",
+      "title": "147655 - Spark-guards",
+      "conceptLink": "/ec2/concept/5980934"
+    }
+  },
+  {
+    "uri": "en/9/119530746",
+    "id": "119530746",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spark plug feeler gauges",
+    "harm": {
+      "id": "0051606",
+      "title": "119530746 - Spark plug feeler gauges",
+      "conceptLink": "/ec2/concept/6010592"
+    }
+  },
+  {
+    "uri": "en/9/119530747",
+    "id": "119530747",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spark plug gap gauges",
+    "harm": {
+      "id": "0051607",
+      "title": "119530747 - Spark plug gap gauges",
+      "conceptLink": "/ec2/concept/6010593"
+    }
+  },
+  {
+    "uri": "en/9/907316",
+    "id": "907316",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speaker enclosures",
+    "harm": {
+      "id": "0025714",
+      "title": "907316 - Speaker enclosures",
+      "conceptLink": "/ec2/concept/5974998"
+    }
+  },
+  {
+    "uri": "en/9/120874087",
+    "id": "120874087",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speaker mounting brackets",
+    "harm": {
+      "id": "0065796",
+      "title": "120874087 - Speaker mounting brackets",
+      "conceptLink": "/ec2/concept/6001999"
+    }
+  },
+  {
+    "uri": "en/9/551197",
+    "id": "551197",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speaker switches",
+    "harm": {
+      "id": "0018298",
+      "title": "551197 - Speaker switches",
+      "conceptLink": "/ec2/concept/5968205"
+    }
+  },
+  {
+    "uri": "en/9/150884",
+    "id": "150884",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakerphones",
+    "harm": {
+      "id": "0046927",
+      "title": "150884 - Speakerphones",
+      "conceptLink": "/ec2/concept/5994316"
+    }
+  },
+  {
+    "uri": "en/9/141265",
+    "id": "141265",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakers",
+    "harm": {
+      "id": "0012342",
+      "title": "141265 - Speakers",
+      "conceptLink": "/ec2/concept/5962760"
+    }
+  },
+  {
+    "uri": "en/9/551233",
+    "id": "551233",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakers [audio equipment]",
+    "harm": {
+      "id": "0012493",
+      "title": "551233 - Speakers [audio equipment]",
+      "conceptLink": "/ec2/concept/5962896"
+    }
+  },
+  {
+    "uri": "en/9/551209",
+    "id": "551209",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakers for computers",
+    "harm": {
+      "id": "0006692",
+      "title": "551209 - Speakers for computers",
+      "conceptLink": "/ec2/concept/5957583"
+    }
+  },
+  {
+    "uri": "en/9/120874095",
+    "id": "120874095",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakers for portable media players",
+    "harm": {
+      "id": "0065795",
+      "title": "120874095 - Speakers for portable media players",
+      "conceptLink": "/ec2/concept/6001998"
+    }
+  },
+  {
+    "uri": "en/9/551222",
+    "id": "551222",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speakers for record players",
+    "harm": {
+      "id": "0006693",
+      "title": "551222 - Speakers for record players",
+      "conceptLink": "/ec2/concept/5957584"
+    }
+  },
+  {
+    "uri": "en/9/138660",
+    "id": "138660",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Speaking tubes",
+    "harm": {
+      "id": "0036364",
+      "title": "138660 - Speaking tubes",
+      "conceptLink": "/ec2/concept/5984716"
+    }
+  },
+  {
+    "uri": "en/9/147728",
+    "id": "147728",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle cases",
+    "harm": {
+      "id": "0059049",
+      "title": "147728 - Spectacle cases",
+      "conceptLink": "/ec2/concept/6000540"
+    }
+  },
+  {
+    "uri": "en/9/142308",
+    "id": "142308",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle chains",
+    "harm": {
+      "id": "0035236",
+      "title": "142308 - Spectacle chains",
+      "conceptLink": "/ec2/concept/5983690"
+    }
+  },
+  {
+    "uri": "en/9/11601690",
+    "id": "11601690",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle cords",
+    "harm": {
+      "id": "0000547",
+      "title": "11601690 - Spectacle cords",
+      "conceptLink": "/ec2/concept/5951979"
+    }
+  },
+  {
+    "uri": "en/9/151424",
+    "id": "151424",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames",
+    "harm": {
+      "id": "0058857",
+      "title": "151424 - Spectacle frames",
+      "conceptLink": "/ec2/concept/6000348"
+    }
+  },
+  {
+    "uri": "en/9/1267731",
+    "id": "1267731",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of metal and of synthetic material",
+    "harm": {
+      "id": "0055861",
+      "title": "1267731 - Spectacle frames made of metal and of synthetic material",
+      "conceptLink": "/ec2/concept/5997239"
+    }
+  },
+  {
+    "uri": "en/9/81906475",
+    "id": "81906475",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of metal or a combination of metal and plastics",
+    "harm": {
+      "id": "0055862",
+      "title": "81906475 - Spectacle frames made of metal or a combination of metal and plastics",
+      "conceptLink": "/ec2/concept/5997240"
+    }
+  },
+  {
+    "uri": "en/9/81906497",
+    "id": "81906497",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of metal or of a combination of metal and plastic",
+    "harm": {
+      "id": "0055862",
+      "title": "81906497 - Spectacle frames made of metal or of a combination of metal and plastic",
+      "conceptLink": "/ec2/concept/5997240"
+    }
+  },
+  {
+    "uri": "en/9/120896813",
+    "id": "120896813",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of a combination of metal and plastics",
+    "harm": {
+      "id": "0065732",
+      "title": "120896813 - Spectacle frames made of a combination of metal and plastics",
+      "conceptLink": "/ec2/concept/6001935"
+    }
+  },
+  {
+    "uri": "en/9/120896900",
+    "id": "120896900",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of metal",
+    "harm": {
+      "id": "0065734",
+      "title": "120896900 - Spectacle frames made of metal",
+      "conceptLink": "/ec2/concept/6001937"
+    }
+  },
+  {
+    "uri": "en/9/120896896",
+    "id": "120896896",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle frames made of plastic",
+    "harm": {
+      "id": "0065733",
+      "title": "120896896 - Spectacle frames made of plastic",
+      "conceptLink": "/ec2/concept/6001936"
+    }
+  },
+  {
+    "uri": "en/9/150640",
+    "id": "150640",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle glasses",
+    "harm": {
+      "id": "0014014",
+      "title": "150640 - Spectacle glasses",
+      "conceptLink": "/ec2/concept/5964280"
+    }
+  },
+  {
+    "uri": "en/9/151422",
+    "id": "151422",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle holders",
+    "harm": {
+      "id": "0004518",
+      "title": "151422 - Spectacle holders",
+      "conceptLink": "/ec2/concept/5955587"
+    }
+  },
+  {
+    "uri": "en/9/150642",
+    "id": "150642",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Spectacle lenses",
+    "harm": {
+      "id": "0014014",
+      "title": "150642 - Spectacle lenses",
+      "conceptLink": "/ec2/concept/5964280"
+    }
+  }
+]

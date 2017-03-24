@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/43/475286",
+    "id": "475286",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Contract food services",
+    "harm": {
+      "id": "0010028",
+      "title": "475286 - Contract food services",
+      "conceptLink": "/ec2/concept/5960636"
+    }
+  },
+  {
+    "uri": "en/43/899954",
+    "id": "899954",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Cookery advice",
+    "harm": {
+      "id": "0039344",
+      "title": "899954 - Cookery advice",
+      "conceptLink": "/ec2/concept/5987427"
+    }
+  },
+  {
+    "uri": "en/43/475611",
+    "id": "475611",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Cooking apparatus (Rental of -)",
+    "harm": {
+      "id": "0032861",
+      "title": "475611 - Cooking apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5981526"
+    }
+  },
+  {
+    "uri": "en/43/478593",
+    "id": "478593",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Corporate hospitality (provision of food and drink)",
+    "harm": {
+      "id": "0030778",
+      "title": "478593 - Corporate hospitality (provision of food and drink)",
+      "conceptLink": "/ec2/concept/5979649"
+    }
+  },
+  {
+    "uri": "en/43/65916",
+    "id": "65916",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Creche services",
+    "harm": {
+      "id": "0037322",
+      "title": "65916 - Creche services",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/874781",
+    "id": "874781",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Creche services provided in shopping locations",
+    "harm": {
+      "id": "0046057",
+      "title": "874781 - Creche services provided in shopping locations",
+      "conceptLink": "/ec2/concept/5993571"
+    }
+  },
+  {
+    "uri": "en/43/137885731",
+    "id": "137885731",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day-care center services",
+    "harm": {
+      "id": "0071441",
+      "title": "137885731 - Day-care center services",
+      "conceptLink": "/ec2/concept/6007632"
+    }
+  },
+  {
+    "uri": "en/43/65913",
+    "id": "65913",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day care centers",
+    "harm": {
+      "id": "0037322",
+      "title": "65913 - Day care centers",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/65914",
+    "id": "65914",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day-nurseries",
+    "harm": {
+      "id": "0037322",
+      "title": "65914 - Day-nurseries",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/65911",
+    "id": "65911",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day-nurseries [crèches]",
+    "harm": {
+      "id": "0037322",
+      "title": "65911 - Day-nurseries [crèches]",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/137775368",
+    "id": "137775368",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day-nursery [crèche] services",
+    "harm": {
+      "id": "0037322",
+      "title": "137775368 - Day-nursery [crèche] services",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/65915",
+    "id": "65915",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Day nursery services",
+    "harm": {
+      "id": "0037322",
+      "title": "65915 - Day nursery services",
+      "conceptLink": "/ec2/concept/5985585"
+    }
+  },
+  {
+    "uri": "en/43/475305",
+    "id": "475305",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Delicatessens [restaurants]",
+    "harm": {
+      "id": "0021753",
+      "title": "475305 - Delicatessens [restaurants]",
+      "conceptLink": "/ec2/concept/5971360"
+    }
+  },
+  {
+    "uri": "en/43/132782038",
+    "id": "132782038",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Dog day care services",
+    "harm": {
+      "id": "0071443",
+      "title": "132782038 - Dog day care services",
+      "conceptLink": "/ec2/concept/6007634"
+    }
+  },
+  {
+    "uri": "en/43/903218",
+    "id": "903218",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Drink dispensing machines (rental of)",
+    "harm": {
+      "id": "0032453",
+      "title": "903218 - Drink dispensing machines (rental of)",
+      "conceptLink": "/ec2/concept/5981155"
+    }
+  },
+  {
+    "uri": "en/43/482112",
+    "id": "482112",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Electronic information services relating to hotels",
+    "harm": {
+      "id": "0005042",
+      "title": "482112 - Electronic information services relating to hotels",
+      "conceptLink": "/ec2/concept/5956075"
+    }
+  },
+  {
+    "uri": "en/43/475320",
+    "id": "475320",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Emergency shelter services [providing temporary housing]",
+    "harm": {
+      "id": "0021754",
+      "title": "475320 - Emergency shelter services [providing temporary housing]",
+      "conceptLink": "/ec2/concept/5971361"
+    }
+  },
+  {
+    "uri": "en/43/131141742",
+    "id": "131141742",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Event facilities and temporary office and meeting facilities",
+    "harm": {
+      "id": "0048043",
+      "title": "131141742 - Event facilities and temporary office and meeting facilities",
+      "conceptLink": "/ec2/concept/5995302"
+    }
+  },
+  {
+    "uri": "en/43/1288211",
+    "id": "1288211",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food and drink catering",
+    "harm": {
+      "id": "0058066",
+      "title": "1288211 - Food and drink catering",
+      "conceptLink": "/ec2/concept/5999567"
+    }
+  },
+  {
+    "uri": "en/43/120888525",
+    "id": "120888525",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food and drink catering for institutions",
+    "harm": {
+      "id": "0069493",
+      "title": "120888525 - Food and drink catering for institutions",
+      "conceptLink": "/ec2/concept/6005696"
+    }
+  },
+  {
+    "uri": "en/43/120888665",
+    "id": "120888665",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food and drink catering for banquets",
+    "harm": {
+      "id": "0069479",
+      "title": "120888665 - Food and drink catering for banquets",
+      "conceptLink": "/ec2/concept/6005682"
+    }
+  },
+  {
+    "uri": "en/43/120888686",
+    "id": "120888686",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food and drink catering for cocktail parties",
+    "harm": {
+      "id": "0069478",
+      "title": "120888686 - Food and drink catering for cocktail parties",
+      "conceptLink": "/ec2/concept/6005681"
+    }
+  },
+  {
+    "uri": "en/43/475358",
+    "id": "475358",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food preparation",
+    "harm": {
+      "id": "0057178",
+      "title": "475358 - Food preparation",
+      "conceptLink": "/ec2/concept/5998805"
+    }
+  },
+  {
+    "uri": "en/43/137749368",
+    "id": "137749368",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food preparation for others on an outsourcing basis",
+    "harm": {
+      "id": "0071444",
+      "title": "137749368 - Food preparation for others on an outsourcing basis",
+      "conceptLink": "/ec2/concept/6007635"
+    }
+  },
+  {
+    "uri": "en/43/475386",
+    "id": "475386",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food preparation services",
+    "harm": {
+      "id": "0057178",
+      "title": "475386 - Food preparation services",
+      "conceptLink": "/ec2/concept/5998805"
+    }
+  },
+  {
+    "uri": "en/43/135623925",
+    "id": "135623925",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food sculpting",
+    "harm": {
+      "id": "0050058",
+      "title": "135623925 - Food sculpting",
+      "conceptLink": "/ec2/concept/5995467"
+    }
+  },
+  {
+    "uri": "en/43/124710109",
+    "id": "124710109",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Food service apparatus (Rental of -)",
+    "harm": {
+      "id": "0032861",
+      "title": "124710109 - Food service apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5981526"
+    }
+  },
+  {
+    "uri": "en/43/874792",
+    "id": "874792",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Grill restaurants",
+    "harm": {
+      "id": "0040338",
+      "title": "874792 - Grill restaurants",
+      "conceptLink": "/ec2/concept/5988342"
+    }
+  },
+  {
+    "uri": "en/43/82629146",
+    "id": "82629146",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Guest house services",
+    "harm": {
+      "id": "0059300",
+      "title": "82629146 - Guest house services",
+      "conceptLink": "/ec2/concept/6000782"
+    }
+  },
+  {
+    "uri": "en/43/65773",
+    "id": "65773",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Guest houses",
+    "harm": {
+      "id": "0059300",
+      "title": "65773 - Guest houses",
+      "conceptLink": "/ec2/concept/6000782"
+    }
+  },
+  {
+    "uri": "en/43/65772",
+    "id": "65772",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Guesthouse",
+    "harm": {
+      "id": "0059300",
+      "title": "65772 - Guesthouse",
+      "conceptLink": "/ec2/concept/6000782"
+    }
+  },
+  {
+    "uri": "en/43/38856396",
+    "id": "38856396",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Guesthouses",
+    "harm": {
+      "id": "0059300",
+      "title": "38856396 - Guesthouses",
+      "conceptLink": "/ec2/concept/6000782"
+    }
+  },
+  {
+    "uri": "en/43/874809",
+    "id": "874809",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of bed linen",
+    "harm": {
+      "id": "0018521",
+      "title": "874809 - Hire of bed linen",
+      "conceptLink": "/ec2/concept/5968415"
+    }
+  },
+  {
+    "uri": "en/43/874839",
+    "id": "874839",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of interior chairs",
+    "harm": {
+      "id": "0034551",
+      "title": "874839 - Hire of interior chairs",
+      "conceptLink": "/ec2/concept/5983076"
+    }
+  },
+  {
+    "uri": "en/43/874852",
+    "id": "874852",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of interior lighting",
+    "harm": {
+      "id": "0046058",
+      "title": "874852 - Hire of interior lighting",
+      "conceptLink": "/ec2/concept/5993572"
+    }
+  },
+  {
+    "uri": "en/43/874865",
+    "id": "874865",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of interior matting",
+    "harm": {
+      "id": "0040339",
+      "title": "874865 - Hire of interior matting",
+      "conceptLink": "/ec2/concept/5988343"
+    }
+  },
+  {
+    "uri": "en/43/874877",
+    "id": "874877",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of interior tables",
+    "harm": {
+      "id": "0040340",
+      "title": "874877 - Hire of interior tables",
+      "conceptLink": "/ec2/concept/5988344"
+    }
+  },
+  {
+    "uri": "en/43/66673",
+    "id": "66673",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of marquees",
+    "harm": {
+      "id": "0041161",
+      "title": "66673 - Hire of marquees",
+      "conceptLink": "/ec2/concept/5989089"
+    }
+  },
+  {
+    "uri": "en/43/874890",
+    "id": "874890",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of pavilions",
+    "harm": {
+      "id": "0004458",
+      "title": "874890 - Hire of pavilions",
+      "conceptLink": "/ec2/concept/5955531"
+    }
+  },
+  {
+    "uri": "en/43/874902",
+    "id": "874902",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hire of temporary office space",
+    "harm": {
+      "id": "0004459",
+      "title": "874902 - Hire of temporary office space",
+      "conceptLink": "/ec2/concept/5955532"
+    }
+  },
+  {
+    "uri": "en/43/874923",
+    "id": "874923",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of furniture",
+    "harm": {
+      "id": "0025515",
+      "title": "874923 - Hiring of furniture",
+      "conceptLink": "/ec2/concept/5974820"
+    }
+  },
+  {
+    "uri": "en/43/874960",
+    "id": "874960",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of furniture for conferences",
+    "harm": {
+      "id": "0033291",
+      "title": "874960 - Hiring of furniture for conferences",
+      "conceptLink": "/ec2/concept/5981922"
+    }
+  },
+  {
+    "uri": "en/43/874973",
+    "id": "874973",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of furniture for exhibitions",
+    "harm": {
+      "id": "0015979",
+      "title": "874973 - Hiring of furniture for exhibitions",
+      "conceptLink": "/ec2/concept/5966099"
+    }
+  },
+  {
+    "uri": "en/43/874986",
+    "id": "874986",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of furniture for presentations",
+    "harm": {
+      "id": "0033292",
+      "title": "874986 - Hiring of furniture for presentations",
+      "conceptLink": "/ec2/concept/5981923"
+    }
+  },
+  {
+    "uri": "en/43/874998",
+    "id": "874998",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of mats",
+    "harm": {
+      "id": "0015980",
+      "title": "874998 - Hiring of mats",
+      "conceptLink": "/ec2/concept/5966100"
+    }
+  },
+  {
+    "uri": "en/43/875009",
+    "id": "875009",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hiring of rooms for social functions",
+    "harm": {
+      "id": "0021904",
+      "title": "875009 - Hiring of rooms for social functions",
+      "conceptLink": "/ec2/concept/5971503"
+    }
+  },
+  {
+    "uri": "en/43/475441",
+    "id": "475441",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Holiday accommodation services",
+    "harm": {
+      "id": "0034081",
+      "title": "475441 - Holiday accommodation services",
+      "conceptLink": "/ec2/concept/5982647"
+    }
+  },
+  {
+    "uri": "en/43/66391",
+    "id": "66391",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Holiday camp services [lodging]",
+    "harm": {
+      "id": "0030518",
+      "title": "66391 - Holiday camp services [lodging]",
+      "conceptLink": "/ec2/concept/5979405"
+    }
+  },
+  {
+    "uri": "en/43/486089",
+    "id": "486089",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Holiday lodgings",
+    "harm": {
+      "id": "0033293",
+      "title": "486089 - Holiday lodgings",
+      "conceptLink": "/ec2/concept/5981924"
+    }
+  },
+  {
+    "uri": "en/43/65509",
+    "id": "65509",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Homes for the elderly [retirement]",
+    "harm": {
+      "id": "0006443",
+      "title": "65509 - Homes for the elderly [retirement]",
+      "conceptLink": "/ec2/concept/5957353"
+    }
+  },
+  {
+    "uri": "en/43/65507",
+    "id": "65507",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Homes (Retirement -)",
+    "harm": {
+      "id": "0006443",
+      "title": "65507 - Homes (Retirement -)",
+      "conceptLink": "/ec2/concept/5957353"
+    }
+  },
+  {
+    "uri": "en/43/65815",
+    "id": "65815",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Homes (Tourist -)",
+    "harm": {
+      "id": "0001140",
+      "title": "65815 - Homes (Tourist -)",
+      "conceptLink": "/ec2/concept/5952513"
+    }
+  },
+  {
+    "uri": "en/43/136073619",
+    "id": "136073619",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hookah bar services",
+    "harm": {
+      "id": "0050468",
+      "title": "136073619 - Hookah bar services",
+      "conceptLink": "/ec2/concept/5995674"
+    }
+  },
+  {
+    "uri": "en/43/875023",
+    "id": "875023",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hospitality services [accommodation]",
+    "harm": {
+      "id": "0010155",
+      "title": "875023 - Hospitality services [accommodation]",
+      "conceptLink": "/ec2/concept/5960749"
+    }
+  },
+  {
+    "uri": "en/43/875036",
+    "id": "875036",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hospitality services [food and drink]",
+    "harm": {
+      "id": "0027523",
+      "title": "875036 - Hospitality services [food and drink]",
+      "conceptLink": "/ec2/concept/5976642"
+    }
+  },
+  {
+    "uri": "en/43/475460",
+    "id": "475460",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hostels",
+    "harm": {
+      "id": "0010991",
+      "title": "475460 - Hostels",
+      "conceptLink": "/ec2/concept/5961516"
+    }
+  },
+  {
+    "uri": "en/43/32377912",
+    "id": "32377912",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel accommodation reservation services",
+    "harm": {
+      "id": "0059393",
+      "title": "32377912 - Hotel accommodation reservation services",
+      "conceptLink": "/ec2/concept/6000873"
+    }
+  },
+  {
+    "uri": "en/43/904398",
+    "id": "904398",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel accommodation services",
+    "harm": {
+      "id": "0002111",
+      "title": "904398 - Hotel accommodation services",
+      "conceptLink": "/ec2/concept/5953387"
+    }
+  },
+  {
+    "uri": "en/43/875050",
+    "id": "875050",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel catering services",
+    "harm": {
+      "id": "0011474",
+      "title": "875050 - Hotel catering services",
+      "conceptLink": "/ec2/concept/5961954"
+    }
+  },
+  {
+    "uri": "en/43/475483",
+    "id": "475483",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel information",
+    "harm": {
+      "id": "0034082",
+      "title": "475483 - Hotel information",
+      "conceptLink": "/ec2/concept/5982648"
+    }
+  },
+  {
+    "uri": "en/43/66106",
+    "id": "66106",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel reservation services",
+    "harm": {
+      "id": "0059394",
+      "title": "66106 - Hotel reservation services",
+      "conceptLink": "/ec2/concept/6000874"
+    }
+  },
+  {
+    "uri": "en/43/120888458",
+    "id": "120888458",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel reservation services provided via the Internet",
+    "harm": {
+      "id": "0069516",
+      "title": "120888458 - Hotel reservation services provided via the Internet",
+      "conceptLink": "/ec2/concept/6005719"
+    }
+  },
+  {
+    "uri": "en/43/66105",
+    "id": "66105",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel reservations",
+    "harm": {
+      "id": "0059394",
+      "title": "66105 - Hotel reservations",
+      "conceptLink": "/ec2/concept/6000874"
+    }
+  },
+  {
+    "uri": "en/43/875068",
+    "id": "875068",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel restaurant services",
+    "harm": {
+      "id": "0005757",
+      "title": "875068 - Hotel restaurant services",
+      "conceptLink": "/ec2/concept/5956728"
+    }
+  },
+  {
+    "uri": "en/43/875092",
+    "id": "875092",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel room booking services",
+    "harm": {
+      "id": "0059393",
+      "title": "875092 - Hotel room booking services",
+      "conceptLink": "/ec2/concept/6000873"
+    }
+  },
+  {
+    "uri": "en/43/65861",
+    "id": "65861",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel services",
+    "harm": {
+      "id": "0008321",
+      "title": "65861 - Hotel services",
+      "conceptLink": "/ec2/concept/5959069"
+    }
+  },
+  {
+    "uri": "en/43/14812215",
+    "id": "14812215",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotel services for preferred customers",
+    "harm": {
+      "id": "0069499",
+      "title": "14812215 - Hotel services for preferred customers",
+      "conceptLink": "/ec2/concept/6005702"
+    }
+  },
+  {
+    "uri": "en/43/65860",
+    "id": "65860",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotels",
+    "harm": {
+      "id": "0008321",
+      "title": "65860 - Hotels",
+      "conceptLink": "/ec2/concept/5959069"
+    }
+  },
+  {
+    "uri": "en/43/5873153",
+    "id": "5873153",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotels and motels",
+    "harm": {
+      "id": "0069521",
+      "title": "5873153 - Hotels and motels",
+      "conceptLink": "/ec2/concept/6005724"
+    }
+  },
+  {
+    "uri": "en/43/131141696",
+    "id": "131141696",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Hotels, hostels and boarding houses, holiday and tourist accommodation",
+    "harm": {
+      "id": "0048045",
+      "title": "131141696 - Hotels, hostels and boarding houses, holiday and tourist accommodation",
+      "conceptLink": "/ec2/concept/5995304"
+    }
+  },
+  {
+    "uri": "en/43/65770",
+    "id": "65770",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Houses (Boarding -)",
+    "harm": {
+      "id": "0059299",
+      "title": "65770 - Houses (Boarding -)",
+      "conceptLink": "/ec2/concept/6000781"
+    }
+  },
+  {
+    "uri": "en/43/114892162",
+    "id": "114892162",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Ice cream parlors",
+    "harm": {
+      "id": "0011475",
+      "title": "114892162 - Ice cream parlors",
+      "conceptLink": "/ec2/concept/5961955"
+    }
+  },
+  {
+    "uri": "en/43/875111",
+    "id": "875111",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Ice cream parlour services",
+    "harm": {
+      "id": "0011475",
+      "title": "875111 - Ice cream parlour services",
+      "conceptLink": "/ec2/concept/5961955"
+    }
+  },
+  {
+    "uri": "en/43/475482",
+    "id": "475482",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Information relating to hotels",
+    "harm": {
+      "id": "0034082",
+      "title": "475482 - Information relating to hotels",
+      "conceptLink": "/ec2/concept/5982648"
+    }
+  },
+  {
+    "uri": "en/43/103128817",
+    "id": "103128817",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Japanese restaurant services",
+    "harm": {
+      "id": "0069459",
+      "title": "103128817 - Japanese restaurant services",
+      "conceptLink": "/ec2/concept/6005662"
+    }
+  },
+  {
+    "uri": "en/43/10051874",
+    "id": "10051874",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Juice bars",
+    "harm": {
+      "id": "0069520",
+      "title": "10051874 - Juice bars",
+      "conceptLink": "/ec2/concept/6005723"
+    }
+  },
+  {
+    "uri": "en/43/874924",
+    "id": "874924",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Leasing of furniture",
+    "harm": {
+      "id": "0025515",
+      "title": "874924 - Leasing of furniture",
+      "conceptLink": "/ec2/concept/5974820"
+    }
+  },
+  {
+    "uri": "en/43/120820536",
+    "id": "120820536",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Leasing of metal and non-metal transportable buildings",
+    "harm": {
+      "id": "0069532",
+      "title": "120820536 - Leasing of metal and non-metal transportable buildings",
+      "conceptLink": "/ec2/concept/6005735"
+    }
+  },
+  {
+    "uri": "en/43/486090",
+    "id": "486090",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Letting of holiday accommodation",
+    "harm": {
+      "id": "0033293",
+      "title": "486090 - Letting of holiday accommodation",
+      "conceptLink": "/ec2/concept/5981924"
+    }
+  },
+  {
+    "uri": "en/43/874810",
+    "id": "874810",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Linen hire",
+    "harm": {
+      "id": "0018521",
+      "title": "874810 - Linen hire",
+      "conceptLink": "/ec2/concept/5968415"
+    }
+  },
+  {
+    "uri": "en/43/124709733",
+    "id": "124709733",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Lounge services (Cocktail -)",
+    "harm": {
+      "id": "0021752",
+      "title": "124709733 - Lounge services (Cocktail -)",
+      "conceptLink": "/ec2/concept/5971359"
+    }
+  },
+  {
+    "uri": "en/43/475512",
+    "id": "475512",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Making hotel reservations for others",
+    "harm": {
+      "id": "0045596",
+      "title": "475512 - Making hotel reservations for others",
+      "conceptLink": "/ec2/concept/5993142"
+    }
+  },
+  {
+    "uri": "en/43/475884",
+    "id": "475884",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Making reservations and bookings for restaurants and meals",
+    "harm": {
+      "id": "0004971",
+      "title": "475884 - Making reservations and bookings for restaurants and meals",
+      "conceptLink": "/ec2/concept/5956012"
+    }
+  },
+  {
+    "uri": "en/43/66672",
+    "id": "66672",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Marquee hire",
+    "harm": {
+      "id": "0041161",
+      "title": "66672 - Marquee hire",
+      "conceptLink": "/ec2/concept/5989089"
+    }
+  },
+  {
+    "uri": "en/43/124347986",
+    "id": "124347986",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Marquees (Rental of -)",
+    "harm": {
+      "id": "0041161",
+      "title": "124347986 - Marquees (Rental of -)",
+      "conceptLink": "/ec2/concept/5989089"
+    }
+  },
+  {
+    "uri": "en/43/875125",
+    "id": "875125",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Mobile catering services",
+    "harm": {
+      "id": "0000653",
+      "title": "875125 - Mobile catering services",
+      "conceptLink": "/ec2/concept/5952077"
+    }
+  },
+  {
+    "uri": "en/43/875138",
+    "id": "875138",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Mobile creches",
+    "harm": {
+      "id": "0035374",
+      "title": "875138 - Mobile creches",
+      "conceptLink": "/ec2/concept/5983818"
+    }
+  },
+  {
+    "uri": "en/43/88541717",
+    "id": "88541717",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Mobile restaurant services",
+    "harm": {
+      "id": "0056726",
+      "title": "88541717 - Mobile restaurant services",
+      "conceptLink": "/ec2/concept/5998012"
+    }
+  },
+  {
+    "uri": "en/43/3253003",
+    "id": "3253003",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Motel services",
+    "harm": {
+      "id": "0007353",
+      "title": "3253003 - Motel services",
+      "conceptLink": "/ec2/concept/5958189"
+    }
+  },
+  {
+    "uri": "en/43/66602",
+    "id": "66602",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Motels",
+    "harm": {
+      "id": "0007353",
+      "title": "66602 - Motels",
+      "conceptLink": "/ec2/concept/5958189"
+    }
+  },
+  {
+    "uri": "en/43/875150",
+    "id": "875150",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Night club services [provision of food]",
+    "harm": {
+      "id": "0029581",
+      "title": "875150 - Night club services [provision of food]",
+      "conceptLink": "/ec2/concept/5978541"
+    }
+  },
+  {
+    "uri": "en/43/132782078",
+    "id": "132782078",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Nurseries and day care centers",
+    "harm": {
+      "id": "0071445",
+      "title": "132782078 - Nurseries and day care centers",
+      "conceptLink": "/ec2/concept/6007636"
+    }
+  },
+  {
+    "uri": "en/43/131141719",
+    "id": "131141719",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Nurseries, day-care and elderly care facilities",
+    "harm": {
+      "id": "0048044",
+      "title": "131141719 - Nurseries, day-care and elderly care facilities",
+      "conceptLink": "/ec2/concept/5995303"
+    }
+  },
+  {
+    "uri": "en/43/137544585",
+    "id": "137544585",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Office catering services for the provision of coffee",
+    "harm": {
+      "id": "0056725",
+      "title": "137544585 - Office catering services for the provision of coffee",
+      "conceptLink": "/ec2/concept/5998011"
+    }
+  },
+  {
+    "uri": "en/43/65510",
+    "id": "65510",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Old people's home services",
+    "harm": {
+      "id": "0006443",
+      "title": "65510 - Old people's home services",
+      "conceptLink": "/ec2/concept/5957353"
+    }
+  },
+  {
+    "uri": "en/43/136860811",
+    "id": "136860811",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Operating membership accommodation",
+    "harm": {
+      "id": "0056905",
+      "title": "136860811 - Operating membership accommodation",
+      "conceptLink": "/ec2/concept/5998176"
+    }
+  },
+  {
+    "uri": "en/43/138349544",
+    "id": "138349544",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Organisation of catering for birthday parties",
+    "harm": {
+      "id": "0070105",
+      "title": "138349544 - Organisation of catering for birthday parties",
+      "conceptLink": "/ec2/concept/6006307"
+    }
+  },
+  {
+    "uri": "en/43/1307591",
+    "id": "1307591",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Outside catering",
+    "harm": {
+      "id": "0056727",
+      "title": "1307591 - Outside catering",
+      "conceptLink": "/ec2/concept/5998013"
+    }
+  },
+  {
+    "uri": "en/43/9572239",
+    "id": "9572239",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Outside catering services",
+    "harm": {
+      "id": "0056727",
+      "title": "9572239 - Outside catering services",
+      "conceptLink": "/ec2/concept/5998013"
+    }
+  },
+  {
+    "uri": "en/43/477306",
+    "id": "477306",
+    "lang": "en",
+    "classNumber": "43",
+    "term": "Personal chef services",
+    "harm": {
+      "id": "0013840",
+      "title": "477306 - Personal chef services",
+      "conceptLink": "/ec2/concept/5964121"
+    }
+  }
+]

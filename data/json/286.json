@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/713904",
+    "id": "713904",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical infusion pumps",
+    "harm": {
+      "id": "0028280",
+      "title": "713904 - Medical infusion pumps",
+      "conceptLink": "/ec2/concept/5977341"
+    }
+  },
+  {
+    "uri": "en/10/713919",
+    "id": "713919",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical inhalers",
+    "harm": {
+      "id": "0002820",
+      "title": "713919 - Medical inhalers",
+      "conceptLink": "/ec2/concept/5954027"
+    }
+  },
+  {
+    "uri": "en/10/136010957",
+    "id": "136010957",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instrument cabinets",
+    "harm": {
+      "id": "0055145",
+      "title": "136010957 - Medical instrument cabinets",
+      "conceptLink": "/ec2/concept/5996584"
+    }
+  },
+  {
+    "uri": "en/10/136010958",
+    "id": "136010958",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instrument stands",
+    "harm": {
+      "id": "0055146",
+      "title": "136010958 - Medical instrument stands",
+      "conceptLink": "/ec2/concept/5996585"
+    }
+  },
+  {
+    "uri": "en/10/136010959",
+    "id": "136010959",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instrument tables",
+    "harm": {
+      "id": "0055147",
+      "title": "136010959 - Medical instrument tables",
+      "conceptLink": "/ec2/concept/5996586"
+    }
+  },
+  {
+    "uri": "en/10/713935",
+    "id": "713935",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments",
+    "harm": {
+      "id": "0009950",
+      "title": "713935 - Medical instruments",
+      "conceptLink": "/ec2/concept/5960562"
+    }
+  },
+  {
+    "uri": "en/10/713958",
+    "id": "713958",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for application on animal bodies",
+    "harm": {
+      "id": "0021671",
+      "title": "713958 - Medical instruments for application on animal bodies",
+      "conceptLink": "/ec2/concept/5971284"
+    }
+  },
+  {
+    "uri": "en/10/713957",
+    "id": "713957",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for application in animal bodies",
+    "harm": {
+      "id": "0021671",
+      "title": "713957 - Medical instruments for application in animal bodies",
+      "conceptLink": "/ec2/concept/5971284"
+    }
+  },
+  {
+    "uri": "en/10/713979",
+    "id": "713979",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for application on human bodies",
+    "harm": {
+      "id": "0038854",
+      "title": "713979 - Medical instruments for application on human bodies",
+      "conceptLink": "/ec2/concept/5986978"
+    }
+  },
+  {
+    "uri": "en/10/713980",
+    "id": "713980",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for application in human bodies",
+    "harm": {
+      "id": "0038854",
+      "title": "713980 - Medical instruments for application in human bodies",
+      "conceptLink": "/ec2/concept/5986978"
+    }
+  },
+  {
+    "uri": "en/10/334676",
+    "id": "334676",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for cutting tissue",
+    "harm": {
+      "id": "0024578",
+      "title": "334676 - Medical instruments for cutting tissue",
+      "conceptLink": "/ec2/concept/5973957"
+    }
+  },
+  {
+    "uri": "en/10/713998",
+    "id": "713998",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for drug abuse testing",
+    "harm": {
+      "id": "0038855",
+      "title": "713998 - Medical instruments for drug abuse testing",
+      "conceptLink": "/ec2/concept/5986979"
+    }
+  },
+  {
+    "uri": "en/10/714010",
+    "id": "714010",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for infectious disease testing",
+    "harm": {
+      "id": "0015774",
+      "title": "714010 - Medical instruments for infectious disease testing",
+      "conceptLink": "/ec2/concept/5965904"
+    }
+  },
+  {
+    "uri": "en/10/334691",
+    "id": "334691",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for interstitial thermotherapy of biological tissue",
+    "harm": {
+      "id": "0001428",
+      "title": "334691 - Medical instruments for interstitial thermotherapy of biological tissue",
+      "conceptLink": "/ec2/concept/5952774"
+    }
+  },
+  {
+    "uri": "en/10/905172",
+    "id": "905172",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for percutaneous tracheostomy",
+    "harm": {
+      "id": "0017211",
+      "title": "905172 - Medical instruments for percutaneous tracheostomy",
+      "conceptLink": "/ec2/concept/5967214"
+    }
+  },
+  {
+    "uri": "en/10/714024",
+    "id": "714024",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for recording physiological data",
+    "harm": {
+      "id": "0021672",
+      "title": "714024 - Medical instruments for recording physiological data",
+      "conceptLink": "/ec2/concept/5971285"
+    }
+  },
+  {
+    "uri": "en/10/714037",
+    "id": "714037",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for reproducing physiological data",
+    "harm": {
+      "id": "0015775",
+      "title": "714037 - Medical instruments for reproducing physiological data",
+      "conceptLink": "/ec2/concept/5965905"
+    }
+  },
+  {
+    "uri": "en/10/119531947",
+    "id": "119531947",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for recording heart activity",
+    "harm": {
+      "id": "0066137",
+      "title": "119531947 - Medical instruments for recording heart activity",
+      "conceptLink": "/ec2/concept/6002340"
+    }
+  },
+  {
+    "uri": "en/10/714049",
+    "id": "714049",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for the removal of warts by freezing",
+    "harm": {
+      "id": "0009951",
+      "title": "714049 - Medical instruments for the removal of warts by freezing",
+      "conceptLink": "/ec2/concept/5960563"
+    }
+  },
+  {
+    "uri": "en/10/714064",
+    "id": "714064",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for therapeutic drug monitoring",
+    "harm": {
+      "id": "0027312",
+      "title": "714064 - Medical instruments for therapeutic drug monitoring",
+      "conceptLink": "/ec2/concept/5976446"
+    }
+  },
+  {
+    "uri": "en/10/714076",
+    "id": "714076",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for use as aids to hearing",
+    "harm": {
+      "id": "0015776",
+      "title": "714076 - Medical instruments for use as aids to hearing",
+      "conceptLink": "/ec2/concept/5965906"
+    }
+  },
+  {
+    "uri": "en/10/714091",
+    "id": "714091",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments for use in relation to hearing",
+    "harm": {
+      "id": "0038856",
+      "title": "714091 - Medical instruments for use in relation to hearing",
+      "conceptLink": "/ec2/concept/5986980"
+    }
+  },
+  {
+    "uri": "en/10/714106",
+    "id": "714106",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical instruments incorporating lasers",
+    "harm": {
+      "id": "0022614",
+      "title": "714106 - Medical instruments incorporating lasers",
+      "conceptLink": "/ec2/concept/5972151"
+    }
+  },
+  {
+    "uri": "en/10/120871558",
+    "id": "120871558",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical knee braces",
+    "harm": {
+      "id": "0066171",
+      "title": "120871558 - Medical knee braces",
+      "conceptLink": "/ec2/concept/6002374"
+    }
+  },
+  {
+    "uri": "en/10/714121",
+    "id": "714121",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical knives",
+    "harm": {
+      "id": "0022109",
+      "title": "714121 - Medical knives",
+      "conceptLink": "/ec2/concept/5971695"
+    }
+  },
+  {
+    "uri": "en/10/404779",
+    "id": "404779",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical lasers",
+    "harm": {
+      "id": "0042995",
+      "title": "404779 - Medical lasers",
+      "conceptLink": "/ec2/concept/5990758"
+    }
+  },
+  {
+    "uri": "en/10/169527",
+    "id": "169527",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical masks",
+    "harm": {
+      "id": "0012171",
+      "title": "169527 - Medical masks",
+      "conceptLink": "/ec2/concept/5962604"
+    }
+  },
+  {
+    "uri": "en/10/97218583",
+    "id": "97218583",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical operating lamps",
+    "harm": {
+      "id": "0055919",
+      "title": "97218583 - Medical operating lamps",
+      "conceptLink": "/ec2/concept/5997293"
+    }
+  },
+  {
+    "uri": "en/10/404798",
+    "id": "404798",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical patient treatment chairs",
+    "harm": {
+      "id": "0017915",
+      "title": "404798 - Medical patient treatment chairs",
+      "conceptLink": "/ec2/concept/5967853"
+    }
+  },
+  {
+    "uri": "en/10/232029220",
+    "id": "232029220",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical portable epilators",
+    "harm": {
+      "id": "0071233",
+      "title": "232029220 - Medical portable epilators",
+      "conceptLink": "/ec2/concept/6007425"
+    }
+  },
+  {
+    "uri": "en/10/714135",
+    "id": "714135",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical pressure chambers",
+    "harm": {
+      "id": "0005196",
+      "title": "714135 - Medical pressure chambers",
+      "conceptLink": "/ec2/concept/5956212"
+    }
+  },
+  {
+    "uri": "en/10/165479",
+    "id": "165479",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical probes",
+    "harm": {
+      "id": "0002327",
+      "title": "165479 - Medical probes",
+      "conceptLink": "/ec2/concept/5953582"
+    }
+  },
+  {
+    "uri": "en/10/132757233",
+    "id": "132757233",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical procedure chairs",
+    "harm": {
+      "id": "0055920",
+      "title": "132757233 - Medical procedure chairs",
+      "conceptLink": "/ec2/concept/5997294"
+    }
+  },
+  {
+    "uri": "en/10/132757234",
+    "id": "132757234",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical procedure tables",
+    "harm": {
+      "id": "0055921",
+      "title": "132757234 - Medical procedure tables",
+      "conceptLink": "/ec2/concept/5997295"
+    }
+  },
+  {
+    "uri": "en/10/714147",
+    "id": "714147",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical prostheses",
+    "harm": {
+      "id": "0034028",
+      "title": "714147 - Medical prostheses",
+      "conceptLink": "/ec2/concept/5982597"
+    }
+  },
+  {
+    "uri": "en/10/714164",
+    "id": "714164",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical pulse pressure transducers",
+    "harm": {
+      "id": "0010939",
+      "title": "714164 - Medical pulse pressure transducers",
+      "conceptLink": "/ec2/concept/5961468"
+    }
+  },
+  {
+    "uri": "en/10/165516",
+    "id": "165516",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical pumps",
+    "harm": {
+      "id": "0031906",
+      "title": "165516 - Medical pumps",
+      "conceptLink": "/ec2/concept/5980656"
+    }
+  },
+  {
+    "uri": "en/10/885122",
+    "id": "885122",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical radiation apparatus",
+    "harm": {
+      "id": "0022713",
+      "title": "885122 - Medical radiation apparatus",
+      "conceptLink": "/ec2/concept/5972245"
+    }
+  },
+  {
+    "uri": "en/10/905174",
+    "id": "905174",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical scissors",
+    "harm": {
+      "id": "0034521",
+      "title": "905174 - Medical scissors",
+      "conceptLink": "/ec2/concept/5983048"
+    }
+  },
+  {
+    "uri": "en/10/334706",
+    "id": "334706",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical screw connections",
+    "harm": {
+      "id": "0030329",
+      "title": "334706 - Medical screw connections",
+      "conceptLink": "/ec2/concept/5979228"
+    }
+  },
+  {
+    "uri": "en/10/404811",
+    "id": "404811",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical skin abraders",
+    "harm": {
+      "id": "0029449",
+      "title": "404811 - Medical skin abraders",
+      "conceptLink": "/ec2/concept/5978414"
+    }
+  },
+  {
+    "uri": "en/10/136147268",
+    "id": "136147268",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical skin enhancement apparatus using lasers",
+    "harm": {
+      "id": "0050535",
+      "title": "136147268 - Medical skin enhancement apparatus using lasers",
+      "conceptLink": "/ec2/concept/5995904"
+    }
+  },
+  {
+    "uri": "en/10/714182",
+    "id": "714182",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical spatulas",
+    "harm": {
+      "id": "0027115",
+      "title": "714182 - Medical spatulas",
+      "conceptLink": "/ec2/concept/5976261"
+    }
+  },
+  {
+    "uri": "en/10/404824",
+    "id": "404824",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical specimen cups",
+    "harm": {
+      "id": "0023734",
+      "title": "404824 - Medical specimen cups",
+      "conceptLink": "/ec2/concept/5973177"
+    }
+  },
+  {
+    "uri": "en/10/404837",
+    "id": "404837",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical spittoons",
+    "harm": {
+      "id": "0042175",
+      "title": "404837 - Medical spittoons",
+      "conceptLink": "/ec2/concept/5990019"
+    }
+  },
+  {
+    "uri": "en/10/905179",
+    "id": "905179",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical stents",
+    "harm": {
+      "id": "0023081",
+      "title": "905179 - Medical stents",
+      "conceptLink": "/ec2/concept/5972574"
+    }
+  },
+  {
+    "uri": "en/10/714204",
+    "id": "714204",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical stethoscopes",
+    "harm": {
+      "id": "0022615",
+      "title": "714204 - Medical stethoscopes",
+      "conceptLink": "/ec2/concept/5972152"
+    }
+  },
+  {
+    "uri": "en/10/714218",
+    "id": "714218",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical stockings with decreasing compression",
+    "harm": {
+      "id": "0034029",
+      "title": "714218 - Medical stockings with decreasing compression",
+      "conceptLink": "/ec2/concept/5982598"
+    }
+  },
+  {
+    "uri": "en/10/404849",
+    "id": "404849",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical stretchers",
+    "harm": {
+      "id": "0016765",
+      "title": "404849 - Medical stretchers",
+      "conceptLink": "/ec2/concept/5966815"
+    }
+  },
+  {
+    "uri": "en/10/714230",
+    "id": "714230",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical support hosiery",
+    "harm": {
+      "id": "0010940",
+      "title": "714230 - Medical support hosiery",
+      "conceptLink": "/ec2/concept/5961469"
+    }
+  },
+  {
+    "uri": "en/10/120894729",
+    "id": "120894729",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical support tights",
+    "harm": {
+      "id": "0066106",
+      "title": "120894729 - Medical support tights",
+      "conceptLink": "/ec2/concept/6002309"
+    }
+  },
+  {
+    "uri": "en/10/714245",
+    "id": "714245",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical supports for the body",
+    "harm": {
+      "id": "0040516",
+      "title": "714245 - Medical supports for the body",
+      "conceptLink": "/ec2/concept/5988501"
+    }
+  },
+  {
+    "uri": "en/10/714260",
+    "id": "714260",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical syringe needles",
+    "harm": {
+      "id": "0028929",
+      "title": "714260 - Medical syringe needles",
+      "conceptLink": "/ec2/concept/5977949"
+    }
+  },
+  {
+    "uri": "en/10/168238",
+    "id": "168238",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical syringes",
+    "harm": {
+      "id": "0058674",
+      "title": "168238 - Medical syringes",
+      "conceptLink": "/ec2/concept/6000167"
+    }
+  },
+  {
+    "uri": "en/10/714276",
+    "id": "714276",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tables for examination or treatment purposes",
+    "harm": {
+      "id": "0028930",
+      "title": "714276 - Medical tables for examination or treatment purposes",
+      "conceptLink": "/ec2/concept/5977950"
+    }
+  },
+  {
+    "uri": "en/10/404862",
+    "id": "404862",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical test kits for diabetes monitoring for home use",
+    "harm": {
+      "id": "0045588",
+      "title": "404862 - Medical test kits for diabetes monitoring for home use",
+      "conceptLink": "/ec2/concept/5993135"
+    }
+  },
+  {
+    "uri": "en/10/168796",
+    "id": "168796",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical testing instruments",
+    "harm": {
+      "id": "0011610",
+      "title": "168796 - Medical testing instruments",
+      "conceptLink": "/ec2/concept/5962079"
+    }
+  },
+  {
+    "uri": "en/10/714293",
+    "id": "714293",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical therapy instruments",
+    "harm": {
+      "id": "0005872",
+      "title": "714293 - Medical therapy instruments",
+      "conceptLink": "/ec2/concept/5956828"
+    }
+  },
+  {
+    "uri": "en/10/714309",
+    "id": "714309",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical trays",
+    "harm": {
+      "id": "0000072",
+      "title": "714309 - Medical trays",
+      "conceptLink": "/ec2/concept/5951550"
+    }
+  },
+  {
+    "uri": "en/10/404879",
+    "id": "404879",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tubing",
+    "harm": {
+      "id": "0059247",
+      "title": "404879 - Medical tubing",
+      "conceptLink": "/ec2/concept/6000733"
+    }
+  },
+  {
+    "uri": "en/10/120868361",
+    "id": "120868361",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tubing for administering drugs",
+    "harm": {
+      "id": "0066167",
+      "title": "120868361 - Medical tubing for administering drugs",
+      "conceptLink": "/ec2/concept/6002370"
+    }
+  },
+  {
+    "uri": "en/10/120894702",
+    "id": "120894702",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tubing for irrigation purposes",
+    "harm": {
+      "id": "0066111",
+      "title": "120894702 - Medical tubing for irrigation purposes",
+      "conceptLink": "/ec2/concept/6002314"
+    }
+  },
+  {
+    "uri": "en/10/120868366",
+    "id": "120868366",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tubing for transfusions",
+    "harm": {
+      "id": "0003501",
+      "title": "120868366 - Medical tubing for transfusions",
+      "conceptLink": "/ec2/concept/5954652"
+    }
+  },
+  {
+    "uri": "en/10/120894697",
+    "id": "120894697",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical tubing for use in vascular procedures",
+    "harm": {
+      "id": "0066112",
+      "title": "120894697 - Medical tubing for use in vascular procedures",
+      "conceptLink": "/ec2/concept/6002315"
+    }
+  },
+  {
+    "uri": "en/10/905193",
+    "id": "905193",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical ultrasound apparatus",
+    "harm": {
+      "id": "0028734",
+      "title": "905193 - Medical ultrasound apparatus",
+      "conceptLink": "/ec2/concept/5977768"
+    }
+  },
+  {
+    "uri": "en/10/404895",
+    "id": "404895",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical ventilators",
+    "harm": {
+      "id": "0016766",
+      "title": "404895 - Medical ventilators",
+      "conceptLink": "/ec2/concept/5966816"
+    }
+  },
+  {
+    "uri": "en/10/714322",
+    "id": "714322",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical vessel dilators",
+    "harm": {
+      "id": "0034718",
+      "title": "714322 - Medical vessel dilators",
+      "conceptLink": "/ec2/concept/5983221"
+    }
+  },
+  {
+    "uri": "en/10/163334",
+    "id": "163334",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medical X-ray apparatus",
+    "harm": {
+      "id": "0001429",
+      "title": "163334 - Medical X-ray apparatus",
+      "conceptLink": "/ec2/concept/5952775"
+    }
+  },
+  {
+    "uri": "en/10/137963981",
+    "id": "137963981",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medication injectors",
+    "harm": {
+      "id": "0071619",
+      "title": "137963981 - Medication injectors",
+      "conceptLink": "/ec2/concept/6007808"
+    }
+  },
+  {
+    "uri": "en/10/714335",
+    "id": "714335",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medicinal bottle stoppers",
+    "harm": {
+      "id": "0017388",
+      "title": "714335 - Medicinal bottle stoppers",
+      "conceptLink": "/ec2/concept/5967374"
+    }
+  },
+  {
+    "uri": "en/10/404676",
+    "id": "404676",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medicinal catheters",
+    "harm": {
+      "id": "0035230",
+      "title": "404676 - Medicinal catheters",
+      "conceptLink": "/ec2/concept/5983685"
+    }
+  },
+  {
+    "uri": "en/10/714348",
+    "id": "714348",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medicinal injection syringes",
+    "harm": {
+      "id": "0058674",
+      "title": "714348 - Medicinal injection syringes",
+      "conceptLink": "/ec2/concept/6000167"
+    }
+  },
+  {
+    "uri": "en/10/164884",
+    "id": "164884",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medicine administering spoons",
+    "harm": {
+      "id": "0028931",
+      "title": "164884 - Medicine administering spoons",
+      "conceptLink": "/ec2/concept/5977951"
+    }
+  },
+  {
+    "uri": "en/10/164885",
+    "id": "164885",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Medicine (Spoons for administering -)",
+    "harm": {
+      "id": "0028931",
+      "title": "164885 - Medicine (Spoons for administering -)",
+      "conceptLink": "/ec2/concept/5977951"
+    }
+  },
+  {
+    "uri": "en/10/714360",
+    "id": "714360",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Membrane test plates for use in medical diagnostics",
+    "harm": {
+      "id": "0005874",
+      "title": "714360 - Membrane test plates for use in medical diagnostics",
+      "conceptLink": "/ec2/concept/5956829"
+    }
+  },
+  {
+    "uri": "en/10/714372",
+    "id": "714372",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Membrane test plates for use in medical research",
+    "harm": {
+      "id": "0028932",
+      "title": "714372 - Membrane test plates for use in medical research",
+      "conceptLink": "/ec2/concept/5977952"
+    }
+  },
+  {
+    "uri": "en/10/714384",
+    "id": "714384",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Membranes for filtration [medical]",
+    "harm": {
+      "id": "0033792",
+      "title": "714384 - Membranes for filtration [medical]",
+      "conceptLink": "/ec2/concept/5982384"
+    }
+  },
+  {
+    "uri": "en/10/905221",
+    "id": "905221",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Menstrual cups",
+    "harm": {
+      "id": "0018301",
+      "title": "905221 - Menstrual cups",
+      "conceptLink": "/ec2/concept/5968208"
+    }
+  },
+  {
+    "uri": "en/10/137176850",
+    "id": "137176850",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Menstrual cups (intravaginal utensils for menstruation）",
+    "harm": {
+      "id": "0018301",
+      "title": "137176850 - Menstrual cups (intravaginal utensils for menstruation）",
+      "conceptLink": "/ec2/concept/5968208"
+    }
+  },
+  {
+    "uri": "en/10/334719",
+    "id": "334719",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mercury arc lamp units for therapeutic purposes",
+    "harm": {
+      "id": "0001430",
+      "title": "334719 - Mercury arc lamp units for therapeutic purposes",
+      "conceptLink": "/ec2/concept/5952776"
+    }
+  },
+  {
+    "uri": "en/10/714400",
+    "id": "714400",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mercury thermometers for medical use",
+    "harm": {
+      "id": "0033793",
+      "title": "714400 - Mercury thermometers for medical use",
+      "conceptLink": "/ec2/concept/5982385"
+    }
+  },
+  {
+    "uri": "en/10/714426",
+    "id": "714426",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mesh nerve connecting tubes for veterinary use",
+    "harm": {
+      "id": "0028061",
+      "title": "714426 - Mesh nerve connecting tubes for veterinary use",
+      "conceptLink": "/ec2/concept/5977140"
+    }
+  },
+  {
+    "uri": "en/10/714413",
+    "id": "714413",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mesh nerve connecting tubes for medical use",
+    "harm": {
+      "id": "0004976",
+      "title": "714413 - Mesh nerve connecting tubes for medical use",
+      "conceptLink": "/ec2/concept/5956017"
+    }
+  },
+  {
+    "uri": "en/10/714438",
+    "id": "714438",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Metering pumps for delivering drugs in measured quantities [medical use]",
+    "harm": {
+      "id": "0045328",
+      "title": "714438 - Metering pumps for delivering drugs in measured quantities [medical use]",
+      "conceptLink": "/ec2/concept/5992904"
+    }
+  },
+  {
+    "uri": "en/10/714451",
+    "id": "714451",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Meters for body fluids",
+    "harm": {
+      "id": "0039585",
+      "title": "714451 - Meters for body fluids",
+      "conceptLink": "/ec2/concept/5987647"
+    }
+  },
+  {
+    "uri": "en/10/333916",
+    "id": "333916",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Meters for measuring blood glucose",
+    "harm": {
+      "id": "0019449",
+      "title": "333916 - Meters for measuring blood glucose",
+      "conceptLink": "/ec2/concept/5969261"
+    }
+  },
+  {
+    "uri": "en/10/910047",
+    "id": "910047",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Microdermabrasion apparatus",
+    "harm": {
+      "id": "0009053",
+      "title": "910047 - Microdermabrasion apparatus",
+      "conceptLink": "/ec2/concept/5959742"
+    }
+  },
+  {
+    "uri": "en/10/165236",
+    "id": "165236",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mirrors for dentists",
+    "harm": {
+      "id": "0013154",
+      "title": "165236 - Mirrors for dentists",
+      "conceptLink": "/ec2/concept/5963498"
+    }
+  },
+  {
+    "uri": "en/10/714463",
+    "id": "714463",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mirrors for medical examination purposes",
+    "harm": {
+      "id": "0033794",
+      "title": "714463 - Mirrors for medical examination purposes",
+      "conceptLink": "/ec2/concept/5982386"
+    }
+  },
+  {
+    "uri": "en/10/166650",
+    "id": "166650",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mirrors for surgeons",
+    "harm": {
+      "id": "0015627",
+      "title": "166650 - Mirrors for surgeons",
+      "conceptLink": "/ec2/concept/5965765"
+    }
+  },
+  {
+    "uri": "en/10/119531997",
+    "id": "119531997",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mittens for medical use",
+    "harm": {
+      "id": "0055922",
+      "title": "119531997 - Mittens for medical use",
+      "conceptLink": "/ec2/concept/5997296"
+    }
+  },
+  {
+    "uri": "en/10/714492",
+    "id": "714492",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Moisture exchangers for medical use in transferring the heat of exhaled breath to inhaled breath",
+    "harm": {
+      "id": "0045329",
+      "title": "714492 - Moisture exchangers for medical use in transferring the heat of exhaled breath to inhaled breath",
+      "conceptLink": "/ec2/concept/5992905"
+    }
+  },
+  {
+    "uri": "en/10/905435",
+    "id": "905435",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mouth guards for medical purposes",
+    "harm": {
+      "id": "0005683",
+      "title": "905435 - Mouth guards for medical purposes",
+      "conceptLink": "/ec2/concept/5956662"
+    }
+  },
+  {
+    "uri": "en/10/883519",
+    "id": "883519",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Moxibustion apparatus",
+    "harm": {
+      "id": "0039918",
+      "title": "883519 - Moxibustion apparatus",
+      "conceptLink": "/ec2/concept/5987958"
+    }
+  },
+  {
+    "uri": "en/10/404937",
+    "id": "404937",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "MRI diagnostic apparatus",
+    "harm": {
+      "id": "0016767",
+      "title": "404937 - MRI diagnostic apparatus",
+      "conceptLink": "/ec2/concept/5966817"
+    }
+  },
+  {
+    "uri": "en/10/714504",
+    "id": "714504",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Mucus extractors",
+    "harm": {
+      "id": "0016501",
+      "title": "714504 - Mucus extractors",
+      "conceptLink": "/ec2/concept/5966575"
+    }
+  },
+  {
+    "uri": "en/10/137964349",
+    "id": "137964349",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Multishot needle syringes",
+    "harm": {
+      "id": "0071620",
+      "title": "137964349 - Multishot needle syringes",
+      "conceptLink": "/ec2/concept/6007809"
+    }
+  },
+  {
+    "uri": "en/10/714546",
+    "id": "714546",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Nail pinches for medical use",
+    "harm": {
+      "id": "0004977",
+      "title": "714546 - Nail pinches for medical use",
+      "conceptLink": "/ec2/concept/5956018"
+    }
+  },
+  {
+    "uri": "en/10/17020264",
+    "id": "17020264",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Nasal aspirators",
+    "harm": {
+      "id": "0070096",
+      "title": "17020264 - Nasal aspirators",
+      "conceptLink": "/ec2/concept/6006298"
+    }
+  },
+  {
+    "uri": "en/10/6431293",
+    "id": "6431293",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Nasal dilators",
+    "harm": {
+      "id": "0066121",
+      "title": "6431293 - Nasal dilators",
+      "conceptLink": "/ec2/concept/6002324"
+    }
+  }
+]

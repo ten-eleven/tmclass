@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/120879350",
+    "id": "120879350",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of sewing machines",
+    "harm": {
+      "id": "0068339",
+      "title": "120879350 - Providing information relating to the repair or maintenance of sewing machines",
+      "conceptLink": "/ec2/concept/6004542"
+    }
+  },
+  {
+    "uri": "en/37/120880290",
+    "id": "120880290",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair of tatami mats",
+    "harm": {
+      "id": "0068202",
+      "title": "120880290 - Providing information relating to the repair of tatami mats",
+      "conceptLink": "/ec2/concept/6004405"
+    }
+  },
+  {
+    "uri": "en/37/120879341",
+    "id": "120879341",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of textile machines and apparatus",
+    "harm": {
+      "id": "0068340",
+      "title": "120879341 - Providing information relating to the repair or maintenance of textile machines and apparatus",
+      "conceptLink": "/ec2/concept/6004543"
+    }
+  },
+  {
+    "uri": "en/37/120880298",
+    "id": "120880298",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of burners",
+    "harm": {
+      "id": "0068201",
+      "title": "120880298 - Providing information relating to the repair or maintenance of burners",
+      "conceptLink": "/ec2/concept/6004404"
+    }
+  },
+  {
+    "uri": "en/37/120879123",
+    "id": "120879123",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair of game machines and apparatus",
+    "harm": {
+      "id": "0068371",
+      "title": "120879123 - Providing information relating to the repair of game machines and apparatus",
+      "conceptLink": "/ec2/concept/6004574"
+    }
+  },
+  {
+    "uri": "en/37/120879131",
+    "id": "120879131",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to septic tank cleaning services",
+    "harm": {
+      "id": "0068370",
+      "title": "120879131 - Providing information relating to septic tank cleaning services",
+      "conceptLink": "/ec2/concept/6004573"
+    }
+  },
+  {
+    "uri": "en/37/120879159",
+    "id": "120879159",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of automobiles",
+    "harm": {
+      "id": "0068367",
+      "title": "120879159 - Providing information relating to the repair or maintenance of automobiles",
+      "conceptLink": "/ec2/concept/6004570"
+    }
+  },
+  {
+    "uri": "en/37/120879167",
+    "id": "120879167",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of power generators",
+    "harm": {
+      "id": "0068366",
+      "title": "120879167 - Providing information relating to the repair or maintenance of power generators",
+      "conceptLink": "/ec2/concept/6004569"
+    }
+  },
+  {
+    "uri": "en/37/120879141",
+    "id": "120879141",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the disinfection of telephone handsets",
+    "harm": {
+      "id": "0068369",
+      "title": "120879141 - Providing information relating to the disinfection of telephone handsets",
+      "conceptLink": "/ec2/concept/6004572"
+    }
+  },
+  {
+    "uri": "en/37/120879150",
+    "id": "120879150",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the rental of mops",
+    "harm": {
+      "id": "0068368",
+      "title": "120879150 - Providing information relating to the rental of mops",
+      "conceptLink": "/ec2/concept/6004571"
+    }
+  },
+  {
+    "uri": "en/37/120879192",
+    "id": "120879192",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of railway rolling stock",
+    "harm": {
+      "id": "0068322",
+      "title": "120879192 - Providing information relating to the repair or maintenance of railway rolling stock",
+      "conceptLink": "/ec2/concept/6004525"
+    }
+  },
+  {
+    "uri": "en/37/120880132",
+    "id": "120880132",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of bookbinding apparatus and machines",
+    "harm": {
+      "id": "0068242",
+      "title": "120880132 - Providing information relating to the repair or maintenance of bookbinding apparatus and machines",
+      "conceptLink": "/ec2/concept/6004445"
+    }
+  },
+  {
+    "uri": "en/37/31312090",
+    "id": "31312090",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to furniture restoration",
+    "harm": {
+      "id": "0068292",
+      "title": "31312090 - Providing information relating to furniture restoration",
+      "conceptLink": "/ec2/concept/6004495"
+    }
+  },
+  {
+    "uri": "en/37/120879224",
+    "id": "120879224",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair or maintenance of musical instruments",
+    "harm": {
+      "id": "0068325",
+      "title": "120879224 - Providing information relating to the repair or maintenance of musical instruments",
+      "conceptLink": "/ec2/concept/6004528"
+    }
+  },
+  {
+    "uri": "en/37/120879203",
+    "id": "120879203",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the cleaning of building exteriors",
+    "harm": {
+      "id": "0068323",
+      "title": "120879203 - Providing information relating to the cleaning of building exteriors",
+      "conceptLink": "/ec2/concept/6004526"
+    }
+  },
+  {
+    "uri": "en/37/120879215",
+    "id": "120879215",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information relating to the repair of toys or dolls",
+    "harm": {
+      "id": "0068324",
+      "title": "120879215 - Providing information relating to the repair of toys or dolls",
+      "conceptLink": "/ec2/concept/6004527"
+    }
+  },
+  {
+    "uri": "en/37/120879080",
+    "id": "120879080",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing online information relating to building construction",
+    "harm": {
+      "id": "0068362",
+      "title": "120879080 - Providing online information relating to building construction",
+      "conceptLink": "/ec2/concept/6004565"
+    }
+  },
+  {
+    "uri": "en/37/906422",
+    "id": "906422",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing washing and drying laundry facilities",
+    "harm": {
+      "id": "0012004",
+      "title": "906422 - Providing washing and drying laundry facilities",
+      "conceptLink": "/ec2/concept/5962450"
+    }
+  },
+  {
+    "uri": "en/37/822474",
+    "id": "822474",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of cleaning services",
+    "harm": {
+      "id": "0030126",
+      "title": "822474 - Provision of cleaning services",
+      "conceptLink": "/ec2/concept/5979040"
+    }
+  },
+  {
+    "uri": "en/37/822489",
+    "id": "822489",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of computerised information relating to the maintenance of carpets",
+    "harm": {
+      "id": "0001844",
+      "title": "822489 - Provision of computerised information relating to the maintenance of carpets",
+      "conceptLink": "/ec2/concept/5953146"
+    }
+  },
+  {
+    "uri": "en/37/40768",
+    "id": "40768",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of construction information",
+    "harm": {
+      "id": "0057629",
+      "title": "40768 - Provision of construction information",
+      "conceptLink": "/ec2/concept/5999134"
+    }
+  },
+  {
+    "uri": "en/37/120879316",
+    "id": "120879316",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of construction information by electronic means",
+    "harm": {
+      "id": "0068330",
+      "title": "120879316 - Provision of construction information by electronic means",
+      "conceptLink": "/ec2/concept/6004533"
+    }
+  },
+  {
+    "uri": "en/37/120891690",
+    "id": "120891690",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of construction information relating to public works",
+    "harm": {
+      "id": "0068172",
+      "title": "120891690 - Provision of construction information relating to public works",
+      "conceptLink": "/ec2/concept/6004375"
+    }
+  },
+  {
+    "uri": "en/37/822503",
+    "id": "822503",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of information relating to the construction industries",
+    "harm": {
+      "id": "0013424",
+      "title": "822503 - Provision of information relating to the construction industries",
+      "conceptLink": "/ec2/concept/5963741"
+    }
+  },
+  {
+    "uri": "en/37/822530",
+    "id": "822530",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of information relating to the repair of vehicles",
+    "harm": {
+      "id": "0005294",
+      "title": "822530 - Provision of information relating to the repair of vehicles",
+      "conceptLink": "/ec2/concept/5956300"
+    }
+  },
+  {
+    "uri": "en/37/822516",
+    "id": "822516",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of information relating to the maintenance of vehicles",
+    "harm": {
+      "id": "0028360",
+      "title": "822516 - Provision of information relating to the maintenance of vehicles",
+      "conceptLink": "/ec2/concept/5977418"
+    }
+  },
+  {
+    "uri": "en/37/120878811",
+    "id": "120878811",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of information, advice and consultancy relating to cleaning",
+    "harm": {
+      "id": "0068382",
+      "title": "120878811 - Provision of information, advice and consultancy relating to cleaning",
+      "conceptLink": "/ec2/concept/6004585"
+    }
+  },
+  {
+    "uri": "en/37/822545",
+    "id": "822545",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of launderette services",
+    "harm": {
+      "id": "0039887",
+      "title": "822545 - Provision of launderette services",
+      "conceptLink": "/ec2/concept/5987927"
+    }
+  },
+  {
+    "uri": "en/37/36785",
+    "id": "36785",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of laundry facilities",
+    "harm": {
+      "id": "0017700",
+      "title": "36785 - Provision of laundry facilities",
+      "conceptLink": "/ec2/concept/5967657"
+    }
+  },
+  {
+    "uri": "en/37/820592",
+    "id": "820592",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of laundry services",
+    "harm": {
+      "id": "0017700",
+      "title": "820592 - Provision of laundry services",
+      "conceptLink": "/ec2/concept/5967657"
+    }
+  },
+  {
+    "uri": "en/37/822556",
+    "id": "822556",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Provision of maintenance services for sports establishments",
+    "harm": {
+      "id": "0011035",
+      "title": "822556 - Provision of maintenance services for sports establishments",
+      "conceptLink": "/ec2/concept/5961557"
+    }
+  },
+  {
+    "uri": "en/37/913260",
+    "id": "913260",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pumicing",
+    "harm": {
+      "id": "0002517",
+      "title": "913260 - Pumicing",
+      "conceptLink": "/ec2/concept/5953756"
+    }
+  },
+  {
+    "uri": "en/37/39648",
+    "id": "39648",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pump repair",
+    "harm": {
+      "id": "0030492",
+      "title": "39648 - Pump repair",
+      "conceptLink": "/ec2/concept/5979381"
+    }
+  },
+  {
+    "uri": "en/37/10485508",
+    "id": "10485508",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pump repair and maintenance",
+    "harm": {
+      "id": "0069836",
+      "title": "10485508 - Pump repair and maintenance",
+      "conceptLink": "/ec2/concept/6006039"
+    }
+  },
+  {
+    "uri": "en/37/367911",
+    "id": "367911",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pump repair or maintenance",
+    "harm": {
+      "id": "0019091",
+      "title": "367911 - Pump repair or maintenance",
+      "conceptLink": "/ec2/concept/5968943"
+    }
+  },
+  {
+    "uri": "en/37/39647",
+    "id": "39647",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pump repairing",
+    "harm": {
+      "id": "0030492",
+      "title": "39647 - Pump repairing",
+      "conceptLink": "/ec2/concept/5979381"
+    }
+  },
+  {
+    "uri": "en/37/906549",
+    "id": "906549",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pumping crude oil",
+    "harm": {
+      "id": "0029336",
+      "title": "906549 - Pumping crude oil",
+      "conceptLink": "/ec2/concept/5978315"
+    }
+  },
+  {
+    "uri": "en/37/822586",
+    "id": "822586",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pumping of oil-wells",
+    "harm": {
+      "id": "0059046",
+      "title": "822586 - Pumping of oil-wells",
+      "conceptLink": "/ec2/concept/6000537"
+    }
+  },
+  {
+    "uri": "en/37/906562",
+    "id": "906562",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pumping septic tanks",
+    "harm": {
+      "id": "0006212",
+      "title": "906562 - Pumping septic tanks",
+      "conceptLink": "/ec2/concept/5957144"
+    }
+  },
+  {
+    "uri": "en/37/125046693",
+    "id": "125046693",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pumps for drainage purposes (Rental of -)",
+    "harm": {
+      "id": "0010412",
+      "title": "125046693 - Pumps for drainage purposes (Rental of -)",
+      "conceptLink": "/ec2/concept/5960983"
+    }
+  },
+  {
+    "uri": "en/37/40986",
+    "id": "40986",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Quarry services",
+    "harm": {
+      "id": "0008043",
+      "title": "40986 - Quarry services",
+      "conceptLink": "/ec2/concept/5958819"
+    }
+  },
+  {
+    "uri": "en/37/40987",
+    "id": "40987",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Quarrying services",
+    "harm": {
+      "id": "0008043",
+      "title": "40987 - Quarrying services",
+      "conceptLink": "/ec2/concept/5958819"
+    }
+  },
+  {
+    "uri": "en/37/453889",
+    "id": "453889",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Radio repair",
+    "harm": {
+      "id": "0009434",
+      "title": "453889 - Radio repair",
+      "conceptLink": "/ec2/concept/5960097"
+    }
+  },
+  {
+    "uri": "en/37/39772",
+    "id": "39772",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rat exterminating",
+    "harm": {
+      "id": "0031743",
+      "title": "39772 - Rat exterminating",
+      "conceptLink": "/ec2/concept/5980508"
+    }
+  },
+  {
+    "uri": "en/37/39771",
+    "id": "39771",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rat extermination",
+    "harm": {
+      "id": "0031743",
+      "title": "39771 - Rat extermination",
+      "conceptLink": "/ec2/concept/5980508"
+    }
+  },
+  {
+    "uri": "en/37/822639",
+    "id": "822639",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-barrelling",
+    "harm": {
+      "id": "0039888",
+      "title": "822639 - Re-barrelling",
+      "conceptLink": "/ec2/concept/5987928"
+    }
+  },
+  {
+    "uri": "en/37/822651",
+    "id": "822651",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-blacking of guns",
+    "harm": {
+      "id": "0039889",
+      "title": "822651 - Re-blacking of guns",
+      "conceptLink": "/ec2/concept/5987929"
+    }
+  },
+  {
+    "uri": "en/37/822664",
+    "id": "822664",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-blacking of rifles",
+    "harm": {
+      "id": "0005295",
+      "title": "822664 - Re-blacking of rifles",
+      "conceptLink": "/ec2/concept/5956301"
+    }
+  },
+  {
+    "uri": "en/37/822689",
+    "id": "822689",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-calibration of data processing apparatus",
+    "harm": {
+      "id": "0005297",
+      "title": "822689 - Re-calibration of data processing apparatus",
+      "conceptLink": "/ec2/concept/5956303"
+    }
+  },
+  {
+    "uri": "en/37/131140109",
+    "id": "131140109",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking and refilling of toner cartridges",
+    "harm": {
+      "id": "0017461",
+      "title": "131140109 - Re-inking and refilling of toner cartridges",
+      "conceptLink": "/ec2/concept/5967439"
+    }
+  },
+  {
+    "uri": "en/37/822920",
+    "id": "822920",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of printer cartridges",
+    "harm": {
+      "id": "0026381",
+      "title": "822920 - Re-inking of printer cartridges",
+      "conceptLink": "/ec2/concept/5975610"
+    }
+  },
+  {
+    "uri": "en/37/822934",
+    "id": "822934",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of printer cassettes",
+    "harm": {
+      "id": "0037966",
+      "title": "822934 - Re-inking of printer cassettes",
+      "conceptLink": "/ec2/concept/5986167"
+    }
+  },
+  {
+    "uri": "en/37/822950",
+    "id": "822950",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of printer ribbons",
+    "harm": {
+      "id": "0026382",
+      "title": "822950 - Re-inking of printer ribbons",
+      "conceptLink": "/ec2/concept/5975611"
+    }
+  },
+  {
+    "uri": "en/37/822951",
+    "id": "822951",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of printer tapes",
+    "harm": {
+      "id": "0026382",
+      "title": "822951 - Re-inking of printer tapes",
+      "conceptLink": "/ec2/concept/5975611"
+    }
+  },
+  {
+    "uri": "en/37/822980",
+    "id": "822980",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of typewriter cassettes",
+    "harm": {
+      "id": "0020737",
+      "title": "822980 - Re-inking of typewriter cassettes",
+      "conceptLink": "/ec2/concept/5970436"
+    }
+  },
+  {
+    "uri": "en/37/822966",
+    "id": "822966",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of typewriter cartridges",
+    "harm": {
+      "id": "0014889",
+      "title": "822966 - Re-inking of typewriter cartridges",
+      "conceptLink": "/ec2/concept/5965089"
+    }
+  },
+  {
+    "uri": "en/37/822996",
+    "id": "822996",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of typewriter ribbons",
+    "harm": {
+      "id": "0043720",
+      "title": "822996 - Re-inking of typewriter ribbons",
+      "conceptLink": "/ec2/concept/5991421"
+    }
+  },
+  {
+    "uri": "en/37/822997",
+    "id": "822997",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking of typewriter tapes",
+    "harm": {
+      "id": "0043720",
+      "title": "822997 - Re-inking of typewriter tapes",
+      "conceptLink": "/ec2/concept/5991421"
+    }
+  },
+  {
+    "uri": "en/37/616333",
+    "id": "616333",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-inking services",
+    "harm": {
+      "id": "0032759",
+      "title": "616333 - Re-inking services",
+      "conceptLink": "/ec2/concept/5981434"
+    }
+  },
+  {
+    "uri": "en/37/897382",
+    "id": "897382",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-sharpening of knives",
+    "harm": {
+      "id": "0031431",
+      "title": "897382 - Re-sharpening of knives",
+      "conceptLink": "/ec2/concept/5980240"
+    }
+  },
+  {
+    "uri": "en/37/454321",
+    "id": "454321",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-sharpening of scissors",
+    "harm": {
+      "id": "0019828",
+      "title": "454321 - Re-sharpening of scissors",
+      "conceptLink": "/ec2/concept/5969602"
+    }
+  },
+  {
+    "uri": "en/37/897394",
+    "id": "897394",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-sharpening of skates",
+    "harm": {
+      "id": "0032765",
+      "title": "897394 - Re-sharpening of skates",
+      "conceptLink": "/ec2/concept/5981440"
+    }
+  },
+  {
+    "uri": "en/37/39886",
+    "id": "39886",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-tinning",
+    "harm": {
+      "id": "0020285",
+      "title": "39886 - Re-tinning",
+      "conceptLink": "/ec2/concept/5970019"
+    }
+  },
+  {
+    "uri": "en/37/39811",
+    "id": "39811",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-treading of tyres",
+    "harm": {
+      "id": "0019303",
+      "title": "39811 - Re-treading of tyres",
+      "conceptLink": "/ec2/concept/5969132"
+    }
+  },
+  {
+    "uri": "en/37/824260",
+    "id": "824260",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Re-upholstering",
+    "harm": {
+      "id": "0002711",
+      "title": "824260 - Re-upholstering",
+      "conceptLink": "/ec2/concept/5953928"
+    }
+  },
+  {
+    "uri": "en/37/120879911",
+    "id": "120879911",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rebuilding and reconditioning of motors",
+    "harm": {
+      "id": "0068280",
+      "title": "120879911 - Rebuilding and reconditioning of motors",
+      "conceptLink": "/ec2/concept/6004483"
+    }
+  },
+  {
+    "uri": "en/37/453904",
+    "id": "453904",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rebuilding engines",
+    "harm": {
+      "id": "0038354",
+      "title": "453904 - Rebuilding engines",
+      "conceptLink": "/ec2/concept/5986529"
+    }
+  },
+  {
+    "uri": "en/37/41408",
+    "id": "41408",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rebuilding engines that have been worn or partially destroyed",
+    "harm": {
+      "id": "0013131",
+      "title": "41408 - Rebuilding engines that have been worn or partially destroyed",
+      "conceptLink": "/ec2/concept/5963475"
+    }
+  },
+  {
+    "uri": "en/37/41430",
+    "id": "41430",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rebuilding machines that have been worn or partially destroyed",
+    "harm": {
+      "id": "0036255",
+      "title": "41430 - Rebuilding machines that have been worn or partially destroyed",
+      "conceptLink": "/ec2/concept/5984612"
+    }
+  },
+  {
+    "uri": "en/37/822677",
+    "id": "822677",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Rebuilding of clutches",
+    "harm": {
+      "id": "0005296",
+      "title": "822677 - Rebuilding of clutches",
+      "conceptLink": "/ec2/concept/5956302"
+    }
+  },
+  {
+    "uri": "en/37/114582723",
+    "id": "114582723",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Recharging of batteries",
+    "harm": {
+      "id": "0068447",
+      "title": "114582723 - Recharging of batteries",
+      "conceptLink": "/ec2/concept/6004650"
+    }
+  },
+  {
+    "uri": "en/37/120882195",
+    "id": "120882195",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Recharging of batteries and accumulators",
+    "harm": {
+      "id": "0068432",
+      "title": "120882195 - Recharging of batteries and accumulators",
+      "conceptLink": "/ec2/concept/6004635"
+    }
+  },
+  {
+    "uri": "en/37/120874900",
+    "id": "120874900",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Recharging services for electric vehicles",
+    "harm": {
+      "id": "0068446",
+      "title": "120874900 - Recharging services for electric vehicles",
+      "conceptLink": "/ec2/concept/6004649"
+    }
+  },
+  {
+    "uri": "en/37/125046781",
+    "id": "125046781",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reclamation (Land -)",
+    "harm": {
+      "id": "0018407",
+      "title": "125046781 - Reclamation (Land -)",
+      "conceptLink": "/ec2/concept/5968305"
+    }
+  },
+  {
+    "uri": "en/37/822705",
+    "id": "822705",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reclamation of land",
+    "harm": {
+      "id": "0018407",
+      "title": "822705 - Reclamation of land",
+      "conceptLink": "/ec2/concept/5968305"
+    }
+  },
+  {
+    "uri": "en/37/120891713",
+    "id": "120891713",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning machines, motors and engines that have been worn or partially destroyed",
+    "harm": {
+      "id": "0068169",
+      "title": "120891713 - Reconditioning machines, motors and engines that have been worn or partially destroyed",
+      "conceptLink": "/ec2/concept/6004372"
+    }
+  },
+  {
+    "uri": "en/37/120893072",
+    "id": "120893072",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning machines that are worn or partially destroyed",
+    "harm": {
+      "id": "0036255",
+      "title": "120893072 - Reconditioning machines that are worn or partially destroyed",
+      "conceptLink": "/ec2/concept/5984612"
+    }
+  },
+  {
+    "uri": "en/37/120891719",
+    "id": "120891719",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning motors that have been worn or partially destroyed",
+    "harm": {
+      "id": "0068168",
+      "title": "120891719 - Reconditioning motors that have been worn or partially destroyed",
+      "conceptLink": "/ec2/concept/6004371"
+    }
+  },
+  {
+    "uri": "en/37/120891268",
+    "id": "120891268",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning of industrial machinery",
+    "harm": {
+      "id": "0068113",
+      "title": "120891268 - Reconditioning of industrial machinery",
+      "conceptLink": "/ec2/concept/6004316"
+    }
+  },
+  {
+    "uri": "en/37/120880363",
+    "id": "120880363",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning of vacuum pumps and parts thereof",
+    "harm": {
+      "id": "0068217",
+      "title": "120880363 - Reconditioning of vacuum pumps and parts thereof",
+      "conceptLink": "/ec2/concept/6004420"
+    }
+  },
+  {
+    "uri": "en/37/822730",
+    "id": "822730",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconditioning of vehicle engines",
+    "harm": {
+      "id": "0015365",
+      "title": "822730 - Reconditioning of vehicle engines",
+      "conceptLink": "/ec2/concept/5965521"
+    }
+  },
+  {
+    "uri": "en/37/822743",
+    "id": "822743",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Reconstruction of vehicle radiators",
+    "harm": {
+      "id": "0032621",
+      "title": "822743 - Reconstruction of vehicle radiators",
+      "conceptLink": "/ec2/concept/5981304"
+    }
+  },
+  {
+    "uri": "en/37/822755",
+    "id": "822755",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Redressing facades",
+    "harm": {
+      "id": "0015366",
+      "title": "822755 - Redressing facades",
+      "conceptLink": "/ec2/concept/5965522"
+    }
+  },
+  {
+    "uri": "en/37/822767",
+    "id": "822767",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refilling of empty toner cartridges",
+    "harm": {
+      "id": "0009511",
+      "title": "822767 - Refilling of empty toner cartridges",
+      "conceptLink": "/ec2/concept/5960164"
+    }
+  },
+  {
+    "uri": "en/37/495663",
+    "id": "495663",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refilling of toner cartridges",
+    "harm": {
+      "id": "0017461",
+      "title": "495663 - Refilling of toner cartridges",
+      "conceptLink": "/ec2/concept/5967439"
+    }
+  },
+  {
+    "uri": "en/37/453928",
+    "id": "453928",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refinishing silver",
+    "harm": {
+      "id": "0044118",
+      "title": "453928 - Refinishing silver",
+      "conceptLink": "/ec2/concept/5991789"
+    }
+  },
+  {
+    "uri": "en/37/453940",
+    "id": "453940",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refrigerator repair",
+    "harm": {
+      "id": "0026774",
+      "title": "453940 - Refrigerator repair",
+      "conceptLink": "/ec2/concept/5975962"
+    }
+  },
+  {
+    "uri": "en/37/822780",
+    "id": "822780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refuelling of land vehicles",
+    "harm": {
+      "id": "0003780",
+      "title": "822780 - Refuelling of land vehicles",
+      "conceptLink": "/ec2/concept/5954910"
+    }
+  },
+  {
+    "uri": "en/37/822793",
+    "id": "822793",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of air conditioning plant",
+    "harm": {
+      "id": "0026862",
+      "title": "822793 - Refurbishment of air conditioning plant",
+      "conceptLink": "/ec2/concept/5976041"
+    }
+  },
+  {
+    "uri": "en/37/822819",
+    "id": "822819",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of brakes for pneumatic trucks",
+    "harm": {
+      "id": "0021224",
+      "title": "822819 - Refurbishment of brakes for pneumatic trucks",
+      "conceptLink": "/ec2/concept/5970885"
+    }
+  },
+  {
+    "uri": "en/37/822806",
+    "id": "822806",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of brakes for hydraulic trucks",
+    "harm": {
+      "id": "0038423",
+      "title": "822806 - Refurbishment of brakes for hydraulic trucks",
+      "conceptLink": "/ec2/concept/5986593"
+    }
+  },
+  {
+    "uri": "en/37/367409",
+    "id": "367409",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of buildings",
+    "harm": {
+      "id": "0029069",
+      "title": "367409 - Refurbishment of buildings",
+      "conceptLink": "/ec2/concept/5978080"
+    }
+  },
+  {
+    "uri": "en/37/822845",
+    "id": "822845",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of clutches for pneumatic trucks",
+    "harm": {
+      "id": "0021225",
+      "title": "822845 - Refurbishment of clutches for pneumatic trucks",
+      "conceptLink": "/ec2/concept/5970886"
+    }
+  },
+  {
+    "uri": "en/37/822832",
+    "id": "822832",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of clutches for hydraulic trucks",
+    "harm": {
+      "id": "0009512",
+      "title": "822832 - Refurbishment of clutches for hydraulic trucks",
+      "conceptLink": "/ec2/concept/5960165"
+    }
+  },
+  {
+    "uri": "en/37/822884",
+    "id": "822884",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of railway rolling stock",
+    "harm": {
+      "id": "0009514",
+      "title": "822884 - Refurbishment of railway rolling stock",
+      "conceptLink": "/ec2/concept/5960167"
+    }
+  },
+  {
+    "uri": "en/37/822871",
+    "id": "822871",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of railway freight wagons",
+    "harm": {
+      "id": "0009513",
+      "title": "822871 - Refurbishment of railway freight wagons",
+      "conceptLink": "/ec2/concept/5960166"
+    }
+  },
+  {
+    "uri": "en/37/822858",
+    "id": "822858",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of railway diesel engines",
+    "harm": {
+      "id": "0044191",
+      "title": "822858 - Refurbishment of railway diesel engines",
+      "conceptLink": "/ec2/concept/5991857"
+    }
+  },
+  {
+    "uri": "en/37/822896",
+    "id": "822896",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Refurbishment of vehicles",
+    "harm": {
+      "id": "0026380",
+      "title": "822896 - Refurbishment of vehicles",
+      "conceptLink": "/ec2/concept/5975609"
+    }
+  },
+  {
+    "uri": "en/37/897408",
+    "id": "897408",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Regrooving of tyres",
+    "harm": {
+      "id": "0038558",
+      "title": "897408 - Regrooving of tyres",
+      "conceptLink": "/ec2/concept/5986717"
+    }
+  },
+  {
+    "uri": "en/37/822908",
+    "id": "822908",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Regulation of oil burners",
+    "harm": {
+      "id": "0009044",
+      "title": "822908 - Regulation of oil burners",
+      "conceptLink": "/ec2/concept/5959733"
+    }
+  }
+]

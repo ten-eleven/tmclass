@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/11997805",
+    "id": "11997805",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellite transmitters",
+    "harm": {
+      "id": "0070939",
+      "title": "11997805 - Satellite transmitters",
+      "conceptLink": "/ec2/concept/6007131"
+    }
+  },
+  {
+    "uri": "en/9/401141",
+    "id": "401141",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellite transmitting apparatus",
+    "harm": {
+      "id": "0047231",
+      "title": "401141 - Satellite transmitting apparatus",
+      "conceptLink": "/ec2/concept/5994596"
+    }
+  },
+  {
+    "uri": "en/9/907104",
+    "id": "907104",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellites",
+    "harm": {
+      "id": "0055847",
+      "title": "907104 - Satellites",
+      "conceptLink": "/ec2/concept/5997225"
+    }
+  },
+  {
+    "uri": "en/9/549600",
+    "id": "549600",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellites for communication purposes",
+    "harm": {
+      "id": "0039691",
+      "title": "549600 - Satellites for communication purposes",
+      "conceptLink": "/ec2/concept/5987744"
+    }
+  },
+  {
+    "uri": "en/9/153766",
+    "id": "153766",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellites for scientific purposes",
+    "harm": {
+      "id": "0030521",
+      "title": "153766 - Satellites for scientific purposes",
+      "conceptLink": "/ec2/concept/5979407"
+    }
+  },
+  {
+    "uri": "en/9/549613",
+    "id": "549613",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Satellites for signal transmission",
+    "harm": {
+      "id": "0016626",
+      "title": "549613 - Satellites for signal transmission",
+      "conceptLink": "/ec2/concept/5966690"
+    }
+  },
+  {
+    "uri": "en/9/140707",
+    "id": "140707",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scales",
+    "harm": {
+      "id": "0071950",
+      "title": "140707 - Scales",
+      "conceptLink": "/ec2/concept/6008134"
+    }
+  },
+  {
+    "uri": "en/9/153636",
+    "id": "153636",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scales (Lever -) [steelyards]",
+    "harm": {
+      "id": "0001595",
+      "title": "153636 - Scales (Lever -) [steelyards]",
+      "conceptLink": "/ec2/concept/5952922"
+    }
+  },
+  {
+    "uri": "en/9/233533784",
+    "id": "233533784",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scales with body mass analysers",
+    "harm": {
+      "id": "0052061",
+      "title": "233533784 - Scales with body mass analysers",
+      "conceptLink": "/ec2/concept/6010961"
+    }
+  },
+  {
+    "uri": "en/9/233533785",
+    "id": "233533785",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scales with body mass analyzers",
+    "harm": {
+      "id": "0052061",
+      "title": "233533785 - Scales with body mass analyzers",
+      "conceptLink": "/ec2/concept/6010961"
+    }
+  },
+  {
+    "uri": "en/9/400563",
+    "id": "400563",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scanners",
+    "harm": {
+      "id": "0007933",
+      "title": "400563 - Scanners",
+      "conceptLink": "/ec2/concept/5958719"
+    }
+  },
+  {
+    "uri": "en/9/159490",
+    "id": "159490",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scanners [data processing equipment]",
+    "harm": {
+      "id": "0025751",
+      "title": "159490 - Scanners [data processing equipment]",
+      "conceptLink": "/ec2/concept/5975033"
+    }
+  },
+  {
+    "uri": "en/9/549643",
+    "id": "549643",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scanning probes, other than for medical use",
+    "harm": {
+      "id": "0005075",
+      "title": "549643 - Scanning probes, other than for medical use",
+      "conceptLink": "/ec2/concept/5956104"
+    }
+  },
+  {
+    "uri": "en/9/549669",
+    "id": "549669",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Science sets for children being teaching apparatus",
+    "harm": {
+      "id": "0016627",
+      "title": "549669 - Science sets for children being teaching apparatus",
+      "conceptLink": "/ec2/concept/5966691"
+    }
+  },
+  {
+    "uri": "en/9/549655",
+    "id": "549655",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Science sets for children being instructional apparatus",
+    "harm": {
+      "id": "0039692",
+      "title": "549655 - Science sets for children being instructional apparatus",
+      "conceptLink": "/ec2/concept/5987745"
+    }
+  },
+  {
+    "uri": "en/9/233110615",
+    "id": "233110615",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Science software",
+    "harm": {
+      "id": "0072609",
+      "title": "233110615 - Science software",
+      "conceptLink": "/ec2/concept/6008786"
+    }
+  },
+  {
+    "uri": "en/9/233656668",
+    "id": "233656668",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scientific and laboratory devices for treatment using electricity",
+    "harm": {
+      "id": "0073918",
+      "title": "233656668 - Scientific and laboratory devices for treatment using electricity",
+      "conceptLink": "/ec2/concept/6010867"
+    }
+  },
+  {
+    "uri": "en/9/932181",
+    "id": "932181",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scientific apparatus and instruments",
+    "harm": {
+      "id": "0048107",
+      "title": "932181 - Scientific apparatus and instruments",
+      "conceptLink": "/ec2/concept/5995361"
+    }
+  },
+  {
+    "uri": "en/9/119530606",
+    "id": "119530606",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scientific apparatus for determining the water content in petroleum products",
+    "harm": {
+      "id": "0055848",
+      "title": "119530606 - Scientific apparatus for determining the water content in petroleum products",
+      "conceptLink": "/ec2/concept/5997226"
+    }
+  },
+  {
+    "uri": "en/9/131118086",
+    "id": "131118086",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scientific research and laboratory apparatus, educational apparatus and simulators",
+    "harm": {
+      "id": "0047737",
+      "title": "131118086 - Scientific research and laboratory apparatus, educational apparatus and simulators",
+      "conceptLink": "/ec2/concept/5995012"
+    }
+  },
+  {
+    "uri": "en/9/136073587",
+    "id": "136073587",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scientific specimens for laboratory use",
+    "harm": {
+      "id": "0050453",
+      "title": "136073587 - Scientific specimens for laboratory use",
+      "conceptLink": "/ec2/concept/5995660"
+    }
+  },
+  {
+    "uri": "en/9/232210960",
+    "id": "232210960",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scopes for crossbow",
+    "harm": {
+      "id": "0071563",
+      "title": "232210960 - Scopes for crossbow",
+      "conceptLink": "/ec2/concept/6007754"
+    }
+  },
+  {
+    "uri": "en/9/549694",
+    "id": "549694",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Score display apparatus [electronic]",
+    "harm": {
+      "id": "0033910",
+      "title": "549694 - Score display apparatus [electronic]",
+      "conceptLink": "/ec2/concept/5982490"
+    }
+  },
+  {
+    "uri": "en/9/549681",
+    "id": "549681",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Score display apparatus [electric]",
+    "harm": {
+      "id": "0039693",
+      "title": "549681 - Score display apparatus [electric]",
+      "conceptLink": "/ec2/concept/5987746"
+    }
+  },
+  {
+    "uri": "en/9/549708",
+    "id": "549708",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Score recorders [electric]",
+    "harm": {
+      "id": "0028162",
+      "title": "549708 - Score recorders [electric]",
+      "conceptLink": "/ec2/concept/5977231"
+    }
+  },
+  {
+    "uri": "en/9/549721",
+    "id": "549721",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Score recorders [electronic]",
+    "harm": {
+      "id": "0016628",
+      "title": "549721 - Score recorders [electronic]",
+      "conceptLink": "/ec2/concept/5966692"
+    }
+  },
+  {
+    "uri": "en/9/30430565",
+    "id": "30430565",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screen filters for computers and televisions",
+    "harm": {
+      "id": "0070577",
+      "title": "30430565 - Screen filters for computers and televisions",
+      "conceptLink": "/ec2/concept/6006769"
+    }
+  },
+  {
+    "uri": "en/9/401194",
+    "id": "401194",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screen savers",
+    "harm": {
+      "id": "0025149",
+      "title": "401194 - Screen savers",
+      "conceptLink": "/ec2/concept/5974484"
+    }
+  },
+  {
+    "uri": "en/9/160893",
+    "id": "160893",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screens",
+    "harm": {
+      "id": "0046373",
+      "title": "160893 - Screens",
+      "conceptLink": "/ec2/concept/5993828"
+    }
+  },
+  {
+    "uri": "en/9/493337",
+    "id": "493337",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screens for firemen (Asbestos -)",
+    "harm": {
+      "id": "0040566",
+      "title": "493337 - Screens for firemen (Asbestos -)",
+      "conceptLink": "/ec2/concept/5988546"
+    }
+  },
+  {
+    "uri": "en/9/148773",
+    "id": "148773",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screens for photoengraving",
+    "harm": {
+      "id": "0009083",
+      "title": "148773 - Screens for photoengraving",
+      "conceptLink": "/ec2/concept/5959770"
+    }
+  },
+  {
+    "uri": "en/9/146598",
+    "id": "146598",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screens [photography]",
+    "harm": {
+      "id": "0034871",
+      "title": "146598 - Screens [photography]",
+      "conceptLink": "/ec2/concept/5983361"
+    }
+  },
+  {
+    "uri": "en/9/401195",
+    "id": "401195",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screensavers",
+    "harm": {
+      "id": "0025149",
+      "title": "401195 - Screensavers",
+      "conceptLink": "/ec2/concept/5974484"
+    }
+  },
+  {
+    "uri": "en/9/154693",
+    "id": "154693",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screw-tapping gauges",
+    "harm": {
+      "id": "0016997",
+      "title": "154693 - Screw-tapping gauges",
+      "conceptLink": "/ec2/concept/5967024"
+    }
+  },
+  {
+    "uri": "en/9/118200624",
+    "id": "118200624",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Screw-thread measuring machines and instruments",
+    "harm": {
+      "id": "0055849",
+      "title": "118200624 - Screw-thread measuring machines and instruments",
+      "conceptLink": "/ec2/concept/5997227"
+    }
+  },
+  {
+    "uri": "en/9/158426",
+    "id": "158426",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scuba diving masks",
+    "harm": {
+      "id": "0058924",
+      "title": "158426 - Scuba diving masks",
+      "conceptLink": "/ec2/concept/6000415"
+    }
+  },
+  {
+    "uri": "en/9/327727",
+    "id": "327727",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scuba goggles",
+    "harm": {
+      "id": "0058923",
+      "title": "327727 - Scuba goggles",
+      "conceptLink": "/ec2/concept/6000414"
+    }
+  },
+  {
+    "uri": "en/9/158424",
+    "id": "158424",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scuba masks",
+    "harm": {
+      "id": "0058924",
+      "title": "158424 - Scuba masks",
+      "conceptLink": "/ec2/concept/6000415"
+    }
+  },
+  {
+    "uri": "en/9/401219",
+    "id": "401219",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Scuba snorkels",
+    "harm": {
+      "id": "0039821",
+      "title": "401219 - Scuba snorkels",
+      "conceptLink": "/ec2/concept/5987862"
+    }
+  },
+  {
+    "uri": "en/9/549736",
+    "id": "549736",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Seat controls",
+    "harm": {
+      "id": "0045438",
+      "title": "549736 - Seat controls",
+      "conceptLink": "/ec2/concept/5993003"
+    }
+  },
+  {
+    "uri": "en/9/129810728",
+    "id": "129810728",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Secure Digital (SD) Memory Cards",
+    "harm": {
+      "id": "0055850",
+      "title": "129810728 - Secure Digital (SD) Memory Cards",
+      "conceptLink": "/ec2/concept/5997228"
+    }
+  },
+  {
+    "uri": "en/9/120872158",
+    "id": "120872158",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Secure microprocessors",
+    "harm": {
+      "id": "0065874",
+      "title": "120872158 - Secure microprocessors",
+      "conceptLink": "/ec2/concept/6002077"
+    }
+  },
+  {
+    "uri": "en/9/331831",
+    "id": "331831",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Secure terminals for electronic transactions",
+    "harm": {
+      "id": "0035912",
+      "title": "331831 - Secure terminals for electronic transactions",
+      "conceptLink": "/ec2/concept/5984300"
+    }
+  },
+  {
+    "uri": "en/9/549749",
+    "id": "549749",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security alarm systems [other than for vehicles]",
+    "harm": {
+      "id": "0005076",
+      "title": "549749 - Security alarm systems [other than for vehicles]",
+      "conceptLink": "/ec2/concept/5956105"
+    }
+  },
+  {
+    "uri": "en/9/401239",
+    "id": "401239",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security alarms",
+    "harm": {
+      "id": "0028696",
+      "title": "401239 - Security alarms",
+      "conceptLink": "/ec2/concept/5977733"
+    }
+  },
+  {
+    "uri": "en/9/549763",
+    "id": "549763",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security apparatus for elevators",
+    "harm": {
+      "id": "0010822",
+      "title": "549763 - Security apparatus for elevators",
+      "conceptLink": "/ec2/concept/5961365"
+    }
+  },
+  {
+    "uri": "en/9/549777",
+    "id": "549777",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security apparatus for processing audio signals",
+    "harm": {
+      "id": "0004357",
+      "title": "549777 - Security apparatus for processing audio signals",
+      "conceptLink": "/ec2/concept/5955438"
+    }
+  },
+  {
+    "uri": "en/9/401257",
+    "id": "401257",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security cameras",
+    "harm": {
+      "id": "0034491",
+      "title": "401257 - Security cameras",
+      "conceptLink": "/ec2/concept/5983019"
+    }
+  },
+  {
+    "uri": "en/9/549792",
+    "id": "549792",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security control apparatus",
+    "harm": {
+      "id": "0010066",
+      "title": "549792 - Security control apparatus",
+      "conceptLink": "/ec2/concept/5960670"
+    }
+  },
+  {
+    "uri": "en/9/1749054",
+    "id": "1749054",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security software",
+    "harm": {
+      "id": "0072588",
+      "title": "1749054 - Security software",
+      "conceptLink": "/ec2/concept/6008765"
+    }
+  },
+  {
+    "uri": "en/9/549810",
+    "id": "549810",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security surveillance apparatus",
+    "harm": {
+      "id": "0044725",
+      "title": "549810 - Security surveillance apparatus",
+      "conceptLink": "/ec2/concept/5992345"
+    }
+  },
+  {
+    "uri": "en/9/124781458",
+    "id": "124781458",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security tapes (adhesive -) [encoded]",
+    "harm": {
+      "id": "0027439",
+      "title": "124781458 - Security tapes (adhesive -) [encoded]",
+      "conceptLink": "/ec2/concept/5976564"
+    }
+  },
+  {
+    "uri": "en/9/124781473",
+    "id": "124781473",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security tapes (adhesive -) [magnetic]",
+    "harm": {
+      "id": "0033183",
+      "title": "124781473 - Security tapes (adhesive -) [magnetic]",
+      "conceptLink": "/ec2/concept/5981825"
+    }
+  },
+  {
+    "uri": "en/9/233533634",
+    "id": "233533634",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security tokens [encryption devices]",
+    "harm": {
+      "id": "0052058",
+      "title": "233533634 - Security tokens [encryption devices]",
+      "conceptLink": "/ec2/concept/6010958"
+    }
+  },
+  {
+    "uri": "en/9/549857",
+    "id": "549857",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Security warning apparatus",
+    "harm": {
+      "id": "0010067",
+      "title": "549857 - Security warning apparatus",
+      "conceptLink": "/ec2/concept/5960671"
+    }
+  },
+  {
+    "uri": "en/9/2621182",
+    "id": "2621182",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Seismic detectors",
+    "harm": {
+      "id": "0050904",
+      "title": "2621182 - Seismic detectors",
+      "conceptLink": "/ec2/concept/5996268"
+    }
+  },
+  {
+    "uri": "en/9/549872",
+    "id": "549872",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Seismographic apparatus",
+    "harm": {
+      "id": "0044726",
+      "title": "549872 - Seismographic apparatus",
+      "conceptLink": "/ec2/concept/5992346"
+    }
+  },
+  {
+    "uri": "en/9/549885",
+    "id": "549885",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Selenium voltage surge protectors",
+    "harm": {
+      "id": "0010068",
+      "title": "549885 - Selenium voltage surge protectors",
+      "conceptLink": "/ec2/concept/5960672"
+    }
+  },
+  {
+    "uri": "en/9/114410710",
+    "id": "114410710",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Self-acting focussing projectors",
+    "harm": {
+      "id": "0055851",
+      "title": "114410710 - Self-acting focussing projectors",
+      "conceptLink": "/ec2/concept/5997229"
+    }
+  },
+  {
+    "uri": "en/9/549897",
+    "id": "549897",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Self-adhesive labels [encoded]",
+    "harm": {
+      "id": "0015900",
+      "title": "549897 - Self-adhesive labels [encoded]",
+      "conceptLink": "/ec2/concept/5966025"
+    }
+  },
+  {
+    "uri": "en/9/549911",
+    "id": "549911",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Self-adhesive labels [magnetic]",
+    "harm": {
+      "id": "0038993",
+      "title": "549911 - Self-adhesive labels [magnetic]",
+      "conceptLink": "/ec2/concept/5987108"
+    }
+  },
+  {
+    "uri": "en/9/549925",
+    "id": "549925",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Self-synchronizing digital encryptors",
+    "harm": {
+      "id": "0033184",
+      "title": "549925 - Self-synchronizing digital encryptors",
+      "conceptLink": "/ec2/concept/5981826"
+    }
+  },
+  {
+    "uri": "en/9/331844",
+    "id": "331844",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Self-timers [for cameras]",
+    "harm": {
+      "id": "0012796",
+      "title": "331844 - Self-timers [for cameras]",
+      "conceptLink": "/ec2/concept/5963173"
+    }
+  },
+  {
+    "uri": "en/9/137613560",
+    "id": "137613560",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Selfie sticks",
+    "harm": {
+      "id": "0060165",
+      "title": "137613560 - Selfie sticks",
+      "conceptLink": "/ec2/concept/5996427"
+    }
+  },
+  {
+    "uri": "en/9/137728755",
+    "id": "137728755",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Selfie sticks [hand-held monopods]",
+    "harm": {
+      "id": "0069904",
+      "title": "137728755 - Selfie sticks [hand-held monopods]",
+      "conceptLink": "/ec2/concept/6006107"
+    }
+  },
+  {
+    "uri": "en/9/136634666",
+    "id": "136634666",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Selfie sticks used as smartphone accessories",
+    "harm": {
+      "id": "0060165",
+      "title": "136634666 - Selfie sticks used as smartphone accessories",
+      "conceptLink": "/ec2/concept/5996427"
+    }
+  },
+  {
+    "uri": "en/9/1840045",
+    "id": "1840045",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semi-conductor memories",
+    "harm": {
+      "id": "0055852",
+      "title": "1840045 - Semi-conductor memories",
+      "conceptLink": "/ec2/concept/5997230"
+    }
+  },
+  {
+    "uri": "en/9/331859",
+    "id": "331859",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semi-conductor memory units",
+    "harm": {
+      "id": "0035913",
+      "title": "331859 - Semi-conductor memory units",
+      "conceptLink": "/ec2/concept/5984301"
+    }
+  },
+  {
+    "uri": "en/9/156666",
+    "id": "156666",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semi-conductors",
+    "harm": {
+      "id": "0002439",
+      "title": "156666 - Semi-conductors",
+      "conceptLink": "/ec2/concept/5953683"
+    }
+  },
+  {
+    "uri": "en/9/549939",
+    "id": "549939",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor apparatus",
+    "harm": {
+      "id": "0015901",
+      "title": "549939 - Semiconductor apparatus",
+      "conceptLink": "/ec2/concept/5966026"
+    }
+  },
+  {
+    "uri": "en/9/549956",
+    "id": "549956",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor chips",
+    "harm": {
+      "id": "0038994",
+      "title": "549956 - Semiconductor chips",
+      "conceptLink": "/ec2/concept/5987109"
+    }
+  },
+  {
+    "uri": "en/9/549969",
+    "id": "549969",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor elements",
+    "harm": {
+      "id": "0028310",
+      "title": "549969 - Semiconductor elements",
+      "conceptLink": "/ec2/concept/5977369"
+    }
+  },
+  {
+    "uri": "en/9/4632594",
+    "id": "4632594",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor memory devices",
+    "harm": {
+      "id": "0055852",
+      "title": "4632594 - Semiconductor memory devices",
+      "conceptLink": "/ec2/concept/5997230"
+    }
+  },
+  {
+    "uri": "en/9/112973683",
+    "id": "112973683",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor testing apparatus",
+    "harm": {
+      "id": "0056867",
+      "title": "112973683 - Semiconductor testing apparatus",
+      "conceptLink": "/ec2/concept/5998141"
+    }
+  },
+  {
+    "uri": "en/9/549984",
+    "id": "549984",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductor wafers",
+    "harm": {
+      "id": "0016789",
+      "title": "549984 - Semiconductor wafers",
+      "conceptLink": "/ec2/concept/5966837"
+    }
+  },
+  {
+    "uri": "en/9/156667",
+    "id": "156667",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Semiconductors",
+    "harm": {
+      "id": "0002439",
+      "title": "156667 - Semiconductors",
+      "conceptLink": "/ec2/concept/5953683"
+    }
+  },
+  {
+    "uri": "en/9/124768118",
+    "id": "124768118",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensitised films (Exposed -)",
+    "harm": {
+      "id": "0042378",
+      "title": "124768118 - Sensitised films (Exposed -)",
+      "conceptLink": "/ec2/concept/5990203"
+    }
+  },
+  {
+    "uri": "en/9/536020",
+    "id": "536020",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensitized films, exposed",
+    "harm": {
+      "id": "0042378",
+      "title": "536020 - Sensitized films, exposed",
+      "conceptLink": "/ec2/concept/5990203"
+    }
+  },
+  {
+    "uri": "en/9/549999",
+    "id": "549999",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensitized microfilms, exposed",
+    "harm": {
+      "id": "0034096",
+      "title": "549999 - Sensitized microfilms, exposed",
+      "conceptLink": "/ec2/concept/5982662"
+    }
+  },
+  {
+    "uri": "en/9/232028850",
+    "id": "232028850",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensor controllers",
+    "harm": {
+      "id": "0072978",
+      "title": "232028850 - Sensor controllers",
+      "conceptLink": "/ec2/concept/6009153"
+    }
+  },
+  {
+    "uri": "en/9/550012",
+    "id": "550012",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensor switches",
+    "harm": {
+      "id": "0005251",
+      "title": "550012 - Sensor switches",
+      "conceptLink": "/ec2/concept/5956260"
+    }
+  },
+  {
+    "uri": "en/9/16237802",
+    "id": "16237802",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors and detectors",
+    "harm": {
+      "id": "0047766",
+      "title": "16237802 - Sensors and detectors",
+      "conceptLink": "/ec2/concept/5995041"
+    }
+  },
+  {
+    "uri": "en/9/136976806",
+    "id": "136976806",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for determining acceleration",
+    "harm": {
+      "id": "0034967",
+      "title": "136976806 - Sensors for determining acceleration",
+      "conceptLink": "/ec2/concept/5983447"
+    }
+  },
+  {
+    "uri": "en/9/136976801",
+    "id": "136976801",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for determining position",
+    "harm": {
+      "id": "0060511",
+      "title": "136976801 - Sensors for determining position",
+      "conceptLink": "/ec2/concept/5998484"
+    }
+  },
+  {
+    "uri": "en/9/108371900",
+    "id": "108371900",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for determining temperature",
+    "harm": {
+      "id": "0036965",
+      "title": "108371900 - Sensors for determining temperature",
+      "conceptLink": "/ec2/concept/5985264"
+    }
+  },
+  {
+    "uri": "en/9/136976805",
+    "id": "136976805",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for determining velocity",
+    "harm": {
+      "id": "0060514",
+      "title": "136976805 - Sensors for determining velocity",
+      "conceptLink": "/ec2/concept/5998487"
+    }
+  },
+  {
+    "uri": "en/9/550027",
+    "id": "550027",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for engines",
+    "harm": {
+      "id": "0018583",
+      "title": "550027 - Sensors for engines",
+      "conceptLink": "/ec2/concept/5968471"
+    }
+  },
+  {
+    "uri": "en/9/550042",
+    "id": "550042",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for measuring depth",
+    "harm": {
+      "id": "0022664",
+      "title": "550042 - Sensors for measuring depth",
+      "conceptLink": "/ec2/concept/5972198"
+    }
+  },
+  {
+    "uri": "en/9/232028851",
+    "id": "232028851",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for measuring instruments",
+    "harm": {
+      "id": "0072979",
+      "title": "232028851 - Sensors for measuring instruments",
+      "conceptLink": "/ec2/concept/6009154"
+    }
+  },
+  {
+    "uri": "en/9/550054",
+    "id": "550054",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for measuring speed",
+    "harm": {
+      "id": "0005252",
+      "title": "550054 - Sensors for measuring speed",
+      "conceptLink": "/ec2/concept/5956261"
+    }
+  },
+  {
+    "uri": "en/9/550071",
+    "id": "550071",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for use in the control of motors",
+    "harm": {
+      "id": "0022665",
+      "title": "550071 - Sensors for use in the control of motors",
+      "conceptLink": "/ec2/concept/5972199"
+    }
+  },
+  {
+    "uri": "en/9/550070",
+    "id": "550070",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for use in the control of engines",
+    "harm": {
+      "id": "0022665",
+      "title": "550070 - Sensors for use in the control of engines",
+      "conceptLink": "/ec2/concept/5972199"
+    }
+  },
+  {
+    "uri": "en/9/550087",
+    "id": "550087",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors for use with machine tools",
+    "harm": {
+      "id": "0034097",
+      "title": "550087 - Sensors for use with machine tools",
+      "conceptLink": "/ec2/concept/5982663"
+    }
+  },
+  {
+    "uri": "en/9/550100",
+    "id": "550100",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors used in meteorology",
+    "harm": {
+      "id": "0024023",
+      "title": "550100 - Sensors used in meteorology",
+      "conceptLink": "/ec2/concept/5973447"
+    }
+  },
+  {
+    "uri": "en/9/550113",
+    "id": "550113",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors used in oceanography",
+    "harm": {
+      "id": "0018214",
+      "title": "550113 - Sensors used in oceanography",
+      "conceptLink": "/ec2/concept/5968129"
+    }
+  },
+  {
+    "uri": "en/9/550126",
+    "id": "550126",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensors used in plant control",
+    "harm": {
+      "id": "0012410",
+      "title": "550126 - Sensors used in plant control",
+      "conceptLink": "/ec2/concept/5962822"
+    }
+  },
+  {
+    "uri": "en/9/233110581",
+    "id": "233110581",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Sensory software",
+    "harm": {
+      "id": "0072583",
+      "title": "233110581 - Sensory software",
+      "conceptLink": "/ec2/concept/6008760"
+    }
+  },
+  {
+    "uri": "en/9/550139",
+    "id": "550139",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Separating apparatus for laboratory use",
+    "harm": {
+      "id": "0012411",
+      "title": "550139 - Separating apparatus for laboratory use",
+      "conceptLink": "/ec2/concept/5962823"
+    }
+  },
+  {
+    "uri": "en/9/550152",
+    "id": "550152",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Separation columns for measuring purposes",
+    "harm": {
+      "id": "0035557",
+      "title": "550152 - Separation columns for measuring purposes",
+      "conceptLink": "/ec2/concept/5983984"
+    }
+  },
+  {
+    "uri": "en/9/550165",
+    "id": "550165",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Separation columns for scientific purposes",
+    "harm": {
+      "id": "0018215",
+      "title": "550165 - Separation columns for scientific purposes",
+      "conceptLink": "/ec2/concept/5968130"
+    }
+  }
+]

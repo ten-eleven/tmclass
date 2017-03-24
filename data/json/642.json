@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/811744",
+    "id": "811744",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship of superannuation funds",
+    "harm": {
+      "id": "0016531",
+      "title": "811744 - Trusteeship of superannuation funds",
+      "conceptLink": "/ec2/concept/5966601"
+    }
+  },
+  {
+    "uri": "en/36/451905",
+    "id": "451905",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship representatives",
+    "harm": {
+      "id": "0000490",
+      "title": "451905 - Trusteeship representatives",
+      "conceptLink": "/ec2/concept/5951927"
+    }
+  },
+  {
+    "uri": "en/36/33370",
+    "id": "33370",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeship services",
+    "harm": {
+      "id": "0008579",
+      "title": "33370 - Trusteeship services",
+      "conceptLink": "/ec2/concept/5959301"
+    }
+  },
+  {
+    "uri": "en/36/33365",
+    "id": "33365",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Trusteeships",
+    "harm": {
+      "id": "0008579",
+      "title": "33365 - Trusteeships",
+      "conceptLink": "/ec2/concept/5959301"
+    }
+  },
+  {
+    "uri": "en/36/31579",
+    "id": "31579",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting",
+    "harm": {
+      "id": "0022950",
+      "title": "31579 - Underwriting",
+      "conceptLink": "/ec2/concept/5972456"
+    }
+  },
+  {
+    "uri": "en/36/449738",
+    "id": "449738",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting extended warranty contracts",
+    "harm": {
+      "id": "0013590",
+      "title": "449738 - Underwriting extended warranty contracts",
+      "conceptLink": "/ec2/concept/5963886"
+    }
+  },
+  {
+    "uri": "en/36/125036520",
+    "id": "125036520",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting in foreign exchange (Services for the -)",
+    "harm": {
+      "id": "0010725",
+      "title": "125036520 - Underwriting in foreign exchange (Services for the -)",
+      "conceptLink": "/ec2/concept/5961276"
+    }
+  },
+  {
+    "uri": "en/36/124327450",
+    "id": "124327450",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting (Insurance -)",
+    "harm": {
+      "id": "0059323",
+      "title": "124327450 - Underwriting (Insurance -)",
+      "conceptLink": "/ec2/concept/6000805"
+    }
+  },
+  {
+    "uri": "en/36/451946",
+    "id": "451946",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting insurance for pre-paid health care",
+    "harm": {
+      "id": "0013195",
+      "title": "451946 - Underwriting insurance for pre-paid health care",
+      "conceptLink": "/ec2/concept/5963537"
+    }
+  },
+  {
+    "uri": "en/36/451959",
+    "id": "451959",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting insurance for pre-paid legal services",
+    "harm": {
+      "id": "0042076",
+      "title": "451959 - Underwriting insurance for pre-paid legal services",
+      "conceptLink": "/ec2/concept/5989926"
+    }
+  },
+  {
+    "uri": "en/36/125036532",
+    "id": "125036532",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of annuities (Services for the -)",
+    "harm": {
+      "id": "0045350",
+      "title": "125036532 - Underwriting of annuities (Services for the -)",
+      "conceptLink": "/ec2/concept/5992924"
+    }
+  },
+  {
+    "uri": "en/36/125036548",
+    "id": "125036548",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of bullion (Services for the -)",
+    "harm": {
+      "id": "0039608",
+      "title": "125036548 - Underwriting of bullion (Services for the -)",
+      "conceptLink": "/ec2/concept/5987668"
+    }
+  },
+  {
+    "uri": "en/36/125036566",
+    "id": "125036566",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of business insurance (Services for the -)",
+    "harm": {
+      "id": "0015496",
+      "title": "125036566 - Underwriting of business insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5965641"
+    }
+  },
+  {
+    "uri": "en/36/125036565",
+    "id": "125036565",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of company insurance (Services for the -)",
+    "harm": {
+      "id": "0015496",
+      "title": "125036565 - Underwriting of company insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5965641"
+    }
+  },
+  {
+    "uri": "en/36/125036583",
+    "id": "125036583",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of credit insurance (Services for the -)",
+    "harm": {
+      "id": "0021375",
+      "title": "125036583 - Underwriting of credit insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5971018"
+    }
+  },
+  {
+    "uri": "en/36/124328103",
+    "id": "124328103",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of health insurance (Services for the -)",
+    "harm": {
+      "id": "0047187",
+      "title": "124328103 - Underwriting of health insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5994552"
+    }
+  },
+  {
+    "uri": "en/36/125036594",
+    "id": "125036594",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of insurance (Services for the -)",
+    "harm": {
+      "id": "0027016",
+      "title": "125036594 - Underwriting of insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5976180"
+    }
+  },
+  {
+    "uri": "en/36/811837",
+    "id": "811837",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of pensions",
+    "harm": {
+      "id": "0021376",
+      "title": "811837 - Underwriting of pensions",
+      "conceptLink": "/ec2/concept/5971019"
+    }
+  },
+  {
+    "uri": "en/36/125036622",
+    "id": "125036622",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of personal accident insurance (Services for the -)",
+    "harm": {
+      "id": "0003917",
+      "title": "125036622 - Underwriting of personal accident insurance (Services for the -)",
+      "conceptLink": "/ec2/concept/5955035"
+    }
+  },
+  {
+    "uri": "en/36/125036636",
+    "id": "125036636",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting of shares (Services for the -)",
+    "harm": {
+      "id": "0038563",
+      "title": "125036636 - Underwriting of shares (Services for the -)",
+      "conceptLink": "/ec2/concept/5986722"
+    }
+  },
+  {
+    "uri": "en/36/811879",
+    "id": "811879",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting relating to transport insurance",
+    "harm": {
+      "id": "0003918",
+      "title": "811879 - Underwriting relating to transport insurance",
+      "conceptLink": "/ec2/concept/5955036"
+    }
+  },
+  {
+    "uri": "en/36/33943",
+    "id": "33943",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting relating to marine insurance",
+    "harm": {
+      "id": "0047064",
+      "title": "33943 - Underwriting relating to marine insurance",
+      "conceptLink": "/ec2/concept/5994441"
+    }
+  },
+  {
+    "uri": "en/36/31580",
+    "id": "31580",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting services",
+    "harm": {
+      "id": "0022951",
+      "title": "31580 - Underwriting services",
+      "conceptLink": "/ec2/concept/5972457"
+    }
+  },
+  {
+    "uri": "en/36/451972",
+    "id": "451972",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Underwriting warranty programs",
+    "harm": {
+      "id": "0024770",
+      "title": "451972 - Underwriting warranty programs",
+      "conceptLink": "/ec2/concept/5974138"
+    }
+  },
+  {
+    "uri": "en/36/804329",
+    "id": "804329",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Unit trust investment",
+    "harm": {
+      "id": "0025944",
+      "title": "804329 - Unit trust investment",
+      "conceptLink": "/ec2/concept/5975210"
+    }
+  },
+  {
+    "uri": "en/36/367022",
+    "id": "367022",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Unit trust management",
+    "harm": {
+      "id": "0046982",
+      "title": "367022 - Unit trust management",
+      "conceptLink": "/ec2/concept/5994365"
+    }
+  },
+  {
+    "uri": "en/36/483107",
+    "id": "483107",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Unit trust services",
+    "harm": {
+      "id": "0023771",
+      "title": "483107 - Unit trust services",
+      "conceptLink": "/ec2/concept/5973212"
+    }
+  },
+  {
+    "uri": "en/36/811891",
+    "id": "811891",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Unit trust trusteeship",
+    "harm": {
+      "id": "0038564",
+      "title": "811891 - Unit trust trusteeship",
+      "conceptLink": "/ec2/concept/5986723"
+    }
+  },
+  {
+    "uri": "en/36/124327641",
+    "id": "124327641",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuables (Deposit of -)",
+    "harm": {
+      "id": "0046667",
+      "title": "124327641 - Valuables (Deposit of -)",
+      "conceptLink": "/ec2/concept/5994089"
+    }
+  },
+  {
+    "uri": "en/36/35765",
+    "id": "35765",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuables (Deposits of -)",
+    "harm": {
+      "id": "0046667",
+      "title": "35765 - Valuables (Deposits of -)",
+      "conceptLink": "/ec2/concept/5994089"
+    }
+  },
+  {
+    "uri": "en/36/811906",
+    "id": "811906",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of buildings",
+    "harm": {
+      "id": "0038565",
+      "title": "811906 - Valuation of buildings",
+      "conceptLink": "/ec2/concept/5986724"
+    }
+  },
+  {
+    "uri": "en/36/811922",
+    "id": "811922",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of capital stock",
+    "harm": {
+      "id": "0044352",
+      "title": "811922 - Valuation of capital stock",
+      "conceptLink": "/ec2/concept/5991999"
+    }
+  },
+  {
+    "uri": "en/36/811935",
+    "id": "811935",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of cargo for insurance purposes",
+    "harm": {
+      "id": "0038566",
+      "title": "811935 - Valuation of cargo for insurance purposes",
+      "conceptLink": "/ec2/concept/5986725"
+    }
+  },
+  {
+    "uri": "en/36/120881580",
+    "id": "120881580",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of diamonds",
+    "harm": {
+      "id": "0067837",
+      "title": "120881580 - Valuation of diamonds",
+      "conceptLink": "/ec2/concept/6004040"
+    }
+  },
+  {
+    "uri": "en/36/120881583",
+    "id": "120881583",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of diamonds, precious stones and precious metals",
+    "harm": {
+      "id": "0067838",
+      "title": "120881583 - Valuation of diamonds, precious stones and precious metals",
+      "conceptLink": "/ec2/concept/6004041"
+    }
+  },
+  {
+    "uri": "en/36/811949",
+    "id": "811949",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of farm assets",
+    "harm": {
+      "id": "0009665",
+      "title": "811949 - Valuation of farm assets",
+      "conceptLink": "/ec2/concept/5960306"
+    }
+  },
+  {
+    "uri": "en/36/120881782",
+    "id": "120881782",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of freight and cargo",
+    "harm": {
+      "id": "0067812",
+      "title": "120881782 - Valuation of freight and cargo",
+      "conceptLink": "/ec2/concept/6004015"
+    }
+  },
+  {
+    "uri": "en/36/897213",
+    "id": "897213",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of machinery",
+    "harm": {
+      "id": "0009066",
+      "title": "897213 - Valuation of machinery",
+      "conceptLink": "/ec2/concept/5959754"
+    }
+  },
+  {
+    "uri": "en/36/897229",
+    "id": "897229",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of pictures",
+    "harm": {
+      "id": "0009067",
+      "title": "897229 - Valuation of pictures",
+      "conceptLink": "/ec2/concept/5959755"
+    }
+  },
+  {
+    "uri": "en/36/811961",
+    "id": "811961",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of portfolios of securities",
+    "harm": {
+      "id": "0044353",
+      "title": "811961 - Valuation of portfolios of securities",
+      "conceptLink": "/ec2/concept/5992000"
+    }
+  },
+  {
+    "uri": "en/36/120881570",
+    "id": "120881570",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of precious metals",
+    "harm": {
+      "id": "0067836",
+      "title": "120881570 - Valuation of precious metals",
+      "conceptLink": "/ec2/concept/6004039"
+    }
+  },
+  {
+    "uri": "en/36/31994",
+    "id": "31994",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of property",
+    "harm": {
+      "id": "0043276",
+      "title": "31994 - Valuation of property",
+      "conceptLink": "/ec2/concept/5991016"
+    }
+  },
+  {
+    "uri": "en/36/31987",
+    "id": "31987",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of real estate",
+    "harm": {
+      "id": "0035003",
+      "title": "31987 - Valuation of real estate",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31997",
+    "id": "31997",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of real estate property",
+    "harm": {
+      "id": "0035003",
+      "title": "31997 - Valuation of real estate property",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/912477",
+    "id": "912477",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of standing timber (Financial -)",
+    "harm": {
+      "id": "0037328",
+      "title": "912477 - Valuation of standing timber (Financial -)",
+      "conceptLink": "/ec2/concept/5985590"
+    }
+  },
+  {
+    "uri": "en/36/120881785",
+    "id": "120881785",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation of yachts",
+    "harm": {
+      "id": "0067813",
+      "title": "120881785 - Valuation of yachts",
+      "conceptLink": "/ec2/concept/6004016"
+    }
+  },
+  {
+    "uri": "en/36/897256",
+    "id": "897256",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation relating to the surveying of buildings",
+    "harm": {
+      "id": "0037997",
+      "title": "897256 - Valuation relating to the surveying of buildings",
+      "conceptLink": "/ec2/concept/5986197"
+    }
+  },
+  {
+    "uri": "en/36/897241",
+    "id": "897241",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation relating to the design of buildings",
+    "harm": {
+      "id": "0032175",
+      "title": "897241 - Valuation relating to the design of buildings",
+      "conceptLink": "/ec2/concept/5980901"
+    }
+  },
+  {
+    "uri": "en/36/4633294",
+    "id": "4633294",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation services",
+    "harm": {
+      "id": "0048077",
+      "title": "4633294 - Valuation services",
+      "conceptLink": "/ec2/concept/5995336"
+    }
+  },
+  {
+    "uri": "en/36/811977",
+    "id": "811977",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuation services of property for fiscal purposes",
+    "harm": {
+      "id": "0027017",
+      "title": "811977 - Valuation services of property for fiscal purposes",
+      "conceptLink": "/ec2/concept/5976181"
+    }
+  },
+  {
+    "uri": "en/36/451986",
+    "id": "451986",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations and financial appraisals of property",
+    "harm": {
+      "id": "0019021",
+      "title": "451986 - Valuations and financial appraisals of property",
+      "conceptLink": "/ec2/concept/5968878"
+    }
+  },
+  {
+    "uri": "en/36/35474",
+    "id": "35474",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations [appraisals] of jewellery",
+    "harm": {
+      "id": "0012041",
+      "title": "35474 - Valuations [appraisals] of jewellery",
+      "conceptLink": "/ec2/concept/5962485"
+    }
+  },
+  {
+    "uri": "en/36/34607",
+    "id": "34607",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations [appraisals] of antiques",
+    "harm": {
+      "id": "0006194",
+      "title": "34607 - Valuations [appraisals] of antiques",
+      "conceptLink": "/ec2/concept/5957127"
+    }
+  },
+  {
+    "uri": "en/36/34678",
+    "id": "34678",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations [appraisals] of artworks",
+    "harm": {
+      "id": "0023640",
+      "title": "34678 - Valuations [appraisals] of artworks",
+      "conceptLink": "/ec2/concept/5973091"
+    }
+  },
+  {
+    "uri": "en/36/811989",
+    "id": "811989",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations [appraisals] of valuables",
+    "harm": {
+      "id": "0036661",
+      "title": "811989 - Valuations [appraisals] of valuables",
+      "conceptLink": "/ec2/concept/5984988"
+    }
+  },
+  {
+    "uri": "en/36/125192518",
+    "id": "125192518",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations (Financial -)",
+    "harm": {
+      "id": "0047031",
+      "title": "125192518 - Valuations (Financial -)",
+      "conceptLink": "/ec2/concept/5994410"
+    }
+  },
+  {
+    "uri": "en/36/31998",
+    "id": "31998",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations in real estate matters",
+    "harm": {
+      "id": "0035003",
+      "title": "31998 - Valuations in real estate matters",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/34679",
+    "id": "34679",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations of artistic craftsmanship",
+    "harm": {
+      "id": "0023640",
+      "title": "34679 - Valuations of artistic craftsmanship",
+      "conceptLink": "/ec2/concept/5973091"
+    }
+  },
+  {
+    "uri": "en/36/34680",
+    "id": "34680",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations of works of art",
+    "harm": {
+      "id": "0023640",
+      "title": "34680 - Valuations of works of art",
+      "conceptLink": "/ec2/concept/5973091"
+    }
+  },
+  {
+    "uri": "en/36/125147225",
+    "id": "125147225",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Valuations (Real estate -)",
+    "harm": {
+      "id": "0035003",
+      "title": "125147225 - Valuations (Real estate -)",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/452006",
+    "id": "452006",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Variable annuity investment services",
+    "harm": {
+      "id": "0001602",
+      "title": "452006 - Variable annuity investment services",
+      "conceptLink": "/ec2/concept/5952929"
+    }
+  },
+  {
+    "uri": "en/36/452026",
+    "id": "452026",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Variable insurance investment services",
+    "harm": {
+      "id": "0024771",
+      "title": "452026 - Variable insurance investment services",
+      "conceptLink": "/ec2/concept/5974139"
+    }
+  },
+  {
+    "uri": "en/36/812004",
+    "id": "812004",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Vehicle insurance services",
+    "harm": {
+      "id": "0013391",
+      "title": "812004 - Vehicle insurance services",
+      "conceptLink": "/ec2/concept/5963712"
+    }
+  },
+  {
+    "uri": "en/36/810615",
+    "id": "810615",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Vehicle warranties",
+    "harm": {
+      "id": "0001946",
+      "title": "810615 - Vehicle warranties",
+      "conceptLink": "/ec2/concept/5953238"
+    }
+  },
+  {
+    "uri": "en/36/812018",
+    "id": "812018",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Vehicle warranty services",
+    "harm": {
+      "id": "0001946",
+      "title": "812018 - Vehicle warranty services",
+      "conceptLink": "/ec2/concept/5953238"
+    }
+  },
+  {
+    "uri": "en/36/452047",
+    "id": "452047",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital and project capital investment services",
+    "harm": {
+      "id": "0037693",
+      "title": "452047 - Venture capital and project capital investment services",
+      "conceptLink": "/ec2/concept/5985917"
+    }
+  },
+  {
+    "uri": "en/36/452067",
+    "id": "452067",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital and venture capital management services",
+    "harm": {
+      "id": "0026100",
+      "title": "452067 - Venture capital and venture capital management services",
+      "conceptLink": "/ec2/concept/5975354"
+    }
+  },
+  {
+    "uri": "en/36/907922",
+    "id": "907922",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital financing",
+    "harm": {
+      "id": "0032049",
+      "title": "907922 - Venture capital financing",
+      "conceptLink": "/ec2/concept/5980787"
+    }
+  },
+  {
+    "uri": "en/36/907941",
+    "id": "907941",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital fund management",
+    "harm": {
+      "id": "0042054",
+      "title": "907941 - Venture capital fund management",
+      "conceptLink": "/ec2/concept/5989905"
+    }
+  },
+  {
+    "uri": "en/36/452084",
+    "id": "452084",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services to emerging and start-up companies",
+    "harm": {
+      "id": "0026101",
+      "title": "452084 - Venture capital funding services to emerging and start-up companies",
+      "conceptLink": "/ec2/concept/5975355"
+    }
+  },
+  {
+    "uri": "en/36/120883560",
+    "id": "120883560",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for companies",
+    "harm": {
+      "id": "0067967",
+      "title": "120883560 - Venture capital funding services for companies",
+      "conceptLink": "/ec2/concept/6004170"
+    }
+  },
+  {
+    "uri": "en/36/120883557",
+    "id": "120883557",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for inventors",
+    "harm": {
+      "id": "0067966",
+      "title": "120883557 - Venture capital funding services for inventors",
+      "conceptLink": "/ec2/concept/6004169"
+    }
+  },
+  {
+    "uri": "en/36/120883544",
+    "id": "120883544",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for non-profit entities",
+    "harm": {
+      "id": "0067962",
+      "title": "120883544 - Venture capital funding services for non-profit entities",
+      "conceptLink": "/ec2/concept/6004165"
+    }
+  },
+  {
+    "uri": "en/36/120883547",
+    "id": "120883547",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for commercial entities",
+    "harm": {
+      "id": "0067963",
+      "title": "120883547 - Venture capital funding services for commercial entities",
+      "conceptLink": "/ec2/concept/6004166"
+    }
+  },
+  {
+    "uri": "en/36/120883538",
+    "id": "120883538",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for research institutions",
+    "harm": {
+      "id": "0067964",
+      "title": "120883538 - Venture capital funding services for research institutions",
+      "conceptLink": "/ec2/concept/6004167"
+    }
+  },
+  {
+    "uri": "en/36/120883541",
+    "id": "120883541",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital funding services for universities",
+    "harm": {
+      "id": "0067965",
+      "title": "120883541 - Venture capital funding services for universities",
+      "conceptLink": "/ec2/concept/6004168"
+    }
+  },
+  {
+    "uri": "en/36/812060",
+    "id": "812060",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital management",
+    "harm": {
+      "id": "0028223",
+      "title": "812060 - Venture capital management",
+      "conceptLink": "/ec2/concept/5977289"
+    }
+  },
+  {
+    "uri": "en/36/487969",
+    "id": "487969",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital services",
+    "harm": {
+      "id": "0040161",
+      "title": "487969 - Venture capital services",
+      "conceptLink": "/ec2/concept/5988179"
+    }
+  },
+  {
+    "uri": "en/36/125036774",
+    "id": "125036774",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital (Services for the finding of -)",
+    "harm": {
+      "id": "0039744",
+      "title": "125036774 - Venture capital (Services for the finding of -)",
+      "conceptLink": "/ec2/concept/5987795"
+    }
+  },
+  {
+    "uri": "en/36/125036790",
+    "id": "125036790",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Venture capital (Services for the provision of -)",
+    "harm": {
+      "id": "0039745",
+      "title": "125036790 - Venture capital (Services for the provision of -)",
+      "conceptLink": "/ec2/concept/5987796"
+    }
+  },
+  {
+    "uri": "en/36/34762",
+    "id": "34762",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Verification (Check [cheque] -)",
+    "harm": {
+      "id": "0006198",
+      "title": "34762 - Verification (Check [cheque] -)",
+      "conceptLink": "/ec2/concept/5957131"
+    }
+  },
+  {
+    "uri": "en/36/812076",
+    "id": "812076",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Verification of euro-cheques",
+    "harm": {
+      "id": "0045511",
+      "title": "812076 - Verification of euro-cheques",
+      "conceptLink": "/ec2/concept/5993066"
+    }
+  },
+  {
+    "uri": "en/36/452114",
+    "id": "452114",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Viatical settlement services",
+    "harm": {
+      "id": "0008752",
+      "title": "452114 - Viatical settlement services",
+      "conceptLink": "/ec2/concept/5959456"
+    }
+  },
+  {
+    "uri": "en/36/125036839",
+    "id": "125036839",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranties (Extended -) for appliances",
+    "harm": {
+      "id": "0010881",
+      "title": "125036839 - Warranties (Extended -) for appliances",
+      "conceptLink": "/ec2/concept/5961415"
+    }
+  },
+  {
+    "uri": "en/36/125036860",
+    "id": "125036860",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranties (Extended -) for domestic electrical appliances",
+    "harm": {
+      "id": "0005138",
+      "title": "125036860 - Warranties (Extended -) for domestic electrical appliances",
+      "conceptLink": "/ec2/concept/5956160"
+    }
+  },
+  {
+    "uri": "en/36/125036873",
+    "id": "125036873",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranties (Extended -) for electrical appliances",
+    "harm": {
+      "id": "0033976",
+      "title": "125036873 - Warranties (Extended -) for electrical appliances",
+      "conceptLink": "/ec2/concept/5982551"
+    }
+  },
+  {
+    "uri": "en/36/125036838",
+    "id": "125036838",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranties (Extended -) for machines",
+    "harm": {
+      "id": "0010881",
+      "title": "125036838 - Warranties (Extended -) for machines",
+      "conceptLink": "/ec2/concept/5961415"
+    }
+  },
+  {
+    "uri": "en/36/452126",
+    "id": "452126",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty claims administration services",
+    "harm": {
+      "id": "0008753",
+      "title": "452126 - Warranty claims administration services",
+      "conceptLink": "/ec2/concept/5959457"
+    }
+  },
+  {
+    "uri": "en/36/806023",
+    "id": "806023",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty insurance services",
+    "harm": {
+      "id": "0014742",
+      "title": "806023 - Warranty insurance services",
+      "conceptLink": "/ec2/concept/5964952"
+    }
+  },
+  {
+    "uri": "en/36/812139",
+    "id": "812139",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty programme services",
+    "harm": {
+      "id": "0010882",
+      "title": "812139 - Warranty programme services",
+      "conceptLink": "/ec2/concept/5961416"
+    }
+  },
+  {
+    "uri": "en/36/812155",
+    "id": "812155",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty programme services relating to outboard motor engines",
+    "harm": {
+      "id": "0039746",
+      "title": "812155 - Warranty programme services relating to outboard motor engines",
+      "conceptLink": "/ec2/concept/5987797"
+    }
+  },
+  {
+    "uri": "en/36/31581",
+    "id": "31581",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty services",
+    "harm": {
+      "id": "0072803",
+      "title": "31581 - Warranty services",
+      "conceptLink": "/ec2/concept/6008978"
+    }
+  },
+  {
+    "uri": "en/36/812169",
+    "id": "812169",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Warranty services for road vehicles",
+    "harm": {
+      "id": "0016702",
+      "title": "812169 - Warranty services for road vehicles",
+      "conceptLink": "/ec2/concept/5966762"
+    }
+  },
+  {
+    "uri": "en/36/26754905",
+    "id": "26754905",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Wealth management",
+    "harm": {
+      "id": "0071325",
+      "title": "26754905 - Wealth management",
+      "conceptLink": "/ec2/concept/6007516"
+    }
+  },
+  {
+    "uri": "en/37/812182",
+    "id": "812182",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Abrasive cleaning of metallic surfaces",
+    "harm": {
+      "id": "0045512",
+      "title": "812182 - Abrasive cleaning of metallic surfaces",
+      "conceptLink": "/ec2/concept/5993067"
+    }
+  },
+  {
+    "uri": "en/37/812195",
+    "id": "812195",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Abrasive cleaning of non-metallic surfaces",
+    "harm": {
+      "id": "0022562",
+      "title": "812195 - Abrasive cleaning of non-metallic surfaces",
+      "conceptLink": "/ec2/concept/5972106"
+    }
+  },
+  {
+    "uri": "en/37/120893027",
+    "id": "120893027",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Abrasive cleaning of surfaces",
+    "harm": {
+      "id": "0068088",
+      "title": "120893027 - Abrasive cleaning of surfaces",
+      "conceptLink": "/ec2/concept/6004291"
+    }
+  },
+  {
+    "uri": "en/37/812208",
+    "id": "812208",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Acoustic ceiling cleaning",
+    "harm": {
+      "id": "0026704",
+      "title": "812208 - Acoustic ceiling cleaning",
+      "conceptLink": "/ec2/concept/5975902"
+    }
+  },
+  {
+    "uri": "en/37/812248",
+    "id": "812248",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Advice relating to preventing blockages in plumbing lines",
+    "harm": {
+      "id": "0021076",
+      "title": "812248 - Advice relating to preventing blockages in plumbing lines",
+      "conceptLink": "/ec2/concept/5970749"
+    }
+  },
+  {
+    "uri": "en/37/812262",
+    "id": "812262",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Advice relating to preventing blockages in septic tanks",
+    "harm": {
+      "id": "0003639",
+      "title": "812262 - Advice relating to preventing blockages in septic tanks",
+      "conceptLink": "/ec2/concept/5954783"
+    }
+  }
+]

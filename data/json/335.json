@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/12/742944",
+    "id": "742944",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electric trolley buses",
+    "harm": {
+      "id": "0044546",
+      "title": "742944 - Electric trolley buses",
+      "conceptLink": "/ec2/concept/5992183"
+    }
+  },
+  {
+    "uri": "en/12/742955",
+    "id": "742955",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electric trucks [vehicles]",
+    "harm": {
+      "id": "0015710",
+      "title": "742955 - Electric trucks [vehicles]",
+      "conceptLink": "/ec2/concept/5965842"
+    }
+  },
+  {
+    "uri": "en/12/66989088",
+    "id": "66989088",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electric unicycles",
+    "harm": {
+      "id": "0070387",
+      "title": "66989088 - Electric unicycles",
+      "conceptLink": "/ec2/concept/6006580"
+    }
+  },
+  {
+    "uri": "en/12/188667",
+    "id": "188667",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electric vehicles",
+    "harm": {
+      "id": "0006521",
+      "title": "188667 - Electric vehicles",
+      "conceptLink": "/ec2/concept/5957427"
+    }
+  },
+  {
+    "uri": "en/12/7294177",
+    "id": "7294177",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electric wheelchairs",
+    "harm": {
+      "id": "0001356",
+      "title": "7294177 - Electric wheelchairs",
+      "conceptLink": "/ec2/concept/5952705"
+    }
+  },
+  {
+    "uri": "en/12/742971",
+    "id": "742971",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrical anti-theft installations for vehicles",
+    "harm": {
+      "id": "0021610",
+      "title": "742971 - Electrical anti-theft installations for vehicles",
+      "conceptLink": "/ec2/concept/5971227"
+    }
+  },
+  {
+    "uri": "en/12/742861",
+    "id": "742861",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrical drives for land vehicles",
+    "harm": {
+      "id": "0040904",
+      "title": "742861 - Electrical drives for land vehicles",
+      "conceptLink": "/ec2/concept/5988852"
+    }
+  },
+  {
+    "uri": "en/12/188572",
+    "id": "188572",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrical motors for land vehicles",
+    "harm": {
+      "id": "0040904",
+      "title": "188572 - Electrical motors for land vehicles",
+      "conceptLink": "/ec2/concept/5988852"
+    }
+  },
+  {
+    "uri": "en/12/742985",
+    "id": "742985",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically operated scooters",
+    "harm": {
+      "id": "0043661",
+      "title": "742985 - Electrically operated scooters",
+      "conceptLink": "/ec2/concept/5991371"
+    }
+  },
+  {
+    "uri": "en/12/743011",
+    "id": "743011",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically operated theft prevention installations for vehicles",
+    "harm": {
+      "id": "0004169",
+      "title": "743011 - Electrically operated theft prevention installations for vehicles",
+      "conceptLink": "/ec2/concept/5955261"
+    }
+  },
+  {
+    "uri": "en/12/188668",
+    "id": "188668",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically operated vehicles",
+    "harm": {
+      "id": "0006521",
+      "title": "188668 - Electrically operated vehicles",
+      "conceptLink": "/ec2/concept/5957427"
+    }
+  },
+  {
+    "uri": "en/12/411253",
+    "id": "411253",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically operated wheelchairs",
+    "harm": {
+      "id": "0001356",
+      "title": "411253 - Electrically operated wheelchairs",
+      "conceptLink": "/ec2/concept/5952705"
+    }
+  },
+  {
+    "uri": "en/12/743031",
+    "id": "743031",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered aircraft",
+    "harm": {
+      "id": "0038792",
+      "title": "743031 - Electrically powered aircraft",
+      "conceptLink": "/ec2/concept/5986927"
+    }
+  },
+  {
+    "uri": "en/12/131044857",
+    "id": "131044857",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered buses",
+    "harm": {
+      "id": "0056000",
+      "title": "131044857 - Electrically powered buses",
+      "conceptLink": "/ec2/concept/5997366"
+    }
+  },
+  {
+    "uri": "en/12/188669",
+    "id": "188669",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered land vehicles",
+    "harm": {
+      "id": "0026323",
+      "title": "188669 - Electrically powered land vehicles",
+      "conceptLink": "/ec2/concept/5975561"
+    }
+  },
+  {
+    "uri": "en/12/743043",
+    "id": "743043",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered motor vehicles",
+    "harm": {
+      "id": "0020669",
+      "title": "743043 - Electrically powered motor vehicles",
+      "conceptLink": "/ec2/concept/5970371"
+    }
+  },
+  {
+    "uri": "en/12/232590914",
+    "id": "232590914",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically-powered motor scooters",
+    "harm": {
+      "id": "0043661",
+      "title": "232590914 - Electrically-powered motor scooters",
+      "conceptLink": "/ec2/concept/5991371"
+    }
+  },
+  {
+    "uri": "en/12/742986",
+    "id": "742986",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered scooters",
+    "harm": {
+      "id": "0043661",
+      "title": "742986 - Electrically powered scooters",
+      "conceptLink": "/ec2/concept/5991371"
+    }
+  },
+  {
+    "uri": "en/12/137873291",
+    "id": "137873291",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered scooters [vehicles]",
+    "harm": {
+      "id": "0043661",
+      "title": "137873291 - Electrically powered scooters [vehicles]",
+      "conceptLink": "/ec2/concept/5991371"
+    }
+  },
+  {
+    "uri": "en/12/743056",
+    "id": "743056",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered trolleys",
+    "harm": {
+      "id": "0043662",
+      "title": "743056 - Electrically powered trolleys",
+      "conceptLink": "/ec2/concept/5991372"
+    }
+  },
+  {
+    "uri": "en/12/188670",
+    "id": "188670",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered vehicles",
+    "harm": {
+      "id": "0006521",
+      "title": "188670 - Electrically powered vehicles",
+      "conceptLink": "/ec2/concept/5957427"
+    }
+  },
+  {
+    "uri": "en/12/188671",
+    "id": "188671",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically powered watercraft",
+    "harm": {
+      "id": "0003227",
+      "title": "188671 - Electrically powered watercraft",
+      "conceptLink": "/ec2/concept/5954403"
+    }
+  },
+  {
+    "uri": "en/12/411252",
+    "id": "411252",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Electrically-powered wheelchairs",
+    "harm": {
+      "id": "0001356",
+      "title": "411252 - Electrically-powered wheelchairs",
+      "conceptLink": "/ec2/concept/5952705"
+    }
+  },
+  {
+    "uri": "en/12/119704631",
+    "id": "119704631",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Elevating power tailgates (Am.) [parts of land vehicles]",
+    "harm": {
+      "id": "0017334",
+      "title": "119704631 - Elevating power tailgates (Am.) [parts of land vehicles]",
+      "conceptLink": "/ec2/concept/5967326"
+    }
+  },
+  {
+    "uri": "en/12/194147",
+    "id": "194147",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Elevating tailgates (Am.) [parts of land vehicles]",
+    "harm": {
+      "id": "0017334",
+      "title": "194147 - Elevating tailgates (Am.) [parts of land vehicles]",
+      "conceptLink": "/ec2/concept/5967326"
+    }
+  },
+  {
+    "uri": "en/12/183087",
+    "id": "183087",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Elevating trucks",
+    "harm": {
+      "id": "0020328",
+      "title": "183087 - Elevating trucks",
+      "conceptLink": "/ec2/concept/5970059"
+    }
+  },
+  {
+    "uri": "en/12/119533806",
+    "id": "119533806",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Empennages",
+    "harm": {
+      "id": "0066367",
+      "title": "119533806 - Empennages",
+      "conceptLink": "/ec2/concept/6002570"
+    }
+  },
+  {
+    "uri": "en/12/136537977",
+    "id": "136537977",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engine mounts for land vehicles",
+    "harm": {
+      "id": "0060030",
+      "title": "136537977 - Engine mounts for land vehicles",
+      "conceptLink": "/ec2/concept/5996296"
+    }
+  },
+  {
+    "uri": "en/12/338824",
+    "id": "338824",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engine transmission belts for land vehicles",
+    "harm": {
+      "id": "0028881",
+      "title": "338824 - Engine transmission belts for land vehicles",
+      "conceptLink": "/ec2/concept/5977905"
+    }
+  },
+  {
+    "uri": "en/12/336981",
+    "id": "336981",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engines for automobiles",
+    "harm": {
+      "id": "0046617",
+      "title": "336981 - Engines for automobiles",
+      "conceptLink": "/ec2/concept/5994043"
+    }
+  },
+  {
+    "uri": "en/12/189731",
+    "id": "189731",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engines for land vehicles",
+    "harm": {
+      "id": "0058481",
+      "title": "189731 - Engines for land vehicles",
+      "conceptLink": "/ec2/concept/5999980"
+    }
+  },
+  {
+    "uri": "en/12/189739",
+    "id": "189739",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engines for motor land vehicles",
+    "harm": {
+      "id": "0058481",
+      "title": "189739 - Engines for motor land vehicles",
+      "conceptLink": "/ec2/concept/5999980"
+    }
+  },
+  {
+    "uri": "en/12/190040",
+    "id": "190040",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Engines (Traction -)",
+    "harm": {
+      "id": "0008986",
+      "title": "190040 - Engines (Traction -)",
+      "conceptLink": "/ec2/concept/5959681"
+    }
+  },
+  {
+    "uri": "en/12/411278",
+    "id": "411278",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Equipment trailers",
+    "harm": {
+      "id": "0024504",
+      "title": "411278 - Equipment trailers",
+      "conceptLink": "/ec2/concept/5973886"
+    }
+  },
+  {
+    "uri": "en/12/743081",
+    "id": "743081",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "External load carriers for vehicles",
+    "harm": {
+      "id": "0037908",
+      "title": "743081 - External load carriers for vehicles",
+      "conceptLink": "/ec2/concept/5986113"
+    }
+  },
+  {
+    "uri": "en/12/743094",
+    "id": "743094",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fan motors for land vehicles",
+    "harm": {
+      "id": "0038435",
+      "title": "743094 - Fan motors for land vehicles",
+      "conceptLink": "/ec2/concept/5986605"
+    }
+  },
+  {
+    "uri": "en/12/120895004",
+    "id": "120895004",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fender flares for land vehicles",
+    "harm": {
+      "id": "0066332",
+      "title": "120895004 - Fender flares for land vehicles",
+      "conceptLink": "/ec2/concept/6002535"
+    }
+  },
+  {
+    "uri": "en/12/120895001",
+    "id": "120895001",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fenders for land vehicles",
+    "harm": {
+      "id": "0023581",
+      "title": "120895001 - Fenders for land vehicles",
+      "conceptLink": "/ec2/concept/5973041"
+    }
+  },
+  {
+    "uri": "en/12/194428",
+    "id": "194428",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fenders for ships",
+    "harm": {
+      "id": "0035321",
+      "title": "194428 - Fenders for ships",
+      "conceptLink": "/ec2/concept/5983768"
+    }
+  },
+  {
+    "uri": "en/12/743107",
+    "id": "743107",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fenders for water vehicles",
+    "harm": {
+      "id": "0009523",
+      "title": "743107 - Fenders for water vehicles",
+      "conceptLink": "/ec2/concept/5960176"
+    }
+  },
+  {
+    "uri": "en/12/411801",
+    "id": "411801",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fenders [land vehicle parts]",
+    "harm": {
+      "id": "0020578",
+      "title": "411801 - Fenders [land vehicle parts]",
+      "conceptLink": "/ec2/concept/5970284"
+    }
+  },
+  {
+    "uri": "en/12/184543",
+    "id": "184543",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Ferry boats",
+    "harm": {
+      "id": "0024734",
+      "title": "184543 - Ferry boats",
+      "conceptLink": "/ec2/concept/5974106"
+    }
+  },
+  {
+    "uri": "en/12/411297",
+    "id": "411297",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Filing trolley",
+    "harm": {
+      "id": "0001357",
+      "title": "411297 - Filing trolley",
+      "conceptLink": "/ec2/concept/5952706"
+    }
+  },
+  {
+    "uri": "en/12/411298",
+    "id": "411298",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Filing trolleys",
+    "harm": {
+      "id": "0001357",
+      "title": "411298 - Filing trolleys",
+      "conceptLink": "/ec2/concept/5952706"
+    }
+  },
+  {
+    "uri": "en/12/743119",
+    "id": "743119",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Filler caps for vehicle fuel tanks",
+    "harm": {
+      "id": "0015374",
+      "title": "743119 - Filler caps for vehicle fuel tanks",
+      "conceptLink": "/ec2/concept/5965530"
+    }
+  },
+  {
+    "uri": "en/12/337459",
+    "id": "337459",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fishing boats",
+    "harm": {
+      "id": "0022538",
+      "title": "337459 - Fishing boats",
+      "conceptLink": "/ec2/concept/5972084"
+    }
+  },
+  {
+    "uri": "en/12/136244714",
+    "id": "136244714",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted automobile body covers",
+    "harm": {
+      "id": "0003217",
+      "title": "136244714 - Fitted automobile body covers",
+      "conceptLink": "/ec2/concept/5954394"
+    }
+  },
+  {
+    "uri": "en/12/119533818",
+    "id": "119533818",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted bicycle covers",
+    "harm": {
+      "id": "0066348",
+      "title": "119533818 - Fitted bicycle covers",
+      "conceptLink": "/ec2/concept/6002551"
+    }
+  },
+  {
+    "uri": "en/12/903732",
+    "id": "903732",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted covers for boats and marine vehicles",
+    "harm": {
+      "id": "0020456",
+      "title": "903732 - Fitted covers for boats and marine vehicles",
+      "conceptLink": "/ec2/concept/5970177"
+    }
+  },
+  {
+    "uri": "en/12/501709",
+    "id": "501709",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted covers for vehicle steering wheels",
+    "harm": {
+      "id": "0036161",
+      "title": "501709 - Fitted covers for vehicle steering wheels",
+      "conceptLink": "/ec2/concept/5984529"
+    }
+  },
+  {
+    "uri": "en/12/411320",
+    "id": "411320",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted covers for vehicles",
+    "harm": {
+      "id": "0058296",
+      "title": "411320 - Fitted covers for vehicles",
+      "conceptLink": "/ec2/concept/5999795"
+    }
+  },
+  {
+    "uri": "en/12/411336",
+    "id": "411336",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted dashboard covers for vehicles",
+    "harm": {
+      "id": "0003044",
+      "title": "411336 - Fitted dashboard covers for vehicles",
+      "conceptLink": "/ec2/concept/5954232"
+    }
+  },
+  {
+    "uri": "en/12/233553786",
+    "id": "233553786",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted footmuffs for baby carriages",
+    "harm": {
+      "id": "0052086",
+      "title": "233553786 - Fitted footmuffs for baby carriages",
+      "conceptLink": "/ec2/concept/6010986"
+    }
+  },
+  {
+    "uri": "en/12/233553785",
+    "id": "233553785",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted footmuffs for prams",
+    "harm": {
+      "id": "0052086",
+      "title": "233553785 - Fitted footmuffs for prams",
+      "conceptLink": "/ec2/concept/6010986"
+    }
+  },
+  {
+    "uri": "en/12/233553818",
+    "id": "233553818",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted footmuffs for pushchairs",
+    "harm": {
+      "id": "0052087",
+      "title": "233553818 - Fitted footmuffs for pushchairs",
+      "conceptLink": "/ec2/concept/6010987"
+    }
+  },
+  {
+    "uri": "en/12/233553819",
+    "id": "233553819",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted footmuffs for strollers",
+    "harm": {
+      "id": "0052087",
+      "title": "233553819 - Fitted footmuffs for strollers",
+      "conceptLink": "/ec2/concept/6010987"
+    }
+  },
+  {
+    "uri": "en/12/129813980",
+    "id": "129813980",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted hatch covers for railway cars to prevent entry of water and moisture",
+    "harm": {
+      "id": "0071703",
+      "title": "129813980 - Fitted hatch covers for railway cars to prevent entry of water and moisture",
+      "conceptLink": "/ec2/concept/6007891"
+    }
+  },
+  {
+    "uri": "en/12/411349",
+    "id": "411349",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted liners for the cargo area of vehicles",
+    "harm": {
+      "id": "0037712",
+      "title": "411349 - Fitted liners for the cargo area of vehicles",
+      "conceptLink": "/ec2/concept/5985935"
+    }
+  },
+  {
+    "uri": "en/12/903734",
+    "id": "903734",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted motorcycle covers",
+    "harm": {
+      "id": "0014611",
+      "title": "903734 - Fitted motorcycle covers",
+      "conceptLink": "/ec2/concept/5964839"
+    }
+  },
+  {
+    "uri": "en/12/119637836",
+    "id": "119637836",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted perambulator covers",
+    "harm": {
+      "id": "0059203",
+      "title": "119637836 - Fitted perambulator covers",
+      "conceptLink": "/ec2/concept/6000692"
+    }
+  },
+  {
+    "uri": "en/12/137728796",
+    "id": "137728796",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted pushchair mosquito nets",
+    "harm": {
+      "id": "0069922",
+      "title": "137728796 - Fitted pushchair mosquito nets",
+      "conceptLink": "/ec2/concept/6006125"
+    }
+  },
+  {
+    "uri": "en/12/137728795",
+    "id": "137728795",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted stroller mosquito nets",
+    "harm": {
+      "id": "0069922",
+      "title": "137728795 - Fitted stroller mosquito nets",
+      "conceptLink": "/ec2/concept/6006125"
+    }
+  },
+  {
+    "uri": "en/12/411363",
+    "id": "411363",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted truck bed liners",
+    "harm": {
+      "id": "0037713",
+      "title": "411363 - Fitted truck bed liners",
+      "conceptLink": "/ec2/concept/5985936"
+    }
+  },
+  {
+    "uri": "en/12/33908055",
+    "id": "33908055",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted vehicle covers",
+    "harm": {
+      "id": "0058296",
+      "title": "33908055 - Fitted vehicle covers",
+      "conceptLink": "/ec2/concept/5999795"
+    }
+  },
+  {
+    "uri": "en/12/136633622",
+    "id": "136633622",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted vehicle covers for automobiles",
+    "harm": {
+      "id": "0003217",
+      "title": "136633622 - Fitted vehicle covers for automobiles",
+      "conceptLink": "/ec2/concept/5954394"
+    }
+  },
+  {
+    "uri": "en/12/138190222",
+    "id": "138190222",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fitted vehicle seat covers",
+    "harm": {
+      "id": "0046719",
+      "title": "138190222 - Fitted vehicle seat covers",
+      "conceptLink": "/ec2/concept/5994129"
+    }
+  },
+  {
+    "uri": "en/12/743131",
+    "id": "743131",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fittings for bicycles for carrying beverages",
+    "harm": {
+      "id": "0021241",
+      "title": "743131 - Fittings for bicycles for carrying beverages",
+      "conceptLink": "/ec2/concept/5970900"
+    }
+  },
+  {
+    "uri": "en/12/894020",
+    "id": "894020",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fittings for bicycles for carrying luggage",
+    "harm": {
+      "id": "0027575",
+      "title": "894020 - Fittings for bicycles for carrying luggage",
+      "conceptLink": "/ec2/concept/5976694"
+    }
+  },
+  {
+    "uri": "en/12/185004",
+    "id": "185004",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flanges for railway wheel tires [tyres]",
+    "harm": {
+      "id": "0035574",
+      "title": "185004 - Flanges for railway wheel tires [tyres]",
+      "conceptLink": "/ec2/concept/5983999"
+    }
+  },
+  {
+    "uri": "en/12/119703653",
+    "id": "119703653",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flanges of railway wheel tires [tyres]",
+    "harm": {
+      "id": "0035574",
+      "title": "119703653 - Flanges of railway wheel tires [tyres]",
+      "conceptLink": "/ec2/concept/5983999"
+    }
+  },
+  {
+    "uri": "en/12/119640724",
+    "id": "119640724",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flanges of railway wheel tyres",
+    "harm": {
+      "id": "0035574",
+      "title": "119640724 - Flanges of railway wheel tyres",
+      "conceptLink": "/ec2/concept/5983999"
+    }
+  },
+  {
+    "uri": "en/12/119640723",
+    "id": "119640723",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flanges of railway wheel tires",
+    "harm": {
+      "id": "0035574",
+      "title": "119640723 - Flanges of railway wheel tires",
+      "conceptLink": "/ec2/concept/5983999"
+    }
+  },
+  {
+    "uri": "en/12/120895047",
+    "id": "120895047",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flat-bottomed rowboats",
+    "harm": {
+      "id": "0066333",
+      "title": "120895047 - Flat-bottomed rowboats",
+      "conceptLink": "/ec2/concept/6002536"
+    }
+  },
+  {
+    "uri": "en/12/743145",
+    "id": "743145",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Flexible shafts for land vehicles",
+    "harm": {
+      "id": "0015375",
+      "title": "743145 - Flexible shafts for land vehicles",
+      "conceptLink": "/ec2/concept/5965531"
+    }
+  },
+  {
+    "uri": "en/12/743158",
+    "id": "743158",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fog horns for use on vehicles",
+    "harm": {
+      "id": "0021242",
+      "title": "743158 - Fog horns for use on vehicles",
+      "conceptLink": "/ec2/concept/5970901"
+    }
+  },
+  {
+    "uri": "en/12/743194",
+    "id": "743194",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fold-up pushchairs",
+    "harm": {
+      "id": "0015377",
+      "title": "743194 - Fold-up pushchairs",
+      "conceptLink": "/ec2/concept/5965533"
+    }
+  },
+  {
+    "uri": "en/12/20675635",
+    "id": "20675635",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Folding bicycles",
+    "harm": {
+      "id": "0060439",
+      "title": "20675635 - Folding bicycles",
+      "conceptLink": "/ec2/concept/5998412"
+    }
+  },
+  {
+    "uri": "en/12/131046974",
+    "id": "131046974",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Folding bikes",
+    "harm": {
+      "id": "0060439",
+      "title": "131046974 - Folding bikes",
+      "conceptLink": "/ec2/concept/5998412"
+    }
+  },
+  {
+    "uri": "en/12/91277179",
+    "id": "91277179",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Folding electric bicycles",
+    "harm": {
+      "id": "0073637",
+      "title": "91277179 - Folding electric bicycles",
+      "conceptLink": "/ec2/concept/6009809"
+    }
+  },
+  {
+    "uri": "en/12/743169",
+    "id": "743169",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Folding hoods for vehicles",
+    "harm": {
+      "id": "0009524",
+      "title": "743169 - Folding hoods for vehicles",
+      "conceptLink": "/ec2/concept/5960177"
+    }
+  },
+  {
+    "uri": "en/12/743181",
+    "id": "743181",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Folding roofs for motor vehicles",
+    "harm": {
+      "id": "0015376",
+      "title": "743181 - Folding roofs for motor vehicles",
+      "conceptLink": "/ec2/concept/5965532"
+    }
+  },
+  {
+    "uri": "en/12/743205",
+    "id": "743205",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Foot pumps for inflating vehicle tyres",
+    "harm": {
+      "id": "0026873",
+      "title": "743205 - Foot pumps for inflating vehicle tyres",
+      "conceptLink": "/ec2/concept/5976051"
+    }
+  },
+  {
+    "uri": "en/12/410503",
+    "id": "410503",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fork crown covers [bicycle parts]",
+    "harm": {
+      "id": "0005081",
+      "title": "410503 - Fork crown covers [bicycle parts]",
+      "conceptLink": "/ec2/concept/5956110"
+    }
+  },
+  {
+    "uri": "en/12/412626",
+    "id": "412626",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fork dust boots [parts of motorcycles]",
+    "harm": {
+      "id": "0016637",
+      "title": "412626 - Fork dust boots [parts of motorcycles]",
+      "conceptLink": "/ec2/concept/5966700"
+    }
+  },
+  {
+    "uri": "en/12/183085",
+    "id": "183085",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Fork lift trucks",
+    "harm": {
+      "id": "0020328",
+      "title": "183085 - Fork lift trucks",
+      "conceptLink": "/ec2/concept/5970059"
+    }
+  },
+  {
+    "uri": "en/12/12229046",
+    "id": "12229046",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Forklift trucks",
+    "harm": {
+      "id": "0020328",
+      "title": "12229046 - Forklift trucks",
+      "conceptLink": "/ec2/concept/5970059"
+    }
+  },
+  {
+    "uri": "en/12/497111",
+    "id": "497111",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Forklifts, and structural parts therefor",
+    "harm": {
+      "id": "0039760",
+      "title": "497111 - Forklifts, and structural parts therefor",
+      "conceptLink": "/ec2/concept/5987811"
+    }
+  },
+  {
+    "uri": "en/12/410519",
+    "id": "410519",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Forks [bicycle parts]",
+    "harm": {
+      "id": "0016632",
+      "title": "410519 - Forks [bicycle parts]",
+      "conceptLink": "/ec2/concept/5966696"
+    }
+  },
+  {
+    "uri": "en/12/743217",
+    "id": "743217",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Forks for fork lift trucks",
+    "harm": {
+      "id": "0021243",
+      "title": "743217 - Forks for fork lift trucks",
+      "conceptLink": "/ec2/concept/5970902"
+    }
+  },
+  {
+    "uri": "en/12/743233",
+    "id": "743233",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frame supports incorporating wheels for moving objects",
+    "harm": {
+      "id": "0003788",
+      "title": "743233 - Frame supports incorporating wheels for moving objects",
+      "conceptLink": "/ec2/concept/5954918"
+    }
+  },
+  {
+    "uri": "en/12/743232",
+    "id": "743232",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frame supports incorporating castors for moving objects",
+    "harm": {
+      "id": "0003788",
+      "title": "743232 - Frame supports incorporating castors for moving objects",
+      "conceptLink": "/ec2/concept/5954918"
+    }
+  },
+  {
+    "uri": "en/12/193433",
+    "id": "193433",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for bicycles",
+    "harm": {
+      "id": "0043491",
+      "title": "193433 - Frames for bicycles",
+      "conceptLink": "/ec2/concept/5991214"
+    }
+  },
+  {
+    "uri": "en/12/193432",
+    "id": "193432",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for bicycles, cycles",
+    "harm": {
+      "id": "0043491",
+      "title": "193432 - Frames for bicycles, cycles",
+      "conceptLink": "/ec2/concept/5991214"
+    }
+  },
+  {
+    "uri": "en/12/193435",
+    "id": "193435",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for cycles",
+    "harm": {
+      "id": "0043491",
+      "title": "193435 - Frames for cycles",
+      "conceptLink": "/ec2/concept/5991214"
+    }
+  },
+  {
+    "uri": "en/12/501721",
+    "id": "501721",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames, for luggage carriers, for bicycles",
+    "harm": {
+      "id": "0018879",
+      "title": "501721 - Frames, for luggage carriers, for bicycles",
+      "conceptLink": "/ec2/concept/5968749"
+    }
+  },
+  {
+    "uri": "en/12/137984433",
+    "id": "137984433",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for motorcycles",
+    "harm": {
+      "id": "0069928",
+      "title": "137984433 - Frames for motorcycles",
+      "conceptLink": "/ec2/concept/6006131"
+    }
+  },
+  {
+    "uri": "en/12/743254",
+    "id": "743254",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for supporting a child in a vehicle",
+    "harm": {
+      "id": "0038436",
+      "title": "743254 - Frames for supporting a child in a vehicle",
+      "conceptLink": "/ec2/concept/5986606"
+    }
+  },
+  {
+    "uri": "en/12/136633632",
+    "id": "136633632",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames for two-wheeled motor vehicles",
+    "harm": {
+      "id": "0050735",
+      "title": "136633632 - Frames for two-wheeled motor vehicles",
+      "conceptLink": "/ec2/concept/5996100"
+    }
+  },
+  {
+    "uri": "en/12/136244719",
+    "id": "136244719",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Frames of two-wheeled motor vehicles",
+    "harm": {
+      "id": "0050735",
+      "title": "136244719 - Frames of two-wheeled motor vehicles",
+      "conceptLink": "/ec2/concept/5996100"
+    }
+  },
+  {
+    "uri": "en/12/743267",
+    "id": "743267",
+    "lang": "en",
+    "classNumber": "12",
+    "term": "Framing for land vehicles",
+    "harm": {
+      "id": "0008951",
+      "title": "743267 - Framing for land vehicles",
+      "conceptLink": "/ec2/concept/5959646"
+    }
+  }
+]

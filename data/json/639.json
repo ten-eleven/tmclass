@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/31009",
+    "id": "31009",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency",
+    "harm": {
+      "id": "0047407",
+      "title": "31009 - Real estate agency",
+      "conceptLink": "/ec2/concept/5994729"
+    }
+  },
+  {
+    "uri": "en/36/120834755",
+    "id": "120834755",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency services for the leasing of land",
+    "harm": {
+      "id": "0068031",
+      "title": "120834755 - Real estate agency services for the leasing of land",
+      "conceptLink": "/ec2/concept/6004234"
+    }
+  },
+  {
+    "uri": "en/36/120881278",
+    "id": "120881278",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency services for the rental of buildings",
+    "harm": {
+      "id": "0067858",
+      "title": "120881278 - Real estate agency services for the rental of buildings",
+      "conceptLink": "/ec2/concept/6004061"
+    }
+  },
+  {
+    "uri": "en/36/120883739",
+    "id": "120883739",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency services relating to the purchase and sale of land",
+    "harm": {
+      "id": "0068005",
+      "title": "120883739 - Real estate agency services relating to the purchase and sale of land",
+      "conceptLink": "/ec2/concept/6004208"
+    }
+  },
+  {
+    "uri": "en/36/120883895",
+    "id": "120883895",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency services relating to the purchase and sale of buildings",
+    "harm": {
+      "id": "0068026",
+      "title": "120883895 - Real estate agency services relating to the purchase and sale of buildings",
+      "conceptLink": "/ec2/concept/6004229"
+    }
+  },
+  {
+    "uri": "en/36/31012",
+    "id": "31012",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agency services",
+    "harm": {
+      "id": "0047407",
+      "title": "31012 - Real estate agency services",
+      "conceptLink": "/ec2/concept/5994729"
+    }
+  },
+  {
+    "uri": "en/36/31013",
+    "id": "31013",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate agents services",
+    "harm": {
+      "id": "0047407",
+      "title": "31013 - Real estate agents services",
+      "conceptLink": "/ec2/concept/5994729"
+    }
+  },
+  {
+    "uri": "en/36/451427",
+    "id": "451427",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate and property management services",
+    "harm": {
+      "id": "0027929",
+      "title": "451427 - Real estate and property management services",
+      "conceptLink": "/ec2/concept/5977020"
+    }
+  },
+  {
+    "uri": "en/36/31982",
+    "id": "31982",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate appraisal",
+    "harm": {
+      "id": "0035003",
+      "title": "31982 - Real estate appraisal",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31996",
+    "id": "31996",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate appraisal and valuation",
+    "harm": {
+      "id": "0035003",
+      "title": "31996 - Real estate appraisal and valuation",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31990",
+    "id": "31990",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate appraisal services",
+    "harm": {
+      "id": "0035003",
+      "title": "31990 - Real estate appraisal services",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31979",
+    "id": "31979",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate appraisals",
+    "harm": {
+      "id": "0035003",
+      "title": "31979 - Real estate appraisals",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31995",
+    "id": "31995",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate appraisals [valuations]",
+    "harm": {
+      "id": "0035003",
+      "title": "31995 - Real estate appraisals [valuations]",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/804063",
+    "id": "804063",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate assessment [financial]",
+    "harm": {
+      "id": "0035003",
+      "title": "804063 - Real estate assessment [financial]",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31141",
+    "id": "31141",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate brokerage",
+    "harm": {
+      "id": "0011894",
+      "title": "31141 - Real estate brokerage",
+      "conceptLink": "/ec2/concept/5962346"
+    }
+  },
+  {
+    "uri": "en/36/31149",
+    "id": "31149",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real-estate brokerage services",
+    "harm": {
+      "id": "0011894",
+      "title": "31149 - Real-estate brokerage services",
+      "conceptLink": "/ec2/concept/5962346"
+    }
+  },
+  {
+    "uri": "en/36/31140",
+    "id": "31140",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate broking",
+    "harm": {
+      "id": "0011894",
+      "title": "31140 - Real estate broking",
+      "conceptLink": "/ec2/concept/5962346"
+    }
+  },
+  {
+    "uri": "en/36/367293",
+    "id": "367293",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate consultancy",
+    "harm": {
+      "id": "0057121",
+      "title": "367293 - Real estate consultancy",
+      "conceptLink": "/ec2/concept/5998755"
+    }
+  },
+  {
+    "uri": "en/36/35991337",
+    "id": "35991337",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate consultation",
+    "harm": {
+      "id": "0057121",
+      "title": "35991337 - Real estate consultation",
+      "conceptLink": "/ec2/concept/5998755"
+    }
+  },
+  {
+    "uri": "en/36/367294",
+    "id": "367294",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate consultations",
+    "harm": {
+      "id": "0057121",
+      "title": "367294 - Real estate consultations",
+      "conceptLink": "/ec2/concept/5998755"
+    }
+  },
+  {
+    "uri": "en/36/451446",
+    "id": "451446",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate equity sharing",
+    "harm": {
+      "id": "0004843",
+      "title": "451446 - Real estate equity sharing",
+      "conceptLink": "/ec2/concept/5955891"
+    }
+  },
+  {
+    "uri": "en/36/451458",
+    "id": "451458",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate escrow services",
+    "harm": {
+      "id": "0010557",
+      "title": "451458 - Real estate escrow services",
+      "conceptLink": "/ec2/concept/5961120"
+    }
+  },
+  {
+    "uri": "en/36/810706",
+    "id": "810706",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate financing",
+    "harm": {
+      "id": "0001703",
+      "title": "810706 - Real estate financing",
+      "conceptLink": "/ec2/concept/5953017"
+    }
+  },
+  {
+    "uri": "en/36/809190",
+    "id": "809190",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate insurance services",
+    "harm": {
+      "id": "0031699",
+      "title": "809190 - Real estate insurance services",
+      "conceptLink": "/ec2/concept/5980470"
+    }
+  },
+  {
+    "uri": "en/36/451478",
+    "id": "451478",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment",
+    "harm": {
+      "id": "0017706",
+      "title": "451478 - Real estate investment",
+      "conceptLink": "/ec2/concept/5967662"
+    }
+  },
+  {
+    "uri": "en/36/810722",
+    "id": "810722",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment advice",
+    "harm": {
+      "id": "0022850",
+      "title": "810722 - Real estate investment advice",
+      "conceptLink": "/ec2/concept/5972370"
+    }
+  },
+  {
+    "uri": "en/36/18979634",
+    "id": "18979634",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment consultancy",
+    "harm": {
+      "id": "0067914",
+      "title": "18979634 - Real estate investment consultancy",
+      "conceptLink": "/ec2/concept/6004117"
+    }
+  },
+  {
+    "uri": "en/36/450488",
+    "id": "450488",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment management",
+    "harm": {
+      "id": "0002058",
+      "title": "450488 - Real estate investment management",
+      "conceptLink": "/ec2/concept/5953337"
+    }
+  },
+  {
+    "uri": "en/36/499468",
+    "id": "499468",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment planning",
+    "harm": {
+      "id": "0039251",
+      "title": "499468 - Real estate investment planning",
+      "conceptLink": "/ec2/concept/5987344"
+    }
+  },
+  {
+    "uri": "en/36/451480",
+    "id": "451480",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate investment services",
+    "harm": {
+      "id": "0017706",
+      "title": "451480 - Real estate investment services",
+      "conceptLink": "/ec2/concept/5967662"
+    }
+  },
+  {
+    "uri": "en/36/810753",
+    "id": "810753",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate lease renewal services",
+    "harm": {
+      "id": "0016983",
+      "title": "810753 - Real estate lease renewal services",
+      "conceptLink": "/ec2/concept/5967010"
+    }
+  },
+  {
+    "uri": "en/36/810766",
+    "id": "810766",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate lease surrender services",
+    "harm": {
+      "id": "0005453",
+      "title": "810766 - Real estate lease surrender services",
+      "conceptLink": "/ec2/concept/5956451"
+    }
+  },
+  {
+    "uri": "en/36/30672",
+    "id": "30672",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate leasing",
+    "harm": {
+      "id": "0010619",
+      "title": "30672 - Real estate leasing",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/30674",
+    "id": "30674",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate (Leasing of -)",
+    "harm": {
+      "id": "0010619",
+      "title": "30674 - Real estate (Leasing of -)",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/906632",
+    "id": "906632",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate lending services",
+    "harm": {
+      "id": "0002353",
+      "title": "906632 - Real estate lending services",
+      "conceptLink": "/ec2/concept/5953606"
+    }
+  },
+  {
+    "uri": "en/36/33509",
+    "id": "33509",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management",
+    "harm": {
+      "id": "0037527",
+      "title": "33509 - Real estate management",
+      "conceptLink": "/ec2/concept/5985771"
+    }
+  },
+  {
+    "uri": "en/36/33510",
+    "id": "33510",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services",
+    "harm": {
+      "id": "0037527",
+      "title": "33510 - Real estate management services",
+      "conceptLink": "/ec2/concept/5985771"
+    }
+  },
+  {
+    "uri": "en/36/120881472",
+    "id": "120881472",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to industrial premises",
+    "harm": {
+      "id": "0067850",
+      "title": "120881472 - Real estate management services relating to industrial premises",
+      "conceptLink": "/ec2/concept/6004053"
+    }
+  },
+  {
+    "uri": "en/36/120881478",
+    "id": "120881478",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to entertainment venues",
+    "harm": {
+      "id": "0067851",
+      "title": "120881478 - Real estate management services relating to entertainment venues",
+      "conceptLink": "/ec2/concept/6004054"
+    }
+  },
+  {
+    "uri": "en/36/120881466",
+    "id": "120881466",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to office premises",
+    "harm": {
+      "id": "0067849",
+      "title": "120881466 - Real estate management services relating to office premises",
+      "conceptLink": "/ec2/concept/6004052"
+    }
+  },
+  {
+    "uri": "en/36/120881461",
+    "id": "120881461",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to residential buildings",
+    "harm": {
+      "id": "0067848",
+      "title": "120881461 - Real estate management services relating to residential buildings",
+      "conceptLink": "/ec2/concept/6004051"
+    }
+  },
+  {
+    "uri": "en/36/120881422",
+    "id": "120881422",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to building complexes",
+    "harm": {
+      "id": "0067844",
+      "title": "120881422 - Real estate management services relating to building complexes",
+      "conceptLink": "/ec2/concept/6004047"
+    }
+  },
+  {
+    "uri": "en/36/120881416",
+    "id": "120881416",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to housing estates",
+    "harm": {
+      "id": "0067843",
+      "title": "120881416 - Real estate management services relating to housing estates",
+      "conceptLink": "/ec2/concept/6004046"
+    }
+  },
+  {
+    "uri": "en/36/120881409",
+    "id": "120881409",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to commercial buildings",
+    "harm": {
+      "id": "0067842",
+      "title": "120881409 - Real estate management services relating to commercial buildings",
+      "conceptLink": "/ec2/concept/6004045"
+    }
+  },
+  {
+    "uri": "en/36/120881318",
+    "id": "120881318",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to shopping malls",
+    "harm": {
+      "id": "0067852",
+      "title": "120881318 - Real estate management services relating to shopping malls",
+      "conceptLink": "/ec2/concept/6004055"
+    }
+  },
+  {
+    "uri": "en/36/120881326",
+    "id": "120881326",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate management services relating to retail premises",
+    "harm": {
+      "id": "0067853",
+      "title": "120881326 - Real estate management services relating to retail premises",
+      "conceptLink": "/ec2/concept/6004056"
+    }
+  },
+  {
+    "uri": "en/36/810672",
+    "id": "810672",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate procurement for others",
+    "harm": {
+      "id": "0013909",
+      "title": "810672 - Real estate procurement for others",
+      "conceptLink": "/ec2/concept/5964184"
+    }
+  },
+  {
+    "uri": "en/36/810778",
+    "id": "810778",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate selection and acquisition [on behalf of others]",
+    "harm": {
+      "id": "0005454",
+      "title": "810778 - Real estate selection and acquisition [on behalf of others]",
+      "conceptLink": "/ec2/concept/5956452"
+    }
+  },
+  {
+    "uri": "en/36/486626",
+    "id": "486626",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate services",
+    "harm": {
+      "id": "0047344",
+      "title": "486626 - Real estate services",
+      "conceptLink": "/ec2/concept/5994687"
+    }
+  },
+  {
+    "uri": "en/36/120881403",
+    "id": "120881403",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate services related to management of property investments",
+    "harm": {
+      "id": "0067861",
+      "title": "120881403 - Real estate services related to management of property investments",
+      "conceptLink": "/ec2/concept/6004064"
+    }
+  },
+  {
+    "uri": "en/36/474382",
+    "id": "474382",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate settlement services [financial services]",
+    "harm": {
+      "id": "0031612",
+      "title": "474382 - Real estate settlement services [financial services]",
+      "conceptLink": "/ec2/concept/5980387"
+    }
+  },
+  {
+    "uri": "en/36/451519",
+    "id": "451519",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate syndication",
+    "harm": {
+      "id": "0010558",
+      "title": "451519 - Real estate syndication",
+      "conceptLink": "/ec2/concept/5961121"
+    }
+  },
+  {
+    "uri": "en/36/451533",
+    "id": "451533",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate time-sharing",
+    "harm": {
+      "id": "0022275",
+      "title": "451533 - Real estate time-sharing",
+      "conceptLink": "/ec2/concept/5971843"
+    }
+  },
+  {
+    "uri": "en/36/33512",
+    "id": "33512",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate trustee services",
+    "harm": {
+      "id": "0045195",
+      "title": "33512 - Real estate trustee services",
+      "conceptLink": "/ec2/concept/5992779"
+    }
+  },
+  {
+    "uri": "en/36/31988",
+    "id": "31988",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estate valuation services",
+    "harm": {
+      "id": "0035003",
+      "title": "31988 - Real estate valuation services",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31986",
+    "id": "31986",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real-estate valuations",
+    "harm": {
+      "id": "0035003",
+      "title": "31986 - Real-estate valuations",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/31991",
+    "id": "31991",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real estates evaluation (fixing of a price)",
+    "harm": {
+      "id": "0035003",
+      "title": "31991 - Real estates evaluation (fixing of a price)",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/804064",
+    "id": "804064",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real property evaluation [financial]",
+    "harm": {
+      "id": "0035003",
+      "title": "804064 - Real property evaluation [financial]",
+      "conceptLink": "/ec2/concept/5983481"
+    }
+  },
+  {
+    "uri": "en/36/30679",
+    "id": "30679",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real property letting",
+    "harm": {
+      "id": "0010619",
+      "title": "30679 - Real property letting",
+      "conceptLink": "/ec2/concept/5961177"
+    }
+  },
+  {
+    "uri": "en/36/33515",
+    "id": "33515",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Real property management",
+    "harm": {
+      "id": "0037527",
+      "title": "33515 - Real property management",
+      "conceptLink": "/ec2/concept/5985771"
+    }
+  },
+  {
+    "uri": "en/36/451547",
+    "id": "451547",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reclamation of import duties for others",
+    "harm": {
+      "id": "0010559",
+      "title": "451547 - Reclamation of import duties for others",
+      "conceptLink": "/ec2/concept/5961122"
+    }
+  },
+  {
+    "uri": "en/36/810793",
+    "id": "810793",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reclamation of outstanding debts",
+    "harm": {
+      "id": "0021948",
+      "title": "810793 - Reclamation of outstanding debts",
+      "conceptLink": "/ec2/concept/5971544"
+    }
+  },
+  {
+    "uri": "en/36/810820",
+    "id": "810820",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording of inter parties transactions in respect of investments",
+    "harm": {
+      "id": "0010209",
+      "title": "810820 - Recording of inter parties transactions in respect of investments",
+      "conceptLink": "/ec2/concept/5960796"
+    }
+  },
+  {
+    "uri": "en/36/810807",
+    "id": "810807",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording of inter parties transactions in respect of finance",
+    "harm": {
+      "id": "0033329",
+      "title": "810807 - Recording of inter parties transactions in respect of finance",
+      "conceptLink": "/ec2/concept/5981957"
+    }
+  },
+  {
+    "uri": "en/36/810834",
+    "id": "810834",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording of inter parties transactions in respect of stocks",
+    "harm": {
+      "id": "0033330",
+      "title": "810834 - Recording of inter parties transactions in respect of stocks",
+      "conceptLink": "/ec2/concept/5981958"
+    }
+  },
+  {
+    "uri": "en/36/810833",
+    "id": "810833",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording of inter parties transactions in respect of shares",
+    "harm": {
+      "id": "0033330",
+      "title": "810833 - Recording of inter parties transactions in respect of shares",
+      "conceptLink": "/ec2/concept/5981958"
+    }
+  },
+  {
+    "uri": "en/36/810878",
+    "id": "810878",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording the transfer of shares",
+    "harm": {
+      "id": "0016029",
+      "title": "810878 - Recording the transfer of shares",
+      "conceptLink": "/ec2/concept/5966147"
+    }
+  },
+  {
+    "uri": "en/36/810857",
+    "id": "810857",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording the transfer of securities",
+    "harm": {
+      "id": "0010210",
+      "title": "810857 - Recording the transfer of securities",
+      "conceptLink": "/ec2/concept/5960797"
+    }
+  },
+  {
+    "uri": "en/36/810858",
+    "id": "810858",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recording the transfer of stocks",
+    "harm": {
+      "id": "0010210",
+      "title": "810858 - Recording the transfer of stocks",
+      "conceptLink": "/ec2/concept/5960797"
+    }
+  },
+  {
+    "uri": "en/36/31303",
+    "id": "31303",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Recovery of debts",
+    "harm": {
+      "id": "0046303",
+      "title": "31303 - Recovery of debts",
+      "conceptLink": "/ec2/concept/5993763"
+    }
+  },
+  {
+    "uri": "en/36/801767",
+    "id": "801767",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Redemption of travellers' cheques",
+    "harm": {
+      "id": "0001019",
+      "title": "801767 - Redemption of travellers' cheques",
+      "conceptLink": "/ec2/concept/5952401"
+    }
+  },
+  {
+    "uri": "en/36/810889",
+    "id": "810889",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Registration of securities",
+    "harm": {
+      "id": "0022884",
+      "title": "810889 - Registration of securities",
+      "conceptLink": "/ec2/concept/5972402"
+    }
+  },
+  {
+    "uri": "en/36/810904",
+    "id": "810904",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Registration of shares",
+    "harm": {
+      "id": "0017009",
+      "title": "810904 - Registration of shares",
+      "conceptLink": "/ec2/concept/5967036"
+    }
+  },
+  {
+    "uri": "en/36/451568",
+    "id": "451568",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance",
+    "harm": {
+      "id": "0046385",
+      "title": "451568 - Reinsurance",
+      "conceptLink": "/ec2/concept/5993839"
+    }
+  },
+  {
+    "uri": "en/36/120883500",
+    "id": "120883500",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance actuarial services",
+    "harm": {
+      "id": "0071335",
+      "title": "120883500 - Reinsurance actuarial services",
+      "conceptLink": "/ec2/concept/6007526"
+    }
+  },
+  {
+    "uri": "en/36/810920",
+    "id": "810920",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance brokerage",
+    "harm": {
+      "id": "0022885",
+      "title": "810920 - Reinsurance brokerage",
+      "conceptLink": "/ec2/concept/5972403"
+    }
+  },
+  {
+    "uri": "en/36/120883642",
+    "id": "120883642",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance claim settlements",
+    "harm": {
+      "id": "0067994",
+      "title": "120883642 - Reinsurance claim settlements",
+      "conceptLink": "/ec2/concept/6004197"
+    }
+  },
+  {
+    "uri": "en/36/120880729",
+    "id": "120880729",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance claims processing",
+    "harm": {
+      "id": "0067924",
+      "title": "120880729 - Reinsurance claims processing",
+      "conceptLink": "/ec2/concept/6004127"
+    }
+  },
+  {
+    "uri": "en/36/120881566",
+    "id": "120881566",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance consultancy",
+    "harm": {
+      "id": "0067835",
+      "title": "120881566 - Reinsurance consultancy",
+      "conceptLink": "/ec2/concept/6004038"
+    }
+  },
+  {
+    "uri": "en/36/120880805",
+    "id": "120880805",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance information",
+    "harm": {
+      "id": "0067913",
+      "title": "120880805 - Reinsurance information",
+      "conceptLink": "/ec2/concept/6004116"
+    }
+  },
+  {
+    "uri": "en/36/451569",
+    "id": "451569",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance services",
+    "harm": {
+      "id": "0046385",
+      "title": "451569 - Reinsurance services",
+      "conceptLink": "/ec2/concept/5993839"
+    }
+  },
+  {
+    "uri": "en/36/451571",
+    "id": "451571",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Reinsurance underwriting",
+    "harm": {
+      "id": "0012343",
+      "title": "451571 - Reinsurance underwriting",
+      "conceptLink": "/ec2/concept/5962761"
+    }
+  },
+  {
+    "uri": "en/36/486694",
+    "id": "486694",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Remote payment services",
+    "harm": {
+      "id": "0042652",
+      "title": "486694 - Remote payment services",
+      "conceptLink": "/ec2/concept/5990448"
+    }
+  },
+  {
+    "uri": "en/36/35588",
+    "id": "35588",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rent collection",
+    "harm": {
+      "id": "0035330",
+      "title": "35588 - Rent collection",
+      "conceptLink": "/ec2/concept/5983776"
+    }
+  },
+  {
+    "uri": "en/36/451612",
+    "id": "451612",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rent collection agencies",
+    "harm": {
+      "id": "0018149",
+      "title": "451612 - Rent collection agencies",
+      "conceptLink": "/ec2/concept/5968070"
+    }
+  },
+  {
+    "uri": "en/36/451392",
+    "id": "451392",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental and leasing of offices",
+    "harm": {
+      "id": "0058146",
+      "title": "451392 - Rental and leasing of offices",
+      "conceptLink": "/ec2/concept/5999647"
+    }
+  },
+  {
+    "uri": "en/36/451623",
+    "id": "451623",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental, hire and lease of equipment for processing financial cards",
+    "harm": {
+      "id": "0012344",
+      "title": "451623 - Rental, hire and lease of equipment for processing financial cards",
+      "conceptLink": "/ec2/concept/5962762"
+    }
+  },
+  {
+    "uri": "en/36/33725",
+    "id": "33725",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of apartments",
+    "harm": {
+      "id": "0035500",
+      "title": "33725 - Rental of apartments",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/890607",
+    "id": "890607",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of apartments and offices",
+    "harm": {
+      "id": "0018690",
+      "title": "890607 - Rental of apartments and offices",
+      "conceptLink": "/ec2/concept/5968572"
+    }
+  },
+  {
+    "uri": "en/36/810933",
+    "id": "810933",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of bank cash dispensing machines",
+    "harm": {
+      "id": "0016207",
+      "title": "810933 - Rental of bank cash dispensing machines",
+      "conceptLink": "/ec2/concept/5966307"
+    }
+  },
+  {
+    "uri": "en/36/120881852",
+    "id": "120881852",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of banknote and coin counting or sorting machines",
+    "harm": {
+      "id": "0067804",
+      "title": "120881852 - Rental of banknote and coin counting or sorting machines",
+      "conceptLink": "/ec2/concept/6004007"
+    }
+  },
+  {
+    "uri": "en/36/366523",
+    "id": "366523",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of buildings",
+    "harm": {
+      "id": "0057130",
+      "title": "366523 - Rental of buildings",
+      "conceptLink": "/ec2/concept/5998768"
+    }
+  },
+  {
+    "uri": "en/36/17915460",
+    "id": "17915460",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of business premises",
+    "harm": {
+      "id": "0045812",
+      "title": "17915460 - Rental of business premises",
+      "conceptLink": "/ec2/concept/5993343"
+    }
+  },
+  {
+    "uri": "en/36/367321",
+    "id": "367321",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of cash dispensers or automated-teller machines",
+    "harm": {
+      "id": "0016207",
+      "title": "367321 - Rental of cash dispensers or automated-teller machines",
+      "conceptLink": "/ec2/concept/5966307"
+    }
+  },
+  {
+    "uri": "en/36/119550525",
+    "id": "119550525",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of coin counting and sorting machines",
+    "harm": {
+      "id": "0067801",
+      "title": "119550525 - Rental of coin counting and sorting machines",
+      "conceptLink": "/ec2/concept/6004004"
+    }
+  },
+  {
+    "uri": "en/36/18032399",
+    "id": "18032399",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of farms",
+    "harm": {
+      "id": "0017757",
+      "title": "18032399 - Rental of farms",
+      "conceptLink": "/ec2/concept/5967710"
+    }
+  },
+  {
+    "uri": "en/36/33723",
+    "id": "33723",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of flats",
+    "harm": {
+      "id": "0035500",
+      "title": "33723 - Rental of flats",
+      "conceptLink": "/ec2/concept/5983931"
+    }
+  },
+  {
+    "uri": "en/36/891979",
+    "id": "891979",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of flats, studios and rooms",
+    "harm": {
+      "id": "0018450",
+      "title": "891979 - Rental of flats, studios and rooms",
+      "conceptLink": "/ec2/concept/5968347"
+    }
+  },
+  {
+    "uri": "en/36/120880750",
+    "id": "120880750",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of houses",
+    "harm": {
+      "id": "0071323",
+      "title": "120880750 - Rental of houses",
+      "conceptLink": "/ec2/concept/6007514"
+    }
+  },
+  {
+    "uri": "en/36/120881907",
+    "id": "120881907",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Rental of machines for counting and sorting banknotes",
+    "harm": {
+      "id": "0067802",
+      "title": "120881907 - Rental of machines for counting and sorting banknotes",
+      "conceptLink": "/ec2/concept/6004005"
+    }
+  }
+]

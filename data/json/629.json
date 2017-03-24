@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/805165",
+    "id": "805165",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to mortgages",
+    "harm": {
+      "id": "0010651",
+      "title": "805165 - Financial services relating to mortgages",
+      "conceptLink": "/ec2/concept/5961207"
+    }
+  },
+  {
+    "uri": "en/36/805180",
+    "id": "805180",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to motor vehicles",
+    "harm": {
+      "id": "0010652",
+      "title": "805180 - Financial services relating to motor vehicles",
+      "conceptLink": "/ec2/concept/5961208"
+    }
+  },
+  {
+    "uri": "en/36/805449",
+    "id": "805449",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to travel",
+    "harm": {
+      "id": "0010914",
+      "title": "805449 - Financial services relating to travel",
+      "conceptLink": "/ec2/concept/5961445"
+    }
+  },
+  {
+    "uri": "en/36/805120",
+    "id": "805120",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to international securities",
+    "harm": {
+      "id": "0004936",
+      "title": "805120 - Financial services relating to international securities",
+      "conceptLink": "/ec2/concept/5955978"
+    }
+  },
+  {
+    "uri": "en/36/805151",
+    "id": "805151",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to letters of credit",
+    "harm": {
+      "id": "0004937",
+      "title": "805151 - Financial services relating to letters of credit",
+      "conceptLink": "/ec2/concept/5955979"
+    }
+  },
+  {
+    "uri": "en/36/805079",
+    "id": "805079",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to cash disbursement",
+    "harm": {
+      "id": "0033740",
+      "title": "805079 - Financial services relating to cash disbursement",
+      "conceptLink": "/ec2/concept/5982334"
+    }
+  },
+  {
+    "uri": "en/36/805380",
+    "id": "805380",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to the purchase of aircraft",
+    "harm": {
+      "id": "0033999",
+      "title": "805380 - Financial services relating to the purchase of aircraft",
+      "conceptLink": "/ec2/concept/5982571"
+    }
+  },
+  {
+    "uri": "en/36/804792",
+    "id": "804792",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to savings",
+    "harm": {
+      "id": "0036393",
+      "title": "804792 - Financial services relating to savings",
+      "conceptLink": "/ec2/concept/5984742"
+    }
+  },
+  {
+    "uri": "en/36/805049",
+    "id": "805049",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to bonds",
+    "harm": {
+      "id": "0039540",
+      "title": "805049 - Financial services relating to bonds",
+      "conceptLink": "/ec2/concept/5987607"
+    }
+  },
+  {
+    "uri": "en/36/120880698",
+    "id": "120880698",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to wealth management",
+    "harm": {
+      "id": "0067923",
+      "title": "120880698 - Financial services relating to wealth management",
+      "conceptLink": "/ec2/concept/6004126"
+    }
+  },
+  {
+    "uri": "en/36/120880487",
+    "id": "120880487",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to pensions",
+    "harm": {
+      "id": "0067954",
+      "title": "120880487 - Financial services relating to pensions",
+      "conceptLink": "/ec2/concept/6004157"
+    }
+  },
+  {
+    "uri": "en/36/120883721",
+    "id": "120883721",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to the provision and structuring of capital",
+    "harm": {
+      "id": "0068006",
+      "title": "120883721 - Financial services relating to the provision and structuring of capital",
+      "conceptLink": "/ec2/concept/6004209"
+    }
+  },
+  {
+    "uri": "en/36/47366652",
+    "id": "47366652",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to the funding of broadcasting",
+    "harm": {
+      "id": "0067888",
+      "title": "47366652 - Financial services relating to the funding of broadcasting",
+      "conceptLink": "/ec2/concept/6004091"
+    }
+  },
+  {
+    "uri": "en/36/804973",
+    "id": "804973",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to real estate property",
+    "harm": {
+      "id": "0001703",
+      "title": "804973 - Financial services relating to real estate property",
+      "conceptLink": "/ec2/concept/5953017"
+    }
+  },
+  {
+    "uri": "en/36/805064",
+    "id": "805064",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to business",
+    "harm": {
+      "id": "0046842",
+      "title": "805064 - Financial services relating to business",
+      "conceptLink": "/ec2/concept/5994238"
+    }
+  },
+  {
+    "uri": "en/36/805195",
+    "id": "805195",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to personal equity plans",
+    "harm": {
+      "id": "0045287",
+      "title": "805195 - Financial services relating to personal equity plans",
+      "conceptLink": "/ec2/concept/5992865"
+    }
+  },
+  {
+    "uri": "en/36/805136",
+    "id": "805136",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to investment",
+    "harm": {
+      "id": "0045286",
+      "title": "805136 - Financial services relating to investment",
+      "conceptLink": "/ec2/concept/5992864"
+    }
+  },
+  {
+    "uri": "en/36/805367",
+    "id": "805367",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services relating to the provision of vouchers for the purchase of goods",
+    "harm": {
+      "id": "0042152",
+      "title": "805367 - Financial services relating to the provision of vouchers for the purchase of goods",
+      "conceptLink": "/ec2/concept/5989996"
+    }
+  },
+  {
+    "uri": "en/36/805465",
+    "id": "805465",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial services rendered by insurance companies",
+    "harm": {
+      "id": "0034000",
+      "title": "805465 - Financial services rendered by insurance companies",
+      "conceptLink": "/ec2/concept/5982572"
+    }
+  },
+  {
+    "uri": "en/36/232207893",
+    "id": "232207893",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial solvency investigations",
+    "harm": {
+      "id": "0071499",
+      "title": "232207893 - Financial solvency investigations",
+      "conceptLink": "/ec2/concept/6007690"
+    }
+  },
+  {
+    "uri": "en/36/36088",
+    "id": "36088",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship",
+    "harm": {
+      "id": "0042634",
+      "title": "36088 - Financial sponsorship",
+      "conceptLink": "/ec2/concept/5990433"
+    }
+  },
+  {
+    "uri": "en/36/120881303",
+    "id": "120881303",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship and funding of radio programs",
+    "harm": {
+      "id": "0067854",
+      "title": "120881303 - Financial sponsorship and funding of radio programs",
+      "conceptLink": "/ec2/concept/6004057"
+    }
+  },
+  {
+    "uri": "en/36/120881308",
+    "id": "120881308",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship and funding of television programs",
+    "harm": {
+      "id": "0067855",
+      "title": "120881308 - Financial sponsorship and funding of television programs",
+      "conceptLink": "/ec2/concept/6004058"
+    }
+  },
+  {
+    "uri": "en/36/120881899",
+    "id": "120881899",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship and funding of films",
+    "harm": {
+      "id": "0067800",
+      "title": "120881899 - Financial sponsorship and funding of films",
+      "conceptLink": "/ec2/concept/6004003"
+    }
+  },
+  {
+    "uri": "en/36/13956220",
+    "id": "13956220",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship and patronage",
+    "harm": {
+      "id": "0071328",
+      "title": "13956220 - Financial sponsorship and patronage",
+      "conceptLink": "/ec2/concept/6007519"
+    }
+  },
+  {
+    "uri": "en/36/120883497",
+    "id": "120883497",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of theater events",
+    "harm": {
+      "id": "0067975",
+      "title": "120883497 - Financial sponsorship of theater events",
+      "conceptLink": "/ec2/concept/6004178"
+    }
+  },
+  {
+    "uri": "en/36/120883494",
+    "id": "120883494",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of dance events",
+    "harm": {
+      "id": "0067976",
+      "title": "120883494 - Financial sponsorship of dance events",
+      "conceptLink": "/ec2/concept/6004179"
+    }
+  },
+  {
+    "uri": "en/36/120883517",
+    "id": "120883517",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of visual arts events",
+    "harm": {
+      "id": "0067977",
+      "title": "120883517 - Financial sponsorship of visual arts events",
+      "conceptLink": "/ec2/concept/6004180"
+    }
+  },
+  {
+    "uri": "en/36/120883514",
+    "id": "120883514",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of cultural events",
+    "harm": {
+      "id": "0067978",
+      "title": "120883514 - Financial sponsorship of cultural events",
+      "conceptLink": "/ec2/concept/6004181"
+    }
+  },
+  {
+    "uri": "en/36/120880484",
+    "id": "120880484",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of sporting activities",
+    "harm": {
+      "id": "0067955",
+      "title": "120880484 - Financial sponsorship of sporting activities",
+      "conceptLink": "/ec2/concept/6004158"
+    }
+  },
+  {
+    "uri": "en/36/120880481",
+    "id": "120880481",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship of entertainment activities",
+    "harm": {
+      "id": "0067956",
+      "title": "120880481 - Financial sponsorship of entertainment activities",
+      "conceptLink": "/ec2/concept/6004159"
+    }
+  },
+  {
+    "uri": "en/36/36089",
+    "id": "36089",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial sponsorship services",
+    "harm": {
+      "id": "0042634",
+      "title": "36089 - Financial sponsorship services",
+      "conceptLink": "/ec2/concept/5990433"
+    }
+  },
+  {
+    "uri": "en/36/9021491",
+    "id": "9021491",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial spread betting",
+    "harm": {
+      "id": "0050888",
+      "title": "9021491 - Financial spread betting",
+      "conceptLink": "/ec2/concept/5996252"
+    }
+  },
+  {
+    "uri": "en/36/805480",
+    "id": "805480",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial strategy consultancy services",
+    "harm": {
+      "id": "0016726",
+      "title": "805480 - Financial strategy consultancy services",
+      "conceptLink": "/ec2/concept/5966781"
+    }
+  },
+  {
+    "uri": "en/36/448928",
+    "id": "448928",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial studies",
+    "harm": {
+      "id": "0017417",
+      "title": "448928 - Financial studies",
+      "conceptLink": "/ec2/concept/5967400"
+    }
+  },
+  {
+    "uri": "en/36/805494",
+    "id": "805494",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial transaction services relating to interest rate",
+    "harm": {
+      "id": "0028240",
+      "title": "805494 - Financial transaction services relating to interest rate",
+      "conceptLink": "/ec2/concept/5977304"
+    }
+  },
+  {
+    "uri": "en/36/31758",
+    "id": "31758",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial transaction services",
+    "harm": {
+      "id": "0047202",
+      "title": "31758 - Financial transaction services",
+      "conceptLink": "/ec2/concept/5994567"
+    }
+  },
+  {
+    "uri": "en/36/31755",
+    "id": "31755",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial transactions",
+    "harm": {
+      "id": "0009027",
+      "title": "31755 - Financial transactions",
+      "conceptLink": "/ec2/concept/5959718"
+    }
+  },
+  {
+    "uri": "en/36/805510",
+    "id": "805510",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial transactions relating to currency swaps",
+    "harm": {
+      "id": "0039772",
+      "title": "805510 - Financial transactions relating to currency swaps",
+      "conceptLink": "/ec2/concept/5987822"
+    }
+  },
+  {
+    "uri": "en/36/131139672",
+    "id": "131139672",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial transfers and transactions, and payment services",
+    "harm": {
+      "id": "0047990",
+      "title": "131139672 - Financial transfers and transactions, and payment services",
+      "conceptLink": "/ec2/concept/5995251"
+    }
+  },
+  {
+    "uri": "en/36/132690615",
+    "id": "132690615",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial trust administration",
+    "harm": {
+      "id": "0046321",
+      "title": "132690615 - Financial trust administration",
+      "conceptLink": "/ec2/concept/5993781"
+    }
+  },
+  {
+    "uri": "en/36/804496",
+    "id": "804496",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial trust management",
+    "harm": {
+      "id": "0046321",
+      "title": "804496 - Financial trust management",
+      "conceptLink": "/ec2/concept/5993781"
+    }
+  },
+  {
+    "uri": "en/36/366702",
+    "id": "366702",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial trust operations",
+    "harm": {
+      "id": "0046321",
+      "title": "366702 - Financial trust operations",
+      "conceptLink": "/ec2/concept/5993781"
+    }
+  },
+  {
+    "uri": "en/36/903684",
+    "id": "903684",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial trust planning",
+    "harm": {
+      "id": "0017852",
+      "title": "903684 - Financial trust planning",
+      "conceptLink": "/ec2/concept/5967798"
+    }
+  },
+  {
+    "uri": "en/36/482555",
+    "id": "482555",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial underwriting",
+    "harm": {
+      "id": "0026974",
+      "title": "482555 - Financial underwriting",
+      "conceptLink": "/ec2/concept/5976143"
+    }
+  },
+  {
+    "uri": "en/36/131139810",
+    "id": "131139810",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial underwriting and securities issuance (investment banking)",
+    "harm": {
+      "id": "0047996",
+      "title": "131139810 - Financial underwriting and securities issuance (investment banking)",
+      "conceptLink": "/ec2/concept/5995257"
+    }
+  },
+  {
+    "uri": "en/36/120881059",
+    "id": "120881059",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation, adjustment and settlement services relating to insurance claims",
+    "harm": {
+      "id": "0067890",
+      "title": "120881059 - Financial valuation, adjustment and settlement services relating to insurance claims",
+      "conceptLink": "/ec2/concept/6004093"
+    }
+  },
+  {
+    "uri": "en/36/805524",
+    "id": "805524",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation of freehold property",
+    "harm": {
+      "id": "0010915",
+      "title": "805524 - Financial valuation of freehold property",
+      "conceptLink": "/ec2/concept/5961446"
+    }
+  },
+  {
+    "uri": "en/36/805537",
+    "id": "805537",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation of leasehold property",
+    "harm": {
+      "id": "0010916",
+      "title": "805537 - Financial valuation of leasehold property",
+      "conceptLink": "/ec2/concept/5961447"
+    }
+  },
+  {
+    "uri": "en/36/449141",
+    "id": "449141",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation of personal property and real estate",
+    "harm": {
+      "id": "0013763",
+      "title": "449141 - Financial valuation of personal property and real estate",
+      "conceptLink": "/ec2/concept/5964048"
+    }
+  },
+  {
+    "uri": "en/36/120893380",
+    "id": "120893380",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation of standing timber",
+    "harm": {
+      "id": "0037328",
+      "title": "120893380 - Financial valuation of standing timber",
+      "conceptLink": "/ec2/concept/5985590"
+    }
+  },
+  {
+    "uri": "en/36/136614777",
+    "id": "136614777",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation of wool",
+    "harm": {
+      "id": "0020036",
+      "title": "136614777 - Financial valuation of wool",
+      "conceptLink": "/ec2/concept/5969792"
+    }
+  },
+  {
+    "uri": "en/36/805552",
+    "id": "805552",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation relating to heating costs",
+    "harm": {
+      "id": "0045539",
+      "title": "805552 - Financial valuation relating to heating costs",
+      "conceptLink": "/ec2/concept/5993091"
+    }
+  },
+  {
+    "uri": "en/36/448488",
+    "id": "448488",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuation services",
+    "harm": {
+      "id": "0047031",
+      "title": "448488 - Financial valuation services",
+      "conceptLink": "/ec2/concept/5994410"
+    }
+  },
+  {
+    "uri": "en/36/448491",
+    "id": "448491",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financial valuations",
+    "harm": {
+      "id": "0047031",
+      "title": "448491 - Financial valuations",
+      "conceptLink": "/ec2/concept/5994410"
+    }
+  },
+  {
+    "uri": "en/36/366729",
+    "id": "366729",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financially-guaranteed financing",
+    "harm": {
+      "id": "0045043",
+      "title": "366729 - Financially-guaranteed financing",
+      "conceptLink": "/ec2/concept/5992636"
+    }
+  },
+  {
+    "uri": "en/36/136192512",
+    "id": "136192512",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing and funding services",
+    "harm": {
+      "id": "0050691",
+      "title": "136192512 - Financing and funding services",
+      "conceptLink": "/ec2/concept/5996057"
+    }
+  },
+  {
+    "uri": "en/36/450287",
+    "id": "450287",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing and loan services",
+    "harm": {
+      "id": "0011656",
+      "title": "450287 - Financing and loan services",
+      "conceptLink": "/ec2/concept/5962122"
+    }
+  },
+  {
+    "uri": "en/36/125148262",
+    "id": "125148262",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing (Hire purchase -)",
+    "harm": {
+      "id": "0038637",
+      "title": "125148262 - Financing (Hire purchase -)",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/499483",
+    "id": "499483",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing in relation to the buying and selling of businesses",
+    "harm": {
+      "id": "0015137",
+      "title": "499483 - Financing in relation to the buying and selling of businesses",
+      "conceptLink": "/ec2/concept/5965314"
+    }
+  },
+  {
+    "uri": "en/36/805564",
+    "id": "805564",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of acquisitions",
+    "harm": {
+      "id": "0012467",
+      "title": "805564 - Financing of acquisitions",
+      "conceptLink": "/ec2/concept/5962873"
+    }
+  },
+  {
+    "uri": "en/36/805580",
+    "id": "805580",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of bridging loans",
+    "harm": {
+      "id": "0018269",
+      "title": "805580 - Financing of bridging loans",
+      "conceptLink": "/ec2/concept/5968180"
+    }
+  },
+  {
+    "uri": "en/36/120880981",
+    "id": "120880981",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of building projects",
+    "harm": {
+      "id": "0067908",
+      "title": "120880981 - Financing of building projects",
+      "conceptLink": "/ec2/concept/6004111"
+    }
+  },
+  {
+    "uri": "en/36/805593",
+    "id": "805593",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of cash advances",
+    "harm": {
+      "id": "0018270",
+      "title": "805593 - Financing of cash advances",
+      "conceptLink": "/ec2/concept/5968181"
+    }
+  },
+  {
+    "uri": "en/36/805606",
+    "id": "805606",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of communal loans",
+    "harm": {
+      "id": "0006664",
+      "title": "805606 - Financing of communal loans",
+      "conceptLink": "/ec2/concept/5957557"
+    }
+  },
+  {
+    "uri": "en/36/120883917",
+    "id": "120883917",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of consumer purchases",
+    "harm": {
+      "id": "0068012",
+      "title": "120883917 - Financing of consumer purchases",
+      "conceptLink": "/ec2/concept/6004215"
+    }
+  },
+  {
+    "uri": "en/36/120881653",
+    "id": "120881653",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of development projects",
+    "harm": {
+      "id": "0067824",
+      "title": "120881653 - Financing of development projects",
+      "conceptLink": "/ec2/concept/6004027"
+    }
+  },
+  {
+    "uri": "en/36/805619",
+    "id": "805619",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of electrical and electronic transmission media systems",
+    "harm": {
+      "id": "0041375",
+      "title": "805619 - Financing of electrical and electronic transmission media systems",
+      "conceptLink": "/ec2/concept/5989289"
+    }
+  },
+  {
+    "uri": "en/36/805633",
+    "id": "805633",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of guarantees",
+    "harm": {
+      "id": "0029814",
+      "title": "805633 - Financing of guarantees",
+      "conceptLink": "/ec2/concept/5978757"
+    }
+  },
+  {
+    "uri": "en/36/805659",
+    "id": "805659",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of home loans",
+    "harm": {
+      "id": "0000894",
+      "title": "805659 - Financing of home loans",
+      "conceptLink": "/ec2/concept/5952293"
+    }
+  },
+  {
+    "uri": "en/36/366741",
+    "id": "366741",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of industrial activities",
+    "harm": {
+      "id": "0022126",
+      "title": "366741 - Financing of industrial activities",
+      "conceptLink": "/ec2/concept/5971708"
+    }
+  },
+  {
+    "uri": "en/36/805671",
+    "id": "805671",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of investments",
+    "harm": {
+      "id": "0006665",
+      "title": "805671 - Financing of investments",
+      "conceptLink": "/ec2/concept/5957558"
+    }
+  },
+  {
+    "uri": "en/36/805685",
+    "id": "805685",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of land acquisition",
+    "harm": {
+      "id": "0012468",
+      "title": "805685 - Financing of land acquisition",
+      "conceptLink": "/ec2/concept/5962874"
+    }
+  },
+  {
+    "uri": "en/36/34051",
+    "id": "34051",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of lease purchase",
+    "harm": {
+      "id": "0038637",
+      "title": "34051 - Financing of lease purchase",
+      "conceptLink": "/ec2/concept/5986788"
+    }
+  },
+  {
+    "uri": "en/36/450283",
+    "id": "450283",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of loans",
+    "harm": {
+      "id": "0000493",
+      "title": "450283 - Financing of loans",
+      "conceptLink": "/ec2/concept/5951930"
+    }
+  },
+  {
+    "uri": "en/36/120881098",
+    "id": "120881098",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of loans against security",
+    "harm": {
+      "id": "0067892",
+      "title": "120881098 - Financing of loans against security",
+      "conceptLink": "/ec2/concept/6004095"
+    }
+  },
+  {
+    "uri": "en/36/449158",
+    "id": "449158",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of loans, mortgages and sureties",
+    "harm": {
+      "id": "0002184",
+      "title": "449158 - Financing of loans, mortgages and sureties",
+      "conceptLink": "/ec2/concept/5953451"
+    }
+  },
+  {
+    "uri": "en/36/805701",
+    "id": "805701",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of loans relating to office machines",
+    "harm": {
+      "id": "0029815",
+      "title": "805701 - Financing of loans relating to office machines",
+      "conceptLink": "/ec2/concept/5978758"
+    }
+  },
+  {
+    "uri": "en/36/805713",
+    "id": "805713",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of mergers",
+    "harm": {
+      "id": "0006666",
+      "title": "805713 - Financing of mergers",
+      "conceptLink": "/ec2/concept/5957559"
+    }
+  },
+  {
+    "uri": "en/36/449179",
+    "id": "449179",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of mortgages and sureties",
+    "harm": {
+      "id": "0025309",
+      "title": "449179 - Financing of mortgages and sureties",
+      "conceptLink": "/ec2/concept/5974625"
+    }
+  },
+  {
+    "uri": "en/36/805728",
+    "id": "805728",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of personal loans",
+    "harm": {
+      "id": "0024081",
+      "title": "805728 - Financing of personal loans",
+      "conceptLink": "/ec2/concept/5973501"
+    }
+  },
+  {
+    "uri": "en/36/805747",
+    "id": "805747",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of property development",
+    "harm": {
+      "id": "0037839",
+      "title": "805747 - Financing of property development",
+      "conceptLink": "/ec2/concept/5986050"
+    }
+  },
+  {
+    "uri": "en/36/805771",
+    "id": "805771",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of property loans",
+    "harm": {
+      "id": "0020616",
+      "title": "805771 - Financing of property loans",
+      "conceptLink": "/ec2/concept/5970321"
+    }
+  },
+  {
+    "uri": "en/36/366758",
+    "id": "366758",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of purchases",
+    "harm": {
+      "id": "0016206",
+      "title": "366758 - Financing of purchases",
+      "conceptLink": "/ec2/concept/5966306"
+    }
+  },
+  {
+    "uri": "en/36/805787",
+    "id": "805787",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of short-term loans",
+    "harm": {
+      "id": "0037840",
+      "title": "805787 - Financing of short-term loans",
+      "conceptLink": "/ec2/concept/5986051"
+    }
+  },
+  {
+    "uri": "en/36/805634",
+    "id": "805634",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing of sureties",
+    "harm": {
+      "id": "0029814",
+      "title": "805634 - Financing of sureties",
+      "conceptLink": "/ec2/concept/5978757"
+    }
+  },
+  {
+    "uri": "en/36/366776",
+    "id": "366776",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing relating to automobiles",
+    "harm": {
+      "id": "0027759",
+      "title": "366776 - Financing relating to automobiles",
+      "conceptLink": "/ec2/concept/5976864"
+    }
+  },
+  {
+    "uri": "en/36/31751",
+    "id": "31751",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services",
+    "harm": {
+      "id": "0047171",
+      "title": "31751 - Financing services",
+      "conceptLink": "/ec2/concept/5994538"
+    }
+  },
+  {
+    "uri": "en/36/805799",
+    "id": "805799",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for companies",
+    "harm": {
+      "id": "0012058",
+      "title": "805799 - Financing services for companies",
+      "conceptLink": "/ec2/concept/5962502"
+    }
+  },
+  {
+    "uri": "en/36/482569",
+    "id": "482569",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for securing funds",
+    "harm": {
+      "id": "0015448",
+      "title": "482569 - Financing services for securing funds",
+      "conceptLink": "/ec2/concept/5965602"
+    }
+  },
+  {
+    "uri": "en/36/449199",
+    "id": "449199",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for sponsoring businesses",
+    "harm": {
+      "id": "0019615",
+      "title": "449199 - Financing services for sponsoring businesses",
+      "conceptLink": "/ec2/concept/5969418"
+    }
+  },
+  {
+    "uri": "en/36/805828",
+    "id": "805828",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for the securing of funds in respect of ventures",
+    "harm": {
+      "id": "0020617",
+      "title": "805828 - Financing services for the securing of funds in respect of ventures",
+      "conceptLink": "/ec2/concept/5970322"
+    }
+  },
+  {
+    "uri": "en/36/805814",
+    "id": "805814",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for the securing of funds for business",
+    "harm": {
+      "id": "0014771",
+      "title": "805814 - Financing services for the securing of funds for business",
+      "conceptLink": "/ec2/concept/5964980"
+    }
+  },
+  {
+    "uri": "en/36/120880739",
+    "id": "120880739",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services for the purchase of ships",
+    "harm": {
+      "id": "0067928",
+      "title": "120880739 - Financing services for the purchase of ships",
+      "conceptLink": "/ec2/concept/6004131"
+    }
+  },
+  {
+    "uri": "en/36/805869",
+    "id": "805869",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services relating to maternity care",
+    "harm": {
+      "id": "0003170",
+      "title": "805869 - Financing services relating to maternity care",
+      "conceptLink": "/ec2/concept/5954352"
+    }
+  },
+  {
+    "uri": "en/36/805856",
+    "id": "805856",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services relating to hotels",
+    "harm": {
+      "id": "0008915",
+      "title": "805856 - Financing services relating to hotels",
+      "conceptLink": "/ec2/concept/5959611"
+    }
+  },
+  {
+    "uri": "en/36/805843",
+    "id": "805843",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services relating to dental care",
+    "harm": {
+      "id": "0008914",
+      "title": "805843 - Financing services relating to dental care",
+      "conceptLink": "/ec2/concept/5959610"
+    }
+  },
+  {
+    "uri": "en/36/805896",
+    "id": "805896",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services relating to trade",
+    "harm": {
+      "id": "0014772",
+      "title": "805896 - Financing services relating to trade",
+      "conceptLink": "/ec2/concept/5964981"
+    }
+  },
+  {
+    "uri": "en/36/805881",
+    "id": "805881",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Financing services relating to real estate development",
+    "harm": {
+      "id": "0043597",
+      "title": "805881 - Financing services relating to real estate development",
+      "conceptLink": "/ec2/concept/5991311"
+    }
+  },
+  {
+    "uri": "en/36/33673",
+    "id": "33673",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Fire insurance",
+    "harm": {
+      "id": "0020618",
+      "title": "33673 - Fire insurance",
+      "conceptLink": "/ec2/concept/5970323"
+    }
+  }
+]

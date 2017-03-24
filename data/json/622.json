@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/36/801400",
+    "id": "801400",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to the securities markets",
+    "harm": {
+      "id": "0000095",
+      "title": "801400 - Brokerage services relating to the securities markets",
+      "conceptLink": "/ec2/concept/5951572"
+    }
+  },
+  {
+    "uri": "en/36/120881244",
+    "id": "120881244",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to securities offering",
+    "harm": {
+      "id": "0067875",
+      "title": "120881244 - Brokerage services relating to securities offering",
+      "conceptLink": "/ec2/concept/6004078"
+    }
+  },
+  {
+    "uri": "en/36/801359",
+    "id": "801359",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to financial instruments",
+    "harm": {
+      "id": "0017419",
+      "title": "801359 - Brokerage services relating to financial instruments",
+      "conceptLink": "/ec2/concept/5967402"
+    }
+  },
+  {
+    "uri": "en/36/801373",
+    "id": "801373",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to municipal bonds",
+    "harm": {
+      "id": "0040534",
+      "title": "801373 - Brokerage services relating to municipal bonds",
+      "conceptLink": "/ec2/concept/5988518"
+    }
+  },
+  {
+    "uri": "en/36/801344",
+    "id": "801344",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokerage services relating to debt instruments",
+    "harm": {
+      "id": "0040533",
+      "title": "801344 - Brokerage services relating to debt instruments",
+      "conceptLink": "/ec2/concept/5988517"
+    }
+  },
+  {
+    "uri": "en/36/447196",
+    "id": "447196",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokering of financial services",
+    "harm": {
+      "id": "0047177",
+      "title": "447196 - Brokering of financial services",
+      "conceptLink": "/ec2/concept/5994544"
+    }
+  },
+  {
+    "uri": "en/36/30784",
+    "id": "30784",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Brokering services",
+    "harm": {
+      "id": "0012277",
+      "title": "30784 - Brokering services",
+      "conceptLink": "/ec2/concept/5962698"
+    }
+  },
+  {
+    "uri": "en/36/366521",
+    "id": "366521",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Building leasing",
+    "harm": {
+      "id": "0057130",
+      "title": "366521 - Building leasing",
+      "conceptLink": "/ec2/concept/5998768"
+    }
+  },
+  {
+    "uri": "en/36/33504",
+    "id": "33504",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Building management",
+    "harm": {
+      "id": "0012384",
+      "title": "33504 - Building management",
+      "conceptLink": "/ec2/concept/5962800"
+    }
+  },
+  {
+    "uri": "en/36/801430",
+    "id": "801430",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Building society services",
+    "harm": {
+      "id": "0028955",
+      "title": "801430 - Building society services",
+      "conceptLink": "/ec2/concept/5977974"
+    }
+  },
+  {
+    "uri": "en/36/801444",
+    "id": "801444",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Building society services relating to finance",
+    "harm": {
+      "id": "0028956",
+      "title": "801444 - Building society services relating to finance",
+      "conceptLink": "/ec2/concept/5977975"
+    }
+  },
+  {
+    "uri": "en/36/801458",
+    "id": "801458",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bullion brokerage services",
+    "harm": {
+      "id": "0000096",
+      "title": "801458 - Bullion brokerage services",
+      "conceptLink": "/ec2/concept/5951573"
+    }
+  },
+  {
+    "uri": "en/36/32753",
+    "id": "32753",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Bureau de change services",
+    "harm": {
+      "id": "0046986",
+      "title": "32753 - Bureau de change services",
+      "conceptLink": "/ec2/concept/5994368"
+    }
+  },
+  {
+    "uri": "en/36/801472",
+    "id": "801472",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Business appraisals for financial valuation",
+    "harm": {
+      "id": "0028957",
+      "title": "801472 - Business appraisals for financial valuation",
+      "conceptLink": "/ec2/concept/5977976"
+    }
+  },
+  {
+    "uri": "en/36/901304",
+    "id": "901304",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Business credit verification services",
+    "harm": {
+      "id": "0040025",
+      "title": "901304 - Business credit verification services",
+      "conceptLink": "/ec2/concept/5988053"
+    }
+  },
+  {
+    "uri": "en/36/36189",
+    "id": "36189",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Business liquidation services, financial",
+    "harm": {
+      "id": "0029598",
+      "title": "36189 - Business liquidation services, financial",
+      "conceptLink": "/ec2/concept/5978558"
+    }
+  },
+  {
+    "uri": "en/36/480349",
+    "id": "480349",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Buying and issuing of travellers' cheques",
+    "harm": {
+      "id": "0035923",
+      "title": "480349 - Buying and issuing of travellers' cheques",
+      "conceptLink": "/ec2/concept/5984310"
+    }
+  },
+  {
+    "uri": "en/36/801487",
+    "id": "801487",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Buying and selling currency",
+    "harm": {
+      "id": "0000097",
+      "title": "801487 - Buying and selling currency",
+      "conceptLink": "/ec2/concept/5951574"
+    }
+  },
+  {
+    "uri": "en/36/32411",
+    "id": "32411",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital fund investment",
+    "harm": {
+      "id": "0047490",
+      "title": "32411 - Capital fund investment",
+      "conceptLink": "/ec2/concept/5994793"
+    }
+  },
+  {
+    "uri": "en/36/801522",
+    "id": "801522",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital fund management",
+    "harm": {
+      "id": "0016039",
+      "title": "801522 - Capital fund management",
+      "conceptLink": "/ec2/concept/5966156"
+    }
+  },
+  {
+    "uri": "en/36/32396",
+    "id": "32396",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment",
+    "harm": {
+      "id": "0072814",
+      "title": "32396 - Capital investment",
+      "conceptLink": "/ec2/concept/6008989"
+    }
+  },
+  {
+    "uri": "en/36/449337",
+    "id": "449337",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment advisory services",
+    "harm": {
+      "id": "0057360",
+      "title": "449337 - Capital investment advisory services",
+      "conceptLink": "/ec2/concept/5998867"
+    }
+  },
+  {
+    "uri": "en/36/447258",
+    "id": "447258",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment brokerage",
+    "harm": {
+      "id": "0057016",
+      "title": "447258 - Capital investment brokerage",
+      "conceptLink": "/ec2/concept/5998646"
+    }
+  },
+  {
+    "uri": "en/36/901500",
+    "id": "901500",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment consulting",
+    "harm": {
+      "id": "0012389",
+      "title": "901500 - Capital investment consulting",
+      "conceptLink": "/ec2/concept/5962804"
+    }
+  },
+  {
+    "uri": "en/36/447293",
+    "id": "447293",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment consultation",
+    "harm": {
+      "id": "0012389",
+      "title": "447293 - Capital investment consultation",
+      "conceptLink": "/ec2/concept/5962804"
+    }
+  },
+  {
+    "uri": "en/36/69288341",
+    "id": "69288341",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment fund management",
+    "harm": {
+      "id": "0059437",
+      "title": "69288341 - Capital investment fund management",
+      "conceptLink": "/ec2/concept/6000913"
+    }
+  },
+  {
+    "uri": "en/36/801536",
+    "id": "801536",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment in real estate",
+    "harm": {
+      "id": "0033338",
+      "title": "801536 - Capital investment in real estate",
+      "conceptLink": "/ec2/concept/5981966"
+    }
+  },
+  {
+    "uri": "en/36/32412",
+    "id": "32412",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investment services",
+    "harm": {
+      "id": "0072814",
+      "title": "32412 - Capital investment services",
+      "conceptLink": "/ec2/concept/6008989"
+    }
+  },
+  {
+    "uri": "en/36/32398",
+    "id": "32398",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital investments",
+    "harm": {
+      "id": "0072814",
+      "title": "32398 - Capital investments",
+      "conceptLink": "/ec2/concept/6008989"
+    }
+  },
+  {
+    "uri": "en/36/3546451",
+    "id": "3546451",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital management",
+    "harm": {
+      "id": "0071337",
+      "title": "3546451 - Capital management",
+      "conceptLink": "/ec2/concept/6007528"
+    }
+  },
+  {
+    "uri": "en/36/125137833",
+    "id": "125137833",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capital (Raising of -)",
+    "harm": {
+      "id": "0023250",
+      "title": "125137833 - Capital (Raising of -)",
+      "conceptLink": "/ec2/concept/5972729"
+    }
+  },
+  {
+    "uri": "en/36/801551",
+    "id": "801551",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Capitalization services",
+    "harm": {
+      "id": "0004510",
+      "title": "801551 - Capitalization services",
+      "conceptLink": "/ec2/concept/5955580"
+    }
+  },
+  {
+    "uri": "en/36/801564",
+    "id": "801564",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Caravan insurance services",
+    "harm": {
+      "id": "0033339",
+      "title": "801564 - Caravan insurance services",
+      "conceptLink": "/ec2/concept/5981967"
+    }
+  },
+  {
+    "uri": "en/36/801576",
+    "id": "801576",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Card accessed banking services",
+    "harm": {
+      "id": "0027580",
+      "title": "801576 - Card accessed banking services",
+      "conceptLink": "/ec2/concept/5976699"
+    }
+  },
+  {
+    "uri": "en/36/801589",
+    "id": "801589",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Card operated financial services",
+    "harm": {
+      "id": "0021956",
+      "title": "801589 - Card operated financial services",
+      "conceptLink": "/ec2/concept/5971551"
+    }
+  },
+  {
+    "uri": "en/36/120919146",
+    "id": "120919146",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Card services",
+    "harm": {
+      "id": "0007701",
+      "title": "120919146 - Card services",
+      "conceptLink": "/ec2/concept/5958504"
+    }
+  },
+  {
+    "uri": "en/36/366561",
+    "id": "366561",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash and foreign exchange transactions",
+    "harm": {
+      "id": "0018189",
+      "title": "366561 - Cash and foreign exchange transactions",
+      "conceptLink": "/ec2/concept/5968106"
+    }
+  },
+  {
+    "uri": "en/36/801604",
+    "id": "801604",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash card services",
+    "harm": {
+      "id": "0044871",
+      "title": "801604 - Cash card services",
+      "conceptLink": "/ec2/concept/5992480"
+    }
+  },
+  {
+    "uri": "en/36/131139718",
+    "id": "131139718",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash, check (cheque) and money order services",
+    "harm": {
+      "id": "0047987",
+      "title": "131139718 - Cash, check (cheque) and money order services",
+      "conceptLink": "/ec2/concept/5995248"
+    }
+  },
+  {
+    "uri": "en/36/801618",
+    "id": "801618",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash disbursement services",
+    "harm": {
+      "id": "0044872",
+      "title": "801618 - Cash disbursement services",
+      "conceptLink": "/ec2/concept/5992481"
+    }
+  },
+  {
+    "uri": "en/36/446925",
+    "id": "446925",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash dispenser services",
+    "harm": {
+      "id": "0000816",
+      "title": "446925 - Cash dispenser services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/801649",
+    "id": "801649",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash dispensing being customer-operated",
+    "harm": {
+      "id": "0016040",
+      "title": "801649 - Cash dispensing being customer-operated",
+      "conceptLink": "/ec2/concept/5966157"
+    }
+  },
+  {
+    "uri": "en/36/125026465",
+    "id": "125026465",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash dispensing (Card-actuated -) services",
+    "harm": {
+      "id": "0000816",
+      "title": "125026465 - Cash dispensing (Card-actuated -) services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/446926",
+    "id": "446926",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash dispensing services",
+    "harm": {
+      "id": "0000816",
+      "title": "446926 - Cash dispensing services",
+      "conceptLink": "/ec2/concept/5952225"
+    }
+  },
+  {
+    "uri": "en/36/801662",
+    "id": "801662",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash management",
+    "harm": {
+      "id": "0005721",
+      "title": "801662 - Cash management",
+      "conceptLink": "/ec2/concept/5956696"
+    }
+  },
+  {
+    "uri": "en/36/447327",
+    "id": "447327",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash management services",
+    "harm": {
+      "id": "0005721",
+      "title": "447327 - Cash management services",
+      "conceptLink": "/ec2/concept/5956696"
+    }
+  },
+  {
+    "uri": "en/36/483880",
+    "id": "483880",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash processing",
+    "harm": {
+      "id": "0046508",
+      "title": "483880 - Cash processing",
+      "conceptLink": "/ec2/concept/5993947"
+    }
+  },
+  {
+    "uri": "en/36/447346",
+    "id": "447346",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cash replacement rendered by credit card",
+    "harm": {
+      "id": "0025974",
+      "title": "447346 - Cash replacement rendered by credit card",
+      "conceptLink": "/ec2/concept/5975239"
+    }
+  },
+  {
+    "uri": "en/36/447364",
+    "id": "447364",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cashing of cheques",
+    "harm": {
+      "id": "0012815",
+      "title": "447364 - Cashing of cheques",
+      "conceptLink": "/ec2/concept/5963192"
+    }
+  },
+  {
+    "uri": "en/36/801677",
+    "id": "801677",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cashing of personal cheques",
+    "harm": {
+      "id": "0028783",
+      "title": "801677 - Cashing of personal cheques",
+      "conceptLink": "/ec2/concept/5977816"
+    }
+  },
+  {
+    "uri": "en/36/120880894",
+    "id": "120880894",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Casualty insurance underwriting",
+    "harm": {
+      "id": "0046703",
+      "title": "120880894 - Casualty insurance underwriting",
+      "conceptLink": "/ec2/concept/5994116"
+    }
+  },
+  {
+    "uri": "en/36/886440",
+    "id": "886440",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charge card and credit card services",
+    "harm": {
+      "id": "0045813",
+      "title": "886440 - Charge card and credit card services",
+      "conceptLink": "/ec2/concept/5993344"
+    }
+  },
+  {
+    "uri": "en/36/119549804",
+    "id": "119549804",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charge card services",
+    "harm": {
+      "id": "0013545",
+      "title": "119549804 - Charge card services",
+      "conceptLink": "/ec2/concept/5963850"
+    }
+  },
+  {
+    "uri": "en/36/35112",
+    "id": "35112",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charge-card services",
+    "harm": {
+      "id": "0013545",
+      "title": "35112 - Charge-card services",
+      "conceptLink": "/ec2/concept/5963850"
+    }
+  },
+  {
+    "uri": "en/36/32183",
+    "id": "32183",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable collections",
+    "harm": {
+      "id": "0023749",
+      "title": "32183 - Charitable collections",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/32181",
+    "id": "32181",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fund raising",
+    "harm": {
+      "id": "0023749",
+      "title": "32181 - Charitable fund raising",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/366577",
+    "id": "366577",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fund raising in view of disaster precautions and prevention",
+    "harm": {
+      "id": "0012385",
+      "title": "366577 - Charitable fund raising in view of disaster precautions and prevention",
+      "conceptLink": "/ec2/concept/5962801"
+    }
+  },
+  {
+    "uri": "en/36/32185",
+    "id": "32185",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fund raising services",
+    "harm": {
+      "id": "0023749",
+      "title": "32185 - Charitable fund raising services",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/32189",
+    "id": "32189",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fundraising",
+    "harm": {
+      "id": "0023749",
+      "title": "32189 - Charitable fundraising",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/120881226",
+    "id": "120881226",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fundraising by means of entertainment events",
+    "harm": {
+      "id": "0067876",
+      "title": "120881226 - Charitable fundraising by means of entertainment events",
+      "conceptLink": "/ec2/concept/6004079"
+    }
+  },
+  {
+    "uri": "en/36/120881965",
+    "id": "120881965",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fundraising services for underprivileged children",
+    "harm": {
+      "id": "0067795",
+      "title": "120881965 - Charitable fundraising services for underprivileged children",
+      "conceptLink": "/ec2/concept/6003998"
+    }
+  },
+  {
+    "uri": "en/36/32186",
+    "id": "32186",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fundraising services",
+    "harm": {
+      "id": "0023749",
+      "title": "32186 - Charitable fundraising services",
+      "conceptLink": "/ec2/concept/5973192"
+    }
+  },
+  {
+    "uri": "en/36/120883770",
+    "id": "120883770",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable fundraising through the sale of charity stamps",
+    "harm": {
+      "id": "0068010",
+      "title": "120883770 - Charitable fundraising through the sale of charity stamps",
+      "conceptLink": "/ec2/concept/6004213"
+    }
+  },
+  {
+    "uri": "en/36/801688",
+    "id": "801688",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Charitable services, namely financial services",
+    "harm": {
+      "id": "0028784",
+      "title": "801688 - Charitable services, namely financial services",
+      "conceptLink": "/ec2/concept/5977817"
+    }
+  },
+  {
+    "uri": "en/36/34761",
+    "id": "34761",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Check [cheque] verification",
+    "harm": {
+      "id": "0006198",
+      "title": "34761 - Check [cheque] verification",
+      "conceptLink": "/ec2/concept/5957131"
+    }
+  },
+  {
+    "uri": "en/36/131080172",
+    "id": "131080172",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Check payment guarantee services",
+    "harm": {
+      "id": "0028786",
+      "title": "131080172 - Check payment guarantee services",
+      "conceptLink": "/ec2/concept/5977819"
+    }
+  },
+  {
+    "uri": "en/36/447438",
+    "id": "447438",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Checking account services",
+    "harm": {
+      "id": "0011352",
+      "title": "447438 - Checking account services",
+      "conceptLink": "/ec2/concept/5961844"
+    }
+  },
+  {
+    "uri": "en/36/447437",
+    "id": "447437",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque account services",
+    "harm": {
+      "id": "0011352",
+      "title": "447437 - Cheque account services",
+      "conceptLink": "/ec2/concept/5961844"
+    }
+  },
+  {
+    "uri": "en/36/801704",
+    "id": "801704",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque account services for the cashing of cheques",
+    "harm": {
+      "id": "0005722",
+      "title": "801704 - Cheque account services for the cashing of cheques",
+      "conceptLink": "/ec2/concept/5956697"
+    }
+  },
+  {
+    "uri": "en/36/801717",
+    "id": "801717",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque account services for the receiving of cheques",
+    "harm": {
+      "id": "0040352",
+      "title": "801717 - Cheque account services for the receiving of cheques",
+      "conceptLink": "/ec2/concept/5988356"
+    }
+  },
+  {
+    "uri": "en/36/801729",
+    "id": "801729",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque authorization services",
+    "harm": {
+      "id": "0011447",
+      "title": "801729 - Cheque authorization services",
+      "conceptLink": "/ec2/concept/5961929"
+    }
+  },
+  {
+    "uri": "en/36/447365",
+    "id": "447365",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque cashing services",
+    "harm": {
+      "id": "0012815",
+      "title": "447365 - Cheque cashing services",
+      "conceptLink": "/ec2/concept/5963192"
+    }
+  },
+  {
+    "uri": "en/36/447395",
+    "id": "447395",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque clearing",
+    "harm": {
+      "id": "0002894",
+      "title": "447395 - Cheque clearing",
+      "conceptLink": "/ec2/concept/5954092"
+    }
+  },
+  {
+    "uri": "en/36/447464",
+    "id": "447464",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque clearing services",
+    "harm": {
+      "id": "0037571",
+      "title": "447464 - Cheque clearing services",
+      "conceptLink": "/ec2/concept/5985808"
+    }
+  },
+  {
+    "uri": "en/36/480405",
+    "id": "480405",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque encashment services",
+    "harm": {
+      "id": "0012815",
+      "title": "480405 - Cheque encashment services",
+      "conceptLink": "/ec2/concept/5963192"
+    }
+  },
+  {
+    "uri": "en/36/801741",
+    "id": "801741",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque evaluation services",
+    "harm": {
+      "id": "0028785",
+      "title": "801741 - Cheque evaluation services",
+      "conceptLink": "/ec2/concept/5977818"
+    }
+  },
+  {
+    "uri": "en/36/901722",
+    "id": "901722",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque guarantee card services",
+    "harm": {
+      "id": "0029316",
+      "title": "901722 - Cheque guarantee card services",
+      "conceptLink": "/ec2/concept/5978297"
+    }
+  },
+  {
+    "uri": "en/36/801753",
+    "id": "801753",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque guarantee services",
+    "harm": {
+      "id": "0028786",
+      "title": "801753 - Cheque guarantee services",
+      "conceptLink": "/ec2/concept/5977819"
+    }
+  },
+  {
+    "uri": "en/36/34764",
+    "id": "34764",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque verification",
+    "harm": {
+      "id": "0006198",
+      "title": "34764 - Cheque verification",
+      "conceptLink": "/ec2/concept/5957131"
+    }
+  },
+  {
+    "uri": "en/36/34765",
+    "id": "34765",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheque verification services",
+    "harm": {
+      "id": "0006198",
+      "title": "34765 - Cheque verification services",
+      "conceptLink": "/ec2/concept/5957131"
+    }
+  },
+  {
+    "uri": "en/36/125147893",
+    "id": "125147893",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheques (Issuing of travellers' -)",
+    "harm": {
+      "id": "0001018",
+      "title": "125147893 - Cheques (Issuing of travellers' -)",
+      "conceptLink": "/ec2/concept/5952400"
+    }
+  },
+  {
+    "uri": "en/36/125026597",
+    "id": "125026597",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheques (Redemption of travellers' -)",
+    "harm": {
+      "id": "0001019",
+      "title": "125026597 - Cheques (Redemption of travellers' -)",
+      "conceptLink": "/ec2/concept/5952401"
+    }
+  },
+  {
+    "uri": "en/36/124328622",
+    "id": "124328622",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Cheques (Verification of -)",
+    "harm": {
+      "id": "0006198",
+      "title": "124328622 - Cheques (Verification of -)",
+      "conceptLink": "/ec2/concept/5957131"
+    }
+  },
+  {
+    "uri": "en/36/4332668",
+    "id": "4332668",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claim adjustment for non-life insurance",
+    "harm": {
+      "id": "0060862",
+      "title": "4332668 - Claim adjustment for non-life insurance",
+      "conceptLink": "/ec2/concept/6001182"
+    }
+  },
+  {
+    "uri": "en/36/124686977",
+    "id": "124686977",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claim assessments (Insurance -)",
+    "harm": {
+      "id": "0041498",
+      "title": "124686977 - Claim assessments (Insurance -)",
+      "conceptLink": "/ec2/concept/5989399"
+    }
+  },
+  {
+    "uri": "en/36/120881838",
+    "id": "120881838",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claims adjustment for non-life insurance",
+    "harm": {
+      "id": "0067806",
+      "title": "120881838 - Claims adjustment for non-life insurance",
+      "conceptLink": "/ec2/concept/6004009"
+    }
+  },
+  {
+    "uri": "en/36/447482",
+    "id": "447482",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claims adjustment in the field of insurance",
+    "harm": {
+      "id": "0058157",
+      "title": "447482 - Claims adjustment in the field of insurance",
+      "conceptLink": "/ec2/concept/5999658"
+    }
+  },
+  {
+    "uri": "en/36/125026618",
+    "id": "125026618",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claims adjustment (Insurance -)",
+    "harm": {
+      "id": "0058157",
+      "title": "125026618 - Claims adjustment (Insurance -)",
+      "conceptLink": "/ec2/concept/5999658"
+    }
+  },
+  {
+    "uri": "en/36/801835",
+    "id": "801835",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Claims settlement agency services",
+    "harm": {
+      "id": "0024191",
+      "title": "801835 - Claims settlement agency services",
+      "conceptLink": "/ec2/concept/5973606"
+    }
+  },
+  {
+    "uri": "en/36/32999",
+    "id": "32999",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing, financial",
+    "harm": {
+      "id": "0029917",
+      "title": "32999 - Clearing, financial",
+      "conceptLink": "/ec2/concept/5978847"
+    }
+  },
+  {
+    "uri": "en/36/33006",
+    "id": "33006",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing house financial services",
+    "harm": {
+      "id": "0029917",
+      "title": "33006 - Clearing house financial services",
+      "conceptLink": "/ec2/concept/5978847"
+    }
+  },
+  {
+    "uri": "en/36/33004",
+    "id": "33004",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing-house services",
+    "harm": {
+      "id": "0029917",
+      "title": "33004 - Clearing-house services",
+      "conceptLink": "/ec2/concept/5978847"
+    }
+  },
+  {
+    "uri": "en/36/124713753",
+    "id": "124713753",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing-house services (Bankers' -)",
+    "harm": {
+      "id": "0024192",
+      "title": "124713753 - Clearing-house services (Bankers' -)",
+      "conceptLink": "/ec2/concept/5973607"
+    }
+  },
+  {
+    "uri": "en/36/33002",
+    "id": "33002",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing-houses, financial",
+    "harm": {
+      "id": "0029917",
+      "title": "33002 - Clearing-houses, financial",
+      "conceptLink": "/ec2/concept/5978847"
+    }
+  },
+  {
+    "uri": "en/36/447396",
+    "id": "447396",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing of cheques",
+    "harm": {
+      "id": "0002894",
+      "title": "447396 - Clearing of cheques",
+      "conceptLink": "/ec2/concept/5954092"
+    }
+  },
+  {
+    "uri": "en/36/33005",
+    "id": "33005",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing services",
+    "harm": {
+      "id": "0029917",
+      "title": "33005 - Clearing services",
+      "conceptLink": "/ec2/concept/5978847"
+    }
+  },
+  {
+    "uri": "en/36/124713752",
+    "id": "124713752",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing services (Bankers' -)",
+    "harm": {
+      "id": "0024192",
+      "title": "124713752 - Clearing services (Bankers' -)",
+      "conceptLink": "/ec2/concept/5973607"
+    }
+  },
+  {
+    "uri": "en/36/120881131",
+    "id": "120881131",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Clearing services for payment transactions",
+    "harm": {
+      "id": "0067891",
+      "title": "120881131 - Clearing services for payment transactions",
+      "conceptLink": "/ec2/concept/6004094"
+    }
+  },
+  {
+    "uri": "en/36/802455",
+    "id": "802455",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Co-operative credit society services",
+    "harm": {
+      "id": "0024632",
+      "title": "802455 - Co-operative credit society services",
+      "conceptLink": "/ec2/concept/5974009"
+    }
+  },
+  {
+    "uri": "en/36/35531",
+    "id": "35531",
+    "lang": "en",
+    "classNumber": "36",
+    "term": "Coin appraisal",
+    "harm": {
+      "id": "0017816",
+      "title": "35531 - Coin appraisal",
+      "conceptLink": "/ec2/concept/5967764"
+    }
+  }
+]

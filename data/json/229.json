@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/119529345",
+    "id": "119529345",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fixed location telephones",
+    "harm": {
+      "id": "0055741",
+      "title": "119529345 - Fixed location telephones",
+      "conceptLink": "/ec2/concept/5997129"
+    }
+  },
+  {
+    "uri": "en/9/536677",
+    "id": "536677",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flame detectors",
+    "harm": {
+      "id": "0046285",
+      "title": "536677 - Flame detectors",
+      "conceptLink": "/ec2/concept/5993746"
+    }
+  },
+  {
+    "uri": "en/9/536691",
+    "id": "536691",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flame monitors",
+    "harm": {
+      "id": "0045431",
+      "title": "536691 - Flame monitors",
+      "conceptLink": "/ec2/concept/5992997"
+    }
+  },
+  {
+    "uri": "en/9/120896831",
+    "id": "120896831",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flame-retardant balaclavas",
+    "harm": {
+      "id": "0065730",
+      "title": "120896831 - Flame-retardant balaclavas",
+      "conceptLink": "/ec2/concept/6001933"
+    }
+  },
+  {
+    "uri": "en/9/536703",
+    "id": "536703",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flame sensors",
+    "harm": {
+      "id": "0005064",
+      "title": "536703 - Flame sensors",
+      "conceptLink": "/ec2/concept/5956094"
+    }
+  },
+  {
+    "uri": "en/9/160275",
+    "id": "160275",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash bulbs",
+    "harm": {
+      "id": "0058985",
+      "title": "160275 - Flash bulbs",
+      "conceptLink": "/ec2/concept/6000476"
+    }
+  },
+  {
+    "uri": "en/9/132812729",
+    "id": "132812729",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash-bulbs",
+    "harm": {
+      "id": "0058985",
+      "title": "132812729 - Flash-bulbs",
+      "conceptLink": "/ec2/concept/6000476"
+    }
+  },
+  {
+    "uri": "en/9/132812728",
+    "id": "132812728",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash bulbs [photography]",
+    "harm": {
+      "id": "0058985",
+      "title": "132812728 - Flash bulbs [photography]",
+      "conceptLink": "/ec2/concept/6000476"
+    }
+  },
+  {
+    "uri": "en/9/146420",
+    "id": "146420",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash-bulbs [photography]",
+    "harm": {
+      "id": "0058985",
+      "title": "146420 - Flash-bulbs [photography]",
+      "conceptLink": "/ec2/concept/6000476"
+    }
+  },
+  {
+    "uri": "en/9/398361",
+    "id": "398361",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash card adapters",
+    "harm": {
+      "id": "0037053",
+      "title": "398361 - Flash card adapters",
+      "conceptLink": "/ec2/concept/5985343"
+    }
+  },
+  {
+    "uri": "en/9/398376",
+    "id": "398376",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash card readers",
+    "harm": {
+      "id": "0037054",
+      "title": "398376 - Flash card readers",
+      "conceptLink": "/ec2/concept/5985344"
+    }
+  },
+  {
+    "uri": "en/9/536721",
+    "id": "536721",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash gun apparatus",
+    "harm": {
+      "id": "0029700",
+      "title": "536721 - Flash gun apparatus",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/536722",
+    "id": "536722",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash guns",
+    "harm": {
+      "id": "0029700",
+      "title": "536722 - Flash guns",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/53628094",
+    "id": "53628094",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash guns [for cameras]",
+    "harm": {
+      "id": "0029700",
+      "title": "53628094 - Flash guns [for cameras]",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/131095689",
+    "id": "131095689",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash guns for cameras",
+    "harm": {
+      "id": "0058986",
+      "title": "131095689 - Flash guns for cameras",
+      "conceptLink": "/ec2/concept/6000477"
+    }
+  },
+  {
+    "uri": "en/9/119529350",
+    "id": "119529350",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash lamps [for cameras]",
+    "harm": {
+      "id": "0029700",
+      "title": "119529350 - Flash lamps [for cameras]",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/28031924",
+    "id": "28031924",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash lamps for cameras",
+    "harm": {
+      "id": "0058987",
+      "title": "28031924 - Flash lamps for cameras",
+      "conceptLink": "/ec2/concept/6000478"
+    }
+  },
+  {
+    "uri": "en/9/398389",
+    "id": "398389",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flash memory card",
+    "harm": {
+      "id": "0037055",
+      "title": "398389 - Flash memory card",
+      "conceptLink": "/ec2/concept/5985345"
+    }
+  },
+  {
+    "uri": "en/9/142609",
+    "id": "142609",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashing lights [luminous signals]",
+    "harm": {
+      "id": "0021029",
+      "title": "142609 - Flashing lights [luminous signals]",
+      "conceptLink": "/ec2/concept/5970705"
+    }
+  },
+  {
+    "uri": "en/9/3256302",
+    "id": "3256302",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashing safety lights",
+    "harm": {
+      "id": "0055742",
+      "title": "3256302 - Flashing safety lights",
+      "conceptLink": "/ec2/concept/5997130"
+    }
+  },
+  {
+    "uri": "en/9/328738",
+    "id": "328738",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashlamps for cameras",
+    "harm": {
+      "id": "0058987",
+      "title": "328738 - Flashlamps for cameras",
+      "conceptLink": "/ec2/concept/6000478"
+    }
+  },
+  {
+    "uri": "en/9/536723",
+    "id": "536723",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashlight apparatus",
+    "harm": {
+      "id": "0029700",
+      "title": "536723 - Flashlight apparatus",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/75224735",
+    "id": "75224735",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashlights for use in photography",
+    "harm": {
+      "id": "0029700",
+      "title": "75224735 - Flashlights for use in photography",
+      "conceptLink": "/ec2/concept/5978652"
+    }
+  },
+  {
+    "uri": "en/9/160274",
+    "id": "160274",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flashlights [photography]",
+    "harm": {
+      "id": "0058987",
+      "title": "160274 - Flashlights [photography]",
+      "conceptLink": "/ec2/concept/6000478"
+    }
+  },
+  {
+    "uri": "en/9/119529358",
+    "id": "119529358",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flasks for laboratory use",
+    "harm": {
+      "id": "0030684",
+      "title": "119529358 - Flasks for laboratory use",
+      "conceptLink": "/ec2/concept/5979559"
+    }
+  },
+  {
+    "uri": "en/9/2585076",
+    "id": "2585076",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flat panel displays",
+    "harm": {
+      "id": "0066020",
+      "title": "2585076 - Flat panel displays",
+      "conceptLink": "/ec2/concept/6002223"
+    }
+  },
+  {
+    "uri": "en/9/120874355",
+    "id": "120874355",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flat panel electroluminescent display screens",
+    "harm": {
+      "id": "0056882",
+      "title": "120874355 - Flat panel electroluminescent display screens",
+      "conceptLink": "/ec2/concept/5998155"
+    }
+  },
+  {
+    "uri": "en/9/536751",
+    "id": "536751",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flatbed plotters",
+    "harm": {
+      "id": "0029701",
+      "title": "536751 - Flatbed plotters",
+      "conceptLink": "/ec2/concept/5978653"
+    }
+  },
+  {
+    "uri": "en/9/536762",
+    "id": "536762",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flatness testers",
+    "harm": {
+      "id": "0018151",
+      "title": "536762 - Flatness testers",
+      "conceptLink": "/ec2/concept/5968071"
+    }
+  },
+  {
+    "uri": "en/9/136073577",
+    "id": "136073577",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flatness testing apparatus",
+    "harm": {
+      "id": "0050435",
+      "title": "136073577 - Flatness testing apparatus",
+      "conceptLink": "/ec2/concept/5995642"
+    }
+  },
+  {
+    "uri": "en/9/536776",
+    "id": "536776",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flexible circuit boards",
+    "harm": {
+      "id": "0018152",
+      "title": "536776 - Flexible circuit boards",
+      "conceptLink": "/ec2/concept/5968072"
+    }
+  },
+  {
+    "uri": "en/9/136244696",
+    "id": "136244696",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flexible flat panel displays for computers",
+    "harm": {
+      "id": "0050721",
+      "title": "136244696 - Flexible flat panel displays for computers",
+      "conceptLink": "/ec2/concept/5996086"
+    }
+  },
+  {
+    "uri": "en/9/536792",
+    "id": "536792",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flexible sheaths for electric cables",
+    "harm": {
+      "id": "0035501",
+      "title": "536792 - Flexible sheaths for electric cables",
+      "conceptLink": "/ec2/concept/5983932"
+    }
+  },
+  {
+    "uri": "en/9/536805",
+    "id": "536805",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flexible sheaths for electric conductors",
+    "harm": {
+      "id": "0029702",
+      "title": "536805 - Flexible sheaths for electric conductors",
+      "conceptLink": "/ec2/concept/5978654"
+    }
+  },
+  {
+    "uri": "en/9/536818",
+    "id": "536818",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight control apparatus",
+    "harm": {
+      "id": "0006551",
+      "title": "536818 - Flight control apparatus",
+      "conceptLink": "/ec2/concept/5957454"
+    }
+  },
+  {
+    "uri": "en/9/536819",
+    "id": "536819",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight controlling apparatus",
+    "harm": {
+      "id": "0006551",
+      "title": "536819 - Flight controlling apparatus",
+      "conceptLink": "/ec2/concept/5957454"
+    }
+  },
+  {
+    "uri": "en/9/536850",
+    "id": "536850",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight path controls for projectiles",
+    "harm": {
+      "id": "0012345",
+      "title": "536850 - Flight path controls for projectiles",
+      "conceptLink": "/ec2/concept/5962763"
+    }
+  },
+  {
+    "uri": "en/9/536837",
+    "id": "536837",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight path controls for missiles",
+    "harm": {
+      "id": "0012345",
+      "title": "536837 - Flight path controls for missiles",
+      "conceptLink": "/ec2/concept/5962763"
+    }
+  },
+  {
+    "uri": "en/9/328755",
+    "id": "328755",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight simulators",
+    "harm": {
+      "id": "0022667",
+      "title": "328755 - Flight simulators",
+      "conceptLink": "/ec2/concept/5972201"
+    }
+  },
+  {
+    "uri": "en/9/328775",
+    "id": "328775",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flight simulators for aircraft",
+    "harm": {
+      "id": "0005259",
+      "title": "328775 - Flight simulators for aircraft",
+      "conceptLink": "/ec2/concept/5956267"
+    }
+  },
+  {
+    "uri": "en/9/232669356",
+    "id": "232669356",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flip covers for cellular phones",
+    "harm": {
+      "id": "0072094",
+      "title": "232669356 - Flip covers for cellular phones",
+      "conceptLink": "/ec2/concept/6008277"
+    }
+  },
+  {
+    "uri": "en/9/136832363",
+    "id": "136832363",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flip covers for mobile phones",
+    "harm": {
+      "id": "0072094",
+      "title": "136832363 - Flip covers for mobile phones",
+      "conceptLink": "/ec2/concept/6008277"
+    }
+  },
+  {
+    "uri": "en/9/136256407",
+    "id": "136256407",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flip covers for smart phones",
+    "harm": {
+      "id": "0056886",
+      "title": "136256407 - Flip covers for smart phones",
+      "conceptLink": "/ec2/concept/5998159"
+    }
+  },
+  {
+    "uri": "en/9/232483895",
+    "id": "232483895",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flip covers for smartphones",
+    "harm": {
+      "id": "0056886",
+      "title": "232483895 - Flip covers for smartphones",
+      "conceptLink": "/ec2/concept/5998159"
+    }
+  },
+  {
+    "uri": "en/9/136832380",
+    "id": "136832380",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flip covers for tablet computers",
+    "harm": {
+      "id": "0070800",
+      "title": "136832380 - Flip covers for tablet computers",
+      "conceptLink": "/ec2/concept/6006992"
+    }
+  },
+  {
+    "uri": "en/9/328795",
+    "id": "328795",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Floppy disc drives",
+    "harm": {
+      "id": "0029703",
+      "title": "328795 - Floppy disc drives",
+      "conceptLink": "/ec2/concept/5978655"
+    }
+  },
+  {
+    "uri": "en/9/156386",
+    "id": "156386",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Floppy discs",
+    "harm": {
+      "id": "0058284",
+      "title": "156386 - Floppy discs",
+      "conceptLink": "/ec2/concept/5999783"
+    }
+  },
+  {
+    "uri": "en/9/119529366",
+    "id": "119529366",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Floppy discs drives [for computers]",
+    "harm": {
+      "id": "0029703",
+      "title": "119529366 - Floppy discs drives [for computers]",
+      "conceptLink": "/ec2/concept/5978655"
+    }
+  },
+  {
+    "uri": "en/9/328796",
+    "id": "328796",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Floppy disk drives",
+    "harm": {
+      "id": "0029703",
+      "title": "328796 - Floppy disk drives",
+      "conceptLink": "/ec2/concept/5978655"
+    }
+  },
+  {
+    "uri": "en/9/156387",
+    "id": "156387",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Floppy disks",
+    "harm": {
+      "id": "0058284",
+      "title": "156387 - Floppy disks",
+      "conceptLink": "/ec2/concept/5999783"
+    }
+  },
+  {
+    "uri": "en/9/536862",
+    "id": "536862",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flotation clothing",
+    "harm": {
+      "id": "0000768",
+      "title": "536862 - Flotation clothing",
+      "conceptLink": "/ec2/concept/5952179"
+    }
+  },
+  {
+    "uri": "en/9/536875",
+    "id": "536875",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flow control installations [electric]",
+    "harm": {
+      "id": "0035502",
+      "title": "536875 - Flow control installations [electric]",
+      "conceptLink": "/ec2/concept/5983933"
+    }
+  },
+  {
+    "uri": "en/9/328851",
+    "id": "328851",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flow gauges",
+    "harm": {
+      "id": "0042022",
+      "title": "328851 - Flow gauges",
+      "conceptLink": "/ec2/concept/5989876"
+    }
+  },
+  {
+    "uri": "en/9/146243",
+    "id": "146243",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flow measuring apparatus",
+    "harm": {
+      "id": "0042022",
+      "title": "146243 - Flow measuring apparatus",
+      "conceptLink": "/ec2/concept/5989876"
+    }
+  },
+  {
+    "uri": "en/9/328852",
+    "id": "328852",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flow meters",
+    "harm": {
+      "id": "0042022",
+      "title": "328852 - Flow meters",
+      "conceptLink": "/ec2/concept/5989876"
+    }
+  },
+  {
+    "uri": "en/9/328850",
+    "id": "328850",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flowmeters",
+    "harm": {
+      "id": "0042022",
+      "title": "328850 - Flowmeters",
+      "conceptLink": "/ec2/concept/5989876"
+    }
+  },
+  {
+    "uri": "en/9/536891",
+    "id": "536891",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flue gas analyzers",
+    "harm": {
+      "id": "0005554",
+      "title": "536891 - Flue gas analyzers",
+      "conceptLink": "/ec2/concept/5956547"
+    }
+  },
+  {
+    "uri": "en/9/536905",
+    "id": "536905",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluid flow meters",
+    "harm": {
+      "id": "0042022",
+      "title": "536905 - Fluid flow meters",
+      "conceptLink": "/ec2/concept/5989876"
+    }
+  },
+  {
+    "uri": "en/9/536919",
+    "id": "536919",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluid level measuring apparatus for use in motor vehicles",
+    "harm": {
+      "id": "0017081",
+      "title": "536919 - Fluid level measuring apparatus for use in motor vehicles",
+      "conceptLink": "/ec2/concept/5967097"
+    }
+  },
+  {
+    "uri": "en/9/329907",
+    "id": "329907",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluid level sensors",
+    "harm": {
+      "id": "0016061",
+      "title": "329907 - Fluid level sensors",
+      "conceptLink": "/ec2/concept/5966178"
+    }
+  },
+  {
+    "uri": "en/9/232252970",
+    "id": "232252970",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluidised bed dryers",
+    "harm": {
+      "id": "0005555",
+      "title": "232252970 - Fluidised bed dryers",
+      "conceptLink": "/ec2/concept/5956548"
+    }
+  },
+  {
+    "uri": "en/9/536954",
+    "id": "536954",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluidized bed dryers",
+    "harm": {
+      "id": "0005555",
+      "title": "536954 - Fluidized bed dryers",
+      "conceptLink": "/ec2/concept/5956548"
+    }
+  },
+  {
+    "uri": "en/9/536967",
+    "id": "536967",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluorescence analyzers",
+    "harm": {
+      "id": "0028600",
+      "title": "536967 - Fluorescence analyzers",
+      "conceptLink": "/ec2/concept/5977639"
+    }
+  },
+  {
+    "uri": "en/9/5944247",
+    "id": "5944247",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluorescent lamp ballast for electric lights",
+    "harm": {
+      "id": "0055744",
+      "title": "5944247 - Fluorescent lamp ballast for electric lights",
+      "conceptLink": "/ec2/concept/5997131"
+    }
+  },
+  {
+    "uri": "en/9/120916668",
+    "id": "120916668",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluorescent lamp ballasts",
+    "harm": {
+      "id": "0066096",
+      "title": "120916668 - Fluorescent lamp ballasts",
+      "conceptLink": "/ec2/concept/6002299"
+    }
+  },
+  {
+    "uri": "en/9/146562",
+    "id": "146562",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluorescent screens",
+    "harm": {
+      "id": "0008195",
+      "title": "146562 - Fluorescent screens",
+      "conceptLink": "/ec2/concept/5958954"
+    }
+  },
+  {
+    "uri": "en/9/536979",
+    "id": "536979",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fluorometers",
+    "harm": {
+      "id": "0040156",
+      "title": "536979 - Fluorometers",
+      "conceptLink": "/ec2/concept/5988174"
+    }
+  },
+  {
+    "uri": "en/9/3874429",
+    "id": "3874429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Flyback transformers",
+    "harm": {
+      "id": "0065904",
+      "title": "3874429 - Flyback transformers",
+      "conceptLink": "/ec2/concept/6002107"
+    }
+  },
+  {
+    "uri": "en/9/29188248",
+    "id": "29188248",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "FM transmitters",
+    "harm": {
+      "id": "0065830",
+      "title": "29188248 - FM transmitters",
+      "conceptLink": "/ec2/concept/6002033"
+    }
+  },
+  {
+    "uri": "en/9/536994",
+    "id": "536994",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Focusing circuits",
+    "harm": {
+      "id": "0028601",
+      "title": "536994 - Focusing circuits",
+      "conceptLink": "/ec2/concept/5977640"
+    }
+  },
+  {
+    "uri": "en/9/156181",
+    "id": "156181",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fog signals, non-explosive",
+    "harm": {
+      "id": "0036831",
+      "title": "156181 - Fog signals, non-explosive",
+      "conceptLink": "/ec2/concept/5985141"
+    }
+  },
+  {
+    "uri": "en/9/537007",
+    "id": "537007",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Folding multimeters",
+    "harm": {
+      "id": "0005556",
+      "title": "537007 - Folding multimeters",
+      "conceptLink": "/ec2/concept/5956549"
+    }
+  },
+  {
+    "uri": "en/9/150977",
+    "id": "150977",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Folding rulers",
+    "harm": {
+      "id": "0008040",
+      "title": "150977 - Folding rulers",
+      "conceptLink": "/ec2/concept/5958816"
+    }
+  },
+  {
+    "uri": "en/9/139121",
+    "id": "139121",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Food analysis apparatus",
+    "harm": {
+      "id": "0037695",
+      "title": "139121 - Food analysis apparatus",
+      "conceptLink": "/ec2/concept/5985919"
+    }
+  },
+  {
+    "uri": "en/9/398452",
+    "id": "398452",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Food timers",
+    "harm": {
+      "id": "0066019",
+      "title": "398452 - Food timers",
+      "conceptLink": "/ec2/concept/6002222"
+    }
+  },
+  {
+    "uri": "en/9/1506226",
+    "id": "1506226",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Football helmets",
+    "harm": {
+      "id": "0055745",
+      "title": "1506226 - Football helmets",
+      "conceptLink": "/ec2/concept/5997132"
+    }
+  },
+  {
+    "uri": "en/9/13432069",
+    "id": "13432069",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against accidents, irradiation and fire",
+    "harm": {
+      "id": "0051204",
+      "title": "13432069 - Footwear for protection against accidents, irradiation and fire",
+      "conceptLink": "/ec2/concept/6010190"
+    }
+  },
+  {
+    "uri": "en/9/6034633",
+    "id": "6034633",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against accidents",
+    "harm": {
+      "id": "0070535",
+      "title": "6034633 - Footwear for protection against accidents",
+      "conceptLink": "/ec2/concept/6006727"
+    }
+  },
+  {
+    "uri": "en/9/137874617",
+    "id": "137874617",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against biological hazards",
+    "harm": {
+      "id": "0070536",
+      "title": "137874617 - Footwear for protection against biological hazards",
+      "conceptLink": "/ec2/concept/6006728"
+    }
+  },
+  {
+    "uri": "en/9/44752220",
+    "id": "44752220",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against fire",
+    "harm": {
+      "id": "0070538",
+      "title": "44752220 - Footwear for protection against fire",
+      "conceptLink": "/ec2/concept/6006730"
+    }
+  },
+  {
+    "uri": "en/9/137874681",
+    "id": "137874681",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against irradiation",
+    "harm": {
+      "id": "0070539",
+      "title": "137874681 - Footwear for protection against irradiation",
+      "conceptLink": "/ec2/concept/6006731"
+    }
+  },
+  {
+    "uri": "en/9/137874683",
+    "id": "137874683",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Footwear for protection against chemical spills",
+    "harm": {
+      "id": "0070537",
+      "title": "137874683 - Footwear for protection against chemical spills",
+      "conceptLink": "/ec2/concept/6006729"
+    }
+  },
+  {
+    "uri": "en/9/537020",
+    "id": "537020",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Force sensing resistors",
+    "harm": {
+      "id": "0011288",
+      "title": "537020 - Force sensing resistors",
+      "conceptLink": "/ec2/concept/5961787"
+    }
+  },
+  {
+    "uri": "en/9/537032",
+    "id": "537032",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Force transducers",
+    "harm": {
+      "id": "0045884",
+      "title": "537032 - Force transducers",
+      "conceptLink": "/ec2/concept/5993409"
+    }
+  },
+  {
+    "uri": "en/9/537047",
+    "id": "537047",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Fraction collectors",
+    "harm": {
+      "id": "0040157",
+      "title": "537047 - Fraction collectors",
+      "conceptLink": "/ec2/concept/5988175"
+    }
+  },
+  {
+    "uri": "en/9/151426",
+    "id": "151426",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for eyeglasses",
+    "harm": {
+      "id": "0058857",
+      "title": "151426 - Frames for eyeglasses",
+      "conceptLink": "/ec2/concept/6000348"
+    }
+  },
+  {
+    "uri": "en/9/151431",
+    "id": "151431",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for glasses",
+    "harm": {
+      "id": "0058857",
+      "title": "151431 - Frames for glasses",
+      "conceptLink": "/ec2/concept/6000348"
+    }
+  },
+  {
+    "uri": "en/9/141713",
+    "id": "141713",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for photographic slides",
+    "harm": {
+      "id": "0058199",
+      "title": "141713 - Frames for photographic slides",
+      "conceptLink": "/ec2/concept/5999700"
+    }
+  },
+  {
+    "uri": "en/9/141711",
+    "id": "141711",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for photographic transparencies",
+    "harm": {
+      "id": "0058198",
+      "title": "141711 - Frames for photographic transparencies",
+      "conceptLink": "/ec2/concept/5999699"
+    }
+  },
+  {
+    "uri": "en/9/136976831",
+    "id": "136976831",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for pince-nez",
+    "harm": {
+      "id": "0060517",
+      "title": "136976831 - Frames for pince-nez",
+      "conceptLink": "/ec2/concept/5998490"
+    }
+  },
+  {
+    "uri": "en/9/151423",
+    "id": "151423",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for spectacles",
+    "harm": {
+      "id": "0058857",
+      "title": "151423 - Frames for spectacles",
+      "conceptLink": "/ec2/concept/6000348"
+    }
+  },
+  {
+    "uri": "en/9/328894",
+    "id": "328894",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for spectacles and sunglasses",
+    "harm": {
+      "id": "0011004",
+      "title": "328894 - Frames for spectacles and sunglasses",
+      "conceptLink": "/ec2/concept/5961529"
+    }
+  },
+  {
+    "uri": "en/9/402218",
+    "id": "402218",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frames for sunglasses",
+    "harm": {
+      "id": "0007138",
+      "title": "402218 - Frames for sunglasses",
+      "conceptLink": "/ec2/concept/5957988"
+    }
+  },
+  {
+    "uri": "en/9/144162",
+    "id": "144162",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Franking (Apparatus to check -)",
+    "harm": {
+      "id": "0032884",
+      "title": "144162 - Franking (Apparatus to check -)",
+      "conceptLink": "/ec2/concept/5981545"
+    }
+  },
+  {
+    "uri": "en/9/120825887",
+    "id": "120825887",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Freeware",
+    "harm": {
+      "id": "0065972",
+      "title": "120825887 - Freeware",
+      "conceptLink": "/ec2/concept/6002175"
+    }
+  },
+  {
+    "uri": "en/9/328920",
+    "id": "328920",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frequency changers",
+    "harm": {
+      "id": "0020893",
+      "title": "328920 - Frequency changers",
+      "conceptLink": "/ec2/concept/5970582"
+    }
+  },
+  {
+    "uri": "en/9/118216816",
+    "id": "118216816",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frequency converter for actuators",
+    "harm": {
+      "id": "0060490",
+      "title": "118216816 - Frequency converter for actuators",
+      "conceptLink": "/ec2/concept/5998463"
+    }
+  },
+  {
+    "uri": "en/9/328918",
+    "id": "328918",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frequency converters",
+    "harm": {
+      "id": "0020893",
+      "title": "328918 - Frequency converters",
+      "conceptLink": "/ec2/concept/5970582"
+    }
+  },
+  {
+    "uri": "en/9/328919",
+    "id": "328919",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frequency convertors",
+    "harm": {
+      "id": "0020893",
+      "title": "328919 - Frequency convertors",
+      "conceptLink": "/ec2/concept/5970582"
+    }
+  },
+  {
+    "uri": "en/9/148268",
+    "id": "148268",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Frequency counters",
+    "harm": {
+      "id": "0014925",
+      "title": "148268 - Frequency counters",
+      "conceptLink": "/ec2/concept/5965121"
+    }
+  }
+]

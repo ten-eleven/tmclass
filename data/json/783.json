@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/44/18567226",
+    "id": "18567226",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing sauna facilities",
+    "harm": {
+      "id": "0007382",
+      "title": "18567226 - Providing sauna facilities",
+      "conceptLink": "/ec2/concept/5958215"
+    }
+  },
+  {
+    "uri": "en/44/119556163",
+    "id": "119556163",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing smoking cessation treatment services",
+    "harm": {
+      "id": "0056746",
+      "title": "119556163 - Providing smoking cessation treatment services",
+      "conceptLink": "/ec2/concept/5998028"
+    }
+  },
+  {
+    "uri": "en/44/66956",
+    "id": "66956",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing turkish bath facilities",
+    "harm": {
+      "id": "0006210",
+      "title": "66956 - Providing turkish bath facilities",
+      "conceptLink": "/ec2/concept/5957142"
+    }
+  },
+  {
+    "uri": "en/44/891907",
+    "id": "891907",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Providing weight loss program services",
+    "harm": {
+      "id": "0008153",
+      "title": "891907 - Providing weight loss program services",
+      "conceptLink": "/ec2/concept/5958917"
+    }
+  },
+  {
+    "uri": "en/44/878969",
+    "id": "878969",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of dietetic advice",
+    "harm": {
+      "id": "0058008",
+      "title": "878969 - Provision of dietetic advice",
+      "conceptLink": "/ec2/concept/5999512"
+    }
+  },
+  {
+    "uri": "en/44/879047",
+    "id": "879047",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of health care services in domestic homes",
+    "harm": {
+      "id": "0028507",
+      "title": "879047 - Provision of health care services in domestic homes",
+      "conceptLink": "/ec2/concept/5977555"
+    }
+  },
+  {
+    "uri": "en/44/67512",
+    "id": "67512",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of health care services",
+    "harm": {
+      "id": "0047385",
+      "title": "67512 - Provision of health care services",
+      "conceptLink": "/ec2/concept/5994716"
+    }
+  },
+  {
+    "uri": "en/44/879059",
+    "id": "879059",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to behavioural modification",
+    "harm": {
+      "id": "0034302",
+      "title": "879059 - Provision of information relating to behavioural modification",
+      "conceptLink": "/ec2/concept/5982847"
+    }
+  },
+  {
+    "uri": "en/44/879134",
+    "id": "879134",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to nutrition",
+    "harm": {
+      "id": "0034304",
+      "title": "879134 - Provision of information relating to nutrition",
+      "conceptLink": "/ec2/concept/5982848"
+    }
+  },
+  {
+    "uri": "en/44/879073",
+    "id": "879073",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to birds",
+    "harm": {
+      "id": "0028508",
+      "title": "879073 - Provision of information relating to birds",
+      "conceptLink": "/ec2/concept/5977556"
+    }
+  },
+  {
+    "uri": "en/44/879149",
+    "id": "879149",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to psychology",
+    "harm": {
+      "id": "0028509",
+      "title": "879149 - Provision of information relating to psychology",
+      "conceptLink": "/ec2/concept/5977557"
+    }
+  },
+  {
+    "uri": "en/44/879163",
+    "id": "879163",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to vaccination for overseas travel",
+    "harm": {
+      "id": "0022849",
+      "title": "879163 - Provision of information relating to vaccination for overseas travel",
+      "conceptLink": "/ec2/concept/5972369"
+    }
+  },
+  {
+    "uri": "en/44/879122",
+    "id": "879122",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of information relating to medicine",
+    "harm": {
+      "id": "0022848",
+      "title": "879122 - Provision of information relating to medicine",
+      "conceptLink": "/ec2/concept/5972368"
+    }
+  },
+  {
+    "uri": "en/44/879177",
+    "id": "879177",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical assistance",
+    "harm": {
+      "id": "0047372",
+      "title": "879177 - Provision of medical assistance",
+      "conceptLink": "/ec2/concept/5994706"
+    }
+  },
+  {
+    "uri": "en/44/879214",
+    "id": "879214",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical facilities at sporting events",
+    "harm": {
+      "id": "0001985",
+      "title": "879214 - Provision of medical facilities at sporting events",
+      "conceptLink": "/ec2/concept/5953275"
+    }
+  },
+  {
+    "uri": "en/44/879193",
+    "id": "879193",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical facilities",
+    "harm": {
+      "id": "0013554",
+      "title": "879193 - Provision of medical facilities",
+      "conceptLink": "/ec2/concept/5963857"
+    }
+  },
+  {
+    "uri": "en/44/879228",
+    "id": "879228",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical information relating to poisons",
+    "harm": {
+      "id": "0019401",
+      "title": "879228 - Provision of medical information relating to poisons",
+      "conceptLink": "/ec2/concept/5969219"
+    }
+  },
+  {
+    "uri": "en/44/486179",
+    "id": "486179",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical information",
+    "harm": {
+      "id": "0058401",
+      "title": "486179 - Provision of medical information",
+      "conceptLink": "/ec2/concept/5999900"
+    }
+  },
+  {
+    "uri": "en/44/878534",
+    "id": "878534",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical services",
+    "harm": {
+      "id": "0013555",
+      "title": "878534 - Provision of medical services",
+      "conceptLink": "/ec2/concept/5963858"
+    }
+  },
+  {
+    "uri": "en/44/878535",
+    "id": "878535",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of medical treatment",
+    "harm": {
+      "id": "0016989",
+      "title": "878535 - Provision of medical treatment",
+      "conceptLink": "/ec2/concept/5967016"
+    }
+  },
+  {
+    "uri": "en/44/68530",
+    "id": "68530",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of nursing care",
+    "harm": {
+      "id": "0059491",
+      "title": "68530 - Provision of nursing care",
+      "conceptLink": "/ec2/concept/6000967"
+    }
+  },
+  {
+    "uri": "en/44/879243",
+    "id": "879243",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of pharmaceutical information",
+    "harm": {
+      "id": "0019402",
+      "title": "879243 - Provision of pharmaceutical information",
+      "conceptLink": "/ec2/concept/5969220"
+    }
+  },
+  {
+    "uri": "en/44/876566",
+    "id": "876566",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of public bath facilities for personal hygiene",
+    "harm": {
+      "id": "0001986",
+      "title": "876566 - Provision of public bath facilities for personal hygiene",
+      "conceptLink": "/ec2/concept/5953276"
+    }
+  },
+  {
+    "uri": "en/44/879257",
+    "id": "879257",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of public conveniences",
+    "harm": {
+      "id": "0019403",
+      "title": "879257 - Provision of public conveniences",
+      "conceptLink": "/ec2/concept/5969221"
+    }
+  },
+  {
+    "uri": "en/44/879270",
+    "id": "879270",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of sauna facilities",
+    "harm": {
+      "id": "0007382",
+      "title": "879270 - Provision of sauna facilities",
+      "conceptLink": "/ec2/concept/5958215"
+    }
+  },
+  {
+    "uri": "en/44/879288",
+    "id": "879288",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of solarium [sun tanning] facilities",
+    "harm": {
+      "id": "0042025",
+      "title": "879288 - Provision of solarium [sun tanning] facilities",
+      "conceptLink": "/ec2/concept/5989879"
+    }
+  },
+  {
+    "uri": "en/44/879326",
+    "id": "879326",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of trial plots for crop testing by chemical application",
+    "harm": {
+      "id": "0001987",
+      "title": "879326 - Provision of trial plots for crop testing by chemical application",
+      "conceptLink": "/ec2/concept/5953277"
+    }
+  },
+  {
+    "uri": "en/44/879313",
+    "id": "879313",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of trial plots for crop testing",
+    "harm": {
+      "id": "0036703",
+      "title": "879313 - Provision of trial plots for crop testing",
+      "conceptLink": "/ec2/concept/5985027"
+    }
+  },
+  {
+    "uri": "en/44/879339",
+    "id": "879339",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Provision of washroom facilities",
+    "harm": {
+      "id": "0011017",
+      "title": "879339 - Provision of washroom facilities",
+      "conceptLink": "/ec2/concept/5961541"
+    }
+  },
+  {
+    "uri": "en/44/476808",
+    "id": "476808",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychiatric consultation",
+    "harm": {
+      "id": "0022782",
+      "title": "476808 - Psychiatric consultation",
+      "conceptLink": "/ec2/concept/5972309"
+    }
+  },
+  {
+    "uri": "en/44/476822",
+    "id": "476822",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychiatric services",
+    "harm": {
+      "id": "0034128",
+      "title": "476822 - Psychiatric services",
+      "conceptLink": "/ec2/concept/5982693"
+    }
+  },
+  {
+    "uri": "en/44/906478",
+    "id": "906478",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychiatric testing",
+    "harm": {
+      "id": "0029331",
+      "title": "906478 - Psychiatric testing",
+      "conceptLink": "/ec2/concept/5978311"
+    }
+  },
+  {
+    "uri": "en/44/476823",
+    "id": "476823",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychiatry",
+    "harm": {
+      "id": "0034128",
+      "title": "476823 - Psychiatry",
+      "conceptLink": "/ec2/concept/5982693"
+    }
+  },
+  {
+    "uri": "en/44/883692",
+    "id": "883692",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological assessment services",
+    "harm": {
+      "id": "0009850",
+      "title": "883692 - Psychological assessment services",
+      "conceptLink": "/ec2/concept/5960471"
+    }
+  },
+  {
+    "uri": "en/44/120888299",
+    "id": "120888299",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological assessment and examination services",
+    "harm": {
+      "id": "0069613",
+      "title": "120888299 - Psychological assessment and examination services",
+      "conceptLink": "/ec2/concept/6005816"
+    }
+  },
+  {
+    "uri": "en/44/120886296",
+    "id": "120886296",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological care",
+    "harm": {
+      "id": "0069567",
+      "title": "120886296 - Psychological care",
+      "conceptLink": "/ec2/concept/6005770"
+    }
+  },
+  {
+    "uri": "en/44/476851",
+    "id": "476851",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological consultation",
+    "harm": {
+      "id": "0035103",
+      "title": "476851 - Psychological consultation",
+      "conceptLink": "/ec2/concept/5983569"
+    }
+  },
+  {
+    "uri": "en/44/476850",
+    "id": "476850",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological counseling",
+    "harm": {
+      "id": "0035103",
+      "title": "476850 - Psychological counseling",
+      "conceptLink": "/ec2/concept/5983569"
+    }
+  },
+  {
+    "uri": "en/44/120888041",
+    "id": "120888041",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological counseling of staff",
+    "harm": {
+      "id": "0069644",
+      "title": "120888041 - Psychological counseling of staff",
+      "conceptLink": "/ec2/concept/6005847"
+    }
+  },
+  {
+    "uri": "en/44/119556179",
+    "id": "119556179",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological counseling services in the field of sports",
+    "harm": {
+      "id": "0069673",
+      "title": "119556179 - Psychological counseling services in the field of sports",
+      "conceptLink": "/ec2/concept/6005876"
+    }
+  },
+  {
+    "uri": "en/44/476849",
+    "id": "476849",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological counselling",
+    "harm": {
+      "id": "0035103",
+      "title": "476849 - Psychological counselling",
+      "conceptLink": "/ec2/concept/5983569"
+    }
+  },
+  {
+    "uri": "en/44/120886125",
+    "id": "120886125",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological diagnosis services",
+    "harm": {
+      "id": "0069545",
+      "title": "120886125 - Psychological diagnosis services",
+      "conceptLink": "/ec2/concept/6005748"
+    }
+  },
+  {
+    "uri": "en/44/879353",
+    "id": "879353",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological examination",
+    "harm": {
+      "id": "0005277",
+      "title": "879353 - Psychological examination",
+      "conceptLink": "/ec2/concept/5956284"
+    }
+  },
+  {
+    "uri": "en/44/125100046",
+    "id": "125100046",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological profiles for medical purposes (Preparation of -)",
+    "harm": {
+      "id": "0029961",
+      "title": "125100046 - Psychological profiles for medical purposes (Preparation of -)",
+      "conceptLink": "/ec2/concept/5978887"
+    }
+  },
+  {
+    "uri": "en/44/376176",
+    "id": "376176",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological testing",
+    "harm": {
+      "id": "0029332",
+      "title": "376176 - Psychological testing",
+      "conceptLink": "/ec2/concept/5978312"
+    }
+  },
+  {
+    "uri": "en/44/879366",
+    "id": "879366",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological testing for medical purposes",
+    "harm": {
+      "id": "0028341",
+      "title": "879366 - Psychological testing for medical purposes",
+      "conceptLink": "/ec2/concept/5977399"
+    }
+  },
+  {
+    "uri": "en/44/376177",
+    "id": "376177",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological testing services",
+    "harm": {
+      "id": "0029332",
+      "title": "376177 - Psychological testing services",
+      "conceptLink": "/ec2/concept/5978312"
+    }
+  },
+  {
+    "uri": "en/44/376175",
+    "id": "376175",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological tests",
+    "harm": {
+      "id": "0029332",
+      "title": "376175 - Psychological tests",
+      "conceptLink": "/ec2/concept/5978312"
+    }
+  },
+  {
+    "uri": "en/44/138349742",
+    "id": "138349742",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological therapy for infants",
+    "harm": {
+      "id": "0070121",
+      "title": "138349742 - Psychological therapy for infants",
+      "conceptLink": "/ec2/concept/6006323"
+    }
+  },
+  {
+    "uri": "en/44/120886202",
+    "id": "120886202",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychological treatment",
+    "harm": {
+      "id": "0069568",
+      "title": "120886202 - Psychological treatment",
+      "conceptLink": "/ec2/concept/6005771"
+    }
+  },
+  {
+    "uri": "en/44/68918",
+    "id": "68918",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychologist (Services of a -)",
+    "harm": {
+      "id": "0043769",
+      "title": "68918 - Psychologist (Services of a -)",
+      "conceptLink": "/ec2/concept/5991465"
+    }
+  },
+  {
+    "uri": "en/44/879380",
+    "id": "879380",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychometric testing for medical purposes",
+    "harm": {
+      "id": "0045624",
+      "title": "879380 - Psychometric testing for medical purposes",
+      "conceptLink": "/ec2/concept/5993168"
+    }
+  },
+  {
+    "uri": "en/44/120885835",
+    "id": "120885835",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychotherapists' services",
+    "harm": {
+      "id": "0069585",
+      "title": "120885835 - Psychotherapists' services",
+      "conceptLink": "/ec2/concept/6005788"
+    }
+  },
+  {
+    "uri": "en/44/879395",
+    "id": "879395",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychotherapy",
+    "harm": {
+      "id": "0038743",
+      "title": "879395 - Psychotherapy",
+      "conceptLink": "/ec2/concept/5986882"
+    }
+  },
+  {
+    "uri": "en/44/879396",
+    "id": "879396",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Psychotherapy services",
+    "harm": {
+      "id": "0038743",
+      "title": "879396 - Psychotherapy services",
+      "conceptLink": "/ec2/concept/5986882"
+    }
+  },
+  {
+    "uri": "en/44/66901",
+    "id": "66901",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Public bath facilities [for hygienic purposes]",
+    "harm": {
+      "id": "0031530",
+      "title": "66901 - Public bath facilities [for hygienic purposes]",
+      "conceptLink": "/ec2/concept/5980320"
+    }
+  },
+  {
+    "uri": "en/44/125097807",
+    "id": "125097807",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Public bath facilities (Provision of -) for personal hygiene",
+    "harm": {
+      "id": "0001986",
+      "title": "125097807 - Public bath facilities (Provision of -) for personal hygiene",
+      "conceptLink": "/ec2/concept/5953276"
+    }
+  },
+  {
+    "uri": "en/44/137776913",
+    "id": "137776913",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Public bath services for hygiene purposes",
+    "harm": {
+      "id": "0031530",
+      "title": "137776913 - Public bath services for hygiene purposes",
+      "conceptLink": "/ec2/concept/5980320"
+    }
+  },
+  {
+    "uri": "en/44/66900",
+    "id": "66900",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Public baths for hygiene purposes",
+    "harm": {
+      "id": "0031530",
+      "title": "66900 - Public baths for hygiene purposes",
+      "conceptLink": "/ec2/concept/5980320"
+    }
+  },
+  {
+    "uri": "en/44/120885344",
+    "id": "120885344",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Public health counseling",
+    "harm": {
+      "id": "0069541",
+      "title": "120885344 - Public health counseling",
+      "conceptLink": "/ec2/concept/6005744"
+    }
+  },
+  {
+    "uri": "en/44/879420",
+    "id": "879420",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rat extermination in agriculture",
+    "harm": {
+      "id": "0039868",
+      "title": "879420 - Rat extermination in agriculture",
+      "conceptLink": "/ec2/concept/5987909"
+    }
+  },
+  {
+    "uri": "en/44/879432",
+    "id": "879432",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Reflexology",
+    "harm": {
+      "id": "0034129",
+      "title": "879432 - Reflexology",
+      "conceptLink": "/ec2/concept/5982694"
+    }
+  },
+  {
+    "uri": "en/44/883725",
+    "id": "883725",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Reflexology services",
+    "harm": {
+      "id": "0038744",
+      "title": "883725 - Reflexology services",
+      "conceptLink": "/ec2/concept/5986883"
+    }
+  },
+  {
+    "uri": "en/44/48204624",
+    "id": "48204624",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Reforestation services",
+    "harm": {
+      "id": "0070087",
+      "title": "48204624 - Reforestation services",
+      "conceptLink": "/ec2/concept/6006289"
+    }
+  },
+  {
+    "uri": "en/44/69038",
+    "id": "69038",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation for substance abuse patients",
+    "harm": {
+      "id": "0057543",
+      "title": "69038 - Rehabilitation for substance abuse patients",
+      "conceptLink": "/ec2/concept/5999048"
+    }
+  },
+  {
+    "uri": "en/44/124349681",
+    "id": "124349681",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation (Narcotic -)",
+    "harm": {
+      "id": "0057545",
+      "title": "124349681 - Rehabilitation (Narcotic -)",
+      "conceptLink": "/ec2/concept/5999050"
+    }
+  },
+  {
+    "uri": "en/44/476881",
+    "id": "476881",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation of alcohol addicted patients",
+    "harm": {
+      "id": "0022783",
+      "title": "476881 - Rehabilitation of alcohol addicted patients",
+      "conceptLink": "/ec2/concept/5972310"
+    }
+  },
+  {
+    "uri": "en/44/906662",
+    "id": "906662",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation of drug addicted patients",
+    "harm": {
+      "id": "0057544",
+      "title": "906662 - Rehabilitation of drug addicted patients",
+      "conceptLink": "/ec2/concept/5999049"
+    }
+  },
+  {
+    "uri": "en/44/476894",
+    "id": "476894",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation of narcotic addicted patients",
+    "harm": {
+      "id": "0057545",
+      "title": "476894 - Rehabilitation of narcotic addicted patients",
+      "conceptLink": "/ec2/concept/5999050"
+    }
+  },
+  {
+    "uri": "en/44/119696204",
+    "id": "119696204",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation of substance abuse patients",
+    "harm": {
+      "id": "0057543",
+      "title": "119696204 - Rehabilitation of substance abuse patients",
+      "conceptLink": "/ec2/concept/5999048"
+    }
+  },
+  {
+    "uri": "en/44/119696205",
+    "id": "119696205",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rehabilitation services for substance abuse patients",
+    "harm": {
+      "id": "0057543",
+      "title": "119696205 - Rehabilitation services for substance abuse patients",
+      "conceptLink": "/ec2/concept/5999048"
+    }
+  },
+  {
+    "uri": "en/44/879446",
+    "id": "879446",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Reiki services",
+    "harm": {
+      "id": "0009202",
+      "title": "879446 - Reiki services",
+      "conceptLink": "/ec2/concept/5959881"
+    }
+  },
+  {
+    "uri": "en/44/879460",
+    "id": "879460",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Removal of body cellulite",
+    "harm": {
+      "id": "0020897",
+      "title": "879460 - Removal of body cellulite",
+      "conceptLink": "/ec2/concept/5970586"
+    }
+  },
+  {
+    "uri": "en/44/67648",
+    "id": "67648",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of agricultural equipment",
+    "harm": {
+      "id": "0011905",
+      "title": "67648 - Rental of agricultural equipment",
+      "conceptLink": "/ec2/concept/5962356"
+    }
+  },
+  {
+    "uri": "en/44/41401873",
+    "id": "41401873",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of agricultural implements",
+    "harm": {
+      "id": "0011905",
+      "title": "41401873 - Rental of agricultural implements",
+      "conceptLink": "/ec2/concept/5962356"
+    }
+  },
+  {
+    "uri": "en/44/67646",
+    "id": "67646",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of agricultural machinery",
+    "harm": {
+      "id": "0011905",
+      "title": "67646 - Rental of agricultural machinery",
+      "conceptLink": "/ec2/concept/5962356"
+    }
+  },
+  {
+    "uri": "en/44/879474",
+    "id": "879474",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of agricultural spraying machinery",
+    "harm": {
+      "id": "0003463",
+      "title": "879474 - Rental of agricultural spraying machinery",
+      "conceptLink": "/ec2/concept/5954619"
+    }
+  },
+  {
+    "uri": "en/44/100977896",
+    "id": "100977896",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of apparatus and installations in the field of medical technology",
+    "harm": {
+      "id": "0069631",
+      "title": "100977896 - Rental of apparatus and installations in the field of medical technology",
+      "conceptLink": "/ec2/concept/6005834"
+    }
+  },
+  {
+    "uri": "en/44/879497",
+    "id": "879497",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of equipment for medical purposes",
+    "harm": {
+      "id": "0015053",
+      "title": "879497 - Rental of equipment for medical purposes",
+      "conceptLink": "/ec2/concept/5965236"
+    }
+  },
+  {
+    "uri": "en/44/67643",
+    "id": "67643",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of farming equipment",
+    "harm": {
+      "id": "0011905",
+      "title": "67643 - Rental of farming equipment",
+      "conceptLink": "/ec2/concept/5962356"
+    }
+  },
+  {
+    "uri": "en/44/877334",
+    "id": "877334",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of flower arrangements",
+    "harm": {
+      "id": "0011908",
+      "title": "877334 - Rental of flower arrangements",
+      "conceptLink": "/ec2/concept/5962359"
+    }
+  },
+  {
+    "uri": "en/44/136188655",
+    "id": "136188655",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of gardening implements",
+    "harm": {
+      "id": "0071581",
+      "title": "136188655 - Rental of gardening implements",
+      "conceptLink": "/ec2/concept/6007772"
+    }
+  },
+  {
+    "uri": "en/44/879511",
+    "id": "879511",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of hospital equipment",
+    "harm": {
+      "id": "0003464",
+      "title": "879511 - Rental of hospital equipment",
+      "conceptLink": "/ec2/concept/5954620"
+    }
+  },
+  {
+    "uri": "en/44/376204",
+    "id": "376204",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of lawnmowers",
+    "harm": {
+      "id": "0003497",
+      "title": "376204 - Rental of lawnmowers",
+      "conceptLink": "/ec2/concept/5954648"
+    }
+  },
+  {
+    "uri": "en/44/376219",
+    "id": "376219",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of machines and apparatus for use in beauty salons or barbers' shops",
+    "harm": {
+      "id": "0003195",
+      "title": "376219 - Rental of machines and apparatus for use in beauty salons or barbers' shops",
+      "conceptLink": "/ec2/concept/5954375"
+    }
+  },
+  {
+    "uri": "en/44/68959222",
+    "id": "68959222",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of medical and health care equipment",
+    "harm": {
+      "id": "0069570",
+      "title": "68959222 - Rental of medical and health care equipment",
+      "conceptLink": "/ec2/concept/6005773"
+    }
+  },
+  {
+    "uri": "en/44/10135898",
+    "id": "10135898",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of medical apparatus",
+    "harm": {
+      "id": "0007161",
+      "title": "10135898 - Rental of medical apparatus",
+      "conceptLink": "/ec2/concept/5958007"
+    }
+  },
+  {
+    "uri": "en/44/476445",
+    "id": "476445",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of medical equipment",
+    "harm": {
+      "id": "0007161",
+      "title": "476445 - Rental of medical equipment",
+      "conceptLink": "/ec2/concept/5958007"
+    }
+  },
+  {
+    "uri": "en/44/376236",
+    "id": "376236",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of medical machines and apparatus",
+    "harm": {
+      "id": "0007161",
+      "title": "376236 - Rental of medical machines and apparatus",
+      "conceptLink": "/ec2/concept/5958007"
+    }
+  },
+  {
+    "uri": "en/44/376255",
+    "id": "376255",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of medical x-ray apparatus",
+    "harm": {
+      "id": "0008949",
+      "title": "376255 - Rental of medical x-ray apparatus",
+      "conceptLink": "/ec2/concept/5959644"
+    }
+  },
+  {
+    "uri": "en/44/879525",
+    "id": "879525",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of mobile sanitary facilities",
+    "harm": {
+      "id": "0015054",
+      "title": "879525 - Rental of mobile sanitary facilities",
+      "conceptLink": "/ec2/concept/5965237"
+    }
+  },
+  {
+    "uri": "en/44/877877",
+    "id": "877877",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of plants",
+    "harm": {
+      "id": "0001117",
+      "title": "877877 - Rental of plants",
+      "conceptLink": "/ec2/concept/5952491"
+    }
+  },
+  {
+    "uri": "en/44/136675859",
+    "id": "136675859",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of portable restrooms",
+    "harm": {
+      "id": "0012758",
+      "title": "136675859 - Rental of portable restrooms",
+      "conceptLink": "/ec2/concept/5963138"
+    }
+  },
+  {
+    "uri": "en/44/476908",
+    "id": "476908",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of portable toilets",
+    "harm": {
+      "id": "0012758",
+      "title": "476908 - Rental of portable toilets",
+      "conceptLink": "/ec2/concept/5963138"
+    }
+  },
+  {
+    "uri": "en/44/376267",
+    "id": "376267",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of potted plants",
+    "harm": {
+      "id": "0043622",
+      "title": "376267 - Rental of potted plants",
+      "conceptLink": "/ec2/concept/5991335"
+    }
+  },
+  {
+    "uri": "en/44/68952",
+    "id": "68952",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of sanitation facilities",
+    "harm": {
+      "id": "0014934",
+      "title": "68952 - Rental of sanitation facilities",
+      "conceptLink": "/ec2/concept/5965130"
+    }
+  },
+  {
+    "uri": "en/44/124711224",
+    "id": "124711224",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of toilets (Portable -)",
+    "harm": {
+      "id": "0012758",
+      "title": "124711224 - Rental of toilets (Portable -)",
+      "conceptLink": "/ec2/concept/5963138"
+    }
+  },
+  {
+    "uri": "en/44/376282",
+    "id": "376282",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Rental of ultrasonic diagnostic apparatus",
+    "harm": {
+      "id": "0043623",
+      "title": "376282 - Rental of ultrasonic diagnostic apparatus",
+      "conceptLink": "/ec2/concept/5991336"
+    }
+  },
+  {
+    "uri": "en/44/879555",
+    "id": "879555",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Residential medical advice services",
+    "harm": {
+      "id": "0032308",
+      "title": "879555 - Residential medical advice services",
+      "conceptLink": "/ec2/concept/5981022"
+    }
+  },
+  {
+    "uri": "en/44/879570",
+    "id": "879570",
+    "lang": "en",
+    "classNumber": "44",
+    "term": "Residential medical treatment services",
+    "harm": {
+      "id": "0009203",
+      "title": "879570 - Residential medical treatment services",
+      "conceptLink": "/ec2/concept/5959882"
+    }
+  }
+]

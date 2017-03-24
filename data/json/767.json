@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/42/873260",
+    "id": "873260",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Soil analysing services",
+    "harm": {
+      "id": "0024237",
+      "title": "873260 - Soil analysing services",
+      "conceptLink": "/ec2/concept/5973646"
+    }
+  },
+  {
+    "uri": "en/42/873272",
+    "id": "873272",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Soil testing services",
+    "harm": {
+      "id": "0012649",
+      "title": "873272 - Soil testing services",
+      "conceptLink": "/ec2/concept/5963038"
+    }
+  },
+  {
+    "uri": "en/42/873285",
+    "id": "873285",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Solvent testing services",
+    "harm": {
+      "id": "0001068",
+      "title": "873285 - Solvent testing services",
+      "conceptLink": "/ec2/concept/5952446"
+    }
+  },
+  {
+    "uri": "en/42/873297",
+    "id": "873297",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Space planning [design] of interiors",
+    "harm": {
+      "id": "0024238",
+      "title": "873297 - Space planning [design] of interiors",
+      "conceptLink": "/ec2/concept/5973647"
+    }
+  },
+  {
+    "uri": "en/42/120876932",
+    "id": "120876932",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Stem cell research",
+    "harm": {
+      "id": "0069136",
+      "title": "120876932 - Stem cell research",
+      "conceptLink": "/ec2/concept/6005339"
+    }
+  },
+  {
+    "uri": "en/42/375347",
+    "id": "375347",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Structural and functional anaylisis of genomes",
+    "harm": {
+      "id": "0025904",
+      "title": "375347 - Structural and functional anaylisis of genomes",
+      "conceptLink": "/ec2/concept/5975173"
+    }
+  },
+  {
+    "uri": "en/42/375348",
+    "id": "375348",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Structural and functional analysis of genomes",
+    "harm": {
+      "id": "0025904",
+      "title": "375348 - Structural and functional analysis of genomes",
+      "conceptLink": "/ec2/concept/5975173"
+    }
+  },
+  {
+    "uri": "en/42/873309",
+    "id": "873309",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Structural engineering services",
+    "harm": {
+      "id": "0024239",
+      "title": "873309 - Structural engineering services",
+      "conceptLink": "/ec2/concept/5973648"
+    }
+  },
+  {
+    "uri": "en/42/62319",
+    "id": "62319",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Studies (Technical project -)",
+    "harm": {
+      "id": "0029964",
+      "title": "62319 - Studies (Technical project -)",
+      "conceptLink": "/ec2/concept/5978890"
+    }
+  },
+  {
+    "uri": "en/42/63834",
+    "id": "63834",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Styling",
+    "harm": {
+      "id": "0024240",
+      "title": "63834 - Styling",
+      "conceptLink": "/ec2/concept/5973649"
+    }
+  },
+  {
+    "uri": "en/42/64372",
+    "id": "64372",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Styling [industrial design]",
+    "harm": {
+      "id": "0024240",
+      "title": "64372 - Styling [industrial design]",
+      "conceptLink": "/ec2/concept/5973649"
+    }
+  },
+  {
+    "uri": "en/42/487337",
+    "id": "487337",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Support and maintenance services for computer software",
+    "harm": {
+      "id": "0044165",
+      "title": "487337 - Support and maintenance services for computer software",
+      "conceptLink": "/ec2/concept/5991835"
+    }
+  },
+  {
+    "uri": "en/42/125094696",
+    "id": "125094696",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Survey services (Demographic -)",
+    "harm": {
+      "id": "0029965",
+      "title": "125094696 - Survey services (Demographic -)",
+      "conceptLink": "/ec2/concept/5978891"
+    }
+  },
+  {
+    "uri": "en/42/62839",
+    "id": "62839",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying",
+    "harm": {
+      "id": "0020824",
+      "title": "62839 - Surveying",
+      "conceptLink": "/ec2/concept/5970520"
+    }
+  },
+  {
+    "uri": "en/42/120919193",
+    "id": "120919193",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying and exploration",
+    "harm": {
+      "id": "0048041",
+      "title": "120919193 - Surveying and exploration",
+      "conceptLink": "/ec2/concept/5995300"
+    }
+  },
+  {
+    "uri": "en/42/160806306",
+    "id": "160806306",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying and exploration services",
+    "harm": {
+      "id": "0073907",
+      "title": "160806306 - Surveying and exploration services",
+      "conceptLink": "/ec2/concept/6010859"
+    }
+  },
+  {
+    "uri": "en/42/873336",
+    "id": "873336",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying boreholes",
+    "harm": {
+      "id": "0035767",
+      "title": "873336 - Surveying boreholes",
+      "conceptLink": "/ec2/concept/5984175"
+    }
+  },
+  {
+    "uri": "en/42/873350",
+    "id": "873350",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying of defective structures",
+    "harm": {
+      "id": "0006821",
+      "title": "873350 - Surveying of defective structures",
+      "conceptLink": "/ec2/concept/5957696"
+    }
+  },
+  {
+    "uri": "en/42/62836",
+    "id": "62836",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying of land",
+    "harm": {
+      "id": "0018458",
+      "title": "62836 - Surveying of land",
+      "conceptLink": "/ec2/concept/5968355"
+    }
+  },
+  {
+    "uri": "en/42/474701",
+    "id": "474701",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying of oil-bearing seams",
+    "harm": {
+      "id": "0026419",
+      "title": "474701 - Surveying of oil-bearing seams",
+      "conceptLink": "/ec2/concept/5975647"
+    }
+  },
+  {
+    "uri": "en/42/474685",
+    "id": "474685",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying of oil beds and fields",
+    "harm": {
+      "id": "0026418",
+      "title": "474685 - Surveying of oil beds and fields",
+      "conceptLink": "/ec2/concept/5975646"
+    }
+  },
+  {
+    "uri": "en/42/873362",
+    "id": "873362",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying of real estate",
+    "harm": {
+      "id": "0029966",
+      "title": "873362 - Surveying of real estate",
+      "conceptLink": "/ec2/concept/5978892"
+    }
+  },
+  {
+    "uri": "en/42/125093473",
+    "id": "125093473",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying (Quantity -)",
+    "harm": {
+      "id": "0024241",
+      "title": "125093473 - Surveying (Quantity -)",
+      "conceptLink": "/ec2/concept/5973650"
+    }
+  },
+  {
+    "uri": "en/42/64764",
+    "id": "64764",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveying services",
+    "harm": {
+      "id": "0020824",
+      "title": "64764 - Surveying services",
+      "conceptLink": "/ec2/concept/5970520"
+    }
+  },
+  {
+    "uri": "en/42/125094749",
+    "id": "125094749",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveys (Conducting -)",
+    "harm": {
+      "id": "0024242",
+      "title": "125094749 - Surveys (Conducting -)",
+      "conceptLink": "/ec2/concept/5973651"
+    }
+  },
+  {
+    "uri": "en/42/62422",
+    "id": "62422",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveys (Geological -)",
+    "harm": {
+      "id": "0058854",
+      "title": "62422 - Surveys (Geological -)",
+      "conceptLink": "/ec2/concept/6000345"
+    }
+  },
+  {
+    "uri": "en/42/62837",
+    "id": "62837",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveys (Land -)",
+    "harm": {
+      "id": "0018458",
+      "title": "62837 - Surveys (Land -)",
+      "conceptLink": "/ec2/concept/5968355"
+    }
+  },
+  {
+    "uri": "en/42/62533",
+    "id": "62533",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Surveys (Oil-field -)",
+    "harm": {
+      "id": "0002297",
+      "title": "62533 - Surveys (Oil-field -)",
+      "conceptLink": "/ec2/concept/5953554"
+    }
+  },
+  {
+    "uri": "en/42/124346489",
+    "id": "124346489",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Systems analysis (Computer -)",
+    "harm": {
+      "id": "0040470",
+      "title": "124346489 - Systems analysis (Computer -)",
+      "conceptLink": "/ec2/concept/5988461"
+    }
+  },
+  {
+    "uri": "en/42/120877776",
+    "id": "120877776",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice in connection with energy-saving measures",
+    "harm": {
+      "id": "0069288",
+      "title": "120877776 - Technical advice in connection with energy-saving measures",
+      "conceptLink": "/ec2/concept/6005491"
+    }
+  },
+  {
+    "uri": "en/42/873392",
+    "id": "873392",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to fire prevention",
+    "harm": {
+      "id": "0002738",
+      "title": "873392 - Technical advice relating to fire prevention",
+      "conceptLink": "/ec2/concept/5953952"
+    }
+  },
+  {
+    "uri": "en/42/873433",
+    "id": "873433",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to the manufacture of tyres",
+    "harm": {
+      "id": "0008438",
+      "title": "873433 - Technical advice relating to the manufacture of tyres",
+      "conceptLink": "/ec2/concept/5959176"
+    }
+  },
+  {
+    "uri": "en/42/873406",
+    "id": "873406",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to pollution damage",
+    "harm": {
+      "id": "0014298",
+      "title": "873406 - Technical advice relating to pollution damage",
+      "conceptLink": "/ec2/concept/5964549"
+    }
+  },
+  {
+    "uri": "en/42/907505",
+    "id": "907505",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to operation of computers",
+    "harm": {
+      "id": "0017380",
+      "title": "907505 - Technical advice relating to operation of computers",
+      "conceptLink": "/ec2/concept/5967367"
+    }
+  },
+  {
+    "uri": "en/42/231788765",
+    "id": "231788765",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to winemaking",
+    "harm": {
+      "id": "0070509",
+      "title": "231788765 - Technical advice relating to winemaking",
+      "conceptLink": "/ec2/concept/6006701"
+    }
+  },
+  {
+    "uri": "en/42/873420",
+    "id": "873420",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to safety",
+    "harm": {
+      "id": "0043182",
+      "title": "873420 - Technical advice relating to safety",
+      "conceptLink": "/ec2/concept/5990928"
+    }
+  },
+  {
+    "uri": "en/42/120876183",
+    "id": "120876183",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advice relating to computers",
+    "harm": {
+      "id": "0069446",
+      "title": "120876183 - Technical advice relating to computers",
+      "conceptLink": "/ec2/concept/6005649"
+    }
+  },
+  {
+    "uri": "en/42/873457",
+    "id": "873457",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical advisory services relating to data processing",
+    "harm": {
+      "id": "0020144",
+      "title": "873457 - Technical advisory services relating to data processing",
+      "conceptLink": "/ec2/concept/5969893"
+    }
+  },
+  {
+    "uri": "en/42/873472",
+    "id": "873472",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical assessments relating to design",
+    "harm": {
+      "id": "0037429",
+      "title": "873472 - Technical assessments relating to design",
+      "conceptLink": "/ec2/concept/5985684"
+    }
+  },
+  {
+    "uri": "en/42/907508",
+    "id": "907508",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in relation to the technical research in the field of food and beverages",
+    "harm": {
+      "id": "0017381",
+      "title": "907508 - Technical consultancy in relation to the technical research in the field of food and beverages",
+      "conceptLink": "/ec2/concept/5967368"
+    }
+  },
+  {
+    "uri": "en/42/907506",
+    "id": "907506",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in relation to research services relating to foods and dietary supplements",
+    "harm": {
+      "id": "0028923",
+      "title": "907506 - Technical consultancy in relation to research services relating to foods and dietary supplements",
+      "conceptLink": "/ec2/concept/5977943"
+    }
+  },
+  {
+    "uri": "en/42/375362",
+    "id": "375362",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in relation to the production of semiconductors",
+    "harm": {
+      "id": "0032026",
+      "title": "375362 - Technical consultancy in relation to the production of semiconductors",
+      "conceptLink": "/ec2/concept/5980764"
+    }
+  },
+  {
+    "uri": "en/42/233392285",
+    "id": "233392285",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in the design of machinery for electronic circuitry manufacture",
+    "harm": {
+      "id": "0073429",
+      "title": "233392285 - Technical consultancy in the design of machinery for electronic circuitry manufacture",
+      "conceptLink": "/ec2/concept/6009602"
+    }
+  },
+  {
+    "uri": "en/42/137889890",
+    "id": "137889890",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in the field of light engineering",
+    "harm": {
+      "id": "0051542",
+      "title": "137889890 - Technical consultancy in the field of light engineering",
+      "conceptLink": "/ec2/concept/6010528"
+    }
+  },
+  {
+    "uri": "en/42/907509",
+    "id": "907509",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy in the field of environmental science",
+    "harm": {
+      "id": "0040507",
+      "title": "907509 - Technical consultancy in the field of environmental science",
+      "conceptLink": "/ec2/concept/5988492"
+    }
+  },
+  {
+    "uri": "en/42/375376",
+    "id": "375376",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy regarding the field of road cutting technology",
+    "harm": {
+      "id": "0014745",
+      "title": "375376 - Technical consultancy regarding the field of road cutting technology",
+      "conceptLink": "/ec2/concept/5964955"
+    }
+  },
+  {
+    "uri": "en/42/233392287",
+    "id": "233392287",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy relating to the use of materials for the preparation of electronic circuitry",
+    "harm": {
+      "id": "0073430",
+      "title": "233392287 - Technical consultancy relating to the use of materials for the preparation of electronic circuitry",
+      "conceptLink": "/ec2/concept/6009603"
+    }
+  },
+  {
+    "uri": "en/42/137891529",
+    "id": "137891529",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy relating to the use of computer hardware",
+    "harm": {
+      "id": "0051497",
+      "title": "137891529 - Technical consultancy relating to the use of computer hardware",
+      "conceptLink": "/ec2/concept/6010483"
+    }
+  },
+  {
+    "uri": "en/42/120876914",
+    "id": "120876914",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy relating to product development",
+    "harm": {
+      "id": "0069135",
+      "title": "120876914 - Technical consultancy relating to product development",
+      "conceptLink": "/ec2/concept/6005338"
+    }
+  },
+  {
+    "uri": "en/42/120878327",
+    "id": "120878327",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy relating to the installation and maintenance of computer software",
+    "harm": {
+      "id": "0069333",
+      "title": "120878327 - Technical consultancy relating to the installation and maintenance of computer software",
+      "conceptLink": "/ec2/concept/6005536"
+    }
+  },
+  {
+    "uri": "en/42/120878323",
+    "id": "120878323",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy relating to the application and use of computer software",
+    "harm": {
+      "id": "0069334",
+      "title": "120878323 - Technical consultancy relating to the application and use of computer software",
+      "conceptLink": "/ec2/concept/6005537"
+    }
+  },
+  {
+    "uri": "en/42/873502",
+    "id": "873502",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to electrocardiograms",
+    "harm": {
+      "id": "0002739",
+      "title": "873502 - Technical consultancy services relating to electrocardiograms",
+      "conceptLink": "/ec2/concept/5953953"
+    }
+  },
+  {
+    "uri": "en/42/873546",
+    "id": "873546",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to structural engineering",
+    "harm": {
+      "id": "0027004",
+      "title": "873546 - Technical consultancy services relating to structural engineering",
+      "conceptLink": "/ec2/concept/5976170"
+    }
+  },
+  {
+    "uri": "en/42/873531",
+    "id": "873531",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to marine engineering",
+    "harm": {
+      "id": "0020146",
+      "title": "873531 - Technical consultancy services relating to marine engineering",
+      "conceptLink": "/ec2/concept/5969895"
+    }
+  },
+  {
+    "uri": "en/42/873514",
+    "id": "873514",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to information technology",
+    "harm": {
+      "id": "0020145",
+      "title": "873514 - Technical consultancy services relating to information technology",
+      "conceptLink": "/ec2/concept/5969894"
+    }
+  },
+  {
+    "uri": "en/42/873487",
+    "id": "873487",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to civil engineering",
+    "harm": {
+      "id": "0031588",
+      "title": "873487 - Technical consultancy services relating to civil engineering",
+      "conceptLink": "/ec2/concept/5980367"
+    }
+  },
+  {
+    "uri": "en/42/868261",
+    "id": "868261",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultancy services relating to computer programming",
+    "harm": {
+      "id": "0047057",
+      "title": "868261 - Technical consultancy services relating to computer programming",
+      "conceptLink": "/ec2/concept/5994434"
+    }
+  },
+  {
+    "uri": "en/42/474727",
+    "id": "474727",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consultation in the field of aerospace engineering",
+    "harm": {
+      "id": "0027385",
+      "title": "474727 - Technical consultation in the field of aerospace engineering",
+      "conceptLink": "/ec2/concept/5976512"
+    }
+  },
+  {
+    "uri": "en/42/907511",
+    "id": "907511",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consulting in the field of environmental engineering",
+    "harm": {
+      "id": "0017382",
+      "title": "907511 - Technical consulting in the field of environmental engineering",
+      "conceptLink": "/ec2/concept/5967369"
+    }
+  },
+  {
+    "uri": "en/42/907512",
+    "id": "907512",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical consulting in the field of pollution detection",
+    "harm": {
+      "id": "0023230",
+      "title": "907512 - Technical consulting in the field of pollution detection",
+      "conceptLink": "/ec2/concept/5972709"
+    }
+  },
+  {
+    "uri": "en/42/873562",
+    "id": "873562",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical data analysis services",
+    "harm": {
+      "id": "0032750",
+      "title": "873562 - Technical data analysis services",
+      "conceptLink": "/ec2/concept/5981425"
+    }
+  },
+  {
+    "uri": "en/42/17174048",
+    "id": "17174048",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design",
+    "harm": {
+      "id": "0071378",
+      "title": "17174048 - Technical design",
+      "conceptLink": "/ec2/concept/6007569"
+    }
+  },
+  {
+    "uri": "en/42/120877045",
+    "id": "120877045",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of water purification plants",
+    "harm": {
+      "id": "0069124",
+      "title": "120877045 - Technical design and planning of water purification plants",
+      "conceptLink": "/ec2/concept/6005327"
+    }
+  },
+  {
+    "uri": "en/42/120877049",
+    "id": "120877049",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of power stations",
+    "harm": {
+      "id": "0069125",
+      "title": "120877049 - Technical design and planning of power stations",
+      "conceptLink": "/ec2/concept/6005328"
+    }
+  },
+  {
+    "uri": "en/42/120877052",
+    "id": "120877052",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of sewerage systems",
+    "harm": {
+      "id": "0069126",
+      "title": "120877052 - Technical design and planning of sewerage systems",
+      "conceptLink": "/ec2/concept/6005329"
+    }
+  },
+  {
+    "uri": "en/42/120877055",
+    "id": "120877055",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of heating installations",
+    "harm": {
+      "id": "0069127",
+      "title": "120877055 - Technical design and planning of heating installations",
+      "conceptLink": "/ec2/concept/6005330"
+    }
+  },
+  {
+    "uri": "en/42/120876891",
+    "id": "120876891",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of pipelines for gas, water and waste water",
+    "harm": {
+      "id": "0069129",
+      "title": "120876891 - Technical design and planning of pipelines for gas, water and waste water",
+      "conceptLink": "/ec2/concept/6005332"
+    }
+  },
+  {
+    "uri": "en/42/120877058",
+    "id": "120877058",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of telecommunications networks",
+    "harm": {
+      "id": "0069128",
+      "title": "120877058 - Technical design and planning of telecommunications networks",
+      "conceptLink": "/ec2/concept/6005331"
+    }
+  },
+  {
+    "uri": "en/42/1342951",
+    "id": "1342951",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design and planning of telecommunications equipment",
+    "harm": {
+      "id": "0069132",
+      "title": "1342951 - Technical design and planning of telecommunications equipment",
+      "conceptLink": "/ec2/concept/6005335"
+    }
+  },
+  {
+    "uri": "en/42/120875185",
+    "id": "120875185",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design services relating to water supply installations",
+    "harm": {
+      "id": "0069391",
+      "title": "120875185 - Technical design services relating to water supply installations",
+      "conceptLink": "/ec2/concept/6005594"
+    }
+  },
+  {
+    "uri": "en/42/120875177",
+    "id": "120875177",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design services relating to cooling appliances and installations",
+    "harm": {
+      "id": "0069389",
+      "title": "120875177 - Technical design services relating to cooling appliances and installations",
+      "conceptLink": "/ec2/concept/6005592"
+    }
+  },
+  {
+    "uri": "en/42/120875181",
+    "id": "120875181",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design services relating to heating installations",
+    "harm": {
+      "id": "0069392",
+      "title": "120875181 - Technical design services relating to heating installations",
+      "conceptLink": "/ec2/concept/6005595"
+    }
+  },
+  {
+    "uri": "en/42/120875174",
+    "id": "120875174",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design services relating to sanitary apparatus and installations",
+    "harm": {
+      "id": "0069390",
+      "title": "120875174 - Technical design services relating to sanitary apparatus and installations",
+      "conceptLink": "/ec2/concept/6005593"
+    }
+  },
+  {
+    "uri": "en/42/120875162",
+    "id": "120875162",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical design services relating to electricity plants",
+    "harm": {
+      "id": "0069393",
+      "title": "120875162 - Technical design services relating to electricity plants",
+      "conceptLink": "/ec2/concept/6005596"
+    }
+  },
+  {
+    "uri": "en/42/12511233",
+    "id": "12511233",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical drawing",
+    "harm": {
+      "id": "0071377",
+      "title": "12511233 - Technical drawing",
+      "conceptLink": "/ec2/concept/6007568"
+    }
+  },
+  {
+    "uri": "en/42/873589",
+    "id": "873589",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical engineering",
+    "harm": {
+      "id": "0032751",
+      "title": "873589 - Technical engineering",
+      "conceptLink": "/ec2/concept/5981426"
+    }
+  },
+  {
+    "uri": "en/42/873605",
+    "id": "873605",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical inspection services",
+    "harm": {
+      "id": "0015474",
+      "title": "873605 - Technical inspection services",
+      "conceptLink": "/ec2/concept/5965624"
+    }
+  },
+  {
+    "uri": "en/42/3058278",
+    "id": "3058278",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical measuring",
+    "harm": {
+      "id": "0069420",
+      "title": "3058278 - Technical measuring",
+      "conceptLink": "/ec2/concept/6005623"
+    }
+  },
+  {
+    "uri": "en/42/1072268",
+    "id": "1072268",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical measuring and testing",
+    "harm": {
+      "id": "0069419",
+      "title": "1072268 - Technical measuring and testing",
+      "conceptLink": "/ec2/concept/6005622"
+    }
+  },
+  {
+    "uri": "en/42/120876883",
+    "id": "120876883",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical planning and consulting in the field of light engineering",
+    "harm": {
+      "id": "0069131",
+      "title": "120876883 - Technical planning and consulting in the field of light engineering",
+      "conceptLink": "/ec2/concept/6005334"
+    }
+  },
+  {
+    "uri": "en/42/120876886",
+    "id": "120876886",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical planning and technical project management for the development of lighting equipment",
+    "harm": {
+      "id": "0069130",
+      "title": "120876886 - Technical planning and technical project management for the development of lighting equipment",
+      "conceptLink": "/ec2/concept/6005333"
+    }
+  },
+  {
+    "uri": "en/42/11852421",
+    "id": "11852421",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project planning",
+    "harm": {
+      "id": "0071386",
+      "title": "11852421 - Technical project planning",
+      "conceptLink": "/ec2/concept/6007577"
+    }
+  },
+  {
+    "uri": "en/42/120876722",
+    "id": "120876722",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project planning in the field of engineering",
+    "harm": {
+      "id": "0069190",
+      "title": "120876722 - Technical project planning in the field of engineering",
+      "conceptLink": "/ec2/concept/6005393"
+    }
+  },
+  {
+    "uri": "en/42/487372",
+    "id": "487372",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project studies in the field of computer hardware and software",
+    "harm": {
+      "id": "0008206",
+      "title": "487372 - Technical project studies in the field of computer hardware and software",
+      "conceptLink": "/ec2/concept/5958964"
+    }
+  },
+  {
+    "uri": "en/42/120877395",
+    "id": "120877395",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project studies in the field of carbon offsetting",
+    "harm": {
+      "id": "0069200",
+      "title": "120877395 - Technical project studies in the field of carbon offsetting",
+      "conceptLink": "/ec2/concept/6005403"
+    }
+  },
+  {
+    "uri": "en/42/31666551",
+    "id": "31666551",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project studies in the field of construction",
+    "harm": {
+      "id": "0069280",
+      "title": "31666551 - Technical project studies in the field of construction",
+      "conceptLink": "/ec2/concept/6005483"
+    }
+  },
+  {
+    "uri": "en/42/62316",
+    "id": "62316",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical project studies",
+    "harm": {
+      "id": "0029964",
+      "title": "62316 - Technical project studies",
+      "conceptLink": "/ec2/concept/5978890"
+    }
+  },
+  {
+    "uri": "en/42/61735",
+    "id": "61735",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research",
+    "harm": {
+      "id": "0034798",
+      "title": "61735 - Technical research",
+      "conceptLink": "/ec2/concept/5983295"
+    }
+  },
+  {
+    "uri": "en/42/375388",
+    "id": "375388",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research in the field of aeronautics",
+    "harm": {
+      "id": "0020588",
+      "title": "375388 - Technical research in the field of aeronautics",
+      "conceptLink": "/ec2/concept/5970293"
+    }
+  },
+  {
+    "uri": "en/42/137889551",
+    "id": "137889551",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research in the field of carbon offsetting",
+    "harm": {
+      "id": "0051551",
+      "title": "137889551 - Technical research in the field of carbon offsetting",
+      "conceptLink": "/ec2/concept/6010537"
+    }
+  },
+  {
+    "uri": "en/42/117542968",
+    "id": "117542968",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research projects and studies",
+    "harm": {
+      "id": "0069123",
+      "title": "117542968 - Technical research projects and studies",
+      "conceptLink": "/ec2/concept/6005326"
+    }
+  },
+  {
+    "uri": "en/42/873651",
+    "id": "873651",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research relating to computers",
+    "harm": {
+      "id": "0015475",
+      "title": "873651 - Technical research relating to computers",
+      "conceptLink": "/ec2/concept/5965625"
+    }
+  },
+  {
+    "uri": "en/42/873638",
+    "id": "873638",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research relating to automatic numbering systems",
+    "harm": {
+      "id": "0009644",
+      "title": "873638 - Technical research relating to automatic numbering systems",
+      "conceptLink": "/ec2/concept/5960286"
+    }
+  },
+  {
+    "uri": "en/42/873625",
+    "id": "873625",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research relating to automatic identification systems",
+    "harm": {
+      "id": "0044320",
+      "title": "873625 - Technical research relating to automatic identification systems",
+      "conceptLink": "/ec2/concept/5991976"
+    }
+  },
+  {
+    "uri": "en/42/61738",
+    "id": "61738",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical research services",
+    "harm": {
+      "id": "0034798",
+      "title": "61738 - Technical research services",
+      "conceptLink": "/ec2/concept/5983295"
+    }
+  },
+  {
+    "uri": "en/42/233403191",
+    "id": "233403191",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical services for the downloading of video games",
+    "harm": {
+      "id": "0073528",
+      "title": "233403191 - Technical services for the downloading of video games",
+      "conceptLink": "/ec2/concept/6009701"
+    }
+  },
+  {
+    "uri": "en/42/233403193",
+    "id": "233403193",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical services for the downloading of digital data",
+    "harm": {
+      "id": "0073529",
+      "title": "233403193 - Technical services for the downloading of digital data",
+      "conceptLink": "/ec2/concept/6009702"
+    }
+  },
+  {
+    "uri": "en/42/233403195",
+    "id": "233403195",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical services for the downloading of software",
+    "harm": {
+      "id": "0073530",
+      "title": "233403195 - Technical services for the downloading of software",
+      "conceptLink": "/ec2/concept/6009703"
+    }
+  },
+  {
+    "uri": "en/42/61739",
+    "id": "61739",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical studies",
+    "harm": {
+      "id": "0034798",
+      "title": "61739 - Technical studies",
+      "conceptLink": "/ec2/concept/5983295"
+    }
+  },
+  {
+    "uri": "en/42/474739",
+    "id": "474739",
+    "lang": "en",
+    "classNumber": "42",
+    "term": "Technical supervision and inspection",
+    "harm": {
+      "id": "0038944",
+      "title": "474739 - Technical supervision and inspection",
+      "conceptLink": "/ec2/concept/5987063"
+    }
+  }
+]

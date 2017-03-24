@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/119526572",
+    "id": "119526572",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plasma etching machines",
+    "harm": {
+      "id": "0065622",
+      "title": "119526572 - Plasma etching machines",
+      "conceptLink": "/ec2/concept/6001825"
+    }
+  },
+  {
+    "uri": "en/7/689276",
+    "id": "689276",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plasma spraying machines",
+    "harm": {
+      "id": "0020431",
+      "title": "689276 - Plasma spraying machines",
+      "conceptLink": "/ec2/concept/5970154"
+    }
+  },
+  {
+    "uri": "en/7/138391237",
+    "id": "138391237",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plasma surface treatment machines",
+    "harm": {
+      "id": "0070217",
+      "title": "138391237 - Plasma surface treatment machines",
+      "conceptLink": "/ec2/concept/6006411"
+    }
+  },
+  {
+    "uri": "en/7/689288",
+    "id": "689288",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plasma welding machines",
+    "harm": {
+      "id": "0031880",
+      "title": "689288 - Plasma welding machines",
+      "conceptLink": "/ec2/concept/5980633"
+    }
+  },
+  {
+    "uri": "en/7/906040",
+    "id": "906040",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastic jet moulding machines",
+    "harm": {
+      "id": "0013720",
+      "title": "906040 - Plastic jet moulding machines",
+      "conceptLink": "/ec2/concept/5964008"
+    }
+  },
+  {
+    "uri": "en/7/7116710",
+    "id": "7116710",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastic processing machines",
+    "harm": {
+      "id": "0046219",
+      "title": "7116710 - Plastic processing machines",
+      "conceptLink": "/ec2/concept/5993703"
+    }
+  },
+  {
+    "uri": "en/7/689304",
+    "id": "689304",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastics injection forming machines",
+    "harm": {
+      "id": "0020432",
+      "title": "689304 - Plastics injection forming machines",
+      "conceptLink": "/ec2/concept/5970155"
+    }
+  },
+  {
+    "uri": "en/7/689315",
+    "id": "689315",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastics moulding machines",
+    "harm": {
+      "id": "0037679",
+      "title": "689315 - Plastics moulding machines",
+      "conceptLink": "/ec2/concept/5985903"
+    }
+  },
+  {
+    "uri": "en/7/689329",
+    "id": "689329",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastics pipes [fitted parts of machines]",
+    "harm": {
+      "id": "0020433",
+      "title": "689329 - Plastics pipes [fitted parts of machines]",
+      "conceptLink": "/ec2/concept/5970156"
+    }
+  },
+  {
+    "uri": "en/7/689344",
+    "id": "689344",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plastics welding machines",
+    "harm": {
+      "id": "0018895",
+      "title": "689344 - Plastics welding machines",
+      "conceptLink": "/ec2/concept/5968764"
+    }
+  },
+  {
+    "uri": "en/7/689359",
+    "id": "689359",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plate shearing machines",
+    "harm": {
+      "id": "0036173",
+      "title": "689359 - Plate shearing machines",
+      "conceptLink": "/ec2/concept/5984540"
+    }
+  },
+  {
+    "uri": "en/7/689372",
+    "id": "689372",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Platemaking machines",
+    "harm": {
+      "id": "0013047",
+      "title": "689372 - Platemaking machines",
+      "conceptLink": "/ec2/concept/5963396"
+    }
+  },
+  {
+    "uri": "en/7/689384",
+    "id": "689384",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Platen printing machines",
+    "harm": {
+      "id": "0036174",
+      "title": "689384 - Platen printing machines",
+      "conceptLink": "/ec2/concept/5984541"
+    }
+  },
+  {
+    "uri": "en/7/689413",
+    "id": "689413",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plates for the sintering of powdered metals",
+    "harm": {
+      "id": "0024627",
+      "title": "689413 - Plates for the sintering of powdered metals",
+      "conceptLink": "/ec2/concept/5974004"
+    }
+  },
+  {
+    "uri": "en/7/689400",
+    "id": "689400",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plates for the sintering of ceramic materials",
+    "harm": {
+      "id": "0018896",
+      "title": "689400 - Plates for the sintering of ceramic materials",
+      "conceptLink": "/ec2/concept/5968765"
+    }
+  },
+  {
+    "uri": "en/7/119277",
+    "id": "119277",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plates (Printing -)",
+    "harm": {
+      "id": "0007241",
+      "title": "119277 - Plates (Printing -)",
+      "conceptLink": "/ec2/concept/5958084"
+    }
+  },
+  {
+    "uri": "en/7/684248",
+    "id": "684248",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Platform lifts",
+    "harm": {
+      "id": "0013048",
+      "title": "684248 - Platform lifts",
+      "conceptLink": "/ec2/concept/5963397"
+    }
+  },
+  {
+    "uri": "en/7/689425",
+    "id": "689425",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Platform truck lifts",
+    "harm": {
+      "id": "0001485",
+      "title": "689425 - Platform truck lifts",
+      "conceptLink": "/ec2/concept/5952823"
+    }
+  },
+  {
+    "uri": "en/7/689440",
+    "id": "689440",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pleating machines",
+    "harm": {
+      "id": "0001486",
+      "title": "689440 - Pleating machines",
+      "conceptLink": "/ec2/concept/5952824"
+    }
+  },
+  {
+    "uri": "en/7/120915411",
+    "id": "120915411",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plough blades for vehicles",
+    "harm": {
+      "id": "0000186",
+      "title": "120915411 - Plough blades for vehicles",
+      "conceptLink": "/ec2/concept/5951661"
+    }
+  },
+  {
+    "uri": "en/7/119628131",
+    "id": "119628131",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plough shares",
+    "harm": {
+      "id": "0035891",
+      "title": "119628131 - Plough shares",
+      "conceptLink": "/ec2/concept/5984280"
+    }
+  },
+  {
+    "uri": "en/7/112064",
+    "id": "112064",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Ploughs",
+    "harm": {
+      "id": "0040634",
+      "title": "112064 - Ploughs",
+      "conceptLink": "/ec2/concept/5988614"
+    }
+  },
+  {
+    "uri": "en/7/689454",
+    "id": "689454",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Ploughs being agricultural machines",
+    "harm": {
+      "id": "0013049",
+      "title": "689454 - Ploughs being agricultural machines",
+      "conceptLink": "/ec2/concept/5963398"
+    }
+  },
+  {
+    "uri": "en/7/392058",
+    "id": "392058",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Ploughs [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0009200",
+      "title": "392058 - Ploughs [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5959879"
+    }
+  },
+  {
+    "uri": "en/7/115130",
+    "id": "115130",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Ploughshares",
+    "harm": {
+      "id": "0035891",
+      "title": "115130 - Ploughshares",
+      "conceptLink": "/ec2/concept/5984280"
+    }
+  },
+  {
+    "uri": "en/7/390575",
+    "id": "390575",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plow blades for vehicles",
+    "harm": {
+      "id": "0000186",
+      "title": "390575 - Plow blades for vehicles",
+      "conceptLink": "/ec2/concept/5951661"
+    }
+  },
+  {
+    "uri": "en/7/112063",
+    "id": "112063",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plows",
+    "harm": {
+      "id": "0040634",
+      "title": "112063 - Plows",
+      "conceptLink": "/ec2/concept/5988614"
+    }
+  },
+  {
+    "uri": "en/7/689468",
+    "id": "689468",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plug cocks [parts of machines]",
+    "harm": {
+      "id": "0024628",
+      "title": "689468 - Plug cocks [parts of machines]",
+      "conceptLink": "/ec2/concept/5974005"
+    }
+  },
+  {
+    "uri": "en/7/233107550",
+    "id": "233107550",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plugging machines",
+    "harm": {
+      "id": "0072375",
+      "title": "233107550 - Plugging machines",
+      "conceptLink": "/ec2/concept/6008557"
+    }
+  },
+  {
+    "uri": "en/7/125966",
+    "id": "125966",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plunger pistons",
+    "harm": {
+      "id": "0023752",
+      "title": "125966 - Plunger pistons",
+      "conceptLink": "/ec2/concept/5973195"
+    }
+  },
+  {
+    "uri": "en/7/689481",
+    "id": "689481",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plunger type valves for use with tanks",
+    "harm": {
+      "id": "0036175",
+      "title": "689481 - Plunger type valves for use with tanks",
+      "conceptLink": "/ec2/concept/5984542"
+    }
+  },
+  {
+    "uri": "en/7/689131",
+    "id": "689131",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plungers [machines]",
+    "harm": {
+      "id": "0047132",
+      "title": "689131 - Plungers [machines]",
+      "conceptLink": "/ec2/concept/5994502"
+    }
+  },
+  {
+    "uri": "en/7/323499",
+    "id": "323499",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood clipping machines",
+    "harm": {
+      "id": "0009704",
+      "title": "323499 - Plywood clipping machines",
+      "conceptLink": "/ec2/concept/5960342"
+    }
+  },
+  {
+    "uri": "en/7/120895358",
+    "id": "120895358",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood cutting machines",
+    "harm": {
+      "id": "0009704",
+      "title": "120895358 - Plywood cutting machines",
+      "conceptLink": "/ec2/concept/5960342"
+    }
+  },
+  {
+    "uri": "en/7/323513",
+    "id": "323513",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood finishing machines",
+    "harm": {
+      "id": "0027047",
+      "title": "323513 - Plywood finishing machines",
+      "conceptLink": "/ec2/concept/5976206"
+    }
+  },
+  {
+    "uri": "en/7/323526",
+    "id": "323526",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood gluing machines",
+    "harm": {
+      "id": "0015522",
+      "title": "323526 - Plywood gluing machines",
+      "conceptLink": "/ec2/concept/5965666"
+    }
+  },
+  {
+    "uri": "en/7/323539",
+    "id": "323539",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood jointing machines",
+    "harm": {
+      "id": "0003944",
+      "title": "323539 - Plywood jointing machines",
+      "conceptLink": "/ec2/concept/5955060"
+    }
+  },
+  {
+    "uri": "en/7/323551",
+    "id": "323551",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Plywood presses",
+    "harm": {
+      "id": "0032804",
+      "title": "323551 - Plywood presses",
+      "conceptLink": "/ec2/concept/5981475"
+    }
+  },
+  {
+    "uri": "en/7/689496",
+    "id": "689496",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic actuating apparatus",
+    "harm": {
+      "id": "0036176",
+      "title": "689496 - Pneumatic actuating apparatus",
+      "conceptLink": "/ec2/concept/5984543"
+    }
+  },
+  {
+    "uri": "en/7/689507",
+    "id": "689507",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic actuators for control valves",
+    "harm": {
+      "id": "0007242",
+      "title": "689507 - Pneumatic actuators for control valves",
+      "conceptLink": "/ec2/concept/5958085"
+    }
+  },
+  {
+    "uri": "en/7/320488",
+    "id": "320488",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic compressors",
+    "harm": {
+      "id": "0059181",
+      "title": "320488 - Pneumatic compressors",
+      "conceptLink": "/ec2/concept/6000670"
+    }
+  },
+  {
+    "uri": "en/7/120895372",
+    "id": "120895372",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic controls for machines",
+    "harm": {
+      "id": "0065560",
+      "title": "120895372 - Pneumatic controls for machines",
+      "conceptLink": "/ec2/concept/6001763"
+    }
+  },
+  {
+    "uri": "en/7/1233969",
+    "id": "1233969",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic controls for machines, motors and engines",
+    "harm": {
+      "id": "0036682",
+      "title": "1233969 - Pneumatic controls for machines, motors and engines",
+      "conceptLink": "/ec2/concept/5985007"
+    }
+  },
+  {
+    "uri": "en/7/120895368",
+    "id": "120895368",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic controls for motors",
+    "harm": {
+      "id": "0065559",
+      "title": "120895368 - Pneumatic controls for motors",
+      "conceptLink": "/ec2/concept/6001762"
+    }
+  },
+  {
+    "uri": "en/7/122630",
+    "id": "122630",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic conveyors",
+    "harm": {
+      "id": "0012210",
+      "title": "122630 - Pneumatic conveyors",
+      "conceptLink": "/ec2/concept/5962638"
+    }
+  },
+  {
+    "uri": "en/7/122631",
+    "id": "122631",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic distributors",
+    "harm": {
+      "id": "0012210",
+      "title": "122631 - Pneumatic distributors",
+      "conceptLink": "/ec2/concept/5962638"
+    }
+  },
+  {
+    "uri": "en/7/906072",
+    "id": "906072",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic door closers",
+    "harm": {
+      "id": "0013724",
+      "title": "906072 - Pneumatic door closers",
+      "conceptLink": "/ec2/concept/5964012"
+    }
+  },
+  {
+    "uri": "en/7/120895380",
+    "id": "120895380",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic door openers",
+    "harm": {
+      "id": "0059093",
+      "title": "120895380 - Pneumatic door openers",
+      "conceptLink": "/ec2/concept/6000584"
+    }
+  },
+  {
+    "uri": "en/7/130499",
+    "id": "130499",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic door openers and closers [parts of machines]",
+    "harm": {
+      "id": "0059092",
+      "title": "130499 - Pneumatic door openers and closers [parts of machines]",
+      "conceptLink": "/ec2/concept/6000583"
+    }
+  },
+  {
+    "uri": "en/7/689522",
+    "id": "689522",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic drills",
+    "harm": {
+      "id": "0031198",
+      "title": "689522 - Pneumatic drills",
+      "conceptLink": "/ec2/concept/5980027"
+    }
+  },
+  {
+    "uri": "en/7/132887030",
+    "id": "132887030",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic drills, hand-held",
+    "harm": {
+      "id": "0002470",
+      "title": "132887030 - Pneumatic drills, hand-held",
+      "conceptLink": "/ec2/concept/5953711"
+    }
+  },
+  {
+    "uri": "en/7/323563",
+    "id": "323563",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic drills [hand-held]",
+    "harm": {
+      "id": "0002470",
+      "title": "323563 - Pneumatic drills [hand-held]",
+      "conceptLink": "/ec2/concept/5953711"
+    }
+  },
+  {
+    "uri": "en/7/689537",
+    "id": "689537",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic fuel injectors for engines",
+    "harm": {
+      "id": "0019785",
+      "title": "689537 - Pneumatic fuel injectors for engines",
+      "conceptLink": "/ec2/concept/5969565"
+    }
+  },
+  {
+    "uri": "en/7/689538",
+    "id": "689538",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic fuel injectors for motors",
+    "harm": {
+      "id": "0019785",
+      "title": "689538 - Pneumatic fuel injectors for motors",
+      "conceptLink": "/ec2/concept/5969565"
+    }
+  },
+  {
+    "uri": "en/7/390587",
+    "id": "390587",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic grease guns",
+    "harm": {
+      "id": "0040635",
+      "title": "390587 - Pneumatic grease guns",
+      "conceptLink": "/ec2/concept/5988615"
+    }
+  },
+  {
+    "uri": "en/7/120451",
+    "id": "120451",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic hammers",
+    "harm": {
+      "id": "0013697",
+      "title": "120451 - Pneumatic hammers",
+      "conceptLink": "/ec2/concept/5963986"
+    }
+  },
+  {
+    "uri": "en/7/323577",
+    "id": "323577",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic hammers [hand-held]",
+    "harm": {
+      "id": "0031309",
+      "title": "323577 - Pneumatic hammers [hand-held]",
+      "conceptLink": "/ec2/concept/5980128"
+    }
+  },
+  {
+    "uri": "en/7/903292",
+    "id": "903292",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic hoists",
+    "harm": {
+      "id": "0022097",
+      "title": "903292 - Pneumatic hoists",
+      "conceptLink": "/ec2/concept/5971683"
+    }
+  },
+  {
+    "uri": "en/7/120895376",
+    "id": "120895376",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic jacks",
+    "harm": {
+      "id": "0060012",
+      "title": "120895376 - Pneumatic jacks",
+      "conceptLink": "/ec2/concept/5996279"
+    }
+  },
+  {
+    "uri": "en/7/689572",
+    "id": "689572",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic lifting apparatus [machines]",
+    "harm": {
+      "id": "0025470",
+      "title": "689572 - Pneumatic lifting apparatus [machines]",
+      "conceptLink": "/ec2/concept/5974781"
+    }
+  },
+  {
+    "uri": "en/7/23527735",
+    "id": "23527735",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic nail guns",
+    "harm": {
+      "id": "0050796",
+      "title": "23527735 - Pneumatic nail guns",
+      "conceptLink": "/ec2/concept/5996160"
+    }
+  },
+  {
+    "uri": "en/7/125120",
+    "id": "125120",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic pipeline conveyors",
+    "harm": {
+      "id": "0001353",
+      "title": "125120 - Pneumatic pipeline conveyors",
+      "conceptLink": "/ec2/concept/5952702"
+    }
+  },
+  {
+    "uri": "en/7/125890",
+    "id": "125890",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic pumps",
+    "harm": {
+      "id": "0058668",
+      "title": "125890 - Pneumatic pumps",
+      "conceptLink": "/ec2/concept/6000161"
+    }
+  },
+  {
+    "uri": "en/7/689604",
+    "id": "689604",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic pumps for the supply of liquid gases",
+    "harm": {
+      "id": "0031199",
+      "title": "689604 - Pneumatic pumps for the supply of liquid gases",
+      "conceptLink": "/ec2/concept/5980028"
+    }
+  },
+  {
+    "uri": "en/7/689605",
+    "id": "689605",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic pumps for the supply of liquefied gases",
+    "harm": {
+      "id": "0031199",
+      "title": "689605 - Pneumatic pumps for the supply of liquefied gases",
+      "conceptLink": "/ec2/concept/5980028"
+    }
+  },
+  {
+    "uri": "en/7/323591",
+    "id": "323591",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic shears",
+    "harm": {
+      "id": "0019871",
+      "title": "323591 - Pneumatic shears",
+      "conceptLink": "/ec2/concept/5969644"
+    }
+  },
+  {
+    "uri": "en/7/689623",
+    "id": "689623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic tools [machines]",
+    "harm": {
+      "id": "0002368",
+      "title": "689623 - Pneumatic tools [machines]",
+      "conceptLink": "/ec2/concept/5953619"
+    }
+  },
+  {
+    "uri": "en/7/122629",
+    "id": "122629",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic transporters",
+    "harm": {
+      "id": "0012210",
+      "title": "122629 - Pneumatic transporters",
+      "conceptLink": "/ec2/concept/5962638"
+    }
+  },
+  {
+    "uri": "en/7/125118",
+    "id": "125118",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic tube conveyors",
+    "harm": {
+      "id": "0001353",
+      "title": "125118 - Pneumatic tube conveyors",
+      "conceptLink": "/ec2/concept/5952702"
+    }
+  },
+  {
+    "uri": "en/7/390604",
+    "id": "390604",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatic valve actuators",
+    "harm": {
+      "id": "0023336",
+      "title": "390604 - Pneumatic valve actuators",
+      "conceptLink": "/ec2/concept/5972813"
+    }
+  },
+  {
+    "uri": "en/7/689637",
+    "id": "689637",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatically driven machines",
+    "harm": {
+      "id": "0019786",
+      "title": "689637 - Pneumatically driven machines",
+      "conceptLink": "/ec2/concept/5969566"
+    }
+  },
+  {
+    "uri": "en/7/689649",
+    "id": "689649",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatically driven presses",
+    "harm": {
+      "id": "0025471",
+      "title": "689649 - Pneumatically driven presses",
+      "conceptLink": "/ec2/concept/5974782"
+    }
+  },
+  {
+    "uri": "en/7/689662",
+    "id": "689662",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatically operable valves",
+    "harm": {
+      "id": "0008057",
+      "title": "689662 - Pneumatically operable valves",
+      "conceptLink": "/ec2/concept/5958831"
+    }
+  },
+  {
+    "uri": "en/7/689676",
+    "id": "689676",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Pneumatically operated lifting jacks [machines]",
+    "harm": {
+      "id": "0037069",
+      "title": "689676 - Pneumatically operated lifting jacks [machines]",
+      "conceptLink": "/ec2/concept/5985356"
+    }
+  },
+  {
+    "uri": "en/7/389725",
+    "id": "389725",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Points [ignition parts for internal combustion engines]",
+    "harm": {
+      "id": "0004302",
+      "title": "389725 - Points [ignition parts for internal combustion engines]",
+      "conceptLink": "/ec2/concept/5955387"
+    }
+  },
+  {
+    "uri": "en/7/689722",
+    "id": "689722",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing buffs [parts of machines]",
+    "harm": {
+      "id": "0040977",
+      "title": "689722 - Polishing buffs [parts of machines]",
+      "conceptLink": "/ec2/concept/5988921"
+    }
+  },
+  {
+    "uri": "en/7/689747",
+    "id": "689747",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing discs for use with electric floor polishers",
+    "harm": {
+      "id": "0000495",
+      "title": "689747 - Polishing discs for use with electric floor polishers",
+      "conceptLink": "/ec2/concept/5951932"
+    }
+  },
+  {
+    "uri": "en/7/689723",
+    "id": "689723",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing discs [parts of machines]",
+    "harm": {
+      "id": "0040977",
+      "title": "689723 - Polishing discs [parts of machines]",
+      "conceptLink": "/ec2/concept/5988921"
+    }
+  },
+  {
+    "uri": "en/7/124917563",
+    "id": "124917563",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing (machines and apparatus for -) for household purposes [electric]",
+    "harm": {
+      "id": "0019787",
+      "title": "124917563 - Polishing (machines and apparatus for -) for household purposes [electric]",
+      "conceptLink": "/ec2/concept/5969567"
+    }
+  },
+  {
+    "uri": "en/7/122773",
+    "id": "122773",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing (Machines and apparatus for -) [electric]",
+    "harm": {
+      "id": "0006278",
+      "title": "122773 - Polishing (Machines and apparatus for -) [electric]",
+      "conceptLink": "/ec2/concept/5957205"
+    }
+  },
+  {
+    "uri": "en/7/125166200",
+    "id": "125166200",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing machines (floor -) [electric]",
+    "harm": {
+      "id": "0006278",
+      "title": "125166200 - Polishing machines (floor -) [electric]",
+      "conceptLink": "/ec2/concept/5957205"
+    }
+  },
+  {
+    "uri": "en/7/906953",
+    "id": "906953",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing machines for rice or barley",
+    "harm": {
+      "id": "0013966",
+      "title": "906953 - Polishing machines for rice or barley",
+      "conceptLink": "/ec2/concept/5964236"
+    }
+  },
+  {
+    "uri": "en/7/124917618",
+    "id": "124917618",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polishing tools (Electric -)",
+    "harm": {
+      "id": "0000496",
+      "title": "124917618 - Polishing tools (Electric -)",
+      "conceptLink": "/ec2/concept/5951933"
+    }
+  },
+  {
+    "uri": "en/7/689775",
+    "id": "689775",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polycrystalline diamond cutters for machining of workpieces",
+    "harm": {
+      "id": "0023663",
+      "title": "689775 - Polycrystalline diamond cutters for machining of workpieces",
+      "conceptLink": "/ec2/concept/5973112"
+    }
+  },
+  {
+    "uri": "en/7/689787",
+    "id": "689787",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Polycrystalline diamond cutters for ready cutting of workpieces [machines]",
+    "harm": {
+      "id": "0012082",
+      "title": "689787 - Polycrystalline diamond cutters for ready cutting of workpieces [machines]",
+      "conceptLink": "/ec2/concept/5962522"
+    }
+  },
+  {
+    "uri": "en/7/689802",
+    "id": "689802",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable air tools",
+    "harm": {
+      "id": "0000497",
+      "title": "689802 - Portable air tools",
+      "conceptLink": "/ec2/concept/5951934"
+    }
+  },
+  {
+    "uri": "en/7/689830",
+    "id": "689830",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable drill stands for electric drills",
+    "harm": {
+      "id": "0029386",
+      "title": "689830 - Portable drill stands for electric drills",
+      "conceptLink": "/ec2/concept/5978360"
+    }
+  },
+  {
+    "uri": "en/7/689814",
+    "id": "689814",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable drill stands [machines]",
+    "harm": {
+      "id": "0023664",
+      "title": "689814 - Portable drill stands [machines]",
+      "conceptLink": "/ec2/concept/5973113"
+    }
+  },
+  {
+    "uri": "en/7/689842",
+    "id": "689842",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable drilling machines [electric]",
+    "harm": {
+      "id": "0006279",
+      "title": "689842 - Portable drilling machines [electric]",
+      "conceptLink": "/ec2/concept/5957206"
+    }
+  },
+  {
+    "uri": "en/7/75420085",
+    "id": "75420085",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable electric power generators",
+    "harm": {
+      "id": "0065562",
+      "title": "75420085 - Portable electric power generators",
+      "conceptLink": "/ec2/concept/6001765"
+    }
+  },
+  {
+    "uri": "en/7/689857",
+    "id": "689857",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable electric power tools",
+    "harm": {
+      "id": "0012083",
+      "title": "689857 - Portable electric power tools",
+      "conceptLink": "/ec2/concept/5962523"
+    }
+  },
+  {
+    "uri": "en/7/689871",
+    "id": "689871",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable filtration units [machines]",
+    "harm": {
+      "id": "0029387",
+      "title": "689871 - Portable filtration units [machines]",
+      "conceptLink": "/ec2/concept/5978361"
+    }
+  },
+  {
+    "uri": "en/7/323606",
+    "id": "323606",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portable saw mills",
+    "harm": {
+      "id": "0002471",
+      "title": "323606 - Portable saw mills",
+      "conceptLink": "/ec2/concept/5953712"
+    }
+  },
+  {
+    "uri": "en/7/689886",
+    "id": "689886",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Portal cranes",
+    "harm": {
+      "id": "0058368",
+      "title": "689886 - Portal cranes",
+      "conceptLink": "/ec2/concept/5999867"
+    }
+  },
+  {
+    "uri": "en/7/120896368",
+    "id": "120896368",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Positive crankcase ventilation [PCV] valves for motors and engines",
+    "harm": {
+      "id": "0065577",
+      "title": "120896368 - Positive crankcase ventilation [PCV] valves for motors and engines",
+      "conceptLink": "/ec2/concept/6001780"
+    }
+  },
+  {
+    "uri": "en/7/390623",
+    "id": "390623",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Positive displacement pumps",
+    "harm": {
+      "id": "0023337",
+      "title": "390623 - Positive displacement pumps",
+      "conceptLink": "/ec2/concept/5972814"
+    }
+  },
+  {
+    "uri": "en/7/689896",
+    "id": "689896",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Potato graders [machines]",
+    "harm": {
+      "id": "0035176",
+      "title": "689896 - Potato graders [machines]",
+      "conceptLink": "/ec2/concept/5983633"
+    }
+  },
+  {
+    "uri": "en/7/689909",
+    "id": "689909",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Potato mashers [electric machines]",
+    "harm": {
+      "id": "0006280",
+      "title": "689909 - Potato mashers [electric machines]",
+      "conceptLink": "/ec2/concept/5957207"
+    }
+  },
+  {
+    "uri": "en/7/689923",
+    "id": "689923",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Potato peelers [electric machines]",
+    "harm": {
+      "id": "0006281",
+      "title": "689923 - Potato peelers [electric machines]",
+      "conceptLink": "/ec2/concept/5957208"
+    }
+  },
+  {
+    "uri": "en/7/689938",
+    "id": "689938",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Potato sorters [machines]",
+    "harm": {
+      "id": "0035176",
+      "title": "689938 - Potato sorters [machines]",
+      "conceptLink": "/ec2/concept/5983633"
+    }
+  }
+]

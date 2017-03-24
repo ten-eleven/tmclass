@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/165875",
+    "id": "165875",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Water beds for medical purposes",
+    "harm": {
+      "id": "0006407",
+      "title": "165875 - Water beds for medical purposes",
+      "conceptLink": "/ec2/concept/5957322"
+    }
+  },
+  {
+    "uri": "en/10/721031",
+    "id": "721031",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Water pillows for medical purposes",
+    "harm": {
+      "id": "0043016",
+      "title": "721031 - Water pillows for medical purposes",
+      "conceptLink": "/ec2/concept/5990775"
+    }
+  },
+  {
+    "uri": "en/10/721044",
+    "id": "721044",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Water therapy apparatus for medical use",
+    "harm": {
+      "id": "0043017",
+      "title": "721044 - Water therapy apparatus for medical use",
+      "conceptLink": "/ec2/concept/5990776"
+    }
+  },
+  {
+    "uri": "en/10/721055",
+    "id": "721055",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Water treatment apparatus for medical use",
+    "harm": {
+      "id": "0043017",
+      "title": "721055 - Water treatment apparatus for medical use",
+      "conceptLink": "/ec2/concept/5990776"
+    }
+  },
+  {
+    "uri": "en/10/721069",
+    "id": "721069",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Weight training apparatus adapted for medical use",
+    "harm": {
+      "id": "0019988",
+      "title": "721069 - Weight training apparatus adapted for medical use",
+      "conceptLink": "/ec2/concept/5969749"
+    }
+  },
+  {
+    "uri": "en/10/721080",
+    "id": "721080",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Weights for physical exercise [adapted for medical use]",
+    "harm": {
+      "id": "0008256",
+      "title": "721080 - Weights for physical exercise [adapted for medical use]",
+      "conceptLink": "/ec2/concept/5959009"
+    }
+  },
+  {
+    "uri": "en/10/721094",
+    "id": "721094",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wheeled trolleys adapted for use as walking aids",
+    "harm": {
+      "id": "0037265",
+      "title": "721094 - Wheeled trolleys adapted for use as walking aids",
+      "conceptLink": "/ec2/concept/5985529"
+    }
+  },
+  {
+    "uri": "en/10/136633923",
+    "id": "136633923",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wheels for pets [mobility aids]",
+    "harm": {
+      "id": "0060148",
+      "title": "136633923 - Wheels for pets [mobility aids]",
+      "conceptLink": "/ec2/concept/5996410"
+    }
+  },
+  {
+    "uri": "en/10/721107",
+    "id": "721107",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wound closures",
+    "harm": {
+      "id": "0002328",
+      "title": "721107 - Wound closures",
+      "conceptLink": "/ec2/concept/5953583"
+    }
+  },
+  {
+    "uri": "en/10/721122",
+    "id": "721122",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wound drainage pouches",
+    "harm": {
+      "id": "0014150",
+      "title": "721122 - Wound drainage pouches",
+      "conceptLink": "/ec2/concept/5964409"
+    }
+  },
+  {
+    "uri": "en/10/102276105",
+    "id": "102276105",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wound suction apparatus",
+    "harm": {
+      "id": "0066174",
+      "title": "102276105 - Wound suction apparatus",
+      "conceptLink": "/ec2/concept/6002377"
+    }
+  },
+  {
+    "uri": "en/10/721135",
+    "id": "721135",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wrist braces for medical use",
+    "harm": {
+      "id": "0014151",
+      "title": "721135 - Wrist braces for medical use",
+      "conceptLink": "/ec2/concept/5964410"
+    }
+  },
+  {
+    "uri": "en/10/721147",
+    "id": "721147",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Wrist supports for medical use",
+    "harm": {
+      "id": "0031414",
+      "title": "721147 - Wrist supports for medical use",
+      "conceptLink": "/ec2/concept/5980225"
+    }
+  },
+  {
+    "uri": "en/10/721159",
+    "id": "721159",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray analyzers for medical use",
+    "harm": {
+      "id": "0008257",
+      "title": "721159 - X-ray analyzers for medical use",
+      "conceptLink": "/ec2/concept/5959010"
+    }
+  },
+  {
+    "uri": "en/10/908232",
+    "id": "908232",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray apparatus for dental imaging",
+    "harm": {
+      "id": "0044841",
+      "title": "908232 - X-ray apparatus for dental imaging",
+      "conceptLink": "/ec2/concept/5992452"
+    }
+  },
+  {
+    "uri": "en/10/163335",
+    "id": "163335",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray apparatus for medical purposes",
+    "harm": {
+      "id": "0001429",
+      "title": "163335 - X-ray apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5952775"
+    }
+  },
+  {
+    "uri": "en/10/119532381",
+    "id": "119532381",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray apparatus for veterinary use",
+    "harm": {
+      "id": "0066166",
+      "title": "119532381 - X-ray apparatus for veterinary use",
+      "conceptLink": "/ec2/concept/6002369"
+    }
+  },
+  {
+    "uri": "en/10/29393596",
+    "id": "29393596",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray appliances for dental and medical use",
+    "harm": {
+      "id": "0055927",
+      "title": "29393596 - X-ray appliances for dental and medical use",
+      "conceptLink": "/ec2/concept/5997301"
+    }
+  },
+  {
+    "uri": "en/10/119532384",
+    "id": "119532384",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray CT scanners",
+    "harm": {
+      "id": "0008041",
+      "title": "119532384 - X-ray CT scanners",
+      "conceptLink": "/ec2/concept/5958817"
+    }
+  },
+  {
+    "uri": "en/10/405782",
+    "id": "405782",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray diagnostic apparatus",
+    "harm": {
+      "id": "0039857",
+      "title": "405782 - X-ray diagnostic apparatus",
+      "conceptLink": "/ec2/concept/5987898"
+    }
+  },
+  {
+    "uri": "en/10/721172",
+    "id": "721172",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film frames for dental use",
+    "harm": {
+      "id": "0043018",
+      "title": "721172 - X-ray film frames for dental use",
+      "conceptLink": "/ec2/concept/5990777"
+    }
+  },
+  {
+    "uri": "en/10/721185",
+    "id": "721185",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film frames for medical use",
+    "harm": {
+      "id": "0031415",
+      "title": "721185 - X-ray film frames for medical use",
+      "conceptLink": "/ec2/concept/5980226"
+    }
+  },
+  {
+    "uri": "en/10/721198",
+    "id": "721198",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film frames for surgical use",
+    "harm": {
+      "id": "0019989",
+      "title": "721198 - X-ray film frames for surgical use",
+      "conceptLink": "/ec2/concept/5969750"
+    }
+  },
+  {
+    "uri": "en/10/721211",
+    "id": "721211",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film frames for veterinary use",
+    "harm": {
+      "id": "0014152",
+      "title": "721211 - X-ray film frames for veterinary use",
+      "conceptLink": "/ec2/concept/5964411"
+    }
+  },
+  {
+    "uri": "en/10/721224",
+    "id": "721224",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film holders for dental use",
+    "harm": {
+      "id": "0006384",
+      "title": "721224 - X-ray film holders for dental use",
+      "conceptLink": "/ec2/concept/5957303"
+    }
+  },
+  {
+    "uri": "en/10/721237",
+    "id": "721237",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film holders for medical use",
+    "harm": {
+      "id": "0041099",
+      "title": "721237 - X-ray film holders for medical use",
+      "conceptLink": "/ec2/concept/5989033"
+    }
+  },
+  {
+    "uri": "en/10/721249",
+    "id": "721249",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film holders for surgical use",
+    "harm": {
+      "id": "0000598",
+      "title": "721249 - X-ray film holders for surgical use",
+      "conceptLink": "/ec2/concept/5952025"
+    }
+  },
+  {
+    "uri": "en/10/721262",
+    "id": "721262",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film holders for veterinary use",
+    "harm": {
+      "id": "0017972",
+      "title": "721262 - X-ray film holders for veterinary use",
+      "conceptLink": "/ec2/concept/5967905"
+    }
+  },
+  {
+    "uri": "en/10/721274",
+    "id": "721274",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film mounts for dental use",
+    "harm": {
+      "id": "0006384",
+      "title": "721274 - X-ray film mounts for dental use",
+      "conceptLink": "/ec2/concept/5957303"
+    }
+  },
+  {
+    "uri": "en/10/721286",
+    "id": "721286",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film mounts for medical use",
+    "harm": {
+      "id": "0041099",
+      "title": "721286 - X-ray film mounts for medical use",
+      "conceptLink": "/ec2/concept/5989033"
+    }
+  },
+  {
+    "uri": "en/10/721299",
+    "id": "721299",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film mounts for surgical use",
+    "harm": {
+      "id": "0000598",
+      "title": "721299 - X-ray film mounts for surgical use",
+      "conceptLink": "/ec2/concept/5952025"
+    }
+  },
+  {
+    "uri": "en/10/721311",
+    "id": "721311",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray film mounts for veterinary use",
+    "harm": {
+      "id": "0017972",
+      "title": "721311 - X-ray film mounts for veterinary use",
+      "conceptLink": "/ec2/concept/5967905"
+    }
+  },
+  {
+    "uri": "en/10/167101",
+    "id": "167101",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray photographs for medical purposes",
+    "harm": {
+      "id": "0071952",
+      "title": "167101 - X-ray photographs for medical purposes",
+      "conceptLink": "/ec2/concept/6008136"
+    }
+  },
+  {
+    "uri": "en/10/721322",
+    "id": "721322",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray scanners for medical use",
+    "harm": {
+      "id": "0029515",
+      "title": "721322 - X-ray scanners for medical use",
+      "conceptLink": "/ec2/concept/5978478"
+    }
+  },
+  {
+    "uri": "en/10/721338",
+    "id": "721338",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray spectroscopy apparatus for medical use",
+    "harm": {
+      "id": "0041100",
+      "title": "721338 - X-ray spectroscopy apparatus for medical use",
+      "conceptLink": "/ec2/concept/5989034"
+    }
+  },
+  {
+    "uri": "en/10/721351",
+    "id": "721351",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray structure analysis instruments for medical use",
+    "harm": {
+      "id": "0023783",
+      "title": "721351 - X-ray structure analysis instruments for medical use",
+      "conceptLink": "/ec2/concept/5973222"
+    }
+  },
+  {
+    "uri": "en/10/167212",
+    "id": "167212",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-ray tubes for medical purposes",
+    "harm": {
+      "id": "0019957",
+      "title": "167212 - X-ray tubes for medical purposes",
+      "conceptLink": "/ec2/concept/5969720"
+    }
+  },
+  {
+    "uri": "en/10/167075",
+    "id": "167075",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-rays (Apparatus and installations for the production of -), for medical purposes",
+    "harm": {
+      "id": "0002543",
+      "title": "167075 - X-rays (Apparatus and installations for the production of -), for medical purposes",
+      "conceptLink": "/ec2/concept/5953778"
+    }
+  },
+  {
+    "uri": "en/10/167240",
+    "id": "167240",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "X-rays (Protection devices against -), for medical purposes",
+    "harm": {
+      "id": "0042984",
+      "title": "167240 - X-rays (Protection devices against -), for medical purposes",
+      "conceptLink": "/ec2/concept/5990748"
+    }
+  },
+  {
+    "uri": "en/10/333596",
+    "id": "333596",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Xysters",
+    "harm": {
+      "id": "0041101",
+      "title": "333596 - Xysters",
+      "conceptLink": "/ec2/concept/5989035"
+    }
+  },
+  {
+    "uri": "en/10/721368",
+    "id": "721368",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Zippers adapted for use as temporary wound closures",
+    "harm": {
+      "id": "0017973",
+      "title": "721368 - Zippers adapted for use as temporary wound closures",
+      "conceptLink": "/ec2/concept/5967906"
+    }
+  },
+  {
+    "uri": "en/10/721367",
+    "id": "721367",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Zips adapted for use as temporary wound closures",
+    "harm": {
+      "id": "0017973",
+      "title": "721367 - Zips adapted for use as temporary wound closures",
+      "conceptLink": "/ec2/concept/5967906"
+    }
+  },
+  {
+    "uri": "en/10/721385",
+    "id": "721385",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Zips for use as temporary wound closures",
+    "harm": {
+      "id": "0017973",
+      "title": "721385 - Zips for use as temporary wound closures",
+      "conceptLink": "/ec2/concept/5967906"
+    }
+  },
+  {
+    "uri": "en/11/721398",
+    "id": "721398",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accelerated ageing furnaces",
+    "harm": {
+      "id": "0023784",
+      "title": "721398 - Accelerated ageing furnaces",
+      "conceptLink": "/ec2/concept/5973223"
+    }
+  },
+  {
+    "uri": "en/11/721410",
+    "id": "721410",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accelerated ion devices [for treating the air]",
+    "harm": {
+      "id": "0000599",
+      "title": "721410 - Accelerated ion devices [for treating the air]",
+      "conceptLink": "/ec2/concept/5952026"
+    }
+  },
+  {
+    "uri": "en/11/112598637",
+    "id": "112598637",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accent lights for indoor use",
+    "harm": {
+      "id": "0060843",
+      "title": "112598637 - Accent lights for indoor use",
+      "conceptLink": "/ec2/concept/6001163"
+    }
+  },
+  {
+    "uri": "en/11/721425",
+    "id": "721425",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accumulation boilers",
+    "harm": {
+      "id": "0017974",
+      "title": "721425 - Accumulation boilers",
+      "conceptLink": "/ec2/concept/5967907"
+    }
+  },
+  {
+    "uri": "en/11/169927",
+    "id": "169927",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accumulators (Heat -)",
+    "harm": {
+      "id": "0029495",
+      "title": "169927 - Accumulators (Heat -)",
+      "conceptLink": "/ec2/concept/5978459"
+    }
+  },
+  {
+    "uri": "en/11/180226",
+    "id": "180226",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Accumulators (Steam -)",
+    "harm": {
+      "id": "0040600",
+      "title": "180226 - Accumulators (Steam -)",
+      "conceptLink": "/ec2/concept/5988580"
+    }
+  },
+  {
+    "uri": "en/11/169979",
+    "id": "169979",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Acetylene burners",
+    "harm": {
+      "id": "0059283",
+      "title": "169979 - Acetylene burners",
+      "conceptLink": "/ec2/concept/6000767"
+    }
+  },
+  {
+    "uri": "en/11/169977",
+    "id": "169977",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Acetylene flares",
+    "harm": {
+      "id": "0059282",
+      "title": "169977 - Acetylene flares",
+      "conceptLink": "/ec2/concept/6000766"
+    }
+  },
+  {
+    "uri": "en/11/170031",
+    "id": "170031",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Acetylene generators",
+    "harm": {
+      "id": "0011406",
+      "title": "170031 - Acetylene generators",
+      "conceptLink": "/ec2/concept/5961895"
+    }
+  },
+  {
+    "uri": "en/11/721437",
+    "id": "721437",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Adjustable coated baffle grease filters [parts of cooker hoods]",
+    "harm": {
+      "id": "0000600",
+      "title": "721437 - Adjustable coated baffle grease filters [parts of cooker hoods]",
+      "conceptLink": "/ec2/concept/5952027"
+    }
+  },
+  {
+    "uri": "en/11/721450",
+    "id": "721450",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Aeolian ventilators",
+    "harm": {
+      "id": "0035296",
+      "title": "721450 - Aeolian ventilators",
+      "conceptLink": "/ec2/concept/5983747"
+    }
+  },
+  {
+    "uri": "en/11/406001",
+    "id": "406001",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Aeration apparatus",
+    "harm": {
+      "id": "0017975",
+      "title": "406001 - Aeration apparatus",
+      "conceptLink": "/ec2/concept/5967908"
+    }
+  },
+  {
+    "uri": "en/11/408744",
+    "id": "408744",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Aerators for faucets [plumbing fittings]",
+    "harm": {
+      "id": "0018388",
+      "title": "408744 - Aerators for faucets [plumbing fittings]",
+      "conceptLink": "/ec2/concept/5968286"
+    }
+  },
+  {
+    "uri": "en/11/721463",
+    "id": "721463",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Afterburners being parts of furnaces",
+    "harm": {
+      "id": "0035297",
+      "title": "721463 - Afterburners being parts of furnaces",
+      "conceptLink": "/ec2/concept/5983748"
+    }
+  },
+  {
+    "uri": "en/11/405797",
+    "id": "405797",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Agricultural irrigation units",
+    "harm": {
+      "id": "0034117",
+      "title": "405797 - Agricultural irrigation units",
+      "conceptLink": "/ec2/concept/5982683"
+    }
+  },
+  {
+    "uri": "en/11/721489",
+    "id": "721489",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air balancing dampers",
+    "harm": {
+      "id": "0035298",
+      "title": "721489 - Air balancing dampers",
+      "conceptLink": "/ec2/concept/5983749"
+    }
+  },
+  {
+    "uri": "en/11/721501",
+    "id": "721501",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air bars for use in dryers",
+    "harm": {
+      "id": "0030989",
+      "title": "721501 - Air bars for use in dryers",
+      "conceptLink": "/ec2/concept/5979836"
+    }
+  },
+  {
+    "uri": "en/11/721512",
+    "id": "721512",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air circulation apparatus",
+    "harm": {
+      "id": "0036827",
+      "title": "721512 - Air circulation apparatus",
+      "conceptLink": "/ec2/concept/5985137"
+    }
+  },
+  {
+    "uri": "en/11/405873",
+    "id": "405873",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cleaning apparatus",
+    "harm": {
+      "id": "0058639",
+      "title": "405873 - Air cleaning apparatus",
+      "conceptLink": "/ec2/concept/6000132"
+    }
+  },
+  {
+    "uri": "en/11/232944707",
+    "id": "232944707",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cleaning apparatus for household purposes",
+    "harm": {
+      "id": "0073382",
+      "title": "232944707 - Air cleaning apparatus for household purposes",
+      "conceptLink": "/ec2/concept/6009555"
+    }
+  },
+  {
+    "uri": "en/11/721524",
+    "id": "721524",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cleaning filters [parts of air cleaning machines or installations]",
+    "harm": {
+      "id": "0036828",
+      "title": "721524 - Air cleaning filters [parts of air cleaning machines or installations]",
+      "conceptLink": "/ec2/concept/5985138"
+    }
+  },
+  {
+    "uri": "en/11/405875",
+    "id": "405875",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cleaning instruments",
+    "harm": {
+      "id": "0058639",
+      "title": "405875 - Air cleaning instruments",
+      "conceptLink": "/ec2/concept/6000132"
+    }
+  },
+  {
+    "uri": "en/11/405874",
+    "id": "405874",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cleansing apparatus",
+    "harm": {
+      "id": "0058639",
+      "title": "405874 - Air cleansing apparatus",
+      "conceptLink": "/ec2/concept/6000132"
+    }
+  },
+  {
+    "uri": "en/11/170232",
+    "id": "170232",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioners",
+    "harm": {
+      "id": "0047208",
+      "title": "170232 - Air conditioners",
+      "conceptLink": "/ec2/concept/5994573"
+    }
+  },
+  {
+    "uri": "en/11/13396697",
+    "id": "13396697",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioners for automobiles",
+    "harm": {
+      "id": "0070286",
+      "title": "13396697 - Air conditioners for automobiles",
+      "conceptLink": "/ec2/concept/6006479"
+    }
+  },
+  {
+    "uri": "en/11/15462556",
+    "id": "15462556",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioners for household purposes",
+    "harm": {
+      "id": "0066230",
+      "title": "15462556 - Air conditioners for household purposes",
+      "conceptLink": "/ec2/concept/6002433"
+    }
+  },
+  {
+    "uri": "en/11/174087",
+    "id": "174087",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioners for vehicles",
+    "harm": {
+      "id": "0058625",
+      "title": "174087 - Air conditioners for vehicles",
+      "conceptLink": "/ec2/concept/6000118"
+    }
+  },
+  {
+    "uri": "en/11/170536",
+    "id": "170536",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning",
+    "harm": {
+      "id": "0047208",
+      "title": "170536 - Air conditioning",
+      "conceptLink": "/ec2/concept/5994573"
+    }
+  },
+  {
+    "uri": "en/11/721558",
+    "id": "721558",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning apparatus for commercial use",
+    "harm": {
+      "id": "0012563",
+      "title": "721558 - Air conditioning apparatus for commercial use",
+      "conceptLink": "/ec2/concept/5962959"
+    }
+  },
+  {
+    "uri": "en/11/721601",
+    "id": "721601",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning apparatus for ships",
+    "harm": {
+      "id": "0023123",
+      "title": "721601 - Air conditioning apparatus for ships",
+      "conceptLink": "/ec2/concept/5972612"
+    }
+  },
+  {
+    "uri": "en/11/2548335",
+    "id": "2548335",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning apparatus for industrial purposes",
+    "harm": {
+      "id": "0025246",
+      "title": "2548335 - Air conditioning apparatus for industrial purposes",
+      "conceptLink": "/ec2/concept/5974573"
+    }
+  },
+  {
+    "uri": "en/11/721583",
+    "id": "721583",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning apparatus for industrial use",
+    "harm": {
+      "id": "0025246",
+      "title": "721583 - Air conditioning apparatus for industrial use",
+      "conceptLink": "/ec2/concept/5974573"
+    }
+  },
+  {
+    "uri": "en/11/119532423",
+    "id": "119532423",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air-conditioning apparatus [for industrial purposes]",
+    "harm": {
+      "id": "0025246",
+      "title": "119532423 - Air-conditioning apparatus [for industrial purposes]",
+      "conceptLink": "/ec2/concept/5974573"
+    }
+  },
+  {
+    "uri": "en/11/119532424",
+    "id": "119532424",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air-conditioning apparatus",
+    "harm": {
+      "id": "0047208",
+      "title": "119532424 - Air-conditioning apparatus",
+      "conceptLink": "/ec2/concept/5994573"
+    }
+  },
+  {
+    "uri": "en/11/170229",
+    "id": "170229",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning apparatus",
+    "harm": {
+      "id": "0047208",
+      "title": "170229 - Air conditioning apparatus",
+      "conceptLink": "/ec2/concept/5994573"
+    }
+  },
+  {
+    "uri": "en/11/22222231",
+    "id": "22222231",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning devices",
+    "harm": {
+      "id": "0047208",
+      "title": "22222231 - Air conditioning devices",
+      "conceptLink": "/ec2/concept/5994573"
+    }
+  },
+  {
+    "uri": "en/11/173267",
+    "id": "173267",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning fans",
+    "harm": {
+      "id": "0040599",
+      "title": "173267 - Air conditioning fans",
+      "conceptLink": "/ec2/concept/5988579"
+    }
+  },
+  {
+    "uri": "en/11/170353",
+    "id": "170353",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning filters",
+    "harm": {
+      "id": "0006275",
+      "title": "170353 - Air conditioning filters",
+      "conceptLink": "/ec2/concept/5957202"
+    }
+  },
+  {
+    "uri": "en/11/721614",
+    "id": "721614",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning for data processing rooms",
+    "harm": {
+      "id": "0011460",
+      "title": "721614 - Air conditioning for data processing rooms",
+      "conceptLink": "/ec2/concept/5961941"
+    }
+  },
+  {
+    "uri": "en/11/721627",
+    "id": "721627",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning for use in transportation",
+    "harm": {
+      "id": "0028805",
+      "title": "721627 - Air conditioning for use in transportation",
+      "conceptLink": "/ec2/concept/5977835"
+    }
+  },
+  {
+    "uri": "en/11/721640",
+    "id": "721640",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for agricultural use",
+    "harm": {
+      "id": "0005736",
+      "title": "721640 - Air conditioning installations for agricultural use",
+      "conceptLink": "/ec2/concept/5956710"
+    }
+  },
+  {
+    "uri": "en/11/721559",
+    "id": "721559",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for commercial use",
+    "harm": {
+      "id": "0012563",
+      "title": "721559 - Air conditioning installations for commercial use",
+      "conceptLink": "/ec2/concept/5962959"
+    }
+  },
+  {
+    "uri": "en/11/174091",
+    "id": "174091",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for cars",
+    "harm": {
+      "id": "0070286",
+      "title": "174091 - Air conditioning installations for cars",
+      "conceptLink": "/ec2/concept/6006479"
+    }
+  },
+  {
+    "uri": "en/11/120893990",
+    "id": "120893990",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for household purposes",
+    "harm": {
+      "id": "0066230",
+      "title": "120893990 - Air conditioning installations for household purposes",
+      "conceptLink": "/ec2/concept/6002433"
+    }
+  },
+  {
+    "uri": "en/11/110827420",
+    "id": "110827420",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for industrial purposes",
+    "harm": {
+      "id": "0070979",
+      "title": "110827420 - Air conditioning installations for industrial purposes",
+      "conceptLink": "/ec2/concept/6007171"
+    }
+  },
+  {
+    "uri": "en/11/131040640",
+    "id": "131040640",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations for vehicles",
+    "harm": {
+      "id": "0058625",
+      "title": "131040640 - Air conditioning installations for vehicles",
+      "conceptLink": "/ec2/concept/6000118"
+    }
+  },
+  {
+    "uri": "en/11/7581938",
+    "id": "7581938",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air-conditioning installations for vehicles",
+    "harm": {
+      "id": "0058625",
+      "title": "7581938 - Air-conditioning installations for vehicles",
+      "conceptLink": "/ec2/concept/6000118"
+    }
+  },
+  {
+    "uri": "en/11/119532426",
+    "id": "119532426",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air-conditioning installations",
+    "harm": {
+      "id": "0047193",
+      "title": "119532426 - Air-conditioning installations",
+      "conceptLink": "/ec2/concept/5994558"
+    }
+  },
+  {
+    "uri": "en/11/170535",
+    "id": "170535",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning installations",
+    "harm": {
+      "id": "0047193",
+      "title": "170535 - Air conditioning installations",
+      "conceptLink": "/ec2/concept/5994558"
+    }
+  },
+  {
+    "uri": "en/11/405809",
+    "id": "405809",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air conditioning panels for use in walk-in coolers",
+    "harm": {
+      "id": "0043836",
+      "title": "405809 - Air conditioning panels for use in walk-in coolers",
+      "conceptLink": "/ec2/concept/5991529"
+    }
+  },
+  {
+    "uri": "en/11/721652",
+    "id": "721652",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air control dampers",
+    "harm": {
+      "id": "0012564",
+      "title": "721652 - Air control dampers",
+      "conceptLink": "/ec2/concept/5962960"
+    }
+  },
+  {
+    "uri": "en/11/170230",
+    "id": "170230",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air cooling apparatus",
+    "harm": {
+      "id": "0047235",
+      "title": "170230 - Air cooling apparatus",
+      "conceptLink": "/ec2/concept/5994600"
+    }
+  },
+  {
+    "uri": "en/11/721664",
+    "id": "721664",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air curtains",
+    "harm": {
+      "id": "0001000",
+      "title": "721664 - Air curtains",
+      "conceptLink": "/ec2/concept/5952386"
+    }
+  },
+  {
+    "uri": "en/11/137613670",
+    "id": "137613670",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air curtains for ventilation",
+    "harm": {
+      "id": "0060875",
+      "title": "137613670 - Air curtains for ventilation",
+      "conceptLink": "/ec2/concept/6001195"
+    }
+  },
+  {
+    "uri": "en/11/406566",
+    "id": "406566",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air dehumidifiers",
+    "harm": {
+      "id": "0035588",
+      "title": "406566 - Air dehumidifiers",
+      "conceptLink": "/ec2/concept/5984011"
+    }
+  },
+  {
+    "uri": "en/11/170231",
+    "id": "170231",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air deodorising apparatus",
+    "harm": {
+      "id": "0012566",
+      "title": "170231 - Air deodorising apparatus",
+      "conceptLink": "/ec2/concept/5962962"
+    }
+  },
+  {
+    "uri": "en/11/406002",
+    "id": "406002",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Air distribution units",
+    "harm": {
+      "id": "0041479",
+      "title": "406002 - Air distribution units",
+      "conceptLink": "/ec2/concept/5989381"
+    }
+  }
+]

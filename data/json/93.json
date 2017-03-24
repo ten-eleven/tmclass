@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/90103",
+    "id": "90103",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Blood for medical purposes",
+    "harm": {
+      "id": "0036090",
+      "title": "90103 - Blood for medical purposes",
+      "conceptLink": "/ec2/concept/5984464"
+    }
+  },
+  {
+    "uri": "en/5/89690",
+    "id": "89690",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Blood plasma",
+    "harm": {
+      "id": "0037035",
+      "title": "89690 - Blood plasma",
+      "conceptLink": "/ec2/concept/5985329"
+    }
+  },
+  {
+    "uri": "en/5/664545",
+    "id": "664545",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Blood protein fractions",
+    "harm": {
+      "id": "0015813",
+      "title": "664545 - Blood protein fractions",
+      "conceptLink": "/ec2/concept/5965941"
+    }
+  },
+  {
+    "uri": "en/5/382956",
+    "id": "382956",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Blood substitutes",
+    "harm": {
+      "id": "0027770",
+      "title": "382956 - Blood substitutes",
+      "conceptLink": "/ec2/concept/5976874"
+    }
+  },
+  {
+    "uri": "en/5/664561",
+    "id": "664561",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Blood tonics",
+    "harm": {
+      "id": "0027345",
+      "title": "664561 - Blood tonics",
+      "conceptLink": "/ec2/concept/5976475"
+    }
+  },
+  {
+    "uri": "en/5/664574",
+    "id": "664574",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Body creams [medicated]",
+    "harm": {
+      "id": "0009988",
+      "title": "664574 - Body creams [medicated]",
+      "conceptLink": "/ec2/concept/5960600"
+    }
+  },
+  {
+    "uri": "en/5/119523490",
+    "id": "119523490",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bonding and primer materials for dental purposes",
+    "harm": {
+      "id": "0055449",
+      "title": "119523490 - Bonding and primer materials for dental purposes",
+      "conceptLink": "/ec2/concept/5996851"
+    }
+  },
+  {
+    "uri": "en/5/382970",
+    "id": "382970",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone cement for medical purposes",
+    "harm": {
+      "id": "0004690",
+      "title": "382970 - Bone cement for medical purposes",
+      "conceptLink": "/ec2/concept/5955749"
+    }
+  },
+  {
+    "uri": "en/5/58243396",
+    "id": "58243396",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone cement for surgical and orthopedic purposes",
+    "harm": {
+      "id": "0018784",
+      "title": "58243396 - Bone cement for surgical and orthopedic purposes",
+      "conceptLink": "/ec2/concept/5968662"
+    }
+  },
+  {
+    "uri": "en/5/92974",
+    "id": "92974",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone cement for surgical and orthopaedic purposes",
+    "harm": {
+      "id": "0018784",
+      "title": "92974 - Bone cement for surgical and orthopaedic purposes",
+      "conceptLink": "/ec2/concept/5968662"
+    }
+  },
+  {
+    "uri": "en/5/664589",
+    "id": "664589",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone cements for orthopaedic purposes",
+    "harm": {
+      "id": "0044634",
+      "title": "664589 - Bone cements for orthopaedic purposes",
+      "conceptLink": "/ec2/concept/5992266"
+    }
+  },
+  {
+    "uri": "en/5/664603",
+    "id": "664603",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone cements for surgical purposes",
+    "harm": {
+      "id": "0027346",
+      "title": "664603 - Bone cements for surgical purposes",
+      "conceptLink": "/ec2/concept/5976476"
+    }
+  },
+  {
+    "uri": "en/5/318141",
+    "id": "318141",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone fillers consisting of living materials",
+    "harm": {
+      "id": "0003100",
+      "title": "318141 - Bone fillers consisting of living materials",
+      "conceptLink": "/ec2/concept/5954287"
+    }
+  },
+  {
+    "uri": "en/5/119523494",
+    "id": "119523494",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone growth media consisting of biological materials for medical purposes",
+    "harm": {
+      "id": "0055450",
+      "title": "119523494 - Bone growth media consisting of biological materials for medical purposes",
+      "conceptLink": "/ec2/concept/5996852"
+    }
+  },
+  {
+    "uri": "en/5/119523499",
+    "id": "119523499",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bone void fillers consisting of natural materials",
+    "harm": {
+      "id": "0050852",
+      "title": "119523499 - Bone void fillers consisting of natural materials",
+      "conceptLink": "/ec2/concept/5996216"
+    }
+  },
+  {
+    "uri": "en/5/83277",
+    "id": "83277",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bouillons for bacteriological cultures",
+    "harm": {
+      "id": "0000532",
+      "title": "83277 - Bouillons for bacteriological cultures",
+      "conceptLink": "/ec2/concept/5951965"
+    }
+  },
+  {
+    "uri": "en/5/119523502",
+    "id": "119523502",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bowel evacuant preparations",
+    "harm": {
+      "id": "0058815",
+      "title": "119523502 - Bowel evacuant preparations",
+      "conceptLink": "/ec2/concept/6000306"
+    }
+  },
+  {
+    "uri": "en/5/85994",
+    "id": "85994",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bread (Diabetic -) adapted for medical use",
+    "harm": {
+      "id": "0002861",
+      "title": "85994 - Bread (Diabetic -) adapted for medical use",
+      "conceptLink": "/ec2/concept/5954061"
+    }
+  },
+  {
+    "uri": "en/5/664618",
+    "id": "664618",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bread products for diabetics",
+    "harm": {
+      "id": "0044635",
+      "title": "664618 - Bread products for diabetics",
+      "conceptLink": "/ec2/concept/5992267"
+    }
+  },
+  {
+    "uri": "en/5/92718",
+    "id": "92718",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Breast-nursing pads",
+    "harm": {
+      "id": "0024536",
+      "title": "92718 - Breast-nursing pads",
+      "conceptLink": "/ec2/concept/5973915"
+    }
+  },
+  {
+    "uri": "en/5/65003959",
+    "id": "65003959",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Breath-freshening chewing gum for medicinal purposes",
+    "harm": {
+      "id": "0055452",
+      "title": "65003959 - Breath-freshening chewing gum for medicinal purposes",
+      "conceptLink": "/ec2/concept/5996854"
+    }
+  },
+  {
+    "uri": "en/5/9321053",
+    "id": "9321053",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Breath refreshers for medical purposes",
+    "harm": {
+      "id": "0055451",
+      "title": "9321053 - Breath refreshers for medical purposes",
+      "conceptLink": "/ec2/concept/5996853"
+    }
+  },
+  {
+    "uri": "en/5/91158",
+    "id": "91158",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bromine for pharmaceutical purposes",
+    "harm": {
+      "id": "0008051",
+      "title": "91158 - Bromine for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5958826"
+    }
+  },
+  {
+    "uri": "en/5/93121",
+    "id": "93121",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bronchial dilators",
+    "harm": {
+      "id": "0007142",
+      "title": "93121 - Bronchial dilators",
+      "conceptLink": "/ec2/concept/5957991"
+    }
+  },
+  {
+    "uri": "en/5/93120",
+    "id": "93120",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bronchodilating preparations",
+    "harm": {
+      "id": "0007142",
+      "title": "93120 - Bronchodilating preparations",
+      "conceptLink": "/ec2/concept/5957991"
+    }
+  },
+  {
+    "uri": "en/5/83404",
+    "id": "83404",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Bunion pads",
+    "harm": {
+      "id": "0057508",
+      "title": "83404 - Bunion pads",
+      "conceptLink": "/ec2/concept/5999014"
+    }
+  },
+  {
+    "uri": "en/5/13137915",
+    "id": "13137915",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Burn dressings",
+    "harm": {
+      "id": "0055453",
+      "title": "13137915 - Burn dressings",
+      "conceptLink": "/ec2/concept/5996855"
+    }
+  },
+  {
+    "uri": "en/5/16905479",
+    "id": "16905479",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Burn relief medication",
+    "harm": {
+      "id": "0065368",
+      "title": "16905479 - Burn relief medication",
+      "conceptLink": "/ec2/concept/6001571"
+    }
+  },
+  {
+    "uri": "en/5/84059",
+    "id": "84059",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Burns (Preparations for the treatment of -)",
+    "harm": {
+      "id": "0036111",
+      "title": "84059 - Burns (Preparations for the treatment of -)",
+      "conceptLink": "/ec2/concept/5984485"
+    }
+  },
+  {
+    "uri": "en/5/119523514",
+    "id": "119523514",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "By-products of the processing of cereals for medical purposes",
+    "harm": {
+      "id": "0065355",
+      "title": "119523514 - By-products of the processing of cereals for medical purposes",
+      "conceptLink": "/ec2/concept/6001558"
+    }
+  },
+  {
+    "uri": "en/5/91471",
+    "id": "91471",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "By-products of the processing of cereals for dietetic or medical purposes",
+    "harm": {
+      "id": "0024559",
+      "title": "91471 - By-products of the processing of cereals for dietetic or medical purposes",
+      "conceptLink": "/ec2/concept/5973938"
+    }
+  },
+  {
+    "uri": "en/5/88690",
+    "id": "88690",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cachets for pharmaceutical purposes",
+    "harm": {
+      "id": "0047445",
+      "title": "88690 - Cachets for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5994756"
+    }
+  },
+  {
+    "uri": "en/5/84080",
+    "id": "84080",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cachou for pharmaceutical purposes",
+    "harm": {
+      "id": "0018810",
+      "title": "84080 - Cachou for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5968685"
+    }
+  },
+  {
+    "uri": "en/5/21912605",
+    "id": "21912605",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Caffeine preparations for stimulative use",
+    "harm": {
+      "id": "0065246",
+      "title": "21912605 - Caffeine preparations for stimulative use",
+      "conceptLink": "/ec2/concept/6001449"
+    }
+  },
+  {
+    "uri": "en/5/120825010",
+    "id": "120825010",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Caffeine preparations for medical use",
+    "harm": {
+      "id": "0065367",
+      "title": "120825010 - Caffeine preparations for medical use",
+      "conceptLink": "/ec2/concept/6001570"
+    }
+  },
+  {
+    "uri": "en/5/382989",
+    "id": "382989",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calamine lotion",
+    "harm": {
+      "id": "0045053",
+      "title": "382989 - Calamine lotion",
+      "conceptLink": "/ec2/concept/5992646"
+    }
+  },
+  {
+    "uri": "en/5/119523518",
+    "id": "119523518",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calcium channel blockers",
+    "harm": {
+      "id": "0065461",
+      "title": "119523518 - Calcium channel blockers",
+      "conceptLink": "/ec2/concept/6001664"
+    }
+  },
+  {
+    "uri": "en/5/119523519",
+    "id": "119523519",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calcium fortified candy",
+    "harm": {
+      "id": "0065336",
+      "title": "119523519 - Calcium fortified candy",
+      "conceptLink": "/ec2/concept/6001539"
+    }
+  },
+  {
+    "uri": "en/5/51692377",
+    "id": "51692377",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calcium supplements",
+    "harm": {
+      "id": "0065486",
+      "title": "51692377 - Calcium supplements",
+      "conceptLink": "/ec2/concept/6001689"
+    }
+  },
+  {
+    "uri": "en/5/84104",
+    "id": "84104",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Callouses (Preparations for -)",
+    "harm": {
+      "id": "0007167",
+      "title": "84104 - Callouses (Preparations for -)",
+      "conceptLink": "/ec2/concept/5958011"
+    }
+  },
+  {
+    "uri": "en/5/84132",
+    "id": "84132",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calomel",
+    "harm": {
+      "id": "0030295",
+      "title": "84132 - Calomel",
+      "conceptLink": "/ec2/concept/5979197"
+    }
+  },
+  {
+    "uri": "en/5/233479031",
+    "id": "233479031",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Calomel [fungicide]",
+    "harm": {
+      "id": "0030295",
+      "title": "233479031 - Calomel [fungicide]",
+      "conceptLink": "/ec2/concept/5979197"
+    }
+  },
+  {
+    "uri": "en/5/91230",
+    "id": "91230",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Camphor for medical purposes",
+    "harm": {
+      "id": "0013911",
+      "title": "91230 - Camphor for medical purposes",
+      "conceptLink": "/ec2/concept/5964186"
+    }
+  },
+  {
+    "uri": "en/5/91207",
+    "id": "91207",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Camphor oil for medical purposes",
+    "harm": {
+      "id": "0002356",
+      "title": "91207 - Camphor oil for medical purposes",
+      "conceptLink": "/ec2/concept/5953609"
+    }
+  },
+  {
+    "uri": "en/5/91252",
+    "id": "91252",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Candy for medical purposes",
+    "harm": {
+      "id": "0018813",
+      "title": "91252 - Candy for medical purposes",
+      "conceptLink": "/ec2/concept/5968688"
+    }
+  },
+  {
+    "uri": "en/5/83955",
+    "id": "83955",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Candy, medicated",
+    "harm": {
+      "id": "0059286",
+      "title": "83955 - Candy, medicated",
+      "conceptLink": "/ec2/concept/6000770"
+    }
+  },
+  {
+    "uri": "en/5/84157",
+    "id": "84157",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cantharides (Powder of -)",
+    "harm": {
+      "id": "0041870",
+      "title": "84157 - Cantharides (Powder of -)",
+      "conceptLink": "/ec2/concept/5989735"
+    }
+  },
+  {
+    "uri": "en/5/124893373",
+    "id": "124893373",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Capillary lotions (Medicated -)",
+    "harm": {
+      "id": "0004261",
+      "title": "124893373 - Capillary lotions (Medicated -)",
+      "conceptLink": "/ec2/concept/5955349"
+    }
+  },
+  {
+    "uri": "en/5/136147176",
+    "id": "136147176",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Capillary stabilizing agents for medical purposes",
+    "harm": {
+      "id": "0050485",
+      "title": "136147176 - Capillary stabilizing agents for medical purposes",
+      "conceptLink": "/ec2/concept/5995854"
+    }
+  },
+  {
+    "uri": "en/5/84227",
+    "id": "84227",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Capsules for medicines",
+    "harm": {
+      "id": "0042739",
+      "title": "84227 - Capsules for medicines",
+      "conceptLink": "/ec2/concept/5990526"
+    }
+  },
+  {
+    "uri": "en/5/88691",
+    "id": "88691",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Capsules for pharmaceutical purposes",
+    "harm": {
+      "id": "0047445",
+      "title": "88691 - Capsules for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5994756"
+    }
+  },
+  {
+    "uri": "en/5/114373090",
+    "id": "114373090",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Capsules sold empty for pharmaceuticals",
+    "harm": {
+      "id": "0055454",
+      "title": "114373090 - Capsules sold empty for pharmaceuticals",
+      "conceptLink": "/ec2/concept/5996856"
+    }
+  },
+  {
+    "uri": "en/5/136225583",
+    "id": "136225583",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Car air fresheners",
+    "harm": {
+      "id": "0074027",
+      "title": "136225583 - Car air fresheners",
+      "conceptLink": "/ec2/concept/6011263"
+    }
+  },
+  {
+    "uri": "en/5/6341592",
+    "id": "6341592",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Car deodorants",
+    "harm": {
+      "id": "0065366",
+      "title": "6341592 - Car deodorants",
+      "conceptLink": "/ec2/concept/6001569"
+    }
+  },
+  {
+    "uri": "en/5/91276",
+    "id": "91276",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Carbolineum [parasiticide]",
+    "harm": {
+      "id": "0018814",
+      "title": "91276 - Carbolineum [parasiticide]",
+      "conceptLink": "/ec2/concept/5968689"
+    }
+  },
+  {
+    "uri": "en/5/33064688",
+    "id": "33064688",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cardiotonics",
+    "harm": {
+      "id": "0055455",
+      "title": "33064688 - Cardiotonics",
+      "conceptLink": "/ec2/concept/5996857"
+    }
+  },
+  {
+    "uri": "en/5/136011014",
+    "id": "136011014",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cardiovascular agents for medical purposes",
+    "harm": {
+      "id": "0055172",
+      "title": "136011014 - Cardiovascular agents for medical purposes",
+      "conceptLink": "/ec2/concept/5996609"
+    }
+  },
+  {
+    "uri": "en/5/5886670",
+    "id": "5886670",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cardiovascular pharmaceutical preparations",
+    "harm": {
+      "id": "0045054",
+      "title": "5886670 - Cardiovascular pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/5992647"
+    }
+  },
+  {
+    "uri": "en/5/383006",
+    "id": "383006",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cardiovascular pharmaceuticals",
+    "harm": {
+      "id": "0045054",
+      "title": "383006 - Cardiovascular pharmaceuticals",
+      "conceptLink": "/ec2/concept/5992647"
+    }
+  },
+  {
+    "uri": "en/5/664643",
+    "id": "664643",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cardiovascular preparations",
+    "harm": {
+      "id": "0033092",
+      "title": "664643 - Cardiovascular preparations",
+      "conceptLink": "/ec2/concept/5981741"
+    }
+  },
+  {
+    "uri": "en/5/40337530",
+    "id": "40337530",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Carpet deodorizers",
+    "harm": {
+      "id": "0060340",
+      "title": "40337530 - Carpet deodorizers",
+      "conceptLink": "/ec2/concept/5998316"
+    }
+  },
+  {
+    "uri": "en/5/909721",
+    "id": "909721",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Casein dietary supplements",
+    "harm": {
+      "id": "0014766",
+      "title": "909721 - Casein dietary supplements",
+      "conceptLink": "/ec2/concept/5964975"
+    }
+  },
+  {
+    "uri": "en/5/119523535",
+    "id": "119523535",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Castor oil [for medical purposes]",
+    "harm": {
+      "id": "0012120",
+      "title": "119523535 - Castor oil [for medical purposes]",
+      "conceptLink": "/ec2/concept/5962557"
+    }
+  },
+  {
+    "uri": "en/5/92048",
+    "id": "92048",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Castor oil for medical purposes",
+    "harm": {
+      "id": "0012120",
+      "title": "92048 - Castor oil for medical purposes",
+      "conceptLink": "/ec2/concept/5962557"
+    }
+  },
+  {
+    "uri": "en/5/664661",
+    "id": "664661",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cat repellents",
+    "harm": {
+      "id": "0038892",
+      "title": "664661 - Cat repellents",
+      "conceptLink": "/ec2/concept/5987014"
+    }
+  },
+  {
+    "uri": "en/5/83753",
+    "id": "83753",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cattle washes",
+    "harm": {
+      "id": "0008357",
+      "title": "83753 - Cattle washes",
+      "conceptLink": "/ec2/concept/5959101"
+    }
+  },
+  {
+    "uri": "en/5/233478746",
+    "id": "233478746",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cattle washes [insecticides]",
+    "harm": {
+      "id": "0008357",
+      "title": "233478746 - Cattle washes [insecticides]",
+      "conceptLink": "/ec2/concept/5959101"
+    }
+  },
+  {
+    "uri": "en/5/85458",
+    "id": "85458",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Caustic pencils",
+    "harm": {
+      "id": "0037289",
+      "title": "85458 - Caustic pencils",
+      "conceptLink": "/ec2/concept/5985553"
+    }
+  },
+  {
+    "uri": "en/5/91427",
+    "id": "91427",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Caustics for pharmaceutical purposes",
+    "harm": {
+      "id": "0001410",
+      "title": "91427 - Caustics for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5952757"
+    }
+  },
+  {
+    "uri": "en/5/92753",
+    "id": "92753",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cedar wood for use as an insect repellent",
+    "harm": {
+      "id": "0041854",
+      "title": "92753 - Cedar wood for use as an insect repellent",
+      "conceptLink": "/ec2/concept/5989722"
+    }
+  },
+  {
+    "uri": "en/5/120825014",
+    "id": "120825014",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cells for medical use",
+    "harm": {
+      "id": "0065365",
+      "title": "120825014 - Cells for medical use",
+      "conceptLink": "/ec2/concept/6001568"
+    }
+  },
+  {
+    "uri": "en/5/136011015",
+    "id": "136011015",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellular function activating agents for medical purposes",
+    "harm": {
+      "id": "0055173",
+      "title": "136011015 - Cellular function activating agents for medical purposes",
+      "conceptLink": "/ec2/concept/5996610"
+    }
+  },
+  {
+    "uri": "en/5/91405",
+    "id": "91405",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellulose esters for pharmaceutical purposes",
+    "harm": {
+      "id": "0041874",
+      "title": "91405 - Cellulose esters for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5989739"
+    }
+  },
+  {
+    "uri": "en/5/91448",
+    "id": "91448",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellulose ethers for pharmaceutical purposes",
+    "harm": {
+      "id": "0012980",
+      "title": "91448 - Cellulose ethers for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5963337"
+    }
+  },
+  {
+    "uri": "en/5/664673",
+    "id": "664673",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellulose for pharmaceutical purposes",
+    "harm": {
+      "id": "0038893",
+      "title": "664673 - Cellulose for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5987015"
+    }
+  },
+  {
+    "uri": "en/5/664687",
+    "id": "664687",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellulose wadding for medical purposes",
+    "harm": {
+      "id": "0034187",
+      "title": "664687 - Cellulose wadding for medical purposes",
+      "conceptLink": "/ec2/concept/5982746"
+    }
+  },
+  {
+    "uri": "en/5/664703",
+    "id": "664703",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellulose wool for medical use",
+    "harm": {
+      "id": "0034188",
+      "title": "664703 - Cellulose wool for medical use",
+      "conceptLink": "/ec2/concept/5982747"
+    }
+  },
+  {
+    "uri": "en/5/233996590",
+    "id": "233996590",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cellwall synthesis inhibitors",
+    "harm": {
+      "id": "0074073",
+      "title": "233996590 - Cellwall synthesis inhibitors",
+      "conceptLink": "/ec2/concept/6011309"
+    }
+  },
+  {
+    "uri": "en/5/84704",
+    "id": "84704",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cement for animal hooves",
+    "harm": {
+      "id": "0005950",
+      "title": "84704 - Cement for animal hooves",
+      "conceptLink": "/ec2/concept/5956901"
+    }
+  },
+  {
+    "uri": "en/5/664716",
+    "id": "664716",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cements for dental prostheses",
+    "harm": {
+      "id": "0022737",
+      "title": "664716 - Cements for dental prostheses",
+      "conceptLink": "/ec2/concept/5972268"
+    }
+  },
+  {
+    "uri": "en/5/119523546",
+    "id": "119523546",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Central nervous system stimulants",
+    "harm": {
+      "id": "0065460",
+      "title": "119523546 - Central nervous system stimulants",
+      "conceptLink": "/ec2/concept/6001663"
+    }
+  },
+  {
+    "uri": "en/5/120894619",
+    "id": "120894619",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ceramic alloys used in dental crowns",
+    "harm": {
+      "id": "0065241",
+      "title": "120894619 - Ceramic alloys used in dental crowns",
+      "conceptLink": "/ec2/concept/6001444"
+    }
+  },
+  {
+    "uri": "en/5/119523547",
+    "id": "119523547",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ceramic materials for dental use for fillings",
+    "harm": {
+      "id": "0055456",
+      "title": "119523547 - Ceramic materials for dental use for fillings",
+      "conceptLink": "/ec2/concept/5996858"
+    }
+  },
+  {
+    "uri": "en/5/120865567",
+    "id": "120865567",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ceramic materials for use as dental fillings",
+    "harm": {
+      "id": "0055456",
+      "title": "120865567 - Ceramic materials for use as dental fillings",
+      "conceptLink": "/ec2/concept/5996858"
+    }
+  },
+  {
+    "uri": "en/5/664729",
+    "id": "664729",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ceramics for the construction of dentures",
+    "harm": {
+      "id": "0011069",
+      "title": "664729 - Ceramics for the construction of dentures",
+      "conceptLink": "/ec2/concept/5961589"
+    }
+  },
+  {
+    "uri": "en/5/664742",
+    "id": "664742",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ceramics for use in the reconstruction of dentures",
+    "harm": {
+      "id": "0016877",
+      "title": "664742 - Ceramics for use in the reconstruction of dentures",
+      "conceptLink": "/ec2/concept/5966917"
+    }
+  },
+  {
+    "uri": "en/5/136153150",
+    "id": "136153150",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Cerebral hemorrhage prophylactic agents",
+    "harm": {
+      "id": "0055457",
+      "title": "136153150 - Cerebral hemorrhage prophylactic agents",
+      "conceptLink": "/ec2/concept/5996859"
+    }
+  },
+  {
+    "uri": "en/5/83925",
+    "id": "83925",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Charcoal for pharmaceutical purposes",
+    "harm": {
+      "id": "0001407",
+      "title": "83925 - Charcoal for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5952754"
+    }
+  },
+  {
+    "uri": "en/5/233403112",
+    "id": "233403112",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical adjuvants for medical purposes",
+    "harm": {
+      "id": "0073508",
+      "title": "233403112 - Chemical adjuvants for medical purposes",
+      "conceptLink": "/ec2/concept/6009681"
+    }
+  },
+  {
+    "uri": "en/5/85063",
+    "id": "85063",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical conductors for electrocardiograph electrodes",
+    "harm": {
+      "id": "0043036",
+      "title": "85063 - Chemical conductors for electrocardiograph electrodes",
+      "conceptLink": "/ec2/concept/5990795"
+    }
+  },
+  {
+    "uri": "en/5/85065",
+    "id": "85065",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical conductors for use with electrocardiograph electrodes",
+    "harm": {
+      "id": "0043036",
+      "title": "85065 - Chemical conductors for use with electrocardiograph electrodes",
+      "conceptLink": "/ec2/concept/5990795"
+    }
+  },
+  {
+    "uri": "en/5/85064",
+    "id": "85064",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical conductors for use with ekg electrodes",
+    "harm": {
+      "id": "0043036",
+      "title": "85064 - Chemical conductors for use with ekg electrodes",
+      "conceptLink": "/ec2/concept/5990795"
+    }
+  },
+  {
+    "uri": "en/5/664769",
+    "id": "664769",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical contraceptive sponges",
+    "harm": {
+      "id": "0005340",
+      "title": "664769 - Chemical contraceptive sponges",
+      "conceptLink": "/ec2/concept/5956345"
+    }
+  },
+  {
+    "uri": "en/5/5614993",
+    "id": "5614993",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical contraceptives",
+    "harm": {
+      "id": "0025682",
+      "title": "5614993 - Chemical contraceptives",
+      "conceptLink": "/ec2/concept/5974971"
+    }
+  },
+  {
+    "uri": "en/5/664787",
+    "id": "664787",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical diagnostic reagents for medical use",
+    "harm": {
+      "id": "0023953",
+      "title": "664787 - Chemical diagnostic reagents for medical use",
+      "conceptLink": "/ec2/concept/5973381"
+    }
+  },
+  {
+    "uri": "en/5/664805",
+    "id": "664805",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical pessaries",
+    "harm": {
+      "id": "0034189",
+      "title": "664805 - Chemical pessaries",
+      "conceptLink": "/ec2/concept/5982748"
+    }
+  },
+  {
+    "uri": "en/5/664871",
+    "id": "664871",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical preparations for use in dna analysis [medical]",
+    "harm": {
+      "id": "0034190",
+      "title": "664871 - Chemical preparations for use in dna analysis [medical]",
+      "conceptLink": "/ec2/concept/5982749"
+    }
+  },
+  {
+    "uri": "en/5/664829",
+    "id": "664829",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical preparations for pesticidal purposes",
+    "harm": {
+      "id": "0005341",
+      "title": "664829 - Chemical preparations for pesticidal purposes",
+      "conceptLink": "/ec2/concept/5956346"
+    }
+  },
+  {
+    "uri": "en/5/664859",
+    "id": "664859",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical preparations for the diagnosis of diabetes",
+    "harm": {
+      "id": "0011070",
+      "title": "664859 - Chemical preparations for the diagnosis of diabetes",
+      "conceptLink": "/ec2/concept/5961590"
+    }
+  },
+  {
+    "uri": "en/5/73329376",
+    "id": "73329376",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Chemical preparations for sanitary purposes",
+    "harm": {
+      "id": "0055458",
+      "title": "73329376 - Chemical preparations for sanitary purposes",
+      "conceptLink": "/ec2/concept/5996860"
+    }
+  }
+]

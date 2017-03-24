@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/636441",
+    "id": "636441",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium oxide, other than for medical use",
+    "harm": {
+      "id": "0010655",
+      "title": "636441 - Magnesium oxide, other than for medical use",
+      "conceptLink": "/ec2/concept/5961211"
+    }
+  },
+  {
+    "uri": "en/1/311237",
+    "id": "311237",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium oxides",
+    "harm": {
+      "id": "0015662",
+      "title": "311237 - Magnesium oxides",
+      "conceptLink": "/ec2/concept/5965798"
+    }
+  },
+  {
+    "uri": "en/1/904981",
+    "id": "904981",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium phosphate",
+    "harm": {
+      "id": "0006135",
+      "title": "904981 - Magnesium phosphate",
+      "conceptLink": "/ec2/concept/5957076"
+    }
+  },
+  {
+    "uri": "en/1/636455",
+    "id": "636455",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium preparations for use in manufacture",
+    "harm": {
+      "id": "0028022",
+      "title": "636455 - Magnesium preparations for use in manufacture",
+      "conceptLink": "/ec2/concept/5977103"
+    }
+  },
+  {
+    "uri": "en/1/311261",
+    "id": "311261",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium salts",
+    "harm": {
+      "id": "0015663",
+      "title": "311261 - Magnesium salts",
+      "conceptLink": "/ec2/concept/5965799"
+    }
+  },
+  {
+    "uri": "en/1/636467",
+    "id": "636467",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium salts for industrial use",
+    "harm": {
+      "id": "0018185",
+      "title": "636467 - Magnesium salts for industrial use",
+      "conceptLink": "/ec2/concept/5968102"
+    }
+  },
+  {
+    "uri": "en/1/636479",
+    "id": "636479",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium salts for use in manufacturing processes",
+    "harm": {
+      "id": "0029730",
+      "title": "636479 - Magnesium salts for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5978681"
+    }
+  },
+  {
+    "uri": "en/1/904982",
+    "id": "904982",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium silicofluoride",
+    "harm": {
+      "id": "0040830",
+      "title": "904982 - Magnesium silicofluoride",
+      "conceptLink": "/ec2/concept/5988789"
+    }
+  },
+  {
+    "uri": "en/1/636493",
+    "id": "636493",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulfate for industrial use",
+    "harm": {
+      "id": "0029731",
+      "title": "636493 - Magnesium sulfate for industrial use",
+      "conceptLink": "/ec2/concept/5978682"
+    }
+  },
+  {
+    "uri": "en/1/636507",
+    "id": "636507",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulfate for use in paper sizing",
+    "harm": {
+      "id": "0018186",
+      "title": "636507 - Magnesium sulfate for use in paper sizing",
+      "conceptLink": "/ec2/concept/5968103"
+    }
+  },
+  {
+    "uri": "en/1/636521",
+    "id": "636521",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulfate for use in textile dyeing",
+    "harm": {
+      "id": "0000804",
+      "title": "636521 - Magnesium sulfate for use in textile dyeing",
+      "conceptLink": "/ec2/concept/5952213"
+    }
+  },
+  {
+    "uri": "en/1/311274",
+    "id": "311274",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulphate",
+    "harm": {
+      "id": "0044503",
+      "title": "311274 - Magnesium sulphate",
+      "conceptLink": "/ec2/concept/5992144"
+    }
+  },
+  {
+    "uri": "en/1/636494",
+    "id": "636494",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulphate for industrial use",
+    "harm": {
+      "id": "0029731",
+      "title": "636494 - Magnesium sulphate for industrial use",
+      "conceptLink": "/ec2/concept/5978682"
+    }
+  },
+  {
+    "uri": "en/1/636522",
+    "id": "636522",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnesium sulphate for use in textile dyeing",
+    "harm": {
+      "id": "0000804",
+      "title": "636522 - Magnesium sulphate for use in textile dyeing",
+      "conceptLink": "/ec2/concept/5952213"
+    }
+  },
+  {
+    "uri": "en/1/636534",
+    "id": "636534",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnetic ferro-alloy",
+    "harm": {
+      "id": "0029732",
+      "title": "636534 - Magnetic ferro-alloy",
+      "conceptLink": "/ec2/concept/5978683"
+    }
+  },
+  {
+    "uri": "en/1/21138",
+    "id": "21138",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnetic fluid for industrial purposes",
+    "harm": {
+      "id": "0000346",
+      "title": "21138 - Magnetic fluid for industrial purposes",
+      "conceptLink": "/ec2/concept/5951800"
+    }
+  },
+  {
+    "uri": "en/1/636546",
+    "id": "636546",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Magnetic iron oxide",
+    "harm": {
+      "id": "0023994",
+      "title": "636546 - Magnetic iron oxide",
+      "conceptLink": "/ec2/concept/5973420"
+    }
+  },
+  {
+    "uri": "en/1/1600",
+    "id": "1600",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Malt albumen",
+    "harm": {
+      "id": "0017543",
+      "title": "1600 - Malt albumen",
+      "conceptLink": "/ec2/concept/5967516"
+    }
+  },
+  {
+    "uri": "en/1/636558",
+    "id": "636558",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Malt albumen [raw material]",
+    "harm": {
+      "id": "0041297",
+      "title": "636558 - Malt albumen [raw material]",
+      "conceptLink": "/ec2/concept/5989220"
+    }
+  },
+  {
+    "uri": "en/1/636573",
+    "id": "636573",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Maltitol",
+    "harm": {
+      "id": "0012378",
+      "title": "636573 - Maltitol",
+      "conceptLink": "/ec2/concept/5962794"
+    }
+  },
+  {
+    "uri": "en/1/636587",
+    "id": "636587",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Maltodextrins for use in manufacture",
+    "harm": {
+      "id": "0006591",
+      "title": "636587 - Maltodextrins for use in manufacture",
+      "conceptLink": "/ec2/concept/5957490"
+    }
+  },
+  {
+    "uri": "en/1/13917",
+    "id": "13917",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganate",
+    "harm": {
+      "id": "0025651",
+      "title": "13917 - Manganate",
+      "conceptLink": "/ec2/concept/5974943"
+    }
+  },
+  {
+    "uri": "en/1/136007039",
+    "id": "136007039",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese acetate",
+    "harm": {
+      "id": "0073462",
+      "title": "136007039 - Manganese acetate",
+      "conceptLink": "/ec2/concept/6009635"
+    }
+  },
+  {
+    "uri": "en/1/311287",
+    "id": "311287",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese alum",
+    "harm": {
+      "id": "0009842",
+      "title": "311287 - Manganese alum",
+      "conceptLink": "/ec2/concept/5960464"
+    }
+  },
+  {
+    "uri": "en/1/311300",
+    "id": "311300",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese carbonate",
+    "harm": {
+      "id": "0032939",
+      "title": "311300 - Manganese carbonate",
+      "conceptLink": "/ec2/concept/5981598"
+    }
+  },
+  {
+    "uri": "en/1/311313",
+    "id": "311313",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese chloride",
+    "harm": {
+      "id": "0027187",
+      "title": "311313 - Manganese chloride",
+      "conceptLink": "/ec2/concept/5976329"
+    }
+  },
+  {
+    "uri": "en/1/4907",
+    "id": "4907",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese dioxide",
+    "harm": {
+      "id": "0021567",
+      "title": "4907 - Manganese dioxide",
+      "conceptLink": "/ec2/concept/5971188"
+    }
+  },
+  {
+    "uri": "en/1/636600",
+    "id": "636600",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese dioxide catalysts",
+    "harm": {
+      "id": "0006592",
+      "title": "636600 - Manganese dioxide catalysts",
+      "conceptLink": "/ec2/concept/5957491"
+    }
+  },
+  {
+    "uri": "en/1/4906",
+    "id": "4906",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese dioxides",
+    "harm": {
+      "id": "0021567",
+      "title": "4906 - Manganese dioxides",
+      "conceptLink": "/ec2/concept/5971188"
+    }
+  },
+  {
+    "uri": "en/1/311325",
+    "id": "311325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese fertilizer",
+    "harm": {
+      "id": "0021568",
+      "title": "311325 - Manganese fertilizer",
+      "conceptLink": "/ec2/concept/5971189"
+    }
+  },
+  {
+    "uri": "en/1/311339",
+    "id": "311339",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese metaphosphate",
+    "harm": {
+      "id": "0044504",
+      "title": "311339 - Manganese metaphosphate",
+      "conceptLink": "/ec2/concept/5992145"
+    }
+  },
+  {
+    "uri": "en/1/311352",
+    "id": "311352",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese nitrate",
+    "harm": {
+      "id": "0015664",
+      "title": "311352 - Manganese nitrate",
+      "conceptLink": "/ec2/concept/5965800"
+    }
+  },
+  {
+    "uri": "en/1/311365",
+    "id": "311365",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manganese phosphate",
+    "harm": {
+      "id": "0004815",
+      "title": "311365 - Manganese phosphate",
+      "conceptLink": "/ec2/concept/5955864"
+    }
+  },
+  {
+    "uri": "en/1/13938",
+    "id": "13938",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mangrove bark for industrial purposes",
+    "harm": {
+      "id": "0019970",
+      "title": "13938 - Mangrove bark for industrial purposes",
+      "conceptLink": "/ec2/concept/5969733"
+    }
+  },
+  {
+    "uri": "en/1/636613",
+    "id": "636613",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mannitol",
+    "harm": {
+      "id": "0018187",
+      "title": "636613 - Mannitol",
+      "conceptLink": "/ec2/concept/5968104"
+    }
+  },
+  {
+    "uri": "en/1/119618489",
+    "id": "119618489",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mannose",
+    "harm": {
+      "id": "0055247",
+      "title": "119618489 - Mannose",
+      "conceptLink": "/ec2/concept/5996677"
+    }
+  },
+  {
+    "uri": "en/1/10190",
+    "id": "10190",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manure",
+    "harm": {
+      "id": "0058757",
+      "title": "10190 - Manure",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/10181",
+    "id": "10181",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manure for agriculture",
+    "harm": {
+      "id": "0058757",
+      "title": "10181 - Manure for agriculture",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/636624",
+    "id": "636624",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manure in liquid form",
+    "harm": {
+      "id": "0023995",
+      "title": "636624 - Manure in liquid form",
+      "conceptLink": "/ec2/concept/5973421"
+    }
+  },
+  {
+    "uri": "en/1/636639",
+    "id": "636639",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manure in solid form",
+    "harm": {
+      "id": "0033749",
+      "title": "636639 - Manure in solid form",
+      "conceptLink": "/ec2/concept/5982343"
+    }
+  },
+  {
+    "uri": "en/1/10191",
+    "id": "10191",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures",
+    "harm": {
+      "id": "0058757",
+      "title": "10191 - Manures",
+      "conceptLink": "/ec2/concept/6000248"
+    }
+  },
+  {
+    "uri": "en/1/488606",
+    "id": "488606",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures containing antioxidants",
+    "harm": {
+      "id": "0011067",
+      "title": "488606 - Manures containing antioxidants",
+      "conceptLink": "/ec2/concept/5961587"
+    }
+  },
+  {
+    "uri": "en/1/636654",
+    "id": "636654",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures for flowerpot plants",
+    "harm": {
+      "id": "0039545",
+      "title": "636654 - Manures for flowerpot plants",
+      "conceptLink": "/ec2/concept/5987612"
+    }
+  },
+  {
+    "uri": "en/1/636666",
+    "id": "636666",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures for use on grass or grassland",
+    "harm": {
+      "id": "0010657",
+      "title": "636666 - Manures for use on grass or grassland",
+      "conceptLink": "/ec2/concept/5961213"
+    }
+  },
+  {
+    "uri": "en/1/636682",
+    "id": "636682",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures made from sea components",
+    "harm": {
+      "id": "0028025",
+      "title": "636682 - Manures made from sea components",
+      "conceptLink": "/ec2/concept/5977106"
+    }
+  },
+  {
+    "uri": "en/1/636694",
+    "id": "636694",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures obtained by the treatment of refuse with earthworms",
+    "harm": {
+      "id": "0039547",
+      "title": "636694 - Manures obtained by the treatment of refuse with earthworms",
+      "conceptLink": "/ec2/concept/5987613"
+    }
+  },
+  {
+    "uri": "en/1/488622",
+    "id": "488622",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Manures with added microorganisms",
+    "harm": {
+      "id": "0022734",
+      "title": "488622 - Manures with added microorganisms",
+      "conceptLink": "/ec2/concept/5972266"
+    }
+  },
+  {
+    "uri": "en/1/311378",
+    "id": "311378",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Marine fertilizer",
+    "harm": {
+      "id": "0039435",
+      "title": "311378 - Marine fertilizer",
+      "conceptLink": "/ec2/concept/5987509"
+    }
+  },
+  {
+    "uri": "en/1/377961",
+    "id": "377961",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Masking compounds for use in the manufacture of semiconductors",
+    "harm": {
+      "id": "0015606",
+      "title": "377961 - Masking compounds for use in the manufacture of semiconductors",
+      "conceptLink": "/ec2/concept/5965746"
+    }
+  },
+  {
+    "uri": "en/1/905112",
+    "id": "905112",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Masking compounds for use in the manufacture of printed circuit boards",
+    "harm": {
+      "id": "0004482",
+      "title": "905112 - Masking compounds for use in the manufacture of printed circuit boards",
+      "conceptLink": "/ec2/concept/5955555"
+    }
+  },
+  {
+    "uri": "en/1/13771",
+    "id": "13771",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Masonry preservatives, except paints and oils",
+    "harm": {
+      "id": "0014133",
+      "title": "13771 - Masonry preservatives, except paints and oils",
+      "conceptLink": "/ec2/concept/5964393"
+    }
+  },
+  {
+    "uri": "en/1/13768",
+    "id": "13768",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Masonry preservatives [other than paints and oils]",
+    "harm": {
+      "id": "0014133",
+      "title": "13768 - Masonry preservatives [other than paints and oils]",
+      "conceptLink": "/ec2/concept/5964393"
+    }
+  },
+  {
+    "uri": "en/1/7154",
+    "id": "7154",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastic for leather",
+    "harm": {
+      "id": "0042102",
+      "title": "7154 - Mastic for leather",
+      "conceptLink": "/ec2/concept/5989951"
+    }
+  },
+  {
+    "uri": "en/1/119618119",
+    "id": "119618119",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastic for tires",
+    "harm": {
+      "id": "0023497",
+      "title": "119618119 - Mastic for tires",
+      "conceptLink": "/ec2/concept/5972963"
+    }
+  },
+  {
+    "uri": "en/1/7203",
+    "id": "7203",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastic for tires [tyres]",
+    "harm": {
+      "id": "0023497",
+      "title": "7203 - Mastic for tires [tyres]",
+      "conceptLink": "/ec2/concept/5972963"
+    }
+  },
+  {
+    "uri": "en/1/7208",
+    "id": "7208",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastic for tyres",
+    "harm": {
+      "id": "0023497",
+      "title": "7208 - Mastic for tyres",
+      "conceptLink": "/ec2/concept/5972963"
+    }
+  },
+  {
+    "uri": "en/1/12498",
+    "id": "12498",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastic (Grafting -) for trees",
+    "harm": {
+      "id": "0037242",
+      "title": "12498 - Mastic (Grafting -) for trees",
+      "conceptLink": "/ec2/concept/5985507"
+    }
+  },
+  {
+    "uri": "en/1/636719",
+    "id": "636719",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastics for use in bonding",
+    "harm": {
+      "id": "0045294",
+      "title": "636719 - Mastics for use in bonding",
+      "conceptLink": "/ec2/concept/5992872"
+    }
+  },
+  {
+    "uri": "en/1/636735",
+    "id": "636735",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mastics for use in welding",
+    "harm": {
+      "id": "0010658",
+      "title": "636735 - Mastics for use in welding",
+      "conceptLink": "/ec2/concept/5961214"
+    }
+  },
+  {
+    "uri": "en/1/11814",
+    "id": "11814",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Meat (Chemical preparations for smoking -)",
+    "harm": {
+      "id": "0030003",
+      "title": "11814 - Meat (Chemical preparations for smoking -)",
+      "conceptLink": "/ec2/concept/5978925"
+    }
+  },
+  {
+    "uri": "en/1/18379",
+    "id": "18379",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Meat tenderizers for industrial purposes",
+    "harm": {
+      "id": "0019124",
+      "title": "18379 - Meat tenderizers for industrial purposes",
+      "conceptLink": "/ec2/concept/5968971"
+    }
+  },
+  {
+    "uri": "en/1/377973",
+    "id": "377973",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Meat tenderizers [preparations]",
+    "harm": {
+      "id": "0038692",
+      "title": "377973 - Meat tenderizers [preparations]",
+      "conceptLink": "/ec2/concept/5986838"
+    }
+  },
+  {
+    "uri": "en/1/636747",
+    "id": "636747",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for cell culture for use in non-medical research laboratories",
+    "harm": {
+      "id": "0022358",
+      "title": "636747 - Media for cell culture for use in non-medical research laboratories",
+      "conceptLink": "/ec2/concept/5971919"
+    }
+  },
+  {
+    "uri": "en/1/636762",
+    "id": "636762",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for cell culture for use in the biotechnological industry",
+    "harm": {
+      "id": "0022359",
+      "title": "636762 - Media for cell culture for use in the biotechnological industry",
+      "conceptLink": "/ec2/concept/5971920"
+    }
+  },
+  {
+    "uri": "en/1/636776",
+    "id": "636776",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for recording visual images [sensitised films]",
+    "harm": {
+      "id": "0045295",
+      "title": "636776 - Media for recording visual images [sensitised films]",
+      "conceptLink": "/ec2/concept/5992873"
+    }
+  },
+  {
+    "uri": "en/1/636790",
+    "id": "636790",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for use in chromatography [not medical]",
+    "harm": {
+      "id": "0045296",
+      "title": "636790 - Media for use in chromatography [not medical]",
+      "conceptLink": "/ec2/concept/5992874"
+    }
+  },
+  {
+    "uri": "en/1/636805",
+    "id": "636805",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for use in offset lithographic printing",
+    "harm": {
+      "id": "0001786",
+      "title": "636805 - Media for use in offset lithographic printing",
+      "conceptLink": "/ec2/concept/5953091"
+    }
+  },
+  {
+    "uri": "en/1/636818",
+    "id": "636818",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Media for use in separation techniques [not medical]",
+    "harm": {
+      "id": "0036477",
+      "title": "636818 - Media for use in separation techniques [not medical]",
+      "conceptLink": "/ec2/concept/5984814"
+    }
+  },
+  {
+    "uri": "en/1/311390",
+    "id": "311390",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Melamine",
+    "harm": {
+      "id": "0004816",
+      "title": "311390 - Melamine",
+      "conceptLink": "/ec2/concept/5955865"
+    }
+  },
+  {
+    "uri": "en/1/311406",
+    "id": "311406",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Melamine resin",
+    "harm": {
+      "id": "0001787",
+      "title": "311406 - Melamine resin",
+      "conceptLink": "/ec2/concept/5953092"
+    }
+  },
+  {
+    "uri": "en/1/311407",
+    "id": "311407",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Melamine resins",
+    "harm": {
+      "id": "0001787",
+      "title": "311407 - Melamine resins",
+      "conceptLink": "/ec2/concept/5953092"
+    }
+  },
+  {
+    "uri": "en/1/311423",
+    "id": "311423",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercaptan",
+    "harm": {
+      "id": "0010532",
+      "title": "311423 - Mercaptan",
+      "conceptLink": "/ec2/concept/5961097"
+    }
+  },
+  {
+    "uri": "en/1/311436",
+    "id": "311436",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercuric chloride",
+    "harm": {
+      "id": "0022243",
+      "title": "311436 - Mercuric chloride",
+      "conceptLink": "/ec2/concept/5971814"
+    }
+  },
+  {
+    "uri": "en/1/14045",
+    "id": "14045",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercuric oxide",
+    "harm": {
+      "id": "0034774",
+      "title": "14045 - Mercuric oxide",
+      "conceptLink": "/ec2/concept/5983271"
+    }
+  },
+  {
+    "uri": "en/1/13999",
+    "id": "13999",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury",
+    "harm": {
+      "id": "0031398",
+      "title": "13999 - Mercury",
+      "conceptLink": "/ec2/concept/5980209"
+    }
+  },
+  {
+    "uri": "en/1/138392847",
+    "id": "138392847",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury chloride",
+    "harm": {
+      "id": "0022243",
+      "title": "138392847 - Mercury chloride",
+      "conceptLink": "/ec2/concept/5971814"
+    }
+  },
+  {
+    "uri": "en/1/311449",
+    "id": "311449",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury nitrate",
+    "harm": {
+      "id": "0045161",
+      "title": "311449 - Mercury nitrate",
+      "conceptLink": "/ec2/concept/5992746"
+    }
+  },
+  {
+    "uri": "en/1/14044",
+    "id": "14044",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury oxides",
+    "harm": {
+      "id": "0034774",
+      "title": "14044 - Mercury oxides",
+      "conceptLink": "/ec2/concept/5983271"
+    }
+  },
+  {
+    "uri": "en/1/14021",
+    "id": "14021",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury salts",
+    "harm": {
+      "id": "0014134",
+      "title": "14021 - Mercury salts",
+      "conceptLink": "/ec2/concept/5964394"
+    }
+  },
+  {
+    "uri": "en/1/311462",
+    "id": "311462",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury sulphate",
+    "harm": {
+      "id": "0045162",
+      "title": "311462 - Mercury sulphate",
+      "conceptLink": "/ec2/concept/5992747"
+    }
+  },
+  {
+    "uri": "en/1/311475",
+    "id": "311475",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Mercury sulphide",
+    "harm": {
+      "id": "0010533",
+      "title": "311475 - Mercury sulphide",
+      "conceptLink": "/ec2/concept/5961098"
+    }
+  },
+  {
+    "uri": "en/1/14154",
+    "id": "14154",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal annealing preparations",
+    "harm": {
+      "id": "0071807",
+      "title": "14154 - Metal annealing preparations",
+      "conceptLink": "/ec2/concept/6007994"
+    }
+  },
+  {
+    "uri": "en/1/311487",
+    "id": "311487",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal chlorides",
+    "harm": {
+      "id": "0004817",
+      "title": "311487 - Metal chlorides",
+      "conceptLink": "/ec2/concept/5955866"
+    }
+  },
+  {
+    "uri": "en/1/636848",
+    "id": "636848",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal clad calcium silicon alloys for use in the steelmaking industry",
+    "harm": {
+      "id": "0030682",
+      "title": "636848 - Metal clad calcium silicon alloys for use in the steelmaking industry",
+      "conceptLink": "/ec2/concept/5979557"
+    }
+  },
+  {
+    "uri": "en/1/636876",
+    "id": "636876",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal conditioners",
+    "harm": {
+      "id": "0001788",
+      "title": "636876 - Metal conditioners",
+      "conceptLink": "/ec2/concept/5953093"
+    }
+  },
+  {
+    "uri": "en/1/636889",
+    "id": "636889",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal drawing compounds",
+    "harm": {
+      "id": "0019188",
+      "title": "636889 - Metal drawing compounds",
+      "conceptLink": "/ec2/concept/5969031"
+    }
+  },
+  {
+    "uri": "en/1/1727",
+    "id": "1727",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal earths",
+    "harm": {
+      "id": "0059127",
+      "title": "1727 - Metal earths",
+      "conceptLink": "/ec2/concept/6000618"
+    }
+  },
+  {
+    "uri": "en/1/636917",
+    "id": "636917",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal etchants",
+    "harm": {
+      "id": "0019190",
+      "title": "636917 - Metal etchants",
+      "conceptLink": "/ec2/concept/5969032"
+    }
+  },
+  {
+    "uri": "en/1/636931",
+    "id": "636931",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal exchange resins",
+    "harm": {
+      "id": "0042239",
+      "title": "636931 - Metal exchange resins",
+      "conceptLink": "/ec2/concept/5990075"
+    }
+  },
+  {
+    "uri": "en/1/636944",
+    "id": "636944",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal hardening compositions",
+    "harm": {
+      "id": "0007533",
+      "title": "636944 - Metal hardening compositions",
+      "conceptLink": "/ec2/concept/5958352"
+    }
+  },
+  {
+    "uri": "en/1/9416",
+    "id": "9416",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal hardening preparations",
+    "harm": {
+      "id": "0037287",
+      "title": "9416 - Metal hardening preparations",
+      "conceptLink": "/ec2/concept/5985551"
+    }
+  },
+  {
+    "uri": "en/1/136634684",
+    "id": "136634684",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal oxide powders for industrial purposes",
+    "harm": {
+      "id": "0060178",
+      "title": "136634684 - Metal oxide powders for industrial purposes",
+      "conceptLink": "/ec2/concept/5996440"
+    }
+  },
+  {
+    "uri": "en/1/311535",
+    "id": "311535",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal oxides",
+    "harm": {
+      "id": "0042240",
+      "title": "311535 - Metal oxides",
+      "conceptLink": "/ec2/concept/5990076"
+    }
+  },
+  {
+    "uri": "en/1/377987",
+    "id": "377987",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal plating compositions",
+    "harm": {
+      "id": "0004046",
+      "title": "377987 - Metal plating compositions",
+      "conceptLink": "/ec2/concept/5955144"
+    }
+  },
+  {
+    "uri": "en/1/636957",
+    "id": "636957",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal preservatives [chemical]",
+    "harm": {
+      "id": "0042241",
+      "title": "636957 - Metal preservatives [chemical]",
+      "conceptLink": "/ec2/concept/5990077"
+    }
+  },
+  {
+    "uri": "en/1/636977",
+    "id": "636977",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal salts",
+    "harm": {
+      "id": "0003244",
+      "title": "636977 - Metal salts",
+      "conceptLink": "/ec2/concept/5954417"
+    }
+  },
+  {
+    "uri": "en/1/311502",
+    "id": "311502",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal tempering preparations [tempering chemicals]",
+    "harm": {
+      "id": "0022244",
+      "title": "311502 - Metal tempering preparations [tempering chemicals]",
+      "conceptLink": "/ec2/concept/5971815"
+    }
+  },
+  {
+    "uri": "en/1/14157",
+    "id": "14157",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal tempering preparations",
+    "harm": {
+      "id": "0071808",
+      "title": "14157 - Metal tempering preparations",
+      "conceptLink": "/ec2/concept/6007995"
+    }
+  },
+  {
+    "uri": "en/1/636993",
+    "id": "636993",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal to metal adhesives [other than for stationery or household use]",
+    "harm": {
+      "id": "0004920",
+      "title": "636993 - Metal to metal adhesives [other than for stationery or household use]",
+      "conceptLink": "/ec2/concept/5955964"
+    }
+  },
+  {
+    "uri": "en/1/311518",
+    "id": "311518",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Metal welding flux",
+    "harm": {
+      "id": "0027891",
+      "title": "311518 - Metal welding flux",
+      "conceptLink": "/ec2/concept/5976985"
+    }
+  }
+]

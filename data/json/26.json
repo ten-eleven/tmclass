@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/10481",
+    "id": "10481",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gas purifying preparations",
+    "harm": {
+      "id": "0024854",
+      "title": "10481 - Gas purifying preparations",
+      "conceptLink": "/ec2/concept/5974217"
+    }
+  },
+  {
+    "uri": "en/1/633035",
+    "id": "633035",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gaseous hydrocarbon compounds",
+    "harm": {
+      "id": "0002952",
+      "title": "633035 - Gaseous hydrocarbon compounds",
+      "conceptLink": "/ec2/concept/5954148"
+    }
+  },
+  {
+    "uri": "en/1/633047",
+    "id": "633047",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gaseous hydrocarbons",
+    "harm": {
+      "id": "0026022",
+      "title": "633047 - Gaseous hydrocarbons",
+      "conceptLink": "/ec2/concept/5975284"
+    }
+  },
+  {
+    "uri": "en/1/633061",
+    "id": "633061",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gaseous mixtures for welding purposes",
+    "harm": {
+      "id": "0008673",
+      "title": "633061 - Gaseous mixtures for welding purposes",
+      "conceptLink": "/ec2/concept/5959383"
+    }
+  },
+  {
+    "uri": "en/1/633074",
+    "id": "633074",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for analytical purposes",
+    "harm": {
+      "id": "0031824",
+      "title": "633074 - Gases for analytical purposes",
+      "conceptLink": "/ec2/concept/5980582"
+    }
+  },
+  {
+    "uri": "en/1/633089",
+    "id": "633089",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for carbonizing metals",
+    "harm": {
+      "id": "0043379",
+      "title": "633089 - Gases for carbonizing metals",
+      "conceptLink": "/ec2/concept/5991108"
+    }
+  },
+  {
+    "uri": "en/1/632895",
+    "id": "632895",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for industrial purposes",
+    "harm": {
+      "id": "0018154",
+      "title": "632895 - Gases for industrial purposes",
+      "conceptLink": "/ec2/concept/5968074"
+    }
+  },
+  {
+    "uri": "en/1/632894",
+    "id": "632894",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for industrial use",
+    "harm": {
+      "id": "0018154",
+      "title": "632894 - Gases for industrial use",
+      "conceptLink": "/ec2/concept/5968074"
+    }
+  },
+  {
+    "uri": "en/1/633102",
+    "id": "633102",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for inflating balloons",
+    "harm": {
+      "id": "0026023",
+      "title": "633102 - Gases for inflating balloons",
+      "conceptLink": "/ec2/concept/5975285"
+    }
+  },
+  {
+    "uri": "en/1/633114",
+    "id": "633114",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for laboratory use [other than for medical use]",
+    "harm": {
+      "id": "0020357",
+      "title": "633114 - Gases for laboratory use [other than for medical use]",
+      "conceptLink": "/ec2/concept/5970086"
+    }
+  },
+  {
+    "uri": "en/1/633129",
+    "id": "633129",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for laser cutting",
+    "harm": {
+      "id": "0008674",
+      "title": "633129 - Gases for laser cutting",
+      "conceptLink": "/ec2/concept/5959384"
+    }
+  },
+  {
+    "uri": "en/1/633141",
+    "id": "633141",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for preparatory purposes [industrial]",
+    "harm": {
+      "id": "0014527",
+      "title": "633141 - Gases for preparatory purposes [industrial]",
+      "conceptLink": "/ec2/concept/5964762"
+    }
+  },
+  {
+    "uri": "en/1/633157",
+    "id": "633157",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use as blowing agents",
+    "harm": {
+      "id": "0033049",
+      "title": "633157 - Gases for use as blowing agents",
+      "conceptLink": "/ec2/concept/5981701"
+    }
+  },
+  {
+    "uri": "en/1/633170",
+    "id": "633170",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in agriculture",
+    "harm": {
+      "id": "0015765",
+      "title": "633170 - Gases for use in agriculture",
+      "conceptLink": "/ec2/concept/5965895"
+    }
+  },
+  {
+    "uri": "en/1/633183",
+    "id": "633183",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in air conditioners",
+    "harm": {
+      "id": "0009946",
+      "title": "633183 - Gases for use in air conditioners",
+      "conceptLink": "/ec2/concept/5960558"
+    }
+  },
+  {
+    "uri": "en/1/633196",
+    "id": "633196",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in cutting",
+    "harm": {
+      "id": "0015766",
+      "title": "633196 - Gases for use in cutting",
+      "conceptLink": "/ec2/concept/5965896"
+    }
+  },
+  {
+    "uri": "en/1/633209",
+    "id": "633209",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in dispensing liquids",
+    "harm": {
+      "id": "0004224",
+      "title": "633209 - Gases for use in dispensing liquids",
+      "conceptLink": "/ec2/concept/5955313"
+    }
+  },
+  {
+    "uri": "en/1/915405",
+    "id": "915405",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in flame spraying",
+    "harm": {
+      "id": "0027307",
+      "title": "915405 - Gases for use in flame spraying",
+      "conceptLink": "/ec2/concept/5976441"
+    }
+  },
+  {
+    "uri": "en/1/633222",
+    "id": "633222",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in forestry",
+    "harm": {
+      "id": "0038852",
+      "title": "633222 - Gases for use in forestry",
+      "conceptLink": "/ec2/concept/5986976"
+    }
+  },
+  {
+    "uri": "en/1/633235",
+    "id": "633235",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in horticulture",
+    "harm": {
+      "id": "0038853",
+      "title": "633235 - Gases for use in horticulture",
+      "conceptLink": "/ec2/concept/5986977"
+    }
+  },
+  {
+    "uri": "en/1/633248",
+    "id": "633248",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in metal production",
+    "harm": {
+      "id": "0027308",
+      "title": "633248 - Gases for use in metal production",
+      "conceptLink": "/ec2/concept/5976442"
+    }
+  },
+  {
+    "uri": "en/1/633261",
+    "id": "633261",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in refrigeration systems",
+    "harm": {
+      "id": "0027309",
+      "title": "633261 - Gases for use in refrigeration systems",
+      "conceptLink": "/ec2/concept/5976443"
+    }
+  },
+  {
+    "uri": "en/1/633274",
+    "id": "633274",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in thermal treatment",
+    "harm": {
+      "id": "0004225",
+      "title": "633274 - Gases for use in thermal treatment",
+      "conceptLink": "/ec2/concept/5955314"
+    }
+  },
+  {
+    "uri": "en/1/377814",
+    "id": "377814",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use in welding",
+    "harm": {
+      "id": "0032039",
+      "title": "377814 - Gases for use in welding",
+      "conceptLink": "/ec2/concept/5980777"
+    }
+  },
+  {
+    "uri": "en/1/633287",
+    "id": "633287",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for use with aerosols",
+    "harm": {
+      "id": "0033050",
+      "title": "633287 - Gases for use with aerosols",
+      "conceptLink": "/ec2/concept/5981702"
+    }
+  },
+  {
+    "uri": "en/1/377813",
+    "id": "377813",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases for welding",
+    "harm": {
+      "id": "0032039",
+      "title": "377813 - Gases for welding",
+      "conceptLink": "/ec2/concept/5980777"
+    }
+  },
+  {
+    "uri": "en/1/12081",
+    "id": "12081",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases (Protective -) for welding",
+    "harm": {
+      "id": "0018742",
+      "title": "12081 - Gases (Protective -) for welding",
+      "conceptLink": "/ec2/concept/5968622"
+    }
+  },
+  {
+    "uri": "en/1/12135",
+    "id": "12135",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases (Solidified -) for industrial purposes",
+    "harm": {
+      "id": "0042989",
+      "title": "12135 - Gases (Solidified -) for industrial purposes",
+      "conceptLink": "/ec2/concept/5990752"
+    }
+  },
+  {
+    "uri": "en/1/633300",
+    "id": "633300",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases with heat insulating effects",
+    "harm": {
+      "id": "0027310",
+      "title": "633300 - Gases with heat insulating effects",
+      "conceptLink": "/ec2/concept/5976444"
+    }
+  },
+  {
+    "uri": "en/1/633313",
+    "id": "633313",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gases with sound insulating effects",
+    "harm": {
+      "id": "0032120",
+      "title": "633313 - Gases with sound insulating effects",
+      "conceptLink": "/ec2/concept/5980853"
+    }
+  },
+  {
+    "uri": "en/1/633325",
+    "id": "633325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gasoline additives",
+    "harm": {
+      "id": "0003236",
+      "title": "633325 - Gasoline additives",
+      "conceptLink": "/ec2/concept/5954410"
+    }
+  },
+  {
+    "uri": "en/1/860",
+    "id": "860",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gasoline (Detergent additives to -)",
+    "harm": {
+      "id": "0012372",
+      "title": "860 - Gasoline (Detergent additives to -)",
+      "conceptLink": "/ec2/concept/5962788"
+    }
+  },
+  {
+    "uri": "en/1/633344",
+    "id": "633344",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatin beads for industrial use",
+    "harm": {
+      "id": "0008997",
+      "title": "633344 - Gelatin beads for industrial use",
+      "conceptLink": "/ec2/concept/5959692"
+    }
+  },
+  {
+    "uri": "en/1/12194",
+    "id": "12194",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatine for industrial purposes",
+    "harm": {
+      "id": "0008239",
+      "title": "12194 - Gelatine for industrial purposes",
+      "conceptLink": "/ec2/concept/5958994"
+    }
+  },
+  {
+    "uri": "en/1/12171",
+    "id": "12171",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatine for photographic purposes",
+    "harm": {
+      "id": "0019966",
+      "title": "12171 - Gelatine for photographic purposes",
+      "conceptLink": "/ec2/concept/5969729"
+    }
+  },
+  {
+    "uri": "en/1/903983",
+    "id": "903983",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatine for the manufacture of printing paper",
+    "harm": {
+      "id": "0034682",
+      "title": "903983 - Gelatine for the manufacture of printing paper",
+      "conceptLink": "/ec2/concept/5983187"
+    }
+  },
+  {
+    "uri": "en/1/310780",
+    "id": "310780",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatine glue",
+    "harm": {
+      "id": "0045343",
+      "title": "310780 - Gelatine glue",
+      "conceptLink": "/ec2/concept/5992919"
+    }
+  },
+  {
+    "uri": "en/1/137871777",
+    "id": "137871777",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatine glue for industrial purposes",
+    "harm": {
+      "id": "0045343",
+      "title": "137871777 - Gelatine glue for industrial purposes",
+      "conceptLink": "/ec2/concept/5992919"
+    }
+  },
+  {
+    "uri": "en/1/12195",
+    "id": "12195",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelatines for industrial use",
+    "harm": {
+      "id": "0008239",
+      "title": "12195 - Gelatines for industrial use",
+      "conceptLink": "/ec2/concept/5958994"
+    }
+  },
+  {
+    "uri": "en/1/633356",
+    "id": "633356",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gelling agents",
+    "harm": {
+      "id": "0043675",
+      "title": "633356 - Gelling agents",
+      "conceptLink": "/ec2/concept/5991382"
+    }
+  },
+  {
+    "uri": "en/1/505612",
+    "id": "505612",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gels (Electrophoresis -), other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0041586",
+      "title": "505612 - Gels (Electrophoresis -), other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5989486"
+    }
+  },
+  {
+    "uri": "en/1/908406",
+    "id": "908406",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Genes of seeds for agricultural production",
+    "harm": {
+      "id": "0023909",
+      "title": "908406 - Genes of seeds for agricultural production",
+      "conceptLink": "/ec2/concept/5973339"
+    }
+  },
+  {
+    "uri": "en/1/138394431",
+    "id": "138394431",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Genetic identity tests comprised of reagents for non-medical purposes",
+    "harm": {
+      "id": "0032889",
+      "title": "138394431 - Genetic identity tests comprised of reagents for non-medical purposes",
+      "conceptLink": "/ec2/concept/5981550"
+    }
+  },
+  {
+    "uri": "en/1/377840",
+    "id": "377840",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Genetic identity tests comprised of reagents",
+    "harm": {
+      "id": "0032889",
+      "title": "377840 - Genetic identity tests comprised of reagents",
+      "conceptLink": "/ec2/concept/5981550"
+    }
+  },
+  {
+    "uri": "en/1/310793",
+    "id": "310793",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Germination inhibitors [anti-sprouting agents]",
+    "harm": {
+      "id": "0033815",
+      "title": "310793 - Germination inhibitors [anti-sprouting agents]",
+      "conceptLink": "/ec2/concept/5982407"
+    }
+  },
+  {
+    "uri": "en/1/12249",
+    "id": "12249",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Getters [chemically active substances]",
+    "harm": {
+      "id": "0031392",
+      "title": "12249 - Getters [chemically active substances]",
+      "conceptLink": "/ec2/concept/5980203"
+    }
+  },
+  {
+    "uri": "en/1/13967",
+    "id": "13967",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass-frosting chemicals",
+    "harm": {
+      "id": "0019971",
+      "title": "13967 - Glass-frosting chemicals",
+      "conceptLink": "/ec2/concept/5969734"
+    }
+  },
+  {
+    "uri": "en/1/137766733",
+    "id": "137766733",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass granules for use in swimming pool filters",
+    "harm": {
+      "id": "0073394",
+      "title": "137766733 - Glass granules for use in swimming pool filters",
+      "conceptLink": "/ec2/concept/6009567"
+    }
+  },
+  {
+    "uri": "en/1/9951",
+    "id": "9951",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass (Opacifiers for -)",
+    "harm": {
+      "id": "0026244",
+      "title": "9951 - Glass (Opacifiers for -)",
+      "conceptLink": "/ec2/concept/5975487"
+    }
+  },
+  {
+    "uri": "en/1/17772",
+    "id": "17772",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass (Preparations for preventing the tarnishing of -)",
+    "harm": {
+      "id": "0058905",
+      "title": "17772 - Glass (Preparations for preventing the tarnishing of -)",
+      "conceptLink": "/ec2/concept/6000396"
+    }
+  },
+  {
+    "uri": "en/1/17741",
+    "id": "17741",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass-staining chemicals",
+    "harm": {
+      "id": "0000670",
+      "title": "17741 - Glass-staining chemicals",
+      "conceptLink": "/ec2/concept/5952092"
+    }
+  },
+  {
+    "uri": "en/1/18344",
+    "id": "18344",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glass (Water -) [soluble glass]",
+    "harm": {
+      "id": "0042168",
+      "title": "18344 - Glass (Water -) [soluble glass]",
+      "conceptLink": "/ec2/concept/5990012"
+    }
+  },
+  {
+    "uri": "en/1/492395",
+    "id": "492395",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glaziers' putty",
+    "harm": {
+      "id": "0035739",
+      "title": "492395 - Glaziers' putty",
+      "conceptLink": "/ec2/concept/5984149"
+    }
+  },
+  {
+    "uri": "en/1/492393",
+    "id": "492393",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glazing putty",
+    "harm": {
+      "id": "0035739",
+      "title": "492393 - Glazing putty",
+      "conceptLink": "/ec2/concept/5984149"
+    }
+  },
+  {
+    "uri": "en/1/6010",
+    "id": "6010",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glazings (Ceramic -)",
+    "harm": {
+      "id": "0042736",
+      "title": "6010 - Glazings (Ceramic -)",
+      "conceptLink": "/ec2/concept/5990523"
+    }
+  },
+  {
+    "uri": "en/1/136150296",
+    "id": "136150296",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gliadin for industrial purposes",
+    "harm": {
+      "id": "0056894",
+      "title": "136150296 - Gliadin for industrial purposes",
+      "conceptLink": "/ec2/concept/5998167"
+    }
+  },
+  {
+    "uri": "en/1/136150297",
+    "id": "136150297",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Globulin for industrial purposes",
+    "harm": {
+      "id": "0056895",
+      "title": "136150297 - Globulin for industrial purposes",
+      "conceptLink": "/ec2/concept/5998168"
+    }
+  },
+  {
+    "uri": "en/1/633371",
+    "id": "633371",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluconic acid",
+    "harm": {
+      "id": "0026335",
+      "title": "633371 - Gluconic acid",
+      "conceptLink": "/ec2/concept/5975570"
+    }
+  },
+  {
+    "uri": "en/1/633384",
+    "id": "633384",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluconic salts",
+    "harm": {
+      "id": "0014843",
+      "title": "633384 - Gluconic salts",
+      "conceptLink": "/ec2/concept/5965046"
+    }
+  },
+  {
+    "uri": "en/1/20490",
+    "id": "20490",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucose for industrial purposes",
+    "harm": {
+      "id": "0008805",
+      "title": "20490 - Glucose for industrial purposes",
+      "conceptLink": "/ec2/concept/5959507"
+    }
+  },
+  {
+    "uri": "en/1/908528",
+    "id": "908528",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucose for the food industry",
+    "harm": {
+      "id": "0018100",
+      "title": "908528 - Glucose for the food industry",
+      "conceptLink": "/ec2/concept/5968023"
+    }
+  },
+  {
+    "uri": "en/1/633397",
+    "id": "633397",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucose powder for industrial purposes",
+    "harm": {
+      "id": "0037918",
+      "title": "633397 - Glucose powder for industrial purposes",
+      "conceptLink": "/ec2/concept/5986122"
+    }
+  },
+  {
+    "uri": "en/1/633410",
+    "id": "633410",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucose preparations for industrial purposes",
+    "harm": {
+      "id": "0043676",
+      "title": "633410 - Glucose preparations for industrial purposes",
+      "conceptLink": "/ec2/concept/5991383"
+    }
+  },
+  {
+    "uri": "en/1/633423",
+    "id": "633423",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucose syrups for industrial purposes",
+    "harm": {
+      "id": "0011696",
+      "title": "633423 - Glucose syrups for industrial purposes",
+      "conceptLink": "/ec2/concept/5962160"
+    }
+  },
+  {
+    "uri": "en/1/12354",
+    "id": "12354",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glucosides",
+    "harm": {
+      "id": "0011697",
+      "title": "12354 - Glucosides",
+      "conceptLink": "/ec2/concept/5962161"
+    }
+  },
+  {
+    "uri": "en/1/60",
+    "id": "60",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glue for industrial purposes",
+    "harm": {
+      "id": "0072789",
+      "title": "60 - Glue for industrial purposes",
+      "conceptLink": "/ec2/concept/6008964"
+    }
+  },
+  {
+    "uri": "en/1/59",
+    "id": "59",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glues for industrial purposes",
+    "harm": {
+      "id": "0072789",
+      "title": "59 - Glues for industrial purposes",
+      "conceptLink": "/ec2/concept/6008964"
+    }
+  },
+  {
+    "uri": "en/1/62",
+    "id": "62",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glues for use in industry",
+    "harm": {
+      "id": "0072789",
+      "title": "62 - Glues for use in industry",
+      "conceptLink": "/ec2/concept/6008964"
+    }
+  },
+  {
+    "uri": "en/1/633436",
+    "id": "633436",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutamate for industrial use",
+    "harm": {
+      "id": "0005945",
+      "title": "633436 - Glutamate for industrial use",
+      "conceptLink": "/ec2/concept/5956897"
+    }
+  },
+  {
+    "uri": "en/1/904102",
+    "id": "904102",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutamic acid as raw materials for use in the manufacture of cosmetics",
+    "harm": {
+      "id": "0017071",
+      "title": "904102 - Glutamic acid as raw materials for use in the manufacture of cosmetics",
+      "conceptLink": "/ec2/concept/5967087"
+    }
+  },
+  {
+    "uri": "en/1/136150302",
+    "id": "136150302",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutamic acid for industrial purposes",
+    "harm": {
+      "id": "0060003",
+      "title": "136150302 - Glutamic acid for industrial purposes",
+      "conceptLink": "/ec2/concept/5996271"
+    }
+  },
+  {
+    "uri": "en/1/137745722",
+    "id": "137745722",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutaric acid",
+    "harm": {
+      "id": "0073328",
+      "title": "137745722 - Glutaric acid",
+      "conceptLink": "/ec2/concept/6009501"
+    }
+  },
+  {
+    "uri": "en/1/136247063",
+    "id": "136247063",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutelin for industrial purposes",
+    "harm": {
+      "id": "0060279",
+      "title": "136247063 - Glutelin for industrial purposes",
+      "conceptLink": "/ec2/concept/5998256"
+    }
+  },
+  {
+    "uri": "en/1/61",
+    "id": "61",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluten for industrial purposes",
+    "harm": {
+      "id": "0023303",
+      "title": "61 - Gluten for industrial purposes",
+      "conceptLink": "/ec2/concept/5972780"
+    }
+  },
+  {
+    "uri": "en/1/915419",
+    "id": "915419",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluten for industrial use",
+    "harm": {
+      "id": "0023303",
+      "title": "915419 - Gluten for industrial use",
+      "conceptLink": "/ec2/concept/5972780"
+    }
+  },
+  {
+    "uri": "en/1/908688",
+    "id": "908688",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluten for the food industry",
+    "harm": {
+      "id": "0033804",
+      "title": "908688 - Gluten for the food industry",
+      "conceptLink": "/ec2/concept/5982396"
+    }
+  },
+  {
+    "uri": "en/1/20515",
+    "id": "20515",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gluten [glue], other than for stationery or household purposes",
+    "harm": {
+      "id": "0012686",
+      "title": "20515 - Gluten [glue], other than for stationery or household purposes",
+      "conceptLink": "/ec2/concept/5963073"
+    }
+  },
+  {
+    "uri": "en/1/119619315",
+    "id": "119619315",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutinous preparations for tree-banding",
+    "harm": {
+      "id": "0023666",
+      "title": "119619315 - Glutinous preparations for tree-banding",
+      "conceptLink": "/ec2/concept/5973115"
+    }
+  },
+  {
+    "uri": "en/1/119619316",
+    "id": "119619316",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutinous preparations for tree-grafting",
+    "harm": {
+      "id": "0023666",
+      "title": "119619316 - Glutinous preparations for tree-grafting",
+      "conceptLink": "/ec2/concept/5973115"
+    }
+  },
+  {
+    "uri": "en/1/3376",
+    "id": "3376",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutinous tree-banding preparations",
+    "harm": {
+      "id": "0023666",
+      "title": "3376 - Glutinous tree-banding preparations",
+      "conceptLink": "/ec2/concept/5973115"
+    }
+  },
+  {
+    "uri": "en/1/3373",
+    "id": "3373",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glutinous tree-grafting preparations",
+    "harm": {
+      "id": "0023666",
+      "title": "3373 - Glutinous tree-grafting preparations",
+      "conceptLink": "/ec2/concept/5973115"
+    }
+  },
+  {
+    "uri": "en/1/12384",
+    "id": "12384",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerides",
+    "harm": {
+      "id": "0019967",
+      "title": "12384 - Glycerides",
+      "conceptLink": "/ec2/concept/5969730"
+    }
+  },
+  {
+    "uri": "en/1/137543683",
+    "id": "137543683",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerin for use in manufacture",
+    "harm": {
+      "id": "0023875",
+      "title": "137543683 - Glycerin for use in manufacture",
+      "conceptLink": "/ec2/concept/5973308"
+    }
+  },
+  {
+    "uri": "en/1/633448",
+    "id": "633448",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerine esters",
+    "harm": {
+      "id": "0017464",
+      "title": "633448 - Glycerine esters",
+      "conceptLink": "/ec2/concept/5967442"
+    }
+  },
+  {
+    "uri": "en/1/9597",
+    "id": "9597",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerine for industrial purposes",
+    "harm": {
+      "id": "0023875",
+      "title": "9597 - Glycerine for industrial purposes",
+      "conceptLink": "/ec2/concept/5973308"
+    }
+  },
+  {
+    "uri": "en/1/633462",
+    "id": "633462",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerol",
+    "harm": {
+      "id": "0040598",
+      "title": "633462 - Glycerol",
+      "conceptLink": "/ec2/concept/5988578"
+    }
+  },
+  {
+    "uri": "en/1/137857353",
+    "id": "137857353",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycerol for use in manufacture",
+    "harm": {
+      "id": "0073560",
+      "title": "137857353 - Glycerol for use in manufacture",
+      "conceptLink": "/ec2/concept/6009733"
+    }
+  },
+  {
+    "uri": "en/1/310806",
+    "id": "310806",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycogen",
+    "harm": {
+      "id": "0016523",
+      "title": "310806 - Glycogen",
+      "conceptLink": "/ec2/concept/5966594"
+    }
+  },
+  {
+    "uri": "en/1/12405",
+    "id": "12405",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycol",
+    "harm": {
+      "id": "0025649",
+      "title": "12405 - Glycol",
+      "conceptLink": "/ec2/concept/5974941"
+    }
+  },
+  {
+    "uri": "en/1/10681",
+    "id": "10681",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycol ether",
+    "harm": {
+      "id": "0009080",
+      "title": "10681 - Glycol ether",
+      "conceptLink": "/ec2/concept/5959767"
+    }
+  },
+  {
+    "uri": "en/1/310819",
+    "id": "310819",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycoprotein",
+    "harm": {
+      "id": "0004996",
+      "title": "310819 - Glycoprotein",
+      "conceptLink": "/ec2/concept/5956034"
+    }
+  },
+  {
+    "uri": "en/1/12355",
+    "id": "12355",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glycosides",
+    "harm": {
+      "id": "0011697",
+      "title": "12355 - Glycosides",
+      "conceptLink": "/ec2/concept/5962161"
+    }
+  },
+  {
+    "uri": "en/1/633483",
+    "id": "633483",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Glyoxal reactants",
+    "harm": {
+      "id": "0029030",
+      "title": "633483 - Glyoxal reactants",
+      "conceptLink": "/ec2/concept/5978042"
+    }
+  },
+  {
+    "uri": "en/1/310832",
+    "id": "310832",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gold chloride",
+    "harm": {
+      "id": "0033816",
+      "title": "310832 - Gold chloride",
+      "conceptLink": "/ec2/concept/5982408"
+    }
+  },
+  {
+    "uri": "en/1/14592",
+    "id": "14592",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Gold salts",
+    "harm": {
+      "id": "0030617",
+      "title": "14592 - Gold salts",
+      "conceptLink": "/ec2/concept/5979496"
+    }
+  },
+  {
+    "uri": "en/1/12499",
+    "id": "12499",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Grafting mastic for trees",
+    "harm": {
+      "id": "0037242",
+      "title": "12499 - Grafting mastic for trees",
+      "conceptLink": "/ec2/concept/5985507"
+    }
+  },
+  {
+    "uri": "en/1/7432",
+    "id": "7432",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Grafting wax for trees",
+    "harm": {
+      "id": "0037687",
+      "title": "7432 - Grafting wax for trees",
+      "conceptLink": "/ec2/concept/5985911"
+    }
+  },
+  {
+    "uri": "en/1/488560",
+    "id": "488560",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Granulated carbon",
+    "harm": {
+      "id": "0004191",
+      "title": "488560 - Granulated carbon",
+      "conceptLink": "/ec2/concept/5955282"
+    }
+  },
+  {
+    "uri": "en/1/119520895",
+    "id": "119520895",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Granulated limestone for agricultural purposes",
+    "harm": {
+      "id": "0065054",
+      "title": "119520895 - Granulated limestone for agricultural purposes",
+      "conceptLink": "/ec2/concept/6001257"
+    }
+  },
+  {
+    "uri": "en/1/633495",
+    "id": "633495",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Graphite",
+    "harm": {
+      "id": "0034808",
+      "title": "633495 - Graphite",
+      "conceptLink": "/ec2/concept/5983304"
+    }
+  }
+]

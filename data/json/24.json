@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/631743",
+    "id": "631743",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire retardant polymers",
+    "harm": {
+      "id": "0028544",
+      "title": "631743 - Fire absorbent chemicals for the manufacture of fire retardant polymers",
+      "conceptLink": "/ec2/concept/5977590"
+    }
+  },
+  {
+    "uri": "en/1/631698",
+    "id": "631698",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire resistant plastics",
+    "harm": {
+      "id": "0028543",
+      "title": "631698 - Fire absorbent chemicals for the manufacture of fire resistant plastics",
+      "conceptLink": "/ec2/concept/5977589"
+    }
+  },
+  {
+    "uri": "en/1/631699",
+    "id": "631699",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire retardant plastics",
+    "harm": {
+      "id": "0028543",
+      "title": "631699 - Fire absorbent chemicals for the manufacture of fire retardant plastics",
+      "conceptLink": "/ec2/concept/5977589"
+    }
+  },
+  {
+    "uri": "en/1/631782",
+    "id": "631782",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for use in the manufacture of fire retardant resins",
+    "harm": {
+      "id": "0022904",
+      "title": "631782 - Fire absorbent chemicals for use in the manufacture of fire retardant resins",
+      "conceptLink": "/ec2/concept/5972420"
+    }
+  },
+  {
+    "uri": "en/1/631781",
+    "id": "631781",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for use in the manufacture of fire resistant resins",
+    "harm": {
+      "id": "0022904",
+      "title": "631781 - Fire absorbent chemicals for use in the manufacture of fire resistant resins",
+      "conceptLink": "/ec2/concept/5972420"
+    }
+  },
+  {
+    "uri": "en/1/631759",
+    "id": "631759",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for use in the manufacture of fire retardant paints",
+    "harm": {
+      "id": "0040107",
+      "title": "631759 - Fire absorbent chemicals for use in the manufacture of fire retardant paints",
+      "conceptLink": "/ec2/concept/5988130"
+    }
+  },
+  {
+    "uri": "en/1/631758",
+    "id": "631758",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for use in the manufacture of fire resistant paints",
+    "harm": {
+      "id": "0040107",
+      "title": "631758 - Fire absorbent chemicals for use in the manufacture of fire resistant paints",
+      "conceptLink": "/ec2/concept/5988130"
+    }
+  },
+  {
+    "uri": "en/1/631718",
+    "id": "631718",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire resistant polymers",
+    "harm": {
+      "id": "0045830",
+      "title": "631718 - Fire absorbent chemicals for the manufacture of fire resistant polymers",
+      "conceptLink": "/ec2/concept/5993361"
+    }
+  },
+  {
+    "uri": "en/1/631660",
+    "id": "631660",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire resistant coatings",
+    "harm": {
+      "id": "0044767",
+      "title": "631660 - Fire absorbent chemicals for the manufacture of fire resistant coatings",
+      "conceptLink": "/ec2/concept/5992387"
+    }
+  },
+  {
+    "uri": "en/1/631677",
+    "id": "631677",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire retardant monomers",
+    "harm": {
+      "id": "0044768",
+      "title": "631677 - Fire absorbent chemicals for the manufacture of fire retardant monomers",
+      "conceptLink": "/ec2/concept/5992388"
+    }
+  },
+  {
+    "uri": "en/1/631676",
+    "id": "631676",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire absorbent chemicals for the manufacture of fire resistant monomers",
+    "harm": {
+      "id": "0044768",
+      "title": "631676 - Fire absorbent chemicals for the manufacture of fire resistant monomers",
+      "conceptLink": "/ec2/concept/5992388"
+    }
+  },
+  {
+    "uri": "en/1/625738",
+    "id": "625738",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing chemicals",
+    "harm": {
+      "id": "0012023",
+      "title": "625738 - Fire extinguishing chemicals",
+      "conceptLink": "/ec2/concept/5962468"
+    }
+  },
+  {
+    "uri": "en/1/10834",
+    "id": "10834",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire-extinguishing compositions",
+    "harm": {
+      "id": "0058336",
+      "title": "10834 - Fire-extinguishing compositions",
+      "conceptLink": "/ec2/concept/5999835"
+    }
+  },
+  {
+    "uri": "en/1/488519",
+    "id": "488519",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire-extinguishing compositions, in particular fire-extinguishing foams",
+    "harm": {
+      "id": "0033007",
+      "title": "488519 - Fire-extinguishing compositions, in particular fire-extinguishing foams",
+      "conceptLink": "/ec2/concept/5981661"
+    }
+  },
+  {
+    "uri": "en/1/10836",
+    "id": "10836",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing compositions",
+    "harm": {
+      "id": "0058336",
+      "title": "10836 - Fire extinguishing compositions",
+      "conceptLink": "/ec2/concept/5999835"
+    }
+  },
+  {
+    "uri": "en/1/10833",
+    "id": "10833",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing compounds",
+    "harm": {
+      "id": "0058336",
+      "title": "10833 - Fire extinguishing compounds",
+      "conceptLink": "/ec2/concept/5999835"
+    }
+  },
+  {
+    "uri": "en/1/631800",
+    "id": "631800",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing foam compositions",
+    "harm": {
+      "id": "0011235",
+      "title": "631800 - Fire extinguishing foam compositions",
+      "conceptLink": "/ec2/concept/5961740"
+    }
+  },
+  {
+    "uri": "en/1/10837",
+    "id": "10837",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing media",
+    "harm": {
+      "id": "0058337",
+      "title": "10837 - Fire extinguishing media",
+      "conceptLink": "/ec2/concept/5999836"
+    }
+  },
+  {
+    "uri": "en/1/10840",
+    "id": "10840",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire extinguishing preparations",
+    "harm": {
+      "id": "0058337",
+      "title": "10840 - Fire extinguishing preparations",
+      "conceptLink": "/ec2/concept/5999836"
+    }
+  },
+  {
+    "uri": "en/1/132842219",
+    "id": "132842219",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire-extinguishing preparations",
+    "harm": {
+      "id": "0058337",
+      "title": "132842219 - Fire-extinguishing preparations",
+      "conceptLink": "/ec2/concept/5999836"
+    }
+  },
+  {
+    "uri": "en/1/631813",
+    "id": "631813",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire protection compositions",
+    "harm": {
+      "id": "0044186",
+      "title": "631813 - Fire protection compositions",
+      "conceptLink": "/ec2/concept/5991852"
+    }
+  },
+  {
+    "uri": "en/1/631832",
+    "id": "631832",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire resistant chemicals",
+    "harm": {
+      "id": "0009508",
+      "title": "631832 - Fire resistant chemicals",
+      "conceptLink": "/ec2/concept/5960161"
+    }
+  },
+  {
+    "uri": "en/1/631858",
+    "id": "631858",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant additives for plastics",
+    "harm": {
+      "id": "0021221",
+      "title": "631858 - Fire retardant additives for plastics",
+      "conceptLink": "/ec2/concept/5970882"
+    }
+  },
+  {
+    "uri": "en/1/631873",
+    "id": "631873",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant additives for resins",
+    "harm": {
+      "id": "0009509",
+      "title": "631873 - Fire retardant additives for resins",
+      "conceptLink": "/ec2/concept/5960162"
+    }
+  },
+  {
+    "uri": "en/1/903701",
+    "id": "903701",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant chemicals",
+    "harm": {
+      "id": "0043468",
+      "title": "903701 - Fire retardant chemicals",
+      "conceptLink": "/ec2/concept/5991192"
+    }
+  },
+  {
+    "uri": "en/1/789677",
+    "id": "789677",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant compositions for commercial and domestic use",
+    "harm": {
+      "id": "0012653",
+      "title": "789677 - Fire retardant compositions for commercial and domestic use",
+      "conceptLink": "/ec2/concept/5963042"
+    }
+  },
+  {
+    "uri": "en/1/377659",
+    "id": "377659",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant compositions",
+    "harm": {
+      "id": "0005934",
+      "title": "377659 - Fire retardant compositions",
+      "conceptLink": "/ec2/concept/5956886"
+    }
+  },
+  {
+    "uri": "en/1/11015",
+    "id": "11015",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retardant preparations",
+    "harm": {
+      "id": "0005934",
+      "title": "11015 - Fire retardant preparations",
+      "conceptLink": "/ec2/concept/5956886"
+    }
+  },
+  {
+    "uri": "en/1/631886",
+    "id": "631886",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fire retarding chemicals",
+    "harm": {
+      "id": "0043468",
+      "title": "631886 - Fire retarding chemicals",
+      "conceptLink": "/ec2/concept/5991192"
+    }
+  },
+  {
+    "uri": "en/1/137699523",
+    "id": "137699523",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Firefighting foam",
+    "harm": {
+      "id": "0069817",
+      "title": "137699523 - Firefighting foam",
+      "conceptLink": "/ec2/concept/6006020"
+    }
+  },
+  {
+    "uri": "en/1/11013",
+    "id": "11013",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fireproof preparations",
+    "harm": {
+      "id": "0005934",
+      "title": "11013 - Fireproof preparations",
+      "conceptLink": "/ec2/concept/5956886"
+    }
+  },
+  {
+    "uri": "en/1/11014",
+    "id": "11014",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fireproofing preparations",
+    "harm": {
+      "id": "0005934",
+      "title": "11014 - Fireproofing preparations",
+      "conceptLink": "/ec2/concept/5956886"
+    }
+  },
+  {
+    "uri": "en/1/233466018",
+    "id": "233466018",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fish meal fertilisers",
+    "harm": {
+      "id": "0035443",
+      "title": "233466018 - Fish meal fertilisers",
+      "conceptLink": "/ec2/concept/5983879"
+    }
+  },
+  {
+    "uri": "en/1/908468",
+    "id": "908468",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fish meal fertilizers",
+    "harm": {
+      "id": "0035443",
+      "title": "908468 - Fish meal fertilizers",
+      "conceptLink": "/ec2/concept/5983879"
+    }
+  },
+  {
+    "uri": "en/1/6811",
+    "id": "6811",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fissionable chemical elements",
+    "harm": {
+      "id": "0030648",
+      "title": "6811 - Fissionable chemical elements",
+      "conceptLink": "/ec2/concept/5979525"
+    }
+  },
+  {
+    "uri": "en/1/11129",
+    "id": "11129",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fissionable material for nuclear energy",
+    "harm": {
+      "id": "0017458",
+      "title": "11129 - Fissionable material for nuclear energy",
+      "conceptLink": "/ec2/concept/5967436"
+    }
+  },
+  {
+    "uri": "en/1/892953",
+    "id": "892953",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fixers",
+    "harm": {
+      "id": "0058338",
+      "title": "892953 - Fixers",
+      "conceptLink": "/ec2/concept/5999837"
+    }
+  },
+  {
+    "uri": "en/1/4012",
+    "id": "4012",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fixing baths [photography]",
+    "harm": {
+      "id": "0034949",
+      "title": "4012 - Fixing baths [photography]",
+      "conceptLink": "/ec2/concept/5983430"
+    }
+  },
+  {
+    "uri": "en/1/119698012",
+    "id": "119698012",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fixing solutions",
+    "harm": {
+      "id": "0058339",
+      "title": "119698012 - Fixing solutions",
+      "conceptLink": "/ec2/concept/5999838"
+    }
+  },
+  {
+    "uri": "en/1/11156",
+    "id": "11156",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fixing solutions [photography]",
+    "harm": {
+      "id": "0058339",
+      "title": "11156 - Fixing solutions [photography]",
+      "conceptLink": "/ec2/concept/5999838"
+    }
+  },
+  {
+    "uri": "en/1/631833",
+    "id": "631833",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flame proofing chemicals",
+    "harm": {
+      "id": "0009508",
+      "title": "631833 - Flame proofing chemicals",
+      "conceptLink": "/ec2/concept/5960161"
+    }
+  },
+  {
+    "uri": "en/1/631899",
+    "id": "631899",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flame proofing solutions",
+    "harm": {
+      "id": "0003778",
+      "title": "631899 - Flame proofing solutions",
+      "conceptLink": "/ec2/concept/5954908"
+    }
+  },
+  {
+    "uri": "en/1/631912",
+    "id": "631912",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flame retardant preparations for coating fabrics",
+    "harm": {
+      "id": "0032620",
+      "title": "631912 - Flame retardant preparations for coating fabrics",
+      "conceptLink": "/ec2/concept/5981303"
+    }
+  },
+  {
+    "uri": "en/1/631924",
+    "id": "631924",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flame retardants",
+    "harm": {
+      "id": "0011188",
+      "title": "631924 - Flame retardants",
+      "conceptLink": "/ec2/concept/5961697"
+    }
+  },
+  {
+    "uri": "en/1/310723",
+    "id": "310723",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flame retarding compositions",
+    "harm": {
+      "id": "0045342",
+      "title": "310723 - Flame retarding compositions",
+      "conceptLink": "/ec2/concept/5992918"
+    }
+  },
+  {
+    "uri": "en/1/9770",
+    "id": "9770",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flashlight preparations",
+    "harm": {
+      "id": "0018068",
+      "title": "9770 - Flashlight preparations",
+      "conceptLink": "/ec2/concept/5967994"
+    }
+  },
+  {
+    "uri": "en/1/233467035",
+    "id": "233467035",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavonoids for industrial purposes [phenolic compounds]",
+    "harm": {
+      "id": "0052000",
+      "title": "233467035 - Flavonoids for industrial purposes [phenolic compounds]",
+      "conceptLink": "/ec2/concept/6010900"
+    }
+  },
+  {
+    "uri": "en/1/488537",
+    "id": "488537",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour enhancers for foodstuffs",
+    "harm": {
+      "id": "0033008",
+      "title": "488537 - Flavour enhancers for foodstuffs",
+      "conceptLink": "/ec2/concept/5981662"
+    }
+  },
+  {
+    "uri": "en/1/488536",
+    "id": "488536",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour enhancers for food",
+    "harm": {
+      "id": "0033008",
+      "title": "488536 - Flavour enhancers for food",
+      "conceptLink": "/ec2/concept/5981662"
+    }
+  },
+  {
+    "uri": "en/1/631942",
+    "id": "631942",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour improvers for coffee",
+    "harm": {
+      "id": "0045793",
+      "title": "631942 - Flavour improvers for coffee",
+      "conceptLink": "/ec2/concept/5993325"
+    }
+  },
+  {
+    "uri": "en/1/631955",
+    "id": "631955",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour improvers for foodstuffs",
+    "harm": {
+      "id": "0033008",
+      "title": "631955 - Flavour improvers for foodstuffs",
+      "conceptLink": "/ec2/concept/5981662"
+    }
+  },
+  {
+    "uri": "en/1/631983",
+    "id": "631983",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour improvers for tea",
+    "harm": {
+      "id": "0005458",
+      "title": "631983 - Flavour improvers for tea",
+      "conceptLink": "/ec2/concept/5956456"
+    }
+  },
+  {
+    "uri": "en/1/631997",
+    "id": "631997",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flavour improvers for tobacco",
+    "harm": {
+      "id": "0028510",
+      "title": "631997 - Flavour improvers for tobacco",
+      "conceptLink": "/ec2/concept/5977558"
+    }
+  },
+  {
+    "uri": "en/1/632009",
+    "id": "632009",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flexibilizers for artificial resins",
+    "harm": {
+      "id": "0016986",
+      "title": "632009 - Flexibilizers for artificial resins",
+      "conceptLink": "/ec2/concept/5967013"
+    }
+  },
+  {
+    "uri": "en/1/19679",
+    "id": "19679",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flocculants",
+    "harm": {
+      "id": "0009800",
+      "title": "19679 - Flocculants",
+      "conceptLink": "/ec2/concept/5960427"
+    }
+  },
+  {
+    "uri": "en/1/19680",
+    "id": "19680",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flocculating agents",
+    "harm": {
+      "id": "0009800",
+      "title": "19680 - Flocculating agents",
+      "conceptLink": "/ec2/concept/5960427"
+    }
+  },
+  {
+    "uri": "en/1/632023",
+    "id": "632023",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flocculating chemicals for treating waste and industrial process water",
+    "harm": {
+      "id": "0040051",
+      "title": "632023 - Flocculating chemicals for treating waste and industrial process water",
+      "conceptLink": "/ec2/concept/5988078"
+    }
+  },
+  {
+    "uri": "en/1/10915",
+    "id": "10915",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flour for industrial purposes",
+    "harm": {
+      "id": "0023294",
+      "title": "10915 - Flour for industrial purposes",
+      "conceptLink": "/ec2/concept/5972771"
+    }
+  },
+  {
+    "uri": "en/1/632040",
+    "id": "632040",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flour improvers",
+    "harm": {
+      "id": "0028511",
+      "title": "632040 - Flour improvers",
+      "conceptLink": "/ec2/concept/5977559"
+    }
+  },
+  {
+    "uri": "en/1/7863",
+    "id": "7863",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flower preservative",
+    "harm": {
+      "id": "0040674",
+      "title": "7863 - Flower preservative",
+      "conceptLink": "/ec2/concept/5988652"
+    }
+  },
+  {
+    "uri": "en/1/7866",
+    "id": "7866",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flower preservatives",
+    "harm": {
+      "id": "0040674",
+      "title": "7866 - Flower preservatives",
+      "conceptLink": "/ec2/concept/5988652"
+    }
+  },
+  {
+    "uri": "en/1/119698013",
+    "id": "119698013",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flowers of sulfur for chemical purposes",
+    "harm": {
+      "id": "0005936",
+      "title": "119698013 - Flowers of sulfur for chemical purposes",
+      "conceptLink": "/ec2/concept/5956888"
+    }
+  },
+  {
+    "uri": "en/1/11193",
+    "id": "11193",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flowers of sulphur for chemical purposes",
+    "harm": {
+      "id": "0005936",
+      "title": "11193 - Flowers of sulphur for chemical purposes",
+      "conceptLink": "/ec2/concept/5956888"
+    }
+  },
+  {
+    "uri": "en/1/632070",
+    "id": "632070",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluate preparations",
+    "harm": {
+      "id": "0044650",
+      "title": "632070 - Fluate preparations",
+      "conceptLink": "/ec2/concept/5992281"
+    }
+  },
+  {
+    "uri": "en/1/377674",
+    "id": "377674",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluid cracking catalysts",
+    "harm": {
+      "id": "0022091",
+      "title": "377674 - Fluid cracking catalysts",
+      "conceptLink": "/ec2/concept/5971678"
+    }
+  },
+  {
+    "uri": "en/1/632083",
+    "id": "632083",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluid loss additives",
+    "harm": {
+      "id": "0044651",
+      "title": "632083 - Fluid loss additives",
+      "conceptLink": "/ec2/concept/5992282"
+    }
+  },
+  {
+    "uri": "en/1/21168",
+    "id": "21168",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluid (Power steering -)",
+    "harm": {
+      "id": "0043116",
+      "title": "21168 - Fluid (Power steering -)",
+      "conceptLink": "/ec2/concept/5990867"
+    }
+  },
+  {
+    "uri": "en/1/21223",
+    "id": "21223",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluid (Transmission -)",
+    "harm": {
+      "id": "0037368",
+      "title": "21223 - Fluid (Transmission -)",
+      "conceptLink": "/ec2/concept/5985626"
+    }
+  },
+  {
+    "uri": "en/1/632096",
+    "id": "632096",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluidised polymers for industrial use",
+    "harm": {
+      "id": "0010006",
+      "title": "632096 - Fluidised polymers for industrial use",
+      "conceptLink": "/ec2/concept/5960618"
+    }
+  },
+  {
+    "uri": "en/1/11695",
+    "id": "11695",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids (Brake -)",
+    "harm": {
+      "id": "0037128",
+      "title": "11695 - Fluids (Brake -)",
+      "conceptLink": "/ec2/concept/5985408"
+    }
+  },
+  {
+    "uri": "en/1/632108",
+    "id": "632108",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for drilling",
+    "harm": {
+      "id": "0038911",
+      "title": "632108 - Fluids for drilling",
+      "conceptLink": "/ec2/concept/5987031"
+    }
+  },
+  {
+    "uri": "en/1/632125",
+    "id": "632125",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for hydraulic apparatus",
+    "harm": {
+      "id": "0021721",
+      "title": "632125 - Fluids for hydraulic apparatus",
+      "conceptLink": "/ec2/concept/5971331"
+    }
+  },
+  {
+    "uri": "en/1/7359",
+    "id": "7359",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for hydraulic circuits",
+    "harm": {
+      "id": "0059076",
+      "title": "7359 - Fluids for hydraulic circuits",
+      "conceptLink": "/ec2/concept/6000567"
+    }
+  },
+  {
+    "uri": "en/1/632137",
+    "id": "632137",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for the transport of gravel",
+    "harm": {
+      "id": "0044652",
+      "title": "632137 - Fluids for the transport of gravel",
+      "conceptLink": "/ec2/concept/5992283"
+    }
+  },
+  {
+    "uri": "en/1/632213",
+    "id": "632213",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching varnished wood",
+    "harm": {
+      "id": "0020652",
+      "title": "632213 - Fluids for use in etching varnished wood",
+      "conceptLink": "/ec2/concept/5970354"
+    }
+  },
+  {
+    "uri": "en/1/632176",
+    "id": "632176",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching inflatables",
+    "harm": {
+      "id": "0015829",
+      "title": "632176 - Fluids for use in etching inflatables",
+      "conceptLink": "/ec2/concept/5965957"
+    }
+  },
+  {
+    "uri": "en/1/632163",
+    "id": "632163",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching glass",
+    "harm": {
+      "id": "0038912",
+      "title": "632163 - Fluids for use in etching glass",
+      "conceptLink": "/ec2/concept/5987032"
+    }
+  },
+  {
+    "uri": "en/1/632188",
+    "id": "632188",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching painted wood",
+    "harm": {
+      "id": "0037887",
+      "title": "632188 - Fluids for use in etching painted wood",
+      "conceptLink": "/ec2/concept/5986093"
+    }
+  },
+  {
+    "uri": "en/1/632201",
+    "id": "632201",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching plastic",
+    "harm": {
+      "id": "0043636",
+      "title": "632201 - Fluids for use in etching plastic",
+      "conceptLink": "/ec2/concept/5991348"
+    }
+  },
+  {
+    "uri": "en/1/632150",
+    "id": "632150",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in etching aluminium",
+    "harm": {
+      "id": "0044653",
+      "title": "632150 - Fluids for use in etching aluminium",
+      "conceptLink": "/ec2/concept/5992284"
+    }
+  },
+  {
+    "uri": "en/1/632224",
+    "id": "632224",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in metal working",
+    "harm": {
+      "id": "0003211",
+      "title": "632224 - Fluids for use in metal working",
+      "conceptLink": "/ec2/concept/5954390"
+    }
+  },
+  {
+    "uri": "en/1/632239",
+    "id": "632239",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in the oil industry",
+    "harm": {
+      "id": "0014817",
+      "title": "632239 - Fluids for use in the oil industry",
+      "conceptLink": "/ec2/concept/5965021"
+    }
+  },
+  {
+    "uri": "en/1/632294",
+    "id": "632294",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in the transport of particulate materials in water wells",
+    "harm": {
+      "id": "0014818",
+      "title": "632294 - Fluids for use in the transport of particulate materials in water wells",
+      "conceptLink": "/ec2/concept/5965022"
+    }
+  },
+  {
+    "uri": "en/1/632255",
+    "id": "632255",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in the transport of particulate materials in gas wells",
+    "harm": {
+      "id": "0026300",
+      "title": "632255 - Fluids for use in the transport of particulate materials in gas wells",
+      "conceptLink": "/ec2/concept/5975540"
+    }
+  },
+  {
+    "uri": "en/1/632268",
+    "id": "632268",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in the transport of particulate materials in geothermal wells",
+    "harm": {
+      "id": "0026301",
+      "title": "632268 - Fluids for use in the transport of particulate materials in geothermal wells",
+      "conceptLink": "/ec2/concept/5975541"
+    }
+  },
+  {
+    "uri": "en/1/632281",
+    "id": "632281",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use in the transport of particulate materials in oil wells",
+    "harm": {
+      "id": "0026302",
+      "title": "632281 - Fluids for use in the transport of particulate materials in oil wells",
+      "conceptLink": "/ec2/concept/5975542"
+    }
+  },
+  {
+    "uri": "en/1/263",
+    "id": "263",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluids for use with abrasives (Auxiliary -)",
+    "harm": {
+      "id": "0024010",
+      "title": "263 - Fluids for use with abrasives (Auxiliary -)",
+      "conceptLink": "/ec2/concept/5973434"
+    }
+  },
+  {
+    "uri": "en/1/632306",
+    "id": "632306",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorescent chemicals",
+    "harm": {
+      "id": "0014819",
+      "title": "632306 - Fluorescent chemicals",
+      "conceptLink": "/ec2/concept/5965023"
+    }
+  },
+  {
+    "uri": "en/1/377687",
+    "id": "377687",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorescent chemicals for use as a fluorescent label",
+    "harm": {
+      "id": "0010346",
+      "title": "377687 - Fluorescent chemicals for use as a fluorescent label",
+      "conceptLink": "/ec2/concept/5960922"
+    }
+  },
+  {
+    "uri": "en/1/377706",
+    "id": "377706",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorescent labels for nucleotides and proteins",
+    "harm": {
+      "id": "0027696",
+      "title": "377706 - Fluorescent labels for nucleotides and proteins",
+      "conceptLink": "/ec2/concept/5976809"
+    }
+  },
+  {
+    "uri": "en/1/632321",
+    "id": "632321",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorescent substances",
+    "harm": {
+      "id": "0003212",
+      "title": "632321 - Fluorescent substances",
+      "conceptLink": "/ec2/concept/5954391"
+    }
+  },
+  {
+    "uri": "en/1/632336",
+    "id": "632336",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluoric acid",
+    "harm": {
+      "id": "0037125",
+      "title": "632336 - Fluoric acid",
+      "conceptLink": "/ec2/concept/5985405"
+    }
+  },
+  {
+    "uri": "en/1/632348",
+    "id": "632348",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorinated polymers",
+    "harm": {
+      "id": "0043637",
+      "title": "632348 - Fluorinated polymers",
+      "conceptLink": "/ec2/concept/5991349"
+    }
+  },
+  {
+    "uri": "en/1/632360",
+    "id": "632360",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorinated resins",
+    "harm": {
+      "id": "0029363",
+      "title": "632360 - Fluorinated resins",
+      "conceptLink": "/ec2/concept/5978338"
+    }
+  },
+  {
+    "uri": "en/1/11261",
+    "id": "11261",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorine",
+    "harm": {
+      "id": "0011683",
+      "title": "11261 - Fluorine",
+      "conceptLink": "/ec2/concept/5962148"
+    }
+  },
+  {
+    "uri": "en/1/11285",
+    "id": "11285",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorine compounds",
+    "harm": {
+      "id": "0000467",
+      "title": "11285 - Fluorine compounds",
+      "conceptLink": "/ec2/concept/5951906"
+    }
+  },
+  {
+    "uri": "en/1/632373",
+    "id": "632373",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorosilicic acid",
+    "harm": {
+      "id": "0017826",
+      "title": "632373 - Fluorosilicic acid",
+      "conceptLink": "/ec2/concept/5967773"
+    }
+  },
+  {
+    "uri": "en/1/632385",
+    "id": "632385",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorspar",
+    "harm": {
+      "id": "0000468",
+      "title": "632385 - Fluorspar",
+      "conceptLink": "/ec2/concept/5951907"
+    }
+  },
+  {
+    "uri": "en/1/11286",
+    "id": "11286",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Fluorspar compounds",
+    "harm": {
+      "id": "0000467",
+      "title": "11286 - Fluorspar compounds",
+      "conceptLink": "/ec2/concept/5951906"
+    }
+  },
+  {
+    "uri": "en/1/310740",
+    "id": "310740",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Flushing agents for automobile radiators",
+    "harm": {
+      "id": "0004995",
+      "title": "310740 - Flushing agents for automobile radiators",
+      "conceptLink": "/ec2/concept/5956033"
+    }
+  }
+]

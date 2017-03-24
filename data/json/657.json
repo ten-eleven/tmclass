@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/37/119551099",
+    "id": "119551099",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Oil well casing, tubing, and drill pipe installation",
+    "harm": {
+      "id": "0068453",
+      "title": "119551099 - Oil well casing, tubing, and drill pipe installation",
+      "conceptLink": "/ec2/concept/6004656"
+    }
+  },
+  {
+    "uri": "en/37/903197",
+    "id": "903197",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Oil well drilling",
+    "harm": {
+      "id": "0059044",
+      "title": "903197 - Oil well drilling",
+      "conceptLink": "/ec2/concept/6000535"
+    }
+  },
+  {
+    "uri": "en/37/821829",
+    "id": "821829",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On site building project management",
+    "harm": {
+      "id": "0013394",
+      "title": "821829 - On site building project management",
+      "conceptLink": "/ec2/concept/5963715"
+    }
+  },
+  {
+    "uri": "en/37/821907",
+    "id": "821907",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On-site construction supervision",
+    "harm": {
+      "id": "0007559",
+      "title": "821907 - On-site construction supervision",
+      "conceptLink": "/ec2/concept/5958376"
+    }
+  },
+  {
+    "uri": "en/37/821908",
+    "id": "821908",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On-site construction supervision of civil engineering works",
+    "harm": {
+      "id": "0007559",
+      "title": "821908 - On-site construction supervision of civil engineering works",
+      "conceptLink": "/ec2/concept/5958376"
+    }
+  },
+  {
+    "uri": "en/37/821868",
+    "id": "821868",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On site project management relating to the construction of buildings",
+    "harm": {
+      "id": "0019222",
+      "title": "821868 - On site project management relating to the construction of buildings",
+      "conceptLink": "/ec2/concept/5969063"
+    }
+  },
+  {
+    "uri": "en/37/821855",
+    "id": "821855",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On site project management relating to the construction of airport facilities",
+    "harm": {
+      "id": "0030708",
+      "title": "821855 - On site project management relating to the construction of airport facilities",
+      "conceptLink": "/ec2/concept/5979581"
+    }
+  },
+  {
+    "uri": "en/37/821842",
+    "id": "821842",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "On site project management relating to the construction of aerodrome facilities",
+    "harm": {
+      "id": "0001813",
+      "title": "821842 - On site project management relating to the construction of aerodrome facilities",
+      "conceptLink": "/ec2/concept/5953117"
+    }
+  },
+  {
+    "uri": "en/37/367884",
+    "id": "367884",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Outer and inner cleaning of aircraft",
+    "harm": {
+      "id": "0030586",
+      "title": "367884 - Outer and inner cleaning of aircraft",
+      "conceptLink": "/ec2/concept/5979467"
+    }
+  },
+  {
+    "uri": "en/37/453905",
+    "id": "453905",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Overhaul of engines",
+    "harm": {
+      "id": "0038354",
+      "title": "453905 - Overhaul of engines",
+      "conceptLink": "/ec2/concept/5986529"
+    }
+  },
+  {
+    "uri": "en/37/821929",
+    "id": "821929",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Overhaul of machines",
+    "harm": {
+      "id": "0034086",
+      "title": "821929 - Overhaul of machines",
+      "conceptLink": "/ec2/concept/5982652"
+    }
+  },
+  {
+    "uri": "en/37/821939",
+    "id": "821939",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Overhaul of vehicles",
+    "harm": {
+      "id": "0034087",
+      "title": "821939 - Overhaul of vehicles",
+      "conceptLink": "/ec2/concept/5982653"
+    }
+  },
+  {
+    "uri": "en/37/821954",
+    "id": "821954",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paint spraying",
+    "harm": {
+      "id": "0042528",
+      "title": "821954 - Paint spraying",
+      "conceptLink": "/ec2/concept/5990340"
+    }
+  },
+  {
+    "uri": "en/37/39474",
+    "id": "39474",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paint work",
+    "harm": {
+      "id": "0030491",
+      "title": "39474 - Paint work",
+      "conceptLink": "/ec2/concept/5979380"
+    }
+  },
+  {
+    "uri": "en/37/39471",
+    "id": "39471",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting",
+    "harm": {
+      "id": "0030491",
+      "title": "39471 - Painting",
+      "conceptLink": "/ec2/concept/5979380"
+    }
+  },
+  {
+    "uri": "en/37/821977",
+    "id": "821977",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting and decorating of buildings",
+    "harm": {
+      "id": "0005242",
+      "title": "821977 - Painting and decorating of buildings",
+      "conceptLink": "/ec2/concept/5956252"
+    }
+  },
+  {
+    "uri": "en/37/886766",
+    "id": "886766",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting and varnishing",
+    "harm": {
+      "id": "0037146",
+      "title": "886766 - Painting and varnishing",
+      "conceptLink": "/ec2/concept/5985426"
+    }
+  },
+  {
+    "uri": "en/37/39473",
+    "id": "39473",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting contractor services",
+    "harm": {
+      "id": "0030491",
+      "title": "39473 - Painting contractor services",
+      "conceptLink": "/ec2/concept/5979380"
+    }
+  },
+  {
+    "uri": "en/37/39472",
+    "id": "39472",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting, interior and exterior",
+    "harm": {
+      "id": "0030491",
+      "title": "39472 - Painting, interior and exterior",
+      "conceptLink": "/ec2/concept/5979380"
+    }
+  },
+  {
+    "uri": "en/37/822004",
+    "id": "822004",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of aircraft",
+    "harm": {
+      "id": "0028302",
+      "title": "822004 - Painting of aircraft",
+      "conceptLink": "/ec2/concept/5977362"
+    }
+  },
+  {
+    "uri": "en/37/822020",
+    "id": "822020",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of buildings",
+    "harm": {
+      "id": "0005244",
+      "title": "822020 - Painting of buildings",
+      "conceptLink": "/ec2/concept/5956253"
+    }
+  },
+  {
+    "uri": "en/37/822034",
+    "id": "822034",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of furniture",
+    "harm": {
+      "id": "0022659",
+      "title": "822034 - Painting of furniture",
+      "conceptLink": "/ec2/concept/5972194"
+    }
+  },
+  {
+    "uri": "en/37/120880021",
+    "id": "120880021",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of metal surfaces to prevent corrosion",
+    "harm": {
+      "id": "0068226",
+      "title": "120880021 - Painting of metal surfaces to prevent corrosion",
+      "conceptLink": "/ec2/concept/6004429"
+    }
+  },
+  {
+    "uri": "en/37/453667",
+    "id": "453667",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of motor vehicles",
+    "harm": {
+      "id": "0032228",
+      "title": "453667 - Painting of motor vehicles",
+      "conceptLink": "/ec2/concept/5980948"
+    }
+  },
+  {
+    "uri": "en/37/454402",
+    "id": "454402",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of signs",
+    "harm": {
+      "id": "0012774",
+      "title": "454402 - Painting of signs",
+      "conceptLink": "/ec2/concept/5963152"
+    }
+  },
+  {
+    "uri": "en/37/452186",
+    "id": "452186",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of vehicles",
+    "harm": {
+      "id": "0040861",
+      "title": "452186 - Painting of vehicles",
+      "conceptLink": "/ec2/concept/5988814"
+    }
+  },
+  {
+    "uri": "en/37/822048",
+    "id": "822048",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting of window frames",
+    "harm": {
+      "id": "0034088",
+      "title": "822048 - Painting of window frames",
+      "conceptLink": "/ec2/concept/5982654"
+    }
+  },
+  {
+    "uri": "en/37/8147809",
+    "id": "8147809",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Painting or repair of signs",
+    "harm": {
+      "id": "0000163",
+      "title": "8147809 - Painting or repair of signs",
+      "conceptLink": "/ec2/concept/5951638"
+    }
+  },
+  {
+    "uri": "en/37/897369",
+    "id": "897369",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Panel beating",
+    "harm": {
+      "id": "0003912",
+      "title": "897369 - Panel beating",
+      "conceptLink": "/ec2/concept/5955030"
+    }
+  },
+  {
+    "uri": "en/37/39296",
+    "id": "39296",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paper hanging",
+    "harm": {
+      "id": "0001575",
+      "title": "39296 - Paper hanging",
+      "conceptLink": "/ec2/concept/5952903"
+    }
+  },
+  {
+    "uri": "en/37/39364",
+    "id": "39364",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Parasol repair",
+    "harm": {
+      "id": "0030490",
+      "title": "39364 - Parasol repair",
+      "conceptLink": "/ec2/concept/5979379"
+    }
+  },
+  {
+    "uri": "en/37/453703",
+    "id": "453703",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Parquet floor laying",
+    "harm": {
+      "id": "0003358",
+      "title": "453703 - Parquet floor laying",
+      "conceptLink": "/ec2/concept/5954522"
+    }
+  },
+  {
+    "uri": "en/37/905870",
+    "id": "905870",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pavement marking services",
+    "harm": {
+      "id": "0031177",
+      "title": "905870 - Pavement marking services",
+      "conceptLink": "/ec2/concept/5980008"
+    }
+  },
+  {
+    "uri": "en/37/453723",
+    "id": "453723",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pavement sealing",
+    "harm": {
+      "id": "0020811",
+      "title": "453723 - Pavement sealing",
+      "conceptLink": "/ec2/concept/5970507"
+    }
+  },
+  {
+    "uri": "en/37/905871",
+    "id": "905871",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pavement striping",
+    "harm": {
+      "id": "0013900",
+      "title": "905871 - Pavement striping",
+      "conceptLink": "/ec2/concept/5964177"
+    }
+  },
+  {
+    "uri": "en/37/453735",
+    "id": "453735",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pavement stripping",
+    "harm": {
+      "id": "0020812",
+      "title": "453735 - Pavement stripping",
+      "conceptLink": "/ec2/concept/5970508"
+    }
+  },
+  {
+    "uri": "en/37/452852",
+    "id": "452852",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paving and tiling",
+    "harm": {
+      "id": "0023088",
+      "title": "452852 - Paving and tiling",
+      "conceptLink": "/ec2/concept/5972580"
+    }
+  },
+  {
+    "uri": "en/37/453747",
+    "id": "453747",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paving contractor services",
+    "harm": {
+      "id": "0009118",
+      "title": "453747 - Paving contractor services",
+      "conceptLink": "/ec2/concept/5959803"
+    }
+  },
+  {
+    "uri": "en/37/41024",
+    "id": "41024",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Paving (Road -)",
+    "harm": {
+      "id": "0025121",
+      "title": "41024 - Paving (Road -)",
+      "conceptLink": "/ec2/concept/5974460"
+    }
+  },
+  {
+    "uri": "en/37/453764",
+    "id": "453764",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pest control",
+    "harm": {
+      "id": "0003359",
+      "title": "453764 - Pest control",
+      "conceptLink": "/ec2/concept/5954523"
+    }
+  },
+  {
+    "uri": "en/37/822074",
+    "id": "822074",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pest control relating to buildings",
+    "harm": {
+      "id": "0009335",
+      "title": "822074 - Pest control relating to buildings",
+      "conceptLink": "/ec2/concept/5960004"
+    }
+  },
+  {
+    "uri": "en/37/822060",
+    "id": "822060",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pest control relating to birds",
+    "harm": {
+      "id": "0016783",
+      "title": "822060 - Pest control relating to birds",
+      "conceptLink": "/ec2/concept/5966833"
+    }
+  },
+  {
+    "uri": "en/37/138209347",
+    "id": "138209347",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pest control services, other than for agriculture, horticulture and forestry",
+    "harm": {
+      "id": "0070081",
+      "title": "138209347 - Pest control services, other than for agriculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/6006283"
+    }
+  },
+  {
+    "uri": "en/37/233639612",
+    "id": "233639612",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pest control services, other than for agriculture, aquaculture, horticulture and forestry",
+    "harm": {
+      "id": "0052177",
+      "title": "233639612 - Pest control services, other than for agriculture, aquaculture, horticulture and forestry",
+      "conceptLink": "/ec2/concept/6011077"
+    }
+  },
+  {
+    "uri": "en/37/36241",
+    "id": "36241",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Photographic apparatus repair",
+    "harm": {
+      "id": "0058089",
+      "title": "36241 - Photographic apparatus repair",
+      "conceptLink": "/ec2/concept/5999590"
+    }
+  },
+  {
+    "uri": "en/37/36243",
+    "id": "36243",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Photographic equipment repair",
+    "harm": {
+      "id": "0058089",
+      "title": "36243 - Photographic equipment repair",
+      "conceptLink": "/ec2/concept/5999590"
+    }
+  },
+  {
+    "uri": "en/37/822087",
+    "id": "822087",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Piano-tuning",
+    "harm": {
+      "id": "0038276",
+      "title": "822087 - Piano-tuning",
+      "conceptLink": "/ec2/concept/5986455"
+    }
+  },
+  {
+    "uri": "en/37/39103",
+    "id": "39103",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pier breakwater building",
+    "harm": {
+      "id": "0007340",
+      "title": "39103 - Pier breakwater building",
+      "conceptLink": "/ec2/concept/5958178"
+    }
+  },
+  {
+    "uri": "en/37/453788",
+    "id": "453788",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pier construction",
+    "harm": {
+      "id": "0043789",
+      "title": "453788 - Pier construction",
+      "conceptLink": "/ec2/concept/5991483"
+    }
+  },
+  {
+    "uri": "en/37/453802",
+    "id": "453802",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pile driving services",
+    "harm": {
+      "id": "0020813",
+      "title": "453802 - Pile driving services",
+      "conceptLink": "/ec2/concept/5970509"
+    }
+  },
+  {
+    "uri": "en/37/39546",
+    "id": "39546",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipe-fitting",
+    "harm": {
+      "id": "0046851",
+      "title": "39546 - Pipe-fitting",
+      "conceptLink": "/ec2/concept/5994246"
+    }
+  },
+  {
+    "uri": "en/37/819778",
+    "id": "819778",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipe installation services",
+    "harm": {
+      "id": "0040870",
+      "title": "819778 - Pipe installation services",
+      "conceptLink": "/ec2/concept/5988822"
+    }
+  },
+  {
+    "uri": "en/37/822104",
+    "id": "822104",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipe laying",
+    "harm": {
+      "id": "0046851",
+      "title": "822104 - Pipe laying",
+      "conceptLink": "/ec2/concept/5994246"
+    }
+  },
+  {
+    "uri": "en/37/822105",
+    "id": "822105",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipe laying services",
+    "harm": {
+      "id": "0046851",
+      "title": "822105 - Pipe laying services",
+      "conceptLink": "/ec2/concept/5994246"
+    }
+  },
+  {
+    "uri": "en/37/55890601",
+    "id": "55890601",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline construction",
+    "harm": {
+      "id": "0046883",
+      "title": "55890601 - Pipeline construction",
+      "conceptLink": "/ec2/concept/5994275"
+    }
+  },
+  {
+    "uri": "en/37/39264",
+    "id": "39264",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline construction and maintenance",
+    "harm": {
+      "id": "0001574",
+      "title": "39264 - Pipeline construction and maintenance",
+      "conceptLink": "/ec2/concept/5952902"
+    }
+  },
+  {
+    "uri": "en/37/453814",
+    "id": "453814",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline installation and repair",
+    "harm": {
+      "id": "0038051",
+      "title": "453814 - Pipeline installation and repair",
+      "conceptLink": "/ec2/concept/5986244"
+    }
+  },
+  {
+    "uri": "en/37/820387",
+    "id": "820387",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline insulation",
+    "harm": {
+      "id": "0015191",
+      "title": "820387 - Pipeline insulation",
+      "conceptLink": "/ec2/concept/5965365"
+    }
+  },
+  {
+    "uri": "en/37/816261",
+    "id": "816261",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline laying",
+    "harm": {
+      "id": "0046861",
+      "title": "816261 - Pipeline laying",
+      "conceptLink": "/ec2/concept/5994255"
+    }
+  },
+  {
+    "uri": "en/37/825617",
+    "id": "825617",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pipeline maintenance",
+    "harm": {
+      "id": "0046782",
+      "title": "825617 - Pipeline maintenance",
+      "conceptLink": "/ec2/concept/5994185"
+    }
+  },
+  {
+    "uri": "en/37/819825",
+    "id": "819825",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plant installation",
+    "harm": {
+      "id": "0023574",
+      "title": "819825 - Plant installation",
+      "conceptLink": "/ec2/concept/5973034"
+    }
+  },
+  {
+    "uri": "en/37/822125",
+    "id": "822125",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plant maintenance",
+    "harm": {
+      "id": "0015192",
+      "title": "822125 - Plant maintenance",
+      "conceptLink": "/ec2/concept/5965366"
+    }
+  },
+  {
+    "uri": "en/37/822141",
+    "id": "822141",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plant refurbishment",
+    "harm": {
+      "id": "0026670",
+      "title": "822141 - Plant refurbishment",
+      "conceptLink": "/ec2/concept/5975870"
+    }
+  },
+  {
+    "uri": "en/37/39519",
+    "id": "39519",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plastering",
+    "harm": {
+      "id": "0001576",
+      "title": "39519 - Plastering",
+      "conceptLink": "/ec2/concept/5952904"
+    }
+  },
+  {
+    "uri": "en/37/453829",
+    "id": "453829",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plastering contractor services",
+    "harm": {
+      "id": "0038052",
+      "title": "453829 - Plastering contractor services",
+      "conceptLink": "/ec2/concept/5986245"
+    }
+  },
+  {
+    "uri": "en/37/453842",
+    "id": "453842",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plate glass installation and repair services",
+    "harm": {
+      "id": "0014955",
+      "title": "453842 - Plate glass installation and repair services",
+      "conceptLink": "/ec2/concept/5965147"
+    }
+  },
+  {
+    "uri": "en/37/39545",
+    "id": "39545",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing",
+    "harm": {
+      "id": "0046841",
+      "title": "39545 - Plumbing",
+      "conceptLink": "/ec2/concept/5994237"
+    }
+  },
+  {
+    "uri": "en/37/886780",
+    "id": "886780",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing and gas and water installation",
+    "harm": {
+      "id": "0002449",
+      "title": "886780 - Plumbing and gas and water installation",
+      "conceptLink": "/ec2/concept/5953692"
+    }
+  },
+  {
+    "uri": "en/37/822182",
+    "id": "822182",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing and glazing services",
+    "harm": {
+      "id": "0044004",
+      "title": "822182 - Plumbing and glazing services",
+      "conceptLink": "/ec2/concept/5991684"
+    }
+  },
+  {
+    "uri": "en/37/125046310",
+    "id": "125046310",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing apparatus (Rental of -)",
+    "harm": {
+      "id": "0033527",
+      "title": "125046310 - Plumbing apparatus (Rental of -)",
+      "conceptLink": "/ec2/concept/5982141"
+    }
+  },
+  {
+    "uri": "en/37/136010978",
+    "id": "136010978",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing installation advisory services",
+    "harm": {
+      "id": "0050278",
+      "title": "136010978 - Plumbing installation advisory services",
+      "conceptLink": "/ec2/concept/5995504"
+    }
+  },
+  {
+    "uri": "en/37/131140247",
+    "id": "131140247",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing installation, maintenance and repair",
+    "harm": {
+      "id": "0048001",
+      "title": "131140247 - Plumbing installation, maintenance and repair",
+      "conceptLink": "/ec2/concept/5995262"
+    }
+  },
+  {
+    "uri": "en/37/136010979",
+    "id": "136010979",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing maintenance advisory services",
+    "harm": {
+      "id": "0050279",
+      "title": "136010979 - Plumbing maintenance advisory services",
+      "conceptLink": "/ec2/concept/5995505"
+    }
+  },
+  {
+    "uri": "en/37/136010980",
+    "id": "136010980",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing repair advisory services",
+    "harm": {
+      "id": "0050280",
+      "title": "136010980 - Plumbing repair advisory services",
+      "conceptLink": "/ec2/concept/5995506"
+    }
+  },
+  {
+    "uri": "en/37/10303908",
+    "id": "10303908",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Plumbing services",
+    "harm": {
+      "id": "0046841",
+      "title": "10303908 - Plumbing services",
+      "conceptLink": "/ec2/concept/5994237"
+    }
+  },
+  {
+    "uri": "en/37/822211",
+    "id": "822211",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Polishing (cleaning)",
+    "harm": {
+      "id": "0022728",
+      "title": "822211 - Polishing (cleaning)",
+      "conceptLink": "/ec2/concept/5972260"
+    }
+  },
+  {
+    "uri": "en/37/452434",
+    "id": "452434",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Polishing [cleaning] of vehicles",
+    "harm": {
+      "id": "0009910",
+      "title": "452434 - Polishing [cleaning] of vehicles",
+      "conceptLink": "/ec2/concept/5960525"
+    }
+  },
+  {
+    "uri": "en/37/453858",
+    "id": "453858",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Polishing of jewellery",
+    "harm": {
+      "id": "0009119",
+      "title": "453858 - Polishing of jewellery",
+      "conceptLink": "/ec2/concept/5959804"
+    }
+  },
+  {
+    "uri": "en/37/39593",
+    "id": "39593",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Polishing (Vehicle -)",
+    "harm": {
+      "id": "0058649",
+      "title": "39593 - Polishing (Vehicle -)",
+      "conceptLink": "/ec2/concept/6000142"
+    }
+  },
+  {
+    "uri": "en/37/822238",
+    "id": "822238",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Preparation of a site for the installation of computer equipment",
+    "harm": {
+      "id": "0039926",
+      "title": "822238 - Preparation of a site for the installation of computer equipment",
+      "conceptLink": "/ec2/concept/5987966"
+    }
+  },
+  {
+    "uri": "en/37/822251",
+    "id": "822251",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Preparation of floor surfaces for lining and covering",
+    "harm": {
+      "id": "0022729",
+      "title": "822251 - Preparation of floor surfaces for lining and covering",
+      "conceptLink": "/ec2/concept/5972261"
+    }
+  },
+  {
+    "uri": "en/37/822265",
+    "id": "822265",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Preparation of stair surfaces for lining and covering",
+    "harm": {
+      "id": "0016863",
+      "title": "822265 - Preparation of stair surfaces for lining and covering",
+      "conceptLink": "/ec2/concept/5966905"
+    }
+  },
+  {
+    "uri": "en/37/813650",
+    "id": "813650",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Preservation of buildings",
+    "harm": {
+      "id": "0040800",
+      "title": "813650 - Preservation of buildings",
+      "conceptLink": "/ec2/concept/5988763"
+    }
+  },
+  {
+    "uri": "en/37/820726",
+    "id": "820726",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressing linen",
+    "harm": {
+      "id": "0057462",
+      "title": "820726 - Pressing linen",
+      "conceptLink": "/ec2/concept/5998968"
+    }
+  },
+  {
+    "uri": "en/37/914711",
+    "id": "914711",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressing of cloth",
+    "harm": {
+      "id": "0010569",
+      "title": "914711 - Pressing of cloth",
+      "conceptLink": "/ec2/concept/5961132"
+    }
+  },
+  {
+    "uri": "en/37/39158",
+    "id": "39158",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressing of clothing",
+    "harm": {
+      "id": "0057460",
+      "title": "39158 - Pressing of clothing",
+      "conceptLink": "/ec2/concept/5998966"
+    }
+  },
+  {
+    "uri": "en/37/39162",
+    "id": "39162",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressing of fabric",
+    "harm": {
+      "id": "0012049",
+      "title": "39162 - Pressing of fabric",
+      "conceptLink": "/ec2/concept/5962493"
+    }
+  },
+  {
+    "uri": "en/37/39164",
+    "id": "39164",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressing of textiles",
+    "harm": {
+      "id": "0012049",
+      "title": "39164 - Pressing of textiles",
+      "conceptLink": "/ec2/concept/5962493"
+    }
+  },
+  {
+    "uri": "en/37/822279",
+    "id": "822279",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressure grouting services",
+    "harm": {
+      "id": "0034175",
+      "title": "822279 - Pressure grouting services",
+      "conceptLink": "/ec2/concept/5982735"
+    }
+  },
+  {
+    "uri": "en/37/453877",
+    "id": "453877",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Pressure washing services",
+    "harm": {
+      "id": "0032550",
+      "title": "453877 - Pressure washing services",
+      "conceptLink": "/ec2/concept/5981242"
+    }
+  },
+  {
+    "uri": "en/37/822293",
+    "id": "822293",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Prevention and correction of building settlement",
+    "harm": {
+      "id": "0005328",
+      "title": "822293 - Prevention and correction of building settlement",
+      "conceptLink": "/ec2/concept/5956334"
+    }
+  },
+  {
+    "uri": "en/37/822294",
+    "id": "822294",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Prevention and correction of building subsidence",
+    "harm": {
+      "id": "0046408",
+      "title": "822294 - Prevention and correction of building subsidence",
+      "conceptLink": "/ec2/concept/5993861"
+    }
+  },
+  {
+    "uri": "en/37/822316",
+    "id": "822316",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Prevention of dust ingress to buildings",
+    "harm": {
+      "id": "0045674",
+      "title": "822316 - Prevention of dust ingress to buildings",
+      "conceptLink": "/ec2/concept/5993216"
+    }
+  },
+  {
+    "uri": "en/37/822391",
+    "id": "822391",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Proofing of buildings against pest and vermin access",
+    "harm": {
+      "id": "0019239",
+      "title": "822391 - Proofing of buildings against pest and vermin access",
+      "conceptLink": "/ec2/concept/5969078"
+    }
+  },
+  {
+    "uri": "en/37/822417",
+    "id": "822417",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Proofing of premises against pest and vermin access",
+    "harm": {
+      "id": "0013423",
+      "title": "822417 - Proofing of premises against pest and vermin access",
+      "conceptLink": "/ec2/concept/5963740"
+    }
+  },
+  {
+    "uri": "en/37/822429",
+    "id": "822429",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Proofing of structures against pest and vermin access",
+    "harm": {
+      "id": "0042300",
+      "title": "822429 - Proofing of structures against pest and vermin access",
+      "conceptLink": "/ec2/concept/5990132"
+    }
+  },
+  {
+    "uri": "en/37/135988613",
+    "id": "135988613",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Property development services [construction]",
+    "harm": {
+      "id": "0050220",
+      "title": "135988613 - Property development services [construction]",
+      "conceptLink": "/ec2/concept/5995479"
+    }
+  },
+  {
+    "uri": "en/37/822441",
+    "id": "822441",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Property maintenance",
+    "harm": {
+      "id": "0007580",
+      "title": "822441 - Property maintenance",
+      "conceptLink": "/ec2/concept/5958396"
+    }
+  },
+  {
+    "uri": "en/37/137893275",
+    "id": "137893275",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing building construction information via a website",
+    "harm": {
+      "id": "0068362",
+      "title": "137893275 - Providing building construction information via a website",
+      "conceptLink": "/ec2/concept/6004565"
+    }
+  },
+  {
+    "uri": "en/37/367899",
+    "id": "367899",
+    "lang": "en",
+    "classNumber": "37",
+    "term": "Providing information on repair services in the aviation sector",
+    "harm": {
+      "id": "0007435",
+      "title": "367899 - Providing information on repair services in the aviation sector",
+      "conceptLink": "/ec2/concept/5958263"
+    }
+  }
+]

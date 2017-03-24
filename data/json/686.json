@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/39/834121",
+    "id": "834121",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to guarded transport",
+    "harm": {
+      "id": "0034267",
+      "title": "834121 - Information services relating to guarded transport",
+      "conceptLink": "/ec2/concept/5982814"
+    }
+  },
+  {
+    "uri": "en/39/834255",
+    "id": "834255",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to traffic",
+    "harm": {
+      "id": "0030833",
+      "title": "834255 - Information services relating to traffic",
+      "conceptLink": "/ec2/concept/5979699"
+    }
+  },
+  {
+    "uri": "en/39/834147",
+    "id": "834147",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to refrigerated storage",
+    "harm": {
+      "id": "0028472",
+      "title": "834147 - Information services relating to refrigerated storage",
+      "conceptLink": "/ec2/concept/5977522"
+    }
+  },
+  {
+    "uri": "en/39/834134",
+    "id": "834134",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to methods of transport",
+    "harm": {
+      "id": "0016946",
+      "title": "834134 - Information services relating to methods of transport",
+      "conceptLink": "/ec2/concept/5966977"
+    }
+  },
+  {
+    "uri": "en/39/460416",
+    "id": "460416",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to travel",
+    "harm": {
+      "id": "0006214",
+      "title": "460416 - Information services relating to travel",
+      "conceptLink": "/ec2/concept/5957146"
+    }
+  },
+  {
+    "uri": "en/39/49211",
+    "id": "49211",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to transportation",
+    "harm": {
+      "id": "0047059",
+      "title": "49211 - Information services relating to transportation",
+      "conceptLink": "/ec2/concept/5994436"
+    }
+  },
+  {
+    "uri": "en/39/834159",
+    "id": "834159",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to road conditions",
+    "harm": {
+      "id": "0040014",
+      "title": "834159 - Information services relating to road conditions",
+      "conceptLink": "/ec2/concept/5988047"
+    }
+  },
+  {
+    "uri": "en/39/834228",
+    "id": "834228",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to the transportation of goods",
+    "harm": {
+      "id": "0042418",
+      "title": "834228 - Information services relating to the transportation of goods",
+      "conceptLink": "/ec2/concept/5990242"
+    }
+  },
+  {
+    "uri": "en/39/834269",
+    "id": "834269",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information services relating to traffic congestion",
+    "harm": {
+      "id": "0042419",
+      "title": "834269 - Information services relating to traffic congestion",
+      "conceptLink": "/ec2/concept/5990243"
+    }
+  },
+  {
+    "uri": "en/39/49206",
+    "id": "49206",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Information (Transportation -)",
+    "harm": {
+      "id": "0047059",
+      "title": "49206 - Information (Transportation -)",
+      "conceptLink": "/ec2/concept/5994436"
+    }
+  },
+  {
+    "uri": "en/39/120892372",
+    "id": "120892372",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Inland waterway transport",
+    "harm": {
+      "id": "0068763",
+      "title": "120892372 - Inland waterway transport",
+      "conceptLink": "/ec2/concept/6004966"
+    }
+  },
+  {
+    "uri": "en/39/482916",
+    "id": "482916",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Inspection of goods for transportation",
+    "harm": {
+      "id": "0009114",
+      "title": "482916 - Inspection of goods for transportation",
+      "conceptLink": "/ec2/concept/5959799"
+    }
+  },
+  {
+    "uri": "en/39/120889939",
+    "id": "120889939",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "International air freight shipping services",
+    "harm": {
+      "id": "0068753",
+      "title": "120889939 - International air freight shipping services",
+      "conceptLink": "/ec2/concept/6004956"
+    }
+  },
+  {
+    "uri": "en/39/120889163",
+    "id": "120889163",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "International ocean freight shipping services",
+    "harm": {
+      "id": "0068673",
+      "title": "120889163 - International ocean freight shipping services",
+      "conceptLink": "/ec2/concept/6004876"
+    }
+  },
+  {
+    "uri": "en/39/834309",
+    "id": "834309",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Issuing of tickets for travel",
+    "harm": {
+      "id": "0034447",
+      "title": "834309 - Issuing of tickets for travel",
+      "conceptLink": "/ec2/concept/5982979"
+    }
+  },
+  {
+    "uri": "en/39/834325",
+    "id": "834325",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Itinerary planning services",
+    "harm": {
+      "id": "0047272",
+      "title": "834325 - Itinerary planning services",
+      "conceptLink": "/ec2/concept/5994631"
+    }
+  },
+  {
+    "uri": "en/39/834349",
+    "id": "834349",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Itinerary travel advice services",
+    "harm": {
+      "id": "0022986",
+      "title": "834349 - Itinerary travel advice services",
+      "conceptLink": "/ec2/concept/5972490"
+    }
+  },
+  {
+    "uri": "en/39/18044780",
+    "id": "18044780",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Labelling services",
+    "harm": {
+      "id": "0070428",
+      "title": "18044780 - Labelling services",
+      "conceptLink": "/ec2/concept/6006621"
+    }
+  },
+  {
+    "uri": "en/39/834363",
+    "id": "834363",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Land freight services",
+    "harm": {
+      "id": "0034448",
+      "title": "834363 - Land freight services",
+      "conceptLink": "/ec2/concept/5982980"
+    }
+  },
+  {
+    "uri": "en/39/459215",
+    "id": "459215",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Launch and placement in prescribed orbit of satellites of others",
+    "harm": {
+      "id": "0020990",
+      "title": "459215 - Launch and placement in prescribed orbit of satellites of others",
+      "conceptLink": "/ec2/concept/5970668"
+    }
+  },
+  {
+    "uri": "en/39/834377",
+    "id": "834377",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Launching of satellites",
+    "harm": {
+      "id": "0034449",
+      "title": "834377 - Launching of satellites",
+      "conceptLink": "/ec2/concept/5982981"
+    }
+  },
+  {
+    "uri": "en/39/50023",
+    "id": "50023",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Launching of satellites for others",
+    "harm": {
+      "id": "0006826",
+      "title": "50023 - Launching of satellites for others",
+      "conceptLink": "/ec2/concept/5957701"
+    }
+  },
+  {
+    "uri": "en/39/834392",
+    "id": "834392",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Launching of spacecraft",
+    "harm": {
+      "id": "0040197",
+      "title": "834392 - Launching of spacecraft",
+      "conceptLink": "/ec2/concept/5988213"
+    }
+  },
+  {
+    "uri": "en/39/371101",
+    "id": "371101",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of aircraft",
+    "harm": {
+      "id": "0059150",
+      "title": "371101 - Leasing of aircraft",
+      "conceptLink": "/ec2/concept/6000639"
+    }
+  },
+  {
+    "uri": "en/39/834405",
+    "id": "834405",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of cargo container chassis",
+    "harm": {
+      "id": "0005586",
+      "title": "834405 - Leasing of cargo container chassis",
+      "conceptLink": "/ec2/concept/5956577"
+    }
+  },
+  {
+    "uri": "en/39/834420",
+    "id": "834420",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of cargo containers",
+    "harm": {
+      "id": "0026975",
+      "title": "834420 - Leasing of cargo containers",
+      "conceptLink": "/ec2/concept/5976144"
+    }
+  },
+  {
+    "uri": "en/39/44561",
+    "id": "44561",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of lorries",
+    "harm": {
+      "id": "0036980",
+      "title": "44561 - Leasing of lorries",
+      "conceptLink": "/ec2/concept/5985278"
+    }
+  },
+  {
+    "uri": "en/39/91829363",
+    "id": "91829363",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of motor vehicles",
+    "harm": {
+      "id": "0058584",
+      "title": "91829363 - Leasing of motor vehicles",
+      "conceptLink": "/ec2/concept/6000077"
+    }
+  },
+  {
+    "uri": "en/39/459230",
+    "id": "459230",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of pallets for industrial and commercial use",
+    "harm": {
+      "id": "0020991",
+      "title": "459230 - Leasing of pallets for industrial and commercial use",
+      "conceptLink": "/ec2/concept/5970669"
+    }
+  },
+  {
+    "uri": "en/39/120821817",
+    "id": "120821817",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of pallets for the transport or storage of goods",
+    "harm": {
+      "id": "0068788",
+      "title": "120821817 - Leasing of pallets for the transport or storage of goods",
+      "conceptLink": "/ec2/concept/6004991"
+    }
+  },
+  {
+    "uri": "en/39/459244",
+    "id": "459244",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of railroad flatcars",
+    "harm": {
+      "id": "0009295",
+      "title": "459244 - Leasing of railroad flatcars",
+      "conceptLink": "/ec2/concept/5959967"
+    }
+  },
+  {
+    "uri": "en/39/834460",
+    "id": "834460",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of road trailers",
+    "harm": {
+      "id": "0043274",
+      "title": "834460 - Leasing of road trailers",
+      "conceptLink": "/ec2/concept/5991014"
+    }
+  },
+  {
+    "uri": "en/39/45162",
+    "id": "45162",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of ships",
+    "harm": {
+      "id": "0011664",
+      "title": "45162 - Leasing of ships",
+      "conceptLink": "/ec2/concept/5962129"
+    }
+  },
+  {
+    "uri": "en/39/833920",
+    "id": "833920",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of storage units",
+    "harm": {
+      "id": "0046763",
+      "title": "833920 - Leasing of storage units",
+      "conceptLink": "/ec2/concept/5994169"
+    }
+  },
+  {
+    "uri": "en/39/834481",
+    "id": "834481",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of trailers",
+    "harm": {
+      "id": "0043274",
+      "title": "834481 - Leasing of trailers",
+      "conceptLink": "/ec2/concept/5991014"
+    }
+  },
+  {
+    "uri": "en/39/44540",
+    "id": "44540",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of trucks",
+    "harm": {
+      "id": "0036980",
+      "title": "44540 - Leasing of trucks",
+      "conceptLink": "/ec2/concept/5985278"
+    }
+  },
+  {
+    "uri": "en/39/44543",
+    "id": "44543",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of vehicles",
+    "harm": {
+      "id": "0058583",
+      "title": "44543 - Leasing of vehicles",
+      "conceptLink": "/ec2/concept/6000076"
+    }
+  },
+  {
+    "uri": "en/39/46785",
+    "id": "46785",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing of warehouse units",
+    "harm": {
+      "id": "0046740",
+      "title": "46785 - Leasing of warehouse units",
+      "conceptLink": "/ec2/concept/5994148"
+    }
+  },
+  {
+    "uri": "en/39/110824295",
+    "id": "110824295",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Leasing the use of power lines to third parties for the transmission of electricity",
+    "harm": {
+      "id": "0068787",
+      "title": "110824295 - Leasing the use of power lines to third parties for the transmission of electricity",
+      "conceptLink": "/ec2/concept/6004990"
+    }
+  },
+  {
+    "uri": "en/39/125055532",
+    "id": "125055532",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Letters (Collection of -)",
+    "harm": {
+      "id": "0042316",
+      "title": "125055532 - Letters (Collection of -)",
+      "conceptLink": "/ec2/concept/5990147"
+    }
+  },
+  {
+    "uri": "en/39/125056332",
+    "id": "125056332",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Letters (Delivery of -)",
+    "harm": {
+      "id": "0001016",
+      "title": "125056332 - Letters (Delivery of -)",
+      "conceptLink": "/ec2/concept/5952398"
+    }
+  },
+  {
+    "uri": "en/39/45363",
+    "id": "45363",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Lighterage services",
+    "harm": {
+      "id": "0023392",
+      "title": "45363 - Lighterage services",
+      "conceptLink": "/ec2/concept/5972866"
+    }
+  },
+  {
+    "uri": "en/39/459256",
+    "id": "459256",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Limousine services",
+    "harm": {
+      "id": "0015151",
+      "title": "459256 - Limousine services",
+      "conceptLink": "/ec2/concept/5965327"
+    }
+  },
+  {
+    "uri": "en/39/1307071",
+    "id": "1307071",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading and unloading of vehicles",
+    "harm": {
+      "id": "0073899",
+      "title": "1307071 - Loading and unloading of vehicles",
+      "conceptLink": "/ec2/concept/6010851"
+    }
+  },
+  {
+    "uri": "en/39/120891021",
+    "id": "120891021",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading and unloading of airplanes",
+    "harm": {
+      "id": "0068658",
+      "title": "120891021 - Loading and unloading of airplanes",
+      "conceptLink": "/ec2/concept/6004861"
+    }
+  },
+  {
+    "uri": "en/39/1150372",
+    "id": "1150372",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading and unloading of goods",
+    "harm": {
+      "id": "0068694",
+      "title": "1150372 - Loading and unloading of goods",
+      "conceptLink": "/ec2/concept/6004897"
+    }
+  },
+  {
+    "uri": "en/39/834494",
+    "id": "834494",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of air freight",
+    "harm": {
+      "id": "0026674",
+      "title": "834494 - Loading of air freight",
+      "conceptLink": "/ec2/concept/5975874"
+    }
+  },
+  {
+    "uri": "en/39/831896",
+    "id": "831896",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of cargo",
+    "harm": {
+      "id": "0058565",
+      "title": "831896 - Loading of cargo",
+      "conceptLink": "/ec2/concept/6000058"
+    }
+  },
+  {
+    "uri": "en/39/834508",
+    "id": "834508",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of coal",
+    "harm": {
+      "id": "0038280",
+      "title": "834508 - Loading of coal",
+      "conceptLink": "/ec2/concept/5986459"
+    }
+  },
+  {
+    "uri": "en/39/834521",
+    "id": "834521",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of coke",
+    "harm": {
+      "id": "0015201",
+      "title": "834521 - Loading of coke",
+      "conceptLink": "/ec2/concept/5965375"
+    }
+  },
+  {
+    "uri": "en/39/831897",
+    "id": "831897",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of freight",
+    "harm": {
+      "id": "0058564",
+      "title": "831897 - Loading of freight",
+      "conceptLink": "/ec2/concept/6000057"
+    }
+  },
+  {
+    "uri": "en/39/120890965",
+    "id": "120890965",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of freight containers onto ships",
+    "harm": {
+      "id": "0068650",
+      "title": "120890965 - Loading of freight containers onto ships",
+      "conceptLink": "/ec2/concept/6004853"
+    }
+  },
+  {
+    "uri": "en/39/120890974",
+    "id": "120890974",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of freight containers onto rail vehicles",
+    "harm": {
+      "id": "0068648",
+      "title": "120890974 - Loading of freight containers onto rail vehicles",
+      "conceptLink": "/ec2/concept/6004851"
+    }
+  },
+  {
+    "uri": "en/39/120890981",
+    "id": "120890981",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of freight containers onto trucks",
+    "harm": {
+      "id": "0068646",
+      "title": "120890981 - Loading of freight containers onto trucks",
+      "conceptLink": "/ec2/concept/6004849"
+    }
+  },
+  {
+    "uri": "en/39/834548",
+    "id": "834548",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of ore",
+    "harm": {
+      "id": "0032445",
+      "title": "834548 - Loading of ore",
+      "conceptLink": "/ec2/concept/5981147"
+    }
+  },
+  {
+    "uri": "en/39/834561",
+    "id": "834561",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of scrap",
+    "harm": {
+      "id": "0009337",
+      "title": "834561 - Loading of scrap",
+      "conceptLink": "/ec2/concept/5960006"
+    }
+  },
+  {
+    "uri": "en/39/834575",
+    "id": "834575",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of ships",
+    "harm": {
+      "id": "0015202",
+      "title": "834575 - Loading of ships",
+      "conceptLink": "/ec2/concept/5965376"
+    }
+  },
+  {
+    "uri": "en/39/834598",
+    "id": "834598",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of slag",
+    "harm": {
+      "id": "0011426",
+      "title": "834598 - Loading of slag",
+      "conceptLink": "/ec2/concept/5961911"
+    }
+  },
+  {
+    "uri": "en/39/834610",
+    "id": "834610",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of trains",
+    "harm": {
+      "id": "0046041",
+      "title": "834610 - Loading of trains",
+      "conceptLink": "/ec2/concept/5993556"
+    }
+  },
+  {
+    "uri": "en/39/834623",
+    "id": "834623",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loading of trucks",
+    "harm": {
+      "id": "0028760",
+      "title": "834623 - Loading of trucks",
+      "conceptLink": "/ec2/concept/5977794"
+    }
+  },
+  {
+    "uri": "en/39/44562",
+    "id": "44562",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loan of vehicles",
+    "harm": {
+      "id": "0011427",
+      "title": "44562 - Loan of vehicles",
+      "conceptLink": "/ec2/concept/5961912"
+    }
+  },
+  {
+    "uri": "en/39/370803",
+    "id": "370803",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Loaning and rental of aeroplanes",
+    "harm": {
+      "id": "0025960",
+      "title": "370803 - Loaning and rental of aeroplanes",
+      "conceptLink": "/ec2/concept/5975225"
+    }
+  },
+  {
+    "uri": "en/39/125196322",
+    "id": "125196322",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Lorries (Rental of -)",
+    "harm": {
+      "id": "0036980",
+      "title": "125196322 - Lorries (Rental of -)",
+      "conceptLink": "/ec2/concept/5985278"
+    }
+  },
+  {
+    "uri": "en/39/834636",
+    "id": "834636",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Luggage storage services",
+    "harm": {
+      "id": "0029850",
+      "title": "834636 - Luggage storage services",
+      "conceptLink": "/ec2/concept/5978788"
+    }
+  },
+  {
+    "uri": "en/39/459277",
+    "id": "459277",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Luggage trolley service",
+    "harm": {
+      "id": "0043969",
+      "title": "459277 - Luggage trolley service",
+      "conceptLink": "/ec2/concept/5991655"
+    }
+  },
+  {
+    "uri": "en/39/459308",
+    "id": "459308",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mail box rental",
+    "harm": {
+      "id": "0012395",
+      "title": "459308 - Mail box rental",
+      "conceptLink": "/ec2/concept/5962809"
+    }
+  },
+  {
+    "uri": "en/39/124695746",
+    "id": "124695746",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mail-boxes (Rental of -)",
+    "harm": {
+      "id": "0012395",
+      "title": "124695746 - Mail-boxes (Rental of -)",
+      "conceptLink": "/ec2/concept/5962809"
+    }
+  },
+  {
+    "uri": "en/39/49718",
+    "id": "49718",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mail delivery",
+    "harm": {
+      "id": "0005752",
+      "title": "49718 - Mail delivery",
+      "conceptLink": "/ec2/concept/5956723"
+    }
+  },
+  {
+    "uri": "en/39/131140730",
+    "id": "131140730",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mail delivery and courier services",
+    "harm": {
+      "id": "0048058",
+      "title": "131140730 - Mail delivery and courier services",
+      "conceptLink": "/ec2/concept/5995317"
+    }
+  },
+  {
+    "uri": "en/39/834650",
+    "id": "834650",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mail forwarding",
+    "harm": {
+      "id": "0046042",
+      "title": "834650 - Mail forwarding",
+      "conceptLink": "/ec2/concept/5993557"
+    }
+  },
+  {
+    "uri": "en/39/125153686",
+    "id": "125153686",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Making travel bookings (Services for -)",
+    "harm": {
+      "id": "0047612",
+      "title": "125153686 - Making travel bookings (Services for -)",
+      "conceptLink": "/ec2/concept/5994891"
+    }
+  },
+  {
+    "uri": "en/39/125153687",
+    "id": "125153687",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Making travel reservations (Services for -)",
+    "harm": {
+      "id": "0012010",
+      "title": "125153687 - Making travel reservations (Services for -)",
+      "conceptLink": "/ec2/concept/5962456"
+    }
+  },
+  {
+    "uri": "en/39/905086",
+    "id": "905086",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Management of vehicular traffic flow through advanced communications network and technology",
+    "harm": {
+      "id": "0028815",
+      "title": "905086 - Management of vehicular traffic flow through advanced communications network and technology",
+      "conceptLink": "/ec2/concept/5977844"
+    }
+  },
+  {
+    "uri": "en/39/22369409",
+    "id": "22369409",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marina services",
+    "harm": {
+      "id": "0068786",
+      "title": "22369409 - Marina services",
+      "conceptLink": "/ec2/concept/6004989"
+    }
+  },
+  {
+    "uri": "en/39/905088",
+    "id": "905088",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marina services [berthing, mooring, storage]",
+    "harm": {
+      "id": "0005746",
+      "title": "905088 - Marina services [berthing, mooring, storage]",
+      "conceptLink": "/ec2/concept/5956718"
+    }
+  },
+  {
+    "uri": "en/39/459330",
+    "id": "459330",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marina services [docking services]",
+    "harm": {
+      "id": "0046102",
+      "title": "459330 - Marina services [docking services]",
+      "conceptLink": "/ec2/concept/5993613"
+    }
+  },
+  {
+    "uri": "en/39/48704",
+    "id": "48704",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine freighting",
+    "harm": {
+      "id": "0046461",
+      "title": "48704 - Marine freighting",
+      "conceptLink": "/ec2/concept/5993909"
+    }
+  },
+  {
+    "uri": "en/39/834693",
+    "id": "834693",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine salvage",
+    "harm": {
+      "id": "0001975",
+      "title": "834693 - Marine salvage",
+      "conceptLink": "/ec2/concept/5953266"
+    }
+  },
+  {
+    "uri": "en/39/370830",
+    "id": "370830",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine towage",
+    "harm": {
+      "id": "0059406",
+      "title": "370830 - Marine towage",
+      "conceptLink": "/ec2/concept/6000884"
+    }
+  },
+  {
+    "uri": "en/39/370829",
+    "id": "370829",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine towing",
+    "harm": {
+      "id": "0059406",
+      "title": "370829 - Marine towing",
+      "conceptLink": "/ec2/concept/6000884"
+    }
+  },
+  {
+    "uri": "en/39/48702",
+    "id": "48702",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine transport",
+    "harm": {
+      "id": "0046319",
+      "title": "48702 - Marine transport",
+      "conceptLink": "/ec2/concept/5993779"
+    }
+  },
+  {
+    "uri": "en/39/120889748",
+    "id": "120889748",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine transport of liquefied natural gas",
+    "harm": {
+      "id": "0068743",
+      "title": "120889748 - Marine transport of liquefied natural gas",
+      "conceptLink": "/ec2/concept/6004946"
+    }
+  },
+  {
+    "uri": "en/39/48703",
+    "id": "48703",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Marine transport services",
+    "harm": {
+      "id": "0046319",
+      "title": "48703 - Marine transport services",
+      "conceptLink": "/ec2/concept/5993779"
+    }
+  },
+  {
+    "uri": "en/39/370831",
+    "id": "370831",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Maritime towing",
+    "harm": {
+      "id": "0059407",
+      "title": "370831 - Maritime towing",
+      "conceptLink": "/ec2/concept/6000885"
+    }
+  },
+  {
+    "uri": "en/39/834704",
+    "id": "834704",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Maritime towing services",
+    "harm": {
+      "id": "0059407",
+      "title": "834704 - Maritime towing services",
+      "conceptLink": "/ec2/concept/6000885"
+    }
+  },
+  {
+    "uri": "en/39/905121",
+    "id": "905121",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Mass transit services for the general public",
+    "harm": {
+      "id": "0021918",
+      "title": "905121 - Mass transit services for the general public",
+      "conceptLink": "/ec2/concept/5971516"
+    }
+  },
+  {
+    "uri": "en/39/125057782",
+    "id": "125057782",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Merchandise (Packing of -)",
+    "harm": {
+      "id": "0059223",
+      "title": "125057782 - Merchandise (Packing of -)",
+      "conceptLink": "/ec2/concept/6000712"
+    }
+  },
+  {
+    "uri": "en/39/49717",
+    "id": "49717",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Message delivery",
+    "harm": {
+      "id": "0035723",
+      "title": "49717 - Message delivery",
+      "conceptLink": "/ec2/concept/5984134"
+    }
+  },
+  {
+    "uri": "en/39/834720",
+    "id": "834720",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Messenger courier services",
+    "harm": {
+      "id": "0030848",
+      "title": "834720 - Messenger courier services",
+      "conceptLink": "/ec2/concept/5979713"
+    }
+  },
+  {
+    "uri": "en/39/125056270",
+    "id": "125056270",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Messenger (Delivery of goods by -)",
+    "harm": {
+      "id": "0006774",
+      "title": "125056270 - Messenger (Delivery of goods by -)",
+      "conceptLink": "/ec2/concept/5957655"
+    }
+  },
+  {
+    "uri": "en/39/834751",
+    "id": "834751",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Messenger services for letters",
+    "harm": {
+      "id": "0036699",
+      "title": "834751 - Messenger services for letters",
+      "conceptLink": "/ec2/concept/5985024"
+    }
+  },
+  {
+    "uri": "en/39/832724",
+    "id": "832724",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Messenger services for messages",
+    "harm": {
+      "id": "0030742",
+      "title": "832724 - Messenger services for messages",
+      "conceptLink": "/ec2/concept/5979615"
+    }
+  },
+  {
+    "uri": "en/39/834764",
+    "id": "834764",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Minibus transport services",
+    "harm": {
+      "id": "0030849",
+      "title": "834764 - Minibus transport services",
+      "conceptLink": "/ec2/concept/5979714"
+    }
+  },
+  {
+    "uri": "en/39/370876",
+    "id": "370876",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Monorail transport",
+    "harm": {
+      "id": "0000180",
+      "title": "370876 - Monorail transport",
+      "conceptLink": "/ec2/concept/5951655"
+    }
+  },
+  {
+    "uri": "en/39/44565",
+    "id": "44565",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor car rental",
+    "harm": {
+      "id": "0058584",
+      "title": "44565 - Motor car rental",
+      "conceptLink": "/ec2/concept/6000077"
+    }
+  },
+  {
+    "uri": "en/39/44897",
+    "id": "44897",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor car transport services",
+    "harm": {
+      "id": "0011473",
+      "title": "44897 - Motor car transport services",
+      "conceptLink": "/ec2/concept/5961953"
+    }
+  },
+  {
+    "uri": "en/39/119552173",
+    "id": "119552173",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor coach rental",
+    "harm": {
+      "id": "0059153",
+      "title": "119552173 - Motor coach rental",
+      "conceptLink": "/ec2/concept/6000642"
+    }
+  },
+  {
+    "uri": "en/39/834786",
+    "id": "834786",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor land vehicle hire services",
+    "harm": {
+      "id": "0030850",
+      "title": "834786 - Motor land vehicle hire services",
+      "conceptLink": "/ec2/concept/5979715"
+    }
+  },
+  {
+    "uri": "en/39/834787",
+    "id": "834787",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor land vehicle leasing services",
+    "harm": {
+      "id": "0030850",
+      "title": "834787 - Motor land vehicle leasing services",
+      "conceptLink": "/ec2/concept/5979715"
+    }
+  },
+  {
+    "uri": "en/39/834788",
+    "id": "834788",
+    "lang": "en",
+    "classNumber": "39",
+    "term": "Motor land vehicle renting",
+    "harm": {
+      "id": "0030850",
+      "title": "834788 - Motor land vehicle renting",
+      "conceptLink": "/ec2/concept/5979715"
+    }
+  }
+]

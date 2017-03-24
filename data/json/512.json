@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/25/7074202",
+    "id": "7074202",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wind suits",
+    "harm": {
+      "id": "0067179",
+      "title": "7074202 - Wind suits",
+      "conceptLink": "/ec2/concept/6003382"
+    }
+  },
+  {
+    "uri": "en/25/355685",
+    "id": "355685",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wind vests",
+    "harm": {
+      "id": "0001177",
+      "title": "355685 - Wind vests",
+      "conceptLink": "/ec2/concept/5952548"
+    }
+  },
+  {
+    "uri": "en/25/355687",
+    "id": "355687",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Windcheaters",
+    "harm": {
+      "id": "0057664",
+      "title": "355687 - Windcheaters",
+      "conceptLink": "/ec2/concept/5999168"
+    }
+  },
+  {
+    "uri": "en/25/34073323",
+    "id": "34073323",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Windproof clothing",
+    "harm": {
+      "id": "0067167",
+      "title": "34073323 - Windproof clothing",
+      "conceptLink": "/ec2/concept/6003370"
+    }
+  },
+  {
+    "uri": "en/25/355689",
+    "id": "355689",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Windproof jackets",
+    "harm": {
+      "id": "0057664",
+      "title": "355689 - Windproof jackets",
+      "conceptLink": "/ec2/concept/5999168"
+    }
+  },
+  {
+    "uri": "en/25/23806939",
+    "id": "23806939",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Windshirts",
+    "harm": {
+      "id": "0071163",
+      "title": "23806939 - Windshirts",
+      "conceptLink": "/ec2/concept/6007355"
+    }
+  },
+  {
+    "uri": "en/25/355761",
+    "id": "355761",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Winter boots",
+    "harm": {
+      "id": "0041651",
+      "title": "355761 - Winter boots",
+      "conceptLink": "/ec2/concept/5989542"
+    }
+  },
+  {
+    "uri": "en/25/132946583",
+    "id": "132946583",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Winter coats",
+    "harm": {
+      "id": "0060861",
+      "title": "132946583 - Winter coats",
+      "conceptLink": "/ec2/concept/6001181"
+    }
+  },
+  {
+    "uri": "en/25/3231902",
+    "id": "3231902",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Winter gloves",
+    "harm": {
+      "id": "0067135",
+      "title": "3231902 - Winter gloves",
+      "conceptLink": "/ec2/concept/6003338"
+    }
+  },
+  {
+    "uri": "en/25/355776",
+    "id": "355776",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Women's ceremonial dresses",
+    "harm": {
+      "id": "0035879",
+      "title": "355776 - Women's ceremonial dresses",
+      "conceptLink": "/ec2/concept/5984272"
+    }
+  },
+  {
+    "uri": "en/25/908164",
+    "id": "908164",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Women's foldable slippers",
+    "harm": {
+      "id": "0022617",
+      "title": "908164 - Women's foldable slippers",
+      "conceptLink": "/ec2/concept/5972153"
+    }
+  },
+  {
+    "uri": "en/25/353435",
+    "id": "353435",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Women's shoes",
+    "harm": {
+      "id": "0041178",
+      "title": "353435 - Women's shoes",
+      "conceptLink": "/ec2/concept/5989106"
+    }
+  },
+  {
+    "uri": "en/25/354053",
+    "id": "354053",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Women's suits",
+    "harm": {
+      "id": "0018300",
+      "title": "354053 - Women's suits",
+      "conceptLink": "/ec2/concept/5968207"
+    }
+  },
+  {
+    "uri": "en/25/269287",
+    "id": "269287",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Women's underwear",
+    "harm": {
+      "id": "0059295",
+      "title": "269287 - Women's underwear",
+      "conceptLink": "/ec2/concept/6000777"
+    }
+  },
+  {
+    "uri": "en/25/598294",
+    "id": "598294",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Womens' outerclothing",
+    "harm": {
+      "id": "0007732",
+      "title": "598294 - Womens' outerclothing",
+      "conceptLink": "/ec2/concept/5958531"
+    }
+  },
+  {
+    "uri": "en/25/269288",
+    "id": "269288",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Womens' underclothing",
+    "harm": {
+      "id": "0059295",
+      "title": "269288 - Womens' underclothing",
+      "conceptLink": "/ec2/concept/6000777"
+    }
+  },
+  {
+    "uri": "en/25/269289",
+    "id": "269289",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Womens' undergarments",
+    "harm": {
+      "id": "0059295",
+      "title": "269289 - Womens' undergarments",
+      "conceptLink": "/ec2/concept/6000777"
+    }
+  },
+  {
+    "uri": "en/25/120817312",
+    "id": "120817312",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wooden bodies for Japanese style clogs",
+    "harm": {
+      "id": "0018566",
+      "title": "120817312 - Wooden bodies for Japanese style clogs",
+      "conceptLink": "/ec2/concept/5968454"
+    }
+  },
+  {
+    "uri": "en/25/119543088",
+    "id": "119543088",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wooden main bodies of Japanese style wooden clogs",
+    "harm": {
+      "id": "0018566",
+      "title": "119543088 - Wooden main bodies of Japanese style wooden clogs",
+      "conceptLink": "/ec2/concept/5968454"
+    }
+  },
+  {
+    "uri": "en/25/272970",
+    "id": "272970",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wooden shoes",
+    "harm": {
+      "id": "0011688",
+      "title": "272970 - Wooden shoes",
+      "conceptLink": "/ec2/concept/5962153"
+    }
+  },
+  {
+    "uri": "en/25/119543089",
+    "id": "119543089",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wooden shoes [footwear]",
+    "harm": {
+      "id": "0011688",
+      "title": "119543089 - Wooden shoes [footwear]",
+      "conceptLink": "/ec2/concept/5962153"
+    }
+  },
+  {
+    "uri": "en/25/119543090",
+    "id": "119543090",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wooden supports of Japanese style wooden clogs",
+    "harm": {
+      "id": "0013753",
+      "title": "119543090 - Wooden supports of Japanese style wooden clogs",
+      "conceptLink": "/ec2/concept/5964039"
+    }
+  },
+  {
+    "uri": "en/25/120862395",
+    "id": "120862395",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woolen clothing",
+    "harm": {
+      "id": "0067186",
+      "title": "120862395 - Woolen clothing",
+      "conceptLink": "/ec2/concept/6003389"
+    }
+  },
+  {
+    "uri": "en/25/355816",
+    "id": "355816",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woollen socks",
+    "harm": {
+      "id": "0031050",
+      "title": "355816 - Woollen socks",
+      "conceptLink": "/ec2/concept/5979892"
+    }
+  },
+  {
+    "uri": "en/25/908182",
+    "id": "908182",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woollen tights",
+    "harm": {
+      "id": "0039802",
+      "title": "908182 - Woollen tights",
+      "conceptLink": "/ec2/concept/5987849"
+    }
+  },
+  {
+    "uri": "en/25/355832",
+    "id": "355832",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woolly hats",
+    "harm": {
+      "id": "0007900",
+      "title": "355832 - Woolly hats",
+      "conceptLink": "/ec2/concept/5958690"
+    }
+  },
+  {
+    "uri": "en/25/908184",
+    "id": "908184",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Work boots",
+    "harm": {
+      "id": "0034036",
+      "title": "908184 - Work boots",
+      "conceptLink": "/ec2/concept/5982605"
+    }
+  },
+  {
+    "uri": "en/25/14262002",
+    "id": "14262002",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Work clothes",
+    "harm": {
+      "id": "0067184",
+      "title": "14262002 - Work clothes",
+      "conceptLink": "/ec2/concept/6003387"
+    }
+  },
+  {
+    "uri": "en/25/75476384",
+    "id": "75476384",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Work overalls",
+    "harm": {
+      "id": "0058793",
+      "title": "75476384 - Work overalls",
+      "conceptLink": "/ec2/concept/6000284"
+    }
+  },
+  {
+    "uri": "en/25/908183",
+    "id": "908183",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Work shoes",
+    "harm": {
+      "id": "0010944",
+      "title": "908183 - Work shoes",
+      "conceptLink": "/ec2/concept/5961472"
+    }
+  },
+  {
+    "uri": "en/25/268144",
+    "id": "268144",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Working overalls",
+    "harm": {
+      "id": "0058793",
+      "title": "268144 - Working overalls",
+      "conceptLink": "/ec2/concept/6000284"
+    }
+  },
+  {
+    "uri": "en/25/57920886",
+    "id": "57920886",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woven clothing",
+    "harm": {
+      "id": "0071158",
+      "title": "57920886 - Woven clothing",
+      "conceptLink": "/ec2/concept/6007350"
+    }
+  },
+  {
+    "uri": "en/25/24234582",
+    "id": "24234582",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Woven shirts",
+    "harm": {
+      "id": "0071182",
+      "title": "24234582 - Woven shirts",
+      "conceptLink": "/ec2/concept/6007374"
+    }
+  },
+  {
+    "uri": "en/25/502934",
+    "id": "502934",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wrap belts for kimonos (datemaki)",
+    "harm": {
+      "id": "0021525",
+      "title": "502934 - Wrap belts for kimonos (datemaki)",
+      "conceptLink": "/ec2/concept/5971154"
+    }
+  },
+  {
+    "uri": "en/25/271339",
+    "id": "271339",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wraps [clothing]",
+    "harm": {
+      "id": "0058172",
+      "title": "271339 - Wraps [clothing]",
+      "conceptLink": "/ec2/concept/5999673"
+    }
+  },
+  {
+    "uri": "en/25/1418510",
+    "id": "1418510",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wrist bands",
+    "harm": {
+      "id": "0007901",
+      "title": "1418510 - Wrist bands",
+      "conceptLink": "/ec2/concept/5958691"
+    }
+  },
+  {
+    "uri": "en/25/599633",
+    "id": "599633",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wrist warmers",
+    "harm": {
+      "id": "0030882",
+      "title": "599633 - Wrist warmers",
+      "conceptLink": "/ec2/concept/5979743"
+    }
+  },
+  {
+    "uri": "en/25/272491",
+    "id": "272491",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wristbands",
+    "harm": {
+      "id": "0007901",
+      "title": "272491 - Wristbands",
+      "conceptLink": "/ec2/concept/5958691"
+    }
+  },
+  {
+    "uri": "en/25/272493",
+    "id": "272493",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Wristbands [clothing]",
+    "harm": {
+      "id": "0007901",
+      "title": "272493 - Wristbands [clothing]",
+      "conceptLink": "/ec2/concept/5958691"
+    }
+  },
+  {
+    "uri": "en/25/599646",
+    "id": "599646",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yashmaghs",
+    "harm": {
+      "id": "0002020",
+      "title": "599646 - Yashmaghs",
+      "conceptLink": "/ec2/concept/5953307"
+    }
+  },
+  {
+    "uri": "en/25/599659",
+    "id": "599659",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yashmaks",
+    "harm": {
+      "id": "0025157",
+      "title": "599659 - Yashmaks",
+      "conceptLink": "/ec2/concept/5974491"
+    }
+  },
+  {
+    "uri": "en/25/137746625",
+    "id": "137746625",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yoga bottoms",
+    "harm": {
+      "id": "0067182",
+      "title": "137746625 - Yoga bottoms",
+      "conceptLink": "/ec2/concept/6003385"
+    }
+  },
+  {
+    "uri": "en/25/23938408",
+    "id": "23938408",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yoga pants",
+    "harm": {
+      "id": "0067182",
+      "title": "23938408 - Yoga pants",
+      "conceptLink": "/ec2/concept/6003385"
+    }
+  },
+  {
+    "uri": "en/25/23938430",
+    "id": "23938430",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yoga shirts",
+    "harm": {
+      "id": "0067176",
+      "title": "23938430 - Yoga shirts",
+      "conceptLink": "/ec2/concept/6003379"
+    }
+  },
+  {
+    "uri": "en/25/120863062",
+    "id": "120863062",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yoga shoes",
+    "harm": {
+      "id": "0067169",
+      "title": "120863062 - Yoga shoes",
+      "conceptLink": "/ec2/concept/6003372"
+    }
+  },
+  {
+    "uri": "en/25/271519",
+    "id": "271519",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Yokes (Shirt -)",
+    "harm": {
+      "id": "0013942",
+      "title": "271519 - Yokes (Shirt -)",
+      "conceptLink": "/ec2/concept/5964215"
+    }
+  },
+  {
+    "uri": "en/25/45456737",
+    "id": "45456737",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Zoot suits",
+    "harm": {
+      "id": "0067228",
+      "title": "45456737 - Zoot suits",
+      "conceptLink": "/ec2/concept/6003431"
+    }
+  },
+  {
+    "uri": "en/25/599671",
+    "id": "599671",
+    "lang": "en",
+    "classNumber": "25",
+    "term": "Zori",
+    "harm": {
+      "id": "0007733",
+      "title": "599671 - Zori",
+      "conceptLink": "/ec2/concept/5958532"
+    }
+  },
+  {
+    "uri": "en/26/131123031",
+    "id": "131123031",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Accessories for apparel, sewing articles and decorative textile articles",
+    "harm": {
+      "id": "0047943",
+      "title": "131123031 - Accessories for apparel, sewing articles and decorative textile articles",
+      "conceptLink": "/ec2/concept/5995205"
+    }
+  },
+  {
+    "uri": "en/26/119543111",
+    "id": "119543111",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Aluminum foil sheets for hair frosting",
+    "harm": {
+      "id": "0067297",
+      "title": "119543111 - Aluminum foil sheets for hair frosting",
+      "conceptLink": "/ec2/concept/6003500"
+    }
+  },
+  {
+    "uri": "en/26/119543112",
+    "id": "119543112",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Ankle garters",
+    "harm": {
+      "id": "0067285",
+      "title": "119543112 - Ankle garters",
+      "conceptLink": "/ec2/concept/6003488"
+    }
+  },
+  {
+    "uri": "en/26/129399058",
+    "id": "129399058",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Appliqués [haberdashery]",
+    "harm": {
+      "id": "0046265",
+      "title": "129399058 - Appliqués [haberdashery]",
+      "conceptLink": "/ec2/concept/5993728"
+    }
+  },
+  {
+    "uri": "en/26/275667",
+    "id": "275667",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Arm bands [clothing accessories]",
+    "harm": {
+      "id": "0042063",
+      "title": "275667 - Arm bands [clothing accessories]",
+      "conceptLink": "/ec2/concept/5989913"
+    }
+  },
+  {
+    "uri": "en/26/120954474",
+    "id": "120954474",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Armband for holding sleeves",
+    "harm": {
+      "id": "0050417",
+      "title": "120954474 - Armband for holding sleeves",
+      "conceptLink": "/ec2/concept/5995624"
+    }
+  },
+  {
+    "uri": "en/26/136633620",
+    "id": "136633620",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Armbands for holding sleeves",
+    "harm": {
+      "id": "0050417",
+      "title": "136633620 - Armbands for holding sleeves",
+      "conceptLink": "/ec2/concept/5995624"
+    }
+  },
+  {
+    "uri": "en/26/900635",
+    "id": "900635",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial blossoms for attachment to clothing",
+    "harm": {
+      "id": "0030509",
+      "title": "900635 - Artificial blossoms for attachment to clothing",
+      "conceptLink": "/ec2/concept/5979397"
+    }
+  },
+  {
+    "uri": "en/26/120816055",
+    "id": "120816055",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial Christmas garlands",
+    "harm": {
+      "id": "0067286",
+      "title": "120816055 - Artificial Christmas garlands",
+      "conceptLink": "/ec2/concept/6003489"
+    }
+  },
+  {
+    "uri": "en/26/104912215",
+    "id": "104912215",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial Christmas wreaths",
+    "harm": {
+      "id": "0067278",
+      "title": "104912215 - Artificial Christmas wreaths",
+      "conceptLink": "/ec2/concept/6003481"
+    }
+  },
+  {
+    "uri": "en/26/900637",
+    "id": "900637",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial corsages",
+    "harm": {
+      "id": "0019002",
+      "title": "900637 - Artificial corsages",
+      "conceptLink": "/ec2/concept/5968860"
+    }
+  },
+  {
+    "uri": "en/26/432898",
+    "id": "432898",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flower arrangements",
+    "harm": {
+      "id": "0036778",
+      "title": "432898 - Artificial flower arrangements",
+      "conceptLink": "/ec2/concept/5985094"
+    }
+  },
+  {
+    "uri": "en/26/48159696",
+    "id": "48159696",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flower wreaths",
+    "harm": {
+      "id": "0059520",
+      "title": "48159696 - Artificial flower wreaths",
+      "conceptLink": "/ec2/concept/6000993"
+    }
+  },
+  {
+    "uri": "en/26/277095",
+    "id": "277095",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flowers",
+    "harm": {
+      "id": "0036724",
+      "title": "277095 - Artificial flowers",
+      "conceptLink": "/ec2/concept/5985047"
+    }
+  },
+  {
+    "uri": "en/26/355851",
+    "id": "355851",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flowers of paper",
+    "harm": {
+      "id": "0031051",
+      "title": "355851 - Artificial flowers of paper",
+      "conceptLink": "/ec2/concept/5979893"
+    }
+  },
+  {
+    "uri": "en/26/355864",
+    "id": "355864",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flowers of plastics",
+    "harm": {
+      "id": "0019611",
+      "title": "355864 - Artificial flowers of plastics",
+      "conceptLink": "/ec2/concept/5969414"
+    }
+  },
+  {
+    "uri": "en/26/355881",
+    "id": "355881",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial flowers of textile",
+    "harm": {
+      "id": "0002177",
+      "title": "355881 - Artificial flowers of textile",
+      "conceptLink": "/ec2/concept/5953445"
+    }
+  },
+  {
+    "uri": "en/26/120897570",
+    "id": "120897570",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial foliage",
+    "harm": {
+      "id": "0067272",
+      "title": "120897570 - Artificial foliage",
+      "conceptLink": "/ec2/concept/6003475"
+    }
+  },
+  {
+    "uri": "en/26/277152",
+    "id": "277152",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial fruit",
+    "harm": {
+      "id": "0006820",
+      "title": "277152 - Artificial fruit",
+      "conceptLink": "/ec2/concept/5957695"
+    }
+  },
+  {
+    "uri": "en/26/131123077",
+    "id": "131123077",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial fruit, flowers and vegetables",
+    "harm": {
+      "id": "0047944",
+      "title": "131123077 - Artificial fruit, flowers and vegetables",
+      "conceptLink": "/ec2/concept/5995206"
+    }
+  },
+  {
+    "uri": "en/26/277450",
+    "id": "277450",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial garlands",
+    "harm": {
+      "id": "0047593",
+      "title": "277450 - Artificial garlands",
+      "conceptLink": "/ec2/concept/5994876"
+    }
+  },
+  {
+    "uri": "en/26/277451",
+    "id": "277451",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial garlands and wreaths",
+    "harm": {
+      "id": "0040947",
+      "title": "277451 - Artificial garlands and wreaths",
+      "conceptLink": "/ec2/concept/5988893"
+    }
+  },
+  {
+    "uri": "en/26/16584746",
+    "id": "16584746",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial plants",
+    "harm": {
+      "id": "0047328",
+      "title": "16584746 - Artificial plants",
+      "conceptLink": "/ec2/concept/5994674"
+    }
+  },
+  {
+    "uri": "en/26/890660",
+    "id": "890660",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial topiaries",
+    "harm": {
+      "id": "0041777",
+      "title": "890660 - Artificial topiaries",
+      "conceptLink": "/ec2/concept/5989653"
+    }
+  },
+  {
+    "uri": "en/26/119543131",
+    "id": "119543131",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial trees [other than Christmas trees]",
+    "harm": {
+      "id": "0073966",
+      "title": "119543131 - Artificial trees [other than Christmas trees]",
+      "conceptLink": "/ec2/concept/6011202"
+    }
+  },
+  {
+    "uri": "en/26/132853510",
+    "id": "132853510",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial trees, other than Christmas trees",
+    "harm": {
+      "id": "0073966",
+      "title": "132853510 - Artificial trees, other than Christmas trees",
+      "conceptLink": "/ec2/concept/6011202"
+    }
+  },
+  {
+    "uri": "en/26/138200304",
+    "id": "138200304",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial vegetables",
+    "harm": {
+      "id": "0070227",
+      "title": "138200304 - Artificial vegetables",
+      "conceptLink": "/ec2/concept/6006420"
+    }
+  },
+  {
+    "uri": "en/26/277452",
+    "id": "277452",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Artificial wreaths",
+    "harm": {
+      "id": "0059521",
+      "title": "277452 - Artificial wreaths",
+      "conceptLink": "/ec2/concept/6000994"
+    }
+  },
+  {
+    "uri": "en/26/502949",
+    "id": "502949",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Back-hairpieces fixing pins for Japanese hair styling (tabodome)",
+    "harm": {
+      "id": "0032906",
+      "title": "502949 - Back-hairpieces fixing pins for Japanese hair styling (tabodome)",
+      "conceptLink": "/ec2/concept/5981567"
+    }
+  },
+  {
+    "uri": "en/26/502962",
+    "id": "502962",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Back-hairpieces for Japanese hair styling (tabomino)",
+    "harm": {
+      "id": "0027149",
+      "title": "502962 - Back-hairpieces for Japanese hair styling (tabomino)",
+      "conceptLink": "/ec2/concept/5976291"
+    }
+  },
+  {
+    "uri": "en/26/278507",
+    "id": "278507",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Badges [buttons] (Ornamental novelty -)",
+    "harm": {
+      "id": "0025486",
+      "title": "278507 - Badges [buttons] (Ornamental novelty -)",
+      "conceptLink": "/ec2/concept/5974797"
+    }
+  },
+  {
+    "uri": "en/26/278448",
+    "id": "278448",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Badges for wear, not of precious metal",
+    "harm": {
+      "id": "0017818",
+      "title": "278448 - Badges for wear, not of precious metal",
+      "conceptLink": "/ec2/concept/5967766"
+    }
+  },
+  {
+    "uri": "en/26/128515217",
+    "id": "128515217",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Bags [Zip fasteners for -]",
+    "harm": {
+      "id": "0007594",
+      "title": "128515217 - Bags [Zip fasteners for -]",
+      "conceptLink": "/ec2/concept/5958408"
+    }
+  },
+  {
+    "uri": "en/26/275632",
+    "id": "275632",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Bands (Expanding -) for holding sleeves",
+    "harm": {
+      "id": "0042062",
+      "title": "275632 - Bands (Expanding -) for holding sleeves",
+      "conceptLink": "/ec2/concept/5989912"
+    }
+  },
+  {
+    "uri": "en/26/275163",
+    "id": "275163",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Bands for the hair",
+    "harm": {
+      "id": "0058218",
+      "title": "275163 - Bands for the hair",
+      "conceptLink": "/ec2/concept/5999719"
+    }
+  },
+  {
+    "uri": "en/26/275165",
+    "id": "275165",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Bands (Hair -)",
+    "harm": {
+      "id": "0058218",
+      "title": "275165 - Bands (Hair -)",
+      "conceptLink": "/ec2/concept/5999719"
+    }
+  },
+  {
+    "uri": "en/26/432919",
+    "id": "432919",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Barrettes",
+    "harm": {
+      "id": "0058819",
+      "title": "432919 - Barrettes",
+      "conceptLink": "/ec2/concept/6000310"
+    }
+  },
+  {
+    "uri": "en/26/275302",
+    "id": "275302",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Barrettes [hair-slides]",
+    "harm": {
+      "id": "0058819",
+      "title": "275302 - Barrettes [hair-slides]",
+      "conceptLink": "/ec2/concept/6000310"
+    }
+  },
+  {
+    "uri": "en/26/355906",
+    "id": "355906",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beads for handicraft work",
+    "harm": {
+      "id": "0067299",
+      "title": "355906 - Beads for handicraft work",
+      "conceptLink": "/ec2/concept/6003502"
+    }
+  },
+  {
+    "uri": "en/26/599688",
+    "id": "599688",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beads for trimming",
+    "harm": {
+      "id": "0002021",
+      "title": "599688 - Beads for trimming",
+      "conceptLink": "/ec2/concept/5953308"
+    }
+  },
+  {
+    "uri": "en/26/119543142",
+    "id": "119543142",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beads other than for making jewelry [haberdashery]",
+    "harm": {
+      "id": "0050258",
+      "title": "119543142 - Beads other than for making jewelry [haberdashery]",
+      "conceptLink": "/ec2/concept/5995497"
+    }
+  },
+  {
+    "uri": "en/26/134666631",
+    "id": "134666631",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beads, other than for making jewellery",
+    "harm": {
+      "id": "0013001",
+      "title": "134666631 - Beads, other than for making jewellery",
+      "conceptLink": "/ec2/concept/5963357"
+    }
+  },
+  {
+    "uri": "en/26/134666630",
+    "id": "134666630",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beads, other than for making jewelry",
+    "harm": {
+      "id": "0013001",
+      "title": "134666630 - Beads, other than for making jewelry",
+      "conceptLink": "/ec2/concept/5963357"
+    }
+  },
+  {
+    "uri": "en/26/233228699",
+    "id": "233228699",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beard nets",
+    "harm": {
+      "id": "0073149",
+      "title": "233228699 - Beard nets",
+      "conceptLink": "/ec2/concept/6009322"
+    }
+  },
+  {
+    "uri": "en/26/233228700",
+    "id": "233228700",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beard restraints for the food service industry",
+    "harm": {
+      "id": "0073191",
+      "title": "233228700 - Beard restraints for the food service industry",
+      "conceptLink": "/ec2/concept/6009364"
+    }
+  },
+  {
+    "uri": "en/26/275239",
+    "id": "275239",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Beards (False -)",
+    "harm": {
+      "id": "0000336",
+      "title": "275239 - Beards (False -)",
+      "conceptLink": "/ec2/concept/5951791"
+    }
+  },
+  {
+    "uri": "en/26/900942",
+    "id": "900942",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles",
+    "harm": {
+      "id": "0058821",
+      "title": "900942 - Belt buckles",
+      "conceptLink": "/ec2/concept/6000312"
+    }
+  },
+  {
+    "uri": "en/26/278326",
+    "id": "278326",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles [clothing accessories]",
+    "harm": {
+      "id": "0058991",
+      "title": "278326 - Belt buckles [clothing accessories]",
+      "conceptLink": "/ec2/concept/6000482"
+    }
+  },
+  {
+    "uri": "en/26/119543144",
+    "id": "119543144",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles [for clothing]",
+    "harm": {
+      "id": "0058821",
+      "title": "119543144 - Belt buckles [for clothing]",
+      "conceptLink": "/ec2/concept/6000312"
+    }
+  },
+  {
+    "uri": "en/26/111404640",
+    "id": "111404640",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles for clothing",
+    "harm": {
+      "id": "0058821",
+      "title": "111404640 - Belt buckles for clothing",
+      "conceptLink": "/ec2/concept/6000312"
+    }
+  },
+  {
+    "uri": "en/26/34783094",
+    "id": "34783094",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles not of precious metal",
+    "harm": {
+      "id": "0067296",
+      "title": "34783094 - Belt buckles not of precious metal",
+      "conceptLink": "/ec2/concept/6003499"
+    }
+  },
+  {
+    "uri": "en/26/900946",
+    "id": "900946",
+    "lang": "en",
+    "classNumber": "26",
+    "term": "Belt buckles of precious metals",
+    "harm": {
+      "id": "0004317",
+      "title": "900946 - Belt buckles of precious metals",
+      "conceptLink": "/ec2/concept/5955401"
+    }
+  }
+]

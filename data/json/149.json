@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/7/125178",
+    "id": "125178",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveying machines",
+    "harm": {
+      "id": "0020574",
+      "title": "125178 - Conveying machines",
+      "conceptLink": "/ec2/concept/5970281"
+    }
+  },
+  {
+    "uri": "en/7/675514",
+    "id": "675514",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveying rollers",
+    "harm": {
+      "id": "0003649",
+      "title": "675514 - Conveying rollers",
+      "conceptLink": "/ec2/concept/5954790"
+    }
+  },
+  {
+    "uri": "en/7/388309",
+    "id": "388309",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveying system equipment, namely, blowers",
+    "harm": {
+      "id": "0011599",
+      "title": "388309 - Conveying system equipment, namely, blowers",
+      "conceptLink": "/ec2/concept/5962070"
+    }
+  },
+  {
+    "uri": "en/7/112456",
+    "id": "112456",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyor belting",
+    "harm": {
+      "id": "0057310",
+      "title": "112456 - Conveyor belting",
+      "conceptLink": "/ec2/concept/5998819"
+    }
+  },
+  {
+    "uri": "en/7/388325",
+    "id": "388325",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyor belts made of wire",
+    "harm": {
+      "id": "0002040",
+      "title": "388325 - Conveyor belts made of wire",
+      "conceptLink": "/ec2/concept/5953322"
+    }
+  },
+  {
+    "uri": "en/7/675527",
+    "id": "675527",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyor belts of metal",
+    "harm": {
+      "id": "0044418",
+      "title": "675527 - Conveyor belts of metal",
+      "conceptLink": "/ec2/concept/5992064"
+    }
+  },
+  {
+    "uri": "en/7/675540",
+    "id": "675540",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyor cages",
+    "harm": {
+      "id": "0032849",
+      "title": "675540 - Conveyor cages",
+      "conceptLink": "/ec2/concept/5981514"
+    }
+  },
+  {
+    "uri": "en/7/125183",
+    "id": "125183",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors",
+    "harm": {
+      "id": "0030907",
+      "title": "125183 - Conveyors",
+      "conceptLink": "/ec2/concept/5979766"
+    }
+  },
+  {
+    "uri": "en/7/131129506",
+    "id": "131129506",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors and conveyors belts",
+    "harm": {
+      "id": "0047701",
+      "title": "131129506 - Conveyors and conveyors belts",
+      "conceptLink": "/ec2/concept/5994976"
+    }
+  },
+  {
+    "uri": "en/7/388339",
+    "id": "388339",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors for agricultural and horticultural machinery and parts and fittings therefor",
+    "harm": {
+      "id": "0036750",
+      "title": "388339 - Conveyors for agricultural and horticultural machinery and parts and fittings therefor",
+      "conceptLink": "/ec2/concept/5985069"
+    }
+  },
+  {
+    "uri": "en/7/675554",
+    "id": "675554",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors for use in mines",
+    "harm": {
+      "id": "0015561",
+      "title": "675554 - Conveyors for use in mines",
+      "conceptLink": "/ec2/concept/5965702"
+    }
+  },
+  {
+    "uri": "en/7/388360",
+    "id": "388360",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors, in particular belt conveyors and roller conveyors",
+    "harm": {
+      "id": "0025180",
+      "title": "388360 - Conveyors, in particular belt conveyors and roller conveyors",
+      "conceptLink": "/ec2/concept/5974512"
+    }
+  },
+  {
+    "uri": "en/7/111798",
+    "id": "111798",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Conveyors [machines]",
+    "harm": {
+      "id": "0020574",
+      "title": "111798 - Conveyors [machines]",
+      "conceptLink": "/ec2/concept/5970281"
+    }
+  },
+  {
+    "uri": "en/7/128564",
+    "id": "128564",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cooling radiators for motors and engines",
+    "harm": {
+      "id": "0000066",
+      "title": "128564 - Cooling radiators for motors and engines",
+      "conceptLink": "/ec2/concept/5951545"
+    }
+  },
+  {
+    "uri": "en/7/893279",
+    "id": "893279",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Copper pipes [parts of machines]",
+    "harm": {
+      "id": "0032365",
+      "title": "893279 - Copper pipes [parts of machines]",
+      "conceptLink": "/ec2/concept/5981072"
+    }
+  },
+  {
+    "uri": "en/7/893280",
+    "id": "893280",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Copper tubes [parts of machines]",
+    "harm": {
+      "id": "0032365",
+      "title": "893280 - Copper tubes [parts of machines]",
+      "conceptLink": "/ec2/concept/5981072"
+    }
+  },
+  {
+    "uri": "en/7/115853",
+    "id": "115853",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cord making machines",
+    "harm": {
+      "id": "0034770",
+      "title": "115853 - Cord making machines",
+      "conceptLink": "/ec2/concept/5983268"
+    }
+  },
+  {
+    "uri": "en/7/675566",
+    "id": "675566",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cordless electric drills",
+    "harm": {
+      "id": "0032850",
+      "title": "675566 - Cordless electric drills",
+      "conceptLink": "/ec2/concept/5981515"
+    }
+  },
+  {
+    "uri": "en/7/233404297",
+    "id": "233404297",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cordless sweepers",
+    "harm": {
+      "id": "0073633",
+      "title": "233404297 - Cordless sweepers",
+      "conceptLink": "/ec2/concept/6009805"
+    }
+  },
+  {
+    "uri": "en/7/26141475",
+    "id": "26141475",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cordless vacuum cleaners",
+    "harm": {
+      "id": "0073631",
+      "title": "26141475 - Cordless vacuum cleaners",
+      "conceptLink": "/ec2/concept/6009803"
+    }
+  },
+  {
+    "uri": "en/7/675581",
+    "id": "675581",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Core bits [machine tools]",
+    "harm": {
+      "id": "0021461",
+      "title": "675581 - Core bits [machine tools]",
+      "conceptLink": "/ec2/concept/5971093"
+    }
+  },
+  {
+    "uri": "en/7/675595",
+    "id": "675595",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Core chucks [parts of machines]",
+    "harm": {
+      "id": "0027083",
+      "title": "675595 - Core chucks [parts of machines]",
+      "conceptLink": "/ec2/concept/5976235"
+    }
+  },
+  {
+    "uri": "en/7/321275",
+    "id": "321275",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Core drilling bits",
+    "harm": {
+      "id": "0008880",
+      "title": "321275 - Core drilling bits",
+      "conceptLink": "/ec2/concept/5959577"
+    }
+  },
+  {
+    "uri": "en/7/114622",
+    "id": "114622",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corn and grain husking machines",
+    "harm": {
+      "id": "0006132",
+      "title": "114622 - Corn and grain husking machines",
+      "conceptLink": "/ec2/concept/5957074"
+    }
+  },
+  {
+    "uri": "en/7/391915",
+    "id": "391915",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corn huskers [tractor towed agricultural implements]",
+    "harm": {
+      "id": "0032307",
+      "title": "391915 - Corn huskers [tractor towed agricultural implements]",
+      "conceptLink": "/ec2/concept/5981021"
+    }
+  },
+  {
+    "uri": "en/7/114620",
+    "id": "114620",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corn husking machines",
+    "harm": {
+      "id": "0006132",
+      "title": "114620 - Corn husking machines",
+      "conceptLink": "/ec2/concept/5957074"
+    }
+  },
+  {
+    "uri": "en/7/675615",
+    "id": "675615",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corn separating machines",
+    "harm": {
+      "id": "0038012",
+      "title": "675615 - Corn separating machines",
+      "conceptLink": "/ec2/concept/5986210"
+    }
+  },
+  {
+    "uri": "en/7/131094253",
+    "id": "131094253",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corrugated cardboard manufacturing machines",
+    "harm": {
+      "id": "0008881",
+      "title": "131094253 - Corrugated cardboard manufacturing machines",
+      "conceptLink": "/ec2/concept/5959578"
+    }
+  },
+  {
+    "uri": "en/7/321290",
+    "id": "321290",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Corrugated paperboard making machines",
+    "harm": {
+      "id": "0008881",
+      "title": "321290 - Corrugated paperboard making machines",
+      "conceptLink": "/ec2/concept/5959578"
+    }
+  },
+  {
+    "uri": "en/7/675640",
+    "id": "675640",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Countersinking tools for machines",
+    "harm": {
+      "id": "0044419",
+      "title": "675640 - Countersinking tools for machines",
+      "conceptLink": "/ec2/concept/5992065"
+    }
+  },
+  {
+    "uri": "en/7/675641",
+    "id": "675641",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Countersinks being machine tools",
+    "harm": {
+      "id": "0044419",
+      "title": "675641 - Countersinks being machine tools",
+      "conceptLink": "/ec2/concept/5992065"
+    }
+  },
+  {
+    "uri": "en/7/390822",
+    "id": "390822",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Countersinks [power tools]",
+    "harm": {
+      "id": "0032926",
+      "title": "390822 - Countersinks [power tools]",
+      "conceptLink": "/ec2/concept/5981586"
+    }
+  },
+  {
+    "uri": "en/7/388253",
+    "id": "388253",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Coupling machines",
+    "harm": {
+      "id": "0017377",
+      "title": "388253 - Coupling machines",
+      "conceptLink": "/ec2/concept/5967365"
+    }
+  },
+  {
+    "uri": "en/7/675663",
+    "id": "675663",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings for agricultural implements",
+    "harm": {
+      "id": "0038639",
+      "title": "675663 - Couplings for agricultural implements",
+      "conceptLink": "/ec2/concept/5986790"
+    }
+  },
+  {
+    "uri": "en/7/388254",
+    "id": "388254",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings for machines",
+    "harm": {
+      "id": "0017377",
+      "title": "388254 - Couplings for machines",
+      "conceptLink": "/ec2/concept/5967365"
+    }
+  },
+  {
+    "uri": "en/7/675679",
+    "id": "675679",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings for pneumatic apparatus",
+    "harm": {
+      "id": "0009742",
+      "title": "675679 - Couplings for pneumatic apparatus",
+      "conceptLink": "/ec2/concept/5960374"
+    }
+  },
+  {
+    "uri": "en/7/675695",
+    "id": "675695",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings of metal for hydraulic apparatus",
+    "harm": {
+      "id": "0003986",
+      "title": "675695 - Couplings of metal for hydraulic apparatus",
+      "conceptLink": "/ec2/concept/5955092"
+    }
+  },
+  {
+    "uri": "en/7/233507452",
+    "id": "233507452",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings, other than for land vehicles",
+    "harm": {
+      "id": "0071904",
+      "title": "233507452 - Couplings, other than for land vehicles",
+      "conceptLink": "/ec2/concept/6008088"
+    }
+  },
+  {
+    "uri": "en/7/117671",
+    "id": "117671",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Couplings other than for land vehicles",
+    "harm": {
+      "id": "0071904",
+      "title": "117671 - Couplings other than for land vehicles",
+      "conceptLink": "/ec2/concept/6008088"
+    }
+  },
+  {
+    "uri": "en/7/114077",
+    "id": "114077",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cowlings [parts of machines]",
+    "harm": {
+      "id": "0058414",
+      "title": "114077 - Cowlings [parts of machines]",
+      "conceptLink": "/ec2/concept/5999913"
+    }
+  },
+  {
+    "uri": "en/7/675708",
+    "id": "675708",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crabbing machines",
+    "harm": {
+      "id": "0003987",
+      "title": "675708 - Crabbing machines",
+      "conceptLink": "/ec2/concept/5955093"
+    }
+  },
+  {
+    "uri": "en/7/120941",
+    "id": "120941",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crack routers [machines]",
+    "harm": {
+      "id": "0003988",
+      "title": "120941 - Crack routers [machines]",
+      "conceptLink": "/ec2/concept/5955094"
+    }
+  },
+  {
+    "uri": "en/7/675720",
+    "id": "675720",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crane augers",
+    "harm": {
+      "id": "0003989",
+      "title": "675720 - Crane augers",
+      "conceptLink": "/ec2/concept/5955095"
+    }
+  },
+  {
+    "uri": "en/7/675732",
+    "id": "675732",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crane forks",
+    "harm": {
+      "id": "0038640",
+      "title": "675732 - Crane forks",
+      "conceptLink": "/ec2/concept/5986791"
+    }
+  },
+  {
+    "uri": "en/7/675744",
+    "id": "675744",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crane hooks",
+    "harm": {
+      "id": "0042549",
+      "title": "675744 - Crane hooks",
+      "conceptLink": "/ec2/concept/5990360"
+    }
+  },
+  {
+    "uri": "en/7/128233",
+    "id": "128233",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranes",
+    "harm": {
+      "id": "0032006",
+      "title": "128233 - Cranes",
+      "conceptLink": "/ec2/concept/5980746"
+    }
+  },
+  {
+    "uri": "en/7/675760",
+    "id": "675760",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranes for use on breakdown vehicles",
+    "harm": {
+      "id": "0042550",
+      "title": "675760 - Cranes for use on breakdown vehicles",
+      "conceptLink": "/ec2/concept/5990361"
+    }
+  },
+  {
+    "uri": "en/7/128234",
+    "id": "128234",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranes [lifting and hoisting apparatus]",
+    "harm": {
+      "id": "0032006",
+      "title": "128234 - Cranes [lifting and hoisting apparatus]",
+      "conceptLink": "/ec2/concept/5980746"
+    }
+  },
+  {
+    "uri": "en/7/111838",
+    "id": "111838",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crank shafts",
+    "harm": {
+      "id": "0000221",
+      "title": "111838 - Crank shafts",
+      "conceptLink": "/ec2/concept/5951694"
+    }
+  },
+  {
+    "uri": "en/7/675772",
+    "id": "675772",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crankcases for land vehicles engines",
+    "harm": {
+      "id": "0002102",
+      "title": "675772 - Crankcases for land vehicles engines",
+      "conceptLink": "/ec2/concept/5953378"
+    }
+  },
+  {
+    "uri": "en/7/120896388",
+    "id": "120896388",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crankcases for machines",
+    "harm": {
+      "id": "0070888",
+      "title": "120896388 - Crankcases for machines",
+      "conceptLink": "/ec2/concept/6007080"
+    }
+  },
+  {
+    "uri": "en/7/128701",
+    "id": "128701",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crankcases for machines, motors and engines",
+    "harm": {
+      "id": "0041640",
+      "title": "128701 - Crankcases for machines, motors and engines",
+      "conceptLink": "/ec2/concept/5989533"
+    }
+  },
+  {
+    "uri": "en/7/120896384",
+    "id": "120896384",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crankcases for motors",
+    "harm": {
+      "id": "0070887",
+      "title": "120896384 - Crankcases for motors",
+      "conceptLink": "/ec2/concept/6007079"
+    }
+  },
+  {
+    "uri": "en/7/119688",
+    "id": "119688",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranks [parts of air vehicles]",
+    "harm": {
+      "id": "0007823",
+      "title": "119688 - Cranks [parts of air vehicles]",
+      "conceptLink": "/ec2/concept/5958617"
+    }
+  },
+  {
+    "uri": "en/7/119687",
+    "id": "119687",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranks [parts of machines]",
+    "harm": {
+      "id": "0007823",
+      "title": "119687 - Cranks [parts of machines]",
+      "conceptLink": "/ec2/concept/5958617"
+    }
+  },
+  {
+    "uri": "en/7/675787",
+    "id": "675787",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cranks [parts of water vehicles]",
+    "harm": {
+      "id": "0013662",
+      "title": "675787 - Cranks [parts of water vehicles]",
+      "conceptLink": "/ec2/concept/5963952"
+    }
+  },
+  {
+    "uri": "en/7/321305",
+    "id": "321305",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crawler cranes",
+    "harm": {
+      "id": "0008882",
+      "title": "321305 - Crawler cranes",
+      "conceptLink": "/ec2/concept/5959579"
+    }
+  },
+  {
+    "uri": "en/7/321318",
+    "id": "321318",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crawler-tracked loaders",
+    "harm": {
+      "id": "0037796",
+      "title": "321318 - Crawler-tracked loaders",
+      "conceptLink": "/ec2/concept/5986013"
+    }
+  },
+  {
+    "uri": "en/7/114408",
+    "id": "114408",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cream/milk separators",
+    "harm": {
+      "id": "0020063",
+      "title": "114408 - Cream/milk separators",
+      "conceptLink": "/ec2/concept/5969817"
+    }
+  },
+  {
+    "uri": "en/7/115231",
+    "id": "115231",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crimping machines",
+    "harm": {
+      "id": "0046698",
+      "title": "115231 - Crimping machines",
+      "conceptLink": "/ec2/concept/5994112"
+    }
+  },
+  {
+    "uri": "en/7/675800",
+    "id": "675800",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crimping tools [machines or parts of machines]",
+    "harm": {
+      "id": "0019519",
+      "title": "675800 - Crimping tools [machines or parts of machines]",
+      "conceptLink": "/ec2/concept/5969326"
+    }
+  },
+  {
+    "uri": "en/7/113089",
+    "id": "113089",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crop lifters [machines]",
+    "harm": {
+      "id": "0030963",
+      "title": "113089 - Crop lifters [machines]",
+      "conceptLink": "/ec2/concept/5979814"
+    }
+  },
+  {
+    "uri": "en/7/675815",
+    "id": "675815",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crop spraying booms",
+    "harm": {
+      "id": "0030964",
+      "title": "675815 - Crop spraying booms",
+      "conceptLink": "/ec2/concept/5979815"
+    }
+  },
+  {
+    "uri": "en/7/119106",
+    "id": "119106",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crop spraying machines",
+    "harm": {
+      "id": "0019520",
+      "title": "119106 - Crop spraying machines",
+      "conceptLink": "/ec2/concept/5969327"
+    }
+  },
+  {
+    "uri": "en/7/134364721",
+    "id": "134364721",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crushers for kitchen use, electric",
+    "harm": {
+      "id": "0072544",
+      "title": "134364721 - Crushers for kitchen use, electric",
+      "conceptLink": "/ec2/concept/6008721"
+    }
+  },
+  {
+    "uri": "en/7/120936",
+    "id": "120936",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crushers [machines]",
+    "harm": {
+      "id": "0071914",
+      "title": "120936 - Crushers [machines]",
+      "conceptLink": "/ec2/concept/6008098"
+    }
+  },
+  {
+    "uri": "en/7/120942",
+    "id": "120942",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crushing apparatus",
+    "harm": {
+      "id": "0071914",
+      "title": "120942 - Crushing apparatus",
+      "conceptLink": "/ec2/concept/6008098"
+    }
+  },
+  {
+    "uri": "en/7/120938",
+    "id": "120938",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crushing machines",
+    "harm": {
+      "id": "0071914",
+      "title": "120938 - Crushing machines",
+      "conceptLink": "/ec2/concept/6008098"
+    }
+  },
+  {
+    "uri": "en/7/902472",
+    "id": "902472",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Crushing machines for industrial purposes",
+    "harm": {
+      "id": "0033688",
+      "title": "902472 - Crushing machines for industrial purposes",
+      "conceptLink": "/ec2/concept/5982285"
+    }
+  },
+  {
+    "uri": "en/7/116550",
+    "id": "116550",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cultivators [machines]",
+    "harm": {
+      "id": "0039124",
+      "title": "116550 - Cultivators [machines]",
+      "conceptLink": "/ec2/concept/5987224"
+    }
+  },
+  {
+    "uri": "en/7/130183",
+    "id": "130183",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cultivators (Motorized -)",
+    "harm": {
+      "id": "0057492",
+      "title": "130183 - Cultivators (Motorized -)",
+      "conceptLink": "/ec2/concept/5998998"
+    }
+  },
+  {
+    "uri": "en/7/390714",
+    "id": "390714",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cultivators [power lawn and garden tools]",
+    "harm": {
+      "id": "0022647",
+      "title": "390714 - Cultivators [power lawn and garden tools]",
+      "conceptLink": "/ec2/concept/5972182"
+    }
+  },
+  {
+    "uri": "en/7/116037",
+    "id": "116037",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Current generators",
+    "harm": {
+      "id": "0059379",
+      "title": "116037 - Current generators",
+      "conceptLink": "/ec2/concept/6000861"
+    }
+  },
+  {
+    "uri": "en/7/136937211",
+    "id": "136937211",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Curtain drawing devices electrically operated",
+    "harm": {
+      "id": "0013304",
+      "title": "136937211 - Curtain drawing devices electrically operated",
+      "conceptLink": "/ec2/concept/5963632"
+    }
+  },
+  {
+    "uri": "en/7/123609",
+    "id": "123609",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Curtain drawing devices, electrically operated",
+    "harm": {
+      "id": "0013304",
+      "title": "123609 - Curtain drawing devices, electrically operated",
+      "conceptLink": "/ec2/concept/5963632"
+    }
+  },
+  {
+    "uri": "en/7/675827",
+    "id": "675827",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutter bar knives [parts for machines]",
+    "harm": {
+      "id": "0007824",
+      "title": "675827 - Cutter bar knives [parts for machines]",
+      "conceptLink": "/ec2/concept/5958618"
+    }
+  },
+  {
+    "uri": "en/7/675841",
+    "id": "675841",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutter bars [parts of machines]",
+    "harm": {
+      "id": "0007825",
+      "title": "675841 - Cutter bars [parts of machines]",
+      "conceptLink": "/ec2/concept/5958619"
+    }
+  },
+  {
+    "uri": "en/7/675856",
+    "id": "675856",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutterheads [parts of machines]",
+    "harm": {
+      "id": "0036811",
+      "title": "675856 - Cutterheads [parts of machines]",
+      "conceptLink": "/ec2/concept/5985124"
+    }
+  },
+  {
+    "uri": "en/7/675869",
+    "id": "675869",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters being machine tools",
+    "harm": {
+      "id": "0036812",
+      "title": "675869 - Cutters being machine tools",
+      "conceptLink": "/ec2/concept/5985125"
+    }
+  },
+  {
+    "uri": "en/7/675884",
+    "id": "675884",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters being parts of machines",
+    "harm": {
+      "id": "0007826",
+      "title": "675884 - Cutters being parts of machines",
+      "conceptLink": "/ec2/concept/5958620"
+    }
+  },
+  {
+    "uri": "en/7/675912",
+    "id": "675912",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters being powered by mains electricity or batteries",
+    "harm": {
+      "id": "0002105",
+      "title": "675912 - Cutters being powered by mains electricity or batteries",
+      "conceptLink": "/ec2/concept/5953381"
+    }
+  },
+  {
+    "uri": "en/7/675926",
+    "id": "675926",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters for milling machines",
+    "harm": {
+      "id": "0019521",
+      "title": "675926 - Cutters for milling machines",
+      "conceptLink": "/ec2/concept/5969328"
+    }
+  },
+  {
+    "uri": "en/7/675942",
+    "id": "675942",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters for raise boring",
+    "harm": {
+      "id": "0042551",
+      "title": "675942 - Cutters for raise boring",
+      "conceptLink": "/ec2/concept/5990362"
+    }
+  },
+  {
+    "uri": "en/7/675955",
+    "id": "675955",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters for silage [other than hand-operated tools]",
+    "harm": {
+      "id": "0030966",
+      "title": "675955 - Cutters for silage [other than hand-operated tools]",
+      "conceptLink": "/ec2/concept/5979816"
+    }
+  },
+  {
+    "uri": "en/7/675967",
+    "id": "675967",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters for straw [other than hand-operated tools]",
+    "harm": {
+      "id": "0000638",
+      "title": "675967 - Cutters for straw [other than hand-operated tools]",
+      "conceptLink": "/ec2/concept/5952062"
+    }
+  },
+  {
+    "uri": "en/7/115973",
+    "id": "115973",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutters [machines]",
+    "harm": {
+      "id": "0058608",
+      "title": "115973 - Cutters [machines]",
+      "conceptLink": "/ec2/concept/6000101"
+    }
+  },
+  {
+    "uri": "en/7/527787",
+    "id": "527787",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting apparatus (Electric arc -)",
+    "harm": {
+      "id": "0003056",
+      "title": "527787 - Cutting apparatus (Electric arc -)",
+      "conceptLink": "/ec2/concept/5954244"
+    }
+  },
+  {
+    "uri": "en/7/129295",
+    "id": "129295",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting blow pipes, gas-operated",
+    "harm": {
+      "id": "0046774",
+      "title": "129295 - Cutting blow pipes, gas-operated",
+      "conceptLink": "/ec2/concept/5994180"
+    }
+  },
+  {
+    "uri": "en/7/675982",
+    "id": "675982",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting devices being parts of machines",
+    "harm": {
+      "id": "0000639",
+      "title": "675982 - Cutting devices being parts of machines",
+      "conceptLink": "/ec2/concept/5952063"
+    }
+  },
+  {
+    "uri": "en/7/675996",
+    "id": "675996",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting dies for use with machines",
+    "harm": {
+      "id": "0041142",
+      "title": "675996 - Cutting dies for use with machines",
+      "conceptLink": "/ec2/concept/5989073"
+    }
+  },
+  {
+    "uri": "en/7/676011",
+    "id": "676011",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting discs for use as parts of machines",
+    "harm": {
+      "id": "0006423",
+      "title": "676011 - Cutting discs for use as parts of machines",
+      "conceptLink": "/ec2/concept/5957337"
+    }
+  },
+  {
+    "uri": "en/7/233656575",
+    "id": "233656575",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting, drilling, abrading, sharpening and surface treatment machines and apparatus",
+    "harm": {
+      "id": "0073914",
+      "title": "233656575 - Cutting, drilling, abrading, sharpening and surface treatment machines and apparatus",
+      "conceptLink": "/ec2/concept/6010864"
+    }
+  },
+  {
+    "uri": "en/7/676024",
+    "id": "676024",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting grids being tools for cutting machines",
+    "harm": {
+      "id": "0023830",
+      "title": "676024 - Cutting grids being tools for cutting machines",
+      "conceptLink": "/ec2/concept/5973265"
+    }
+  },
+  {
+    "uri": "en/7/676037",
+    "id": "676037",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting guides for use with electric machines",
+    "harm": {
+      "id": "0012229",
+      "title": "676037 - Cutting guides for use with electric machines",
+      "conceptLink": "/ec2/concept/5962653"
+    }
+  },
+  {
+    "uri": "en/7/676049",
+    "id": "676049",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting insert holders [parts of machines]",
+    "harm": {
+      "id": "0012230",
+      "title": "676049 - Cutting insert holders [parts of machines]",
+      "conceptLink": "/ec2/concept/5962654"
+    }
+  },
+  {
+    "uri": "en/7/676079",
+    "id": "676079",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting inserts for machine tools",
+    "harm": {
+      "id": "0029576",
+      "title": "676079 - Cutting inserts for machine tools",
+      "conceptLink": "/ec2/concept/5978536"
+    }
+  },
+  {
+    "uri": "en/7/676063",
+    "id": "676063",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting inserts [parts of machines]",
+    "harm": {
+      "id": "0006424",
+      "title": "676063 - Cutting inserts [parts of machines]",
+      "conceptLink": "/ec2/concept/5957338"
+    }
+  },
+  {
+    "uri": "en/7/115972",
+    "id": "115972",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting machines",
+    "harm": {
+      "id": "0058607",
+      "title": "115972 - Cutting machines",
+      "conceptLink": "/ec2/concept/6000100"
+    }
+  },
+  {
+    "uri": "en/7/321330",
+    "id": "321330",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting machines [for metalworking]",
+    "harm": {
+      "id": "0037797",
+      "title": "321330 - Cutting machines [for metalworking]",
+      "conceptLink": "/ec2/concept/5986014"
+    }
+  },
+  {
+    "uri": "en/7/131092959",
+    "id": "131092959",
+    "lang": "en",
+    "classNumber": "7",
+    "term": "Cutting machines for metalworking",
+    "harm": {
+      "id": "0037797",
+      "title": "131092959 - Cutting machines for metalworking",
+      "conceptLink": "/ec2/concept/5986014"
+    }
+  }
+]

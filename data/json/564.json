@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/30/441783",
+    "id": "441783",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kasha [meal]",
+    "harm": {
+      "id": "0037024",
+      "title": "441783 - Kasha [meal]",
+      "conceptLink": "/ec2/concept/5985318"
+    }
+  },
+  {
+    "uri": "en/30/296039",
+    "id": "296039",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ketchup",
+    "harm": {
+      "id": "0058682",
+      "title": "296039 - Ketchup",
+      "conceptLink": "/ec2/concept/6000175"
+    }
+  },
+  {
+    "uri": "en/30/296036",
+    "id": "296036",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ketchup [sauce]",
+    "harm": {
+      "id": "0058682",
+      "title": "296036 - Ketchup [sauce]",
+      "conceptLink": "/ec2/concept/6000175"
+    }
+  },
+  {
+    "uri": "en/30/296040",
+    "id": "296040",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Ketchups",
+    "harm": {
+      "id": "0058682",
+      "title": "296040 - Ketchups",
+      "conceptLink": "/ec2/concept/6000175"
+    }
+  },
+  {
+    "uri": "en/30/119546520",
+    "id": "119546520",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kettle corn [popcorn]",
+    "harm": {
+      "id": "0042909",
+      "title": "119546520 - Kettle corn [popcorn]",
+      "conceptLink": "/ec2/concept/5990679"
+    }
+  },
+  {
+    "uri": "en/30/784126",
+    "id": "784126",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kheer mix (rice pudding)",
+    "harm": {
+      "id": "0003967",
+      "title": "784126 - Kheer mix (rice pudding)",
+      "conceptLink": "/ec2/concept/5955077"
+    }
+  },
+  {
+    "uri": "en/30/124056832",
+    "id": "124056832",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kimchi pancakes (kimchijeon)",
+    "harm": {
+      "id": "0056486",
+      "title": "124056832 - Kimchi pancakes (kimchijeon)",
+      "conceptLink": "/ec2/concept/5997795"
+    }
+  },
+  {
+    "uri": "en/30/137911808",
+    "id": "137911808",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kimchijeon [Korean-style pancakes made with fermented vegetables]",
+    "harm": {
+      "id": "0056486",
+      "title": "137911808 - Kimchijeon [Korean-style pancakes made with fermented vegetables]",
+      "conceptLink": "/ec2/concept/5997795"
+    }
+  },
+  {
+    "uri": "en/30/138174827",
+    "id": "138174827",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Kombucha",
+    "harm": {
+      "id": "0069969",
+      "title": "138174827 - Kombucha",
+      "conceptLink": "/ec2/concept/6006171"
+    }
+  },
+  {
+    "uri": "en/30/908288",
+    "id": "908288",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean soy sauce [ganjang]",
+    "harm": {
+      "id": "0044850",
+      "title": "908288 - Korean soy sauce [ganjang]",
+      "conceptLink": "/ec2/concept/5992460"
+    }
+  },
+  {
+    "uri": "en/30/124056836",
+    "id": "124056836",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean-style dried seaweed rolls containing cooked rice (gimbap)",
+    "harm": {
+      "id": "0010192",
+      "title": "124056836 - Korean-style dried seaweed rolls containing cooked rice (gimbap)",
+      "conceptLink": "/ec2/concept/5960781"
+    }
+  },
+  {
+    "uri": "en/30/124056837",
+    "id": "124056837",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean-style dumplings (mandu)",
+    "harm": {
+      "id": "0056488",
+      "title": "124056837 - Korean-style dumplings (mandu)",
+      "conceptLink": "/ec2/concept/5997797"
+    }
+  },
+  {
+    "uri": "en/30/908283",
+    "id": "908283",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean-style pasta soup [sujebi]",
+    "harm": {
+      "id": "0010193",
+      "title": "908283 - Korean-style pasta soup [sujebi]",
+      "conceptLink": "/ec2/concept/5960782"
+    }
+  },
+  {
+    "uri": "en/30/131048479",
+    "id": "131048479",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean traditional pressed sweets (Dasik)",
+    "harm": {
+      "id": "0056487",
+      "title": "131048479 - Korean traditional pressed sweets (Dasik)",
+      "conceptLink": "/ec2/concept/5997796"
+    }
+  },
+  {
+    "uri": "en/30/908287",
+    "id": "908287",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean traditional rice cake [injeolmi]",
+    "harm": {
+      "id": "0004489",
+      "title": "908287 - Korean traditional rice cake [injeolmi]",
+      "conceptLink": "/ec2/concept/5955562"
+    }
+  },
+  {
+    "uri": "en/30/908285",
+    "id": "908285",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Korean traditional sweets and cookies [hankwa]",
+    "harm": {
+      "id": "0021934",
+      "title": "908285 - Korean traditional sweets and cookies [hankwa]",
+      "conceptLink": "/ec2/concept/5971531"
+    }
+  },
+  {
+    "uri": "en/30/75417951",
+    "id": "75417951",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lapsang souchong tea",
+    "harm": {
+      "id": "0024589",
+      "title": "75417951 - Lapsang souchong tea",
+      "conceptLink": "/ec2/concept/5973968"
+    }
+  },
+  {
+    "uri": "en/30/441796",
+    "id": "441796",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lasagna",
+    "harm": {
+      "id": "0031159",
+      "title": "441796 - Lasagna",
+      "conceptLink": "/ec2/concept/5979991"
+    }
+  },
+  {
+    "uri": "en/30/441797",
+    "id": "441797",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lasagne",
+    "harm": {
+      "id": "0031159",
+      "title": "441797 - Lasagne",
+      "conceptLink": "/ec2/concept/5979991"
+    }
+  },
+  {
+    "uri": "en/30/296171",
+    "id": "296171",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Leaven",
+    "harm": {
+      "id": "0046540",
+      "title": "296171 - Leaven",
+      "conceptLink": "/ec2/concept/5993978"
+    }
+  },
+  {
+    "uri": "en/30/120814621",
+    "id": "120814621",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lemon flavorings, other than essential oils",
+    "harm": {
+      "id": "0067637",
+      "title": "120814621 - Lemon flavorings, other than essential oils",
+      "conceptLink": "/ec2/concept/6003840"
+    }
+  },
+  {
+    "uri": "en/30/297347",
+    "id": "297347",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Licorice",
+    "harm": {
+      "id": "0002316",
+      "title": "297347 - Licorice",
+      "conceptLink": "/ec2/concept/5953571"
+    }
+  },
+  {
+    "uri": "en/30/120814600",
+    "id": "120814600",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lime blossom tea",
+    "harm": {
+      "id": "0072104",
+      "title": "120814600 - Lime blossom tea",
+      "conceptLink": "/ec2/concept/6008287"
+    }
+  },
+  {
+    "uri": "en/30/360777",
+    "id": "360777",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lime tea",
+    "harm": {
+      "id": "0043803",
+      "title": "360777 - Lime tea",
+      "conceptLink": "/ec2/concept/5991496"
+    }
+  },
+  {
+    "uri": "en/30/120814602",
+    "id": "120814602",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Linden tea",
+    "harm": {
+      "id": "0071287",
+      "title": "120814602 - Linden tea",
+      "conceptLink": "/ec2/concept/6007479"
+    }
+  },
+  {
+    "uri": "en/30/232605733",
+    "id": "232605733",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Linseed for culinary purposes [seasoning]",
+    "harm": {
+      "id": "0025489",
+      "title": "232605733 - Linseed for culinary purposes [seasoning]",
+      "conceptLink": "/ec2/concept/5974799"
+    }
+  },
+  {
+    "uri": "en/30/911488",
+    "id": "911488",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Linseed for human consumption",
+    "harm": {
+      "id": "0025489",
+      "title": "911488 - Linseed for human consumption",
+      "conceptLink": "/ec2/concept/5974799"
+    }
+  },
+  {
+    "uri": "en/30/784139",
+    "id": "784139",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Liqueur chocolates",
+    "harm": {
+      "id": "0032829",
+      "title": "784139 - Liqueur chocolates",
+      "conceptLink": "/ec2/concept/5981498"
+    }
+  },
+  {
+    "uri": "en/30/784155",
+    "id": "784155",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Liquid sugar",
+    "harm": {
+      "id": "0003968",
+      "title": "784155 - Liquid sugar",
+      "conceptLink": "/ec2/concept/5955078"
+    }
+  },
+  {
+    "uri": "en/30/297345",
+    "id": "297345",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Liquorice",
+    "harm": {
+      "id": "0002316",
+      "title": "297345 - Liquorice",
+      "conceptLink": "/ec2/concept/5953571"
+    }
+  },
+  {
+    "uri": "en/30/297346",
+    "id": "297346",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Liquorice [confectionery]",
+    "harm": {
+      "id": "0002316",
+      "title": "297346 - Liquorice [confectionery]",
+      "conceptLink": "/ec2/concept/5953571"
+    }
+  },
+  {
+    "uri": "en/30/784171",
+    "id": "784171",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Liquorice flavoured confectionery",
+    "harm": {
+      "id": "0032830",
+      "title": "784171 - Liquorice flavoured confectionery",
+      "conceptLink": "/ec2/concept/5981499"
+    }
+  },
+  {
+    "uri": "en/30/119546529",
+    "id": "119546529",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lo mein",
+    "harm": {
+      "id": "0019733",
+      "title": "119546529 - Lo mein",
+      "conceptLink": "/ec2/concept/5969520"
+    }
+  },
+  {
+    "uri": "en/30/441828",
+    "id": "441828",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lo mein [noodles]",
+    "harm": {
+      "id": "0019733",
+      "title": "441828 - Lo mein [noodles]",
+      "conceptLink": "/ec2/concept/5969520"
+    }
+  },
+  {
+    "uri": "en/30/890135",
+    "id": "890135",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lollipops",
+    "harm": {
+      "id": "0005614",
+      "title": "890135 - Lollipops",
+      "conceptLink": "/ec2/concept/5956603"
+    }
+  },
+  {
+    "uri": "en/30/784182",
+    "id": "784182",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lollipops [confectionery]",
+    "harm": {
+      "id": "0032831",
+      "title": "784182 - Lollipops [confectionery]",
+      "conceptLink": "/ec2/concept/5981500"
+    }
+  },
+  {
+    "uri": "en/30/441841",
+    "id": "441841",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Long-life pastry",
+    "harm": {
+      "id": "0042757",
+      "title": "441841 - Long-life pastry",
+      "conceptLink": "/ec2/concept/5990541"
+    }
+  },
+  {
+    "uri": "en/30/119546531",
+    "id": "119546531",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Low-salt bread",
+    "harm": {
+      "id": "0056489",
+      "title": "119546531 - Low-salt bread",
+      "conceptLink": "/ec2/concept/5997798"
+    }
+  },
+  {
+    "uri": "en/30/296960",
+    "id": "296960",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lozenges [confectionery]",
+    "harm": {
+      "id": "0027206",
+      "title": "296960 - Lozenges [confectionery]",
+      "conceptLink": "/ec2/concept/5976346"
+    }
+  },
+  {
+    "uri": "en/30/784197",
+    "id": "784197",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lozenges [non-medicated confectionery]",
+    "harm": {
+      "id": "0009727",
+      "title": "784197 - Lozenges [non-medicated confectionery]",
+      "conceptLink": "/ec2/concept/5960361"
+    }
+  },
+  {
+    "uri": "en/30/233624722",
+    "id": "233624722",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lyophilised dishes with main ingredient being pasta",
+    "harm": {
+      "id": "0052159",
+      "title": "233624722 - Lyophilised dishes with main ingredient being pasta",
+      "conceptLink": "/ec2/concept/6011059"
+    }
+  },
+  {
+    "uri": "en/30/233624682",
+    "id": "233624682",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lyophilised dishes with main ingredient being rice",
+    "harm": {
+      "id": "0052158",
+      "title": "233624682 - Lyophilised dishes with main ingredient being rice",
+      "conceptLink": "/ec2/concept/6011058"
+    }
+  },
+  {
+    "uri": "en/30/233624721",
+    "id": "233624721",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lyophilized dishes with main ingredient being pasta",
+    "harm": {
+      "id": "0052159",
+      "title": "233624721 - Lyophilized dishes with main ingredient being pasta",
+      "conceptLink": "/ec2/concept/6011059"
+    }
+  },
+  {
+    "uri": "en/30/233624681",
+    "id": "233624681",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Lyophilized dishes with main ingredient being rice",
+    "harm": {
+      "id": "0052158",
+      "title": "233624681 - Lyophilized dishes with main ingredient being rice",
+      "conceptLink": "/ec2/concept/6011058"
+    }
+  },
+  {
+    "uri": "en/30/296269",
+    "id": "296269",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroni",
+    "harm": {
+      "id": "0047191",
+      "title": "296269 - Macaroni",
+      "conceptLink": "/ec2/concept/5994556"
+    }
+  },
+  {
+    "uri": "en/30/441853",
+    "id": "441853",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroni cheese",
+    "harm": {
+      "id": "0037025",
+      "title": "441853 - Macaroni cheese",
+      "conceptLink": "/ec2/concept/5985319"
+    }
+  },
+  {
+    "uri": "en/30/441870",
+    "id": "441870",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroni salad",
+    "harm": {
+      "id": "0025421",
+      "title": "441870 - Macaroni salad",
+      "conceptLink": "/ec2/concept/5974733"
+    }
+  },
+  {
+    "uri": "en/30/360792",
+    "id": "360792",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroni [uncooked]",
+    "harm": {
+      "id": "0020831",
+      "title": "360792 - Macaroni [uncooked]",
+      "conceptLink": "/ec2/concept/5970527"
+    }
+  },
+  {
+    "uri": "en/30/441854",
+    "id": "441854",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroni with cheese",
+    "harm": {
+      "id": "0037025",
+      "title": "441854 - Macaroni with cheese",
+      "conceptLink": "/ec2/concept/5985319"
+    }
+  },
+  {
+    "uri": "en/30/296270",
+    "id": "296270",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Macaroons [pastry]",
+    "harm": {
+      "id": "0004621",
+      "title": "296270 - Macaroons [pastry]",
+      "conceptLink": "/ec2/concept/5955682"
+    }
+  },
+  {
+    "uri": "en/30/784212",
+    "id": "784212",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Madeleines",
+    "harm": {
+      "id": "0015549",
+      "title": "784212 - Madeleines",
+      "conceptLink": "/ec2/concept/5965691"
+    }
+  },
+  {
+    "uri": "en/30/784244",
+    "id": "784244",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize based snack products",
+    "harm": {
+      "id": "0014431",
+      "title": "784244 - Maize based snack products",
+      "conceptLink": "/ec2/concept/5964674"
+    }
+  },
+  {
+    "uri": "en/30/913209",
+    "id": "913209",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize flakes",
+    "harm": {
+      "id": "0000033",
+      "title": "913209 - Maize flakes",
+      "conceptLink": "/ec2/concept/5951515"
+    }
+  },
+  {
+    "uri": "en/30/294997",
+    "id": "294997",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize flour",
+    "harm": {
+      "id": "0012979",
+      "title": "294997 - Maize flour",
+      "conceptLink": "/ec2/concept/5963336"
+    }
+  },
+  {
+    "uri": "en/30/294998",
+    "id": "294998",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize meal",
+    "harm": {
+      "id": "0012979",
+      "title": "294998 - Maize meal",
+      "conceptLink": "/ec2/concept/5963336"
+    }
+  },
+  {
+    "uri": "en/30/296333",
+    "id": "296333",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize, milled",
+    "harm": {
+      "id": "0004813",
+      "title": "296333 - Maize, milled",
+      "conceptLink": "/ec2/concept/5955862"
+    }
+  },
+  {
+    "uri": "en/30/125009434",
+    "id": "125009434",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize (Processed -) for consumption by humans",
+    "harm": {
+      "id": "0003969",
+      "title": "125009434 - Maize (Processed -) for consumption by humans",
+      "conceptLink": "/ec2/concept/5955079"
+    }
+  },
+  {
+    "uri": "en/30/296331",
+    "id": "296331",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maize, roasted",
+    "harm": {
+      "id": "0002407",
+      "title": "296331 - Maize, roasted",
+      "conceptLink": "/ec2/concept/5953654"
+    }
+  },
+  {
+    "uri": "en/30/784272",
+    "id": "784272",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mallows [confectionery]",
+    "harm": {
+      "id": "0022651",
+      "title": "784272 - Mallows [confectionery]",
+      "conceptLink": "/ec2/concept/5972186"
+    }
+  },
+  {
+    "uri": "en/30/233200755",
+    "id": "233200755",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt-based food preparations",
+    "harm": {
+      "id": "0072941",
+      "title": "233200755 - Malt-based food preparations",
+      "conceptLink": "/ec2/concept/6009116"
+    }
+  },
+  {
+    "uri": "en/30/292840",
+    "id": "292840",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt biscuits",
+    "harm": {
+      "id": "0059485",
+      "title": "292840 - Malt biscuits",
+      "conceptLink": "/ec2/concept/6000961"
+    }
+  },
+  {
+    "uri": "en/30/784285",
+    "id": "784285",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt bread",
+    "harm": {
+      "id": "0028290",
+      "title": "784285 - Malt bread",
+      "conceptLink": "/ec2/concept/5977350"
+    }
+  },
+  {
+    "uri": "en/30/784297",
+    "id": "784297",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt cakes",
+    "harm": {
+      "id": "0039823",
+      "title": "784297 - Malt cakes",
+      "conceptLink": "/ec2/concept/5987864"
+    }
+  },
+  {
+    "uri": "en/30/784309",
+    "id": "784309",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt coffee",
+    "harm": {
+      "id": "0010979",
+      "title": "784309 - Malt coffee",
+      "conceptLink": "/ec2/concept/5961507"
+    }
+  },
+  {
+    "uri": "en/30/784324",
+    "id": "784324",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt coffee extracts",
+    "harm": {
+      "id": "0010980",
+      "title": "784324 - Malt coffee extracts",
+      "conceptLink": "/ec2/concept/5961508"
+    }
+  },
+  {
+    "uri": "en/30/784350",
+    "id": "784350",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt dextrin glazings for foodstuffs",
+    "harm": {
+      "id": "0022652",
+      "title": "784350 - Malt dextrin glazings for foodstuffs",
+      "conceptLink": "/ec2/concept/5972187"
+    }
+  },
+  {
+    "uri": "en/30/784337",
+    "id": "784337",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt dextrin glazings for confectionary",
+    "harm": {
+      "id": "0028291",
+      "title": "784337 - Malt dextrin glazings for confectionary",
+      "conceptLink": "/ec2/concept/5977351"
+    }
+  },
+  {
+    "uri": "en/30/298886",
+    "id": "298886",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt extract for food",
+    "harm": {
+      "id": "0057430",
+      "title": "298886 - Malt extract for food",
+      "conceptLink": "/ec2/concept/5998937"
+    }
+  },
+  {
+    "uri": "en/30/298885",
+    "id": "298885",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt extracts for food",
+    "harm": {
+      "id": "0057430",
+      "title": "298885 - Malt extracts for food",
+      "conceptLink": "/ec2/concept/5998937"
+    }
+  },
+  {
+    "uri": "en/30/441883",
+    "id": "441883",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt extracts used as flavoring",
+    "harm": {
+      "id": "0013876",
+      "title": "441883 - Malt extracts used as flavoring",
+      "conceptLink": "/ec2/concept/5964154"
+    }
+  },
+  {
+    "uri": "en/30/298929",
+    "id": "298929",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malt for human consumption",
+    "harm": {
+      "id": "0057431",
+      "title": "298929 - Malt for human consumption",
+      "conceptLink": "/ec2/concept/5998938"
+    }
+  },
+  {
+    "uri": "en/30/784363",
+    "id": "784363",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malted barley prepared for human consumption",
+    "harm": {
+      "id": "0010981",
+      "title": "784363 - Malted barley prepared for human consumption",
+      "conceptLink": "/ec2/concept/5961509"
+    }
+  },
+  {
+    "uri": "en/30/784375",
+    "id": "784375",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malted bread mix",
+    "harm": {
+      "id": "0028292",
+      "title": "784375 - Malted bread mix",
+      "conceptLink": "/ec2/concept/5977352"
+    }
+  },
+  {
+    "uri": "en/30/784401",
+    "id": "784401",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Malted wheat",
+    "harm": {
+      "id": "0028293",
+      "title": "784401 - Malted wheat",
+      "conceptLink": "/ec2/concept/5977353"
+    }
+  },
+  {
+    "uri": "en/30/784415",
+    "id": "784415",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maltodextrins for nutritional use [other than medical]",
+    "harm": {
+      "id": "0010983",
+      "title": "784415 - Maltodextrins for nutritional use [other than medical]",
+      "conceptLink": "/ec2/concept/5961510"
+    }
+  },
+  {
+    "uri": "en/30/296404",
+    "id": "296404",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maltose",
+    "harm": {
+      "id": "0004814",
+      "title": "296404 - Maltose",
+      "conceptLink": "/ec2/concept/5955863"
+    }
+  },
+  {
+    "uri": "en/30/12415587",
+    "id": "12415587",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maltose for food",
+    "harm": {
+      "id": "0004814",
+      "title": "12415587 - Maltose for food",
+      "conceptLink": "/ec2/concept/5955863"
+    }
+  },
+  {
+    "uri": "en/30/441896",
+    "id": "441896",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Maple syrup",
+    "harm": {
+      "id": "0013877",
+      "title": "441896 - Maple syrup",
+      "conceptLink": "/ec2/concept/5964155"
+    }
+  },
+  {
+    "uri": "en/30/911388",
+    "id": "911388",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marinades",
+    "harm": {
+      "id": "0019800",
+      "title": "911388 - Marinades",
+      "conceptLink": "/ec2/concept/5969579"
+    }
+  },
+  {
+    "uri": "en/30/784429",
+    "id": "784429",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marinades containing herbs",
+    "harm": {
+      "id": "0033150",
+      "title": "784429 - Marinades containing herbs",
+      "conceptLink": "/ec2/concept/5981796"
+    }
+  },
+  {
+    "uri": "en/30/784445",
+    "id": "784445",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marinades containing seasonings",
+    "harm": {
+      "id": "0000891",
+      "title": "784445 - Marinades containing seasonings",
+      "conceptLink": "/ec2/concept/5952290"
+    }
+  },
+  {
+    "uri": "en/30/784446",
+    "id": "784446",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marinades containing spices",
+    "harm": {
+      "id": "0000891",
+      "title": "784446 - Marinades containing spices",
+      "conceptLink": "/ec2/concept/5952290"
+    }
+  },
+  {
+    "uri": "en/30/360807",
+    "id": "360807",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marshmallow",
+    "harm": {
+      "id": "0038072",
+      "title": "360807 - Marshmallow",
+      "conceptLink": "/ec2/concept/5986265"
+    }
+  },
+  {
+    "uri": "en/30/784471",
+    "id": "784471",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marshmallow confectionery",
+    "harm": {
+      "id": "0015866",
+      "title": "784471 - Marshmallow confectionery",
+      "conceptLink": "/ec2/concept/5965991"
+    }
+  },
+  {
+    "uri": "en/30/784484",
+    "id": "784484",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marshmallow filled chocolates",
+    "harm": {
+      "id": "0044692",
+      "title": "784484 - Marshmallow filled chocolates",
+      "conceptLink": "/ec2/concept/5992316"
+    }
+  },
+  {
+    "uri": "en/30/441916",
+    "id": "441916",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marshmallow topping",
+    "harm": {
+      "id": "0037026",
+      "title": "441916 - Marshmallow topping",
+      "conceptLink": "/ec2/concept/5985320"
+    }
+  },
+  {
+    "uri": "en/30/360283",
+    "id": "360283",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marshmallows",
+    "harm": {
+      "id": "0038072",
+      "title": "360283 - Marshmallows",
+      "conceptLink": "/ec2/concept/5986265"
+    }
+  },
+  {
+    "uri": "en/30/294111",
+    "id": "294111",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marzipan",
+    "harm": {
+      "id": "0011665",
+      "title": "294111 - Marzipan",
+      "conceptLink": "/ec2/concept/5962130"
+    }
+  },
+  {
+    "uri": "en/30/360825",
+    "id": "360825",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Marzipan substitutes",
+    "harm": {
+      "id": "0032247",
+      "title": "360825 - Marzipan substitutes",
+      "conceptLink": "/ec2/concept/5980966"
+    }
+  },
+  {
+    "uri": "en/30/784497",
+    "id": "784497",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mate [tea]",
+    "harm": {
+      "id": "0004335",
+      "title": "784497 - Mate [tea]",
+      "conceptLink": "/ec2/concept/5955417"
+    }
+  },
+  {
+    "uri": "en/30/441935",
+    "id": "441935",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Matzo",
+    "harm": {
+      "id": "0002317",
+      "title": "441935 - Matzo",
+      "conceptLink": "/ec2/concept/5953572"
+    }
+  },
+  {
+    "uri": "en/30/299163",
+    "id": "299163",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mayonnaise",
+    "harm": {
+      "id": "0014881",
+      "title": "299163 - Mayonnaise",
+      "conceptLink": "/ec2/concept/5965081"
+    }
+  },
+  {
+    "uri": "en/30/181171922",
+    "id": "181171922",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mayonnaise and ketchup-based spreads",
+    "harm": {
+      "id": "0073222",
+      "title": "181171922 - Mayonnaise and ketchup-based spreads",
+      "conceptLink": "/ec2/concept/6009395"
+    }
+  },
+  {
+    "uri": "en/30/181171876",
+    "id": "181171876",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mayonnaise-based spreads",
+    "harm": {
+      "id": "0073221",
+      "title": "181171876 - Mayonnaise-based spreads",
+      "conceptLink": "/ec2/concept/6009394"
+    }
+  },
+  {
+    "uri": "en/30/441952",
+    "id": "441952",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Mayonnaise with pickles",
+    "harm": {
+      "id": "0031160",
+      "title": "441952 - Mayonnaise with pickles",
+      "conceptLink": "/ec2/concept/5979992"
+    }
+  },
+  {
+    "uri": "en/30/125391530",
+    "id": "125391530",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Meal",
+    "harm": {
+      "id": "0013151",
+      "title": "125391530 - Meal",
+      "conceptLink": "/ec2/concept/5963495"
+    }
+  },
+  {
+    "uri": "en/30/441971",
+    "id": "441971",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Meals consisting primarily of rice",
+    "harm": {
+      "id": "0025422",
+      "title": "441971 - Meals consisting primarily of rice",
+      "conceptLink": "/ec2/concept/5974734"
+    }
+  },
+  {
+    "uri": "en/30/499194",
+    "id": "499194",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Meals consisting primarily of pasta",
+    "harm": {
+      "id": "0030342",
+      "title": "499194 - Meals consisting primarily of pasta",
+      "conceptLink": "/ec2/concept/5979241"
+    }
+  },
+  {
+    "uri": "en/30/299985",
+    "id": "299985",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Meat gravies",
+    "harm": {
+      "id": "0036894",
+      "title": "299985 - Meat gravies",
+      "conceptLink": "/ec2/concept/5985200"
+    }
+  },
+  {
+    "uri": "en/30/297784",
+    "id": "297784",
+    "lang": "en",
+    "classNumber": "30",
+    "term": "Meat pies",
+    "harm": {
+      "id": "0006963",
+      "title": "297784 - Meat pies",
+      "conceptLink": "/ec2/concept/5957829"
+    }
+  }
+]

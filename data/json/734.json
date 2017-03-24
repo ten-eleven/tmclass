@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/41/485820",
+    "id": "485820",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training courses",
+    "harm": {
+      "id": "0008861",
+      "title": "485820 - Provision of training courses",
+      "conceptLink": "/ec2/concept/5959559"
+    }
+  },
+  {
+    "uri": "en/41/856450",
+    "id": "856450",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training courses for young people in preparation for careers",
+    "harm": {
+      "id": "0008862",
+      "title": "856450 - Provision of training courses for young people in preparation for careers",
+      "conceptLink": "/ec2/concept/5959560"
+    }
+  },
+  {
+    "uri": "en/41/856469",
+    "id": "856469",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training courses for young people in preparation for vocations",
+    "harm": {
+      "id": "0008862",
+      "title": "856469 - Provision of training courses for young people in preparation for vocations",
+      "conceptLink": "/ec2/concept/5959560"
+    }
+  },
+  {
+    "uri": "en/41/856468",
+    "id": "856468",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training courses for young people in preparation for employment",
+    "harm": {
+      "id": "0008862",
+      "title": "856468 - Provision of training courses for young people in preparation for employment",
+      "conceptLink": "/ec2/concept/5959560"
+    }
+  },
+  {
+    "uri": "en/41/856488",
+    "id": "856488",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training courses in personal development",
+    "harm": {
+      "id": "0020560",
+      "title": "856488 - Provision of training courses in personal development",
+      "conceptLink": "/ec2/concept/5970268"
+    }
+  },
+  {
+    "uri": "en/41/856503",
+    "id": "856503",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training facilities for the offshore petroleum industry",
+    "harm": {
+      "id": "0003107",
+      "title": "856503 - Provision of training facilities for the offshore petroleum industry",
+      "conceptLink": "/ec2/concept/5954294"
+    }
+  },
+  {
+    "uri": "en/41/57372",
+    "id": "57372",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training facilities",
+    "harm": {
+      "id": "0011725",
+      "title": "57372 - Provision of training facilities",
+      "conceptLink": "/ec2/concept/5962188"
+    }
+  },
+  {
+    "uri": "en/41/856515",
+    "id": "856515",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training facilities for young people",
+    "harm": {
+      "id": "0026212",
+      "title": "856515 - Provision of training facilities for young people",
+      "conceptLink": "/ec2/concept/5975459"
+    }
+  },
+  {
+    "uri": "en/41/120875873",
+    "id": "120875873",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training in the field of hygiene for the catering industry",
+    "harm": {
+      "id": "0068959",
+      "title": "120875873 - Provision of training in the field of hygiene for the catering industry",
+      "conceptLink": "/ec2/concept/6005162"
+    }
+  },
+  {
+    "uri": "en/41/856527",
+    "id": "856527",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training services for business",
+    "harm": {
+      "id": "0008863",
+      "title": "856527 - Provision of training services for business",
+      "conceptLink": "/ec2/concept/5959561"
+    }
+  },
+  {
+    "uri": "en/41/856541",
+    "id": "856541",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training services for industry",
+    "harm": {
+      "id": "0043553",
+      "title": "856541 - Provision of training services for industry",
+      "conceptLink": "/ec2/concept/5991273"
+    }
+  },
+  {
+    "uri": "en/41/120869492",
+    "id": "120869492",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of training via a global computer network",
+    "harm": {
+      "id": "0069064",
+      "title": "120869492 - Provision of training via a global computer network",
+      "conceptLink": "/ec2/concept/6005267"
+    }
+  },
+  {
+    "uri": "en/41/468175",
+    "id": "468175",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of translation services",
+    "harm": {
+      "id": "0010583",
+      "title": "468175 - Provision of translation services",
+      "conceptLink": "/ec2/concept/5961145"
+    }
+  },
+  {
+    "uri": "en/41/55695",
+    "id": "55695",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of tuition",
+    "harm": {
+      "id": "0057779",
+      "title": "55695 - Provision of tuition",
+      "conceptLink": "/ec2/concept/5999283"
+    }
+  },
+  {
+    "uri": "en/41/856555",
+    "id": "856555",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of video recording studio facilities",
+    "harm": {
+      "id": "0031984",
+      "title": "856555 - Provision of video recording studio facilities",
+      "conceptLink": "/ec2/concept/5980729"
+    }
+  },
+  {
+    "uri": "en/41/856570",
+    "id": "856570",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of video recording studio services",
+    "harm": {
+      "id": "0031985",
+      "title": "856570 - Provision of video recording studio services",
+      "conceptLink": "/ec2/concept/5980730"
+    }
+  },
+  {
+    "uri": "en/41/856594",
+    "id": "856594",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of water-based recreation services",
+    "harm": {
+      "id": "0026213",
+      "title": "856594 - Provision of water-based recreation services",
+      "conceptLink": "/ec2/concept/5975460"
+    }
+  },
+  {
+    "uri": "en/41/856582",
+    "id": "856582",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Provision of water chute complexes",
+    "harm": {
+      "id": "0003108",
+      "title": "856582 - Provision of water chute complexes",
+      "conceptLink": "/ec2/concept/5954295"
+    }
+  },
+  {
+    "uri": "en/41/898993",
+    "id": "898993",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Public baths [swimming pools]",
+    "harm": {
+      "id": "0025020",
+      "title": "898993 - Public baths [swimming pools]",
+      "conceptLink": "/ec2/concept/5974367"
+    }
+  },
+  {
+    "uri": "en/41/125078374",
+    "id": "125078374",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Public swimming bath facilities (Provision of -)",
+    "harm": {
+      "id": "0031986",
+      "title": "125078374 - Public swimming bath facilities (Provision of -)",
+      "conceptLink": "/ec2/concept/5980731"
+    }
+  },
+  {
+    "uri": "en/41/373617",
+    "id": "373617",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication and editing of printed matter",
+    "harm": {
+      "id": "0004847",
+      "title": "373617 - Publication and editing of printed matter",
+      "conceptLink": "/ec2/concept/5955895"
+    }
+  },
+  {
+    "uri": "en/41/468196",
+    "id": "468196",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication and edition of books",
+    "harm": {
+      "id": "0006544",
+      "title": "468196 - Publication and edition of books",
+      "conceptLink": "/ec2/concept/5957448"
+    }
+  },
+  {
+    "uri": "en/41/9303834",
+    "id": "9303834",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of audio books",
+    "harm": {
+      "id": "0069049",
+      "title": "9303834 - Publication of audio books",
+      "conceptLink": "/ec2/concept/6005252"
+    }
+  },
+  {
+    "uri": "en/41/120876147",
+    "id": "120876147",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of booklets",
+    "harm": {
+      "id": "0071362",
+      "title": "120876147 - Publication of booklets",
+      "conceptLink": "/ec2/concept/6007553"
+    }
+  },
+  {
+    "uri": "en/41/56572",
+    "id": "56572",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books",
+    "harm": {
+      "id": "0042026",
+      "title": "56572 - Publication of books",
+      "conceptLink": "/ec2/concept/5989880"
+    }
+  },
+  {
+    "uri": "en/41/504645",
+    "id": "504645",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books, magazines, almanacs and journals",
+    "harm": {
+      "id": "0014512",
+      "title": "504645 - Publication of books, magazines, almanacs and journals",
+      "conceptLink": "/ec2/concept/5964747"
+    }
+  },
+  {
+    "uri": "en/41/856633",
+    "id": "856633",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books relating to information technology",
+    "harm": {
+      "id": "0020985",
+      "title": "856633 - Publication of books relating to information technology",
+      "conceptLink": "/ec2/concept/5970663"
+    }
+  },
+  {
+    "uri": "en/41/856657",
+    "id": "856657",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books relating to television programmes",
+    "harm": {
+      "id": "0032393",
+      "title": "856657 - Publication of books relating to television programmes",
+      "conceptLink": "/ec2/concept/5981098"
+    }
+  },
+  {
+    "uri": "en/41/856645",
+    "id": "856645",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books relating to rugby league",
+    "harm": {
+      "id": "0043960",
+      "title": "856645 - Publication of books relating to rugby league",
+      "conceptLink": "/ec2/concept/5991647"
+    }
+  },
+  {
+    "uri": "en/41/856619",
+    "id": "856619",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books relating to entertainment",
+    "harm": {
+      "id": "0043959",
+      "title": "856619 - Publication of books relating to entertainment",
+      "conceptLink": "/ec2/concept/5991646"
+    }
+  },
+  {
+    "uri": "en/41/372340",
+    "id": "372340",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of books, reviews",
+    "harm": {
+      "id": "0012885",
+      "title": "372340 - Publication of books, reviews",
+      "conceptLink": "/ec2/concept/5963254"
+    }
+  },
+  {
+    "uri": "en/41/468218",
+    "id": "468218",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of brochures",
+    "harm": {
+      "id": "0029697",
+      "title": "468218 - Publication of brochures",
+      "conceptLink": "/ec2/concept/5978649"
+    }
+  },
+  {
+    "uri": "en/41/120876126",
+    "id": "120876126",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of calendars",
+    "harm": {
+      "id": "0068950",
+      "title": "120876126 - Publication of calendars",
+      "conceptLink": "/ec2/concept/6005153"
+    }
+  },
+  {
+    "uri": "en/41/486398",
+    "id": "486398",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of calendars of events",
+    "harm": {
+      "id": "0038735",
+      "title": "486398 - Publication of calendars of events",
+      "conceptLink": "/ec2/concept/5986875"
+    }
+  },
+  {
+    "uri": "en/41/137159504",
+    "id": "137159504",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of catalogs",
+    "harm": {
+      "id": "0068951",
+      "title": "137159504 - Publication of catalogs",
+      "conceptLink": "/ec2/concept/6005154"
+    }
+  },
+  {
+    "uri": "en/41/120876129",
+    "id": "120876129",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of catalogues",
+    "harm": {
+      "id": "0068951",
+      "title": "120876129 - Publication of catalogues",
+      "conceptLink": "/ec2/concept/6005154"
+    }
+  },
+  {
+    "uri": "en/41/120876154",
+    "id": "120876154",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of consumer magazines",
+    "harm": {
+      "id": "0068954",
+      "title": "120876154 - Publication of consumer magazines",
+      "conceptLink": "/ec2/concept/6005157"
+    }
+  },
+  {
+    "uri": "en/41/856670",
+    "id": "856670",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of directories relating to tourism",
+    "harm": {
+      "id": "0020986",
+      "title": "856670 - Publication of directories relating to tourism",
+      "conceptLink": "/ec2/concept/5970664"
+    }
+  },
+  {
+    "uri": "en/41/856682",
+    "id": "856682",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of directories relating to travel",
+    "harm": {
+      "id": "0038239",
+      "title": "856682 - Publication of directories relating to travel",
+      "conceptLink": "/ec2/concept/5986419"
+    }
+  },
+  {
+    "uri": "en/41/504659",
+    "id": "504659",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of documents in the field of training, science, public law and social affairs",
+    "harm": {
+      "id": "0008657",
+      "title": "504659 - Publication of documents in the field of training, science, public law and social affairs",
+      "conceptLink": "/ec2/concept/5959368"
+    }
+  },
+  {
+    "uri": "en/41/856787",
+    "id": "856787",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational texts",
+    "harm": {
+      "id": "0003562",
+      "title": "856787 - Publication of educational texts",
+      "conceptLink": "/ec2/concept/5954711"
+    }
+  },
+  {
+    "uri": "en/41/856717",
+    "id": "856717",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational materials",
+    "harm": {
+      "id": "0002719",
+      "title": "856717 - Publication of educational materials",
+      "conceptLink": "/ec2/concept/5953936"
+    }
+  },
+  {
+    "uri": "en/41/856749",
+    "id": "856749",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational printed matter",
+    "harm": {
+      "id": "0014277",
+      "title": "856749 - Publication of educational printed matter",
+      "conceptLink": "/ec2/concept/5964529"
+    }
+  },
+  {
+    "uri": "en/41/856695",
+    "id": "856695",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational books",
+    "harm": {
+      "id": "0003561",
+      "title": "856695 - Publication of educational books",
+      "conceptLink": "/ec2/concept/5954710"
+    }
+  },
+  {
+    "uri": "en/41/856773",
+    "id": "856773",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational teaching materials",
+    "harm": {
+      "id": "0038240",
+      "title": "856773 - Publication of educational teaching materials",
+      "conceptLink": "/ec2/concept/5986420"
+    }
+  },
+  {
+    "uri": "en/41/120875854",
+    "id": "120875854",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of educational and training guides",
+    "harm": {
+      "id": "0068956",
+      "title": "120875854 - Publication of educational and training guides",
+      "conceptLink": "/ec2/concept/6005159"
+    }
+  },
+  {
+    "uri": "en/41/373632",
+    "id": "373632",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of electronic magazines",
+    "harm": {
+      "id": "0016368",
+      "title": "373632 - Publication of electronic magazines",
+      "conceptLink": "/ec2/concept/5966458"
+    }
+  },
+  {
+    "uri": "en/41/373648",
+    "id": "373648",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of electronic newspapers accessible via a global computer network",
+    "harm": {
+      "id": "0010565",
+      "title": "373648 - Publication of electronic newspapers accessible via a global computer network",
+      "conceptLink": "/ec2/concept/5961128"
+    }
+  },
+  {
+    "uri": "en/41/120876384",
+    "id": "120876384",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of electronic books and periodicals on the Internet",
+    "harm": {
+      "id": "0069006",
+      "title": "120876384 - Publication of electronic books and periodicals on the Internet",
+      "conceptLink": "/ec2/concept/6005209"
+    }
+  },
+  {
+    "uri": "en/41/1130974",
+    "id": "1130974",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of electronic books and journals online",
+    "harm": {
+      "id": "0057080",
+      "title": "1130974 - Publication of electronic books and journals online",
+      "conceptLink": "/ec2/concept/5998714"
+    }
+  },
+  {
+    "uri": "en/41/913396",
+    "id": "913396",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of electronic books and journals on-line",
+    "harm": {
+      "id": "0057080",
+      "title": "913396 - Publication of electronic books and journals on-line",
+      "conceptLink": "/ec2/concept/5998714"
+    }
+  },
+  {
+    "uri": "en/41/117542110",
+    "id": "117542110",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of fact sheets",
+    "harm": {
+      "id": "0071368",
+      "title": "117542110 - Publication of fact sheets",
+      "conceptLink": "/ec2/concept/6007559"
+    }
+  },
+  {
+    "uri": "en/41/856718",
+    "id": "856718",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of instructional literature",
+    "harm": {
+      "id": "0002719",
+      "title": "856718 - Publication of instructional literature",
+      "conceptLink": "/ec2/concept/5953936"
+    }
+  },
+  {
+    "uri": "en/41/372948",
+    "id": "372948",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of journals",
+    "harm": {
+      "id": "0057986",
+      "title": "372948 - Publication of journals",
+      "conceptLink": "/ec2/concept/5999490"
+    }
+  },
+  {
+    "uri": "en/41/468219",
+    "id": "468219",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of leaflets",
+    "harm": {
+      "id": "0029697",
+      "title": "468219 - Publication of leaflets",
+      "conceptLink": "/ec2/concept/5978649"
+    }
+  },
+  {
+    "uri": "en/41/856814",
+    "id": "856814",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of lyrics of songs in sheet form",
+    "harm": {
+      "id": "0038241",
+      "title": "856814 - Publication of lyrics of songs in sheet form",
+      "conceptLink": "/ec2/concept/5986421"
+    }
+  },
+  {
+    "uri": "en/41/856801",
+    "id": "856801",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of lyrics of songs in book form",
+    "harm": {
+      "id": "0026639",
+      "title": "856801 - Publication of lyrics of songs in book form",
+      "conceptLink": "/ec2/concept/5975845"
+    }
+  },
+  {
+    "uri": "en/41/372941",
+    "id": "372941",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of magazines",
+    "harm": {
+      "id": "0037410",
+      "title": "372941 - Publication of magazines",
+      "conceptLink": "/ec2/concept/5985666"
+    }
+  },
+  {
+    "uri": "en/41/468245",
+    "id": "468245",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of manuals",
+    "harm": {
+      "id": "0012340",
+      "title": "468245 - Publication of manuals",
+      "conceptLink": "/ec2/concept/5962758"
+    }
+  },
+  {
+    "uri": "en/41/486412",
+    "id": "486412",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of material on magnetic or optical data media",
+    "harm": {
+      "id": "0015666",
+      "title": "486412 - Publication of material on magnetic or optical data media",
+      "conceptLink": "/ec2/concept/5965802"
+    }
+  },
+  {
+    "uri": "en/41/486426",
+    "id": "486426",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of material which can be accessed from databases or from the internet",
+    "harm": {
+      "id": "0021572",
+      "title": "486426 - Publication of material which can be accessed from databases or from the internet",
+      "conceptLink": "/ec2/concept/5971192"
+    }
+  },
+  {
+    "uri": "en/41/856826",
+    "id": "856826",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of medical texts",
+    "harm": {
+      "id": "0038242",
+      "title": "856826 - Publication of medical texts",
+      "conceptLink": "/ec2/concept/5986422"
+    }
+  },
+  {
+    "uri": "en/41/60593028",
+    "id": "60593028",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of multimedia material online",
+    "harm": {
+      "id": "0069008",
+      "title": "60593028 - Publication of multimedia material online",
+      "conceptLink": "/ec2/concept/6005211"
+    }
+  },
+  {
+    "uri": "en/41/465985",
+    "id": "465985",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of music",
+    "harm": {
+      "id": "0036190",
+      "title": "465985 - Publication of music",
+      "conceptLink": "/ec2/concept/5984554"
+    }
+  },
+  {
+    "uri": "en/41/856839",
+    "id": "856839",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of music books",
+    "harm": {
+      "id": "0043961",
+      "title": "856839 - Publication of music books",
+      "conceptLink": "/ec2/concept/5991648"
+    }
+  },
+  {
+    "uri": "en/41/373662",
+    "id": "373662",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of musical texts",
+    "harm": {
+      "id": "0016369",
+      "title": "373662 - Publication of musical texts",
+      "conceptLink": "/ec2/concept/5966459"
+    }
+  },
+  {
+    "uri": "en/41/372946",
+    "id": "372946",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of newspapers",
+    "harm": {
+      "id": "0057987",
+      "title": "372946 - Publication of newspapers",
+      "conceptLink": "/ec2/concept/5999491"
+    }
+  },
+  {
+    "uri": "en/41/906501",
+    "id": "906501",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of newspapers, periodicals, catalogs and brochures",
+    "harm": {
+      "id": "0040915",
+      "title": "906501 - Publication of newspapers, periodicals, catalogs and brochures",
+      "conceptLink": "/ec2/concept/5988863"
+    }
+  },
+  {
+    "uri": "en/41/120876356",
+    "id": "120876356",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of online guide books, travel maps, city directories and listings for use by travellers, not downloadable",
+    "harm": {
+      "id": "0069015",
+      "title": "120876356 - Publication of online guide books, travel maps, city directories and listings for use by travellers, not downloadable",
+      "conceptLink": "/ec2/concept/6005218"
+    }
+  },
+  {
+    "uri": "en/41/137806388",
+    "id": "137806388",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of online reviews in the field of entertainment",
+    "harm": {
+      "id": "0051066",
+      "title": "137806388 - Publication of online reviews in the field of entertainment",
+      "conceptLink": "/ec2/concept/6010052"
+    }
+  },
+  {
+    "uri": "en/41/372949",
+    "id": "372949",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of periodicals",
+    "harm": {
+      "id": "0037410",
+      "title": "372949 - Publication of periodicals",
+      "conceptLink": "/ec2/concept/5985666"
+    }
+  },
+  {
+    "uri": "en/41/41239053",
+    "id": "41239053",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of periodicals and books in electronic form",
+    "harm": {
+      "id": "0069007",
+      "title": "41239053 - Publication of periodicals and books in electronic form",
+      "conceptLink": "/ec2/concept/6005210"
+    }
+  },
+  {
+    "uri": "en/41/856854",
+    "id": "856854",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of posters",
+    "harm": {
+      "id": "0020125",
+      "title": "856854 - Publication of posters",
+      "conceptLink": "/ec2/concept/5969877"
+    }
+  },
+  {
+    "uri": "en/41/39235224",
+    "id": "39235224",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed directories",
+    "harm": {
+      "id": "0068957",
+      "title": "39235224 - Publication of printed directories",
+      "conceptLink": "/ec2/concept/6005160"
+    }
+  },
+  {
+    "uri": "en/41/856882",
+    "id": "856882",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter relating to pet animals",
+    "harm": {
+      "id": "0002718",
+      "title": "856882 - Publication of printed matter relating to pet animals",
+      "conceptLink": "/ec2/concept/5953935"
+    }
+  },
+  {
+    "uri": "en/41/856895",
+    "id": "856895",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter relating to pet fish",
+    "harm": {
+      "id": "0014278",
+      "title": "856895 - Publication of printed matter relating to pet fish",
+      "conceptLink": "/ec2/concept/5964530"
+    }
+  },
+  {
+    "uri": "en/41/856750",
+    "id": "856750",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter relating to education",
+    "harm": {
+      "id": "0014277",
+      "title": "856750 - Publication of printed matter relating to education",
+      "conceptLink": "/ec2/concept/5964529"
+    }
+  },
+  {
+    "uri": "en/41/486440",
+    "id": "486440",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter and printed publications",
+    "harm": {
+      "id": "0038736",
+      "title": "486440 - Publication of printed matter and printed publications",
+      "conceptLink": "/ec2/concept/5986876"
+    }
+  },
+  {
+    "uri": "en/41/856868",
+    "id": "856868",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter relating to intellectual property rights",
+    "harm": {
+      "id": "0031575",
+      "title": "856868 - Publication of printed matter relating to intellectual property rights",
+      "conceptLink": "/ec2/concept/5980357"
+    }
+  },
+  {
+    "uri": "en/41/373684",
+    "id": "373684",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter",
+    "harm": {
+      "id": "0030471",
+      "title": "373684 - Publication of printed matter",
+      "conceptLink": "/ec2/concept/5979361"
+    }
+  },
+  {
+    "uri": "en/41/117542264",
+    "id": "117542264",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter, other than publicity texts, in electronic form",
+    "harm": {
+      "id": "0069091",
+      "title": "117542264 - Publication of printed matter, other than publicity texts, in electronic form",
+      "conceptLink": "/ec2/concept/6005294"
+    }
+  },
+  {
+    "uri": "en/41/6725498",
+    "id": "6725498",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter in electronic form",
+    "harm": {
+      "id": "0069005",
+      "title": "6725498 - Publication of printed matter in electronic form",
+      "conceptLink": "/ec2/concept/6005208"
+    }
+  },
+  {
+    "uri": "en/41/132840009",
+    "id": "132840009",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter, also in electronic form, except for advertising purposes",
+    "harm": {
+      "id": "0069077",
+      "title": "132840009 - Publication of printed matter, also in electronic form, except for advertising purposes",
+      "conceptLink": "/ec2/concept/6005280"
+    }
+  },
+  {
+    "uri": "en/41/120876443",
+    "id": "120876443",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter in electronic form on the Internet",
+    "harm": {
+      "id": "0069004",
+      "title": "120876443 - Publication of printed matter in electronic form on the Internet",
+      "conceptLink": "/ec2/concept/6005207"
+    }
+  },
+  {
+    "uri": "en/41/64124697",
+    "id": "64124697",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of printed matter, other than publicity texts",
+    "harm": {
+      "id": "0069094",
+      "title": "64124697 - Publication of printed matter, other than publicity texts",
+      "conceptLink": "/ec2/concept/6005297"
+    }
+  },
+  {
+    "uri": "en/41/113749249",
+    "id": "113749249",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of prospectuses",
+    "harm": {
+      "id": "0071364",
+      "title": "113749249 - Publication of prospectuses",
+      "conceptLink": "/ec2/concept/6007555"
+    }
+  },
+  {
+    "uri": "en/41/54066909",
+    "id": "54066909",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of scientific information journals",
+    "harm": {
+      "id": "0068953",
+      "title": "54066909 - Publication of scientific information journals",
+      "conceptLink": "/ec2/concept/6005156"
+    }
+  },
+  {
+    "uri": "en/41/486454",
+    "id": "486454",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of sheet music",
+    "harm": {
+      "id": "0027191",
+      "title": "486454 - Publication of sheet music",
+      "conceptLink": "/ec2/concept/5976333"
+    }
+  },
+  {
+    "uri": "en/41/56574",
+    "id": "56574",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of text books",
+    "harm": {
+      "id": "0000763",
+      "title": "56574 - Publication of text books",
+      "conceptLink": "/ec2/concept/5952174"
+    }
+  },
+  {
+    "uri": "en/41/77400636",
+    "id": "77400636",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of textbooks",
+    "harm": {
+      "id": "0000763",
+      "title": "77400636 - Publication of textbooks",
+      "conceptLink": "/ec2/concept/5952174"
+    }
+  },
+  {
+    "uri": "en/41/486468",
+    "id": "486468",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of texts",
+    "harm": {
+      "id": "0038737",
+      "title": "486468 - Publication of texts",
+      "conceptLink": "/ec2/concept/5986877"
+    }
+  },
+  {
+    "uri": "en/41/120869415",
+    "id": "120869415",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of texts and images, including in electronic form, except for advertising purposes",
+    "harm": {
+      "id": "0069074",
+      "title": "120869415 - Publication of texts and images, including in electronic form, except for advertising purposes",
+      "conceptLink": "/ec2/concept/6005277"
+    }
+  },
+  {
+    "uri": "en/41/120870424",
+    "id": "120870424",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of texts in the form of electronic media",
+    "harm": {
+      "id": "0069093",
+      "title": "120870424 - Publication of texts in the form of electronic media",
+      "conceptLink": "/ec2/concept/6005296"
+    }
+  },
+  {
+    "uri": "en/41/120870418",
+    "id": "120870418",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of texts in the form of CD-ROMs",
+    "harm": {
+      "id": "0069092",
+      "title": "120870418 - Publication of texts in the form of CD-ROMs",
+      "conceptLink": "/ec2/concept/6005295"
+    }
+  },
+  {
+    "uri": "en/41/55580",
+    "id": "55580",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of texts, other than publicity texts",
+    "harm": {
+      "id": "0006013",
+      "title": "55580 - Publication of texts, other than publicity texts",
+      "conceptLink": "/ec2/concept/5956962"
+    }
+  },
+  {
+    "uri": "en/41/373711",
+    "id": "373711",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of the editorial content of sites accessible via a global computer network",
+    "harm": {
+      "id": "0021215",
+      "title": "373711 - Publication of the editorial content of sites accessible via a global computer network",
+      "conceptLink": "/ec2/concept/5970876"
+    }
+  },
+  {
+    "uri": "en/41/137814131",
+    "id": "137814131",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of the results of clinical trials",
+    "harm": {
+      "id": "0051176",
+      "title": "137814131 - Publication of the results of clinical trials",
+      "conceptLink": "/ec2/concept/6010162"
+    }
+  },
+  {
+    "uri": "en/41/120869095",
+    "id": "120869095",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of the results of clinical trials for pharmaceutical preparations",
+    "harm": {
+      "id": "0069061",
+      "title": "120869095 - Publication of the results of clinical trials for pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6005264"
+    }
+  },
+  {
+    "uri": "en/41/856907",
+    "id": "856907",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of training manuals",
+    "harm": {
+      "id": "0008424",
+      "title": "856907 - Publication of training manuals",
+      "conceptLink": "/ec2/concept/5959162"
+    }
+  },
+  {
+    "uri": "en/41/856923",
+    "id": "856923",
+    "lang": "en",
+    "classNumber": "41",
+    "term": "Publication of work manuals for business management",
+    "harm": {
+      "id": "0025793",
+      "title": "856923 - Publication of work manuals for business management",
+      "conceptLink": "/ec2/concept/5975071"
+    }
+  }
+]

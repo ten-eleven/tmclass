@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/9/233533900",
+    "id": "233533900",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interactive touch screen terminals",
+    "harm": {
+      "id": "0052065",
+      "title": "233533900 - Interactive touch screen terminals",
+      "conceptLink": "/ec2/concept/6010965"
+    }
+  },
+  {
+    "uri": "en/9/540112",
+    "id": "540112",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interactive video apparatus",
+    "harm": {
+      "id": "0003600",
+      "title": "540112 - Interactive video apparatus",
+      "conceptLink": "/ec2/concept/5954745"
+    }
+  },
+  {
+    "uri": "en/9/398913",
+    "id": "398913",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interactive video game programs",
+    "harm": {
+      "id": "0011495",
+      "title": "398913 - Interactive video game programs",
+      "conceptLink": "/ec2/concept/5961974"
+    }
+  },
+  {
+    "uri": "en/9/540126",
+    "id": "540126",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interactive video software",
+    "harm": {
+      "id": "0032429",
+      "title": "540126 - Interactive video software",
+      "conceptLink": "/ec2/concept/5981133"
+    }
+  },
+  {
+    "uri": "en/9/540139",
+    "id": "540139",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interchangeable lenses",
+    "harm": {
+      "id": "0026668",
+      "title": "540139 - Interchangeable lenses",
+      "conceptLink": "/ec2/concept/5975868"
+    }
+  },
+  {
+    "uri": "en/9/149719",
+    "id": "149719",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intercom apparatus",
+    "harm": {
+      "id": "0058017",
+      "title": "149719 - Intercom apparatus",
+      "conceptLink": "/ec2/concept/5999521"
+    }
+  },
+  {
+    "uri": "en/9/149720",
+    "id": "149720",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intercommunication apparatus",
+    "harm": {
+      "id": "0058017",
+      "title": "149720 - Intercommunication apparatus",
+      "conceptLink": "/ec2/concept/5999521"
+    }
+  },
+  {
+    "uri": "en/9/540153",
+    "id": "540153",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intercommunication satellites",
+    "harm": {
+      "id": "0021023",
+      "title": "540153 - Intercommunication satellites",
+      "conceptLink": "/ec2/concept/5970699"
+    }
+  },
+  {
+    "uri": "en/9/149718",
+    "id": "149718",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intercoms",
+    "harm": {
+      "id": "0058016",
+      "title": "149718 - Intercoms",
+      "conceptLink": "/ec2/concept/5999520"
+    }
+  },
+  {
+    "uri": "en/9/540167",
+    "id": "540167",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface cables [electric]",
+    "harm": {
+      "id": "0021024",
+      "title": "540167 - Interface cables [electric]",
+      "conceptLink": "/ec2/concept/5970700"
+    }
+  },
+  {
+    "uri": "en/9/329415",
+    "id": "329415",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface cards for data processing equipment in the form of printed circuits",
+    "harm": {
+      "id": "0037569",
+      "title": "329415 - Interface cards for data processing equipment in the form of printed circuits",
+      "conceptLink": "/ec2/concept/5985806"
+    }
+  },
+  {
+    "uri": "en/9/120896780",
+    "id": "120896780",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface cards for data processing apparatus",
+    "harm": {
+      "id": "0065721",
+      "title": "120896780 - Interface cards for data processing apparatus",
+      "conceptLink": "/ec2/concept/6001924"
+    }
+  },
+  {
+    "uri": "en/9/12001445",
+    "id": "12001445",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface circuits for video cameras",
+    "harm": {
+      "id": "0055761",
+      "title": "12001445 - Interface circuits for video cameras",
+      "conceptLink": "/ec2/concept/5997145"
+    }
+  },
+  {
+    "uri": "en/9/540181",
+    "id": "540181",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface network modems",
+    "harm": {
+      "id": "0044001",
+      "title": "540181 - Interface network modems",
+      "conceptLink": "/ec2/concept/5991682"
+    }
+  },
+  {
+    "uri": "en/9/395609",
+    "id": "395609",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interface software",
+    "harm": {
+      "id": "0032061",
+      "title": "395609 - Interface software",
+      "conceptLink": "/ec2/concept/5980799"
+    }
+  },
+  {
+    "uri": "en/9/158726",
+    "id": "158726",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interfaces for computers",
+    "harm": {
+      "id": "0032061",
+      "title": "158726 - Interfaces for computers",
+      "conceptLink": "/ec2/concept/5980799"
+    }
+  },
+  {
+    "uri": "en/9/329429",
+    "id": "329429",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interfaces for detectors",
+    "harm": {
+      "id": "0002893",
+      "title": "329429 - Interfaces for detectors",
+      "conceptLink": "/ec2/concept/5954091"
+    }
+  },
+  {
+    "uri": "en/9/329443",
+    "id": "329443",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interferometers",
+    "harm": {
+      "id": "0009755",
+      "title": "329443 - Interferometers",
+      "conceptLink": "/ec2/concept/5960383"
+    }
+  },
+  {
+    "uri": "en/9/540195",
+    "id": "540195",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internal combustion engine testing apparatus",
+    "harm": {
+      "id": "0032430",
+      "title": "540195 - Internal combustion engine testing apparatus",
+      "conceptLink": "/ec2/concept/5981134"
+    }
+  },
+  {
+    "uri": "en/9/398957",
+    "id": "398957",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internal cooling fans for computers",
+    "harm": {
+      "id": "0034612",
+      "title": "398957 - Internal cooling fans for computers",
+      "conceptLink": "/ec2/concept/5983126"
+    }
+  },
+  {
+    "uri": "en/9/398971",
+    "id": "398971",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internal modems",
+    "harm": {
+      "id": "0040711",
+      "title": "398971 - Internal modems",
+      "conceptLink": "/ec2/concept/5988687"
+    }
+  },
+  {
+    "uri": "en/9/1078327",
+    "id": "1078327",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internet access software",
+    "harm": {
+      "id": "0065791",
+      "title": "1078327 - Internet access software",
+      "conceptLink": "/ec2/concept/6001994"
+    }
+  },
+  {
+    "uri": "en/9/137900084",
+    "id": "137900084",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internet messaging software",
+    "harm": {
+      "id": "0043934",
+      "title": "137900084 - Internet messaging software",
+      "conceptLink": "/ec2/concept/5991623"
+    }
+  },
+  {
+    "uri": "en/9/398987",
+    "id": "398987",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internet phones",
+    "harm": {
+      "id": "0011816",
+      "title": "398987 - Internet phones",
+      "conceptLink": "/ec2/concept/5962273"
+    }
+  },
+  {
+    "uri": "en/9/136073579",
+    "id": "136073579",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internet Protocol televisions",
+    "harm": {
+      "id": "0050437",
+      "title": "136073579 - Internet Protocol televisions",
+      "conceptLink": "/ec2/concept/5995644"
+    }
+  },
+  {
+    "uri": "en/9/884869",
+    "id": "884869",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Internet servers",
+    "harm": {
+      "id": "0027144",
+      "title": "884869 - Internet servers",
+      "conceptLink": "/ec2/concept/5976286"
+    }
+  },
+  {
+    "uri": "en/9/540207",
+    "id": "540207",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Interrupting modules",
+    "harm": {
+      "id": "0038275",
+      "title": "540207 - Interrupting modules",
+      "conceptLink": "/ec2/concept/5986454"
+    }
+  },
+  {
+    "uri": "en/9/884883",
+    "id": "884883",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intranet servers",
+    "harm": {
+      "id": "0027145",
+      "title": "884883 - Intranet servers",
+      "conceptLink": "/ec2/concept/5976287"
+    }
+  },
+  {
+    "uri": "en/9/540222",
+    "id": "540222",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intruder detecting apparatus [other than for vehicles]",
+    "harm": {
+      "id": "0022637",
+      "title": "540222 - Intruder detecting apparatus [other than for vehicles]",
+      "conceptLink": "/ec2/concept/5972173"
+    }
+  },
+  {
+    "uri": "en/9/86774130",
+    "id": "86774130",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intruder detection apparatus",
+    "harm": {
+      "id": "0022637",
+      "title": "86774130 - Intruder detection apparatus",
+      "conceptLink": "/ec2/concept/5972173"
+    }
+  },
+  {
+    "uri": "en/9/540237",
+    "id": "540237",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Intruder identification apparatus [other than for vehicles]",
+    "harm": {
+      "id": "0022638",
+      "title": "540237 - Intruder identification apparatus [other than for vehicles]",
+      "conceptLink": "/ec2/concept/5972174"
+    }
+  },
+  {
+    "uri": "en/9/1373198",
+    "id": "1373198",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Inverters",
+    "harm": {
+      "id": "0040716",
+      "title": "1373198 - Inverters",
+      "conceptLink": "/ec2/concept/5988691"
+    }
+  },
+  {
+    "uri": "en/9/149787",
+    "id": "149787",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Inverters [electricity]",
+    "harm": {
+      "id": "0040716",
+      "title": "149787 - Inverters [electricity]",
+      "conceptLink": "/ec2/concept/5988691"
+    }
+  },
+  {
+    "uri": "en/9/399008",
+    "id": "399008",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Inverters for power supply",
+    "harm": {
+      "id": "0023420",
+      "title": "399008 - Inverters for power supply",
+      "conceptLink": "/ec2/concept/5972893"
+    }
+  },
+  {
+    "uri": "en/9/233245898",
+    "id": "233245898",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Inverters used in solar power generation",
+    "harm": {
+      "id": "0023084",
+      "title": "233245898 - Inverters used in solar power generation",
+      "conceptLink": "/ec2/concept/5972576"
+    }
+  },
+  {
+    "uri": "en/9/540252",
+    "id": "540252",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Invertor controllers",
+    "harm": {
+      "id": "0022639",
+      "title": "540252 - Invertor controllers",
+      "conceptLink": "/ec2/concept/5972175"
+    }
+  },
+  {
+    "uri": "en/9/147886",
+    "id": "147886",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Invoicing machines",
+    "harm": {
+      "id": "0029668",
+      "title": "147886 - Invoicing machines",
+      "conceptLink": "/ec2/concept/5978623"
+    }
+  },
+  {
+    "uri": "en/9/540265",
+    "id": "540265",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Ion beam supply apparatus",
+    "harm": {
+      "id": "0039814",
+      "title": "540265 - Ion beam supply apparatus",
+      "conceptLink": "/ec2/concept/5987857"
+    }
+  },
+  {
+    "uri": "en/9/540278",
+    "id": "540278",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Ion gauge tubes",
+    "harm": {
+      "id": "0010973",
+      "title": "540278 - Ion gauge tubes",
+      "conceptLink": "/ec2/concept/5961501"
+    }
+  },
+  {
+    "uri": "en/9/540290",
+    "id": "540290",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Ion implanters",
+    "harm": {
+      "id": "0022640",
+      "title": "540290 - Ion implanters",
+      "conceptLink": "/ec2/concept/5972176"
+    }
+  },
+  {
+    "uri": "en/9/136159864",
+    "id": "136159864",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Ionization apparatus for scientific or laboratory use",
+    "harm": {
+      "id": "0070553",
+      "title": "136159864 - Ionization apparatus for scientific or laboratory use",
+      "conceptLink": "/ec2/concept/6006745"
+    }
+  },
+  {
+    "uri": "en/9/149809",
+    "id": "149809",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Ionization apparatus not for the treatment of air or water",
+    "harm": {
+      "id": "0013873",
+      "title": "149809 - Ionization apparatus not for the treatment of air or water",
+      "conceptLink": "/ec2/concept/5964152"
+    }
+  },
+  {
+    "uri": "en/9/136634604",
+    "id": "136634604",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "IP (Internet Protocol) televisions",
+    "harm": {
+      "id": "0050437",
+      "title": "136634604 - IP (Internet Protocol) televisions",
+      "conceptLink": "/ec2/concept/5995644"
+    }
+  },
+  {
+    "uri": "en/9/120874404",
+    "id": "120874404",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jack cables",
+    "harm": {
+      "id": "0070918",
+      "title": "120874404 - Jack cables",
+      "conceptLink": "/ec2/concept/6007110"
+    }
+  },
+  {
+    "uri": "en/9/540305",
+    "id": "540305",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jack plugs",
+    "harm": {
+      "id": "0010974",
+      "title": "540305 - Jack plugs",
+      "conceptLink": "/ec2/concept/5961502"
+    }
+  },
+  {
+    "uri": "en/9/157832",
+    "id": "157832",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jackets [bullet proof]",
+    "harm": {
+      "id": "0006833",
+      "title": "157832 - Jackets [bullet proof]",
+      "conceptLink": "/ec2/concept/5957707"
+    }
+  },
+  {
+    "uri": "en/9/399028",
+    "id": "399028",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jackets for computer disks",
+    "harm": {
+      "id": "0034917",
+      "title": "399028 - Jackets for computer disks",
+      "conceptLink": "/ec2/concept/5983403"
+    }
+  },
+  {
+    "uri": "en/9/137784756",
+    "id": "137784756",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jackets for protection against accidents, irradiation and fire",
+    "harm": {
+      "id": "0051199",
+      "title": "137784756 - Jackets for protection against accidents, irradiation and fire",
+      "conceptLink": "/ec2/concept/6010185"
+    }
+  },
+  {
+    "uri": "en/9/399047",
+    "id": "399047",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jackets for video cassettes",
+    "harm": {
+      "id": "0000254",
+      "title": "399047 - Jackets for video cassettes",
+      "conceptLink": "/ec2/concept/5951723"
+    }
+  },
+  {
+    "uri": "en/9/119529631",
+    "id": "119529631",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Japanese style box-shaped volume measure (masu)",
+    "harm": {
+      "id": "0055763",
+      "title": "119529631 - Japanese style box-shaped volume measure (masu)",
+      "conceptLink": "/ec2/concept/5997146"
+    }
+  },
+  {
+    "uri": "en/9/913531",
+    "id": "913531",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jars (Accumulator -)",
+    "harm": {
+      "id": "0008754",
+      "title": "913531 - Jars (Accumulator -)",
+      "conceptLink": "/ec2/concept/5959458"
+    }
+  },
+  {
+    "uri": "en/9/141835",
+    "id": "141835",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jigs [measuring instruments]",
+    "harm": {
+      "id": "0046371",
+      "title": "141835 - Jigs [measuring instruments]",
+      "conceptLink": "/ec2/concept/5993826"
+    }
+  },
+  {
+    "uri": "en/9/118206344",
+    "id": "118206344",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Job performance recorders",
+    "harm": {
+      "id": "0050439",
+      "title": "118206344 - Job performance recorders",
+      "conceptLink": "/ec2/concept/5995646"
+    }
+  },
+  {
+    "uri": "en/9/540317",
+    "id": "540317",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Joining units [electrical contacts]",
+    "harm": {
+      "id": "0022641",
+      "title": "540317 - Joining units [electrical contacts]",
+      "conceptLink": "/ec2/concept/5972177"
+    }
+  },
+  {
+    "uri": "en/9/540331",
+    "id": "540331",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Joint boxes for housing cable joints",
+    "harm": {
+      "id": "0034056",
+      "title": "540331 - Joint boxes for housing cable joints",
+      "conceptLink": "/ec2/concept/5982624"
+    }
+  },
+  {
+    "uri": "en/9/137742299",
+    "id": "137742299",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Joystick chargers",
+    "harm": {
+      "id": "0070554",
+      "title": "137742299 - Joystick chargers",
+      "conceptLink": "/ec2/concept/6006746"
+    }
+  },
+  {
+    "uri": "en/9/137728761",
+    "id": "137728761",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Joysticks for use with computers, other than for video games",
+    "harm": {
+      "id": "0069906",
+      "title": "137728761 - Joysticks for use with computers, other than for video games",
+      "conceptLink": "/ec2/concept/6006109"
+    }
+  },
+  {
+    "uri": "en/9/140247",
+    "id": "140247",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Juke boxes",
+    "harm": {
+      "id": "0003303",
+      "title": "140247 - Juke boxes",
+      "conceptLink": "/ec2/concept/5954472"
+    }
+  },
+  {
+    "uri": "en/9/158772",
+    "id": "158772",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Juke boxes for computers",
+    "harm": {
+      "id": "0034018",
+      "title": "158772 - Juke boxes for computers",
+      "conceptLink": "/ec2/concept/5982588"
+    }
+  },
+  {
+    "uri": "en/9/140245",
+    "id": "140245",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Juke boxes, musical",
+    "harm": {
+      "id": "0003303",
+      "title": "140245 - Juke boxes, musical",
+      "conceptLink": "/ec2/concept/5954472"
+    }
+  },
+  {
+    "uri": "en/9/327486",
+    "id": "327486",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jump cables",
+    "harm": {
+      "id": "0059377",
+      "title": "327486 - Jump cables",
+      "conceptLink": "/ec2/concept/6000859"
+    }
+  },
+  {
+    "uri": "en/9/540356",
+    "id": "540356",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jump gauge rods",
+    "harm": {
+      "id": "0016761",
+      "title": "540356 - Jump gauge rods",
+      "conceptLink": "/ec2/concept/5966812"
+    }
+  },
+  {
+    "uri": "en/9/160729",
+    "id": "160729",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jump leads",
+    "harm": {
+      "id": "0059377",
+      "title": "160729 - Jump leads",
+      "conceptLink": "/ec2/concept/6000859"
+    }
+  },
+  {
+    "uri": "en/9/329466",
+    "id": "329466",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jump start cables",
+    "harm": {
+      "id": "0059377",
+      "title": "329466 - Jump start cables",
+      "conceptLink": "/ec2/concept/6000859"
+    }
+  },
+  {
+    "uri": "en/9/327487",
+    "id": "327487",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Jumper cables",
+    "harm": {
+      "id": "0059377",
+      "title": "327487 - Jumper cables",
+      "conceptLink": "/ec2/concept/6000859"
+    }
+  },
+  {
+    "uri": "en/9/143879",
+    "id": "143879",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction boxes",
+    "harm": {
+      "id": "0057076",
+      "title": "143879 - Junction boxes",
+      "conceptLink": "/ec2/concept/5998701"
+    }
+  },
+  {
+    "uri": "en/9/143872",
+    "id": "143872",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction boxes [electricity]",
+    "harm": {
+      "id": "0057076",
+      "title": "143872 - Junction boxes [electricity]",
+      "conceptLink": "/ec2/concept/5998701"
+    }
+  },
+  {
+    "uri": "en/9/540368",
+    "id": "540368",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction boxes for electric wires",
+    "harm": {
+      "id": "0021616",
+      "title": "540368 - Junction boxes for electric wires",
+      "conceptLink": "/ec2/concept/5971233"
+    }
+  },
+  {
+    "uri": "en/9/159624",
+    "id": "159624",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction sleeves for electrical cables",
+    "harm": {
+      "id": "0020060",
+      "title": "159624 - Junction sleeves for electrical cables",
+      "conceptLink": "/ec2/concept/5969814"
+    }
+  },
+  {
+    "uri": "en/9/159627",
+    "id": "159627",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction sleeves for electric cables",
+    "harm": {
+      "id": "0020060",
+      "title": "159627 - Junction sleeves for electric cables",
+      "conceptLink": "/ec2/concept/5969814"
+    }
+  },
+  {
+    "uri": "en/9/329506",
+    "id": "329506",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junction sleeves for fibre optics",
+    "harm": {
+      "id": "0032869",
+      "title": "329506 - Junction sleeves for fibre optics",
+      "conceptLink": "/ec2/concept/5981531"
+    }
+  },
+  {
+    "uri": "en/9/143704",
+    "id": "143704",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Junctions [electrical]",
+    "harm": {
+      "id": "0009889",
+      "title": "143704 - Junctions [electrical]",
+      "conceptLink": "/ec2/concept/5960506"
+    }
+  },
+  {
+    "uri": "en/9/540384",
+    "id": "540384",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Karaoke equipment",
+    "harm": {
+      "id": "0021617",
+      "title": "540384 - Karaoke equipment",
+      "conceptLink": "/ec2/concept/5971234"
+    }
+  },
+  {
+    "uri": "en/9/540385",
+    "id": "540385",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Karaoke machines",
+    "harm": {
+      "id": "0021617",
+      "title": "540385 - Karaoke machines",
+      "conceptLink": "/ec2/concept/5971234"
+    }
+  },
+  {
+    "uri": "en/9/137860030",
+    "id": "137860030",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Karate head guards",
+    "harm": {
+      "id": "0072897",
+      "title": "137860030 - Karate head guards",
+      "conceptLink": "/ec2/concept/6009072"
+    }
+  },
+  {
+    "uri": "en/9/540408",
+    "id": "540408",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keyboard amplifiers",
+    "harm": {
+      "id": "0032988",
+      "title": "540408 - Keyboard amplifiers",
+      "conceptLink": "/ec2/concept/5981644"
+    }
+  },
+  {
+    "uri": "en/9/540435",
+    "id": "540435",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keyboard terminals",
+    "harm": {
+      "id": "0021618",
+      "title": "540435 - Keyboard terminals",
+      "conceptLink": "/ec2/concept/5971235"
+    }
+  },
+  {
+    "uri": "en/9/329522",
+    "id": "329522",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keyboards",
+    "harm": {
+      "id": "0032870",
+      "title": "329522 - Keyboards",
+      "conceptLink": "/ec2/concept/5981532"
+    }
+  },
+  {
+    "uri": "en/9/329548",
+    "id": "329548",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keyboards for mobile phones",
+    "harm": {
+      "id": "0027105",
+      "title": "329548 - Keyboards for mobile phones",
+      "conceptLink": "/ec2/concept/5976253"
+    }
+  },
+  {
+    "uri": "en/9/137493076",
+    "id": "137493076",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keyboards for tablets",
+    "harm": {
+      "id": "0060767",
+      "title": "137493076 - Keyboards for tablets",
+      "conceptLink": "/ec2/concept/6001087"
+    }
+  },
+  {
+    "uri": "en/9/329521",
+    "id": "329521",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keypads",
+    "harm": {
+      "id": "0032870",
+      "title": "329521 - Keypads",
+      "conceptLink": "/ec2/concept/5981532"
+    }
+  },
+  {
+    "uri": "en/9/120886388",
+    "id": "120886388",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keypads for security alarms",
+    "harm": {
+      "id": "0065770",
+      "title": "120886388 - Keypads for security alarms",
+      "conceptLink": "/ec2/concept/6001973"
+    }
+  },
+  {
+    "uri": "en/9/124772355",
+    "id": "124772355",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Keys (Encoded -)",
+    "harm": {
+      "id": "0027248",
+      "title": "124772355 - Keys (Encoded -)",
+      "conceptLink": "/ec2/concept/5976385"
+    }
+  },
+  {
+    "uri": "en/9/144386",
+    "id": "144386",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Kilometer recorders for vehicles",
+    "harm": {
+      "id": "0047496",
+      "title": "144386 - Kilometer recorders for vehicles",
+      "conceptLink": "/ec2/concept/5994798"
+    }
+  },
+  {
+    "uri": "en/9/540465",
+    "id": "540465",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Kilometre recorders",
+    "harm": {
+      "id": "0046773",
+      "title": "540465 - Kilometre recorders",
+      "conceptLink": "/ec2/concept/5994179"
+    }
+  },
+  {
+    "uri": "en/9/399081",
+    "id": "399081",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Kitchen scales",
+    "harm": {
+      "id": "0023421",
+      "title": "399081 - Kitchen scales",
+      "conceptLink": "/ec2/concept/5972894"
+    }
+  },
+  {
+    "uri": "en/9/399080",
+    "id": "399080",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Kitchen weighing scales",
+    "harm": {
+      "id": "0023421",
+      "title": "399080 - Kitchen weighing scales",
+      "conceptLink": "/ec2/concept/5972894"
+    }
+  },
+  {
+    "uri": "en/9/493299",
+    "id": "493299",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Kits (Hands free -) for phones",
+    "harm": {
+      "id": "0023280",
+      "title": "493299 - Kits (Hands free -) for phones",
+      "conceptLink": "/ec2/concept/5972757"
+    }
+  },
+  {
+    "uri": "en/9/158797",
+    "id": "158797",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Knee-pads for workers",
+    "harm": {
+      "id": "0034019",
+      "title": "158797 - Knee-pads for workers",
+      "conceptLink": "/ec2/concept/5982589"
+    }
+  },
+  {
+    "uri": "en/9/540495",
+    "id": "540495",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Label readers [decoders]",
+    "harm": {
+      "id": "0038797",
+      "title": "540495 - Label readers [decoders]",
+      "conceptLink": "/ec2/concept/5986932"
+    }
+  },
+  {
+    "uri": "en/9/136977028",
+    "id": "136977028",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Labels carrying electronically recorded or encoded information",
+    "harm": {
+      "id": "0060529",
+      "title": "136977028 - Labels carrying electronically recorded or encoded information",
+      "conceptLink": "/ec2/concept/5998502"
+    }
+  },
+  {
+    "uri": "en/9/136977029",
+    "id": "136977029",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Labels carrying magnetically recorded or encoded information",
+    "harm": {
+      "id": "0060530",
+      "title": "136977029 - Labels carrying magnetically recorded or encoded information",
+      "conceptLink": "/ec2/concept/5998503"
+    }
+  },
+  {
+    "uri": "en/9/136977030",
+    "id": "136977030",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Labels carrying optically recorded or encoded information",
+    "harm": {
+      "id": "0060531",
+      "title": "136977030 - Labels carrying optically recorded or encoded information",
+      "conceptLink": "/ec2/concept/5998504"
+    }
+  },
+  {
+    "uri": "en/9/137884819",
+    "id": "137884819",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Labels with integrated RFID chips",
+    "harm": {
+      "id": "0051632",
+      "title": "137884819 - Labels with integrated RFID chips",
+      "conceptLink": "/ec2/concept/6010618"
+    }
+  },
+  {
+    "uri": "en/9/137884753",
+    "id": "137884753",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Labels with machine-readable codes",
+    "harm": {
+      "id": "0051633",
+      "title": "137884753 - Labels with machine-readable codes",
+      "conceptLink": "/ec2/concept/6010619"
+    }
+  },
+  {
+    "uri": "en/9/493386",
+    "id": "493386",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Laboratories (Clothing especially made for -)",
+    "harm": {
+      "id": "0011669",
+      "title": "493386 - Laboratories (Clothing especially made for -)",
+      "conceptLink": "/ec2/concept/5962134"
+    }
+  },
+  {
+    "uri": "en/9/1548482",
+    "id": "1548482",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Laboratory apparatus and instruments",
+    "harm": {
+      "id": "0065956",
+      "title": "1548482 - Laboratory apparatus and instruments",
+      "conceptLink": "/ec2/concept/6002159"
+    }
+  },
+  {
+    "uri": "en/9/540509",
+    "id": "540509",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Laboratory beakers",
+    "harm": {
+      "id": "0015713",
+      "title": "540509 - Laboratory beakers",
+      "conceptLink": "/ec2/concept/5965845"
+    }
+  },
+  {
+    "uri": "en/9/529555",
+    "id": "529555",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Laboratory centrifuges",
+    "harm": {
+      "id": "0041167",
+      "title": "529555 - Laboratory centrifuges",
+      "conceptLink": "/ec2/concept/5989095"
+    }
+  },
+  {
+    "uri": "en/9/119529664",
+    "id": "119529664",
+    "lang": "en",
+    "classNumber": "9",
+    "term": "Laboratory countertops",
+    "harm": {
+      "id": "0066011",
+      "title": "119529664 - Laboratory countertops",
+      "conceptLink": "/ec2/concept/6002214"
+    }
+  }
+]

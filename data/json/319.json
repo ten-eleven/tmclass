@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/11/893980",
+    "id": "893980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerant condensers",
+    "harm": {
+      "id": "0016032",
+      "title": "893980 - Refrigerant condensers",
+      "conceptLink": "/ec2/concept/5966150"
+    }
+  },
+  {
+    "uri": "en/11/409002",
+    "id": "409002",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated beverage dispensing units",
+    "harm": {
+      "id": "0014963",
+      "title": "409002 - Refrigerated beverage dispensing units",
+      "conceptLink": "/ec2/concept/5965154"
+    }
+  },
+  {
+    "uri": "en/11/734520",
+    "id": "734520",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated beverage dispensers [other than vending] units",
+    "harm": {
+      "id": "0007306",
+      "title": "734520 - Refrigerated beverage dispensers [other than vending] units",
+      "conceptLink": "/ec2/concept/5958147"
+    }
+  },
+  {
+    "uri": "en/11/734531",
+    "id": "734531",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated beverage dispensing units [other than vending]",
+    "harm": {
+      "id": "0007306",
+      "title": "734531 - Refrigerated beverage dispensing units [other than vending]",
+      "conceptLink": "/ec2/concept/5958147"
+    }
+  },
+  {
+    "uri": "en/11/177788",
+    "id": "177788",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated boxes",
+    "harm": {
+      "id": "0073972",
+      "title": "177788 - Refrigerated boxes",
+      "conceptLink": "/ec2/concept/6011208"
+    }
+  },
+  {
+    "uri": "en/11/734574",
+    "id": "734574",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated cabinets for the storage of drink",
+    "harm": {
+      "id": "0007307",
+      "title": "734574 - Refrigerated cabinets for the storage of drink",
+      "conceptLink": "/ec2/concept/5958148"
+    }
+  },
+  {
+    "uri": "en/11/734587",
+    "id": "734587",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated cabinets for the storage of food",
+    "harm": {
+      "id": "0007308",
+      "title": "734587 - Refrigerated cabinets for the storage of food",
+      "conceptLink": "/ec2/concept/5958149"
+    }
+  },
+  {
+    "uri": "en/11/734560",
+    "id": "734560",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated cabinets for the display of food",
+    "harm": {
+      "id": "0033554",
+      "title": "734560 - Refrigerated cabinets for the display of food",
+      "conceptLink": "/ec2/concept/5982166"
+    }
+  },
+  {
+    "uri": "en/11/734547",
+    "id": "734547",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated cabinets for the display of drink",
+    "harm": {
+      "id": "0042006",
+      "title": "734547 - Refrigerated cabinets for the display of drink",
+      "conceptLink": "/ec2/concept/5989863"
+    }
+  },
+  {
+    "uri": "en/11/734598",
+    "id": "734598",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated compressed air dryers",
+    "harm": {
+      "id": "0036243",
+      "title": "734598 - Refrigerated compressed air dryers",
+      "conceptLink": "/ec2/concept/5984601"
+    }
+  },
+  {
+    "uri": "en/11/177378",
+    "id": "177378",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated containers [electric]",
+    "harm": {
+      "id": "0030451",
+      "title": "177378 - Refrigerated containers [electric]",
+      "conceptLink": "/ec2/concept/5979341"
+    }
+  },
+  {
+    "uri": "en/11/734616",
+    "id": "734616",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated containers [gas]",
+    "harm": {
+      "id": "0001543",
+      "title": "734616 - Refrigerated containers [gas]",
+      "conceptLink": "/ec2/concept/5952875"
+    }
+  },
+  {
+    "uri": "en/11/493608",
+    "id": "493608",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated counters",
+    "harm": {
+      "id": "0058369",
+      "title": "493608 - Refrigerated counters",
+      "conceptLink": "/ec2/concept/5999868"
+    }
+  },
+  {
+    "uri": "en/11/409003",
+    "id": "409003",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated dispensing units for beverages",
+    "harm": {
+      "id": "0014963",
+      "title": "409003 - Refrigerated dispensing units for beverages",
+      "conceptLink": "/ec2/concept/5965154"
+    }
+  },
+  {
+    "uri": "en/11/107826710",
+    "id": "107826710",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated display cabinets",
+    "harm": {
+      "id": "0058370",
+      "title": "107826710 - Refrigerated display cabinets",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/493609",
+    "id": "493609",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated display cases",
+    "harm": {
+      "id": "0058370",
+      "title": "493609 - Refrigerated display cases",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/119693781",
+    "id": "119693781",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated display counters",
+    "harm": {
+      "id": "0058370",
+      "title": "119693781 - Refrigerated display counters",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/493610",
+    "id": "493610",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated display units",
+    "harm": {
+      "id": "0058370",
+      "title": "493610 - Refrigerated display units",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/734638",
+    "id": "734638",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated food counters",
+    "harm": {
+      "id": "0045080",
+      "title": "734638 - Refrigerated food counters",
+      "conceptLink": "/ec2/concept/5992671"
+    }
+  },
+  {
+    "uri": "en/11/734651",
+    "id": "734651",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated food display apparatus",
+    "harm": {
+      "id": "0033554",
+      "title": "734651 - Refrigerated food display apparatus",
+      "conceptLink": "/ec2/concept/5982166"
+    }
+  },
+  {
+    "uri": "en/11/734662",
+    "id": "734662",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated food display installations",
+    "harm": {
+      "id": "0033554",
+      "title": "734662 - Refrigerated food display installations",
+      "conceptLink": "/ec2/concept/5982166"
+    }
+  },
+  {
+    "uri": "en/11/409020",
+    "id": "409020",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated merchandise display cases",
+    "harm": {
+      "id": "0009129",
+      "title": "409020 - Refrigerated merchandise display cases",
+      "conceptLink": "/ec2/concept/5959814"
+    }
+  },
+  {
+    "uri": "en/11/734675",
+    "id": "734675",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated shelves",
+    "harm": {
+      "id": "0016242",
+      "title": "734675 - Refrigerated shelves",
+      "conceptLink": "/ec2/concept/5966342"
+    }
+  },
+  {
+    "uri": "en/11/409037",
+    "id": "409037",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated shipping containers",
+    "harm": {
+      "id": "0009130",
+      "title": "409037 - Refrigerated shipping containers",
+      "conceptLink": "/ec2/concept/5959815"
+    }
+  },
+  {
+    "uri": "en/11/232207752",
+    "id": "232207752",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated showcases",
+    "harm": {
+      "id": "0071489",
+      "title": "232207752 - Refrigerated showcases",
+      "conceptLink": "/ec2/concept/6007680"
+    }
+  },
+  {
+    "uri": "en/11/336362",
+    "id": "336362",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerated units",
+    "harm": {
+      "id": "0058317",
+      "title": "336362 - Refrigerated units",
+      "conceptLink": "/ec2/concept/5999816"
+    }
+  },
+  {
+    "uri": "en/11/120918959",
+    "id": "120918959",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating and freezing equipment",
+    "harm": {
+      "id": "0047795",
+      "title": "120918959 - Refrigerating and freezing equipment",
+      "conceptLink": "/ec2/concept/5995070"
+    }
+  },
+  {
+    "uri": "en/11/336354",
+    "id": "336354",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating apparatus",
+    "harm": {
+      "id": "0058320",
+      "title": "336354 - Refrigerating apparatus",
+      "conceptLink": "/ec2/concept/5999819"
+    }
+  },
+  {
+    "uri": "en/11/177251",
+    "id": "177251",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating apparatus and machines",
+    "harm": {
+      "id": "0071956",
+      "title": "177251 - Refrigerating apparatus and machines",
+      "conceptLink": "/ec2/concept/6008140"
+    }
+  },
+  {
+    "uri": "en/11/336355",
+    "id": "336355",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating appliances",
+    "harm": {
+      "id": "0058316",
+      "title": "336355 - Refrigerating appliances",
+      "conceptLink": "/ec2/concept/5999815"
+    }
+  },
+  {
+    "uri": "en/11/177253",
+    "id": "177253",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating appliances and installations",
+    "harm": {
+      "id": "0071955",
+      "title": "177253 - Refrigerating appliances and installations",
+      "conceptLink": "/ec2/concept/6008139"
+    }
+  },
+  {
+    "uri": "en/11/723957",
+    "id": "723957",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating boxes [electric]",
+    "harm": {
+      "id": "0073972",
+      "title": "723957 - Refrigerating boxes [electric]",
+      "conceptLink": "/ec2/concept/6011208"
+    }
+  },
+  {
+    "uri": "en/11/734686",
+    "id": "734686",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating boxes [gas]",
+    "harm": {
+      "id": "0033555",
+      "title": "734686 - Refrigerating boxes [gas]",
+      "conceptLink": "/ec2/concept/5982167"
+    }
+  },
+  {
+    "uri": "en/11/171112",
+    "id": "171112",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating cabinets",
+    "harm": {
+      "id": "0046186",
+      "title": "171112 - Refrigerating cabinets",
+      "conceptLink": "/ec2/concept/5993682"
+    }
+  },
+  {
+    "uri": "en/11/177313",
+    "id": "177313",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating chambers",
+    "harm": {
+      "id": "0046184",
+      "title": "177313 - Refrigerating chambers",
+      "conceptLink": "/ec2/concept/5993680"
+    }
+  },
+  {
+    "uri": "en/11/177375",
+    "id": "177375",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating containers",
+    "harm": {
+      "id": "0030451",
+      "title": "177375 - Refrigerating containers",
+      "conceptLink": "/ec2/concept/5979341"
+    }
+  },
+  {
+    "uri": "en/11/734615",
+    "id": "734615",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating containers [gas]",
+    "harm": {
+      "id": "0001543",
+      "title": "734615 - Refrigerating containers [gas]",
+      "conceptLink": "/ec2/concept/5952875"
+    }
+  },
+  {
+    "uri": "en/11/734701",
+    "id": "734701",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating containers [electric]",
+    "harm": {
+      "id": "0030451",
+      "title": "734701 - Refrigerating containers [electric]",
+      "conceptLink": "/ec2/concept/5979341"
+    }
+  },
+  {
+    "uri": "en/11/493607",
+    "id": "493607",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating counters",
+    "harm": {
+      "id": "0058369",
+      "title": "493607 - Refrigerating counters",
+      "conceptLink": "/ec2/concept/5999868"
+    }
+  },
+  {
+    "uri": "en/11/493603",
+    "id": "493603",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating display cabinets [display cases]",
+    "harm": {
+      "id": "0058370",
+      "title": "493603 - Refrigerating display cabinets [display cases]",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/97920678",
+    "id": "97920678",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating display cabinets",
+    "harm": {
+      "id": "0058370",
+      "title": "97920678 - Refrigerating display cabinets",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/119693783",
+    "id": "119693783",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating display cases",
+    "harm": {
+      "id": "0058370",
+      "title": "119693783 - Refrigerating display cases",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/171117",
+    "id": "171117",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating enclosures for freezing",
+    "harm": {
+      "id": "0008366",
+      "title": "171117 - Refrigerating enclosures for freezing",
+      "conceptLink": "/ec2/concept/5959110"
+    }
+  },
+  {
+    "uri": "en/11/336356",
+    "id": "336356",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating installations",
+    "harm": {
+      "id": "0058319",
+      "title": "336356 - Refrigerating installations",
+      "conceptLink": "/ec2/concept/5999818"
+    }
+  },
+  {
+    "uri": "en/11/336353",
+    "id": "336353",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating machines",
+    "harm": {
+      "id": "0058317",
+      "title": "336353 - Refrigerating machines",
+      "conceptLink": "/ec2/concept/5999816"
+    }
+  },
+  {
+    "uri": "en/11/171118",
+    "id": "171118",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating rooms",
+    "harm": {
+      "id": "0046184",
+      "title": "171118 - Refrigerating rooms",
+      "conceptLink": "/ec2/concept/5993680"
+    }
+  },
+  {
+    "uri": "en/11/493611",
+    "id": "493611",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerating show cases",
+    "harm": {
+      "id": "0058370",
+      "title": "493611 - Refrigerating show cases",
+      "conceptLink": "/ec2/concept/5999869"
+    }
+  },
+  {
+    "uri": "en/11/734717",
+    "id": "734717",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigeration in the form of benches",
+    "harm": {
+      "id": "0029356",
+      "title": "734717 - Refrigeration in the form of benches",
+      "conceptLink": "/ec2/concept/5978331"
+    }
+  },
+  {
+    "uri": "en/11/336361",
+    "id": "336361",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigeration units",
+    "harm": {
+      "id": "0058317",
+      "title": "336361 - Refrigeration units",
+      "conceptLink": "/ec2/concept/5999816"
+    }
+  },
+  {
+    "uri": "en/11/171113",
+    "id": "171113",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerators",
+    "harm": {
+      "id": "0058316",
+      "title": "171113 - Refrigerators",
+      "conceptLink": "/ec2/concept/5999815"
+    }
+  },
+  {
+    "uri": "en/11/68603175",
+    "id": "68603175",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Refrigerators for household purposes",
+    "harm": {
+      "id": "0009694",
+      "title": "68603175 - Refrigerators for household purposes",
+      "conceptLink": "/ec2/concept/5960334"
+    }
+  },
+  {
+    "uri": "en/11/173559",
+    "id": "173559",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regenerators (Heat -)",
+    "harm": {
+      "id": "0006832",
+      "title": "173559 - Regenerators (Heat -)",
+      "conceptLink": "/ec2/concept/5957706"
+    }
+  },
+  {
+    "uri": "en/11/124961533",
+    "id": "124961533",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Registration plates (Illumination lights for -)",
+    "harm": {
+      "id": "0017814",
+      "title": "124961533 - Registration plates (Illumination lights for -)",
+      "conceptLink": "/ec2/concept/5967762"
+    }
+  },
+  {
+    "uri": "en/11/119533265",
+    "id": "119533265",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating accessories for gas pipes and lines",
+    "harm": {
+      "id": "0055976",
+      "title": "119533265 - Regulating accessories for gas pipes and lines",
+      "conceptLink": "/ec2/concept/5997342"
+    }
+  },
+  {
+    "uri": "en/11/179276",
+    "id": "179276",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating accessories for water or gas apparatus and pipes",
+    "harm": {
+      "id": "0032904",
+      "title": "179276 - Regulating accessories for water or gas apparatus and pipes",
+      "conceptLink": "/ec2/concept/5981565"
+    }
+  },
+  {
+    "uri": "en/11/120918960",
+    "id": "120918960",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating and safety accessories for water and gas installations",
+    "harm": {
+      "id": "0047796",
+      "title": "120918960 - Regulating and safety accessories for water and gas installations",
+      "conceptLink": "/ec2/concept/5995071"
+    }
+  },
+  {
+    "uri": "en/11/180201",
+    "id": "180201",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating and safety accessories for water apparatus",
+    "harm": {
+      "id": "0011701",
+      "title": "180201 - Regulating and safety accessories for water apparatus",
+      "conceptLink": "/ec2/concept/5962165"
+    }
+  },
+  {
+    "uri": "en/11/180171",
+    "id": "180171",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating and safety accessories for gas pipes",
+    "harm": {
+      "id": "0011700",
+      "title": "180171 - Regulating and safety accessories for gas pipes",
+      "conceptLink": "/ec2/concept/5962164"
+    }
+  },
+  {
+    "uri": "en/11/180769",
+    "id": "180769",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating and safety accessories for gas apparatus",
+    "harm": {
+      "id": "0001413",
+      "title": "180769 - Regulating and safety accessories for gas apparatus",
+      "conceptLink": "/ec2/concept/5952760"
+    }
+  },
+  {
+    "uri": "en/11/734759",
+    "id": "734759",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus being parts for water pipes",
+    "harm": {
+      "id": "0017815",
+      "title": "734759 - Regulating apparatus being parts for water pipes",
+      "conceptLink": "/ec2/concept/5967763"
+    }
+  },
+  {
+    "uri": "en/11/734746",
+    "id": "734746",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus being parts for water apparatus",
+    "harm": {
+      "id": "0029357",
+      "title": "734746 - Regulating apparatus being parts for water apparatus",
+      "conceptLink": "/ec2/concept/5978332"
+    }
+  },
+  {
+    "uri": "en/11/734785",
+    "id": "734785",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus being parts of oil burners",
+    "harm": {
+      "id": "0000458",
+      "title": "734785 - Regulating apparatus being parts of oil burners",
+      "conceptLink": "/ec2/concept/5951897"
+    }
+  },
+  {
+    "uri": "en/11/734771",
+    "id": "734771",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus being parts of gas burners",
+    "harm": {
+      "id": "0040944",
+      "title": "734771 - Regulating apparatus being parts of gas burners",
+      "conceptLink": "/ec2/concept/5988891"
+    }
+  },
+  {
+    "uri": "en/11/734808",
+    "id": "734808",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for gas installations",
+    "harm": {
+      "id": "0023639",
+      "title": "734808 - Regulating apparatus for gas installations",
+      "conceptLink": "/ec2/concept/5973090"
+    }
+  },
+  {
+    "uri": "en/11/734881",
+    "id": "734881",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for water supply apparatus",
+    "harm": {
+      "id": "0029358",
+      "title": "734881 - Regulating apparatus for water supply apparatus",
+      "conceptLink": "/ec2/concept/5978333"
+    }
+  },
+  {
+    "uri": "en/11/734852",
+    "id": "734852",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for water installations",
+    "harm": {
+      "id": "0029358",
+      "title": "734852 - Regulating apparatus for water installations",
+      "conceptLink": "/ec2/concept/5978333"
+    }
+  },
+  {
+    "uri": "en/11/734851",
+    "id": "734851",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for water apparatus",
+    "harm": {
+      "id": "0029358",
+      "title": "734851 - Regulating apparatus for water apparatus",
+      "conceptLink": "/ec2/concept/5978333"
+    }
+  },
+  {
+    "uri": "en/11/734821",
+    "id": "734821",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for gas pipe installations",
+    "harm": {
+      "id": "0006244",
+      "title": "734821 - Regulating apparatus for gas pipe installations",
+      "conceptLink": "/ec2/concept/5957174"
+    }
+  },
+  {
+    "uri": "en/11/734797",
+    "id": "734797",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for gas apparatus",
+    "harm": {
+      "id": "0006243",
+      "title": "734797 - Regulating apparatus for gas apparatus",
+      "conceptLink": "/ec2/concept/5957173"
+    }
+  },
+  {
+    "uri": "en/11/734834",
+    "id": "734834",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating apparatus for gas pipes",
+    "harm": {
+      "id": "0040945",
+      "title": "734834 - Regulating apparatus for gas pipes",
+      "conceptLink": "/ec2/concept/5988892"
+    }
+  },
+  {
+    "uri": "en/11/734897",
+    "id": "734897",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating fittings for water pipes",
+    "harm": {
+      "id": "0014806",
+      "title": "734897 - Regulating fittings for water pipes",
+      "conceptLink": "/ec2/concept/5965012"
+    }
+  },
+  {
+    "uri": "en/11/734853",
+    "id": "734853",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating instruments for water supply apparatus",
+    "harm": {
+      "id": "0029358",
+      "title": "734853 - Regulating instruments for water supply apparatus",
+      "conceptLink": "/ec2/concept/5978333"
+    }
+  },
+  {
+    "uri": "en/11/178819",
+    "id": "178819",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulating valves [level controlling in tanks]",
+    "harm": {
+      "id": "0018099",
+      "title": "178819 - Regulating valves [level controlling in tanks]",
+      "conceptLink": "/ec2/concept/5968022"
+    }
+  },
+  {
+    "uri": "en/11/178820",
+    "id": "178820",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulators [valves] for level controlling in tanks",
+    "harm": {
+      "id": "0018099",
+      "title": "178820 - Regulators [valves] for level controlling in tanks",
+      "conceptLink": "/ec2/concept/5968022"
+    }
+  },
+  {
+    "uri": "en/11/734898",
+    "id": "734898",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Regulatory fittings for water pipes",
+    "harm": {
+      "id": "0014806",
+      "title": "734898 - Regulatory fittings for water pipes",
+      "conceptLink": "/ec2/concept/5965012"
+    }
+  },
+  {
+    "uri": "en/11/170397",
+    "id": "170397",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reheaters (Air -)",
+    "harm": {
+      "id": "0012567",
+      "title": "170397 - Reheaters (Air -)",
+      "conceptLink": "/ec2/concept/5962963"
+    }
+  },
+  {
+    "uri": "en/11/734917",
+    "id": "734917",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reheating furnaces",
+    "harm": {
+      "id": "0014807",
+      "title": "734917 - Reheating furnaces",
+      "conceptLink": "/ec2/concept/5965013"
+    }
+  },
+  {
+    "uri": "en/11/734930",
+    "id": "734930",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reheating gas furnaces",
+    "harm": {
+      "id": "0014808",
+      "title": "734930 - Reheating gas furnaces",
+      "conceptLink": "/ec2/concept/5965014"
+    }
+  },
+  {
+    "uri": "en/11/734943",
+    "id": "734943",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Residential air conditioning units",
+    "harm": {
+      "id": "0014809",
+      "title": "734943 - Residential air conditioning units",
+      "conceptLink": "/ec2/concept/5965015"
+    }
+  },
+  {
+    "uri": "en/11/734955",
+    "id": "734955",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Residential heating units",
+    "harm": {
+      "id": "0003198",
+      "title": "734955 - Residential heating units",
+      "conceptLink": "/ec2/concept/5954378"
+    }
+  },
+  {
+    "uri": "en/11/734968",
+    "id": "734968",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Residential ventilating units",
+    "harm": {
+      "id": "0032082",
+      "title": "734968 - Residential ventilating units",
+      "conceptLink": "/ec2/concept/5980819"
+    }
+  },
+  {
+    "uri": "en/11/734980",
+    "id": "734980",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Retarding cabinets for dough",
+    "harm": {
+      "id": "0008952",
+      "title": "734980 - Retarding cabinets for dough",
+      "conceptLink": "/ec2/concept/5959647"
+    }
+  },
+  {
+    "uri": "en/11/735020",
+    "id": "735020",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reverse osmosis elements for reducing the brackishness of water",
+    "harm": {
+      "id": "0021563",
+      "title": "735020 - Reverse osmosis elements for reducing the brackishness of water",
+      "conceptLink": "/ec2/concept/5971184"
+    }
+  },
+  {
+    "uri": "en/11/735032",
+    "id": "735032",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reverse osmosis elements for reducing the salt content of water",
+    "harm": {
+      "id": "0038722",
+      "title": "735032 - Reverse osmosis elements for reducing the salt content of water",
+      "conceptLink": "/ec2/concept/5986863"
+    }
+  },
+  {
+    "uri": "en/11/734995",
+    "id": "734995",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reverse osmosis elements for domestic use in reducing the salt content of water",
+    "harm": {
+      "id": "0032083",
+      "title": "734995 - Reverse osmosis elements for domestic use in reducing the salt content of water",
+      "conceptLink": "/ec2/concept/5980820"
+    }
+  },
+  {
+    "uri": "en/11/735008",
+    "id": "735008",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reverse osmosis elements for industrial use in reducing the salt content of water",
+    "harm": {
+      "id": "0043627",
+      "title": "735008 - Reverse osmosis elements for industrial use in reducing the salt content of water",
+      "conceptLink": "/ec2/concept/5991339"
+    }
+  },
+  {
+    "uri": "en/11/410058",
+    "id": "410058",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Reverse osmosis filtration units [water treatment equipment]",
+    "harm": {
+      "id": "0001005",
+      "title": "410058 - Reverse osmosis filtration units [water treatment equipment]",
+      "conceptLink": "/ec2/concept/5952390"
+    }
+  },
+  {
+    "uri": "en/11/490716",
+    "id": "490716",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Rice cookers",
+    "harm": {
+      "id": "0028809",
+      "title": "490716 - Rice cookers",
+      "conceptLink": "/ec2/concept/5977838"
+    }
+  },
+  {
+    "uri": "en/11/232944837",
+    "id": "232944837",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Rice refrigerators",
+    "harm": {
+      "id": "0073350",
+      "title": "232944837 - Rice refrigerators",
+      "conceptLink": "/ec2/concept/6009523"
+    }
+  },
+  {
+    "uri": "en/11/735045",
+    "id": "735045",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Ring burners",
+    "harm": {
+      "id": "0038723",
+      "title": "735045 - Ring burners",
+      "conceptLink": "/ec2/concept/5986864"
+    }
+  },
+  {
+    "uri": "en/11/409052",
+    "id": "409052",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roadlights",
+    "harm": {
+      "id": "0027185",
+      "title": "409052 - Roadlights",
+      "conceptLink": "/ec2/concept/5976327"
+    }
+  },
+  {
+    "uri": "en/11/176762",
+    "id": "176762",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasters",
+    "harm": {
+      "id": "0046298",
+      "title": "176762 - Roasters",
+      "conceptLink": "/ec2/concept/5993758"
+    }
+  },
+  {
+    "uri": "en/11/173113",
+    "id": "173113",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasters (Coffee -)",
+    "harm": {
+      "id": "0029805",
+      "title": "173113 - Roasters (Coffee -)",
+      "conceptLink": "/ec2/concept/5978749"
+    }
+  },
+  {
+    "uri": "en/11/177931",
+    "id": "177931",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting apparatus",
+    "harm": {
+      "id": "0047573",
+      "title": "177931 - Roasting apparatus",
+      "conceptLink": "/ec2/concept/5994861"
+    }
+  },
+  {
+    "uri": "en/11/177935",
+    "id": "177935",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting devices",
+    "harm": {
+      "id": "0047573",
+      "title": "177935 - Roasting devices",
+      "conceptLink": "/ec2/concept/5994861"
+    }
+  },
+  {
+    "uri": "en/11/172938",
+    "id": "172938",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting jacks",
+    "harm": {
+      "id": "0024052",
+      "title": "172938 - Roasting jacks",
+      "conceptLink": "/ec2/concept/5973475"
+    }
+  },
+  {
+    "uri": "en/11/172976",
+    "id": "172976",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting spits",
+    "harm": {
+      "id": "0045808",
+      "title": "172976 - Roasting spits",
+      "conceptLink": "/ec2/concept/5993340"
+    }
+  },
+  {
+    "uri": "en/11/735073",
+    "id": "735073",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting spits [electric] for use with electricity",
+    "harm": {
+      "id": "0015658",
+      "title": "735073 - Roasting spits [electric] for use with electricity",
+      "conceptLink": "/ec2/concept/5965794"
+    }
+  },
+  {
+    "uri": "en/11/735087",
+    "id": "735087",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting spits [electric] for use with gas",
+    "harm": {
+      "id": "0038724",
+      "title": "735087 - Roasting spits [electric] for use with gas",
+      "conceptLink": "/ec2/concept/5986865"
+    }
+  },
+  {
+    "uri": "en/11/735057",
+    "id": "735057",
+    "lang": "en",
+    "classNumber": "11",
+    "term": "Roasting spits [electric] for use with barbecues",
+    "harm": {
+      "id": "0044498",
+      "title": "735057 - Roasting spits [electric] for use with barbecues",
+      "conceptLink": "/ec2/concept/5992139"
+    }
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/5/120911972",
+    "id": "120911972",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutraceuticals for therapeutic purposes",
+    "harm": {
+      "id": "0065410",
+      "title": "120911972 - Nutraceuticals for therapeutic purposes",
+      "conceptLink": "/ec2/concept/6001613"
+    }
+  },
+  {
+    "uri": "en/5/383882",
+    "id": "383882",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutraceuticals for use as a dietary supplement",
+    "harm": {
+      "id": "0039317",
+      "title": "383882 - Nutraceuticals for use as a dietary supplement",
+      "conceptLink": "/ec2/concept/5987402"
+    }
+  },
+  {
+    "uri": "en/5/16905659",
+    "id": "16905659",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional additives to foodstuffs for animals, for medical purposes",
+    "harm": {
+      "id": "0055536",
+      "title": "16905659 - Nutritional additives to foodstuffs for animals, for medical purposes",
+      "conceptLink": "/ec2/concept/5996934"
+    }
+  },
+  {
+    "uri": "en/5/132748971",
+    "id": "132748971",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplement meal replacement bars for boosting energy",
+    "harm": {
+      "id": "0050873",
+      "title": "132748971 - Nutritional supplement meal replacement bars for boosting energy",
+      "conceptLink": "/ec2/concept/5996237"
+    }
+  },
+  {
+    "uri": "en/5/92927",
+    "id": "92927",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements",
+    "harm": {
+      "id": "0041433",
+      "title": "92927 - Nutritional supplements",
+      "conceptLink": "/ec2/concept/5989337"
+    }
+  },
+  {
+    "uri": "en/5/137853842",
+    "id": "137853842",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements consisting primarily of magnesium",
+    "harm": {
+      "id": "0070675",
+      "title": "137853842 - Nutritional supplements consisting primarily of magnesium",
+      "conceptLink": "/ec2/concept/6006867"
+    }
+  },
+  {
+    "uri": "en/5/137853843",
+    "id": "137853843",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements consisting primarily of zinc",
+    "harm": {
+      "id": "0070676",
+      "title": "137853843 - Nutritional supplements consisting primarily of zinc",
+      "conceptLink": "/ec2/concept/6006868"
+    }
+  },
+  {
+    "uri": "en/5/137872932",
+    "id": "137872932",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements consisting of fungal extracts",
+    "harm": {
+      "id": "0070672",
+      "title": "137872932 - Nutritional supplements consisting of fungal extracts",
+      "conceptLink": "/ec2/concept/6006864"
+    }
+  },
+  {
+    "uri": "en/5/137853967",
+    "id": "137853967",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements consisting primarily of calcium",
+    "harm": {
+      "id": "0070673",
+      "title": "137853967 - Nutritional supplements consisting primarily of calcium",
+      "conceptLink": "/ec2/concept/6006865"
+    }
+  },
+  {
+    "uri": "en/5/137853961",
+    "id": "137853961",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements consisting primarily of iron",
+    "harm": {
+      "id": "0070674",
+      "title": "137853961 - Nutritional supplements consisting primarily of iron",
+      "conceptLink": "/ec2/concept/6006866"
+    }
+  },
+  {
+    "uri": "en/5/120898472",
+    "id": "120898472",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements for livestock feed",
+    "harm": {
+      "id": "0065231",
+      "title": "120898472 - Nutritional supplements for livestock feed",
+      "conceptLink": "/ec2/concept/6001434"
+    }
+  },
+  {
+    "uri": "en/5/103452304",
+    "id": "103452304",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements for veterinary use",
+    "harm": {
+      "id": "0065252",
+      "title": "103452304 - Nutritional supplements for veterinary use",
+      "conceptLink": "/ec2/concept/6001455"
+    }
+  },
+  {
+    "uri": "en/5/120868966",
+    "id": "120868966",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritional supplements made of starch adapted for medical use",
+    "harm": {
+      "id": "0065288",
+      "title": "120868966 - Nutritional supplements made of starch adapted for medical use",
+      "conceptLink": "/ec2/concept/6001491"
+    }
+  },
+  {
+    "uri": "en/5/88600",
+    "id": "88600",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Nutritive substances for microorganisms",
+    "harm": {
+      "id": "0031379",
+      "title": "88600 - Nutritive substances for microorganisms",
+      "conceptLink": "/ec2/concept/5980190"
+    }
+  },
+  {
+    "uri": "en/5/77534696",
+    "id": "77534696",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ocular pharmaceuticals",
+    "harm": {
+      "id": "0070859",
+      "title": "77534696 - Ocular pharmaceuticals",
+      "conceptLink": "/ec2/concept/6007051"
+    }
+  },
+  {
+    "uri": "en/5/120912951",
+    "id": "120912951",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Odor neutralizing preparations for clothing and textiles",
+    "harm": {
+      "id": "0065409",
+      "title": "120912951 - Odor neutralizing preparations for clothing and textiles",
+      "conceptLink": "/ec2/concept/6001612"
+    }
+  },
+  {
+    "uri": "en/5/668045",
+    "id": "668045",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Odour absorbing materials",
+    "harm": {
+      "id": "0039696",
+      "title": "668045 - Odour absorbing materials",
+      "conceptLink": "/ec2/concept/5987749"
+    }
+  },
+  {
+    "uri": "en/5/86814",
+    "id": "86814",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oil (Cod liver -)",
+    "harm": {
+      "id": "0044456",
+      "title": "86814 - Oil (Cod liver -)",
+      "conceptLink": "/ec2/concept/5992100"
+    }
+  },
+  {
+    "uri": "en/5/90597",
+    "id": "90597",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oil of turpentine for pharmaceutical purposes",
+    "harm": {
+      "id": "0032310",
+      "title": "90597 - Oil of turpentine for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5981024"
+    }
+  },
+  {
+    "uri": "en/5/17699525",
+    "id": "17699525",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oiled paper for medical purposes",
+    "harm": {
+      "id": "0060444",
+      "title": "17699525 - Oiled paper for medical purposes",
+      "conceptLink": "/ec2/concept/5998417"
+    }
+  },
+  {
+    "uri": "en/5/87338",
+    "id": "87338",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oils (Medicinal -)",
+    "harm": {
+      "id": "0043031",
+      "title": "87338 - Oils (Medicinal -)",
+      "conceptLink": "/ec2/concept/5990790"
+    }
+  },
+  {
+    "uri": "en/5/88991",
+    "id": "88991",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ointments for pharmaceutical purposes",
+    "harm": {
+      "id": "0029431",
+      "title": "88991 - Ointments for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5978398"
+    }
+  },
+  {
+    "uri": "en/5/120868344",
+    "id": "120868344",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ointments for treating nappy rash",
+    "harm": {
+      "id": "0065290",
+      "title": "120868344 - Ointments for treating nappy rash",
+      "conceptLink": "/ec2/concept/6001493"
+    }
+  },
+  {
+    "uri": "en/5/668061",
+    "id": "668061",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ophthalmic muscle relaxants",
+    "harm": {
+      "id": "0028165",
+      "title": "668061 - Ophthalmic muscle relaxants",
+      "conceptLink": "/ec2/concept/5977234"
+    }
+  },
+  {
+    "uri": "en/5/318390",
+    "id": "318390",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ophthalmic preparations",
+    "harm": {
+      "id": "0026572",
+      "title": "318390 - Ophthalmic preparations",
+      "conceptLink": "/ec2/concept/5975783"
+    }
+  },
+  {
+    "uri": "en/5/318391",
+    "id": "318391",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ophthalmologic preparations",
+    "harm": {
+      "id": "0026572",
+      "title": "318391 - Ophthalmologic preparations",
+      "conceptLink": "/ec2/concept/5975783"
+    }
+  },
+  {
+    "uri": "en/5/70365974",
+    "id": "70365974",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ophthalmological preparations",
+    "harm": {
+      "id": "0026572",
+      "title": "70365974 - Ophthalmological preparations",
+      "conceptLink": "/ec2/concept/5975783"
+    }
+  },
+  {
+    "uri": "en/5/89012",
+    "id": "89012",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opiates",
+    "harm": {
+      "id": "0017898",
+      "title": "89012 - Opiates",
+      "conceptLink": "/ec2/concept/5967839"
+    }
+  },
+  {
+    "uri": "en/5/233996543",
+    "id": "233996543",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opiod analgesics",
+    "harm": {
+      "id": "0074042",
+      "title": "233996543 - Opiod analgesics",
+      "conceptLink": "/ec2/concept/6011278"
+    }
+  },
+  {
+    "uri": "en/5/89033",
+    "id": "89033",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opium",
+    "harm": {
+      "id": "0029432",
+      "title": "89033 - Opium",
+      "conceptLink": "/ec2/concept/5978399"
+    }
+  },
+  {
+    "uri": "en/5/119524205",
+    "id": "119524205",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opium alkaloid preparations",
+    "harm": {
+      "id": "0055537",
+      "title": "119524205 - Opium alkaloid preparations",
+      "conceptLink": "/ec2/concept/5996935"
+    }
+  },
+  {
+    "uri": "en/5/89054",
+    "id": "89054",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opodeldoc",
+    "harm": {
+      "id": "0035212",
+      "title": "89054 - Opodeldoc",
+      "conceptLink": "/ec2/concept/5983667"
+    }
+  },
+  {
+    "uri": "en/5/89078",
+    "id": "89078",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Opotherapy preparations",
+    "harm": {
+      "id": "0035213",
+      "title": "89078 - Opotherapy preparations",
+      "conceptLink": "/ec2/concept/5983668"
+    }
+  },
+  {
+    "uri": "en/5/20181718",
+    "id": "20181718",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oral analgesics",
+    "harm": {
+      "id": "0065432",
+      "title": "20181718 - Oral analgesics",
+      "conceptLink": "/ec2/concept/6001635"
+    }
+  },
+  {
+    "uri": "en/5/233403099",
+    "id": "233403099",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oral anti-epileptic pharmaceutical preparations",
+    "harm": {
+      "id": "0073499",
+      "title": "233403099 - Oral anti-epileptic pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6009672"
+    }
+  },
+  {
+    "uri": "en/5/383899",
+    "id": "383899",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oral contraceptives",
+    "harm": {
+      "id": "0010394",
+      "title": "383899 - Oral contraceptives",
+      "conceptLink": "/ec2/concept/5960966"
+    }
+  },
+  {
+    "uri": "en/5/136007615",
+    "id": "136007615",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oral rehydration salts",
+    "harm": {
+      "id": "0073466",
+      "title": "136007615 - Oral rehydration salts",
+      "conceptLink": "/ec2/concept/6009639"
+    }
+  },
+  {
+    "uri": "en/5/119524209",
+    "id": "119524209",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oral vaccine preparations",
+    "harm": {
+      "id": "0055538",
+      "title": "119524209 - Oral vaccine preparations",
+      "conceptLink": "/ec2/concept/5996936"
+    }
+  },
+  {
+    "uri": "en/5/137921965",
+    "id": "137921965",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Organotherapeutic drugs",
+    "harm": {
+      "id": "0060413",
+      "title": "137921965 - Organotherapeutic drugs",
+      "conceptLink": "/ec2/concept/5998386"
+    }
+  },
+  {
+    "uri": "en/5/137922021",
+    "id": "137922021",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Organotherapeutic preparations",
+    "harm": {
+      "id": "0060413",
+      "title": "137922021 - Organotherapeutic preparations",
+      "conceptLink": "/ec2/concept/5998386"
+    }
+  },
+  {
+    "uri": "en/5/119625406",
+    "id": "119625406",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Organotherapeutics",
+    "harm": {
+      "id": "0060413",
+      "title": "119625406 - Organotherapeutics",
+      "conceptLink": "/ec2/concept/5998386"
+    }
+  },
+  {
+    "uri": "en/5/89079",
+    "id": "89079",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Organotherapy preparations",
+    "harm": {
+      "id": "0035213",
+      "title": "89079 - Organotherapy preparations",
+      "conceptLink": "/ec2/concept/5983668"
+    }
+  },
+  {
+    "uri": "en/5/318419",
+    "id": "318419",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Orgasm creams",
+    "harm": {
+      "id": "0003480",
+      "title": "318419 - Orgasm creams",
+      "conceptLink": "/ec2/concept/5954635"
+    }
+  },
+  {
+    "uri": "en/5/28497585",
+    "id": "28497585",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Orthodontic alginate for dental impressions",
+    "harm": {
+      "id": "0055539",
+      "title": "28497585 - Orthodontic alginate for dental impressions",
+      "conceptLink": "/ec2/concept/5996937"
+    }
+  },
+  {
+    "uri": "en/5/120911666",
+    "id": "120911666",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Orthodontic alginate impression materials",
+    "harm": {
+      "id": "0065482",
+      "title": "120911666 - Orthodontic alginate impression materials",
+      "conceptLink": "/ec2/concept/6001685"
+    }
+  },
+  {
+    "uri": "en/5/75429589",
+    "id": "75429589",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ovicides",
+    "harm": {
+      "id": "0055540",
+      "title": "75429589 - Ovicides",
+      "conceptLink": "/ec2/concept/5996938"
+    }
+  },
+  {
+    "uri": "en/5/383919",
+    "id": "383919",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ovulation test kits",
+    "harm": {
+      "id": "0027762",
+      "title": "383919 - Ovulation test kits",
+      "conceptLink": "/ec2/concept/5976867"
+    }
+  },
+  {
+    "uri": "en/5/83530",
+    "id": "83530",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oxygen baths",
+    "harm": {
+      "id": "0025745",
+      "title": "83530 - Oxygen baths",
+      "conceptLink": "/ec2/concept/5975027"
+    }
+  },
+  {
+    "uri": "en/5/492931",
+    "id": "492931",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oxygen for medical purposes",
+    "harm": {
+      "id": "0009040",
+      "title": "492931 - Oxygen for medical purposes",
+      "conceptLink": "/ec2/concept/5959729"
+    }
+  },
+  {
+    "uri": "en/5/119524218",
+    "id": "119524218",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Oxytocics",
+    "harm": {
+      "id": "0055541",
+      "title": "119524218 - Oxytocics",
+      "conceptLink": "/ec2/concept/5996939"
+    }
+  },
+  {
+    "uri": "en/5/668074",
+    "id": "668074",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Ozone for medical use",
+    "harm": {
+      "id": "0010825",
+      "title": "668074 - Ozone for medical use",
+      "conceptLink": "/ec2/concept/5961368"
+    }
+  },
+  {
+    "uri": "en/5/92717",
+    "id": "92717",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pads (Breast-nursing -)",
+    "harm": {
+      "id": "0024536",
+      "title": "92717 - Pads (Breast-nursing -)",
+      "conceptLink": "/ec2/concept/5973915"
+    }
+  },
+  {
+    "uri": "en/5/83403",
+    "id": "83403",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pads (Bunion -)",
+    "harm": {
+      "id": "0057508",
+      "title": "83403 - Pads (Bunion -)",
+      "conceptLink": "/ec2/concept/5999014"
+    }
+  },
+  {
+    "uri": "en/5/668086",
+    "id": "668086",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pads for feminine protection",
+    "harm": {
+      "id": "0059213",
+      "title": "668086 - Pads for feminine protection",
+      "conceptLink": "/ec2/concept/6000702"
+    }
+  },
+  {
+    "uri": "en/5/667163",
+    "id": "667163",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pads impregnated with medicated preparation",
+    "harm": {
+      "id": "0015405",
+      "title": "667163 - Pads impregnated with medicated preparation",
+      "conceptLink": "/ec2/concept/5965560"
+    }
+  },
+  {
+    "uri": "en/5/383937",
+    "id": "383937",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pain relief medication",
+    "harm": {
+      "id": "0002862",
+      "title": "383937 - Pain relief medication",
+      "conceptLink": "/ec2/concept/5954062"
+    }
+  },
+  {
+    "uri": "en/5/120913050",
+    "id": "120913050",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pain relief medication for veterinary purposes",
+    "harm": {
+      "id": "0065389",
+      "title": "120913050 - Pain relief medication for veterinary purposes",
+      "conceptLink": "/ec2/concept/6001592"
+    }
+  },
+  {
+    "uri": "en/5/120825748",
+    "id": "120825748",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pain relief preparations",
+    "harm": {
+      "id": "0065358",
+      "title": "120825748 - Pain relief preparations",
+      "conceptLink": "/ec2/concept/6001561"
+    }
+  },
+  {
+    "uri": "en/5/668099",
+    "id": "668099",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pain relieving creams",
+    "harm": {
+      "id": "0010132",
+      "title": "668099 - Pain relieving creams",
+      "conceptLink": "/ec2/concept/5960728"
+    }
+  },
+  {
+    "uri": "en/5/119524220",
+    "id": "119524220",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pancreas hormone preparations",
+    "harm": {
+      "id": "0055542",
+      "title": "119524220 - Pancreas hormone preparations",
+      "conceptLink": "/ec2/concept/5996940"
+    }
+  },
+  {
+    "uri": "en/5/120911650",
+    "id": "120911650",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pancreatic hormone preparations",
+    "harm": {
+      "id": "0055542",
+      "title": "120911650 - Pancreatic hormone preparations",
+      "conceptLink": "/ec2/concept/5996940"
+    }
+  },
+  {
+    "uri": "en/5/668111",
+    "id": "668111",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pant liners for incontinents",
+    "harm": {
+      "id": "0033254",
+      "title": "668111 - Pant liners for incontinents",
+      "conceptLink": "/ec2/concept/5981886"
+    }
+  },
+  {
+    "uri": "en/5/88238",
+    "id": "88238",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Panties (Sanitary -)",
+    "harm": {
+      "id": "0058490",
+      "title": "88238 - Panties (Sanitary -)",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/92564",
+    "id": "92564",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pants, absorbent, for incontinents",
+    "harm": {
+      "id": "0031261",
+      "title": "92564 - Pants, absorbent, for incontinents",
+      "conceptLink": "/ec2/concept/5980085"
+    }
+  },
+  {
+    "uri": "en/5/88237",
+    "id": "88237",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pants (Sanitary -)",
+    "harm": {
+      "id": "0058490",
+      "title": "88237 - Pants (Sanitary -)",
+      "conceptLink": "/ec2/concept/5999989"
+    }
+  },
+  {
+    "uri": "en/5/1295630",
+    "id": "1295630",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Panty liners",
+    "harm": {
+      "id": "0058491",
+      "title": "1295630 - Panty liners",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/88236",
+    "id": "88236",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Panty liners [sanitary]",
+    "harm": {
+      "id": "0058491",
+      "title": "88236 - Panty liners [sanitary]",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/40337266",
+    "id": "40337266",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Panty shields",
+    "harm": {
+      "id": "0058491",
+      "title": "40337266 - Panty shields",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/119695648",
+    "id": "119695648",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Panty shields [sanitary]",
+    "harm": {
+      "id": "0058491",
+      "title": "119695648 - Panty shields [sanitary]",
+      "conceptLink": "/ec2/concept/5999990"
+    }
+  },
+  {
+    "uri": "en/5/905793",
+    "id": "905793",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pantyliners",
+    "harm": {
+      "id": "0041520",
+      "title": "905793 - Pantyliners",
+      "conceptLink": "/ec2/concept/5989421"
+    }
+  },
+  {
+    "uri": "en/5/341191",
+    "id": "341191",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper diapers",
+    "harm": {
+      "id": "0012112",
+      "title": "341191 - Paper diapers",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/341189",
+    "id": "341189",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper diapers for babies",
+    "harm": {
+      "id": "0012112",
+      "title": "341189 - Paper diapers for babies",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/341199",
+    "id": "341199",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper diapers for infants",
+    "harm": {
+      "id": "0012112",
+      "title": "341199 - Paper diapers for infants",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/89376",
+    "id": "89376",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper for mustard plasters",
+    "harm": {
+      "id": "0008028",
+      "title": "89376 - Paper for mustard plasters",
+      "conceptLink": "/ec2/concept/5958805"
+    }
+  },
+  {
+    "uri": "en/5/89377",
+    "id": "89377",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper for mustard poultices",
+    "harm": {
+      "id": "0008028",
+      "title": "89377 - Paper for mustard poultices",
+      "conceptLink": "/ec2/concept/5958805"
+    }
+  },
+  {
+    "uri": "en/5/120898235",
+    "id": "120898235",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper liners for diapers",
+    "harm": {
+      "id": "0065227",
+      "title": "120898235 - Paper liners for diapers",
+      "conceptLink": "/ec2/concept/6001430"
+    }
+  },
+  {
+    "uri": "en/5/90666",
+    "id": "90666",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper (Mothproof -)",
+    "harm": {
+      "id": "0015059",
+      "title": "90666 - Paper (Mothproof -)",
+      "conceptLink": "/ec2/concept/5965242"
+    }
+  },
+  {
+    "uri": "en/5/341197",
+    "id": "341197",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper nappies for babies",
+    "harm": {
+      "id": "0012112",
+      "title": "341197 - Paper nappies for babies",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/341200",
+    "id": "341200",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paper nappies for infants",
+    "harm": {
+      "id": "0012112",
+      "title": "341200 - Paper nappies for infants",
+      "conceptLink": "/ec2/concept/5962550"
+    }
+  },
+  {
+    "uri": "en/5/668125",
+    "id": "668125",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paracetamol",
+    "harm": {
+      "id": "0010133",
+      "title": "668125 - Paracetamol",
+      "conceptLink": "/ec2/concept/5960729"
+    }
+  },
+  {
+    "uri": "en/5/233403105",
+    "id": "233403105",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paracetamol modified release preparations",
+    "harm": {
+      "id": "0073504",
+      "title": "233403105 - Paracetamol modified release preparations",
+      "conceptLink": "/ec2/concept/6009677"
+    }
+  },
+  {
+    "uri": "en/5/233403103",
+    "id": "233403103",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paracetamol preparations for oral administration",
+    "harm": {
+      "id": "0073502",
+      "title": "233403103 - Paracetamol preparations for oral administration",
+      "conceptLink": "/ec2/concept/6009675"
+    }
+  },
+  {
+    "uri": "en/5/233403104",
+    "id": "233403104",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Paracetamol preparations for intravenous administration",
+    "harm": {
+      "id": "0073503",
+      "title": "233403104 - Paracetamol preparations for intravenous administration",
+      "conceptLink": "/ec2/concept/6009676"
+    }
+  },
+  {
+    "uri": "en/5/83039",
+    "id": "83039",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Parasiticides",
+    "harm": {
+      "id": "0012110",
+      "title": "83039 - Parasiticides",
+      "conceptLink": "/ec2/concept/5962548"
+    }
+  },
+  {
+    "uri": "en/5/318431",
+    "id": "318431",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Parasiticides for medical use",
+    "harm": {
+      "id": "0020911",
+      "title": "318431 - Parasiticides for medical use",
+      "conceptLink": "/ec2/concept/5970599"
+    }
+  },
+  {
+    "uri": "en/5/233403100",
+    "id": "233403100",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Parenteral anti-epileptic pharmaceutical preparations",
+    "harm": {
+      "id": "0073500",
+      "title": "233403100 - Parenteral anti-epileptic pharmaceutical preparations",
+      "conceptLink": "/ec2/concept/6009673"
+    }
+  },
+  {
+    "uri": "en/5/88692",
+    "id": "88692",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pastilles for pharmaceutical purposes",
+    "harm": {
+      "id": "0059287",
+      "title": "88692 - Pastilles for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/6000771"
+    }
+  },
+  {
+    "uri": "en/5/84787",
+    "id": "84787",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pastilles (Fumigating -)",
+    "harm": {
+      "id": "0011703",
+      "title": "84787 - Pastilles (Fumigating -)",
+      "conceptLink": "/ec2/concept/5962167"
+    }
+  },
+  {
+    "uri": "en/5/909205",
+    "id": "909205",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pearl powder for medical purposes",
+    "harm": {
+      "id": "0034899",
+      "title": "909205 - Pearl powder for medical purposes",
+      "conceptLink": "/ec2/concept/5983388"
+    }
+  },
+  {
+    "uri": "en/5/89127",
+    "id": "89127",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pectin for pharmaceutical purposes",
+    "harm": {
+      "id": "0046112",
+      "title": "89127 - Pectin for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5993623"
+    }
+  },
+  {
+    "uri": "en/5/233488129",
+    "id": "233488129",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pediculicidal shampoos",
+    "harm": {
+      "id": "0052023",
+      "title": "233488129 - Pediculicidal shampoos",
+      "conceptLink": "/ec2/concept/6010923"
+    }
+  },
+  {
+    "uri": "en/5/119524227",
+    "id": "119524227",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Penicillin preparations",
+    "harm": {
+      "id": "0055544",
+      "title": "119524227 - Penicillin preparations",
+      "conceptLink": "/ec2/concept/5996942"
+    }
+  },
+  {
+    "uri": "en/5/89522",
+    "id": "89522",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pepsins for pharmaceutical purposes",
+    "harm": {
+      "id": "0025433",
+      "title": "89522 - Pepsins for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5974745"
+    }
+  },
+  {
+    "uri": "en/5/87693",
+    "id": "87693",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Peptones for pharmaceutical purposes",
+    "harm": {
+      "id": "0015055",
+      "title": "87693 - Peptones for pharmaceutical purposes",
+      "conceptLink": "/ec2/concept/5965238"
+    }
+  },
+  {
+    "uri": "en/5/909161",
+    "id": "909161",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Personal sexual lubricants",
+    "harm": {
+      "id": "0000240",
+      "title": "909161 - Personal sexual lubricants",
+      "conceptLink": "/ec2/concept/5951711"
+    }
+  },
+  {
+    "uri": "en/5/120918821",
+    "id": "120918821",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pest control preparations and articles",
+    "harm": {
+      "id": "0047663",
+      "title": "120918821 - Pest control preparations and articles",
+      "conceptLink": "/ec2/concept/5994938"
+    }
+  },
+  {
+    "uri": "en/5/82830",
+    "id": "82830",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pesticides",
+    "harm": {
+      "id": "0048080",
+      "title": "82830 - Pesticides",
+      "conceptLink": "/ec2/concept/5995339"
+    }
+  },
+  {
+    "uri": "en/5/9642022",
+    "id": "9642022",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pesticides for agricultural use",
+    "harm": {
+      "id": "0032526",
+      "title": "9642022 - Pesticides for agricultural use",
+      "conceptLink": "/ec2/concept/5981222"
+    }
+  },
+  {
+    "uri": "en/5/70307255",
+    "id": "70307255",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Pesticides for horticultural use",
+    "harm": {
+      "id": "0065230",
+      "title": "70307255 - Pesticides for horticultural use",
+      "conceptLink": "/ec2/concept/6001433"
+    }
+  },
+  {
+    "uri": "en/5/136914124",
+    "id": "136914124",
+    "lang": "en",
+    "classNumber": "5",
+    "term": "Petroleum jelly for medical or veterinary purposes",
+    "harm": {
+      "id": "0060445",
+      "title": "136914124 - Petroleum jelly for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5998418"
+    }
+  }
+]

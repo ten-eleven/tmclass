@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/2337",
+    "id": "2337",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil improvers",
+    "harm": {
+      "id": "0009585",
+      "title": "2337 - Soil improvers",
+      "conceptLink": "/ec2/concept/5960232"
+    }
+  },
+  {
+    "uri": "en/1/2331",
+    "id": "2331",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil improving agents",
+    "harm": {
+      "id": "0017359",
+      "title": "2331 - Soil improving agents",
+      "conceptLink": "/ec2/concept/5967348"
+    }
+  },
+  {
+    "uri": "en/1/2338",
+    "id": "2338",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil improving material",
+    "harm": {
+      "id": "0015788",
+      "title": "2338 - Soil improving material",
+      "conceptLink": "/ec2/concept/5965918"
+    }
+  },
+  {
+    "uri": "en/1/2332",
+    "id": "2332",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil improving preparations",
+    "harm": {
+      "id": "0058529",
+      "title": "2332 - Soil improving preparations",
+      "conceptLink": "/ec2/concept/6000027"
+    }
+  },
+  {
+    "uri": "en/1/907311",
+    "id": "907311",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil stabilizers for roads, ponds and lakes",
+    "harm": {
+      "id": "0002641",
+      "title": "907311 - Soil stabilizers for roads, ponds and lakes",
+      "conceptLink": "/ec2/concept/5953865"
+    }
+  },
+  {
+    "uri": "en/1/378445",
+    "id": "378445",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil stabilizers for use in road construction",
+    "harm": {
+      "id": "0004987",
+      "title": "378445 - Soil stabilizers for use in road construction",
+      "conceptLink": "/ec2/concept/5956025"
+    }
+  },
+  {
+    "uri": "en/1/645122",
+    "id": "645122",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil substitutes",
+    "harm": {
+      "id": "0033064",
+      "title": "645122 - Soil substitutes",
+      "conceptLink": "/ec2/concept/5981715"
+    }
+  },
+  {
+    "uri": "en/1/132870756",
+    "id": "132870756",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soil surfactants used to promote uniform movement of water in soil",
+    "harm": {
+      "id": "0065000",
+      "title": "132870756 - Soil surfactants used to promote uniform movement of water in soil",
+      "conceptLink": "/ec2/concept/6001203"
+    }
+  },
+  {
+    "uri": "en/1/645163",
+    "id": "645163",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder creams",
+    "harm": {
+      "id": "0034323",
+      "title": "645163 - Solder creams",
+      "conceptLink": "/ec2/concept/5982866"
+    }
+  },
+  {
+    "uri": "en/1/19477",
+    "id": "19477",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder fluxes",
+    "harm": {
+      "id": "0058917",
+      "title": "19477 - Solder fluxes",
+      "conceptLink": "/ec2/concept/6000408"
+    }
+  },
+  {
+    "uri": "en/1/137543682",
+    "id": "137543682",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder mask [chemical preparations]",
+    "harm": {
+      "id": "0034324",
+      "title": "137543682 - Solder mask [chemical preparations]",
+      "conceptLink": "/ec2/concept/5982867"
+    }
+  },
+  {
+    "uri": "en/1/645175",
+    "id": "645175",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder masks",
+    "harm": {
+      "id": "0034324",
+      "title": "645175 - Solder masks",
+      "conceptLink": "/ec2/concept/5982867"
+    }
+  },
+  {
+    "uri": "en/1/124874369",
+    "id": "124874369",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder (Pastes for use with -)",
+    "harm": {
+      "id": "0011206",
+      "title": "124874369 - Solder (Pastes for use with -)",
+      "conceptLink": "/ec2/concept/5961712"
+    }
+  },
+  {
+    "uri": "en/1/124874383",
+    "id": "124874383",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder (Preparations for use with -)",
+    "harm": {
+      "id": "0059095",
+      "title": "124874383 - Solder (Preparations for use with -)",
+      "conceptLink": "/ec2/concept/6000586"
+    }
+  },
+  {
+    "uri": "en/1/645187",
+    "id": "645187",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solder stripper [preparations]",
+    "harm": {
+      "id": "0011205",
+      "title": "645187 - Solder stripper [preparations]",
+      "conceptLink": "/ec2/concept/5961711"
+    }
+  },
+  {
+    "uri": "en/1/124874435",
+    "id": "124874435",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering (Agents for use in -)",
+    "harm": {
+      "id": "0005471",
+      "title": "124874435 - Soldering (Agents for use in -)",
+      "conceptLink": "/ec2/concept/5956469"
+    }
+  },
+  {
+    "uri": "en/1/16884",
+    "id": "16884",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering chemicals",
+    "harm": {
+      "id": "0029315",
+      "title": "16884 - Soldering chemicals",
+      "conceptLink": "/ec2/concept/5978296"
+    }
+  },
+  {
+    "uri": "en/1/19576",
+    "id": "19576",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering creams",
+    "harm": {
+      "id": "0034323",
+      "title": "19576 - Soldering creams",
+      "conceptLink": "/ec2/concept/5982866"
+    }
+  },
+  {
+    "uri": "en/1/19478",
+    "id": "19478",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering flux",
+    "harm": {
+      "id": "0058917",
+      "title": "19478 - Soldering flux",
+      "conceptLink": "/ec2/concept/6000408"
+    }
+  },
+  {
+    "uri": "en/1/19479",
+    "id": "19479",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering fluxes",
+    "harm": {
+      "id": "0058917",
+      "title": "19479 - Soldering fluxes",
+      "conceptLink": "/ec2/concept/6000408"
+    }
+  },
+  {
+    "uri": "en/1/19577",
+    "id": "19577",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering pastes",
+    "harm": {
+      "id": "0011206",
+      "title": "19577 - Soldering pastes",
+      "conceptLink": "/ec2/concept/5961712"
+    }
+  },
+  {
+    "uri": "en/1/505017",
+    "id": "505017",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soldering preparations",
+    "harm": {
+      "id": "0059095",
+      "title": "505017 - Soldering preparations",
+      "conceptLink": "/ec2/concept/6000586"
+    }
+  },
+  {
+    "uri": "en/1/645217",
+    "id": "645217",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid and liquid diluents for artificial resins",
+    "harm": {
+      "id": "0005472",
+      "title": "645217 - Solid and liquid diluents for artificial resins",
+      "conceptLink": "/ec2/concept/5956470"
+    }
+  },
+  {
+    "uri": "en/1/645232",
+    "id": "645232",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid gaseous filtering substances",
+    "harm": {
+      "id": "0040073",
+      "title": "645232 - Solid gaseous filtering substances",
+      "conceptLink": "/ec2/concept/5988098"
+    }
+  },
+  {
+    "uri": "en/1/645244",
+    "id": "645244",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid inorganic adhesives for forming solid synthetic resins for rock consolidation",
+    "harm": {
+      "id": "0022868",
+      "title": "645244 - Solid inorganic adhesives for forming solid synthetic resins for rock consolidation",
+      "conceptLink": "/ec2/concept/5972388"
+    }
+  },
+  {
+    "uri": "en/1/645258",
+    "id": "645258",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid oxygen, other than for medical use",
+    "harm": {
+      "id": "0028523",
+      "title": "645258 - Solid oxygen, other than for medical use",
+      "conceptLink": "/ec2/concept/5977571"
+    }
+  },
+  {
+    "uri": "en/1/645273",
+    "id": "645273",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid potassium silicate",
+    "harm": {
+      "id": "0045801",
+      "title": "645273 - Solid potassium silicate",
+      "conceptLink": "/ec2/concept/5993333"
+    }
+  },
+  {
+    "uri": "en/1/645286",
+    "id": "645286",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solid sodium silicate",
+    "harm": {
+      "id": "0029734",
+      "title": "645286 - Solid sodium silicate",
+      "conceptLink": "/ec2/concept/5978685"
+    }
+  },
+  {
+    "uri": "en/1/12136",
+    "id": "12136",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solidified gases for industrial purposes",
+    "harm": {
+      "id": "0042989",
+      "title": "12136 - Solidified gases for industrial purposes",
+      "conceptLink": "/ec2/concept/5990752"
+    }
+  },
+  {
+    "uri": "en/1/137699534",
+    "id": "137699534",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solidified protective gases for welding",
+    "harm": {
+      "id": "0069826",
+      "title": "137699534 - Solidified protective gases for welding",
+      "conceptLink": "/ec2/concept/6006029"
+    }
+  },
+  {
+    "uri": "en/1/8609",
+    "id": "8609",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solutions for cyanotyping",
+    "harm": {
+      "id": "0025558",
+      "title": "8609 - Solutions for cyanotyping",
+      "conceptLink": "/ec2/concept/5974859"
+    }
+  },
+  {
+    "uri": "en/1/645311",
+    "id": "645311",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solutions for scientific use in the storage of human organs",
+    "harm": {
+      "id": "0000808",
+      "title": "645311 - Solutions for scientific use in the storage of human organs",
+      "conceptLink": "/ec2/concept/5952217"
+    }
+  },
+  {
+    "uri": "en/1/645298",
+    "id": "645298",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solutions for scientific use in the preservation of human organs",
+    "harm": {
+      "id": "0006597",
+      "title": "645298 - Solutions for scientific use in the preservation of human organs",
+      "conceptLink": "/ec2/concept/5957496"
+    }
+  },
+  {
+    "uri": "en/1/645325",
+    "id": "645325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvent based cleaning preparations for removing grease during manufacturing operations",
+    "harm": {
+      "id": "0029735",
+      "title": "645325 - Solvent based cleaning preparations for removing grease during manufacturing operations",
+      "conceptLink": "/ec2/concept/5978686"
+    }
+  },
+  {
+    "uri": "en/1/645337",
+    "id": "645337",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvent cleaners for removing grease during manufacturing operations",
+    "harm": {
+      "id": "0012379",
+      "title": "645337 - Solvent cleaners for removing grease during manufacturing operations",
+      "conceptLink": "/ec2/concept/5962795"
+    }
+  },
+  {
+    "uri": "en/1/378457",
+    "id": "378457",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvent type processing compositions for use in the electronics industry",
+    "harm": {
+      "id": "0027251",
+      "title": "378457 - Solvent type processing compositions for use in the electronics industry",
+      "conceptLink": "/ec2/concept/5976388"
+    }
+  },
+  {
+    "uri": "en/1/645351",
+    "id": "645351",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for cleaning purposes during manufacturing operations",
+    "harm": {
+      "id": "0029736",
+      "title": "645351 - Solvents for cleaning purposes during manufacturing operations",
+      "conceptLink": "/ec2/concept/5978687"
+    }
+  },
+  {
+    "uri": "en/1/645363",
+    "id": "645363",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for industrial cleaning during manufacturing operations",
+    "harm": {
+      "id": "0018188",
+      "title": "645363 - Solvents for industrial cleaning during manufacturing operations",
+      "conceptLink": "/ec2/concept/5968105"
+    }
+  },
+  {
+    "uri": "en/1/645379",
+    "id": "645379",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for industrial use in manufacturing operations",
+    "harm": {
+      "id": "0012380",
+      "title": "645379 - Solvents for industrial use in manufacturing operations",
+      "conceptLink": "/ec2/concept/5962796"
+    }
+  },
+  {
+    "uri": "en/1/137900104",
+    "id": "137900104",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for lacquers",
+    "harm": {
+      "id": "0073335",
+      "title": "137900104 - Solvents for lacquers",
+      "conceptLink": "/ec2/concept/6009508"
+    }
+  },
+  {
+    "uri": "en/1/137899528",
+    "id": "137899528",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for paints",
+    "harm": {
+      "id": "0073336",
+      "title": "137899528 - Solvents for paints",
+      "conceptLink": "/ec2/concept/6009509"
+    }
+  },
+  {
+    "uri": "en/1/645391",
+    "id": "645391",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for removing adhesives used during manufacturing operations",
+    "harm": {
+      "id": "0012381",
+      "title": "645391 - Solvents for removing adhesives used during manufacturing operations",
+      "conceptLink": "/ec2/concept/5962797"
+    }
+  },
+  {
+    "uri": "en/1/645405",
+    "id": "645405",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for stripping surface finishes during manufacturing processes",
+    "harm": {
+      "id": "0041300",
+      "title": "645405 - Solvents for stripping surface finishes during manufacturing processes",
+      "conceptLink": "/ec2/concept/5989223"
+    }
+  },
+  {
+    "uri": "en/1/645417",
+    "id": "645417",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in aerosols",
+    "harm": {
+      "id": "0041301",
+      "title": "645417 - Solvents for use in aerosols",
+      "conceptLink": "/ec2/concept/5989224"
+    }
+  },
+  {
+    "uri": "en/1/645429",
+    "id": "645429",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in industrial manufacturing processes",
+    "harm": {
+      "id": "0000809",
+      "title": "645429 - Solvents for use in industrial manufacturing processes",
+      "conceptLink": "/ec2/concept/5952218"
+    }
+  },
+  {
+    "uri": "en/1/645441",
+    "id": "645441",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in manufacturing processes",
+    "harm": {
+      "id": "0023996",
+      "title": "645441 - Solvents for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5973422"
+    }
+  },
+  {
+    "uri": "en/1/645454",
+    "id": "645454",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in the cleaning of machines during manufacturing processes",
+    "harm": {
+      "id": "0006598",
+      "title": "645454 - Solvents for use in the cleaning of machines during manufacturing processes",
+      "conceptLink": "/ec2/concept/5957497"
+    }
+  },
+  {
+    "uri": "en/1/137771756",
+    "id": "137771756",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in the manufacture of insecticides",
+    "harm": {
+      "id": "0073372",
+      "title": "137771756 - Solvents for use in the manufacture of insecticides",
+      "conceptLink": "/ec2/concept/6009545"
+    }
+  },
+  {
+    "uri": "en/1/645467",
+    "id": "645467",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for use in the processing of plastics",
+    "harm": {
+      "id": "0028208",
+      "title": "645467 - Solvents for use in the processing of plastics",
+      "conceptLink": "/ec2/concept/5977274"
+    }
+  },
+  {
+    "uri": "en/1/20202",
+    "id": "20202",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for varnishes",
+    "harm": {
+      "id": "0000725",
+      "title": "20202 - Solvents for varnishes",
+      "conceptLink": "/ec2/concept/5952140"
+    }
+  },
+  {
+    "uri": "en/1/645480",
+    "id": "645480",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Solvents for washing out light sensitive resins",
+    "harm": {
+      "id": "0039733",
+      "title": "645480 - Solvents for washing out light sensitive resins",
+      "conceptLink": "/ec2/concept/5987784"
+    }
+  },
+  {
+    "uri": "en/1/17203",
+    "id": "17203",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Soot for industrial or agricultural purposes",
+    "harm": {
+      "id": "0021508",
+      "title": "17203 - Soot for industrial or agricultural purposes",
+      "conceptLink": "/ec2/concept/5971138"
+    }
+  },
+  {
+    "uri": "en/1/14617",
+    "id": "14617",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Sorrel salt",
+    "harm": {
+      "id": "0024873",
+      "title": "14617 - Sorrel salt",
+      "conceptLink": "/ec2/concept/5974235"
+    }
+  },
+  {
+    "uri": "en/1/17136",
+    "id": "17136",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spinel [chemical preparations]",
+    "harm": {
+      "id": "0009783",
+      "title": "17136 - Spinel [chemical preparations]",
+      "conceptLink": "/ec2/concept/5960410"
+    }
+  },
+  {
+    "uri": "en/1/134574896",
+    "id": "134574896",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spinel [oxide mineral]",
+    "harm": {
+      "id": "0009783",
+      "title": "134574896 - Spinel [oxide mineral]",
+      "conceptLink": "/ec2/concept/5960410"
+    }
+  },
+  {
+    "uri": "en/1/63",
+    "id": "63",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spirit gum for industrial purposes",
+    "harm": {
+      "id": "0047061",
+      "title": "63 - Spirit gum for industrial purposes",
+      "conceptLink": "/ec2/concept/5994438"
+    }
+  },
+  {
+    "uri": "en/1/2628",
+    "id": "2628",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spirits of salt",
+    "harm": {
+      "id": "0071806",
+      "title": "2628 - Spirits of salt",
+      "conceptLink": "/ec2/concept/6007993"
+    }
+  },
+  {
+    "uri": "en/1/10533",
+    "id": "10533",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spirits of vinegar [dilute acetic acid]",
+    "harm": {
+      "id": "0032196",
+      "title": "10533 - Spirits of vinegar [dilute acetic acid]",
+      "conceptLink": "/ec2/concept/5980921"
+    }
+  },
+  {
+    "uri": "en/1/138394296",
+    "id": "138394296",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray crystallised maltose for industrial use",
+    "harm": {
+      "id": "0016687",
+      "title": "138394296 - Spray crystallised maltose for industrial use",
+      "conceptLink": "/ec2/concept/5966749"
+    }
+  },
+  {
+    "uri": "en/1/138394297",
+    "id": "138394297",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray crystallised porous spheres of ceramic material",
+    "harm": {
+      "id": "0033966",
+      "title": "138394297 - Spray crystallised porous spheres of ceramic material",
+      "conceptLink": "/ec2/concept/5982541"
+    }
+  },
+  {
+    "uri": "en/1/645544",
+    "id": "645544",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray crystallized maltose for industrial use",
+    "harm": {
+      "id": "0016687",
+      "title": "645544 - Spray crystallized maltose for industrial use",
+      "conceptLink": "/ec2/concept/5966749"
+    }
+  },
+  {
+    "uri": "en/1/645558",
+    "id": "645558",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray crystallized porous spheres of ceramic material",
+    "harm": {
+      "id": "0033966",
+      "title": "645558 - Spray crystallized porous spheres of ceramic material",
+      "conceptLink": "/ec2/concept/5982541"
+    }
+  },
+  {
+    "uri": "en/1/645572",
+    "id": "645572",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray dried gum acacia for use in the manufacture of drinks",
+    "harm": {
+      "id": "0016688",
+      "title": "645572 - Spray dried gum acacia for use in the manufacture of drinks",
+      "conceptLink": "/ec2/concept/5966750"
+    }
+  },
+  {
+    "uri": "en/1/645587",
+    "id": "645587",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Spray dried gum acacia for use in the manufacture of foodstuffs",
+    "harm": {
+      "id": "0045489",
+      "title": "645587 - Spray dried gum acacia for use in the manufacture of foodstuffs",
+      "conceptLink": "/ec2/concept/5993045"
+    }
+  },
+  {
+    "uri": "en/1/645615",
+    "id": "645615",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilisers for oils",
+    "harm": {
+      "id": "0010872",
+      "title": "645615 - Stabilisers for oils",
+      "conceptLink": "/ec2/concept/5961406"
+    }
+  },
+  {
+    "uri": "en/1/645627",
+    "id": "645627",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilisers for vitamins",
+    "harm": {
+      "id": "0016689",
+      "title": "645627 - Stabilisers for vitamins",
+      "conceptLink": "/ec2/concept/5966751"
+    }
+  },
+  {
+    "uri": "en/1/645642",
+    "id": "645642",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilising agents for use in food",
+    "harm": {
+      "id": "0005119",
+      "title": "645642 - Stabilising agents for use in food",
+      "conceptLink": "/ec2/concept/5956144"
+    }
+  },
+  {
+    "uri": "en/1/645657",
+    "id": "645657",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilizers for flame retardants",
+    "harm": {
+      "id": "0027323",
+      "title": "645657 - Stabilizers for flame retardants",
+      "conceptLink": "/ec2/concept/5976454"
+    }
+  },
+  {
+    "uri": "en/1/645670",
+    "id": "645670",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilizers for plastic polymers",
+    "harm": {
+      "id": "0038870",
+      "title": "645670 - Stabilizers for plastic polymers",
+      "conceptLink": "/ec2/concept/5986993"
+    }
+  },
+  {
+    "uri": "en/1/645683",
+    "id": "645683",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilizing agents for polyvinyl chloride",
+    "harm": {
+      "id": "0033068",
+      "title": "645683 - Stabilizing agents for polyvinyl chloride",
+      "conceptLink": "/ec2/concept/5981719"
+    }
+  },
+  {
+    "uri": "en/1/645695",
+    "id": "645695",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stabilizing agents for solvents",
+    "harm": {
+      "id": "0044623",
+      "title": "645695 - Stabilizing agents for solvents",
+      "conceptLink": "/ec2/concept/5992255"
+    }
+  },
+  {
+    "uri": "en/1/645725",
+    "id": "645725",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stain-preventative chemicals for use on soft furnishings",
+    "harm": {
+      "id": "0004242",
+      "title": "645725 - Stain-preventative chemicals for use on soft furnishings",
+      "conceptLink": "/ec2/concept/5955330"
+    }
+  },
+  {
+    "uri": "en/1/645710",
+    "id": "645710",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stain-preventative chemicals for use on carpets",
+    "harm": {
+      "id": "0015797",
+      "title": "645710 - Stain-preventative chemicals for use on carpets",
+      "conceptLink": "/ec2/concept/5965926"
+    }
+  },
+  {
+    "uri": "en/1/10758",
+    "id": "10758",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stain-preventing chemicals for use on fabrics",
+    "harm": {
+      "id": "0031118",
+      "title": "10758 - Stain-preventing chemicals for use on fabrics",
+      "conceptLink": "/ec2/concept/5979954"
+    }
+  },
+  {
+    "uri": "en/1/907391",
+    "id": "907391",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stain repellents",
+    "harm": {
+      "id": "0018756",
+      "title": "907391 - Stain repellents",
+      "conceptLink": "/ec2/concept/5968635"
+    }
+  },
+  {
+    "uri": "en/1/17711",
+    "id": "17711",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Staining-chemicals (Enamel and glass- -)",
+    "harm": {
+      "id": "0041173",
+      "title": "17711 - Staining-chemicals (Enamel and glass- -)",
+      "conceptLink": "/ec2/concept/5989101"
+    }
+  },
+  {
+    "uri": "en/1/907418",
+    "id": "907418",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stannate",
+    "harm": {
+      "id": "0024516",
+      "title": "907418 - Stannate",
+      "conceptLink": "/ec2/concept/5973898"
+    }
+  },
+  {
+    "uri": "en/1/2486",
+    "id": "2486",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch for industrial purposes",
+    "harm": {
+      "id": "0036064",
+      "title": "2486 - Starch for industrial purposes",
+      "conceptLink": "/ec2/concept/5984441"
+    }
+  },
+  {
+    "uri": "en/1/2487",
+    "id": "2487",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch for use in industry",
+    "harm": {
+      "id": "0036064",
+      "title": "2487 - Starch for use in industry",
+      "conceptLink": "/ec2/concept/5984441"
+    }
+  },
+  {
+    "uri": "en/1/378469",
+    "id": "378469",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch for use in the manufacture of paper or textiles",
+    "harm": {
+      "id": "0027252",
+      "title": "378469 - Starch for use in the manufacture of paper or textiles",
+      "conceptLink": "/ec2/concept/5976389"
+    }
+  },
+  {
+    "uri": "en/1/132868440",
+    "id": "132868440",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch for use in the manufacture of paper",
+    "harm": {
+      "id": "0065043",
+      "title": "132868440 - Starch for use in the manufacture of paper",
+      "conceptLink": "/ec2/concept/6001246"
+    }
+  },
+  {
+    "uri": "en/1/132868434",
+    "id": "132868434",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch for use in the manufacture of textiles",
+    "harm": {
+      "id": "0065042",
+      "title": "132868434 - Starch for use in the manufacture of textiles",
+      "conceptLink": "/ec2/concept/6001245"
+    }
+  },
+  {
+    "uri": "en/1/2534",
+    "id": "2534",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch-liquifying chemicals [ungluing agents]",
+    "harm": {
+      "id": "0012947",
+      "title": "2534 - Starch-liquifying chemicals [ungluing agents]",
+      "conceptLink": "/ec2/concept/5963309"
+    }
+  },
+  {
+    "uri": "en/1/18984",
+    "id": "18984",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch paste [adhesive], other than for stationery or household purposes",
+    "harm": {
+      "id": "0017450",
+      "title": "18984 - Starch paste [adhesive], other than for stationery or household purposes",
+      "conceptLink": "/ec2/concept/5967430"
+    }
+  },
+  {
+    "uri": "en/1/18983",
+    "id": "18983",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starch paste [not for stationery or household purposes]",
+    "harm": {
+      "id": "0017450",
+      "title": "18983 - Starch paste [not for stationery or household purposes]",
+      "conceptLink": "/ec2/concept/5967430"
+    }
+  },
+  {
+    "uri": "en/1/488694",
+    "id": "488694",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starches for the fixing of floorings",
+    "harm": {
+      "id": "0016874",
+      "title": "488694 - Starches for the fixing of floorings",
+      "conceptLink": "/ec2/concept/5966914"
+    }
+  },
+  {
+    "uri": "en/1/131116752",
+    "id": "131116752",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Starches for use in manufacturing and industry",
+    "harm": {
+      "id": "0047632",
+      "title": "131116752 - Starches for use in manufacturing and industry",
+      "conceptLink": "/ec2/concept/5994907"
+    }
+  },
+  {
+    "uri": "en/1/17157",
+    "id": "17157",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stearic acid",
+    "harm": {
+      "id": "0040666",
+      "title": "17157 - Stearic acid",
+      "conceptLink": "/ec2/concept/5988644"
+    }
+  },
+  {
+    "uri": "en/1/645751",
+    "id": "645751",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stearyl fumarate",
+    "harm": {
+      "id": "0021683",
+      "title": "645751 - Stearyl fumarate",
+      "conceptLink": "/ec2/concept/5971294"
+    }
+  },
+  {
+    "uri": "en/1/645764",
+    "id": "645764",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stearyl lactilate",
+    "harm": {
+      "id": "0009969",
+      "title": "645764 - Stearyl lactilate",
+      "conceptLink": "/ec2/concept/5960581"
+    }
+  },
+  {
+    "uri": "en/1/645777",
+    "id": "645777",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stearyl tartrate",
+    "harm": {
+      "id": "0021684",
+      "title": "645777 - Stearyl tartrate",
+      "conceptLink": "/ec2/concept/5971295"
+    }
+  },
+  {
+    "uri": "en/1/653",
+    "id": "653",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Steel (Finishing preparations for use in the manufacture of -)",
+    "harm": {
+      "id": "0027773",
+      "title": "653 - Steel (Finishing preparations for use in the manufacture of -)",
+      "conceptLink": "/ec2/concept/5976877"
+    }
+  },
+  {
+    "uri": "en/1/892093",
+    "id": "892093",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stem cells for research or scientific purposes",
+    "harm": {
+      "id": "0041539",
+      "title": "892093 - Stem cells for research or scientific purposes",
+      "conceptLink": "/ec2/concept/5989439"
+    }
+  },
+  {
+    "uri": "en/1/907429",
+    "id": "907429",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stem cells for research purposes",
+    "harm": {
+      "id": "0036069",
+      "title": "907429 - Stem cells for research purposes",
+      "conceptLink": "/ec2/concept/5984444"
+    }
+  },
+  {
+    "uri": "en/1/119757789",
+    "id": "119757789",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stem cells for scientific purposes",
+    "harm": {
+      "id": "0065046",
+      "title": "119757789 - Stem cells for scientific purposes",
+      "conceptLink": "/ec2/concept/6001249"
+    }
+  },
+  {
+    "uri": "en/1/233465971",
+    "id": "233465971",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stem cells, other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0006496",
+      "title": "233465971 - Stem cells, other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5957403"
+    }
+  },
+  {
+    "uri": "en/1/908427",
+    "id": "908427",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stem cells other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0006496",
+      "title": "908427 - Stem cells other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5957403"
+    }
+  },
+  {
+    "uri": "en/1/313468",
+    "id": "313468",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stilbene",
+    "harm": {
+      "id": "0042600",
+      "title": "313468 - Stilbene",
+      "conceptLink": "/ec2/concept/5990403"
+    }
+  },
+  {
+    "uri": "en/1/4277",
+    "id": "4277",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Stockings (Substances for preventing runs in -)",
+    "harm": {
+      "id": "0034812",
+      "title": "4277 - Stockings (Substances for preventing runs in -)",
+      "conceptLink": "/ec2/concept/5983308"
+    }
+  },
+  {
+    "uri": "en/1/119666855",
+    "id": "119666855",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Straw pulp",
+    "harm": {
+      "id": "0055262",
+      "title": "119666855 - Straw pulp",
+      "conceptLink": "/ec2/concept/5996691"
+    }
+  }
+]

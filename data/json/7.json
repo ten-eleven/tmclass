@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/1/620022",
+    "id": "620022",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemical preparations other than for medical use",
+    "harm": {
+      "id": "0002531",
+      "title": "620022 - Biochemical preparations other than for medical use",
+      "conceptLink": "/ec2/concept/5953768"
+    }
+  },
+  {
+    "uri": "en/1/9990920",
+    "id": "9990920",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemical preparations for scientific purposes",
+    "harm": {
+      "id": "0073337",
+      "title": "9990920 - Biochemical preparations for scientific purposes",
+      "conceptLink": "/ec2/concept/6009510"
+    }
+  },
+  {
+    "uri": "en/1/620050",
+    "id": "620050",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemical substances [other than for medical use]",
+    "harm": {
+      "id": "0008220",
+      "title": "620050 - Biochemical substances [other than for medical use]",
+      "conceptLink": "/ec2/concept/5958977"
+    }
+  },
+  {
+    "uri": "en/1/901059",
+    "id": "901059",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemicals for in vitro and in vivo scientific use",
+    "harm": {
+      "id": "0009085",
+      "title": "901059 - Biochemicals for in vitro and in vivo scientific use",
+      "conceptLink": "/ec2/concept/5959771"
+    }
+  },
+  {
+    "uri": "en/1/620064",
+    "id": "620064",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemicals for use as indicators [other than for medical use]",
+    "harm": {
+      "id": "0012852",
+      "title": "620064 - Biochemicals for use as indicators [other than for medical use]",
+      "conceptLink": "/ec2/concept/5963224"
+    }
+  },
+  {
+    "uri": "en/1/376811",
+    "id": "376811",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemicals, namely, monoclonal antibodies for in vitro scientific or research use",
+    "harm": {
+      "id": "0032565",
+      "title": "376811 - Biochemicals, namely, monoclonal antibodies for in vitro scientific or research use",
+      "conceptLink": "/ec2/concept/5981256"
+    }
+  },
+  {
+    "uri": "en/1/376783",
+    "id": "376783",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemicals namely, polypeptides for in vitro research use",
+    "harm": {
+      "id": "0032563",
+      "title": "376783 - Biochemicals namely, polypeptides for in vitro research use",
+      "conceptLink": "/ec2/concept/5981254"
+    }
+  },
+  {
+    "uri": "en/1/376796",
+    "id": "376796",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biochemicals namely, precursors for in vitro genetic engineering use",
+    "harm": {
+      "id": "0032564",
+      "title": "376796 - Biochemicals namely, precursors for in vitro genetic engineering use",
+      "conceptLink": "/ec2/concept/5981255"
+    }
+  },
+  {
+    "uri": "en/1/620078",
+    "id": "620078",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biocidal preparations for use in manufacture",
+    "harm": {
+      "id": "0030152",
+      "title": "620078 - Biocidal preparations for use in manufacture",
+      "conceptLink": "/ec2/concept/5979065"
+    }
+  },
+  {
+    "uri": "en/1/137766680",
+    "id": "137766680",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biodegradable anionic surfactants for use in manufacture",
+    "harm": {
+      "id": "0073396",
+      "title": "137766680 - Biodegradable anionic surfactants for use in manufacture",
+      "conceptLink": "/ec2/concept/6009569"
+    }
+  },
+  {
+    "uri": "en/1/620091",
+    "id": "620091",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biodegradable detergents for use in manufacturing processes",
+    "harm": {
+      "id": "0001255",
+      "title": "620091 - Biodegradable detergents for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5952617"
+    }
+  },
+  {
+    "uri": "en/1/137857323",
+    "id": "137857323",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biofertilizers",
+    "harm": {
+      "id": "0073558",
+      "title": "137857323 - Biofertilizers",
+      "conceptLink": "/ec2/concept/6009731"
+    }
+  },
+  {
+    "uri": "en/1/620103",
+    "id": "620103",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological activators",
+    "harm": {
+      "id": "0041726",
+      "title": "620103 - Biological activators",
+      "conceptLink": "/ec2/concept/5989609"
+    }
+  },
+  {
+    "uri": "en/1/620148",
+    "id": "620148",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological additives for converting vegetation into silage",
+    "harm": {
+      "id": "0018639",
+      "title": "620148 - Biological additives for converting vegetation into silage",
+      "conceptLink": "/ec2/concept/5968521"
+    }
+  },
+  {
+    "uri": "en/1/620119",
+    "id": "620119",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological additives for converting crops into compost",
+    "harm": {
+      "id": "0030153",
+      "title": "620119 - Biological additives for converting crops into compost",
+      "conceptLink": "/ec2/concept/5979066"
+    }
+  },
+  {
+    "uri": "en/1/620136",
+    "id": "620136",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological additives for converting vegetation into agricultural feeds",
+    "harm": {
+      "id": "0030154",
+      "title": "620136 - Biological additives for converting vegetation into agricultural feeds",
+      "conceptLink": "/ec2/concept/5979067"
+    }
+  },
+  {
+    "uri": "en/1/119520386",
+    "id": "119520386",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological indicators for monitoring sterilization processes other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0055220",
+      "title": "119520386 - Biological indicators for monitoring sterilization processes other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5996652"
+    }
+  },
+  {
+    "uri": "en/1/901072",
+    "id": "901072",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological preparation for use in cell cultures other than for medical or veterinary use",
+    "harm": {
+      "id": "0043765",
+      "title": "901072 - Biological preparation for use in cell cultures other than for medical or veterinary use",
+      "conceptLink": "/ec2/concept/5991461"
+    }
+  },
+  {
+    "uri": "en/1/620176",
+    "id": "620176",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological preparations for use in manufacture",
+    "harm": {
+      "id": "0024428",
+      "title": "620176 - Biological preparations for use in manufacture",
+      "conceptLink": "/ec2/concept/5973818"
+    }
+  },
+  {
+    "uri": "en/1/620160",
+    "id": "620160",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological preparations [other than for medical use]",
+    "harm": {
+      "id": "0024427",
+      "title": "620160 - Biological preparations [other than for medical use]",
+      "conceptLink": "/ec2/concept/5973817"
+    }
+  },
+  {
+    "uri": "en/1/19347",
+    "id": "19347",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological preparations, other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0038701",
+      "title": "19347 - Biological preparations, other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5986844"
+    }
+  },
+  {
+    "uri": "en/1/620188",
+    "id": "620188",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological substances [other than for medical or veterinary use]",
+    "harm": {
+      "id": "0012853",
+      "title": "620188 - Biological substances [other than for medical or veterinary use]",
+      "conceptLink": "/ec2/concept/5963225"
+    }
+  },
+  {
+    "uri": "en/1/233465994",
+    "id": "233465994",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological tissue cultures, other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0041221",
+      "title": "233465994 - Biological tissue cultures, other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5989147"
+    }
+  },
+  {
+    "uri": "en/1/908448",
+    "id": "908448",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological tissue cultures other than for medical or veterinary purposes",
+    "harm": {
+      "id": "0041221",
+      "title": "908448 - Biological tissue cultures other than for medical or veterinary purposes",
+      "conceptLink": "/ec2/concept/5989147"
+    }
+  },
+  {
+    "uri": "en/1/233157516",
+    "id": "233157516",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biological water treatment preparations",
+    "harm": {
+      "id": "0072870",
+      "title": "233157516 - Biological water treatment preparations",
+      "conceptLink": "/ec2/concept/6009045"
+    }
+  },
+  {
+    "uri": "en/1/376827",
+    "id": "376827",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biomolecule labelling kits comprising reagents for use in scientific research",
+    "harm": {
+      "id": "0026784",
+      "title": "376827 - Biomolecule labelling kits comprising reagents for use in scientific research",
+      "conceptLink": "/ec2/concept/5975970"
+    }
+  },
+  {
+    "uri": "en/1/137871832",
+    "id": "137871832",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Biphenyls",
+    "harm": {
+      "id": "0073602",
+      "title": "137871832 - Biphenyls",
+      "conceptLink": "/ec2/concept/6009774"
+    }
+  },
+  {
+    "uri": "en/1/12331",
+    "id": "12331",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Birdlime",
+    "harm": {
+      "id": "0031393",
+      "title": "12331 - Birdlime",
+      "conceptLink": "/ec2/concept/5980204"
+    }
+  },
+  {
+    "uri": "en/1/4933",
+    "id": "4933",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth",
+    "harm": {
+      "id": "0044574",
+      "title": "4933 - Bismuth",
+      "conceptLink": "/ec2/concept/5992209"
+    }
+  },
+  {
+    "uri": "en/1/4967",
+    "id": "4967",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth (Basic gallate of -)",
+    "harm": {
+      "id": "0040562",
+      "title": "4967 - Bismuth (Basic gallate of -)",
+      "conceptLink": "/ec2/concept/5988542"
+    }
+  },
+  {
+    "uri": "en/1/309161",
+    "id": "309161",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth chloride",
+    "harm": {
+      "id": "0004571",
+      "title": "309161 - Bismuth chloride",
+      "conceptLink": "/ec2/concept/5955635"
+    }
+  },
+  {
+    "uri": "en/1/620204",
+    "id": "620204",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth germinate",
+    "harm": {
+      "id": "0007026",
+      "title": "620204 - Bismuth germinate",
+      "conceptLink": "/ec2/concept/5957884"
+    }
+  },
+  {
+    "uri": "en/1/309174",
+    "id": "309174",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth nitrate",
+    "harm": {
+      "id": "0065059",
+      "title": "309174 - Bismuth nitrate",
+      "conceptLink": "/ec2/concept/6001262"
+    }
+  },
+  {
+    "uri": "en/1/233110340",
+    "id": "233110340",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth nitrate for industrial purposes",
+    "harm": {
+      "id": "0065059",
+      "title": "233110340 - Bismuth nitrate for industrial purposes",
+      "conceptLink": "/ec2/concept/6001262"
+    }
+  },
+  {
+    "uri": "en/1/309187",
+    "id": "309187",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth nitrite",
+    "harm": {
+      "id": "0016103",
+      "title": "309187 - Bismuth nitrite",
+      "conceptLink": "/ec2/concept/5966214"
+    }
+  },
+  {
+    "uri": "en/1/17074",
+    "id": "17074",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth nitrite for chemical purposes",
+    "harm": {
+      "id": "0016103",
+      "title": "17074 - Bismuth nitrite for chemical purposes",
+      "conceptLink": "/ec2/concept/5966214"
+    }
+  },
+  {
+    "uri": "en/1/132819824",
+    "id": "132819824",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bismuth subnitrate for chemical purposes",
+    "harm": {
+      "id": "0060001",
+      "title": "132819824 - Bismuth subnitrate for chemical purposes",
+      "conceptLink": "/ec2/concept/5996269"
+    }
+  },
+  {
+    "uri": "en/1/11746",
+    "id": "11746",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Black (Lamp -) for industrial purposes",
+    "harm": {
+      "id": "0058715",
+      "title": "11746 - Black (Lamp -) for industrial purposes",
+      "conceptLink": "/ec2/concept/6000208"
+    }
+  },
+  {
+    "uri": "en/1/620216",
+    "id": "620216",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleach [chemical] for use in manufacturing processes",
+    "harm": {
+      "id": "0041727",
+      "title": "620216 - Bleach [chemical] for use in manufacturing processes",
+      "conceptLink": "/ec2/concept/5989610"
+    }
+  },
+  {
+    "uri": "en/1/19377",
+    "id": "19377",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleach [decolorants] for industrial purposes",
+    "harm": {
+      "id": "0007027",
+      "title": "19377 - Bleach [decolorants] for industrial purposes",
+      "conceptLink": "/ec2/concept/5957885"
+    }
+  },
+  {
+    "uri": "en/1/12430",
+    "id": "12430",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching chemicals (Fat- -)",
+    "harm": {
+      "id": "0024429",
+      "title": "12430 - Bleaching chemicals (Fat- -)",
+      "conceptLink": "/ec2/concept/5973819"
+    }
+  },
+  {
+    "uri": "en/1/12886",
+    "id": "12886",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching chemicals (Oil- -)",
+    "harm": {
+      "id": "0002532",
+      "title": "12886 - Bleaching chemicals (Oil- -)",
+      "conceptLink": "/ec2/concept/5953769"
+    }
+  },
+  {
+    "uri": "en/1/5063",
+    "id": "5063",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching chemicals (Organic- -)",
+    "harm": {
+      "id": "0017443",
+      "title": "5063 - Bleaching chemicals (Organic- -)",
+      "conceptLink": "/ec2/concept/5967425"
+    }
+  },
+  {
+    "uri": "en/1/5019",
+    "id": "5019",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching chemicals (Wax- -)",
+    "harm": {
+      "id": "0017442",
+      "title": "5019 - Bleaching chemicals (Wax- -)",
+      "conceptLink": "/ec2/concept/5967424"
+    }
+  },
+  {
+    "uri": "en/1/19376",
+    "id": "19376",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching preparations [decolorants] for industrial purposes",
+    "harm": {
+      "id": "0007027",
+      "title": "19376 - Bleaching preparations [decolorants] for industrial purposes",
+      "conceptLink": "/ec2/concept/5957885"
+    }
+  },
+  {
+    "uri": "en/1/3767646",
+    "id": "3767646",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bleaching preparations for industrial purposes",
+    "harm": {
+      "id": "0007027",
+      "title": "3767646 - Bleaching preparations for industrial purposes",
+      "conceptLink": "/ec2/concept/5957885"
+    }
+  },
+  {
+    "uri": "en/1/6265",
+    "id": "6265",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blood charcoal",
+    "harm": {
+      "id": "0025406",
+      "title": "6265 - Blood charcoal",
+      "conceptLink": "/ec2/concept/5974718"
+    }
+  },
+  {
+    "uri": "en/1/620231",
+    "id": "620231",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blood culture media for scientific use",
+    "harm": {
+      "id": "0037235",
+      "title": "620231 - Blood culture media for scientific use",
+      "conceptLink": "/ec2/concept/5985501"
+    }
+  },
+  {
+    "uri": "en/1/620246",
+    "id": "620246",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blood grouping reagents [other than for medical use]",
+    "harm": {
+      "id": "0014111",
+      "title": "620246 - Blood grouping reagents [other than for medical use]",
+      "conceptLink": "/ec2/concept/5964371"
+    }
+  },
+  {
+    "uri": "en/1/234033959",
+    "id": "234033959",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blood meal",
+    "harm": {
+      "id": "0044912",
+      "title": "234033959 - Blood meal",
+      "conceptLink": "/ec2/concept/5992519"
+    }
+  },
+  {
+    "uri": "en/1/309198",
+    "id": "309198",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blood powder [fertilizer]",
+    "harm": {
+      "id": "0044912",
+      "title": "309198 - Blood powder [fertilizer]",
+      "conceptLink": "/ec2/concept/5992519"
+    }
+  },
+  {
+    "uri": "en/1/620262",
+    "id": "620262",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blowing agents for use in the manufacture of expanded rubber",
+    "harm": {
+      "id": "0042972",
+      "title": "620262 - Blowing agents for use in the manufacture of expanded rubber",
+      "conceptLink": "/ec2/concept/5990736"
+    }
+  },
+  {
+    "uri": "en/1/134689083",
+    "id": "134689083",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blue vitriol",
+    "harm": {
+      "id": "0013825",
+      "title": "134689083 - Blue vitriol",
+      "conceptLink": "/ec2/concept/5964107"
+    }
+  },
+  {
+    "uri": "en/1/15213",
+    "id": "15213",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blueprint cloth",
+    "harm": {
+      "id": "0036617",
+      "title": "15213 - Blueprint cloth",
+      "conceptLink": "/ec2/concept/5984945"
+    }
+  },
+  {
+    "uri": "en/1/9226",
+    "id": "9226",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Blueprint paper",
+    "harm": {
+      "id": "0058223",
+      "title": "9226 - Blueprint paper",
+      "conceptLink": "/ec2/concept/5999724"
+    }
+  },
+  {
+    "uri": "en/1/234033961",
+    "id": "234033961",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bluestone [copper sulphate]",
+    "harm": {
+      "id": "0013825",
+      "title": "234033961 - Bluestone [copper sulphate]",
+      "conceptLink": "/ec2/concept/5964107"
+    }
+  },
+  {
+    "uri": "en/1/119520405",
+    "id": "119520405",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Body fillers for use in the aerospace industry",
+    "harm": {
+      "id": "0065035",
+      "title": "119520405 - Body fillers for use in the aerospace industry",
+      "conceptLink": "/ec2/concept/6001238"
+    }
+  },
+  {
+    "uri": "en/1/1327",
+    "id": "1327",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bond-promoters",
+    "harm": {
+      "id": "0047205",
+      "title": "1327 - Bond-promoters",
+      "conceptLink": "/ec2/concept/5994570"
+    }
+  },
+  {
+    "uri": "en/1/620288",
+    "id": "620288",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bonding agents for admixture with mortars",
+    "harm": {
+      "id": "0014112",
+      "title": "620288 - Bonding agents for admixture with mortars",
+      "conceptLink": "/ec2/concept/5964372"
+    }
+  },
+  {
+    "uri": "en/1/620275",
+    "id": "620275",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bonding agents for admixture with grouts",
+    "harm": {
+      "id": "0042973",
+      "title": "620275 - Bonding agents for admixture with grouts",
+      "conceptLink": "/ec2/concept/5990737"
+    }
+  },
+  {
+    "uri": "en/1/1325",
+    "id": "1325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bonding agents for concrete",
+    "harm": {
+      "id": "0047212",
+      "title": "1325 - Bonding agents for concrete",
+      "conceptLink": "/ec2/concept/5994577"
+    }
+  },
+  {
+    "uri": "en/1/620301",
+    "id": "620301",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bonding agents for masonry",
+    "harm": {
+      "id": "0019936",
+      "title": "620301 - Bonding agents for masonry",
+      "conceptLink": "/ec2/concept/5969700"
+    }
+  },
+  {
+    "uri": "en/1/6228",
+    "id": "6228",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bone charcoal",
+    "harm": {
+      "id": "0037002",
+      "title": "6228 - Bone charcoal",
+      "conceptLink": "/ec2/concept/5985299"
+    }
+  },
+  {
+    "uri": "en/1/309213",
+    "id": "309213",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bone meal [fertilizer]",
+    "harm": {
+      "id": "0004573",
+      "title": "309213 - Bone meal [fertilizer]",
+      "conceptLink": "/ec2/concept/5955636"
+    }
+  },
+  {
+    "uri": "en/1/5282",
+    "id": "5282",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Borax",
+    "harm": {
+      "id": "0010307",
+      "title": "5282 - Borax",
+      "conceptLink": "/ec2/concept/5960886"
+    }
+  },
+  {
+    "uri": "en/1/309228",
+    "id": "309228",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Boric acid",
+    "harm": {
+      "id": "0039201",
+      "title": "309228 - Boric acid",
+      "conceptLink": "/ec2/concept/5987297"
+    }
+  },
+  {
+    "uri": "en/1/5303",
+    "id": "5303",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Boric acid for industrial purposes",
+    "harm": {
+      "id": "0022063",
+      "title": "5303 - Boric acid for industrial purposes",
+      "conceptLink": "/ec2/concept/5971652"
+    }
+  },
+  {
+    "uri": "en/1/309243",
+    "id": "309243",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Borneol",
+    "harm": {
+      "id": "0027631",
+      "title": "309243 - Borneol",
+      "conceptLink": "/ec2/concept/5976748"
+    }
+  },
+  {
+    "uri": "en/1/309256",
+    "id": "309256",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Boron",
+    "harm": {
+      "id": "0044913",
+      "title": "309256 - Boron",
+      "conceptLink": "/ec2/concept/5992520"
+    }
+  },
+  {
+    "uri": "en/1/901170",
+    "id": "901170",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Boron phosphate",
+    "harm": {
+      "id": "0010909",
+      "title": "901170 - Boron phosphate",
+      "conceptLink": "/ec2/concept/5961441"
+    }
+  },
+  {
+    "uri": "en/1/901174",
+    "id": "901174",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Botanical extracts for use in making cosmetics",
+    "harm": {
+      "id": "0028236",
+      "title": "901174 - Botanical extracts for use in making cosmetics",
+      "conceptLink": "/ec2/concept/5977301"
+    }
+  },
+  {
+    "uri": "en/1/11696",
+    "id": "11696",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brake fluid",
+    "harm": {
+      "id": "0037128",
+      "title": "11696 - Brake fluid",
+      "conceptLink": "/ec2/concept/5985408"
+    }
+  },
+  {
+    "uri": "en/1/1062828",
+    "id": "1062828",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brake fluids",
+    "harm": {
+      "id": "0037128",
+      "title": "1062828 - Brake fluids",
+      "conceptLink": "/ec2/concept/5985408"
+    }
+  },
+  {
+    "uri": "en/1/132868415",
+    "id": "132868415",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brazing chemicals",
+    "harm": {
+      "id": "0070803",
+      "title": "132868415 - Brazing chemicals",
+      "conceptLink": "/ec2/concept/6006995"
+    }
+  },
+  {
+    "uri": "en/1/19476",
+    "id": "19476",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brazing fluxes",
+    "harm": {
+      "id": "0058916",
+      "title": "19476 - Brazing fluxes",
+      "conceptLink": "/ec2/concept/6000407"
+    }
+  },
+  {
+    "uri": "en/1/5373",
+    "id": "5373",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brazing preparations",
+    "harm": {
+      "id": "0059094",
+      "title": "5373 - Brazing preparations",
+      "conceptLink": "/ec2/concept/6000585"
+    }
+  },
+  {
+    "uri": "en/1/309272",
+    "id": "309272",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brewers' grain [fertilizer]",
+    "harm": {
+      "id": "0016104",
+      "title": "309272 - Brewers' grain [fertilizer]",
+      "conceptLink": "/ec2/concept/5966215"
+    }
+  },
+  {
+    "uri": "en/1/488251",
+    "id": "488251",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brickwork and masonry preservatives (not paints and oils)",
+    "harm": {
+      "id": "0015452",
+      "title": "488251 - Brickwork and masonry preservatives (not paints and oils)",
+      "conceptLink": "/ec2/concept/5965605"
+    }
+  },
+  {
+    "uri": "en/1/13824",
+    "id": "13824",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brickwork preservatives, except paints and oils",
+    "harm": {
+      "id": "0037245",
+      "title": "13824 - Brickwork preservatives, except paints and oils",
+      "conceptLink": "/ec2/concept/5985510"
+    }
+  },
+  {
+    "uri": "en/1/124318899",
+    "id": "124318899",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brightening chemicals (Color- [colour -] -) for industrial purposes",
+    "harm": {
+      "id": "0025961",
+      "title": "124318899 - Brightening chemicals (Color- [colour -] -) for industrial purposes",
+      "conceptLink": "/ec2/concept/5975226"
+    }
+  },
+  {
+    "uri": "en/1/132868230",
+    "id": "132868230",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Brominated vegetable oil for use as an emulsifier in the manufacture of food",
+    "harm": {
+      "id": "0065034",
+      "title": "132868230 - Brominated vegetable oil for use as an emulsifier in the manufacture of food",
+      "conceptLink": "/ec2/concept/6001237"
+    }
+  },
+  {
+    "uri": "en/1/309287",
+    "id": "309287",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bromine",
+    "harm": {
+      "id": "0004574",
+      "title": "309287 - Bromine",
+      "conceptLink": "/ec2/concept/5955637"
+    }
+  },
+  {
+    "uri": "en/1/19632",
+    "id": "19632",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bromine for chemical purposes",
+    "harm": {
+      "id": "0015622",
+      "title": "19632 - Bromine for chemical purposes",
+      "conceptLink": "/ec2/concept/5965760"
+    }
+  },
+  {
+    "uri": "en/1/309300",
+    "id": "309300",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bromobenzene",
+    "harm": {
+      "id": "0010283",
+      "title": "309300 - Bromobenzene",
+      "conceptLink": "/ec2/concept/5960863"
+    }
+  },
+  {
+    "uri": "en/1/309313",
+    "id": "309313",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Bromoform",
+    "harm": {
+      "id": "0010284",
+      "title": "309313 - Bromoform",
+      "conceptLink": "/ec2/concept/5960864"
+    }
+  },
+  {
+    "uri": "en/1/137771855",
+    "id": "137771855",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Buffer solutions for scientific purposes",
+    "harm": {
+      "id": "0073588",
+      "title": "137771855 - Buffer solutions for scientific purposes",
+      "conceptLink": "/ec2/concept/6009760"
+    }
+  },
+  {
+    "uri": "en/1/620313",
+    "id": "620313",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Buffers [chemicals]",
+    "harm": {
+      "id": "0037236",
+      "title": "620313 - Buffers [chemicals]",
+      "conceptLink": "/ec2/concept/5985502"
+    }
+  },
+  {
+    "uri": "en/1/309325",
+    "id": "309325",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Butadiene",
+    "harm": {
+      "id": "0022030",
+      "title": "309325 - Butadiene",
+      "conceptLink": "/ec2/concept/5971620"
+    }
+  },
+  {
+    "uri": "en/1/620328",
+    "id": "620328",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Butane [solidified] for industrial purposes",
+    "harm": {
+      "id": "0014113",
+      "title": "620328 - Butane [solidified] for industrial purposes",
+      "conceptLink": "/ec2/concept/5964373"
+    }
+  },
+  {
+    "uri": "en/1/309341",
+    "id": "309341",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Butanol",
+    "harm": {
+      "id": "0041058",
+      "title": "309341 - Butanol",
+      "conceptLink": "/ec2/concept/5988998"
+    }
+  },
+  {
+    "uri": "en/1/309355",
+    "id": "309355",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Butyl acetate",
+    "harm": {
+      "id": "0000569",
+      "title": "309355 - Butyl acetate",
+      "conceptLink": "/ec2/concept/5952001"
+    }
+  },
+  {
+    "uri": "en/1/16180",
+    "id": "16180",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "By-products of the processing of cereals for industrial purposes",
+    "harm": {
+      "id": "0043747",
+      "title": "16180 - By-products of the processing of cereals for industrial purposes",
+      "conceptLink": "/ec2/concept/5991446"
+    }
+  },
+  {
+    "uri": "en/1/309370",
+    "id": "309370",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Cacodyl chloride",
+    "harm": {
+      "id": "0041059",
+      "title": "309370 - Cacodyl chloride",
+      "conceptLink": "/ec2/concept/5988999"
+    }
+  },
+  {
+    "uri": "en/1/136006981",
+    "id": "136006981",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Cadmium chloride",
+    "harm": {
+      "id": "0073458",
+      "title": "136006981 - Cadmium chloride",
+      "conceptLink": "/ec2/concept/6009631"
+    }
+  },
+  {
+    "uri": "en/1/309383",
+    "id": "309383",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Cadmium sulphide",
+    "harm": {
+      "id": "0041060",
+      "title": "309383 - Cadmium sulphide",
+      "conceptLink": "/ec2/concept/5989000"
+    }
+  },
+  {
+    "uri": "en/1/6119",
+    "id": "6119",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Caesium",
+    "harm": {
+      "id": "0006859",
+      "title": "6119 - Caesium",
+      "conceptLink": "/ec2/concept/5957732"
+    }
+  },
+  {
+    "uri": "en/1/890391",
+    "id": "890391",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Caffeine and caffeine extract used in industry",
+    "harm": {
+      "id": "0011314",
+      "title": "890391 - Caffeine and caffeine extract used in industry",
+      "conceptLink": "/ec2/concept/5961811"
+    }
+  },
+  {
+    "uri": "en/1/620356",
+    "id": "620356",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Calcined kaolin clay for use in filling newsprint paper",
+    "harm": {
+      "id": "0008221",
+      "title": "620356 - Calcined kaolin clay for use in filling newsprint paper",
+      "conceptLink": "/ec2/concept/5958978"
+    }
+  },
+  {
+    "uri": "en/1/309396",
+    "id": "309396",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Calcined kaolin for industrial purposes",
+    "harm": {
+      "id": "0029475",
+      "title": "309396 - Calcined kaolin for industrial purposes",
+      "conceptLink": "/ec2/concept/5978439"
+    }
+  },
+  {
+    "uri": "en/1/309409",
+    "id": "309409",
+    "lang": "en",
+    "classNumber": "1",
+    "term": "Calcined potassium fertilizer",
+    "harm": {
+      "id": "0035260",
+      "title": "309409 - Calcined potassium fertilizer",
+      "conceptLink": "/ec2/concept/5983714"
+    }
+  }
+]

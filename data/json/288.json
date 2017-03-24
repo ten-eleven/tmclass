@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/715292",
+    "id": "715292",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopaedic strappings",
+    "harm": {
+      "id": "0021486",
+      "title": "715292 - Orthopaedic strappings",
+      "conceptLink": "/ec2/concept/5971116"
+    }
+  },
+  {
+    "uri": "en/10/715101",
+    "id": "715101",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopaedic supports",
+    "harm": {
+      "id": "0024064",
+      "title": "715101 - Orthopaedic supports",
+      "conceptLink": "/ec2/concept/5973487"
+    }
+  },
+  {
+    "uri": "en/10/715317",
+    "id": "715317",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopaedic supports for heels",
+    "harm": {
+      "id": "0015590",
+      "title": "715317 - Orthopaedic supports for heels",
+      "conceptLink": "/ec2/concept/5965731"
+    }
+  },
+  {
+    "uri": "en/10/715304",
+    "id": "715304",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopaedic supports for feet",
+    "harm": {
+      "id": "0038678",
+      "title": "715304 - Orthopaedic supports for feet",
+      "conceptLink": "/ec2/concept/5986824"
+    }
+  },
+  {
+    "uri": "en/10/131118316",
+    "id": "131118316",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic and mobility aids",
+    "harm": {
+      "id": "0047788",
+      "title": "131118316 - Orthopedic and mobility aids",
+      "conceptLink": "/ec2/concept/5995063"
+    }
+  },
+  {
+    "uri": "en/10/334732",
+    "id": "334732",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic apparatus for talipes",
+    "harm": {
+      "id": "0027598",
+      "title": "334732 - Orthopedic apparatus for talipes",
+      "conceptLink": "/ec2/concept/5976716"
+    }
+  },
+  {
+    "uri": "en/10/163804",
+    "id": "163804",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic articles",
+    "harm": {
+      "id": "0040653",
+      "title": "163804 - Orthopedic articles",
+      "conceptLink": "/ec2/concept/5988632"
+    }
+  },
+  {
+    "uri": "en/10/164137",
+    "id": "164137",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic belts",
+    "harm": {
+      "id": "0045835",
+      "title": "164137 - Orthopedic belts",
+      "conceptLink": "/ec2/concept/5993366"
+    }
+  },
+  {
+    "uri": "en/10/905773",
+    "id": "905773",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic cushions",
+    "harm": {
+      "id": "0035744",
+      "title": "905773 - Orthopedic cushions",
+      "conceptLink": "/ec2/concept/5984154"
+    }
+  },
+  {
+    "uri": "en/10/120895796",
+    "id": "120895796",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic fixation devices",
+    "harm": {
+      "id": "0066129",
+      "title": "120895796 - Orthopedic fixation devices",
+      "conceptLink": "/ec2/concept/6002332"
+    }
+  },
+  {
+    "uri": "en/10/164339",
+    "id": "164339",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic footwear",
+    "harm": {
+      "id": "0011997",
+      "title": "164339 - Orthopedic footwear",
+      "conceptLink": "/ec2/concept/5962443"
+    }
+  },
+  {
+    "uri": "en/10/164334",
+    "id": "164334",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic footwear [shoes]",
+    "harm": {
+      "id": "0011997",
+      "title": "164334 - Orthopedic footwear [shoes]",
+      "conceptLink": "/ec2/concept/5962443"
+    }
+  },
+  {
+    "uri": "en/10/715244",
+    "id": "715244",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic implants",
+    "harm": {
+      "id": "0021487",
+      "title": "715244 - Orthopedic implants",
+      "conceptLink": "/ec2/concept/5971117"
+    }
+  },
+  {
+    "uri": "en/10/168451",
+    "id": "168451",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic insoles",
+    "harm": {
+      "id": "0057348",
+      "title": "168451 - Orthopedic insoles",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/715330",
+    "id": "715330",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic joint implant prostheses",
+    "harm": {
+      "id": "0015591",
+      "title": "715330 - Orthopedic joint implant prostheses",
+      "conceptLink": "/ec2/concept/5965732"
+    }
+  },
+  {
+    "uri": "en/10/131061877",
+    "id": "131061877",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic joint implants made of artificial materials",
+    "harm": {
+      "id": "0032954",
+      "title": "131061877 - Orthopedic joint implants made of artificial materials",
+      "conceptLink": "/ec2/concept/5981612"
+    }
+  },
+  {
+    "uri": "en/10/405004",
+    "id": "405004",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic joint implants",
+    "harm": {
+      "id": "0032954",
+      "title": "405004 - Orthopedic joint implants",
+      "conceptLink": "/ec2/concept/5981612"
+    }
+  },
+  {
+    "uri": "en/10/715342",
+    "id": "715342",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic prostheses",
+    "harm": {
+      "id": "0004029",
+      "title": "715342 - Orthopedic prostheses",
+      "conceptLink": "/ec2/concept/5955129"
+    }
+  },
+  {
+    "uri": "en/10/168448",
+    "id": "168448",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic soles",
+    "harm": {
+      "id": "0057349",
+      "title": "168448 - Orthopedic soles",
+      "conceptLink": "/ec2/concept/5998856"
+    }
+  },
+  {
+    "uri": "en/10/405020",
+    "id": "405020",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthopedic support bandages",
+    "harm": {
+      "id": "0038752",
+      "title": "405020 - Orthopedic support bandages",
+      "conceptLink": "/ec2/concept/5986891"
+    }
+  },
+  {
+    "uri": "en/10/3245042",
+    "id": "3245042",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthoses",
+    "harm": {
+      "id": "0050473",
+      "title": "3245042 - Orthoses",
+      "conceptLink": "/ec2/concept/5995679"
+    }
+  },
+  {
+    "uri": "en/10/164337",
+    "id": "164337",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthotic footwear",
+    "harm": {
+      "id": "0011997",
+      "title": "164337 - Orthotic footwear",
+      "conceptLink": "/ec2/concept/5962443"
+    }
+  },
+  {
+    "uri": "en/10/405047",
+    "id": "405047",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthotic inserts for footwear",
+    "harm": {
+      "id": "0057348",
+      "title": "405047 - Orthotic inserts for footwear",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/405050",
+    "id": "405050",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Orthotic insoles",
+    "harm": {
+      "id": "0057348",
+      "title": "405050 - Orthotic insoles",
+      "conceptLink": "/ec2/concept/5998855"
+    }
+  },
+  {
+    "uri": "en/10/334744",
+    "id": "334744",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Osseous implants",
+    "harm": {
+      "id": "0016065",
+      "title": "334744 - Osseous implants",
+      "conceptLink": "/ec2/concept/5966181"
+    }
+  },
+  {
+    "uri": "en/10/131061888",
+    "id": "131061888",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Osseous implants made of artificial materials",
+    "harm": {
+      "id": "0016065",
+      "title": "131061888 - Osseous implants made of artificial materials",
+      "conceptLink": "/ec2/concept/5966181"
+    }
+  },
+  {
+    "uri": "en/10/715354",
+    "id": "715354",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ostomy bags",
+    "harm": {
+      "id": "0002945",
+      "title": "715354 - Ostomy bags",
+      "conceptLink": "/ec2/concept/5954141"
+    }
+  },
+  {
+    "uri": "en/10/715367",
+    "id": "715367",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ostomy instruments",
+    "harm": {
+      "id": "0015592",
+      "title": "715367 - Ostomy instruments",
+      "conceptLink": "/ec2/concept/5965733"
+    }
+  },
+  {
+    "uri": "en/10/706624",
+    "id": "706624",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ostomy pouches",
+    "harm": {
+      "id": "0002945",
+      "title": "706624 - Ostomy pouches",
+      "conceptLink": "/ec2/concept/5954141"
+    }
+  },
+  {
+    "uri": "en/10/715382",
+    "id": "715382",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ostomy seals",
+    "harm": {
+      "id": "0044438",
+      "title": "715382 - Ostomy seals",
+      "conceptLink": "/ec2/concept/5992082"
+    }
+  },
+  {
+    "uri": "en/10/715395",
+    "id": "715395",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Otological implants",
+    "harm": {
+      "id": "0002997",
+      "title": "715395 - Otological implants",
+      "conceptLink": "/ec2/concept/5954191"
+    }
+  },
+  {
+    "uri": "en/10/715408",
+    "id": "715408",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Otological prostheses",
+    "harm": {
+      "id": "0020413",
+      "title": "715408 - Otological prostheses",
+      "conceptLink": "/ec2/concept/5970139"
+    }
+  },
+  {
+    "uri": "en/10/715421",
+    "id": "715421",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Otological prosthetic appliances",
+    "harm": {
+      "id": "0037662",
+      "title": "715421 - Otological prosthetic appliances",
+      "conceptLink": "/ec2/concept/5985889"
+    }
+  },
+  {
+    "uri": "en/10/405095",
+    "id": "405095",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Otoscopes",
+    "harm": {
+      "id": "0009859",
+      "title": "405095 - Otoscopes",
+      "conceptLink": "/ec2/concept/5960479"
+    }
+  },
+  {
+    "uri": "en/10/715434",
+    "id": "715434",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen concentration analyzers for medical use",
+    "harm": {
+      "id": "0037663",
+      "title": "715434 - Oxygen concentration analyzers for medical use",
+      "conceptLink": "/ec2/concept/5985890"
+    }
+  },
+  {
+    "uri": "en/10/715447",
+    "id": "715447",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen concentration monitors for medical use",
+    "harm": {
+      "id": "0043430",
+      "title": "715447 - Oxygen concentration monitors for medical use",
+      "conceptLink": "/ec2/concept/5991158"
+    }
+  },
+  {
+    "uri": "en/10/405110",
+    "id": "405110",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen concentrators for medical applications",
+    "harm": {
+      "id": "0044518",
+      "title": "405110 - Oxygen concentrators for medical applications",
+      "conceptLink": "/ec2/concept/5992158"
+    }
+  },
+  {
+    "uri": "en/10/120895789",
+    "id": "120895789",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen concentrators for medical use",
+    "harm": {
+      "id": "0044518",
+      "title": "120895789 - Oxygen concentrators for medical use",
+      "conceptLink": "/ec2/concept/5992158"
+    }
+  },
+  {
+    "uri": "en/10/715460",
+    "id": "715460",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen electrodes for medical use",
+    "harm": {
+      "id": "0008731",
+      "title": "715460 - Oxygen electrodes for medical use",
+      "conceptLink": "/ec2/concept/5959435"
+    }
+  },
+  {
+    "uri": "en/10/137738520",
+    "id": "137738520",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen inhalators for therapeutic purposes",
+    "harm": {
+      "id": "0071622",
+      "title": "137738520 - Oxygen inhalators for therapeutic purposes",
+      "conceptLink": "/ec2/concept/6007811"
+    }
+  },
+  {
+    "uri": "en/10/905775",
+    "id": "905775",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen inhalers for medical purposes sold empty",
+    "harm": {
+      "id": "0012620",
+      "title": "905775 - Oxygen inhalers for medical purposes sold empty",
+      "conceptLink": "/ec2/concept/5963011"
+    }
+  },
+  {
+    "uri": "en/10/120895785",
+    "id": "120895785",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen inhalers for medical use",
+    "harm": {
+      "id": "0066128",
+      "title": "120895785 - Oxygen inhalers for medical use",
+      "conceptLink": "/ec2/concept/6002331"
+    }
+  },
+  {
+    "uri": "en/10/405124",
+    "id": "405124",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen masks for medical use",
+    "harm": {
+      "id": "0038753",
+      "title": "405124 - Oxygen masks for medical use",
+      "conceptLink": "/ec2/concept/5986892"
+    }
+  },
+  {
+    "uri": "en/10/405137",
+    "id": "405137",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen monitors for medical use",
+    "harm": {
+      "id": "0004138",
+      "title": "405137 - Oxygen monitors for medical use",
+      "conceptLink": "/ec2/concept/5955231"
+    }
+  },
+  {
+    "uri": "en/10/715473",
+    "id": "715473",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygen sensors for medical use",
+    "harm": {
+      "id": "0037664",
+      "title": "715473 - Oxygen sensors for medical use",
+      "conceptLink": "/ec2/concept/5985891"
+    }
+  },
+  {
+    "uri": "en/10/715485",
+    "id": "715485",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Oxygenators for medical use",
+    "harm": {
+      "id": "0043431",
+      "title": "715485 - Oxygenators for medical use",
+      "conceptLink": "/ec2/concept/5991159"
+    }
+  },
+  {
+    "uri": "en/10/715500",
+    "id": "715500",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ozone generators for use in administering ozone therapy",
+    "harm": {
+      "id": "0014583",
+      "title": "715500 - Ozone generators for use in administering ozone therapy",
+      "conceptLink": "/ec2/concept/5964812"
+    }
+  },
+  {
+    "uri": "en/10/715513",
+    "id": "715513",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ozone monitors for use in administering ozone therapy",
+    "harm": {
+      "id": "0014584",
+      "title": "715513 - Ozone monitors for use in administering ozone therapy",
+      "conceptLink": "/ec2/concept/5964813"
+    }
+  },
+  {
+    "uri": "en/10/715527",
+    "id": "715527",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ozonisers [ozonators] for medical use",
+    "harm": {
+      "id": "0026069",
+      "title": "715527 - Ozonisers [ozonators] for medical use",
+      "conceptLink": "/ec2/concept/5975325"
+    }
+  },
+  {
+    "uri": "en/10/715528",
+    "id": "715528",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Ozonizers [ozonators] for medical use",
+    "harm": {
+      "id": "0026069",
+      "title": "715528 - Ozonizers [ozonators] for medical use",
+      "conceptLink": "/ec2/concept/5975325"
+    }
+  },
+  {
+    "uri": "en/10/403534",
+    "id": "403534",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pacemaker leads",
+    "harm": {
+      "id": "0029121",
+      "title": "403534 - Pacemaker leads",
+      "conceptLink": "/ec2/concept/5978127"
+    }
+  },
+  {
+    "uri": "en/10/169429",
+    "id": "169429",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pacemakers",
+    "harm": {
+      "id": "0046918",
+      "title": "169429 - Pacemakers",
+      "conceptLink": "/ec2/concept/5994307"
+    }
+  },
+  {
+    "uri": "en/10/10780519",
+    "id": "10780519",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pacifier clips",
+    "harm": {
+      "id": "0066176",
+      "title": "10780519 - Pacifier clips",
+      "conceptLink": "/ec2/concept/6002379"
+    }
+  },
+  {
+    "uri": "en/10/167518",
+    "id": "167518",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pacifiers [babies dummies]",
+    "harm": {
+      "id": "0023576",
+      "title": "167518 - Pacifiers [babies dummies]",
+      "conceptLink": "/ec2/concept/5973036"
+    }
+  },
+  {
+    "uri": "en/10/167512",
+    "id": "167512",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pacifiers for babies",
+    "harm": {
+      "id": "0023576",
+      "title": "167512 - Pacifiers for babies",
+      "conceptLink": "/ec2/concept/5973036"
+    }
+  },
+  {
+    "uri": "en/10/715549",
+    "id": "715549",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Padded cushions for medical purposes",
+    "harm": {
+      "id": "0008732",
+      "title": "715549 - Padded cushions for medical purposes",
+      "conceptLink": "/ec2/concept/5959436"
+    }
+  },
+  {
+    "uri": "en/10/715561",
+    "id": "715561",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Padded neck supports [cushions] for surgical use",
+    "harm": {
+      "id": "0031869",
+      "title": "715561 - Padded neck supports [cushions] for surgical use",
+      "conceptLink": "/ec2/concept/5980624"
+    }
+  },
+  {
+    "uri": "en/10/715577",
+    "id": "715577",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Padded neck supports for surgical use",
+    "harm": {
+      "id": "0008733",
+      "title": "715577 - Padded neck supports for surgical use",
+      "conceptLink": "/ec2/concept/5959437"
+    }
+  },
+  {
+    "uri": "en/10/405149",
+    "id": "405149",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Padding for orthopedic casts",
+    "harm": {
+      "id": "0010577",
+      "title": "405149 - Padding for orthopedic casts",
+      "conceptLink": "/ec2/concept/5961139"
+    }
+  },
+  {
+    "uri": "en/10/165915",
+    "id": "165915",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads (Abdominal -)",
+    "harm": {
+      "id": "0006408",
+      "title": "165915 - Pads (Abdominal -)",
+      "conceptLink": "/ec2/concept/5957323"
+    }
+  },
+  {
+    "uri": "en/10/124943070",
+    "id": "124943070",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads (Abdominal -) for medical use",
+    "harm": {
+      "id": "0018095",
+      "title": "124943070 - Pads (Abdominal -) for medical use",
+      "conceptLink": "/ec2/concept/5968019"
+    }
+  },
+  {
+    "uri": "en/10/124943087",
+    "id": "124943087",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads (Abdominal -) for surgical use",
+    "harm": {
+      "id": "0043997",
+      "title": "124943087 - Pads (Abdominal -) for surgical use",
+      "conceptLink": "/ec2/concept/5991678"
+    }
+  },
+  {
+    "uri": "en/10/715632",
+    "id": "715632",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads for inhibiting snoring",
+    "harm": {
+      "id": "0009322",
+      "title": "715632 - Pads for inhibiting snoring",
+      "conceptLink": "/ec2/concept/5959991"
+    }
+  },
+  {
+    "uri": "en/10/715648",
+    "id": "715648",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads for medical use in applying a fluid to the skin",
+    "harm": {
+      "id": "0003594",
+      "title": "715648 - Pads for medical use in applying a fluid to the skin",
+      "conceptLink": "/ec2/concept/5954739"
+    }
+  },
+  {
+    "uri": "en/10/715660",
+    "id": "715660",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads for seats for wheelchairs [for medical use]",
+    "harm": {
+      "id": "0009323",
+      "title": "715660 - Pads for seats for wheelchairs [for medical use]",
+      "conceptLink": "/ec2/concept/5959992"
+    }
+  },
+  {
+    "uri": "en/10/715675",
+    "id": "715675",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads for shoes [orthopaedic]",
+    "harm": {
+      "id": "0046368",
+      "title": "715675 - Pads for shoes [orthopaedic]",
+      "conceptLink": "/ec2/concept/5993823"
+    }
+  },
+  {
+    "uri": "en/10/715690",
+    "id": "715690",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads for slippers [orthopaedic]",
+    "harm": {
+      "id": "0003595",
+      "title": "715690 - Pads for slippers [orthopaedic]",
+      "conceptLink": "/ec2/concept/5954740"
+    }
+  },
+  {
+    "uri": "en/10/164281",
+    "id": "164281",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads (Heating -), electric, for medical purposes",
+    "harm": {
+      "id": "0047504",
+      "title": "164281 - Pads (Heating -), electric, for medical purposes",
+      "conceptLink": "/ec2/concept/5994806"
+    }
+  },
+  {
+    "uri": "en/10/169163",
+    "id": "169163",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pads [pouches] for preventing pressure sores on patient bodies",
+    "harm": {
+      "id": "0011761",
+      "title": "169163 - Pads [pouches] for preventing pressure sores on patient bodies",
+      "conceptLink": "/ec2/concept/5962223"
+    }
+  },
+  {
+    "uri": "en/10/715706",
+    "id": "715706",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Paediatric pacifiers",
+    "harm": {
+      "id": "0003596",
+      "title": "715706 - Paediatric pacifiers",
+      "conceptLink": "/ec2/concept/5954741"
+    }
+  },
+  {
+    "uri": "en/10/136087285",
+    "id": "136087285",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Papillotomes",
+    "harm": {
+      "id": "0071624",
+      "title": "136087285 - Papillotomes",
+      "conceptLink": "/ec2/concept/6007813"
+    }
+  },
+  {
+    "uri": "en/10/715719",
+    "id": "715719",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Parallel bars for medical therapeutic use",
+    "harm": {
+      "id": "0043998",
+      "title": "715719 - Parallel bars for medical therapeutic use",
+      "conceptLink": "/ec2/concept/5991679"
+    }
+  },
+  {
+    "uri": "en/10/715732",
+    "id": "715732",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Particle analyzers for medical use",
+    "harm": {
+      "id": "0021020",
+      "title": "715732 - Particle analyzers for medical use",
+      "conceptLink": "/ec2/concept/5970696"
+    }
+  },
+  {
+    "uri": "en/10/405200",
+    "id": "405200",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient examination gowns",
+    "harm": {
+      "id": "0010578",
+      "title": "405200 - Patient examination gowns",
+      "conceptLink": "/ec2/concept/5961140"
+    }
+  },
+  {
+    "uri": "en/10/405212",
+    "id": "405212",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient examination tables",
+    "harm": {
+      "id": "0004856",
+      "title": "405212 - Patient examination tables",
+      "conceptLink": "/ec2/concept/5955904"
+    }
+  },
+  {
+    "uri": "en/10/905852",
+    "id": "905852",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient litters in the nature of stretchers",
+    "harm": {
+      "id": "0042776",
+      "title": "905852 - Patient litters in the nature of stretchers",
+      "conceptLink": "/ec2/concept/5990557"
+    }
+  },
+  {
+    "uri": "en/10/715746",
+    "id": "715746",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient monitoring instruments",
+    "harm": {
+      "id": "0003597",
+      "title": "715746 - Patient monitoring instruments",
+      "conceptLink": "/ec2/concept/5954742"
+    }
+  },
+  {
+    "uri": "en/10/905853",
+    "id": "905853",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient monitoring sensors and alarms",
+    "harm": {
+      "id": "0037050",
+      "title": "905853 - Patient monitoring sensors and alarms",
+      "conceptLink": "/ec2/concept/5985341"
+    }
+  },
+  {
+    "uri": "en/10/405229",
+    "id": "405229",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient positioning tools",
+    "harm": {
+      "id": "0027950",
+      "title": "405229 - Patient positioning tools",
+      "conceptLink": "/ec2/concept/5977039"
+    }
+  },
+  {
+    "uri": "en/10/405249",
+    "id": "405249",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient safety restraints",
+    "harm": {
+      "id": "0045216",
+      "title": "405249 - Patient safety restraints",
+      "conceptLink": "/ec2/concept/5992799"
+    }
+  },
+  {
+    "uri": "en/10/163747",
+    "id": "163747",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient stretchers",
+    "harm": {
+      "id": "0057864",
+      "title": "163747 - Patient stretchers",
+      "conceptLink": "/ec2/concept/5999368"
+    }
+  },
+  {
+    "uri": "en/10/405177",
+    "id": "405177",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient treatment tables",
+    "harm": {
+      "id": "0035279",
+      "title": "405177 - Patient treatment tables",
+      "conceptLink": "/ec2/concept/5983731"
+    }
+  },
+  {
+    "uri": "en/10/715761",
+    "id": "715761",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Patient ventilation instruments",
+    "harm": {
+      "id": "0032426",
+      "title": "715761 - Patient ventilation instruments",
+      "conceptLink": "/ec2/concept/5981130"
+    }
+  },
+  {
+    "uri": "en/10/715773",
+    "id": "715773",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Peep activators being parts of medical ventilators for maintaining pressure",
+    "harm": {
+      "id": "0032427",
+      "title": "715773 - Peep activators being parts of medical ventilators for maintaining pressure",
+      "conceptLink": "/ec2/concept/5981131"
+    }
+  },
+  {
+    "uri": "en/10/120895867",
+    "id": "120895867",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pelvic clamps",
+    "harm": {
+      "id": "0066141",
+      "title": "120895867 - Pelvic clamps",
+      "conceptLink": "/ec2/concept/6002344"
+    }
+  },
+  {
+    "uri": "en/10/715786",
+    "id": "715786",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pelvic rests",
+    "harm": {
+      "id": "0003598",
+      "title": "715786 - Pelvic rests",
+      "conceptLink": "/ec2/concept/5954743"
+    }
+  },
+  {
+    "uri": "en/10/334760",
+    "id": "334760",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pelvimeters",
+    "harm": {
+      "id": "0033354",
+      "title": "334760 - Pelvimeters",
+      "conceptLink": "/ec2/concept/5981982"
+    }
+  },
+  {
+    "uri": "en/10/715798",
+    "id": "715798",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Penile sheaths",
+    "harm": {
+      "id": "0008533",
+      "title": "715798 - Penile sheaths",
+      "conceptLink": "/ec2/concept/5959260"
+    }
+  },
+  {
+    "uri": "en/10/497022",
+    "id": "497022",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Penis enlargers, being adult sexual aids",
+    "harm": {
+      "id": "0040986",
+      "title": "497022 - Penis enlargers, being adult sexual aids",
+      "conceptLink": "/ec2/concept/5988929"
+    }
+  },
+  {
+    "uri": "en/10/131040941",
+    "id": "131040941",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Percussion hammers for diagnostic purposes",
+    "harm": {
+      "id": "0055923",
+      "title": "131040941 - Percussion hammers for diagnostic purposes",
+      "conceptLink": "/ec2/concept/5997297"
+    }
+  },
+  {
+    "uri": "en/10/715811",
+    "id": "715811",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Percutaneous insertion trays",
+    "harm": {
+      "id": "0031687",
+      "title": "715811 - Percutaneous insertion trays",
+      "conceptLink": "/ec2/concept/5980459"
+    }
+  },
+  {
+    "uri": "en/10/715823",
+    "id": "715823",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Percutaneous renal access sets",
+    "harm": {
+      "id": "0025886",
+      "title": "715823 - Percutaneous renal access sets",
+      "conceptLink": "/ec2/concept/5975157"
+    }
+  },
+  {
+    "uri": "en/10/715838",
+    "id": "715838",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Periodontal irrigators for use in dental treatment",
+    "harm": {
+      "id": "0014395",
+      "title": "715838 - Periodontal irrigators for use in dental treatment",
+      "conceptLink": "/ec2/concept/5964639"
+    }
+  },
+  {
+    "uri": "en/10/334773",
+    "id": "334773",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Periosteal elevators",
+    "harm": {
+      "id": "0016066",
+      "title": "334773 - Periosteal elevators",
+      "conceptLink": "/ec2/concept/5966182"
+    }
+  },
+  {
+    "uri": "en/10/715851",
+    "id": "715851",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Periurethral prostheses",
+    "harm": {
+      "id": "0043265",
+      "title": "715851 - Periurethral prostheses",
+      "conceptLink": "/ec2/concept/5991006"
+    }
+  },
+  {
+    "uri": "en/10/715864",
+    "id": "715864",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Permanent magnets for medical use",
+    "harm": {
+      "id": "0014396",
+      "title": "715864 - Permanent magnets for medical use",
+      "conceptLink": "/ec2/concept/5964640"
+    }
+  },
+  {
+    "uri": "en/10/715876",
+    "id": "715876",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Permanent magnets for therapeutic use",
+    "harm": {
+      "id": "0008534",
+      "title": "715876 - Permanent magnets for therapeutic use",
+      "conceptLink": "/ec2/concept/5959261"
+    }
+  },
+  {
+    "uri": "en/10/715889",
+    "id": "715889",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Personal hip prosthesis",
+    "harm": {
+      "id": "0002829",
+      "title": "715889 - Personal hip prosthesis",
+      "conceptLink": "/ec2/concept/5954035"
+    }
+  },
+  {
+    "uri": "en/10/162805",
+    "id": "162805",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pessaries",
+    "harm": {
+      "id": "0017514",
+      "title": "162805 - Pessaries",
+      "conceptLink": "/ec2/concept/5967488"
+    }
+  },
+  {
+    "uri": "en/10/715901",
+    "id": "715901",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Pharmaceutical instruments",
+    "harm": {
+      "id": "0031688",
+      "title": "715901 - Pharmaceutical instruments",
+      "conceptLink": "/ec2/concept/5980460"
+    }
+  }
+]

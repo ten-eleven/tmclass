@@ -1,0 +1,1202 @@
+[
+  {
+    "uri": "en/10/707337",
+    "id": "707337",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cutlery for surgical purposes",
+    "harm": {
+      "id": "0024649",
+      "title": "707337 - Cutlery for surgical purposes",
+      "conceptLink": "/ec2/concept/5974025"
+    }
+  },
+  {
+    "uri": "en/10/164806",
+    "id": "164806",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cutlery [surgical]",
+    "harm": {
+      "id": "0058079",
+      "title": "164806 - Cutlery [surgical]",
+      "conceptLink": "/ec2/concept/5999580"
+    }
+  },
+  {
+    "uri": "en/10/136983908",
+    "id": "136983908",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cutting discs for dental applications",
+    "harm": {
+      "id": "0060554",
+      "title": "136983908 - Cutting discs for dental applications",
+      "conceptLink": "/ec2/concept/5998526"
+    }
+  },
+  {
+    "uri": "en/10/120895306",
+    "id": "120895306",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cutting discs for dental use",
+    "harm": {
+      "id": "0060553",
+      "title": "120895306 - Cutting discs for dental use",
+      "conceptLink": "/ec2/concept/5998525"
+    }
+  },
+  {
+    "uri": "en/10/707354",
+    "id": "707354",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cystomeric apparatus",
+    "harm": {
+      "id": "0007263",
+      "title": "707354 - Cystomeric apparatus",
+      "conceptLink": "/ec2/concept/5958106"
+    }
+  },
+  {
+    "uri": "en/10/707355",
+    "id": "707355",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cystomeric instruments",
+    "harm": {
+      "id": "0007263",
+      "title": "707355 - Cystomeric instruments",
+      "conceptLink": "/ec2/concept/5958106"
+    }
+  },
+  {
+    "uri": "en/10/707376",
+    "id": "707376",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cytofluorometric apparatus",
+    "harm": {
+      "id": "0013082",
+      "title": "707376 - Cytofluorometric apparatus",
+      "conceptLink": "/ec2/concept/5963430"
+    }
+  },
+  {
+    "uri": "en/10/707388",
+    "id": "707388",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Cytology brushes",
+    "harm": {
+      "id": "0013083",
+      "title": "707388 - Cytology brushes",
+      "conceptLink": "/ec2/concept/5963431"
+    }
+  },
+  {
+    "uri": "en/10/167669",
+    "id": "167669",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Deafness (Apparatus for the treatment of -)",
+    "harm": {
+      "id": "0029133",
+      "title": "167669 - Deafness (Apparatus for the treatment of -)",
+      "conceptLink": "/ec2/concept/5978139"
+    }
+  },
+  {
+    "uri": "en/10/707403",
+    "id": "707403",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Deep heat massage apparatus",
+    "harm": {
+      "id": "0041972",
+      "title": "707403 - Deep heat massage apparatus",
+      "conceptLink": "/ec2/concept/5989830"
+    }
+  },
+  {
+    "uri": "en/10/707418",
+    "id": "707418",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Defibrillator monitors",
+    "harm": {
+      "id": "0041973",
+      "title": "707418 - Defibrillator monitors",
+      "conceptLink": "/ec2/concept/5989831"
+    }
+  },
+  {
+    "uri": "en/10/169726",
+    "id": "169726",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Defibrillators",
+    "harm": {
+      "id": "0023762",
+      "title": "169726 - Defibrillators",
+      "conceptLink": "/ec2/concept/5973204"
+    }
+  },
+  {
+    "uri": "en/10/165050",
+    "id": "165050",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental apparatus",
+    "harm": {
+      "id": "0035342",
+      "title": "165050 - Dental apparatus",
+      "conceptLink": "/ec2/concept/5983788"
+    }
+  },
+  {
+    "uri": "en/10/165053",
+    "id": "165053",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental apparatus and instruments",
+    "harm": {
+      "id": "0035342",
+      "title": "165053 - Dental apparatus and instruments",
+      "conceptLink": "/ec2/concept/5983788"
+    }
+  },
+  {
+    "uri": "en/10/168739",
+    "id": "168739",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental apparatus, electric",
+    "harm": {
+      "id": "0020118",
+      "title": "168739 - Dental apparatus, electric",
+      "conceptLink": "/ec2/concept/5969870"
+    }
+  },
+  {
+    "uri": "en/10/707433",
+    "id": "707433",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental apparatus for milling",
+    "harm": {
+      "id": "0018921",
+      "title": "707433 - Dental apparatus for milling",
+      "conceptLink": "/ec2/concept/5968787"
+    }
+  },
+  {
+    "uri": "en/10/707447",
+    "id": "707447",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental apparatus for paralleling",
+    "harm": {
+      "id": "0030420",
+      "title": "707447 - Dental apparatus for paralleling",
+      "conceptLink": "/ec2/concept/5979312"
+    }
+  },
+  {
+    "uri": "en/10/403215",
+    "id": "403215",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental articulators",
+    "harm": {
+      "id": "0012798",
+      "title": "403215 - Dental articulators",
+      "conceptLink": "/ec2/concept/5963175"
+    }
+  },
+  {
+    "uri": "en/10/403292",
+    "id": "403292",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental bite trays",
+    "harm": {
+      "id": "0000249",
+      "title": "403292 - Dental bite trays",
+      "conceptLink": "/ec2/concept/5951719"
+    }
+  },
+  {
+    "uri": "en/10/14545507",
+    "id": "14545507",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental braces",
+    "harm": {
+      "id": "0058944",
+      "title": "14545507 - Dental braces",
+      "conceptLink": "/ec2/concept/6000435"
+    }
+  },
+  {
+    "uri": "en/10/707459",
+    "id": "707459",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental bridges",
+    "harm": {
+      "id": "0016054",
+      "title": "707459 - Dental bridges",
+      "conceptLink": "/ec2/concept/5966171"
+    }
+  },
+  {
+    "uri": "en/10/333846",
+    "id": "333846",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental broaches",
+    "harm": {
+      "id": "0004127",
+      "title": "333846 - Dental broaches",
+      "conceptLink": "/ec2/concept/5955221"
+    }
+  },
+  {
+    "uri": "en/10/164998",
+    "id": "164998",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental burrs",
+    "harm": {
+      "id": "0057612",
+      "title": "164998 - Dental burrs",
+      "conceptLink": "/ec2/concept/5999117"
+    }
+  },
+  {
+    "uri": "en/10/5425359",
+    "id": "5425359",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental burs",
+    "harm": {
+      "id": "0057612",
+      "title": "5425359 - Dental burs",
+      "conceptLink": "/ec2/concept/5999117"
+    }
+  },
+  {
+    "uri": "en/10/707507",
+    "id": "707507",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental caps",
+    "harm": {
+      "id": "0057816",
+      "title": "707507 - Dental caps",
+      "conceptLink": "/ec2/concept/5999320"
+    }
+  },
+  {
+    "uri": "en/10/164186",
+    "id": "164186",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental chairs",
+    "harm": {
+      "id": "0007748",
+      "title": "164186 - Dental chairs",
+      "conceptLink": "/ec2/concept/5958544"
+    }
+  },
+  {
+    "uri": "en/10/403802",
+    "id": "403802",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental clips for securing pre-existing dentures",
+    "harm": {
+      "id": "0034906",
+      "title": "403802 - Dental clips for securing pre-existing dentures",
+      "conceptLink": "/ec2/concept/5983394"
+    }
+  },
+  {
+    "uri": "en/10/707478",
+    "id": "707478",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental colour guides",
+    "harm": {
+      "id": "0044885",
+      "title": "707478 - Dental colour guides",
+      "conceptLink": "/ec2/concept/5992494"
+    }
+  },
+  {
+    "uri": "en/10/707506",
+    "id": "707506",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental crowns",
+    "harm": {
+      "id": "0057817",
+      "title": "707506 - Dental crowns",
+      "conceptLink": "/ec2/concept/5999321"
+    }
+  },
+  {
+    "uri": "en/10/707529",
+    "id": "707529",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental curing lights",
+    "harm": {
+      "id": "0039165",
+      "title": "707529 - Dental curing lights",
+      "conceptLink": "/ec2/concept/5987261"
+    }
+  },
+  {
+    "uri": "en/10/403814",
+    "id": "403814",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental dams",
+    "harm": {
+      "id": "0011804",
+      "title": "403814 - Dental dams",
+      "conceptLink": "/ec2/concept/5962262"
+    }
+  },
+  {
+    "uri": "en/10/707544",
+    "id": "707544",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental descaling apparatus",
+    "harm": {
+      "id": "0027594",
+      "title": "707544 - Dental descaling apparatus",
+      "conceptLink": "/ec2/concept/5976712"
+    }
+  },
+  {
+    "uri": "en/10/707559",
+    "id": "707559",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental drill bits",
+    "harm": {
+      "id": "0044886",
+      "title": "707559 - Dental drill bits",
+      "conceptLink": "/ec2/concept/5992495"
+    }
+  },
+  {
+    "uri": "en/10/164997",
+    "id": "164997",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental drills",
+    "harm": {
+      "id": "0057611",
+      "title": "164997 - Dental drills",
+      "conceptLink": "/ec2/concept/5999116"
+    }
+  },
+  {
+    "uri": "en/10/4107543",
+    "id": "4107543",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental equipment",
+    "harm": {
+      "id": "0059531",
+      "title": "4107543 - Dental equipment",
+      "conceptLink": "/ec2/concept/5998623"
+    }
+  },
+  {
+    "uri": "en/10/403829",
+    "id": "403829",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental examination chairs",
+    "harm": {
+      "id": "0007748",
+      "title": "403829 - Dental examination chairs",
+      "conceptLink": "/ec2/concept/5958544"
+    }
+  },
+  {
+    "uri": "en/10/333859",
+    "id": "333859",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental excavators",
+    "harm": {
+      "id": "0015672",
+      "title": "333859 - Dental excavators",
+      "conceptLink": "/ec2/concept/5965808"
+    }
+  },
+  {
+    "uri": "en/10/333880",
+    "id": "333880",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental foundation supports",
+    "harm": {
+      "id": "0021578",
+      "title": "333880 - Dental foundation supports",
+      "conceptLink": "/ec2/concept/5971198"
+    }
+  },
+  {
+    "uri": "en/10/707574",
+    "id": "707574",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental hand pieces",
+    "harm": {
+      "id": "0004532",
+      "title": "707574 - Dental hand pieces",
+      "conceptLink": "/ec2/concept/5955601"
+    }
+  },
+  {
+    "uri": "en/10/333893",
+    "id": "333893",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental implants",
+    "harm": {
+      "id": "0027194",
+      "title": "333893 - Dental implants",
+      "conceptLink": "/ec2/concept/5976336"
+    }
+  },
+  {
+    "uri": "en/10/137950005",
+    "id": "137950005",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental implants made from artificial materials",
+    "harm": {
+      "id": "0071601",
+      "title": "137950005 - Dental implants made from artificial materials",
+      "conceptLink": "/ec2/concept/6007792"
+    }
+  },
+  {
+    "uri": "en/10/403293",
+    "id": "403293",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental impression trays",
+    "harm": {
+      "id": "0000249",
+      "title": "403293 - Dental impression trays",
+      "conceptLink": "/ec2/concept/5951719"
+    }
+  },
+  {
+    "uri": "en/10/165051",
+    "id": "165051",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental instruments",
+    "harm": {
+      "id": "0035342",
+      "title": "165051 - Dental instruments",
+      "conceptLink": "/ec2/concept/5983788"
+    }
+  },
+  {
+    "uri": "en/10/132756751",
+    "id": "132756751",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental intra-oral cameras",
+    "harm": {
+      "id": "0055903",
+      "title": "132756751 - Dental intra-oral cameras",
+      "conceptLink": "/ec2/concept/5997277"
+    }
+  },
+  {
+    "uri": "en/10/403871",
+    "id": "403871",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental mirrors",
+    "harm": {
+      "id": "0013154",
+      "title": "403871 - Dental mirrors",
+      "conceptLink": "/ec2/concept/5963498"
+    }
+  },
+  {
+    "uri": "en/10/707589",
+    "id": "707589",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental moulding devices",
+    "harm": {
+      "id": "0004533",
+      "title": "707589 - Dental moulding devices",
+      "conceptLink": "/ec2/concept/5955602"
+    }
+  },
+  {
+    "uri": "en/10/403891",
+    "id": "403891",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental onlays",
+    "harm": {
+      "id": "0019456",
+      "title": "403891 - Dental onlays",
+      "conceptLink": "/ec2/concept/5969267"
+    }
+  },
+  {
+    "uri": "en/10/90971065",
+    "id": "90971065",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental picks",
+    "harm": {
+      "id": "0021979",
+      "title": "90971065 - Dental picks",
+      "conceptLink": "/ec2/concept/5971574"
+    }
+  },
+  {
+    "uri": "en/10/137936934",
+    "id": "137936934",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental picks for use in dental treatment",
+    "harm": {
+      "id": "0071602",
+      "title": "137936934 - Dental picks for use in dental treatment",
+      "conceptLink": "/ec2/concept/6007793"
+    }
+  },
+  {
+    "uri": "en/10/707603",
+    "id": "707603",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental picks, other than for personal use",
+    "harm": {
+      "id": "0010235",
+      "title": "707603 - Dental picks, other than for personal use",
+      "conceptLink": "/ec2/concept/5960820"
+    }
+  },
+  {
+    "uri": "en/10/707617",
+    "id": "707617",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental pins",
+    "harm": {
+      "id": "0021978",
+      "title": "707617 - Dental pins",
+      "conceptLink": "/ec2/concept/5971573"
+    }
+  },
+  {
+    "uri": "en/10/165107",
+    "id": "165107",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental posts",
+    "harm": {
+      "id": "0036282",
+      "title": "165107 - Dental posts",
+      "conceptLink": "/ec2/concept/5984637"
+    }
+  },
+  {
+    "uri": "en/10/707631",
+    "id": "707631",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental probes",
+    "harm": {
+      "id": "0021979",
+      "title": "707631 - Dental probes",
+      "conceptLink": "/ec2/concept/5971574"
+    }
+  },
+  {
+    "uri": "en/10/165147",
+    "id": "165147",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental prostheses",
+    "harm": {
+      "id": "0027642",
+      "title": "165147 - Dental prostheses",
+      "conceptLink": "/ec2/concept/5976758"
+    }
+  },
+  {
+    "uri": "en/10/120894670",
+    "id": "120894670",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental prostheses in the form of inlays",
+    "harm": {
+      "id": "0066113",
+      "title": "120894670 - Dental prostheses in the form of inlays",
+      "conceptLink": "/ec2/concept/6002316"
+    }
+  },
+  {
+    "uri": "en/10/707647",
+    "id": "707647",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental root posts",
+    "harm": {
+      "id": "0016055",
+      "title": "707647 - Dental root posts",
+      "conceptLink": "/ec2/concept/5966172"
+    }
+  },
+  {
+    "uri": "en/10/707479",
+    "id": "707479",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental shade guides",
+    "harm": {
+      "id": "0044885",
+      "title": "707479 - Dental shade guides",
+      "conceptLink": "/ec2/concept/5992494"
+    }
+  },
+  {
+    "uri": "en/10/707663",
+    "id": "707663",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental spectrocolorimeters",
+    "harm": {
+      "id": "0010236",
+      "title": "707663 - Dental spectrocolorimeters",
+      "conceptLink": "/ec2/concept/5960821"
+    }
+  },
+  {
+    "uri": "en/10/707676",
+    "id": "707676",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental spectrocolormeters for determining colours of dental prostheses",
+    "harm": {
+      "id": "0043925",
+      "title": "707676 - Dental spectrocolormeters for determining colours of dental prostheses",
+      "conceptLink": "/ec2/concept/5991614"
+    }
+  },
+  {
+    "uri": "en/10/707689",
+    "id": "707689",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental syringes",
+    "harm": {
+      "id": "0032363",
+      "title": "707689 - Dental syringes",
+      "conceptLink": "/ec2/concept/5981070"
+    }
+  },
+  {
+    "uri": "en/10/165052",
+    "id": "165052",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental tools",
+    "harm": {
+      "id": "0035342",
+      "title": "165052 - Dental tools",
+      "conceptLink": "/ec2/concept/5983788"
+    }
+  },
+  {
+    "uri": "en/10/403906",
+    "id": "403906",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental tray covers made of paper",
+    "harm": {
+      "id": "0002033",
+      "title": "403906 - Dental tray covers made of paper",
+      "conceptLink": "/ec2/concept/5953315"
+    }
+  },
+  {
+    "uri": "en/10/707706",
+    "id": "707706",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental x-ray apparatus",
+    "harm": {
+      "id": "0015113",
+      "title": "707706 - Dental x-ray apparatus",
+      "conceptLink": "/ec2/concept/5965291"
+    }
+  },
+  {
+    "uri": "en/10/707718",
+    "id": "707718",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental x-ray film duplicators",
+    "harm": {
+      "id": "0003514",
+      "title": "707718 - Dental x-ray film duplicators",
+      "conceptLink": "/ec2/concept/5954665"
+    }
+  },
+  {
+    "uri": "en/10/707733",
+    "id": "707733",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental x-ray film hangers",
+    "harm": {
+      "id": "0020945",
+      "title": "707733 - Dental x-ray film hangers",
+      "conceptLink": "/ec2/concept/5970627"
+    }
+  },
+  {
+    "uri": "en/10/707744",
+    "id": "707744",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dental x-ray mouth props",
+    "harm": {
+      "id": "0038195",
+      "title": "707744 - Dental x-ray mouth props",
+      "conceptLink": "/ec2/concept/5986375"
+    }
+  },
+  {
+    "uri": "en/10/164187",
+    "id": "164187",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dentists' armchairs",
+    "harm": {
+      "id": "0007748",
+      "title": "164187 - Dentists' armchairs",
+      "conceptLink": "/ec2/concept/5958544"
+    }
+  },
+  {
+    "uri": "en/10/164185",
+    "id": "164185",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dentists' chairs",
+    "harm": {
+      "id": "0007748",
+      "title": "164185 - Dentists' chairs",
+      "conceptLink": "/ec2/concept/5958544"
+    }
+  },
+  {
+    "uri": "en/10/707758",
+    "id": "707758",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Denture parts",
+    "harm": {
+      "id": "0003515",
+      "title": "707758 - Denture parts",
+      "conceptLink": "/ec2/concept/5954666"
+    }
+  },
+  {
+    "uri": "en/10/165145",
+    "id": "165145",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dentures",
+    "harm": {
+      "id": "0027642",
+      "title": "165145 - Dentures",
+      "conceptLink": "/ec2/concept/5976758"
+    }
+  },
+  {
+    "uri": "en/10/403918",
+    "id": "403918",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dermabraders",
+    "harm": {
+      "id": "0030900",
+      "title": "403918 - Dermabraders",
+      "conceptLink": "/ec2/concept/5979759"
+    }
+  },
+  {
+    "uri": "en/10/707788",
+    "id": "707788",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Detecting instruments for veterinary use",
+    "harm": {
+      "id": "0009250",
+      "title": "707788 - Detecting instruments for veterinary use",
+      "conceptLink": "/ec2/concept/5959924"
+    }
+  },
+  {
+    "uri": "en/10/707772",
+    "id": "707772",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Detecting instruments for medical use",
+    "harm": {
+      "id": "0038196",
+      "title": "707772 - Detecting instruments for medical use",
+      "conceptLink": "/ec2/concept/5986376"
+    }
+  },
+  {
+    "uri": "en/10/707801",
+    "id": "707801",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Detectors for medical applications",
+    "harm": {
+      "id": "0043926",
+      "title": "707801 - Detectors for medical applications",
+      "conceptLink": "/ec2/concept/5991615"
+    }
+  },
+  {
+    "uri": "en/10/333917",
+    "id": "333917",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Devices for measuring blood sugar",
+    "harm": {
+      "id": "0019449",
+      "title": "333917 - Devices for measuring blood sugar",
+      "conceptLink": "/ec2/concept/5969261"
+    }
+  },
+  {
+    "uri": "en/10/119531507",
+    "id": "119531507",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Devices for measuring intracranial pressure",
+    "harm": {
+      "id": "0055904",
+      "title": "119531507 - Devices for measuring intracranial pressure",
+      "conceptLink": "/ec2/concept/5997278"
+    }
+  },
+  {
+    "uri": "en/10/707813",
+    "id": "707813",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Devices [oral irrigators] for use by dentists in washing the gums",
+    "harm": {
+      "id": "0020946",
+      "title": "707813 - Devices [oral irrigators] for use by dentists in washing the gums",
+      "conceptLink": "/ec2/concept/5970628"
+    }
+  },
+  {
+    "uri": "en/10/893657",
+    "id": "893657",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic apparatus for pregnancy testing",
+    "harm": {
+      "id": "0008090",
+      "title": "893657 - Diagnostic apparatus for pregnancy testing",
+      "conceptLink": "/ec2/concept/5958862"
+    }
+  },
+  {
+    "uri": "en/10/120895708",
+    "id": "120895708",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic apparatus for the detection of abnormal prion protein",
+    "harm": {
+      "id": "0066131",
+      "title": "120895708 - Diagnostic apparatus for the detection of abnormal prion protein",
+      "conceptLink": "/ec2/concept/6002334"
+    }
+  },
+  {
+    "uri": "en/10/169365",
+    "id": "169365",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic apparatus for medical purposes",
+    "harm": {
+      "id": "0029492",
+      "title": "169365 - Diagnostic apparatus for medical purposes",
+      "conceptLink": "/ec2/concept/5978456"
+    }
+  },
+  {
+    "uri": "en/10/120918947",
+    "id": "120918947",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic, examination, and monitoring equipment",
+    "harm": {
+      "id": "0047786",
+      "title": "120918947 - Diagnostic, examination, and monitoring equipment",
+      "conceptLink": "/ec2/concept/5995061"
+    }
+  },
+  {
+    "uri": "en/10/707833",
+    "id": "707833",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic fingercots",
+    "harm": {
+      "id": "0020947",
+      "title": "707833 - Diagnostic fingercots",
+      "conceptLink": "/ec2/concept/5970629"
+    }
+  },
+  {
+    "uri": "en/10/707834",
+    "id": "707834",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic fingerstalls",
+    "harm": {
+      "id": "0020947",
+      "title": "707834 - Diagnostic fingerstalls",
+      "conceptLink": "/ec2/concept/5970629"
+    }
+  },
+  {
+    "uri": "en/10/707853",
+    "id": "707853",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic imaging apparatus for medical use",
+    "harm": {
+      "id": "0043360",
+      "title": "707853 - Diagnostic imaging apparatus for medical use",
+      "conceptLink": "/ec2/concept/5991090"
+    }
+  },
+  {
+    "uri": "en/10/707868",
+    "id": "707868",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic instruments for ophthalmology",
+    "harm": {
+      "id": "0014508",
+      "title": "707868 - Diagnostic instruments for ophthalmology",
+      "conceptLink": "/ec2/concept/5964743"
+    }
+  },
+  {
+    "uri": "en/10/169366",
+    "id": "169366",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic instruments for medical use",
+    "harm": {
+      "id": "0029492",
+      "title": "169366 - Diagnostic instruments for medical use",
+      "conceptLink": "/ec2/concept/5978456"
+    }
+  },
+  {
+    "uri": "en/10/707882",
+    "id": "707882",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic measuring apparatus for medical use",
+    "harm": {
+      "id": "0031803",
+      "title": "707882 - Diagnostic measuring apparatus for medical use",
+      "conceptLink": "/ec2/concept/5980563"
+    }
+  },
+  {
+    "uri": "en/10/707898",
+    "id": "707898",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic test kits for the detection of haemoglobin in faeces",
+    "harm": {
+      "id": "0031804",
+      "title": "707898 - Diagnostic test kits for the detection of haemoglobin in faeces",
+      "conceptLink": "/ec2/concept/5980564"
+    }
+  },
+  {
+    "uri": "en/10/707913",
+    "id": "707913",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic testing apparatus for use in immunoassay procedures [medical]",
+    "harm": {
+      "id": "0002938",
+      "title": "707913 - Diagnostic testing apparatus for use in immunoassay procedures [medical]",
+      "conceptLink": "/ec2/concept/5954134"
+    }
+  },
+  {
+    "uri": "en/10/707914",
+    "id": "707914",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic testing instruments for use in immunoassay procedure [medical]",
+    "harm": {
+      "id": "0002938",
+      "title": "707914 - Diagnostic testing instruments for use in immunoassay procedure [medical]",
+      "conceptLink": "/ec2/concept/5954134"
+    }
+  },
+  {
+    "uri": "en/10/707942",
+    "id": "707942",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic ultrasound apparatus for medical use",
+    "harm": {
+      "id": "0031805",
+      "title": "707942 - Diagnostic ultrasound apparatus for medical use",
+      "conceptLink": "/ec2/concept/5980565"
+    }
+  },
+  {
+    "uri": "en/10/707944",
+    "id": "707944",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diagnostic ultrasound instruments for medical use",
+    "harm": {
+      "id": "0031805",
+      "title": "707944 - Diagnostic ultrasound instruments for medical use",
+      "conceptLink": "/ec2/concept/5980565"
+    }
+  },
+  {
+    "uri": "en/10/169752",
+    "id": "169752",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dialysers",
+    "harm": {
+      "id": "0042636",
+      "title": "169752 - Dialysers",
+      "conceptLink": "/ec2/concept/5990435"
+    }
+  },
+  {
+    "uri": "en/10/403931",
+    "id": "403931",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dialysis machines for medical use",
+    "harm": {
+      "id": "0042470",
+      "title": "403931 - Dialysis machines for medical use",
+      "conceptLink": "/ec2/concept/5990290"
+    }
+  },
+  {
+    "uri": "en/10/707976",
+    "id": "707976",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dialysis membranes",
+    "harm": {
+      "id": "0020341",
+      "title": "707976 - Dialysis membranes",
+      "conceptLink": "/ec2/concept/5970071"
+    }
+  },
+  {
+    "uri": "en/10/169753",
+    "id": "169753",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Dialyzers",
+    "harm": {
+      "id": "0042636",
+      "title": "169753 - Dialyzers",
+      "conceptLink": "/ec2/concept/5990435"
+    }
+  },
+  {
+    "uri": "en/10/403943",
+    "id": "403943",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diaphragms for contraception",
+    "harm": {
+      "id": "0042471",
+      "title": "403943 - Diaphragms for contraception",
+      "conceptLink": "/ec2/concept/5990291"
+    }
+  },
+  {
+    "uri": "en/10/333942",
+    "id": "333942",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diaphyseal plugs",
+    "harm": {
+      "id": "0027195",
+      "title": "333942 - Diaphyseal plugs",
+      "conceptLink": "/ec2/concept/5976337"
+    }
+  },
+  {
+    "uri": "en/10/707989",
+    "id": "707989",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Diathermic handles for medical use",
+    "harm": {
+      "id": "0014509",
+      "title": "707989 - Diathermic handles for medical use",
+      "conceptLink": "/ec2/concept/5964744"
+    }
+  },
+  {
+    "uri": "en/10/708002",
+    "id": "708002",
+    "lang": "en",
+    "classNumber": "10",
+    "term": "Digital electronic sphygmomanometers",
+    "harm": {
+      "id": "0031806",
+      "title": "708002 - Digital electronic sphygmomanometers",
+      "conceptLink": "/ec2/concept/5980566"
+    }
+  }
+]
