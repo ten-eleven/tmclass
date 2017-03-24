@@ -12,6 +12,7 @@
     "co": "^4.6.0",
     "es6-promisify-all": "^0.1.0",
     "jsdom": "^9.11.0",
+    "json2csv": "^3.7.3",
     "lodash": "^4.17.4",
     "spur-common": "^1.0.1",
     "spur-ioc": "^0.2.5"
