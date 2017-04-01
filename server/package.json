@@ -10,12 +10,16 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
+    "cords": "^1.0.4",
+    "cors": "^2.8.3",
+    "elasticsearch": "^12.1.3",
     "es6-promisify-all": "^0.1.0",
     "jsdom": "^9.11.0",
     "json2csv": "^3.7.3",
     "lodash": "^4.17.4",
     "spur-common": "^1.0.1",
-    "spur-ioc": "^0.2.5"
+    "spur-ioc": "^0.2.5",
+    "spur-web": "^1.0.0"
   },
   "devDependencies": {
     "jasmine": "^2.5.3",
