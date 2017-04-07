@@ -9,7 +9,8 @@ jasmine.getEnv().addReporter(new SpecReporter({}))
 
 global.injector = injector
 
-jasmine.DEFAULT_TIMEOUT_INTERVAL = 30000000
+jasmine.DEFAULT_TIMEOUT_INTERVAL = 300000000
+jasmine.getEnv().defaultTimeoutInterval = jasmine.DEFAULT_TIMEOUT_INTERVAL
 
 process.setMaxListeners(0)
 process.stdout.setMaxListeners(0)

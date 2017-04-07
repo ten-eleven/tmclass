@@ -2,7 +2,7 @@
 let bodyParser = require('body-parser')
 let cors = require('cors')
 
-module.exports = function(BaseWebServer, TMClassSearcher, co){
+module.exports = function(BaseWebServer, TMClassSearcher, co, path, express){
 
 
   return new class WebServer extends BaseWebServer {
@@ -17,6 +17,8 @@ module.exports = function(BaseWebServer, TMClassSearcher, co){
           return yield TMClassSearcher.search(req.body.query || '')
         }))
       })
+      this.app.use('/', express.static(path.join(__dirname, "../../../client/build")))
+
     }
   }
 }

@@ -5,7 +5,7 @@ module.exports = function(TMClassIndexer){
 
     * search(description){
 
-      description = description.replace(/\.\s?$/, "")
+      description = description.replace(/[\.;]\s?$/, "")
       let segments = _.flatten(_.map(description.split(";"), (segment)=> {
         return segment.split(/,\s?/g)
       })).map(_.trim)

@@ -1,10 +1,11 @@
-module.exports = function(fsPromise, dataFolder, path,  elasticsearch){
+module.exports = function(config, fsPromise, dataFolder, path,  elasticsearch){
   return new class TMClassIndexer {
 
     constructor(){
       this.client = new elasticsearch.Client({
-        host: 'localhost:9200',
-        log: 'info'
+        host: config.elastic.host,
+        log: 'info',
+        requestTimeout:300000000
       });
     }
 

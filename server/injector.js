@@ -6,6 +6,8 @@ let spurCommon = require("spur-common")
 let registerConfig = require("spur-common/registerConfig")
 let promisifyAll = require("es6-promisify-all")
 let path = require("path")
+let DependencyResolver = require("spur-ioc/lib/DependencyResolver")
+DependencyResolver.prototype.cleanStack = function(){}
 
 module.exports = function () {
 
